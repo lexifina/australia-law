@@ -1,0 +1,31 @@
+# 11B Electronic lodgment of approved forms
+
+(1) If a person gives the Regulator an approved form in a way that is required or permitted as mentioned in paragraph 11A(3)(b):
+
+(a) the form is taken to constitute a written notice; and
+
+(b) if the form includes the electronic signature of a person—the form is taken to be signed by that person.
+
+(2) The person’s electronic signature is a unique identification, in an electronic form, that is approved by the Regulator for use by the person.
+
+(3) A person is guilty of an offence if:
+
+(a) the person gives the Regulator an approved form in a way that is required or permitted as mentioned in paragraph 11A(3)(b); and
+
+(b) either:
+
+(i) the form purports to be given by another person; or
+
+(ii) the form purports to be given on behalf of another person, and that other person has not consented to the giving of the form.
+
+Maximum penalty: 50 penalty units.
+
+(4) A person is guilty of an offence if:
+
+(a) the person gives the Regulator an approved form in a way that is required or permitted as mentioned in paragraph 11A(3)(b); and
+
+(b) the form includes the electronic signature of another person who has not consented to the inclusion of the signature.
+
+Maximum penalty: 50 penalty units.
+
+(5) Subsections (3) and (4) are offences of strict liability within the meaning of section 6.1 of the Criminal Code.

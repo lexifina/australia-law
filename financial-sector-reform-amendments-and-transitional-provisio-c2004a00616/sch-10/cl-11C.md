@@ -1,0 +1,31 @@
+# 11C Declaration required if approved form lodged electronically on trustee’s behalf
+
+(1) This section applies if:
+
+(a) the Regulator is given an approved form in a way that is required or permitted as mentioned in paragraph 11A(3)(b); and
+
+(b) the form is given to the Regulator by a person on behalf of the trustee, or one or more of the trustees, of a superannuation entity.
+
+In this section, the trustee, or each of the trustees, on whose behalf the form is given is referred to as the responsible trustee.
+
+(2) The responsible trustee is guilty of an offence if the responsible trustee does not, before the form is given to the Regulator, make a signed declaration that states that:
+
+(a) the person is authorised to give the form to the Regulator on the responsible trustee’s behalf; and
+
+(b) the information in the form is correct.
+
+Maximum penalty: 50 penalty units.
+
+(3) The responsible trustee is guilty of an offence if the responsible trustee does not retain the declaration for 5 years after it is made.
+
+Maximum penalty: 50 penalty units.
+
+(4) The responsible trustee is guilty of an offence if:
+
+(a) within the 5 year period, the Regulator requests the responsible trustee to produce the declaration to the Regulator; and
+
+(b) the responsible trustee does not comply with the request.
+
+Maximum penalty: 50 penalty units.
+
+(5) Subsections (2), (3) and (4) are offences of strict liability within the meaning of section 6.1 of the Criminal Code.
