@@ -1,4 +1,4 @@
-## Schedule—Repeal of Acts
+## Schedule 1—Repeal of Acts
 
 Section 3
 
