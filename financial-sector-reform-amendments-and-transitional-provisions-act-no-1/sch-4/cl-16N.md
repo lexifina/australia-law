@@ -1,0 +1,9 @@
+# 16N When benefit fund rules approved by APRA come into force
+
+Benefit fund rules approved by APRA under section 16L come into force on the later of the following days:
+
+(a) the day on which a copy of the rules is lodged with ASIC;
+
+(b) the day (if any) specified in the rules as the day on which they are to come into force;
+
+(c) if the company that applied for approval of the rules was not a friendly society on the day on which the application was made—the day on which the company becomes a friendly society.

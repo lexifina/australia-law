@@ -1,0 +1,17 @@
+# 16ZB Certain friendly societies may continue to carry on health insurance business—modified operation of this Act
+
+(1) A friendly society:
+
+(a) that is taken to be registered under this Act because of item 11 of Schedule 8 to the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999; and
+
+(b) that was carrying on health insurance business immediately before being taken to be so registered;
+
+may continue to carry on that health insurance business after being taken to be so registered.
+
+(2) A reference in this Act to a jointly regulated friendly society is a reference to a friendly society that carries on life insurance business and that also carries on health insurance business in accordance with subsection (1).
+
+Note: The society’s life insurance business is regulated under this Act, while its health insurance business is regulated under the National Health Act 1953.
+
+(3) Section 234 has effect subject to subsection (1) of this section.
+
+(4) Without limiting the matters that may be dealt with in regulations under section 16ZC, regulations under that section may set out modifications of this Act as it applies in relation to jointly regulated friendly societies.

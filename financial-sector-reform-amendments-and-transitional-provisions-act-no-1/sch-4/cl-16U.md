@@ -1,0 +1,33 @@
+# 16U Approval of consequential amendments of company’s constitution
+
+(1) An application:
+
+(a) by a company under section 16L for approval of benefit fund rules; or
+
+(b) by a company under section 16Q for approval of a proposed amendment of approved benefit fund rules;
+
+may also include an application for approval of proposed amendments (the consequential amendments) of the constitution of the company that are consequential on the proposed benefit fund rules or amendment of benefit fund rules.
+
+Note: This covers applications by friendly societies, all of which are companies.
+
+(2) The application for approval of the consequential amendments must be accompanied by a copy of the consequential amendments and must comply with any applicable requirements in Prudential Rules.
+
+(3) APRA may approve the consequential amendments if APRA is satisfied that the changes proposed to be made by the consequential amendments:
+
+(a) are consequential on the proposed benefit fund rules or amendment of benefit fund rules; and
+
+(b) do not also deal with other matters.
+
+APRA may consult ASIC in considering the matters referred to in paragraphs (a) and (b). APRA must give the company written notice of its decision whether to approve the consequential amendments.
+
+(4) The company is guilty of an offence if:
+
+(a) APRA has approved the consequential amendments; and
+
+(b) Prudential Rules require the company to notify some or all of its members of the consequential amendments; and
+
+(c) the company does not notify those members of the consequential amendments in accordance with that requirement.
+
+Maximum penalty for contravention of this subsection: 50 penalty units.
+
+Note: If a body corporate is convicted of an offence against this subsection, subsection 4B(3) of the Crimes Act 1914 allows a court to impose a fine of up to 5 times the penalty stated above.
