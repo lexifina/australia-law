@@ -14,4 +14,4 @@ Merit Protection (Australian Government Employees) Act 1984
 
 Ombudsman Act 1976
 
-For access to the wording of the amendments made by this Schedule, click here [Privacy Act 1988 No. 119, 1988].
+For access to the wording of the amendments made by this Schedule, see Act No. 119, 1988.
