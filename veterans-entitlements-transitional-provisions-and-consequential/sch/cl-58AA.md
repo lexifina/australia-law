@@ -1,0 +1,9 @@
+# 58AA Multiple offences
+
+(1) Charges against the same person for any number of offences against section 58, may be joined in one complaint or information if those charges are founded on the same facts, or form, or are part of, a series of offences of the same or a similar character.
+
+(2) Where 2 or more charges are included in the same complaint or information, particulars of each offence charged shall be set out in a separate paragraph.
+
+(3) All charges so joined shall be tried together unless the court deems it just that any charge should be tried separately and makes an order to that effect.
+
+(4) If a person is convicted of more than one offence against section 58, the court may, if it thinks fit, impose one penalty in respect of all the offences of which the person is convicted, but that penalty shall not exceed the sum of the maximum penalties that could be imposed if penalties were imposed for each offence separately.
