@@ -1,0 +1,1 @@
+An Act to make special provision for the granting of pensions and other benefits to certain indigenous Inhabitants of Papua New Guinea who served in the Defence Force during the War and their dependants, and for purposes connected therewith
