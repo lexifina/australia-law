@@ -44,6 +44,10 @@ residual liability means liabilities and duties of the Commission, including con
 
 In spite of the repeal of the Australian National Railways Commission Act 1983 by this Schedule, that Act continues to apply in relation to residual assets and residual liabilities as if those residual assets and residual liabilities were assets and liabilities transferred to the Commonwealth under section 67AE or 67AG of that Act.
 
+4A Registration of transfers after repeal
+
+Despite the repeal of the Australian National Railways Commission Act 1983 by this Schedule, section 67AZJ of that Act continues to apply, in relation to any right, title or interest in land that vested in a person under section 67AE or 67AM of that Act before its repeal, as if the repeal had not happened.
+
 5 Pending proceedings
 
 If, immediately before the repeal day, proceedings to which the Commission was a party are pending in a court, then, on and after the repeal day, the Commonwealth is substituted for the Commission in the proceedings and has the same rights and obligations as the Commission would have had in the proceedings.
@@ -54,7 +58,7 @@ Seat of Government Railway Act 1928
 
 Repeal the Act.
 
-Port Augusta to Whyalla Railway Agreement Act 1970
+Port Augusta to Whyalla Railway Act 1970
 
 7 The whole of the Act
 
