@@ -14,6 +14,10 @@
 
 (b) providing for aviation security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
 
+(ba) providing for airport security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
+
+(bb) providing for ASIC programs and international cargo security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act, or as such other programs under the new Act as are prescribed by the regulations; and
+
 (c) for other transitional measures in relation to the transition from the old Act to the new Act.
 
 (3) In this item:
