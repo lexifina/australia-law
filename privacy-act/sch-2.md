@@ -1,4 +1,4 @@
-## Schedule 2—Interim Guidelines Concerning the Collection, Storage, Use and Security of Tax File Number Information
+## Schedule 2—Interim guidelines concerning the collection, storage, use and security of tax file number information
 
 Section 17
 
