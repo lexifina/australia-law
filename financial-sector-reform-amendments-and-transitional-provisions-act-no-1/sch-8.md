@@ -641,15 +641,3 @@ replaced legislation means:
 23 Power to make regulations
 
 The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
-
-I hereby certify that this Bill originated in the House of Representatives and has been finally passed by the Senate and the House of Representatives.
-
-Clerk of the House of Representatives
-
-In the name of Her Majesty, I assent to this Act.
-
-(32/99)
-
-Governor-General
-
-17 June 1999
