@@ -198,64 +198,6 @@ Foreign Evidence Act 1994
 
 After “under”, insert “the Proceeds of Crime Act 2002 or”.
 
-National Crime Authority Act 1984
-
-33 Subsection 4(1)
-
-Insert:
-
-confiscation proceeding means a proceeding under the Proceeds of Crime Act 1987 or the Proceeds of Crime Act 2002, or under a corresponding law within the meaning of either of those Acts, but does not include a criminal prosecution for an offence under either of those Acts or a corresponding law.
-
-34 Subsection 4(1) (paragraph (d) of the definition of relevant offence)
-
-Omit “that is of a prescribed kind or involves any of the following:”, substitute “that is a serious offence within the meaning of the Proceeds of Crime Act 2002, an offence of a prescribed kind or an offence that involves any of the following:”.
-
-35 Subsection 4(1) (after paragraph (d) of the definition of relevant offence)
-
-Insert:
-
-(da) that is:
-
-(i) punishable by imprisonment for a period of 3 years or more; or
-
-(ii) a serious offence within the meaning of the Proceeds of Crimes Act 2002;
-
-36 Subsection 4(1) (paragraph (g) of the definition of relevant offence)
-
-Repeal the paragraph.
-
-37 After subsection 12(1A)
-
-Insert:
-
-(1B) Where, in carrying out or co-ordinating an investigation in relation to a relevant criminal activity, the Authority obtains evidence that would be admissible in confiscation proceedings, it may assemble the evidence and give it to:
-
-(a) the Attorney-General of the Commonwealth or the State, as the case requires; or
-
-(b) a relevant law enforcement agency; or
-
-(c) any person or authority (other than a law enforcement authority) who is authorised to commence the confiscation proceedings.
-
-38 Subsection 30(5)
-
-Omit all the words from and including “other than a proceeding”, substitute:
-
-other than:
-
-(c) confiscation proceedings; or
-
-(d) a proceeding in respect of:
-
-(i) in the case of an answer—the falsity of the answer; or
-
-(ii) in the case of the production of a document—the falsity of any statement contained in the document.
-
-39 After paragraph 61(2)(e)
-
-Insert:
-
-(ea) the extent to which its investigations have resulted in confiscation proceedings;
-
 National Environment Protection Measures (Implementation) Act 1998
 
 40 At the end of subsection 14(4)
