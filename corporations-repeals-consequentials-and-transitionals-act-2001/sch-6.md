@@ -18,10 +18,6 @@ Repeal the subsection, substitute:
 
 Repeal the note.
 
-4 Subsection 601FC(3)
-
-Omit “section 232”, substitute “section 180, 181, 182, 183 or 184”.
-
 5 At the end of section 601FC
 
 Add:
@@ -46,10 +42,6 @@ Note 2: Subsection (5) is a civil penalty provision (see section 1317E).
 
 Repeal the note.
 
-7 Subsection 601FD(2)
-
-Omit “section 232”, substitute “section 180, 181, 182, 183 or 184”.
-
 8 At the end of section 601FD
 
 Add:
@@ -73,10 +65,6 @@ Note 2: Subsection (3) is a civil penalty provision (see section 1317E).
 9 Subsection 601FE(1) (note)
 
 Repeal the note.
-
-10 Subsection 601FE(2)
-
-Omit “section 232”, substitute “section 180, 181, 182, 183 or 184”.
 
 11 At the end of section 601FE
 
