@@ -29,11 +29,3 @@ In this Schedule:
 APRA means the Australian Prudential Regulation Authority.
 
 Reserve Bank means the Reserve Bank of Australia.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 5 April 2001
-
-Senate on 20 August 2001]
-
-(56/01)
