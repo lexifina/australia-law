@@ -1,0 +1,1 @@
+An Act to establish, from the profits and other assets of Canteens conducted within the Defence Force during the time of war which commenced on 3 September 1939 and from other sources, Trust Funds to be administered in the interests of servicemen, ex-servicemen and their dependants, and for other purposes
