@@ -1,0 +1,9 @@
+# 25K Resignation
+
+A member of the Payments System Board (other than the Governor) may resign his or her appointment by giving a written resignation to:
+
+(a) if he or she is the member referred to in paragraph 25A(b)—the Governor; or
+
+(b) if he or she is the member referred to in paragraph 25A(c)—APRA’s Chief Executive Officer; or
+
+(c) if he or she is a member referred to in paragraph 25A(d)—the Governor-General.

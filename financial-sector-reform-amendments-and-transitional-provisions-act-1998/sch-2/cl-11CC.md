@@ -1,0 +1,23 @@
+# 11CC APRA may direct parties to an industry liquidity contract to comply with the contract
+
+(1) APRA may direct any ADI that is a party to an industry liquidity contract that is certified under section 11CB to carry out, or cease to carry out, specified acts if APRA considers:
+
+(a) that carrying out, or ceasing to carry out, those acts, is necessary in order for the terms of the contract to be fulfilled; and
+
+(b) that the direction is in the interests of the depositors of one or more of the ADIs that are parties to the contract.
+
+The direction must be by notice in writing to the ADI.
+
+(2) The direction may deal with the time by which, or period during which, it is to be complied with.
+
+(3) The ADI has power to comply with the direction despite anything in its constitution or any contract or arrangement to which it is a party.
+
+(4) The direction has effect until:
+
+(a) APRA revokes the direction by notice in writing to the ADI (see subsection (5)); or
+
+(b) APRA revokes the certification of the industry liquidity contract by notice in writing to the ADIs that are parties to it (see subsection (6)).
+
+(5) APRA may revoke the direction if, at the time of the revocation, it considers that the direction is no longer necessary or appropriate.
+
+(6) APRA may revoke the certification of the industry liquidity contract if it considers that it is appropriate to do so for any reason.
