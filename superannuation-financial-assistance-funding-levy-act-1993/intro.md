@@ -1,0 +1,1 @@
+An Act to impose levies on superannuation funds and approved deposit funds for the purpose of funding financial assistance to certain funds that have suffered loss as a result of fraudulent conduct or theft
