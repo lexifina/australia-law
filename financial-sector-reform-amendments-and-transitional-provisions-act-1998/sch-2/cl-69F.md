@@ -1,0 +1,43 @@
+# 69F Severability
+
+Act also has effect as provided in this section
+
+(1) Without prejudice to its effect apart from this section, this Act also has effect as provided by this section.
+
+References to a NOHC of an ADI
+
+(2) This Act has, by force of this subsection, the effect it would have if the Act separately provided as mentioned in the following paragraphs:
+
+(a) the Act has effect as if a reference to a NOHC of an ADI were expressly limited to a reference to a NOHC of an ADI that carries on banking business as mentioned in paragraph (a) of the banking business definition;
+
+(b) the Act has effect as if a reference to a NOHC of an ADI were expressly limited to a reference to a NOHC of an ADI that carries on banking business as mentioned in paragraph (b) of the banking business definition.
+
+References to a subsidiary of an ADI
+
+(3) This Act has, by force of this subsection, the effect it would have if the Act separately provided as mentioned in the following paragraphs:
+
+(a) the Act has effect as if a reference to a subsidiary of an ADI were expressly limited to a reference to a subsidiary of an ADI, being a subsidiary that is a corporation to which paragraph 51(xx) of the Constitution applies;
+
+(b) this Act has effect as if a reference to a subsidiary of an ADI were expressly limited to a reference to a subsidiary of an ADI, being an ADI that carries on banking business as mentioned in paragraph (a) of the banking business definition;
+
+(c) this Act has effect as if a reference to a subsidiary of an ADI were expressly limited to a reference to a subsidiary of an ADI, being an ADI that carries on banking business as mentioned in paragraph (b) of the banking business definition.
+
+References to a subsidiary of an authorised NOHC
+
+(4) This Act has, by force of this subsection, the effect it would have if the Act separately provided as mentioned in the following paragraphs:
+
+(a) the Act has effect as if a reference to a subsidiary of an authorised NOHC were expressly limited to a reference to a subsidiary of an authorised NOHC, being a subsidiary that is a corporation to which paragraph 51(xx) of the Constitution applies;
+
+(b) this Act has effect as if a reference to a subsidiary of an authorised NOHC were expressly limited to a reference to a subsidiary of an authorised NOHC, being a NOHC of an ADI that carries on banking business as mentioned in paragraph (a) of the banking business definition;
+
+(c) this Act has effect as if a reference to a subsidiary of an authorised NOHC were expressly limited to a reference to a subsidiary of an authorised NOHC, being a NOHC of an ADI that carries on banking business as mentioned in paragraph (b) of the banking business definition.
+
+Interpretation
+
+(5) In this section:
+
+banking business definition means the definition of banking business in subsection 5(1).
+
+155 Section 70A
+
+Repeal the section, substitute:
