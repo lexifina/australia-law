@@ -71,21 +71,3 @@ Add “or the Export Market Development Grants Act 1997”.
 17 Subsection 94(5)
 
 Omit “or the Export Market Development Grants Act 1974”, substitute “, the Export Market Development Grants Act 1974 or the Export Market Development Grants Act 1997”.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 27 February 1997
-
-Senate on 20 March 1997]
-
-(20/97)
-
-I HEREBY CERTIFY that the above is a fair print of the Export Market Development Grants (Repeal and Consequential Provisions) Bill 1997 which originated in the House of Representatives and has been finally passed by the Senate and the House of Representatives.
-
-Clerk of the House of Representatives
-
-IN THE NAME OF HER MAJESTY, I assent to this Act.
-
-Governor-General
-
-1997
