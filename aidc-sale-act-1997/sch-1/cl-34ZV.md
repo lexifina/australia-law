@@ -1,0 +1,5 @@
+# 34ZV Relevant employer and co-operation with the Commonwealth
+
+(1) On and after the sale day of AIDC Ltd, AIDC Ltd is taken to be the relevant employer of the employee for the purposes of section 40 of the Safety, Rehabilitation and Compensation Act 1988.
+
+(2) On and after the sale day of AIDC Ltd, AIDC Ltd must provide such reasonable co-operation and assistance as the Commonwealth requires to enable the Commonwealth to fulfil its obligations under sections 36, 37, 38, 39, 41 and 41A of the Safety, Rehabilitation and Compensation Act 1988.

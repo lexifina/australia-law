@@ -1,0 +1,23 @@
+## Division 12—Miscellaneous
+
+# 34N Transfers of land may be registered
+
+(1) This section applies if:
+
+(a) any right, title or interest in particular land vests in a person under section 33K or 33P; and
+
+(b) there is lodged with a land registration official a certificate that:
+
+(i) is signed by the Minister for Finance; and
+
+(ii) identifies the land; and
+
+(iii) states that the right, title or interest has become vested in the person under section 33K or 33P, as the case requires.
+
+(2) The land registration official may:
+
+(a) register the matter in a way that is the same as, or similar to, the way in which dealings in land of that kind are registered; and
+
+(b) deal with, and give effect to, the certificate.
+
+(3) A document that appears to be a certificate under subsection (1) is to be taken to be such a certificate, and to have been properly given, unless the contrary is established.

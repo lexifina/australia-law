@@ -1,0 +1,5 @@
+## Division 14—Transitional: Safety, Rehabilitation and Compensation Act 1988
+
+# 34ZR Definitions
+
+Unless the contrary intention appears, expressions used in this Division that are also used in the Safety, Rehabilitation and Compensation Act 1988 have the same meanings as in that Act.

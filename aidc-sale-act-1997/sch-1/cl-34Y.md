@@ -1,0 +1,5 @@
+# 34Y Commonwealth records
+
+(1) This Part does not authorise a Commonwealth record (within the meaning of the Archives Act 1983) to be transferred or otherwise dealt with except in accordance with the provisions of that Act.
+
+(2) A Commonwealth record (within the meaning of the Archives Act 1983) must not be transferred to a person under this Part unless the Australian Archives has given permission under paragraph 24(2)(b) of the Archives Act 1983.

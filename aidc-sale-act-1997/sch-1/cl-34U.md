@@ -1,0 +1,15 @@
+# 34U Operation of this Part does not place a person in breach of contract etc.
+
+To avoid doubt, the operation of this Part is not to be regarded as:
+
+(a) placing a person in breach of contract or confidence; or
+
+(b) otherwise making a person guilty of a civil wrong; or
+
+(c) placing a person in breach of any contractual provision prohibiting, restricting or regulating:
+
+(i) the assignment or transfer of any asset, liability, right or obligation; or
+
+(ii) the disclosure of any information; or
+
+(d) releasing any surety from any of the surety’s obligations in relation to a liability or obligation that is transferred under this Part.
