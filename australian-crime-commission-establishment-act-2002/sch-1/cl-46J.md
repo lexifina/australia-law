@@ -1,0 +1,7 @@
+# 46J Other terms and conditions—general
+
+An examiner holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor-General in writing.
+
+198 Before section 47
+
+Insert:

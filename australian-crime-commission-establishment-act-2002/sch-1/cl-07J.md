@@ -1,0 +1,15 @@
+# 7J Resolutions outside of Board meetings
+
+(1) This section applies to a resolution:
+
+(a) which, without being considered at a meeting of the Board, is referred to all members of the Board; and
+
+(b) of which:
+
+(i) if subparagraph (ii) does not apply—a majority of those members (not including the CEO); or
+
+(ii) if the resolution is that the Board determine that an intelligence operation is a special operation, or that an investigation into matters relating to federally relevant criminal activity is a special investigation—at least 9 Board members (not including the CEO but including at least 2 eligible Commonwealth Board members);
+
+indicate by telephone or other mode of communication to the Chair of the Board that they are in favour.
+
+(2) The resolution is as valid and effectual as if it had been passed at a meeting of the Board duly convened and held.

@@ -1,0 +1,33 @@
+# 7K Board committees
+
+(1) The Board may, with the unanimous agreement of all the members of the Board (not including the CEO), establish a committee or committees to assist in carrying out the functions of the Board.
+
+(2) The Board may dissolve a committee at any time.
+
+Functions
+
+(3) The functions of a committee are as determined by the unanimous agreement of all the members of the Board (not including the CEO).
+
+(4) However, the Board cannot determine that a committee has the function of determining whether an intelligence operation is a special operation or whether an investigation into matters relating to federally relevant criminal activity is a special investigation.
+
+(5) In performing its functions, a committee must comply with any directions given to the committee by the Board.
+
+Voting
+
+(6) A question arising at a meeting of a committee is to be determined by a majority of the votes of committee members present.
+
+(7) However, the CEO is not entitled to vote on any question arising at a meeting of a committee of which he or she is a member.
+
+Informing other Board members of decisions
+
+(8) A committee must inform the other members of the Board of its decisions.
+
+Conduct of committee meetings
+
+(9) A committee may regulate proceedings at its meetings as it considers appropriate.
+
+(10) A committee must ensure that minutes of its meetings are kept.
+
+36 Before section 8
+
+Insert:
