@@ -1,0 +1,1 @@
+An Act to enact transitional provisions, and to repeal some Acts and amend others, because of the enactment of the Telecommunications Act 1991, the Australian and Overseas Telecommunications Corporation Act 1991 and associated Acts
