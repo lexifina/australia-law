@@ -1,0 +1,13 @@
+# 34B Enforcement of foreign forfeiture orders
+
+(1) A foreign forfeiture order registered in a court under this Subdivision has effect, and may be enforced, as if it were a forfeiture order made by the court under the Proceeds of Crime Act at the time of registration.
+
+(2) In particular, section 68 of the Proceeds of Crime Act 2002 applies in relation to the forfeiture order as if:
+
+(a) the reference in subparagraph 68(1)(b)(i) of that Act to the DPP having applied for the order were a reference to the foreign forfeiture order having been made; and
+
+(b) subparagraph 68(1)(b)(ii) of that Act did not apply if the person in question died after the DPP applied for registration of the order under section 34A of this Act.
+
+(3) Subject to section 34C, property that is subject to a foreign forfeiture order registered under this Subdivision may be disposed of, or otherwise dealt with, in accordance with any direction of the Attorney-General or of a person authorised by the Attorney-General in writing for the purposes of this subsection.
+
+(4) Sections 69 and 70 and Divisions 5 to 7 of Part 2-2 of the Proceeds of Crime Act do not apply in relation to a foreign forfeiture order registered under this Subdivision.

@@ -1,0 +1,27 @@
+# 90N Court to stay property or spousal maintenance proceedings affected by proceeds of crime orders etc.
+
+(1) A court in which property settlement or spousal maintenance proceedings are pending must stay those proceedings if notified under section 90M in relation to the proceedings.
+
+(1A) The court may, before staying proceedings under subsection (1), invite or require the DPP to make submissions relating to staying the proceedings.
+
+(2) A court must, on the application of the DPP, stay property settlement or spousal maintenance proceedings under this Part if the property of the parties to the marriage or either of them is covered by:
+
+(a) a proceeds of crime order; or
+
+(b) a forfeiture application.
+
+(3) A court must notify the DPP if the court stays property settlement or spousal maintenance proceedings under subsection (1) or (2).
+
+(4) The DPP must notify the Registry Manager if:
+
+(a) a proceeds of crime order ceases to be in force; or
+
+(b) a forfeiture application is finally determined.
+
+(5) For the purposes of subsection (4), a forfeiture application is taken to be finally determined when:
+
+(a) the application is withdrawn; or
+
+(b) if the application is successful—the resulting forfeiture order comes into force; or
+
+(c) if the application is unsuccessful—the time within which an appeal can be made has expired and any appeals have been finally determined or otherwise disposed of.

@@ -1,0 +1,23 @@
+# 34S Contents of notices to financial institutions
+
+The notice must:
+
+(a) state that the officer giving the notice believes that the notice is required:
+
+(i) to determine whether to take any action under this Division, or under the Proceeds of Crime Act in connection with the operation of this Division; or
+
+(ii) in relation to proceedings under this Division, or under the Proceeds of Crime Act in connection with the operation of this Division;
+
+(as the case requires); and
+
+(b) specify the name of the financial institution; and
+
+(c) specify the kind of information or documents required to be provided; and
+
+(d) specify the form and manner in which that information or those documents are to be provided; and
+
+(e) state that the information or documents must be provided within 14 days of the notice; and
+
+(f) if the notice specifies that information about the notice must not be disclosed—set out the effect of section 34V (disclosing existence or nature of a notice); and
+
+(g) set out the effect of section 34W (failing to comply with a notice).

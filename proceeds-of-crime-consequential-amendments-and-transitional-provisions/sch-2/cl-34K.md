@@ -1,0 +1,25 @@
+# 34K Applying for and making restraining orders
+
+(1) If so authorised, the DPP may apply for such a restraining order against that property in respect of the offence.
+
+(2) Part 2-1 of the Proceeds of Crime Act applies to the application, and to any restraining order made as a result.
+
+(3) It applies as if:
+
+(a) references in that Part to an indictable offence were references to the foreign serious offence; and
+
+(b) references in that Part to a court with proceeds jurisdiction were references to the court specified in the DPP’s authorisation under section 34J of this Act; and
+
+(c) in a case to which subparagraph 34J(1)(a)(i) applies:
+
+(i) references in that Part to a person charged with an indictable offence were references to a person against whom a criminal proceeding in respect of a foreign serious offence has commenced in a foreign country; and
+
+(ii) references in that Part to it being proposed to charge a person with an indictable offence were a reference to it being reasonably suspected that criminal proceedings are about to commence in respect of a foreign serious offence against the person in a foreign country; and
+
+(iii) paragraphs 17(1)(e) and (f), subsections 17(3) and (4) and sections 18 to 20, 29, 44 and 45 of that Act were omitted; and
+
+(d) in a case to which subparagraph 34J(1)(a)(ii) applies in relation to a foreign country:
+
+(i) references in that Part to reasonable grounds to suspect that a person has committed a serious offence were references to reasonable grounds to suspect that such proceedings have commenced, or are about to commence, in the foreign country; and
+
+(ii) section 17, paragraphs 18(1)(e) and (f), subsection 18(3) and sections 19, 20, 29, 44 and 45 of that Act were omitted.

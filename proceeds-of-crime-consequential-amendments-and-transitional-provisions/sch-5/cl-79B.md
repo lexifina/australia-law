@@ -1,0 +1,37 @@
+# 79B Notification of proceeds of crime orders etc.
+
+(1) If:
+
+(a) a person makes an application for an order, under this Part, with respect to:
+
+(i) the property of the parties to a marriage or either of them; or
+
+(ii) the maintenance of a party to a marriage; and
+
+(b) the person knows that the property of the parties to the marriage or either of them is covered by:
+
+(i) a proceeds of crime order; or
+
+(ii) a forfeiture application;
+
+the person must:
+
+(c) disclose in the application the proceeds of crime order or forfeiture application; and
+
+(d) give to the court a sealed copy of that order or application.
+
+(2) A person who does not comply with subsection (1) commits an offence punishable, on conviction, by a fine not exceeding 50 penalty units.
+
+(3) If:
+
+(a) a person is a party to property settlement or spousal maintenance proceedings under this Part; and
+
+(b) the person is notified by the DPP that the property of the parties to the marriage or either of them is covered by:
+
+(i) a proceeds of crime order; or
+
+(iii) a forfeiture application;
+
+the person must notify the Registry Manager in writing of the proceeds of crime order or forfeiture application.
+
+(4) A person who does not comply with subsection (3) commits an offence punishable, on conviction, by a fine not exceeding 50 penalty units.
