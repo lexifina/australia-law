@@ -6,7 +6,7 @@ Introduction
 
 A breach of these guidelines amounts to an interference with the privacy of an individual giving rise to a right to complain to the Privacy Commissioner and a right to seek compensation.
 
-1. General
+1 General
 
 1.1 The tax file number is not to be used as a national identification system by whatever means.
 
@@ -24,7 +24,7 @@ A breach of these guidelines amounts to an interference with the privacy of an i
 
 together with information as to where detailed particulars relating to these matters can be obtained.
 
-2. Collection of tax file number information
+2 Collection of tax file number information
 
 2.1 Tax file number recipients shall take all reasonable steps in the circumstances to ensure that staff whose duties include collecting tax file number information are informed of:
 
@@ -36,7 +36,7 @@ together with information as to where detailed particulars relating to these mat
 
 2.2 Tax file number recipients collecting tax file number information shall take all reasonable steps in the circumstances to ensure that the manner of collection takes account of the rights of persons to control the accumulation and dissemination of information relating to themselves.
 
-3. Storage and security of tax file number information
+3 Storage and security of tax file number information
 
 3.1 Tax file number recipients shall take all reasonable steps in the circumstances to:
 
@@ -50,7 +50,7 @@ together with information as to where detailed particulars relating to these mat
 
 3.3 Tax file number recipients shall take all reasonable steps in the circumstances to ensure that access to records which contain tax file number information for authorised purposes is confined to persons who have a need for access to such information for the purpose of carrying out tax-related functions of the tax file number recipient.
 
-4. Use and disclosure of tax file number information
+4 Use and disclosure of tax file number information
 
 4.1 Tax file number recipients shall take all reasonable steps in the circumstances to ensure that staff with access to tax file number information are informed of the prohibitions on the use and disclosure of such information and of the penalties that apply to breach of those prohibitions.
 
@@ -64,15 +64,15 @@ together with information as to where detailed particulars relating to these mat
 
 (c) Government agencies, including the Commissioner of Taxation, shall not directly or indirectly disclose tax file number information or use tax file number information to cross-match information about a person, except in authorised circumstances, for example, disclosure to an agency or person in specified cases expressly approved by the Parliament under sections 16 and 16A of the Income Tax Assessment Act 1936 or otherwise.
 
-5. Publicity
+5 Publicity
 
 5.1 Publication by the Commissioner of Taxation pursuant to guideline 1.3 shall be made prior to any obligation to quote a tax file number arising as a result of the Taxation Laws Amendment (Tax File Numbers) Act 1988.
 
-6. Cessation of employment and investment
+6 Cessation of employment and investment
 
 6.1 Tax file number recipients shall destroy tax file number information held by them as employers or as investment bodies in relation to their former employees/investors in accordance with guidelines issued by the Privacy Commissioner.
 
-7. Meaning of terms in interim guidelines
+7 Meaning of terms in interim guidelines
 
 7.1 Tax file number recipient means file number recipient.
 
