@@ -1,0 +1,1 @@
+An Act to provide for the appointment of a Supervising Scientist for the purpose of protecting the environment in the Alligator Rivers Region of the Northern Territory from the effects of mining operations, and for other purposes
