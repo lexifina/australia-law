@@ -119,23 +119,3 @@ Commonwealth agency means:
 designated agency, in relation to a notice, means the Commonwealth agency specified in the notice as the designated agency in relation to the notice.
 
 just terms has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-(62/97)
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 14 May 1997
-
-Senate on 19 June 1997]
-
-I HEREBY CERTIFY that the above is a fair print of the Australian National Railways Commission Sale Bill 1997 which originated in the House of Representatives and has been finally passed by the Senate and the House of Representatives.
-
-Clerk of the House of Representatives
-
-IN THE NAME OF HER MAJESTY, I assent to this Act.
-
-Governor-General
-
-1997
-
-(62/97)
