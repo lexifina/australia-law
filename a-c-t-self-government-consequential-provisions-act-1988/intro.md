@@ -1,0 +1,1 @@
+An Act to make certain transitional provisions, and to amend certain Acts, in consequence of the enactment of the Australian Capital Territory (Self-Government) Act 1988 and certain amendments made to that Act
