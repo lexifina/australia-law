@@ -1,0 +1,19 @@
+# 303GG Authorities under permits
+
+(1) This section applies to a permit issued under this Part.
+
+(2) Except as provided in this section, a permit does not authorise the taking of any action by a person for or on behalf of the holder of the permit.
+
+(3) Subject to subsection (4), the holder of a permit may give a person written authority to take for or on behalf of the holder any action authorised by the permit. The authority may be given generally or as otherwise provided by the instrument of authority.
+
+(4) The holder of a permit must not give an authority unless:
+
+(a) the permit contains a condition permitting the holder to do so; and
+
+(b) the authority is given in accordance with any requirements set out in the condition.
+
+(5) A permit is, for the purposes of this Act, taken to authorise the taking of a particular action by a person if the taking of that action by the person is authorised by an authority given by the holder of the permit.
+
+(6) The giving of an authority does not prevent the taking of any action by the holder of the permit.
+
+(7) A person who gives an authority must give to the Minister written notice of it within 14 days after giving the authority.

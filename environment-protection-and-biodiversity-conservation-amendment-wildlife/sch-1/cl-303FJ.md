@@ -1,0 +1,17 @@
+## Subdivision B—Commercial purpose exports and imports
+
+# 303FJ Eligible commercial purpose exports
+
+For the purposes of this Part, the export of a specimen is an eligible commercial purpose export if, and only if:
+
+(a) the export of the specimen would be an export from an approved captive breeding program in accordance with section 303FK; or
+
+(b) the export of the specimen would be an export from an approved artificial propagation program in accordance with section 303FL; or
+
+(c) the export of the specimen would be an export from an approved aquaculture program in accordance with section 303FM; or
+
+(d) the export of the specimen would be an export in accordance with an approved wildlife trade operation (section 303FN); or
+
+(e) the export of the specimen would be an export in accordance with an approved wildlife trade management plan (section 303FO).
+
+Note: See also subsection 303DD(3), which deals with accredited wildlife trade management plans.

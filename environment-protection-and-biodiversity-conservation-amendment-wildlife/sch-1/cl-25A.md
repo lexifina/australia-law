@@ -1,0 +1,39 @@
+## Subdivision H—Actions that are taken to be covered by this Division
+
+# 25A Actions that are taken to be covered by this Division
+
+(1) The regulations may provide that a specified action is taken to be an action to which a specified regulatory provision applies.
+
+Note: For specification by class, see subsection 46(2) of the Acts Interpretation Act 1901.
+
+(2) To avoid doubt, if, as a result of a regulation made for the purposes of subsection (1), a regulatory provision applies to an action, the action is taken to be described in the provision.
+
+(3) Regulations made for the purposes of subsection (1) may only specify actions:
+
+(a) taken in a Territory; or
+
+(b) taken in a Commonwealth marine area; or
+
+(c) taken for the purpose of trade or commerce:
+
+(i) between Australia and another country; or
+
+(ii) between 2 States; or
+
+(iii) between a State and a Territory; or
+
+(iv) between 2 Territories; or
+
+(d) taken by a constitutional corporation; or
+
+(e) whose regulation is appropriate and adapted to give effect to Australia’s obligations under an agreement with one or more other countries.
+
+(4) Regulations specifying an action whose regulation is appropriate and adapted to give effect to Australia’s obligations under an agreement with one or more countries must specify the agreement.
+
+(5) In this section:
+
+regulatory provision means:
+
+(a) a civil penalty provision set out in this Division; or
+
+(b) a provision of this Division that creates an offence.

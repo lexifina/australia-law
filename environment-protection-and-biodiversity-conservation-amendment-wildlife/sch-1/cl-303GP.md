@@ -1,0 +1,39 @@
+# 303GP Cruelty—export or import of animals
+
+(1) A person is guilty of an offence if:
+
+(a) the person exports or imports a live animal in a manner that subjects the animal to cruel treatment; and
+
+(b) the person knows that, or is reckless as to whether, the export or import subjects the animal to cruel treatment; and
+
+(c) the animal is a CITES specimen; and
+
+(d) the person contravenes section 303CC or 303CD in relation to the export or import of the animal.
+
+Penalty: Imprisonment for 2 years.
+
+(2) A person is guilty of an offence if:
+
+(a) the person exports a live animal in a manner that subjects the animal to cruel treatment; and
+
+(b) the person knows that, or is reckless as to whether, the export subjects the animal to cruel treatment; and
+
+(c) the animal is a regulated native specimen; and
+
+(d) the person contravenes section 303DD in relation to the export of the animal.
+
+Penalty: Imprisonment for 2 years.
+
+(3) A person is guilty of an offence if:
+
+(a) the person imports a live animal in a manner that subjects the animal to cruel treatment; and
+
+(b) the person knows that, or is reckless as to whether, the import subjects the animal to cruel treatment; and
+
+(c) the animal is a regulated live specimen; and
+
+(d) the person contravenes section 303EK in relation to the import of the animal.
+
+Penalty: Imprisonment for 2 years.
+
+(4) This section does not limit section 303GE.

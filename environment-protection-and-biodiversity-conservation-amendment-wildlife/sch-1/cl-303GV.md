@@ -1,0 +1,13 @@
+# 303GV Saving of other laws
+
+(1) This Part is in addition to the following laws:
+
+(a) the Customs Act 1901;
+
+(b) the Quarantine Act 1908;
+
+(c) any other law of the Commonwealth or of an external Territory, whether passed or made before or after the commencement of this Part.
+
+(2) The holder of a permit under this Part authorising the export or import of a specimen is not, by reason only of being the holder of the permit, exempt from compliance with any law referred to in paragraph (1)(a), (b) or (c) that applies in relation to that specimen.
+
+(3) Without limiting subsection (1), this Part, and regulations made for the purposes of this Part, do not authorise or permit the doing of any act in contravention of the Quarantine Act 1908 or of a law of an external Territory relating to quarantine.

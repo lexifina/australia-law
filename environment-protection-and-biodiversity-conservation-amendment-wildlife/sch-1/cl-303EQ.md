@@ -1,0 +1,11 @@
+# 303EQ Register of applications and decisions
+
+(1) As soon as practicable after the commencement of this section, the Minister must cause to be established a register that sets out:
+
+(a) prescribed particulars of applications made under section 303EL after the establishment of the register; and
+
+(b) prescribed particulars of decisions made by the Minister under section 303EN after the establishment of the register.
+
+(2) The register may be maintained by electronic means.
+
+(3) The register is to be made available for inspection on the Internet.

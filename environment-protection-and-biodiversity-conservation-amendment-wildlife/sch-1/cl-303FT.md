@@ -1,0 +1,47 @@
+# 303FT Additional provisions relating to declarations
+
+(1) This section applies to a declaration under section 303FN, 303FO or 303FP.
+
+(2) A declaration may be made:
+
+(a) on the Minister’s own initiative; or
+
+(b) on written application being made to the Minister.
+
+(3) The Minister may make a declaration about a plan or operation even though he or she considers that the plan or operation should be the subject of the declaration only to the extent that the plan or operation relates to a particular class of specimens. In such a case:
+
+(a) the instrument of declaration is to specify that class of specimens; and
+
+(b) the plan or operation is covered by the declaration only to the extent that the plan or operation relates to that class of specimens.
+
+(4) The Minister may make a declaration about a plan or operation even though he or she considers that the plan or operation should be the subject of the declaration only:
+
+(a) during a particular period; or
+
+(b) while certain circumstances exist; or
+
+(c) while a certain condition is complied with.
+
+In such a case, the instrument of declaration is to specify the period, circumstances or condition.
+
+(5) If a declaration specifies a particular period as mentioned in subsection (4), the declaration ceases to be in force at the end of that period.
+
+(6) If a declaration specifies circumstances as mentioned in subsection (4), the Minister must, by instrument published in the Gazette, revoke the declaration if he or she is satisfied that those circumstances have ceased to exist.
+
+(7) The Minister may, by instrument published in the Gazette, vary a declaration by:
+
+(a) specifying one or more conditions (or further conditions) to which the declaration is subject; or
+
+(b) revoking or varying a condition:
+
+(i) specified in the instrument of declaration; or
+
+(ii) specified under paragraph (a).
+
+(8) A condition may relate to reporting or monitoring.
+
+(9) The Minister must, by instrument published in the Gazette, revoke a declaration if he or she is satisfied that a condition of the declaration has been contravened.
+
+(10) The Minister may, by instrument published in the Gazette, revoke a declaration at any time.
+
+(11) A copy of an instrument under section 303FN, 303FO or 303FP or this section is to be made available for inspection on the Internet.

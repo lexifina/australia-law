@@ -1,0 +1,81 @@
+# 303FN Approved wildlife trade operation
+
+(1) The export of a specimen is an export in accordance with an approved wildlife trade operation if the specimen is, or is derived from, a specimen that was taken in accordance with a wildlife trade operation declared by a declaration in force under subsection (2) to be an approved wildlife trade operation.
+
+(2) The Minister may, by instrument published in the Gazette, declare that a specified wildlife trade operation is an approved wildlife trade operation for the purposes of this section.
+
+(3) The Minister must not declare an operation under subsection (2) unless the Minister is satisfied that:
+
+(a) the operation is consistent with the objects of this Part; and
+
+(b) the operation will not be detrimental to:
+
+(i) the survival of a taxon to which the operation relates; or
+
+(ii) the conservation status of a taxon to which the operation relates; and
+
+(ba) the operation will not be likely to threaten any relevant ecosystem including (but not limited to) any habitat or biodiversity; and
+
+(c) if the operation relates to the taking of live specimens that belong to a taxon specified in the regulations—the conditions that, under the regulations, are applicable to the welfare of the specimens are likely to be complied with; and
+
+(d) such other conditions (if any) as are specified in the regulations have been, or are likely to be, satisfied.
+
+(4) In deciding whether to declare an operation under subsection (2), the Minister must have regard to:
+
+(a) the significance of the impact of the operation on an ecosystem (for example, an impact on habitat or biodiversity); and
+
+(b) the effectiveness of the management arrangements for the operation (including monitoring procedures).
+
+(5) In deciding whether to declare an operation under subsection (2), the Minister must have regard to:
+
+(a) whether legislation relating to the protection, conservation or management of the specimens to which the operation relates is in force in the State or Territory concerned; and
+
+(b) whether the legislation applies throughout the State or Territory concerned; and
+
+(c) whether, in the opinion of the Minister, the legislation is effective.
+
+(6) A declaration under subsection (2) ceases to be in force at the beginning of the third anniversary of the day on which the declaration took effect. However, this rule does not apply if a period of less than 3 years is specified in the declaration in accordance with subsection 303FT(4).
+
+(7) If a declaration ceases to be in force, this Act does not prevent the Minister from making a fresh declaration under subsection (2).
+
+(8) A fresh declaration may be made during the 90-day period before the time when the current declaration ceases to be in force.
+
+(9) A fresh declaration that is made during that 90-day period takes effect immediately after the end of that period.
+
+(10) For the purposes of this section, an operation is a wildlife trade operation if, and only if, the operation is an operation for the taking of specimens and:
+
+(a) the operation is an operation that, under the regulations, is taken to be a market-testing operation; or
+
+(b) the operation is an operation that, under the regulations, is taken to be a small-scale operation; or
+
+(c) the operation is an operation that, under the regulations, is taken to be a developmental operation; or
+
+(d) the operation is a commercial fishery; or
+
+(e) the operation is an operation that, under the regulations, is taken to be a provisional operation; or
+
+(f) the operation is an operation of a kind specified in the regulations.
+
+(10A) In deciding whether to declare that a commercial fishery is an approved wildlife trade operation for the purposes of this section, the Minister must rely primarily on the outcomes of any assessment in relation to the fishery carried out for the purposes of Division 1 or 2 of Part 10.
+
+(10B) Subsection (10A) does not limit the matters that may be taken into account in deciding whether to declare that a fishery is an approved wildlife trade operation for the purposes of this section.
+
+(11) In this section:
+
+fish includes all species of bony fish, sharks, rays, crustaceans, molluscs and other marine organisms, but does not include marine mammals or marine reptiles.
+
+fishery means a class of activities by way of fishing, including activities identified by reference to all or any of the following:
+
+(a) a species or type of fish;
+
+(b) a description of fish by reference to sex or any other characteristic;
+
+(c) an area of waters or of seabed;
+
+(d) a method of fishing;
+
+(e) a class of vessels;
+
+(f) a class of persons;
+
+(g) a purpose of activities.

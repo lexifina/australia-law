@@ -1,0 +1,49 @@
+# 303FG Export or import of household pets
+
+Export of live native animals
+
+(1) The export of a live native animal (other than a CITES specimen) is an export of a household pet in accordance with this section if:
+
+(a) the animal is included in the list referred to in subsection (4); and
+
+(b) the export is not primarily for commercial purposes; and
+
+(c) such other conditions as are specified in the regulations have been, or are likely to be, satisfied.
+
+Export of live CITES specimens
+
+(2) The export of a CITES specimen is an export of a household pet in accordance with this section if:
+
+(a) the specimen is a live animal; and
+
+(b) if the animal is a native animal—the animal is included in the list referred to in subsection (4); and
+
+(c) the export is not primarily for commercial purposes; and
+
+(d) such other conditions as are specified in the regulations have been, or are likely to be, satisfied.
+
+Import of live animals
+
+(3) The import of a live animal is an import of a household pet in accordance with this section if:
+
+(a) the conditions specified in the regulations have been, or are likely to be, satisfied; and
+
+(b) the import is not primarily for commercial purposes; and
+
+(c) the animal is included in Part 2 of the list referred to in section 303EB.
+
+Listing of native household pet animals
+
+(4) The Minister must, by instrument published in the Gazette, establish a list of native household pet animals.
+
+(5) The list, as first established, must contain the animals referred to in Schedule 7 to the Wildlife Protection (Regulation of Exports and Imports) Act 1982, as in force immediately before the commencement of this section.
+
+(6) The Minister may, by instrument in the Gazette, amend the list referred to in subsection (4) by:
+
+(a) including items in the list; or
+
+(b) deleting items from the list; or
+
+(c) correcting an inaccuracy or updating the name of a species.
+
+(7) An instrument under subsection (6) (other than an instrument mentioned in paragraph (6)(c)) is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.

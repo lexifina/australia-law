@@ -1,0 +1,41 @@
+# 303DB Listing of exempt native specimens
+
+(1) The Minister must, by instrument published in the Gazette, establish a list of exempt native specimens.
+
+(2) For each specimen included in the list, there is to be a notation that states whether the inclusion of the specimen in the list is subject to restrictions or conditions and, if so, the nature of those restrictions or conditions.
+
+(3) A restriction or condition mentioned in subsection (2) may:
+
+(a) consist of a quantitative limit in relation to the export of the specimen; or
+
+(b) relate to the circumstances of the export of the specimen; or
+
+(c) relate to the source of the specimen; or
+
+(d) relate to the circumstances in which the specimen was taken or, if the specimen is derived from another specimen that was taken, the circumstances in which the other specimen was taken; or
+
+(e) relate to an expiry date for the inclusion of the specimen on the list.
+
+(4) Subsection (3) does not limit subsection (2).
+
+(5) The list, as first established, must:
+
+(a) contain the specimens referred to in Part I of Schedule 4 to the Wildlife Protection (Regulation of Exports and Imports) Act 1982, as in force immediately before the commencement of this section; and
+
+(b) reflect the restrictions and conditions that are applicable to the inclusion of those specimens in that Part of that Schedule.
+
+(6) The list must not include a specimen that belongs to an eligible listed threatened species unless:
+
+(a) the Minister is satisfied that the export of the specimen will not:
+
+(i) adversely affect the conservation status of the species concerned; and
+
+(ii) be inconsistent with any recovery plan or wildlife conservation plan for that species; and
+
+(b) the inclusion of the specimen on the list is subject to a restriction or condition to the effect that:
+
+(i) the specimen must be, or be derived from, a plant that was artificially propagated (section 527C); and
+
+(ii) the specimen was propagated in an operation that has derived its stock in a way that did not breach a law of the Commonwealth, a State or a Territory.
+
+(7) A copy of an instrument under subsection (1) is to be made available for inspection on the Internet.

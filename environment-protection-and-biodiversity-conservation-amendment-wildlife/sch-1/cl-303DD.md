@@ -1,0 +1,39 @@
+## Subdivision B—Offence and permit system
+
+# 303DD Exports of regulated native specimens
+
+(1) A person is guilty of an offence if:
+
+(a) the person exports a specimen; and
+
+(b) the specimen is a regulated native specimen.
+
+Penalty: Imprisonment for 10 years or 1,000 penalty units, or both.
+
+Exemption—permit
+
+(2) Subsection (1) does not apply if the specimen is exported in accordance with a permit that was issued under section 303CG, 303DG, 303GB or 303GC and is in force.
+
+Exemption—accredited wildlife trade management plan
+
+(3) Subsection (1) does not apply if:
+
+(a) the export of the specimen would be an export in accordance with an accredited wildlife trade management plan (section 303FP); and
+
+(b) the specimen is not a live native mammal, a live native reptile, a live native amphibian or a live native bird; and
+
+(ba) either:
+
+(i) the specimen is not a live terrestrial invertebrate, or a live freshwater fish, prescribed by the regulations for the purposes of this subparagraph; or
+
+(ii) the export is an export from an approved aquaculture program in accordance with section 303FM; and
+
+(c) the specimen is not a CITES specimen; and
+
+(d) the specimen does not belong to an eligible listed threatened species.
+
+Exemption—exchange of scientific specimens
+
+(4) Subsection (1) does not apply if the export of the specimen is an export that, in accordance with a determination made by the Minister under the regulations, is taken to be part of a registered, non-commercial exchange of scientific specimens between scientific organisations.
+
+Note: The defendant bears an evidential burden in relation to the matters in subsections (2), (3) and (4) (see subsection 13.3(3) of the Criminal Code).
