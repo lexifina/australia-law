@@ -1,0 +1,1 @@
+An Act to make provision consequent upon, or associated with, the enactment of the Fisheries Administration Act 1991, the Fisheries Management Act 1991 and other related legislation, and for other purposes
