@@ -1,0 +1,7 @@
+# 67AX Application of the Loans Securities Act 1919
+
+Sections 5A, 5B, 5C and 5D (other than paragraphs (1)(c) and (2)(c)) of the Loans Securities Act 1919 apply in relation to a liability that is taken over by the Commonwealth under section 67AU as if that liability were a borrowing of money outside Australia:
+
+(a) that the Treasurer was authorised to make on behalf of the Commonwealth; and
+
+(b) that the Treasurer made accordingly.

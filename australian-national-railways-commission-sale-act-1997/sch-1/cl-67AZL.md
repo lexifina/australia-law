@@ -1,0 +1,3 @@
+# 67AZL Lands Acquisition Act 1989 does not apply to this Part
+
+The Lands Acquisition Act 1989 does not apply in relation to anything done under this Part.
