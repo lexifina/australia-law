@@ -1,1 +1,1 @@
-An Act to establish a National Labour Consultative Council
+An Act to establish a National Workplace Relations Consultative Council
