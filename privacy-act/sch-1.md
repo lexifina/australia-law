@@ -10,7 +10,7 @@ Freedom of Information Act 1982
 
 Human Rights and Equal Opportunity Commission Act 1986
 
-Merit Protection (Australian Government Employees) Act 1984
+Merit Protection (Australian Government Employees) Act 1984 [repealed by Act No. 146, 1999, Sch. 1]
 
 Ombudsman Act 1976
 
