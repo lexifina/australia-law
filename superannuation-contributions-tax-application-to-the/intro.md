@@ -1,0 +1,1 @@
+An Act relating to the reduction of the benefits payable to members of unfunded non-contributory Commonwealth superannuation schemes on account of superannuation contributions tax, and for related purposes
