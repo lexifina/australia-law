@@ -104,8 +104,6 @@ statutory authority means:
 
 (1) The assets and liabilities of each statutory authority become assets and liabilities of the Commonwealth at the commencement time.
 
-(2) Money vested in the Commonwealth under subitem (1) must be paid into the Consolidated Revenue Fund.
-
 12 Payments to prescribed industry bodies etc.
 
 (1) Subject to this item, an authorised person may, in writing, direct that a specified amount be paid to the prescribed industry body, or to any other person, identified in the direction, subject to such conditions (if any) about the use or expenditure of the amount as are set out in the direction.
@@ -114,16 +112,6 @@ statutory authority means:
 
 (3) The payment of an amount under subitem (2) is subject to the conditions (if any) about the use of expenditure of the amount as are set out in the direction.
 
-(4) An authorised person must not specify in a direction:
-
-(a) an amount that is greater than the total of the following:
-
-(i) amounts paid into the Consolidated Revenue Fund under subitems 11(2) and 13(3);
-
-(ii) amounts of interest or dividends or any other amounts produced by, or derived from, an asset vested in the Commonwealth under subitem 11(1); or
-
-(b) an amount that, when added to other amounts specified in the direction, or in other directions under this item, result in an amount greater than the total of the amounts referred to in subparagraph (a)(i) and (ii).
-
 (5) A copy of each direction must be published in the Gazette.
 
 13 Transfer of certain assets and liabilities
@@ -131,8 +119,6 @@ statutory authority means:
 (1) If an asset (other than money) vested in the Commonwealth under subitem 11(1), or a liability of a statutory authority, is identified in a written determination made by an authorised person, the asset or liability becomes an asset or liability of the prescribed industry body specified in the determination on the day so specified, subject to such conditions (if any) about the use or disposal of the asset as are set out in the determination.
 
 (2) An authorised person may sell any asset of the kind referred to in subitem (1) on behalf of the Commonwealth.
-
-(3) Any amount paid to the Commonwealth on the sale of an asset under subitem (2) must be paid into the Consolidated Revenue Fund.
 
 (4) A copy of each determination must be published in the Gazette.
 
@@ -401,38 +387,6 @@ After the commencement time, the Commonwealth:
 (3) After the commencement time, a prescribed industry body which employs a transferring staff member is, for the purposes of section 71 of the SRC Act in relation to the staff member, taken to be a Commonwealth authority.
 
 (4) Expressions used in this item have the same meanings as they have in the SRC Act.
-
-29 Premiums under the SRC Act
-
-(1) The Commission must, as soon as practicable after the commencement time, determine the amount (if any) by which the confirmed amount of premium for each statutory authority for the relevant financial year should be reduced.
-
-(2) A determination must be made in accordance with the regulations.
-
-(3) If:
-
-(a) an amount equal to the confirmed premium for a statutory authority for the relevant financial year has been paid into, or transferred within, the Consolidated Revenue Fund under section 96G of the SRC Act; and
-
-(b) the amount of the confirmed premium is reduced as a result of a determination under this item;
-
-an authorised person may, in writing, direct that an amount equal to the refund amount, or amounts that together add up to the refund amount, be paid to the specified prescribed industry body or bodies in accordance with the direction.
-
-(4) A direction by an authorised person may be given subject to such conditions (if any) about the use or expenditure of the amount or amounts to which it relates as are set out in the direction.
-
-(5) If an authorised person gives a direction, the amount or amounts to which it relates are payable out of the Consolidated Revenue Fund, which is appropriated accordingly, to the prescribed industry body or bodies specified in the direction.
-
-(6) The payment of an amount under subitem (5) must be made in accordance with the direction, and is subject to the conditions (if any) set out in the direction.
-
-(7) A copy of each direction must be published in the Gazette.
-
-(8) In this item:
-
-authorised person means a person who is an authorised person for the purposes of Part 3 of this Schedule.
-
-refund amount means the amount equal to the difference between the amount of confirmed premium for a statutory body for the relevant financial year and the amount of that premium as reduced because of a determination under subitem (1).
-
-relevant financial year means the financial year in which the commencement time occurs.
-
-(9) Unless the contrary intention appears, an expression has the same meaning in this item as it has in the SRC Act.
 
 Division 3—Deferred DFRDB Act benefits
 
@@ -757,11 +711,3 @@ Part 6—Regulations
 (n) the National Residue Survey (Sheep, Lambs and Goats Export) Levy Act 1997;
 
 (o) the National Residue Survey (Sheep, Lambs and Goats Transactions) Levy Act 1997.
-
-[Minister's second reading speech made in the
-
-House of Representatives on 1 October 1997
-
-Senate on 29 October 1997]
-
-(164/97)

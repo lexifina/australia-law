@@ -50,10 +50,6 @@ Insert:
 
 (be) amounts equal to the amounts of charge received by the Commonwealth because of paragraphs 5(1)(c) and 5(2)(c) of the Cattle (Producers) Export Charges Act 1997; and
 
-6 Subsection 5(2)
-
-Omit “paragraphs (1)(a), (aa), (b), (ba), (bb), (bc) and (bd)”, substitute “paragraphs (1)(a), (aa), (ab), (b), (ba), (baa), (bb), (bc), (bca), (bd) and (be)”.
-
 National Residue Survey (Livestock Slaughter) Levy Act 1992
 
 7 Section 3 (definition of livestock)
