@@ -1,0 +1,49 @@
+## Division 2—The granting of licences
+
+# 39A It is in the Collector’s discretion whether to grant licence
+
+(1) The Collector may grant, or refuse to grant, a licence.
+
+(2) Without limiting subsection (1) but subject to subsection (3), the Collector may refuse to grant a licence if, in the Collector’s opinion:
+
+(a) where the applicant is a natural person—the applicant is not a fit and proper person; or
+
+(b) where the applicant is a partnership—any of the partners is not a fit and proper person; or
+
+(c) where the applicant is a company—any director, officer or shareholder of the company who would participate in the management or control of the company is not a fit and proper person; or
+
+(d) an employee of the applicant who would participate in the management or control of the premises in relation to which the licence is sought is not a fit and proper person; or
+
+(e) where the applicant is a company—the company is not a fit and proper company; or
+
+(f) the applicant is an associate (within the meaning of the Income Tax Assessment Act 1997) of a person who is not:
+
+(i) a fit and proper person; or
+
+(ii) a fit and proper company; or
+
+(g) in relation to an application for a manufacturer licence or storage licence—the physical security of the premises in relation to which the licence is sought is not adequate having regard to:
+
+(i) the nature of the premises; or
+
+(ii) the kinds and quantity of goods that would be kept at the premises; or
+
+(iii) the procedures and methods that would be adopted by the applicant to ensure the security of goods at the premises; or
+
+(h) in relation to an application for a producer licence or dealer licence—the physical security of the storage place on the premises in relation to which the licence is sought is not adequate having regard to:
+
+(i) the nature of the storage place; or
+
+(ii) the quantity of tobacco leaf that would be kept at the storage place; or
+
+(iii) the procedures and methods that would be adopted by the applicant to ensure the security of tobacco leaf at the storage place; or
+
+(i) in relation to an application for a manufacturer licence or storage licence—the plant and equipment that would be used in relation to goods at the premises in relation to which the licence is sought are not suitable having regard to the nature of those goods and the premises; or
+
+(j) the applicant would not be able to keep proper books of account or records to enable the CEO adequately to audit those books or records; or
+
+(k) in relation to an application for a storage licence—the grant of the licence would delay liability for duty; or
+
+(l) refusal to grant the licence is necessary to protect the revenue.
+
+(3) If the application is for a producer licence or dealer licence, the Collector must not refuse to grant the licence under paragraph (2)(a), (b), (c), (d) or (f) unless the Collector is satisfied that it is necessary to refuse to grant the licence to protect the revenue.

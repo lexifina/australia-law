@@ -1,0 +1,15 @@
+# 39H Determining whether a natural person is fit and proper
+
+The Collector may, in considering whether a natural person is a fit and proper person for the purposes of paragraphs 39G(1)(a), (b), (c), (d) and (f), have regard to:
+
+(a) whether, within one year before the day of the Collector’s consideration, the person has been charged with an offence of the kind referred to in paragraph 39B(a); and
+
+(b) whether, within 10 years before the day of the Collector’s consideration, the person has been convicted of an offence of the kind referred to in paragraph 39B(b); and
+
+(c) whether the person is an undischarged bankrupt; and
+
+(d) whether, within 10 years before the day of the Collector’s consideration, the person has:
+
+(i) held another licence which has been cancelled; or
+
+(ii) has participated in the management or control of a company that has had its licence cancelled.

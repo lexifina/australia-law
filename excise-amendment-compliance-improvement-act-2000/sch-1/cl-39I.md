@@ -1,0 +1,9 @@
+# 39I Determining whether a company is fit and proper
+
+The Collector may, in considering whether a company is a fit and proper company for the purposes of paragraphs 39G(1)(e) and (f), have regard to:
+
+(a) whether, within one year before the day of the Collector’s consideration, the company has been charged with an offence of the kind referred to in paragraph 39C(a); and
+
+(b) whether, within 10 years before the day of the Collector’s consideration, the company is convicted of an offence of the kind referred to in paragraph 39C(b); and
+
+(c) the matters referred to in paragraphs 39C(d) to (h).
