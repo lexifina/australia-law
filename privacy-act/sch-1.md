@@ -1,4 +1,4 @@
-## Schedule—Amendments of Other Acts
+## Schedule 1—Amendments of other Acts
 
 Section 10
 
