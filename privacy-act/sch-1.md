@@ -4,7 +4,7 @@ Section 10
 
 Note:
 
-The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus and ComLaw.
 
 Freedom of Information Act 1982
 
