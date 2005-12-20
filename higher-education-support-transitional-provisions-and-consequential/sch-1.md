@@ -96,7 +96,7 @@ Note: For the funding clusters in which particular units of study are included, 
 
 4 Guidelines
 
-(1) The Minister may, in writing, make guidelines providing for matters:
+(1) The Minister may, by legislative instrument, make guidelines providing for matters:
 
 (a) required or permitted by this Schedule to be provided; or
 
@@ -109,8 +109,6 @@ Note: For the funding clusters in which particular units of study are included, 
 (b) when a person is taken to have completed the requirements of a course of study.
 
 Any such guidelines have effect, for the purposes of this Schedule, accordingly.
-
-(3) The guidelines are disallowable instruments for the purposes of section 46A of the Acts Interpretation Act 1901.
 
 5 Meaning of institution
 
@@ -164,7 +162,7 @@ A person is not taken, for the purposes of subparagraph (g)(i) of item 6, to hav
 
 8 Guidelines
 
-(1) The Minister may, in writing, make guidelines providing for matters:
+(1) The Minister may, by legislative instrument, make guidelines providing for matters:
 
 (a) required or permitted by this Schedule to be provided; or
 
@@ -177,8 +175,6 @@ A person is not taken, for the purposes of subparagraph (g)(i) of item 6, to hav
 (b) when a person is taken to have completed the requirements of a course of study.
 
 Any such guidelines have effect, for the purposes of this Schedule, accordingly.
-
-(3) The guidelines are disallowable instruments for the purposes of section 46A of the Acts Interpretation Act 1901.
 
 9 Meaning of institution
 
