@@ -14,6 +14,8 @@ Members of the House of Representatives
 
 Members of the Australian Industrial Relations Commission
 
+Members of the Australian Fair Pay Commission
+
 Members and special members of the Australian Federal Police
 
 Members of the Defence Force other than members of the Reserves
