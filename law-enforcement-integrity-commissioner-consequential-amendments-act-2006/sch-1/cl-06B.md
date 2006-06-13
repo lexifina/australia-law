@@ -1,0 +1,25 @@
+# 6B Transfer of complaints about Integrity Commissioner
+
+(1) If:
+
+(a) the Ombudsman forms the opinion that:
+
+(i) a complaint in respect of action taken by the Integrity Commissioner could have been made to another authority established under a law of the Commonwealth, a State or a Territory; and
+
+(ii) the complaint could be more conveniently or effectively dealt with by the other authority; and
+
+(b) the other authority can deal with the complaint if the Ombudsman transfers the complaint to the other authority;
+
+the Ombudsman may decide not to investigate the complaint, or not to investigate the complaint further, as the case may be, and to transfer the complaint to the other authority.
+
+(2) If the Ombudsman decides to transfer the complaint, the Ombudsman must:
+
+(a) do so as soon as is reasonably practicable; and
+
+(b) subject to section 35C, give the other authority any information or documents relating to the complaint that are in the possession, or under the control, of the Ombudsman; and
+
+(c) as soon as is reasonably practicable, give the complainant written notice that the complaint has been transferred to the other authority.
+
+44 After section 8B
+
+Insert:
