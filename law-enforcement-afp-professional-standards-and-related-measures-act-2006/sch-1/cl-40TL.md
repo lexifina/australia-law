@@ -1,0 +1,23 @@
+## Subdivision D—Dealing with category 3 conduct issues and corruption issues
+
+# 40TL When Subdivision applies
+
+(1) This Subdivision applies if:
+
+(a) information that is given under section 40SA raises an AFP conduct issue in relation to an AFP appointee; and
+
+(b) the issue is a category 3 conduct issue.
+
+(2) This Subdivision also applies if:
+
+(a) the Commissioner decides under section 40SD that an AFP conduct issue in relation to an AFP appointee is to be dealt with under this Part; and
+
+(b) the issue is a category 3 conduct issue.
+
+(3) This Subdivision also applies if:
+
+(a) the Commissioner notifies the Integrity Commissioner of a corruption issue under section 19 of the Law Enforcement Integrity Commissioner Act 2006 and the Australian Federal Police investigates the issue under subsection 22(1) of that Act; or
+
+(b) a corruption issue relates to the conduct of an AFP appointee and the Integrity Commissioner refers the issue to the Australian Federal Police under Division 2 of Part 4 of that Act.
+
+(4) This Subdivision also applies if the Ombudsman arranges with the Commissioner under section 8D of the Ombudsman Act 1976 for a category 3 conduct issue to be dealt with jointly by the Ombudsman and the Australian Federal Police.

@@ -1,0 +1,25 @@
+## Division 6—Record keeping
+
+# 40WA Record keeping
+
+(1) The Commissioner must ensure that adequate records are kept for the purposes of this Part.
+
+(2) Without limiting subsection (1), the Commissioner must ensure that records are kept of:
+
+(a) information that is given under section 40SA; and
+
+(b) the action (if any) that is taken in relation to the AFP conduct or practices issue raised by that information; and
+
+(c) if the issue is an AFP conduct issue—the action (if any) that is taken in relation to any AFP practices issue that is:
+
+(i) brought, under section 40TK, to the attention of an AFP appointee; or
+
+(ii) identified, under section 40TW, in a report prepared under section 40TU;
+
+as a result of the AFP conduct issue being dealt with under this Part.
+
+(3) Subsection (2) does not apply if subsection 40SC(2) (which deals with category 1 conduct issues that are resolved without being recorded) applies to the information.
+
+(4) The Integrity Commissioner is entitled to have access to the records kept under this section for the purposes of performing the Integrity Commissioner’s functions.
+
+(5) Without limiting section 40XC, the Ombudsman is entitled to have access to the records kept under this section for the purposes of performing the Ombudsman’s functions.
