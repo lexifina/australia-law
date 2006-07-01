@@ -303,11 +303,3 @@ Note: A person will therefore be liable to repay to the Commonwealth the amount 
 (a) the Child Support Act, as so amended, did not extend to Western Australia; and
 
 (b) the Child Support Act continued to extend to Western Australia in relation to the maintenance of exnuptial children as if those amendments had not been made.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 10 May 2006
-
-Senate on 13 June 2006]
-
-(51/06)

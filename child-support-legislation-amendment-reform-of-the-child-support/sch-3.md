@@ -20,10 +20,6 @@ Insert:
 
 Note: The following heading to subsection 117(3) is inserted “High costs involved in enabling parent to have contact with child”.
 
-3 Subsection 117(3A)
-
-Omit “sub-subparagraph 117(2)(b)(i)(C)”, substitute “sub-subparagraph (2)(b)(i)(C)”.
-
 Note: The following heading to subsection 117(3A) is inserted “High child care costs”.
 
 4 Paragraph 117(4)(d)
