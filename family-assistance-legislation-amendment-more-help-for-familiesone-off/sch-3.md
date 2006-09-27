@@ -2,7 +2,7 @@
 
 1 Administrative scheme for one-off payments to families and carers
 
-(1) Subject to this item, the Minister may, in writing, determine a scheme under which one-off payments may be made to families and carers in particular circumstances. The Minister may, in writing, vary or revoke the scheme.
+(1) Subject to this item, the Minister may, by legislative instrument, determine a scheme under which one-off payments may be made to families and carers in particular circumstances. The Minister may, by legislative instrument, vary or revoke the scheme.
 
 (2) The circumstances in which the scheme provides for payments must be circumstances:
 
@@ -21,8 +21,6 @@
 (c) what a person has to do to get a payment;
 
 (d) administrative matters, such as determination of entitlement and how and when payments will be made.
-
-(5) An instrument determining, varying or revoking the scheme is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
 
 (6) Payments under the scheme are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
