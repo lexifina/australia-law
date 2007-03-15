@@ -88,7 +88,7 @@ Confirmation of citizenship
 
 115 Paragraph 38(1)(c)
 
-Omit “be granted a certificate of Australian citizenship under section 13 of the Australian Citizenship Act 1948”, substitute “become an Australian citizen under the Australian Citizenship Act 2005”.
+Omit “be granted a certificate of Australian citizenship under section 13 of the Australian Citizenship Act 1948”, substitute “become an Australian citizen under the Australian Citizenship Act 2007”.
 
 116 Subsection 38(6)
 

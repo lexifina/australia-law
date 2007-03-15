@@ -84,7 +84,7 @@ Confirmation of citizenship
 
 37 Paragraph 99B(1)(b)
 
-Omit “be granted a certificate of Australian citizenship under section 13 of the Australian Citizenship Act 1948”, substitute “become an Australian citizen under the Australian Citizenship Act 2006”.
+Omit “be granted a certificate of Australian citizenship under section 13 of the Australian Citizenship Act 1948”, substitute “become an Australian citizen under the Australian Citizenship Act 2007”.
 
 38 Subsection 99B(6)
 
