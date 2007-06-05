@@ -1,0 +1,29 @@
+# 48AC APRA Code of Conduct
+
+(1) The Chair must determine, in writing, the APRA Code of Conduct.
+
+Note: Subsection 33(3) of the Acts Interpretation Act 1901 provides for the repeal, variation etc. of instruments.
+
+(2) The APRA Code of Conduct applies to APRA members and staff appointed under section 45.
+
+(3) To avoid doubt, an instrument under subsection (1) is not a legislative instrument.
+
+59 Section 48C
+
+Repeal the section.
+
+60 Section 48D
+
+Omit “APRA must”, substitute “The Chair must”.
+
+Note: The heading to section 48D is altered by omitting “APRA to ensure” and substituting “The Chair to ensure”.
+
+61 At the end of section 48D
+
+Add:
+
+Note: Under section 48AA, the Chair can delegate the power conferred on him or her by this section.
+
+62 Sections 49 and 50
+
+Repeal the sections, substitute:
