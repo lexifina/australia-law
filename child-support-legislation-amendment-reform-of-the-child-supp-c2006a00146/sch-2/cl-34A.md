@@ -1,0 +1,35 @@
+# 34A Registrar must make assessment when new tax figure is available
+
+Application of section
+
+(1) This section requires the Registrar to assess the annual rate of child support payable in some cases if:
+
+(a) child support is payable by a liable parent for a child for a day in a child support period (the earlier period); and
+
+(b) during the earlier period, an assessment (the tax assessment) is made under an Income Tax Assessment Act of the taxable income, or any other component of the adjusted taxable income, of the liable parent or the other parent, for the latest year of income (the last year) that ended after the start of the earlier period.
+
+Registrar must make assessment using new tax figures
+
+(2) As soon as practicable after the tax assessment is made, the Registrar must assess the annual rate of child support payable for the child for days in a child support period starting on the first day of the next named month (after the named month in which the Registrar makes the assessment).
+
+When new assessment is not required
+
+(3) This section does not require the Registrar to make an assessment if:
+
+(a) the Registrar calculates that the tax assessment for the last year could not affect the annual rate of child support payable for the child for a day in a child support period; or
+
+(b) the annual rate of child support payable for the child for the first day of the next named month is to be worked out without reference to the actual taxable income of the parent mentioned in paragraph (1)(b) because of:
+
+(i) a child support agreement between the parents of the child; or
+
+(ii) a determination under Part 6A (departure determination); or
+
+(iii) an order made by a court under this Act or the Registration and Collection Act; or
+
+(c) the earlier period will end before the end of the earliest named month in which it is practicable for the Registrar to make the assessment mentioned in subsection (2).
+
+Note: In the case of paragraph (3)(c), the Registrar must use the information from the tax assessment to make an assessment for the period starting immediately after the end of the earlier period (unless the information is not relevant to an assessment, because of an agreement, determination or order) (see section 34C).
+
+76 Section 34C
+
+Repeal the section, substitute:

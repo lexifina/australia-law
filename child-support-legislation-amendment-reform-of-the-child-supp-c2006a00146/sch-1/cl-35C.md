@@ -1,0 +1,9 @@
+# 35C Application of Part to determine annual rate of child support
+
+This Part applies in relation to the assessment of child support payable by a parent for a child, subject to:
+
+(a) any determination made by the Registrar under Part 6A (departure determinations); and
+
+(b) any order made by a court under Division 4 of Part 7 (departure orders); and
+
+(c) any provisions of a child support agreement that have effect, for the purposes of this Part, as if they were such an order made by consent.

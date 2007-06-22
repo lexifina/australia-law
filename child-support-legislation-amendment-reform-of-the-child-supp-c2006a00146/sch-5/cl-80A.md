@@ -1,0 +1,21 @@
+## Division 1—Preliminary
+
+# 80A Simplified outline
+
+The following is a simplified outline of this Part:
+
+• Parents (and non-parent carers) of a child can, using a child support agreement, agree between themselves the child support that is to be payable for the child.
+
+• There are 2 sorts of agreements. The first is a binding child support agreement. Each party to the agreement must have received legal advice before entering the agreement, and must also receive legal advice before terminating the agreement.
+
+• The second sort of agreement is a limited child support agreement. An administrative assessment must be in place before a limited child support agreement can be accepted by the Registrar. The annual rate of child support payable under the agreement must be at least the annual rate of child support otherwise payable under this Act.
+
+• Agreements may include provisions that state that child support is to be payable otherwise than in the form of periodic amounts. There are 2 main kinds of such provisions:
+
+(a) non-periodic payment provisions, under which lump sum payments and other non-periodic payments (such as school fees) may be made; and
+
+(b) lump sum payment provisions, under which lump sum payments may be made.
+
+• Payments made under non-periodic payment provisions reduce the annual rate of child support payable.
+
+• Payments made under lump sum payment provisions are credited against the liability of a party to the agreement (rather than reducing the annual rate of child support payable).
