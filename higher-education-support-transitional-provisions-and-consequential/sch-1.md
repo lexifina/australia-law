@@ -38,6 +38,8 @@ then:
 
 (2) However, this item does not apply if the person has notified an appropriate officer of the institution, under subsection 36-5(3) of the Higher Education Support Act 2003, that he or she does not wish to be a Commonwealth supported student in relation to the unit.
 
+(2A) A person cannot establish for the purposes of subitem (1) that he or she is a contributing student within the meaning of Chapter 4 of the Higher Education Funding Act 1988, or not an excepted student, more than 6 weeks after the census date for the unit.
+
 (3) In this item:
 
 excepted student has the meaning given by subsection 41(3) of the Higher Education Funding Act 1988.
@@ -120,7 +122,7 @@ Part 2—Transitional arrangement for students under the Post-graduate education
 
 6 FEE-HELP assistance for existing students under the Post-graduate education loan scheme
 
-If:
+(1) If:
 
 (a) a person is enrolled with an institution in a unit of study that forms part of a course of study that the person started before 1 January 2005; and
 
@@ -149,6 +151,8 @@ then:
 (h) if the institution is not (apart from this item) a higher education provider—the institution is taken, for the purposes of the application of the Higher Education Support Act 2003 in relation to the person and the unit, to be a higher education provider; and
 
 (i) if subparagraph (f)(ii) applies—the person is taken, for the purposes of that Act, to be entitled to FEE-HELP assistance for the unit.
+
+(2) A person cannot establish for the purposes of subitem (1) that he or she is an eligible student, within the meaning of section 98B of the Higher Education Funding Act 1988, more than 6 weeks after the census date for the unit.
 
 7 Discontinuance of enrolments
 
