@@ -40,13 +40,17 @@ Part 2—Application and saving provisions
 
 115 Application
 
-(1) The amendments made by Schedule 1 to this Act, and this Schedule (other than items 1 and 2 of this Schedule), apply in relation to a day in a child support period, being a day that is, or is after, the day on which this item commences.
+(1) The amendments made by Schedule 1 to this Act, and this Schedule (other than items 1 and 2 and 92 to 96 of this Schedule), apply in relation to a day in a child support period, being a day that is, or is after, the day on which this item commences.
 
 (2) The amounts referred to in subsections 65A(2) and 66(5) of the Assessment Act (as inserted by Schedule 1 to this Act) are to be indexed in accordance with section 153A of that Act on and after 1 January 2007 as if item 1 of Schedule 1 had commenced on that day.
 
 116 Application
 
 The amendments made by items 1 and 2 of this Schedule apply in relation to the 2008-09 income year and later income years.
+
+116A Application
+
+The amendments made by items 92 to 96 of this Schedule apply in relation to a day in a child support period, being a day that is, or is after, 1 January 2008.
 
 117 Saving assessments etc.
 
