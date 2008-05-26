@@ -6,7 +6,7 @@
 
 (2) The circumstances in which the scheme provides for payments must be circumstances:
 
-(a) in which the Minister considers that Parts 2.5B, 2.5C and 2.19B of the Social Security Act 1991 do not produce appropriate results; and
+(a) in which the Minister considers that Divisions 2 and 3 of Part 2.5A and Division 2 of Part 2.19A of the Social Security Act 1991 do not produce appropriate results; and
 
 (b) occurring in the financial year starting on 1 July 2004.
 
@@ -21,11 +21,3 @@
 (d) administrative matters, such as determination of entitlement and how and when payments will be made.
 
 (4) Payments under the scheme are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 11 May 2005
-
-Senate on 12 May 2005]
-
-(65/05)
