@@ -1,0 +1,21 @@
+# 105EA Contravention on high seas
+
+(1) A person commits an offence if:
+
+(a) the person uses a boat for fishing; and
+
+(b) the person contravenes an international fisheries management measure in relation to the fishing; and
+
+(c) the boat is on the high seas; and
+
+(d) the boat is a foreign boat.
+
+Penalty: 500 penalty units.
+
+(2) Strict liability applies to paragraphs (1)(c) and (d).
+
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+(3) Subsection (1) does not apply if the act that contravenes the international fisheries management measure is fishing that is authorised by an authorisation (however described) issued under the law of the country of nationality of the boat.
+
+Note: A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the Criminal Code).
