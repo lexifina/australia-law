@@ -32,9 +32,13 @@ Repeal the subsection, substitute:
 
 Omit “for administrative assessment of child support (within the meaning of that Act) for the child seeking payment of child support by the other person”, substitute “for the other person to be assessed in respect of the costs of the child”.
 
-114 Paragraphs 86(3B)(c) and 87(4D)(c)
+114 Paragraph 86(3B)(c)
 
 Omit “for administrative assessment of child support (within the meaning of that Act) for the child, seeking payment of the child support by the other party to the agreement”, substitute “for the other party to the agreement to be assessed in respect of the costs of the child”.
+
+114A Paragraph 87(4D)(c)
+
+Omit “for administrative assessment of child support (within the meaning of that Act) for the child seeking payment of the child support by the other party to the agreement”, substitute “for the other party to the agreement to be assessed in respect of the costs of the child”.
 
 Part 2—Application and saving provisions
 

@@ -4,21 +4,9 @@ Part 1—Amendments
 
 Child Support (Assessment) Act 1989
 
-1 Subsection 98C(3)
-
-Omit “Subsections 117(4)”, substitute “Subsections 117(2A) and (4)”.
-
-2 Subsection 98L(2)
-
-Omit “Subsections 117(4)”, substitute “Subsections 117(2A) and (4)”.
-
 3 Subsection 98S(3A)
 
 Repeal the subsection.
-
-4 Subsection 98U(3)
-
-Omit “Subsections 117(4)”, substitute “Subsections 117(2A) and (4)”.
 
 5 After paragraph 117(2)(a)
 
