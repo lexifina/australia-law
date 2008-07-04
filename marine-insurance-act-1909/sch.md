@@ -14,15 +14,15 @@ STATE ACTS
 
 Short Title and Number | State | Extent
 
-Life, Fire, and Marine Insurance Act, 1902, No. 49. | New South Wales | Section 17.
+Life, Fire, and Marine Insurance Act, 1902, No. 49. | New South Wales.... | Section 17.
 
-The Instruments Act.1890, No. 1103 | Victoria | Part III, Division 1.
+The Instruments Act.1890, No. 1103 | Victoria........... | Part III, Division 1.
 
-Prohibition to Re-Assurances Repeal Act 1867, No. 4. | South Australia | The whole.
+Prohibition to Re-Assurances Repeal Act 1867, No. 4. | South Australia...... | The whole.
 
-The Marine Insurance Act 1907, No. 33 | Western Australia | The whole.
+The Marine Insurance Act 1907, No. 33 | Western Australia.... | The whole.
 
-The Policies of Marine Assurance Act 1869, No. 10. | Tasmania | The whole.
+The Policies of Marine Assurance Act 1869, No. 10. | Tasmania......... | The whole.
 
 ## The Second Schedule
 
@@ -48,7 +48,7 @@ upon the said ship, &c., until she hath moored at anchor twenty-four hours in go
 
 without prejudice to this insurance. The said ship, &c., goods and merchandises, &c., for so much as concerns the assured by agreement between the assured and assurers in this policy, are and shall be valued at
 
-Touching the adventures and perils which we the assurers are contented to bear and do take upon us in this voyage: they are of the seas, men of war, fire, enemies, pirates, rovers, thieves, jettisons, letters of mart and countermart, surprisals, takings at sea, arrests, restraints, and detainments of all kings, princes, and people, of what nation, condition, or quality soever, barratry of the master and mariners, and of all other perils, losses, and misfortunes, that have or shall come to the hurt, detriment, or damage of the said goods, and merchandises, and ship, &c., or any part thereof And in the case of any loss or misfortune it shall be lawful to the assured, their factors, servants and assigns, to sue, labour, and travel for, in and about the defence, safeguards, and recovery of the said goods and merchandises, and ship, &c., or any part thereof,[(]a) without prejudice to this insurance; to the charges whereof we, the assurers, will contribute each one according to the rate and quantity of his sum herein assured.[(]b) And it is especially declared and agreed that no acts of the insurer or insured in recovering, saving, or preserving the property insured shall be considered as a waiver, or acceptance of abandonment. And it is agreed by us, the insurers, that this writing or policy of assurance shall be of as much force and effect as the surest writing or policy of assurance heretofore made in Lombard-street, or in the Royal Exchange, or elsewhere in London. And so we, the assurers, are contented, and do hereby promise and bind ourselves, each one for his own part, our heirs, executors, and goods to the assured, their executors, administrators, and assigns, for the true performance of the premises, confessing ourselves paid the consideration due unto us for this assurance by the assured, at and after the rate of
+Touching the adventures and perils which we the assurers are contented to bear and do take upon us in this voyage: they are of the seas, men of war, fire, enemies, pirates, rovers, thieves, jettisons, letters of mart and countermart, surprisals, takings at sea, arrests, restraints, and detainments of all kings, princes, and people, of what nation, condition, or quality soever, barratry of the master and mariners, and of all other perils, losses, and misfortunes, that have or shall come to the hurt, detriment, or damage of the said goods, and merchandises, and ship, &c., or any part thereof. [(a) ]And in the case of any loss or misfortune it shall be lawful to the assured, their factors, servants and assigns, to sue, labour, and travel for, in and about the defence, safeguards, and recovery of the said goods and merchandises, and ship, &c., or any part thereof, without prejudice to this insurance; to the charges whereof we, the assurers, will contribute each one according to the rate and quantity of his sum herein assured. [(b)] And it is especially declared and agreed that no acts of the insurer or insured in recovering, saving, or preserving the property insured shall be considered as a waiver, or acceptance of abandonment. And it is agreed by us, the insurers, that this writing or policy of assurance shall be of as much force and effect as the surest writing or policy of assurance heretofore made in Lombard-street, or in the Royal Exchange, or elsewhere in London. And so we, the assurers, are contented, and do hereby promise and bind ourselves, each one for his own part, our heirs, executors, and goods to the assured, their executors, administrators, and assigns, for the true performance of the premises, confessing ourselves paid the consideration due unto us for this assurance by the assured, at and after the rate of
 
 IN WITNESS whereof we, the assurers, have subscribed our names and sums assured in London.
 
@@ -62,7 +62,7 @@ The following are the rules referred to by this Act for the construction of a po
 
 Lost or not lost
 
-1. Where the subject-matter is insured “lost or not lost” , and the loss has occurred before the contract is concluded, the risk attaches unless, at such time, the assured was aware of the loss, and the insurer was not.
+1. Where the subject-matter is insured “lost or not lost,” and the loss has occurred before the contract is concluded, the risk attaches unless, at such time, the assured was aware of the loss, and the insurer was not.
 
 From
 
@@ -72,7 +72,7 @@ At and from
 
 [Ship.]
 
-3 (a) Where a ship is insured “at and from” a particular place, and she is at that place in good safety when the contract is concluded, the risk attaches immediately.
+3. (a) Where a ship is insured “at and from” a particular place, and she is at that place in good safety when the contract is concluded, the risk attaches immediately.
 
 (b) If she be not at that place when the contract is concluded the risk attaches as soon as she arrives there in good safety, and, unless the policy otherwise provides, it is immaterial that she is covered by another policy for a specified time after arrival.
 
@@ -96,7 +96,7 @@ Touch and stay
 
 Perils of the seas
 
-7. The term“perils of the seas” refers only to fortuitous accidents or casualties of the seas. It does not include the ordinary action of the winds and waves.
+7. The term “perils of the seas” refers only to fortuitous accidents or casualties of the seas. It does not include the ordinary action of the winds and waves.
 
 Pirates
 
@@ -108,11 +108,11 @@ Thieves
 
 Restraint of princes
 
-10 The term “arrest, &c., of kings, princes, and people” refers to political or executive acts, and does not include a loss caused by riot or by ordinary judicial process.
+10. The term “arrest, &c., of kings, princes, and people” refers to political or executive acts, and does not include a loss caused by riot or by ordinary judicial process.
 
 Barratry
 
-11 The term “barratry” includes every wrongful act wilfully committed by the master or crew to the prejudice of the owner, or, as the case may be, the charterer.
+11. The term “barratry” includes every wrongful act wilfully committed by the master or crew to the prejudice of the owner, or, as the case may be, the charterer.
 
 All other perils
 
