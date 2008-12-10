@@ -1,0 +1,1 @@
+An Act to make provision for payments, in lieu of long leave, on the retirement or death of certain Judges (other than Justices of the High Court and Federal Magistrates) and persons having the status of Judges
