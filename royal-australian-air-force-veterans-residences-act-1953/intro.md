@@ -2,7 +2,7 @@ An Act to provide for the application of the share of the proceeds of Prize capt
 
 Preamble
 
-WHEREAS, out of the proceeds of prize captured during the state of war that commenced on 3 September 1939, the sum of £229,000 is available for application for the benefit of members of the Royal Australian Air Force who served during that state of war:
+WHEREAS, out of the proceeds of prize captured during the state of war that commenced on 3 September 1939, the sum of pounds 229,000 is available for application for the benefit of members of the Royal Australian Air Force who served during that state of war:
 
 AND WHEREAS it is impracticable to distribute the moneys so available to individual members of the Royal Australian Air Force who so served:
 
