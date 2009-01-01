@@ -1,0 +1,77 @@
+# 71K Debts arising in respect of back to school bonus or single income family bonus
+
+(1) This section applies in relation to an individual (the recipient) who has been paid a back to school bonus or a single income family bonus (the relevant payment).
+
+What determinations are relevant?
+
+(2) Each of the following is a relevant determination in relation to the recipient:
+
+(a) if the relevant payment was made because, at that time, subsection 95(2) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 95(2)(a) of that Act;
+
+(b) if the relevant payment was made because, at that time, subsection 95(3) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 95(3)(a) of that Act;
+
+(c) if the relevant payment was made because, at that time, subsection 95(4) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 95(4)(a) of that Act;
+
+(d) if the relevant payment was made because, at that time, section 98 of the Family Assistance Act applied to the recipient—the determination made under Part 3 of the Social Security (Administration) Act 1999 that resulted in the recipient receiving the carer payment or disability support pension;
+
+(e) if the relevant payment was made because, at that time, subsection 101(2) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 101(2)(a) of that Act;
+
+(f) if the relevant payment was made because, at that time, subsection 101(3) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 101(3)(a) of that Act;
+
+(g) if the relevant payment was made because, at that time, subsection 101(4) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 101(4)(a) of that Act.
+
+Situation in which whole amount is a debt
+
+(3) If:
+
+(a) after the relevant payment was made to the recipient, a relevant determination in relation to the recipient, at least so far as it relates to 3 February 2009, is or was (however described) changed, revoked, set aside, or superseded by another determination; and
+
+(b) the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the recipient knowingly made a false or misleading statement, or knowingly provided false information; and
+
+(c) had the change, revocation, setting aside or superseding occurred on or before 3 February 2009, the relevant payment would not have been made;
+
+the amount of the relevant payment is a debt due to the Commonwealth by the recipient.
+
+Situation in which part of amount is a debt
+
+(4) If:
+
+(a) after the relevant payment was made to the recipient, a relevant determination in relation to the recipient, at least so far as it relates to 3 February 2009, is or was (however described) changed, revoked, set aside, or superseded by another determination; and
+
+(b) the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the recipient knowingly made a false or misleading statement, or knowingly provided false information; and
+
+(c) had the change, revocation, setting aside or superseding occurred on or before 3 February 2009, the amount of the relevant payment would have been reduced;
+
+the amount by which the relevant payment would have been reduced is a debt due to the Commonwealth by the recipient.
+
+8 Paragraph 74(a)
+
+Omit “or economic security strategy payment to families”, substitute “, economic security strategy payment to families, back to school bonus or single income family bonus”.
+
+9 Subsection 82(3) (paragraph (a) of the definition of debt)
+
+After “71J,”, insert “71K,”.
+
+10 Subsection 93A(6) (at the end of the definition of family assistance payment)
+
+Add:
+
+; or (e) a payment of back to school bonus or single income family bonus.
+
+11 Subsection 106(3)
+
+Omit “or economic security strategy payment to families”, substitute “, economic security strategy payment to families, back to school bonus or single income family bonus”.
+
+12 Subsection 109D(4)
+
+Omit “or economic security strategy payment to families”, substitute “, economic security strategy payment to families, back to school bonus or single income family bonus”.
+
+13 Paragraph 109D(5)(a)
+
+Omit “or economic security strategy payment to families”, substitute “, economic security strategy payment to families, back to school bonus or single income family bonus”.
+
+14 Section 219TA (at the end of the definition of relevant benefit)
+
+Add:
+
+; or (k) back to school bonus or single income family bonus.
