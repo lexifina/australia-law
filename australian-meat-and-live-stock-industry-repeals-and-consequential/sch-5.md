@@ -322,8 +322,6 @@ In this Part, unless the contrary intention appears:
 
 authorised officer means the Minister or an officer authorised in writing by the Minister for the purposes of this Part.
 
-award has the same meaning as in the Workplace Relations Act 1996.
-
 commencement time means the time when Part 3 of the Australian Meat and Live-stock Industry Act 1997 commences.
 
 DFRDB Act means the Defence Force Retirement and Death Benefits Act 1973.
