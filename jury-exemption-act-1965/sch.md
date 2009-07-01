@@ -12,9 +12,7 @@ Senators
 
 Members of the House of Representatives
 
-Members of the Australian Industrial Relations Commission
-
-Members of the Australian Fair Pay Commission
+Members of Fair Work Australia
 
 Members and special members of the Australian Federal Police
 
