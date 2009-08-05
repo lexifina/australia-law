@@ -1,6 +1,6 @@
 An Act to make provision to protect the privacy of individuals, and for related purposes
 
-WHEREAS Australia is a party to the International Covenant on Civil and Political Rights, the English text of which is set out in Schedule 2 to the Human Rights and Equal Opportunity Commission Act 1986:
+WHEREAS Australia is a party to the International Covenant on Civil and Political Rights, the English text of which is set out in Schedule 2 to the Australian Human Rights Commission Act 1986:
 
 AND WHEREAS, by that Covenant, Australia has undertaken to adopt such legislative measures as may be necessary to give effect to the right of persons not to be subjected to arbitrary or unlawful interference with their privacy, family, home or correspondence:
 
