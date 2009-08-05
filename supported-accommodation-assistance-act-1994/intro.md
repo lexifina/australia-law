@@ -1,13 +1,5 @@
 An Act relating to financial assistance to the States, the Australian Capital Territory and the Northern Territory in connection with the jointly-funded program known as the Supported Accommodation Assistance Program (“SAAP”), and for related purposes
 
-Supported Accommodation Assistance Act 1994
-
-No. 162, 1994
-
-An Act relating to financial assistance to the States, the Australian Capital Territory and the Northern Territory in connection with the jointly-funded program known as the Supported Accommodation Assistance Program (“SAAP”), and for related purposes
-
-[Assented to 16 December 1994]
-
 Preamble
 
 This Preamble sets out considerations taken into account by the Parliament of Australia in enacting the law that follows.
@@ -24,7 +16,7 @@ Australia has acted to protect the rights of all of its citizens, including peop
 
 (c) the acceptance of the Universal Declaration of Human Rights and of the Declaration on the Elimination of Violence Against Women; and
 
-(d) the enactment of legislation such as the Human Rights and Equal Opportunity Commission Act 1986.
+(d) the enactment of legislation such as the Australian Human Rights Commission Act 1986.
 
 Legislation relating to homeless people should include a focus on the provision of appropriate support to meet the individual needs of the clients of the Supported Accommodation Assistance Program (“SAAP”) and on their right to an equitable share of the community’s resources.
 
