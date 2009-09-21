@@ -104,7 +104,7 @@ Note: The effect of this item is that if a person ceases to be an Australian cit
 
 (2) In applying section 22 of the new Act to an application covered by subitem (1), subsections 22(1) to (2), (4A) and (5A) of the new Act do not apply and the following subsections of section 22 of the new Act apply instead:
 
-(1) For the purposes of section 21, a person satisfies the residence requirement if the person has been present in Australia as a permanent resident for:
+(1) For the purposes of section 21, a person satisfies the general residence requirement if the person has been present in Australia as a permanent resident for:
 
 (a) a total period of at least 1 year in the period of 2 years before the day the person made the application; and
 
