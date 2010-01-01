@@ -1,0 +1,5 @@
+# 49AA Civil enforcement of penalty
+
+(1) A pecuniary penalty is a debt payable to the Commonwealth.
+
+(2) The Commonwealth may enforce a civil penalty order as if it were an order made in civil proceedings against a person to recover a debt due by the person. The debt arising from the order is taken to be a judgement debt.

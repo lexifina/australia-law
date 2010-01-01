@@ -1,0 +1,9 @@
+# 39DB Orders that can be made by the court
+
+The Federal Court or the Federal Magistrates Court may, on application under section 39DA, make one or more of the following orders in relation to a person who has contravened or proposes to contravene a civil penalty provision of this Part:
+
+(a) an order awarding compensation for loss that a person has suffered because of the contravention or proposed contravention;
+
+(b) an order granting an injunction, or interim injunction, to prevent, stop or remedy the effects of the contravention or proposed contravention;
+
+(c) any other order that the court considers necessary to stop, or rectify the effects of, the contravention or proposed contravention.
