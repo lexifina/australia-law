@@ -1120,29 +1120,29 @@ Article 78—Evacuation of children
 
 (a) surname(s) of the child;
 
-(b) the child's first name(s);
+(b) the child’s first name(s);
 
-(c) the child's sex;
+(c) the child’s sex;
 
 (d) the place and date of birth (or, if that date is not known, the approximate age);
 
-(e) the father's full name;
+(e) the father’s full name;
 
 (f) the mother's full name and her maiden name;
 
-(g) the child's next-of-kin;
+(g) the child’s next-of-kin;
 
-(h) the child's nationality;
+(h) the child’s nationality;
 
-(i) the child's native language, and any other languages he speaks;
+(i) the child’s native language, and any other languages he speaks;
 
-(j) the address of the child's family;
+(j) the address of the child’s family;
 
 (k) any identification number for the child;
 
-(l) the child's state of health;
+(l) the child’s state of health;
 
-(m) the child's blood group;
+(m) the child’s blood group;
 
 (n) any distinguishing features;
 
@@ -1150,9 +1150,9 @@ Article 78—Evacuation of children
 
 (p) the date on which and the place from which the child left the country;
 
-(q) the child's religion, if any;
+(q) the child’s religion, if any;
 
-(r) the child's present address in the receiving country;
+(r) the child’s present address in the receiving country;
 
 (s) should the child die before his return, the date, place and circumstances of death and place of interment.
 
@@ -1490,11 +1490,11 @@ Article 6—Light signal
 
 1. The light signal, consisting of a flashing blue light, is established for the use of medical aircraft to signal their identity. No other aircraft shall use this signal. The recommended blue colour is obtained by using, as trichromatic co-ordinates:
 
-green boundary | y= 0.065 + 0.805x
+green boundary | y = 0.065 + 0.805x
 
-white boundary | y= 0.400 – x
+white boundary | y = 0.400 – x
 
-purple boundary | x= 0.133 + 0.600y
+purple boundary | x = 0.133 + 0.600y
 
 The recommended flashing rate of the blue light is between sixty and one hundred flashes per minute.
 
