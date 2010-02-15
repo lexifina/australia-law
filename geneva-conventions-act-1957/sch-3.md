@@ -1263,3 +1263,5 @@ The Swiss Federal Council shall register the present Convention with the Secreta
 IN WITNESS WHEREOF the undersigned, having deposited their respective full powers, have signed the present Convention.
 
 DONE at Geneva this twelfth day of August 1949, in the English and French languages. The original shall be deposited in the Archives of the Swiss Confederation. The Swiss Federal Council shall transmit certified copies thereof to each of the signatory and acceding States.
+
+[Here follow the signatures and Annexes.]
