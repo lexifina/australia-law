@@ -8,7 +8,7 @@ The amendments made by this Schedule are incorporated in the compilations on Com
 
 Freedom of Information Act 1982
 
-Human Rights and Equal Opportunity Commission Act 1986
+Human Rights and Equal Opportunity Commission Act 1986 [now cited as Australian Human Rights Commission Act 1986]
 
 Merit Protection (Australian Government Employees) Act 1984 [repealed by Act No. 146, 1999, Sch. 1]
 
