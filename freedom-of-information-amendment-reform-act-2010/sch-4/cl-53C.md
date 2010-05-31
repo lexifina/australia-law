@@ -1,0 +1,15 @@
+# 53C Internal review—who is an affected third party?
+
+The following table has effect:
+
+Who is an affected third party?
+
+Item | If, in relation to a request for access to a document ... | the affected third party for the document is ...
+
+1 | consultation with a State under section 26A (documents affecting Commonwealth-State relations) is required | the State.
+
+2 | section 27 (business documents) applies in relation to business information in the document | the person or organisation concerned (within the meaning of section 27).
+
+3 | section 27A (documents affecting personal privacy) applies in relation to personal information in the document about a living person | the person.
+
+4 | section 27A (documents affecting personal privacy) applies in relation to personal information in the document about a deceased person | the legal personal representative of the deceased person.

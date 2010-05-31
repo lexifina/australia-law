@@ -1,0 +1,45 @@
+# 51DA Decision not made on request for amendment or annotation within time—deemed refusal
+
+(1) This section applies if:
+
+(a) an application has been made to an agency or Minister under section 48; and
+
+(b) the period of 30 days mentioned in section 51D (the initial decision period) has ended since the day the application was received by, or on behalf of, the agency or Minister; and
+
+(c) notice of a decision on the application has not been received by the applicant.
+
+Deemed refusal
+
+(2) Subject to this section:
+
+(a) the principal officer of the agency or the Minister is taken to have made a decision personally refusing to amend or annotate the record of personal information to which the application relates on the last day of the initial decision period; and
+
+(b) notice of the decision is taken to have been given under section 26 to the applicant on the same day.
+
+Agency or Minister may apply for further time
+
+(3) However, the agency or Minister concerned may apply, in writing, to the Information Commissioner for further time to deal with the application.
+
+(4) The Information Commissioner may allow further time considered appropriate by the Information Commissioner for the agency or Minister to deal with the application.
+
+(5) If the Information Commissioner allows further time, the Information Commissioner may impose any condition that he or she considers appropriate.
+
+(6) Subsection (2) (deemed refusal) does not apply, and is taken never to have applied, if the agency or Minister:
+
+(a) makes a decision on the application within the further time allowed; and
+
+(b) complies with any condition imposed under subsection (5).
+
+(7) However, subsection (2) (deemed refusal) applies as if the initial decision period were extended by the time allowed by the Information Commissioner under subsection (4) if the agency or Minister:
+
+(a) does not make a decision on the request within the further time allowed; or
+
+(b) does not comply with any condition imposed under subsection (5).
+
+No further time allowed
+
+(8) If subsection (7) (deemed refusal after allowance of further time) applies, the Information Commissioner does not have the power to allow further time under this section in relation to the decision taken to be made under subsection (2) in its operation as affected by subsection (7).
+
+30 Part VI (heading)
+
+Repeal the heading, substitute:

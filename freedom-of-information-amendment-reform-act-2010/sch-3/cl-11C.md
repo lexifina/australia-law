@@ -1,0 +1,55 @@
+# 11C Publication of information in accessed documents
+
+Scope
+
+(1) This section applies to information if an agency or Minister gives a person access to a document under section 11A containing the information, except in the case of any of the following:
+
+(a) personal information about any person, if it would be unreasonable to publish the information;
+
+(b) information about the business, commercial, financial or professional affairs of any person, if it would be unreasonable to publish the information;
+
+(c) other information of a kind determined by the Information Commissioner under subsection (2), if it would be unreasonable to publish the information;
+
+(d) any information, if it is not reasonably practicable to publish the information under this section because of the extent of any modifications to a document (or documents) necessary to delete information mentioned in paragraphs (a) to (c).
+
+(2) The Information Commissioner may, by legislative instrument, make a determination for the purposes of paragraph (1)(c).
+
+Publication
+
+(3) The agency, or the Minister, must publish the information to members of the public generally on a website by:
+
+(a) making the information available for downloading from the website; or
+
+(b) publishing on the website a link to another website, from which the information can be downloaded; or
+
+(c) publishing on the website other details of how the information may be obtained.
+
+(4) The agency may impose a charge on a person for accessing the information only if:
+
+(a) the person does not directly access the information by downloading it from the website (or another website); and
+
+(b) the charge is to reimburse the agency for a specific reproduction cost, or other specific incidental costs, incurred in giving the person access to that particular information.
+
+(5) If there is a charge for accessing the information, the agency or Minister must publish details of the charge in the same way as the information is published under this section.
+
+Time limit for publication
+
+(6) The agency or Minister must comply with this section within 10 working days after the day the person is given access to the document.
+
+(7) In this section:
+
+working day means a day that is not:
+
+(a) a Saturday; or
+
+(b) a Sunday; or
+
+(c) a public holiday in the place where the function of publishing the information under this section is to be performed.
+
+16 Section 18
+
+Repeal the section.
+
+17 Section 22
+
+Repeal the section, substitute:

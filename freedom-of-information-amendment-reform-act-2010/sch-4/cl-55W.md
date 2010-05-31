@@ -1,0 +1,27 @@
+# 55W Information gathering powers—obliging persons to appear
+
+Notice to appear
+
+(1) The Information Commissioner may, by written notice, require a person to appear before the Information Commissioner to answer questions for the purposes of an IC review.
+
+(2) The notice must:
+
+(a) be in writing; and
+
+(b) state that the person must comply with the notice at a specified time that is not less than 14 days after the time at which the person is given the notice; and
+
+(c) specify the place at which the person must comply with the notice.
+
+Offence for failure to comply
+
+(3) A person commits an offence if:
+
+(a) the person is subject to a requirement specified in a notice under subsection (1); and
+
+(b) the person engages in conduct; and
+
+(c) the person’s conduct breaches the requirement.
+
+Penalty for a contravention of this subsection: 6 months imprisonment.
+
+Note: Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.

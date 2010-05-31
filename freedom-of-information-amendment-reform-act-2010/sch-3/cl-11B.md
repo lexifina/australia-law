@@ -1,0 +1,39 @@
+# 11B Public interest exemptions—factors
+
+Scope
+
+(1) This section applies for the purposes of working out whether access to a conditionally exempt document would, on balance, be contrary to the public interest under subsection 11A(5).
+
+(2) This section does not limit subsection 11A(5).
+
+Factors favouring access
+
+(3) Factors favouring access to the document in the public interest include whether access to the document would do any of the following:
+
+(a) promote the objects of this Act (including all the matters set out in sections 3 and 3A);
+
+(b) inform debate on a matter of public importance;
+
+(c) promote effective oversight of public expenditure;
+
+(d) allow a person to access his or her own personal information.
+
+Irrelevant factors
+
+(4) The following factors must not be taken into account in deciding whether access to the document would, on balance, be contrary to the public interest:
+
+(a) access to the document could result in embarrassment to the Commonwealth Government, or cause a loss of confidence in the Commonwealth Government;
+
+(b) access to the document could result in any person misinterpreting or misunderstanding the document;
+
+(c) the author of the document was (or is) of high seniority in the agency to which the request for access to the document was made;
+
+(d) access to the document could result in confusion or unnecessary debate.
+
+Guidelines
+
+(5) In working out whether access to the document would, on balance, be contrary to the public interest, an agency or Minister must have regard to any guidelines issued by the Information Commissioner for the purposes of this subsection under section 93A.
+
+15 Before section 12
+
+Insert:

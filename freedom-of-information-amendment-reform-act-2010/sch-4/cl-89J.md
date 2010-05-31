@@ -1,0 +1,17 @@
+# 89J Complaints to Ombudsman—limitation on amending records in reports under the Ombudsman Act 1976
+
+(1) The Ombudsman may, in a report under section 15 of the Ombudsman Act 1976, recommend that an amendment be made to a record that relates to a record of an opinion only if he or she is satisfied of either (or both) of the following:
+
+(a) the opinion was based on a mistake of fact;
+
+(b) the author of the opinion was biased, unqualified to form the opinion or acted improperly in conducting the factual inquiries that led to the formation of the opinion.
+
+(2) The Ombudsman must not, in a report under section 15 of the Ombudsman Act 1976, recommend that an amendment be made to a record if he or she is satisfied of either of the following:
+
+(a) the record is a record of a decision, under an enactment, by a court, tribunal, authority or person;
+
+(b) the decision whether to amend the record involves determination of a question that the person seeking amendment of the record is, or has been, entitled to have determined by the agency (on internal review), the Information Commissioner, a court or tribunal.
+
+50 Before section 91
+
+Insert:

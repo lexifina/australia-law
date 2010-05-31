@@ -1,0 +1,19 @@
+## Division 1—Preliminary
+
+# 31A Access to exempt and conditionally exempt documents
+
+The following table summarises how this Act applies to exempt documents and documents that are conditionally exempt:
+
+How this Act applies to exempt and conditionally exempt documents
+
+Item | If … | then … | because of …
+
+1 | a document is an exempt document under Division 2 (exemptions) or under paragraph (b) or (c) of the definition of exempt document in subsection 4(1) | access to the document is not required to be given | subsection 11A(4).
+
+2 | a document is a conditionally exempt document under Division 3 (public interest conditional exemptions) | access to the document is required to be given, unless it would be contrary to the public interest | subsection 11A(5) (see also section 11B (public interest factors)).
+
+3 | a document is an exempt document as mentioned in item 1, and also a conditionally exempt document under Division 3 | access to the document is not required to be given | subsections 11A(4) and (6), and section 32 (interpretation).
+
+4 | access to a document is refused because it contains exempt matter, and the exempt matter can be deleted | (a) an edited copy deleting the exempt matter must be prepared (if practicable); and (b) access to the edited copy must be given; | section 22.
+
+5 | a document is an exempt document because of any provision of this Act | access to the document may be given apart from under this Act | section 3A (objects—information or documents otherwise accessible).

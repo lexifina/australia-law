@@ -1,0 +1,49 @@
+# 26A Consultation—documents affecting Commonwealth-State relations
+
+Scope
+
+(1) This section applies if:
+
+(a) arrangements have been entered into between the Commonwealth and a State about consultation under this section; and
+
+(b) a request is made to an agency or Minister for access to a document that:
+
+(i) originated with, or was received from, the State or an authority of the State; or
+
+(ii) contains information (State-originated information) that originated with, or was received from, the State or an authority of the State; and
+
+(c) it appears to the agency or Minister that the State may reasonably wish to contend that:
+
+(i) the document is conditionally exempt under section 47B (Commonwealth-State relations); and
+
+(ii) access to the document would, on balance, be contrary to the public interest for the purposes of subsection 11A(5).
+
+Note: Access must generally be given to a conditionally exempt document unless it would be contrary to the public interest (see section 11A).
+
+Consultation required
+
+(2) The agency or Minister must not decide to give the applicant access to the document unless consultation has taken place between the Commonwealth and the State in accordance with the arrangements.
+
+Decision to give access
+
+(3) If, after such consultation has taken place, the agency or Minister decides to give the applicant access to the document, the agency or Minister must give written notice of the decision to both of the following:
+
+(a) the State;
+
+(b) the applicant.
+
+Access not to be given until review or appeal opportunities have run out
+
+(4) However, the agency or Minister must not give the applicant access to the document unless, after all the opportunities of the State for review or appeal in relation to the decision to give access to the document have run out, the decision still stands, or is confirmed.
+
+Note 1: The decision to give access to the document is subject to internal review (see Part VI), review by the Information Commissioner (see Part VII) and review by the Tribunal (see Part VIIA).
+
+Note 2: For when all opportunities for review or appeal in relation to the decision to give access to the document have run out, see subsection 4(1).
+
+Edited copies and State-originated information
+
+(5) This section applies:
+
+(a) in relation to an edited copy of a document—in the same way as it applies to the document; and
+
+(b) in relation to a document containing State-originated information—to the extent to which the document contains such information.

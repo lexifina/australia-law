@@ -1,0 +1,17 @@
+# 55Z Information gathering powers—protection from liability
+
+(1) This section applies if a person does any of the following in good faith for the purposes of an IC review:
+
+(a) gives information;
+
+(b) produces a document;
+
+(c) answers a question.
+
+(2) If this section applies, then:
+
+(a) civil proceedings do not lie against a person because the person does any of the matters mentioned in paragraphs (1)(a) to (c); and
+
+(b) the person is not liable for a penalty under a provision of any law because the person does any of those matters.
+
+(3) This section applies whether or not the person is required to do a thing mentioned in subsection (1) in accordance with this Division.

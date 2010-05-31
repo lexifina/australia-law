@@ -1,0 +1,17 @@
+# 53B What is an access grant decision?
+
+An access grant decision is a decision covered by the following table:
+
+Note: The table covers documents that may be conditionally exempt under section 47B (item 1), 47G (item 2) or 47F (items 3 and 4), or exempt under section 47 (item 2). Access must generally be given to a conditionally exempt document unless it would be contrary to the public interest (see section 11A).
+
+Access grant decisions
+
+Item | If, in relation to a request for access to a document ... | the access grant decision is ...
+
+1 | consultation with a State under section 26A (documents affecting Commonwealth-State relations) is required | a decision of an agency or Minister to give the applicant access to the document (or an edited copy of the document) because: (a) the document is not conditionally exempt under section 47B (Commonwealth-State relations); or (b) access to the document would not, on balance, be contrary to the public interest for the purposes of subsection 11A(5).
+
+2 | section 27 (business documents) applies in relation to business information in the document | a decision of an agency or Minister to give access to the document (or an edited copy of the document) because: (a) the document is neither exempt under section 47, nor conditionally exempt under section 47G; or (b) if the document is conditionally exempt under section 47G—access to the document would not, on balance, be contrary to the public interest for the purposes of subsection 11A(5). Note: Section 47 deals with documents disclosing trade secrets or commercially valuable information. Section 47G deals with other business documents.
+
+3 | section 27A (documents affecting personal privacy) applies in relation to personal information in the document about a living person | a decision of an agency or Minister to give the applicant access to the document (or an edited copy of the document) because: (a) the document is not conditionally exempt under section 47F (personal privacy); or (b) access to the document would not, on balance, be contrary to the public interest for the purposes of subsection 11A(5).
+
+4 | section 27A (documents affecting personal privacy) applies in relation to personal information in the document about a deceased person | a decision of an agency or Minister to give the applicant access to the document (or an edited copy of the document) because: (a) the document is not conditionally exempt under section 47F (personal privacy); or (b) access to the document would not, on balance, be contrary to the public interest for the purposes of subsection 11A(5).
