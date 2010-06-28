@@ -1,0 +1,25 @@
+# 63AD Registrar may refuse to accept an election of a new year to date income amount
+
+Refusal to accept election
+
+(1) The Registrar may refuse to accept an election made by a parent under subsection 63AC(1) if the Registrar is satisfied that the amount specified under paragraph 63AC(3)(a) in the notice of the election is more than the amount that the Registrar considers is likely to be the total of the actual income component amounts for the parent for the period referred to in paragraph 60(3)(b).
+
+(2) In making the decision as to whether to refuse to accept the election, the Registrar:
+
+(a) may act on the basis of information that the Registrar has received or obtained as to the financial circumstances of the parent; and
+
+(b) may, but is not required to, conduct an inquiry into the matter.
+
+(3) Except for the purposes of Parts VII, VIIA and VIII of the Registration and Collection Act (dealing with objections and appeals), if the Registrar refuses to accept the election, the election is taken never to have been made.
+
+Notice of refusal
+
+(4) If the Registrar refuses under subsection (1) to accept a parent’s election made under subsection 63AC(1), the Registrar must give written notice of the decision to the parent.
+
+(5) The notice must include, or be accompanied by, a statement to the effect:
+
+(a) that the parent may, subject to the Registration and Collection Act, object to the decision (the original decision); and
+
+(b) that if the parent is aggrieved by a later decision on the objection to the original decision, he or she may, subject to that Act, apply to the SSAT for review of the later decision.
+
+(6) A contravention of subsection (5) in relation to a decision does not affect the validity of the decision.

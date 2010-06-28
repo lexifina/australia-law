@@ -1,0 +1,11 @@
+# 63AB Notice to be given if Registrar refuses to accept an income election
+
+(1) If the Registrar refuses under section 63AA to accept an income election, the Registrar must give written notice of the decision to the parent who sought to make the income election.
+
+(2) The notice must include, or be accompanied by, a statement to the effect:
+
+(a) that the parent may, subject to the Registration and Collection Act, object to the particulars of the assessment in relation to which the parent sought to make the income election; and
+
+(b) that if the parent is aggrieved by the decision on the objection, he or she may, subject to that Act, apply to the SSAT for review of the decision.
+
+(3) A contravention of subsection (2) in relation to a decision does not affect the validity of the decision.

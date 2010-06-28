@@ -1,0 +1,23 @@
+## Subdivision D—Percentages of care determined under the Family Assistance Act
+
+# 54K Percentages of care determined under the Family Assistance Act that apply for child support purposes
+
+(1) If:
+
+(a) the Registrar is required by a provision of Subdivision B of this Division to determine a responsible person’s percentage of care for a child; and
+
+(b) the Family Assistance Secretary has determined the responsible person’s percentage of care for the child (the family assistance care determination) under a provision of Subdivision D of Division 1 of Part 3 of the Family Assistance Act; and
+
+(c) the family assistance care determination was made in relation to a claim for payment of family tax benefit; and
+
+(d) the family assistance care determination has not ceased to apply or been revoked;
+
+then:
+
+(e) the family assistance care determination has effect, for the purposes of this Act, as if it were a determination of the responsible person’s percentage of care for the child that has been made by the Registrar under a corresponding provision of Subdivision B of this Division; and
+
+(f) the responsible person’s percentage of care for the child applies, for the purposes of this Act, in the same way, and in the same circumstances, in which it would apply if it had been determined by the Registrar under such a provision; and
+
+(g) the family assistance care determination may cease to apply, or be revoked, under Subdivision B or C of this Division in the same way, and in the same circumstances, in which a determination made under Subdivision B of this Division may cease to apply, or be revoked.
+
+(2) This section ceases to apply to the family assistance care determination if the determination ceases to apply, or is revoked, under Subdivision D or E of Division 1 of Part 3 of the Family Assistance Act.

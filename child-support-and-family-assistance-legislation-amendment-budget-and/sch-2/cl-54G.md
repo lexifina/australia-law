@@ -1,0 +1,27 @@
+# 54G Determination must be revoked if there is less than regular care etc.
+
+(1) If:
+
+(a) a responsible person (the first responsible person) for a child was to have at least regular care of the child during a care period under a determination (the first care determination) made under section 50; and
+
+(b) the first responsible person has had no care of the child, or has had a pattern of care that is less than regular care of the child, despite another responsible person for the child making the child available to the first responsible person; and
+
+(c) a determination of the other responsible person’s percentage of care for the child has been made under section 50; and
+
+(d) the other responsible person notifies the Registrar or the Family Assistance Secretary of the matter referred to in paragraph (b) of this subsection within a period that the Registrar considers is reasonable in the circumstances;
+
+the Registrar must revoke both determinations.
+
+Note: The Registrar must make new determinations under section 49 or 50 to replace the revoked determinations: see paragraph 49(1)(b) or 50(1)(b).
+
+(2) The revocation of each determination takes effect:
+
+(a) if the first responsible person never established a pattern of care in accordance with the first care determination—at the beginning of the application day for that determination; or
+
+(b) if the first responsible person established a pattern of care in accordance with the first care determination but later ceased the established pattern of care—at the end of the day before the day on which the person ceased the previously established pattern of care.
+
+(3) To avoid doubt, a responsible person never establishes a pattern of care if:
+
+(a) the responsible person could not have established the pattern of care until a particular period that occurs later in a child support period; and
+
+(b) the responsible person does not establish that pattern during that particular period.

@@ -1,0 +1,9 @@
+# 54A Working out actual care, and extent of care, of a child
+
+(1) The actual care of a child that a person has had, or is likely to have, during a care period may be worked out based on the number of nights that the Registrar is satisfied that the child was, or is likely to be, in the care of the person during the care period.
+
+(2) The extent of care of a child that a person should have had, or is to have, under a care arrangement during a care period may be worked out based on the number of nights that the child should have been, or is to be, in the care of the person during the care period under the care arrangement.
+
+(3) For the purposes of this section, a child cannot be in the care of more than one person at the same time.
+
+(4) This section does not limit section 50, 51, 52 or 54.

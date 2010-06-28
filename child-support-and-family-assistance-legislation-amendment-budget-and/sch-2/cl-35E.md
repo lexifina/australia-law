@@ -1,0 +1,25 @@
+# 35E Application of sections 35C and 35D in relation to claims for family tax benefit for a past period
+
+Initial determination
+
+(1) If:
+
+(a) the Secretary is required by section 35A or 35B to determine an individual’s percentage of care for a child; and
+
+(b) subsection 35A(1) or 35B(1) applies; and
+
+(c) the claim referred to in paragraph 35A(1)(b) or 35B(1)(b) is a claim for payment of family tax benefit for a past period;
+
+sections 35C and 35D apply in relation to the individual as if the determination were being made on the first relevant day of the past period.
+
+Determination after revocation
+
+(2) If:
+
+(a) the Secretary is required by section 35A or 35B to determine (the new determination) an individual’s percentage of care for a child; and
+
+(b) subsection 35A(2) or 35B(2) applies; and
+
+(c) the determination (the earlier determination) referred to in paragraph 35A(2)(a) or 35B(2)(a) relates to a claim for payment of family tax benefit for a past period;
+
+sections 35C and 35D apply in relation to the individual as if the new determination were being made on the relevant day after the revocation of the earlier determination.
