@@ -56,7 +56,7 @@ Internal review and IC review
 
 (1) An amendment made by an item in Part 1 (other than an amendment covered by subitem (2), (3) or (4)) applies in relation to the following:
 
-(a) requests for access made under section 15 of the Freedom of Information 1982 that are received at or after the commencement of that item;
+(a) requests for access made under section 15 of the Freedom of Information Act 1982 that are received at or after the commencement of that item;
 
 (b) applications under section 48 of that Act that are received at or after the commencement of that item.
 

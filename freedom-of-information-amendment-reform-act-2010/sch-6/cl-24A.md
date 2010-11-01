@@ -58,7 +58,7 @@ The amendments made by items 2, 3, 7, 16, 19 and 33 apply in relation to contrac
 
 The amendments made by items 4, 6, 8, 10 to 13, 17, 20 to 32 and 34 to 39 apply in apply in relation to the following:
 
-(a) requests for access made under section 15 of the Freedom of Information 1982 that are received at or after the commencement of those items;
+(a) requests for access made under section 15 of the Freedom of Information Act 1982 that are received at or after the commencement of those items;
 
 (b) applications under section 48 of that Act that are received at or after the commencement of those items.
 

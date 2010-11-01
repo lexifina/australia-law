@@ -341,11 +341,3 @@ A delegation in force under section 99 of the Privacy Act 1988 immediately befor
 (b) necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
 (2) The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Act.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 26 November 2009
-
-Senate on 13 May 2010]
-
-(253/09)
