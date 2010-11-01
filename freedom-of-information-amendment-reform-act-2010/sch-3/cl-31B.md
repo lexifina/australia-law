@@ -18,7 +18,7 @@ Note 2: Access must generally be given to a conditionally exempt document unless
 
 23 Section 32
 
-After “exempt documents,” (wherever occurring), insert “, or are conditionally exempt”.
+After “exempt documents” (wherever occurring), insert “, or are conditionally exempt”.
 
 24 After section 32
 
