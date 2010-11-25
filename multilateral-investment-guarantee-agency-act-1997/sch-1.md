@@ -1279,11 +1279,3 @@ Election of Directors
 10. In determining when an elected candidate has received more than the maximum percentage of the votes, the votes of the Governor casting the largest number of votes for such candidate shall be counted first, then the votes of the Governor casting the next largest number, and so on until such percentage is reached.
 
 11. If not all the remaining Directors have been elected after the second ballot, further ballots shall be held on the same principles until all the remaining Directors are elected, provided that when only one Director remains to be elected, this Director may be elected by a simple majority of the remaining votes and shall be deemed to have been elected by all such votes.
-
-Minister’s second reading speech made in
-
-House of Representatives on 11 December 1996
-
-Senate on 24 February 1997
-
-(196/96)
