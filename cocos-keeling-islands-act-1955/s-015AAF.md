@@ -1,0 +1,3 @@
+# 15AAF Savings—jurisdiction of Supreme Court of the Territory on and after transfer day
+
+Part IVAA of this Act as in force immediately before the transfer day continues in force in relation to any matter in respect of which the Supreme Court of the Territory or a Judge of that Court continues to have jurisdiction on or after that day.
