@@ -123,11 +123,3 @@ in or in relation to the Territory.
 (b) the delegation was in force immediately before the commencement of this item.
 
 (2) The delegation has effect, after the commencement of this item, as if it had been made under subsection 8G(4) of the Cocos (Keeling) Islands Act 1955 as amended by this Schedule.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 29 September 2010
-
-Senate on 17 November 2010]
-
-(209/10)

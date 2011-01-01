@@ -180,7 +180,7 @@ Omit “item 1”, substitute “items 1 and 1A”.
 
 210 Section 53B (table item 1)
 
-After “relations”, insert “etc.”.
+After “relations” (wherever occurring), insert “etc.”.
 
 211 Section 53B (after table item 1)
 
