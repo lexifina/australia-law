@@ -1,1 +1,1 @@
-An Act to impose renewable energy certificate charge, and for related purposes
+An Act to impose large-scale generation shortfall charge, and for related purposes
