@@ -195,11 +195,3 @@ Before “judicial proceeding”, insert “federal”.
 28 Subsection 87(2)
 
 Before “judicial proceeding”, insert “federal”.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 25 November 2009
-
-Senate on 16 March 2010]
-
-(241/09)
