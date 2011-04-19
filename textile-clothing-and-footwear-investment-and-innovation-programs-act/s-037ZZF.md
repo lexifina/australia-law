@@ -1,0 +1,15 @@
+# 37ZZF Reconsideration and review of decisions
+
+(1) The Clothing and Household Textile (BIC) scheme must contain provisions for and in relation to the review of decisions of the Secretary under the scheme that affect an entity.
+
+(2) The scheme must contain provisions under which:
+
+(a) an entity that is affected by a decision (the initial decision) of the Secretary under the scheme may, if dissatisfied with the decision, request the Secretary to reconsider the decision; and
+
+(b) the Secretary is required to reconsider the initial decision and to confirm, revoke or vary the decision; and
+
+(c) an application may be made to the Administrative Appeals Tribunal for review of an initial decision that has been confirmed or varied.
+
+(3) However, the scheme may contain provisions that specify decisions in relation to which the provisions mentioned in subsection (2) do not apply.
+
+(4) If the scheme provides that the Secretary is taken to have confirmed an initial decision after a specified period, the scheme must specify the prescribed time for making an application for review of the initial decision as so confirmed for the purposes of section 29 of the Administrative Appeals Tribunal Act 1975.
