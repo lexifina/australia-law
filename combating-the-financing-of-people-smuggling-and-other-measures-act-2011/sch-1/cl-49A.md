@@ -1,0 +1,15 @@
+# 49A AML/CTF Rules may make provision in relation to reports by registered remittance affiliates
+
+(1) The AML/CTF Rules may make provision for and in relation to reports required by this Part to be given by a reporting entity that is a registered remittance affiliate of a registered remittance network provider.
+
+(2) Without limiting subsection (1), the AML/CTF Rules may provide:
+
+(a) that an obligation imposed by this Part upon a registered remittance affiliate of a registered remittance network provider to provide a report is taken instead, or in addition, to be an obligation imposed upon the registered remittance network provider; and
+
+(b) that an obligation imposed by this Part on a registered remittance affiliate of a registered remittance network provider may be discharged by the registered remittance network provider; and
+
+(c) that a report required to be provided as mentioned in paragraph (a) must, or may, be given by the registered remittance network provider in the manner specified in the AML/CTF Rules.
+
+21 Part 6 (heading)
+
+Repeal the heading, substitute:

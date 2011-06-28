@@ -1,0 +1,17 @@
+# 35C Reporting entities to notify inability to verify identity
+
+(1) This section applies if:
+
+(a) a reporting entity makes a verification request in relation to an individual; and
+
+(b) an assessment is provided in relation to the individual; and
+
+(c) the reporting entity is unable to verify the identity of the individual, having regard to the assessment.
+
+(2) The reporting entity must give a written notice to the individual:
+
+(a) stating that the reporting entity is unable to verify the identity of the individual having regard to the assessment; and
+
+(b) specifying the name of the credit reporting agency that provided the assessment; and
+
+(c) offering the individual an alternative means of verifying the identity of the individual.

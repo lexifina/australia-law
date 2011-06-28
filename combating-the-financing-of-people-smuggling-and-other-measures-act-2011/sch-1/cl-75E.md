@@ -1,0 +1,13 @@
+# 75E Registration may be subject to conditions
+
+(1) The AUSTRAC CEO may, in writing, impose conditions to which the registration of a person under subsection 75C(2) is subject.
+
+(2) Without limiting the conditions that the AUSTRAC CEO may impose under subsection (1), the conditions may relate to the following:
+
+(a) the volume of funds remitted (whether by reference to a particular time, a particular amount or otherwise);
+
+(b) the destination (however described) of funds remitted;
+
+(c) requiring notification of particular changes in circumstances.
+
+Note: Section 75M imposes a general obligation in relation to notification of changes in circumstances.

@@ -1,0 +1,15 @@
+## Division 4—Notice and review of decisions
+
+# 75Q Steps to be taken by AUSTRAC CEO before making certain reviewable decisions
+
+(1) Before making a reviewable decision in relation to a person, the AUSTRAC CEO must give a written notice to the person containing:
+
+(a) the terms of the proposed decision; and
+
+(b) if the proposed decision is to cancel a registration—the date on which the cancellation is proposed to take effect; and
+
+(c) the reasons for the proposed decision; and
+
+(d) a statement that the person may, within 28 days of the giving of the notice, make a submission under this section in relation to the proposed decision.
+
+(2) The AUSTRAC CEO is not required to give a notice under this section if the AUSTRAC CEO is satisfied that it is inappropriate to do so because of the urgency of the circumstances.

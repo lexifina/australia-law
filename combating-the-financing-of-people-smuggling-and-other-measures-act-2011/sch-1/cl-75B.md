@@ -1,0 +1,45 @@
+# 75B Applications for registration
+
+(1) A person may apply in writing to the AUSTRAC CEO for registration as:
+
+(a) a remittance network provider; or
+
+(b) an independent remittance dealer; or
+
+(c) subject to subsection (5)—a remittance affiliate of a registered remittance network provider.
+
+(2) A registered remittance network provider may apply in writing to the AUSTRAC CEO for another person to be registered as a remittance affiliate of the registered remittance network provider.
+
+(3) An application under subsection (1) or (2) must:
+
+(a) be in the approved form; and
+
+(b) contain the information required by the AML/CTF Rules.
+
+(4) Without limiting the information that the AML/CTF Rules may require under paragraph (3)(b), the AML/CTF Rules may require information relating to the matters mentioned in paragraph 75C(2)(a) or in Rules made under paragraph 75C(2)(b) (these provisions deal with matters to which the AUSTRAC CEO must have regard in deciding whether to register a person).
+
+(5) A person may apply for registration as a remittance affiliate of a registered remittance network provider as mentioned in paragraph (1)(c) only if:
+
+(a) either:
+
+(i) when the person makes the application, the person is a registered independent remittance dealer; or
+
+(ii) the application is made in conjunction with an application by the person for registration as a registered independent remittance dealer; and
+
+(b) the registered remittance network provider has consented to the making of the application.
+
+Deemed refusal in certain circumstances
+
+(6) If the AUSTRAC CEO has not made a decision on the application within the relevant period, the AUSTRAC CEO is taken to have decided not to register the person at the end of the relevant period. The relevant period is the period of 90 days beginning:
+
+(a) on the day the application is made; or
+
+(b) if the AUSTRAC CEO requests information under subsection 75N(1) in relation to the application—on the day the information is provided.
+
+(7) However, if the AUSTRAC CEO determines in writing that:
+
+(a) the application cannot be dealt with properly within the 90 day period, either because of its complexity or because of other special circumstances; and
+
+(b) that period is extended by a specified period of not more than 30 days;
+
+the relevant period is that period as so extended. The AUSTRAC CEO must notify the applicant in writing of the determination before the end of the 90 day period.
