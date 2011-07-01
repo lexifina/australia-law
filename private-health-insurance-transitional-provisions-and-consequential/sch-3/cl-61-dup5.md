@@ -103,11 +103,3 @@ Omit “Subdivision 61-H”, substitute “Subdivision 61-G”.
 18 Section 45-375 of Schedule 1 (method statement, step 1, paragraph (a))
 
 Omit “Subdivision 61-H”, substitute “Subdivision 61-G”.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 7 December 2006
-
-Senate on 26 February 2007]
-
-(201/06)
