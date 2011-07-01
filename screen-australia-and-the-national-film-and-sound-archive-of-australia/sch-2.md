@@ -22,7 +22,7 @@ FFC means Film Finance Corporation Australia Limited (ACN 008 642 564).
 
 liability means any liability, duty or obligation, whether actual, contingent or prospective.
 
-NFSA means the National Film and Sound Archive established by subsection 5(1) of the National Film and Sound Archive Act 2008.
+NFSAA means the National Film and Sound Archive of Australia established by subsection 5(1) of the National Film and Sound Archive of Australia Act 2008.
 
 Screen Australia means Screen Australia established by subsection 5(1) of the Screen Australia Act 2008.
 
@@ -40,11 +40,11 @@ AFC to Screen Australia
 
 (2) Subject to this item, at the transition time, the assets and liabilities cease to be assets and liabilities of AFC and become assets and liabilities of Screen Australia without any conveyance, transfer or assignment. Screen Australia becomes the successor in law in relation to those assets and liabilities.
 
-AFC to NFSA or AFTRS
+AFC to NFSAA or AFTRS
 
-(3) Before the transition time, the Minister may determine, in writing, that some of the assets or liabilities are to become assets or liabilities of NFSA or AFTRS.
+(3) Before the transition time, the Minister may determine, in writing, that some of the assets or liabilities are to become assets or liabilities of NFSAA or AFTRS.
 
-(4) If the Minister makes a determination that the assets or liabilities are to become the assets or liabilities of NFSA, then, at the transition time, the assets or liabilities cease to be assets or liabilities of AFC and become assets or liabilities of NFSA without any conveyance, transfer or assignment. NFSA becomes the successor in law in relation to those assets or liabilities.
+(4) If the Minister makes a determination that the assets or liabilities are to become the assets or liabilities of NFSAA, then, at the transition time, the assets or liabilities cease to be assets or liabilities of AFC and become assets or liabilities of NFSAA without any conveyance, transfer or assignment. NFSAA becomes the successor in law in relation to those assets or liabilities.
 
 (5) If the Minister makes a determination that the assets or liabilities are to become the assets or liabilities of AFTRS, then, at the transition time, the assets or liabilities cease to be assets or liabilities of AFC and become assets or liabilities of AFTRS without any conveyance, transfer or assignment. AFTRS becomes the successor in law in relation to those assets or liabilities.
 
@@ -52,7 +52,7 @@ AFC to NFSA or AFTRS
 
 Assets subject to trust
 
-(7) If an asset that has become an asset of Screen Australia, NFSA or AFTRS under this item was, immediately before the transition time, held by AFC on trust, that asset is taken, at and after the transition time, to be held by the body to which it is transferred on trust and subject to the terms of the trust on which the asset was so held by AFC.
+(7) If an asset that has become an asset of Screen Australia, NFSAA or AFTRS under this item was, immediately before the transition time, held by AFC on trust, that asset is taken, at and after the transition time, to be held by the body to which it is transferred on trust and subject to the terms of the trust on which the asset was so held by AFC.
 
 3 Transfer of assets and liabilities of FAL and FFC
 
@@ -66,7 +66,7 @@ Assets subject to trust
 
 (1) This item applies if:
 
-(a) any land vests in Screen Australia, NFSA or AFTRS under item 2 or 3; and
+(a) any land vests in Screen Australia, NFSAA or AFTRS under item 2 or 3; and
 
 (b) there is lodged with a land registration official a certificate that:
 
@@ -74,7 +74,7 @@ Assets subject to trust
 
 (ii) identifies the land, whether by reference to a map or otherwise; and
 
-(iii) states that the land has become vested in Screen Australia, NFSA or AFTRS under this Act.
+(iii) states that the land has become vested in Screen Australia, NFSAA or AFTRS under this Act.
 
 (2) The land registration official may:
 
@@ -92,7 +92,7 @@ land registration official, in relation to land, means the Registrar of Titles o
 
 (1) This item applies if:
 
-(a) an asset other than land becomes an asset of Screen Australia, NFSA or AFTRS under item 2 or 3; and
+(a) an asset other than land becomes an asset of Screen Australia, NFSAA or AFTRS under item 2 or 3; and
 
 (b) there is lodged with an assets official a certificate that:
 
@@ -100,7 +100,7 @@ land registration official, in relation to land, means the Registrar of Titles o
 
 (ii) identifies the asset; and
 
-(iii) states that the asset has become vested in Screen Australia, NFSA or AFTRS under this Act.
+(iii) states that the asset has become vested in Screen Australia, NFSAA or AFTRS under this Act.
 
 (2) The assets official may:
 
@@ -170,9 +170,9 @@ Note: The appointment of a member of AFC and the Chief Executive Officer of AFC 
 
 9 No transfer of appointment, engagement or employment etc. of office holders
 
-(1) Nothing in this Act produces the result that the appointment, engagement or employment of an office holder has effect at or after the transition time as if it were an appointment, engagement or employment of the office holder in relation to Screen Australia, NFSA or AFTRS.
+(1) Nothing in this Act produces the result that the appointment, engagement or employment of an office holder has effect at or after the transition time as if it were an appointment, engagement or employment of the office holder in relation to Screen Australia, NFSAA or AFTRS.
 
-(2) Nothing in this Act produces the result that a contract, agreement or other instrument relating to the appointment, engagement or employment of an office holder has effect at or after the transition time as if it were a contract, agreement or instrument made by, or in relation to, Screen Australia, NFSA or AFTRS.
+(2) Nothing in this Act produces the result that a contract, agreement or other instrument relating to the appointment, engagement or employment of an office holder has effect at or after the transition time as if it were a contract, agreement or instrument made by, or in relation to, Screen Australia, NFSAA or AFTRS.
 
 (3) In this item:
 
@@ -202,17 +202,17 @@ Division 1—Staff of AFC
 
 (i) is made under section 72 of the Public Service Act 1999; and
 
-(ii) causes the person, at the transition time, to become a member of the staff of NFSA engaged under the Public Service Act 1999.
+(ii) causes the person, at the transition time, to become a member of the staff of NFSAA engaged under the Public Service Act 1999.
 
 (2) At the transition time, the person ceases to be appointed or engaged by AFC and is taken to have been employed by Screen Australia under subsection 31(2) of the Screen Australia Act 2008.
 
-Note: This item does not deal with the transfer of staff of AFC who are APS employees. Those employees will be transferred to Screen Australia, NFSA or AFTRS by a determination made under section 72 of the Public Service Act 1999.
+Note: This item does not deal with the transfer of staff of AFC who are APS employees. Those employees will be transferred to Screen Australia, NFSAA or AFTRS by a determination made under section 72 of the Public Service Act 1999.
 
 (3) The person is taken to have accrued an entitlement to benefits, in connection with that employment by Screen Australia, that is equivalent to the entitlement that the person had as an officer or employee of AFC immediately before the transition time.
 
 (4) The service of the person as an employee of Screen Australia is taken, for all purposes, to be continuous with his or her service as an officer or employee of AFC.
 
-11 Non-APS employees in AFC transferred to NFSA as APS employees
+11 Non-APS employees in AFC transferred to NFSAA as APS employees
 
 (1) This item applies to a person who:
 
@@ -222,11 +222,11 @@ Note: This item does not deal with the transfer of staff of AFC who are APS empl
 
 (i) is made under section 72 of the Public Service Act 1999; and
 
-(ii) causes the person, at the transition time, to become a member of the staff of NFSA engaged under the Public Service Act 1999.
+(ii) causes the person, at the transition time, to become a member of the staff of NFSAA engaged under the Public Service Act 1999.
 
-(2) The person is taken to have accrued an entitlement to benefits, in connection with becoming a member of the staff of NFSA engaged under the Public Service Act 1999, that is equivalent to the entitlement that the person had as an officer or employee of AFC immediately before the transition time.
+(2) The person is taken to have accrued an entitlement to benefits, in connection with becoming a member of the staff of NFSAA engaged under the Public Service Act 1999, that is equivalent to the entitlement that the person had as an officer or employee of AFC immediately before the transition time.
 
-(3) The service of the person as a member of the staff of NFSA engaged under the Public Service Act 1999 is taken, for all purposes, to have been continuous with his or her service as an officer or employee of AFC.
+(3) The service of the person as a member of the staff of NFSAA engaged under the Public Service Act 1999 is taken, for all purposes, to have been continuous with his or her service as an officer or employee of AFC.
 
 12 APS employees in AFC transferred to AFTRS as employees of AFTRS
 
@@ -338,19 +338,19 @@ Division 3—Other matters relating to staff
 
 16 Limited transfer of appointment, engagement or employment etc. of staff
 
-(1) Nothing in this Act (except items 10, 13, and 14) produces the result that the appointment, engagement or employment of a person by AFC, FAL or FFC immediately before the transition time has effect at or after the transition time as if it were an appointment, engagement or employment by Screen Australia, NFSA or AFTRS.
+(1) Nothing in this Act (except items 10, 13, and 14) produces the result that the appointment, engagement or employment of a person by AFC, FAL or FFC immediately before the transition time has effect at or after the transition time as if it were an appointment, engagement or employment by Screen Australia, NFSAA or AFTRS.
 
 Note: See determinations under section 72 of the Public Service Act 1999 and regulations made under this Act for the transfer of the appointment, engagement or employment of persons not covered by items 10, 13 and 14.
 
-(2) Nothing in this Act produces the result that an instrument (within the meaning of Part 11 of the Workplace Relations Act 1996) or a transitional instrument (within the meaning of Schedule 9 to that Act) has effect at or after the transition time as if it were an instrument or transitional instrument made by, or in relation to, Screen Australia, NFSA or AFTRS.
+(2) Nothing in this Act produces the result that an instrument (within the meaning of Part 11 of the Workplace Relations Act 1996) or a transitional instrument (within the meaning of Schedule 9 to that Act) has effect at or after the transition time as if it were an instrument or transitional instrument made by, or in relation to, Screen Australia, NFSAA or AFTRS.
 
-Note: See Part 11 of, and Schedule 9 to, the Workplace Relations Act 1996 for the transmission of these instruments to Screen Australia, NFSA or AFTRS.
+Note: See Part 11 of, and Schedule 9 to, the Workplace Relations Act 1996 for the transmission of these instruments to Screen Australia, NFSAA or AFTRS.
 
 17 No payments as a result of transfer
 
 To avoid doubt, a person who ceases to be an officer or employee of AFC, FAL or FFC by the operation of this Part is not entitled to receive any payment or other benefit merely because he or she stopped being such an officer or employee.
 
-18 Long service leave for staff of Screen Australia and NFSA
+18 Long service leave for staff of Screen Australia and NFSAA
 
 (1) This item applies to a person if:
 
@@ -364,7 +364,7 @@ To avoid doubt, a person who ceases to be an officer or employee of AFC, FAL or 
 
 (i) a member of the staff of Screen Australia under subsection 31(1) of the Screen Australia Act 2008; or
 
-(ii) a member of the staff of NFSA under subsection 31(1) of the National Film and Sound Archive Act 2008.
+(ii) a member of the staff of NFSAA under subsection 31(1) of the National Film and Sound Archive of Australia Act 2008.
 
 (2) For the purposes of the Long Service Leave (Commonwealth Employees) Act 1976, the person’s service before the transition time as an officer or employee of AFC, FAL or FFC is to be treated, at and after the transition time, as if it had been service by the person as an employee of the Commonwealth engaged under the Public Service Act 1999.
 
@@ -390,7 +390,7 @@ Division 1—AFC
 
 (a) Screen Australia;
 
-(b) NFSA;
+(b) NFSAA;
 
 (c) AFTRS;
 
@@ -424,15 +424,15 @@ AFC to Screen Australia
 
 then the reference to AFC has effect, at and after the transition time, as if it were a reference to Screen Australia.
 
-AFC to NFSA
+AFC to NFSAA
 
 (3) If the instrument relates to:
 
-(a) an asset or liability of AFC that, as a result of the operation of item 2, becomes an asset or liability of NFSA; or
+(a) an asset or liability of AFC that, as a result of the operation of item 2, becomes an asset or liability of NFSAA; or
 
-(b) a thing done by, or in relation to, AFC, that, as a result of the operation of item 20, is taken to have been done by, or in relation to, NFSA;
+(b) a thing done by, or in relation to, AFC, that, as a result of the operation of item 20, is taken to have been done by, or in relation to, NFSAA;
 
-then the reference to AFC has effect, at and after the transition time, as if it were a reference to NFSA.
+then the reference to AFC has effect, at and after the transition time, as if it were a reference to NFSAA.
 
 AFC to AFTRS
 
@@ -444,13 +444,13 @@ AFC to AFTRS
 
 then the reference to AFC has effect, at and after the transition time, as if it were a reference to AFTRS.
 
-AFC to Screen Australia, NFSA, AFTRS or Commonwealth
+AFC to Screen Australia, NFSAA, AFTRS or Commonwealth
 
 (5) If subitem (2), (3) or (4) does not apply to the instrument, then the Minister may determine, in writing, that the reference to AFC has effect, at and after the transition time, as if it were a reference to one or more of the following:
 
 (a) Screen Australia;
 
-(b) NFSA;
+(b) NFSAA;
 
 (c) AFTRS;
 
@@ -496,21 +496,21 @@ AFC to Screen Australia
 
 (2) If the proceedings related, in whole or part, to an asset or liability that, as a result of the operation of item 2, becomes an asset or liability of Screen Australia, then Screen Australia is taken, at and after the transition time, to be substituted for AFC as a party to the proceedings.
 
-AFC to NFSA
+AFC to NFSAA
 
-(3) If the proceedings related, in whole or part, to an asset or liability that, as a result of the operation of item 2, becomes an asset or liability of NFSA, then NFSA is taken, at and after the transition time, to be substituted for AFC as a party to the proceedings.
+(3) If the proceedings related, in whole or part, to an asset or liability that, as a result of the operation of item 2, becomes an asset or liability of NFSAA, then NFSAA is taken, at and after the transition time, to be substituted for AFC as a party to the proceedings.
 
 AFC to AFTRS
 
 (4) If the proceedings related, in whole or part, to an asset or liability that, as a result of the operation of item 2, becomes an asset or liability of AFTRS, then AFTRS is taken, at and after the transition time, to be substituted for AFC as a party to the proceedings.
 
-AFC to Screen Australia, NFSA, AFTRS or Commonwealth
+AFC to Screen Australia, NFSAA, AFTRS or Commonwealth
 
 (5) If subitem (2), (3) or (4) does not apply to the proceedings, then the Minister may determine, in writing, that one or more of the following bodies is taken, at and after the transition time, to be substituted for AFC as a party to the proceedings:
 
 (a) Screen Australia;
 
-(b) NFSA;
+(b) NFSAA;
 
 (c) AFTRS;
 
@@ -538,15 +538,15 @@ AFC to Screen Australia
 
 then, after the transition time, the record or document is to be transferred into the custody of Screen Australia.
 
-AFC to NFSA
+AFC to NFSAA
 
 (3) If the record or document relates to:
 
-(a) an asset or liability of AFC that, as a result of the operation of item 2, becomes an asset or liability of NFSA; or
+(a) an asset or liability of AFC that, as a result of the operation of item 2, becomes an asset or liability of NFSAA; or
 
-(b) a thing done by, or in relation to, AFC, that, as a result of the operation of item 20, is taken to have been done by, or in relation to, NFSA;
+(b) a thing done by, or in relation to, AFC, that, as a result of the operation of item 20, is taken to have been done by, or in relation to, NFSAA;
 
-then, after the transition time, the record or document is to be transferred into the custody of NFSA.
+then, after the transition time, the record or document is to be transferred into the custody of NFSAA.
 
 AFC to AFTRS
 
@@ -558,13 +558,13 @@ AFC to AFTRS
 
 then, after the transition time, the record or document is to be transferred into the custody of AFTRS.
 
-AFC to Screen Australia, NFSA, AFTRS or Commonwealth
+AFC to Screen Australia, NFSAA, AFTRS or Commonwealth
 
 (5) If subitem (2), (3) or (4) does not apply to the record or document, then the Minister may determine, in writing, that the record or document is to be transferred after the transition time into the custody of:
 
 (a) Screen Australia; or
 
-(b) NFSA; or
+(b) NFSAA; or
 
 (c) AFTRS; or
 
@@ -726,7 +726,7 @@ However, this item does not apply to a report, return or document to which anoth
 
 (5) This item does not limit the operation of item 2 or 3.
 
-Part 7—Appointment of first CEO of Screen Australia and NFSA
+Part 7—Appointment of first CEO of Screen Australia and NFSAA
 
 32 Appointment of first CEO of Screen Australia
 
@@ -740,9 +740,9 @@ Part 7—Appointment of first CEO of Screen Australia and NFSA
 
 (3) The Screen Australia Act 2008 (other than subsection 22(1) of that Act) applies in relation to the CEO appointed under subitem (1) as if the CEO had been appointed under subsection 22(1) of that Act.
 
-33 Appointment of first CEO of NFSA
+33 Appointment of first CEO of NFSAA
 
-(1) Despite subsection 22(1) of the National Film and Sound Archive Act 2008, the Minister is to appoint the first CEO of NFSA.
+(1) Despite subsection 22(1) of the National Film and Sound Archive of Australia Act 2008, the Minister is to appoint the first CEO of NFSAA.
 
 (2) The appointment is to take effect at the later of:
 
@@ -750,13 +750,13 @@ Part 7—Appointment of first CEO of Screen Australia and NFSA
 
 (b) the transition time.
 
-(3) The National Film and Sound Archive Act 2008 (other than subsection 22(1) of that Act) applies in relation to the CEO appointed under subitem (1) as if the CEO had been appointed under subsection 22(1) of that Act.
+(3) The National Film and Sound Archive of Australia Act 2008 (other than subsection 22(1) of that Act) applies in relation to the CEO appointed under subitem (1) as if the CEO had been appointed under subsection 22(1) of that Act.
 
 Part 8—Other transitional matters
 
-34 National Film and Sound Archive
+34 National Film and Sound Archive of Australia
 
-Any programs and related materials that, immediately before the transition time, were included in the collection known as the National Film and Sound Archive, are taken, at the transition time, to be part of the national collection referred to in paragraph 6(1)(a) of the National Film and Sound Archive Act 2008.
+Any programs and related materials that, immediately before the transition time, were included in the collection known as the National Film and Sound Archive of Australia, are taken, at the transition time, to be part of the national collection referred to in paragraph 6(1)(a) of the National Film and Sound Archive of Australia Act 2008.
 
 35 Directors’ obligations—FAL and FFC
 
@@ -768,7 +768,7 @@ Subsection 601AD(5) of the Corporations Act 2001 has effect at and after the tra
 
 (a) one part of the amount referred to in that Act that relates to AFC is to be read as the amount that relates to Screen Australia; and
 
-(b) the other part of the amount referred to in that Act that relates to AFC is to be read as the amount that relates to NFSA.
+(b) the other part of the amount referred to in that Act that relates to AFC is to be read as the amount that relates to NFSAA.
 
 (2) A determination made under subitem (1) has effect accordingly.
 
@@ -814,7 +814,7 @@ just terms has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
 (a) the amendments or repeals made by this Act; or
 
-(b) the enactment of this Act, the Screen Australia Act 2008 or the National Film and Sound Archive Act 2008; or
+(b) the enactment of this Act, the Screen Australia Act 2008 or the National Film and Sound Archive of Australia Act 2008; or
 
 (c) the termination, at or after the transition time, of an appointment, engagement or employment of any of the following persons:
 
@@ -826,14 +826,6 @@ just terms has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
 (d) the termination, at or after the transition time, of a contract, agreement or other instrument relating to the appointment, engagement or employment of a person referred to in paragraph (c); or
 
-(e) the employment, at or after the transition time, by Screen Australia, NFSA or AFTRS of a person appointed, engaged or employed, immediately before the transition time, by AFC, FAL or FFC; or
+(e) the employment, at or after the transition time, by Screen Australia, NFSAA or AFTRS of a person appointed, engaged or employed, immediately before the transition time, by AFC, FAL or FFC; or
 
 (f) leave of employees or staff of AFC, FAL or FFC approved before the transition time.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 20 February 2008
-
-Senate on 13 March 2008]
-
-(37/08)
