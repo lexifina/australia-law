@@ -801,11 +801,3 @@ is, after commencement, to be credited to the ComSuper Special Account.
 (2) In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Act.
 
 Note: During the first year after this item commences, regulations can retrospectively amend references to the MSB Board, the Authority or the Commissioner for Superannuation: see item 20.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 24 March 2011
-
-Senate on 16 June 2011]
-
-(57/11)

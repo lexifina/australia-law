@@ -216,7 +216,7 @@ Repeal the paragraph.
 
 215 Paragraph 6B(1)(a)
 
-Omit “a member of the PSSAP (other than by paragraph 13(2)(a) of that Act)”, substitute “an ordinary employer-sponsored member of PSSAP (within the meaning of that Act), other than by paragraph 13(2)(a) of that Act”.
+Omit “a member of PSSAP (other than by paragraph 13(2)(a) of that Act)”, substitute “an ordinary employer-sponsored member of PSSAP (within the meaning of that Act), other than by paragraph 13(2)(a) of that Act”.
 
 216 Parts 6 and 7
 
