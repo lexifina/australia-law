@@ -278,8 +278,6 @@ then the payment may, to the extent that it has not already been repaid to the C
 
 (2) A person to whom a payment referred to in subitem (1) was made is entitled, on the commencement of this item, to be paid, by the Commonwealth, an amount equal to the amount of the debt due to it by the person under subitem (1).
 
-(3) The Consolidated Revenue Fund is appropriated for the purpose of payments under subitem (2).
-
 (4) The Commonwealth may set-off the amount of a debt due to it by a person under subitem (1) against an amount that is payable to that person under subitem (2).
 
 (5) Despite subitems (1) and (2), in applying section 79 of the Child Support (Registration and Collection) Act 1988 after the commencement of this item, any payment referred to in subitem (1) is to be counted as though it had been validly made under section 76 of that Act.
