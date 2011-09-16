@@ -304,16 +304,6 @@ staffing procedures includes procedures and policies related to recruitment, pro
 
 Part 5—Miscellaneous
 
-16 Appropriation of money
-
-(1) For the purposes of the operation of an Appropriation Act after the commencement time, references to the old Commission are to be read as references to the new Commission.
-
-(2) If an amount of money (the original amount) becomes an asset of the Commonwealth under item 2 of this Schedule, an amount equal to the original amount may be paid out of the Consolidated Revenue Fund, which is appropriated accordingly, for the purposes of the new Commission.
-
-(3) In this item:
-
-Appropriation Act means an Act appropriating money for expenditure out of the Consolidated Revenue Fund.
-
 17 Exemption from stamp duty and other State or Territory taxes
 
 No stamp duty or other tax is payable under a law of a State or Territory in respect of, or in respect of anything connected with:
@@ -353,11 +343,3 @@ unless the contrary is established.
 (b) necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
 (2) In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 30 March 2006
-
-Senate on 13 June 2006]
-
-(28/06)
