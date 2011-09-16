@@ -1,6 +1,6 @@
 ## The Schedule
 
-Sections 10 and 11
+Section 10
 
 First Column | Second Column | Third Column
 
