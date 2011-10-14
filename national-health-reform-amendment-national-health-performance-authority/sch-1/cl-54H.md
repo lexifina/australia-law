@@ -1,0 +1,29 @@
+# 54H Disclosure to certain agencies, bodies or persons
+
+Scope
+
+(1) This section applies if the Commission Board Chair is satisfied that particular protected Commission information will enable or assist any of the following agencies, bodies or persons:
+
+(a) the Performance Authority;
+
+(b) the Ministerial Conference;
+
+(c) the Australian Health Ministers’ Advisory Council;
+
+(d) the Australian Institute of Health and Welfare;
+
+(e) the Australian Statistician;
+
+(f) a State/Territory government body that has functions relating to health care;
+
+(g) a professional disciplinary body specified in a legislative instrument made by the Minister;
+
+(h) an agency, person or body specified in a legislative instrument made by the Minister;
+
+to perform or exercise any of the functions or powers of the agency, body or person.
+
+Disclosure
+
+(2) If an official of the Commission is authorised by the Commission Board Chair, in writing, for the purposes of this section, the official may disclose that protected Commission information to the agency, body or person concerned.
+
+(3) If protected Commission information is disclosed under subsection (2) to an agency, body or person, the agency, body or person must not disclose or use the information for a purpose other than the purpose for which the information was given to the agency, body or person.

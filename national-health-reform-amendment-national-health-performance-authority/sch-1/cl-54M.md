@@ -1,0 +1,9 @@
+# 54M Delegation
+
+(1) The Commission Board Chair may, by writing, delegate any or all of his or her functions and powers under this Part to the Commission CEO.
+
+(2) A delegate must comply with any written directions of the Commission Board Chair.
+
+128 Part 7 (heading)
+
+Repeal the heading, substitute:

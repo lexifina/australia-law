@@ -1,0 +1,21 @@
+## Chapter 2—Australian Commission on Safety and Quality in Health Care
+
+## Part 2.1—Introduction
+
+# 7A Simplified outline
+
+The following is a simplified outline of this Chapter:
+
+• This Chapter sets up the Australian Commission on Safety and Quality in Health Care.
+
+• The Commission has functions relating to health care safety and quality matters.
+
+• There is to be a Board of the Commission.
+
+• There is to be a Chief Executive Officer of the Commission.
+
+• Committees may be established to assist the Commission.
+
+41 Part 2 (heading)
+
+Repeal the heading, substitute:
