@@ -1,0 +1,7 @@
+# 64K Caretaker period policy costing requests—interaction with the Charter of Budget Honesty Act 1998
+
+If a request is made under subsection 64J(2) for the costing of a policy of a Parliamentary party (the first policy), the Parliamentary Budget Officer:
+
+(a) must ask the responsible Secretaries (within the meaning of Schedule 1 to the Charter of Budget Honesty Act 1998) whether a request has been made under clause 29 of that Schedule in relation to a policy of the Parliamentary party that is the same as, or substantially similar to, the first policy; and
+
+(b) if a request has been made under clause 29 of that Schedule—must not prepare a costing of the first policy under this Act.

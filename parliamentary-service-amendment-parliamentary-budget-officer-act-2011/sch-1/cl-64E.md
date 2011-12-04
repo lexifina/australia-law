@@ -1,0 +1,27 @@
+# 64E Functions of Parliamentary Budget Officer
+
+(1) The Parliamentary Budget Officer has the following functions:
+
+(a) outside the caretaker period for a general election—to prepare policy costings on request by Senators or Members of the House of Representatives under section 64H;
+
+(b) during the caretaker period for a general election—to prepare policy costings on request by authorised members of Parliamentary parties or independent members under section 64J;
+
+(c) to prepare responses (other than policy costings) to requests relating to the budget by Senators or Members of the House of Representatives;
+
+(d) to prepare submissions to inquiries of Parliamentary committees on request by such committees;
+
+(e) to conduct, on his or her own initiative (including in anticipation of requests referred to in paragraphs (a) to (d)), research on and analysis of the budget and fiscal policy settings.
+
+(2) The Parliamentary Budget Officer’s functions under subsection (1) do not include:
+
+(a) preparing economic forecasts; or
+
+(b) preparing budget estimates (whether at the whole-of-government, agency or program level).
+
+Note 1: Parts 5, 6 and 7 of Schedule 1 to the Charter of Budget Honesty Act 1998 provide for certain economic forecasts and budget estimates to be prepared.
+
+Note 2: The Parliamentary Budget Officer can prepare estimates for the Parliamentary Budget Office: see section 64R.
+
+(3) In performing his or her functions under subsection (1), the Parliamentary Budget Officer must use the economic forecasts and parameters and fiscal estimates contained in the most recent relevant reports released under Parts 5, 6 and 7 of Schedule 1 to the Charter of Budget Honesty Act 1998.
+
+(4) The Parliamentary Budget Officer must perform his or her functions under subsection (1) only for the purpose of the Parliamentary Budget Office referred to in section 64B.
