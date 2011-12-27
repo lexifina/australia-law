@@ -4,7 +4,7 @@ Preamble
 
 WHEREAS by certain Letters Patent of Her late Majesty Queen Victoria, bearing date the sixth day of July, One thousand eight hundred and sixty-three, and signed by warrant under the Queen’s Sign Manual, the Northern Territory as defined in this Act was annexed to the Province of South Australia:
 
-And whereas by the Constitution Act the Province of South Australia, including the Northern Territory of South Australia, became a part of the Commonwealth by the name of the State of South Australia:
+And whereas by the Commonwealth of Australia Constitution Act the Province of South Australia, including the Northern Territory of South Australia, became a part of the Commonwealth by the name of the State of South Australia:
 
 And whereas by the Constitution it is provided that the Parliament may make laws for the government of any territory surrendered by any State to and accepted by the Commonwealth:
 
