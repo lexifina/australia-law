@@ -36,11 +36,11 @@ General obligations
 
 1. Each State Party undertakes never under any circumstances:
 
-To use anti-personnel mines;
+a) To use anti-personnel mines;
 
-To develop, produce, otherwise acquire, stockpile, retain or transfer to anyone, directly or indirectly, anti-personnel mines;
+b) To develop, produce, otherwise acquire, stockpile, retain or transfer to anyone, directly or indirectly, anti-personnel mines;
 
-To assist, encourage or induce, in any way, anyone to engage in any activity prohibited to a State Party under this Convention.
+c) To assist, encourage or induce, in any way, anyone to engage in any activity prohibited to a State Party under this Convention.
 
 2. Each State Party undertakes to destroy or ensure the destruction of all anti-personnel mines in accordance with the provisions of this Convention.
 
@@ -120,17 +120,17 @@ International cooperation and assistance
 
 7. States Parties may request the United Nations, regional organizations, other States Parties or other competent intergovernmental or non-governmental fora to assist its authorities in the elaboration of a national demining program to determine, inter alia:
 
-The extent and scope of the anti-personnel mine problem;
+a) The extent and scope of the anti-personnel mine problem;
 
-The financial, technological and human resources that are required for the implementation of the program;
+b) The financial, technological and human resources that are required for the implementation of the program;
 
-The estimated number of years necessary to destroy all anti-personnel mines in mined areas under the jurisdiction or control of the concerned State Party;
+c) The estimated number of years necessary to destroy all anti-personnel mines in mined areas under the jurisdiction or control of the concerned State Party;
 
-Mine awareness activities to reduce the incidence of mine-related injuries or deaths;
+d) Mine awareness activities to reduce the incidence of mine-related injuries or deaths;
 
-Assistance to mine victims;
+e) Assistance to mine victims;
 
-The relationship between the Government of the concerned State Party and the relevant governmental, inter-governmental or non-governmental entities that will work in the implementation of the program.
+f) The relationship between the Government of the concerned State Party and the relevant governmental, inter-governmental or non-governmental entities that will work in the implementation of the program.
 
 8. Each State Party giving and receiving assistance under the provisions of this Article shall cooperate with a view to ensuring the full and prompt implementation of agreed assistance programs.
 
@@ -140,23 +140,23 @@ Transparency measures
 
 1. Each State Party shall report to the Secretary-General of the United Nations as soon as practicable, and in any event not later than 180 days after the entry into force of this Convention for that State Party on:
 
-The national implementation measures referred to in Article 9;
+a) The national implementation measures referred to in Article 9;
 
-The total of all stockpiled anti-personnel mines owned or possessed by it, or under its jurisdiction or control, to include a breakdown of the type, quantity and, if possible, lot numbers of each type of anti-personnel mine stockpiled;
+b) The total of all stockpiled anti-personnel mines owned or possessed by it, or under its jurisdiction or control, to include a breakdown of the type, quantity and, if possible, lot numbers of each type of anti-personnel mine stockpiled;
 
-To the extent possible, the location of all mined areas that contain, or are suspected to contain, anti-personnel mines under its jurisdiction or control, to include as much detail as possible regarding the type and quantity of each type of anti-personnel mine in each mined area and when they were emplaced;
+c) To the extent possible, the location of all mined areas that contain, or are suspected to contain, anti-personnel mines under its jurisdiction or control, to include as much detail as possible regarding the type and quantity of each type of anti-personnel mine in each mined area and when they were emplaced;
 
-The types, quantities and, if possible, lot numbers of all anti-personnel mines retained or transferred for the development of and training in mine detection, mine clearance or mine destruction techniques, or transferred for the purpose of destruction, as well as the institutions authorized by a State Party to retain or transfer anti-personnel mines, in accordance with Article 3;
+d) The types, quantities and, if possible, lot numbers of all anti-personnel mines retained or transferred for the development of and training in mine detection, mine clearance or mine destruction techniques, or transferred for the purpose of destruction, as well as the institutions authorized by a State Party to retain or transfer anti-personnel mines, in accordance with Article 3;
 
-The status of programs for the conversion or de-commissioning of anti-personnel mine production facilities;
+e) The status of programs for the conversion or de-commissioning of anti-personnel mine production facilities;
 
-The status of programs for the destruction of anti-personnel mines in accordance with Articles 4 and 5, including details of the methods which will be used in destruction, the location of all destruction sites and the applicable safety and environmental standards to be observed;
+f) The status of programs for the destruction of anti-personnel mines in accordance with Articles 4 and 5, including details of the methods which will be used in destruction, the location of all destruction sites and the applicable safety and environmental standards to be observed;
 
-The types and quantities of all anti-personnel mines destroyed after the entry into force of this Convention for that State Party, to include a breakdown of the quantity of each type of anti-personnel mine destroyed, in accordance with Articles 4 and 5, respectively, along with, if possible, the lot numbers of each type of anti-personnel mine in the case of destruction in accordance with Article 4;
+g) The types and quantities of all anti-personnel mines destroyed after the entry into force of this Convention for that State Party, to include a breakdown of the quantity of each type of anti-personnel mine destroyed, in accordance with Articles 4 and 5, respectively, along with, if possible, the lot numbers of each type of anti-personnel mine in the case of destruction in accordance with Article 4;
 
-The technical characteristics of each type of anti-personnel mine produced, to the extent known, and those currently owned or possessed by a State Party, giving, where reasonably possible, such categories of information as may facilitate identification and clearance of anti-personnel mines; at a minimum, this information shall include the dimensions, fusing, explosive content, metallic content, colour photographs and other information which may facilitate mine clearance; and
+h) The technical characteristics of each type of anti-personnel mine produced, to the extent known, and those currently owned or possessed by a State Party, giving, where reasonably possible, such categories of information as may facilitate identification and clearance of anti-personnel mines; at a minimum, this information shall include the dimensions, fusing, explosive content, metallic content, colour photographs and other information which may facilitate mine clearance; and
 
-The measures taken to provide an immediate and effective warning to the population in relation to all areas identified under paragraph 2 of Article 5.
+i) The measures taken to provide an immediate and effective warning to the population in relation to all areas identified under paragraph 2 of Article 5.
 
 2. The information provided in accordance with this Article shall be updated by the States Parties annually, covering the last calendar year, and reported to the Secretary-General of the United Nations not later than 30 April of each year.
 
@@ -236,17 +236,17 @@ Meetings of the States Parties
 
 1. The States Parties shall meet regularly in order to consider any matter with regard to the application or implementation of this Convention, including:
 
-The operation and status of this Convention;
+a) The operation and status of this Convention;
 
-Matters arising from the reports submitted under the provisions of this Convention;
+b) Matters arising from the reports submitted under the provisions of this Convention;
 
-International cooperation and assistance in accordance with Article 6;
+c) International cooperation and assistance in accordance with Article 6;
 
-The development of technologies to clear anti-personnel mines;
+d) The development of technologies to clear anti-personnel mines;
 
-Submissions of States Parties under Article 8; and
+e) Submissions of States Parties under Article 8; and
 
-Decisions relating to submissions of States Parties as provided for in Article 5.
+f) Decisions relating to submissions of States Parties as provided for in Article 5.
 
 2. The First Meeting of the States Parties shall be convened by the Secretary-General of the United Nations within one year after the entry into force of this Convention. The subsequent meetings shall be convened by the Secretary-General of the United Nations annually until the first Review Conference.
 
@@ -262,13 +262,13 @@ Review Conferences
 
 2. The purpose of the Review Conference shall be:
 
-To review the operation and status of this Convention;
+a) To review the operation and status of this Convention;
 
-To consider the need for and the interval between further Meetings of the States Parties referred to in paragraph 2 of Article 11;
+b) To consider the need for and the interval between further Meetings of the States Parties referred to in paragraph 2 of Article 11;
 
-To take decisions on submissions of States Parties as provided for in Article 5; and
+c) To take decisions on submissions of States Parties as provided for in Article 5; and
 
-To adopt, if necessary, in its final report conclusions related to the implementation of this Convention.
+d) To adopt, if necessary, in its final report conclusions related to the implementation of this Convention.
 
 3. States not parties to this Convention, as well as the United Nations, other relevant international organizations or institutions, regional organizations, the International Committee of the Red Cross and relevant non-governmental organizations may be invited to attend each Review Conference as observers in accordance with the agreed Rules of Procedure.
 
@@ -314,7 +314,7 @@ Article 17
 
 Entry into force
 
-1. This Convention shall enter into force on the first day of the sixth month after the month in which the 40th instrument of ratification. acceptance, approval or accession has been deposited.
+1. This Convention shall enter into force on the first day of the sixth month after the month in which the 40th instrument of ratification, acceptance, approval or accession has been deposited.
 
 2. For any State which deposits its instrument of ratification, acceptance, approval or accession after the date of the deposit of the 40th instrument of ratification, acceptance, approval or accession, this Convention shall enter into force on the first day of the sixth month after the date on which that State has deposited its instrument of ratification, acceptance, approval or accession.
 
