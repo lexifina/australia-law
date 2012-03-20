@@ -1,0 +1,27 @@
+# 55N Acting appointments
+
+Acting Board member
+
+(1) The Minister may appoint a person to act as a Board member:
+
+(a) during a vacancy in the office of the Board member, whether or not an appointment has previously been made to the office; or
+
+(b) during any period, or during all periods, when the Board member:
+
+(i) is absent from duty or from Australia; or
+
+(ii) is, for any reason, unable to perform the duties of the office.
+
+Note: For rules that apply to acting appointments, see section 33A of the Acts Interpretation Act 1901.
+
+Acting Chair
+
+(2) The Minister may appoint a Board member to act as the Chair if the Deputy Chair is unable to act as the Chair:
+
+(a) during a vacancy in the office of the Chair, whether or not an appointment has previously been made to the office; or
+
+(b) during any period, or during all periods, when the Chair:
+
+(i) is absent from duty or from Australia; or
+
+(ii) is, for any reason, unable to perform the duties of the office.

@@ -1,0 +1,37 @@
+## Division 4—The Register
+
+# 14A The Register
+
+(1) The Secretary must cause a Register to be kept for the purposes of this Act.
+
+(2) The Register is called the Commonwealth Register of Institutions and Courses for Overseas Students.
+
+(3) The Secretary may cause the contents of all or part of the Register to be made available to the public by electronic or other means.
+
+Contents of the Register
+
+(4) The Secretary must cause the following information to be entered on the Register in relation to each provider’s registration:
+
+(a) the name of each provider who is registered;
+
+(b) the name of each course which the provider is registered to provide, and each location at which the provider is registered to provide that course;
+
+(c) if the provider is not an individual—the name of the principal executive officer of the provider;
+
+(d) a unique identifier allocated to the provider;
+
+(e) a unique identifier allocated to each course at each location for which the provider is registered;
+
+(f) the day on which the provider is registered;
+
+(g) the period of the provider’s registration;
+
+(h) any conditions that are imposed on the provider’s registration (either generally or in relation to specific courses and locations);
+
+(i) any other matters prescribed by the regulations.
+
+(5) The Secretary may cause any other information he or she considers appropriate to be entered on the Register in relation to a provider’s registration.
+
+When an approved provider is registered to provide a course at a location
+
+(6) An approved provider is registered to provide a course at a location when the Secretary has entered the name of the provider, the course and the location on the Register.

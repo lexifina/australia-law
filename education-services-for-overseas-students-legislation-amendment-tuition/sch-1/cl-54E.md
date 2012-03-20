@@ -1,0 +1,3 @@
+# 54E Restrictions on outside employment
+
+The TPS Director must not engage in paid employment outside the duties of his or her office without the Minister’s approval.

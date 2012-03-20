@@ -1,0 +1,31 @@
+# 50C Consequences of a payment under section 50B
+
+Cessation of claim
+
+(1) If:
+
+(a) either:
+
+(i) a registered provider defaults in relation to an overseas student or intending overseas student and a course at a location; or
+
+(ii) an overseas student or intending overseas student defaults in relation to a course provided by a registered provider at a location; and
+
+(b) the TPS Director pays an amount in accordance with section 50B in relation to the student;
+
+the student, and any person specified in paragraph 50B(3)(b), cease to have any claim against the provider in respect of the student’s pre-paid fees.
+
+Provider must pay back TPS Director
+
+(2) Instead, the provider must pay the TPS Director an amount equal to the amount that the TPS Director paid under section 50B.
+
+Note: For providers who are required to maintain an initial pre-paid fees account, the amount might be paid out of the account: see section 29.
+
+(3) The TPS Director may recover that amount from the provider as a debt due to the Commonwealth by action in a court of competent jurisdiction.
+
+TPS Director may enforce security
+
+(4) If the provider had granted the TPS Director a charge or other security over any of its assets, the TPS Director may enforce the charge or security in satisfaction, or partial satisfaction, of the debt.
+
+Former registered providers
+
+(5) This section continues to apply to a provider if the provider ceases to be a registered provider.

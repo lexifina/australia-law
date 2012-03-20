@@ -1,0 +1,3 @@
+# 56E Conduct of meetings
+
+The Board may regulate proceedings at its meetings as it considers appropriate.
