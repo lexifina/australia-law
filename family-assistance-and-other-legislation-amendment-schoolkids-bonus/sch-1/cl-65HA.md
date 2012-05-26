@@ -1,0 +1,27 @@
+## Division 4CA—ETR payment
+
+# 65HA Payment of ETR payment
+
+(1) If an individual is entitled to an ETR payment, the Secretary must pay the payment to the individual in a single lump sum:
+
+(a) on the date that the Secretary considers to be the earliest date on which it is reasonably practicable for the payment to be made; and
+
+(b) in such manner as the Secretary considers appropriate.
+
+Note: The individual does not have to make a claim for the payment.
+
+(2) If, on 8 May 2012, section 32AA or 32AD prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on the basis referred to in subsection 20(1), (2A) or (3), the Secretary must not pay the ETR payment to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that day.
+
+4 At the end of subsection 66(1)
+
+Add:
+
+; (k) ETR payment.
+
+5 Section 70
+
+Omit “or a clean energy advance”, substitute “, a clean energy advance or ETR payment”.
+
+6 After section 71L
+
+Insert:
