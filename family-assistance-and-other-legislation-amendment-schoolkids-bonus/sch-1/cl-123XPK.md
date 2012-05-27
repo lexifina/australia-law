@@ -40,7 +40,7 @@ Insert:
 
 (zzai) ETR payment under Part VIIH;
 
-21 At the end of subsection 5H(8)
+21 At the end of subsection 5H(8) (before the note)
 
 Add:
 
