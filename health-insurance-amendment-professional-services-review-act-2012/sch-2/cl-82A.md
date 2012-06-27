@@ -1,0 +1,15 @@
+# 82A Meaning of prescribed pattern of services
+
+(1) The circumstances in which services are rendered or initiated by a practitioner constitute a prescribed pattern of services if they are circumstances prescribed by the regulations for the purposes of this section.
+
+(2) The circumstances prescribed may relate to services of a particular kind or description that are rendered or initiated by:
+
+(a) practitioners in a particular profession; or
+
+(b) an identified group or groups of practitioners in a particular profession.
+
+(3) The circumstances prescribed may include the rendering or initiation of more than a specified number of services, or more than a specified number of services of a particular kind, on each of more than a specified number of days during a period of a specified duration.
+
+7 Division 3 of Part VAA (heading)
+
+Repeal the heading, substitute:
