@@ -426,162 +426,116 @@ DONE at Washington, in a single copy which shall remain deposited in the archive
 
 Country | Number of shares | Amount (in United States Dollars)
 
-Australia...................... | 2,215 | 2,215,000
+Australia | 2,215 | 2,215,000
 
-Austria....................... | 554 | 554,000
+Austria | 554 | 554,000
 
-Belgium...................... | 2,492 | 2,492,000
+Belgium | 2,492 | 2,492,000
 
-Bolivia....................... | 78 | 78,000
+Bolivia | 78 | 78,000
 
-Brazil........................ | 1163 | 1,163,000
+Brazil | 1163 | 1,163,000
 
-Burma....................... | 166 | 166,000
+Burma | 166 | 166,000
 
-Canada....................... | 3,600 | 3,600,000
+Canada | 3,600 | 3,600,000
 
-Ceylon....................... | 166 | 166,000
+Ceylon | 166 | 166,000
 
-Chile........................ | 388 | 388,000
+Chile | 388 | 388,000
 
-China........................ | 6,646 | 6,646,000
+China | 6,646 | 6,646,000
 
-Colombia..................... | 388 | 388,000
+Colombia | 388 | 388,000
 
-Costa Rica..................... | 22 | 22,000
+Costa Rica | 22 | 22,000
 
-Cuba......................... | 388 | 388,000
+Cuba | 388 | 388,000
 
-Denmark...................... | 753 | 753,000
+Denmark. | 753 | 753,000
 
-Dominican Republic.............. | 22 | 22,000
+Dominican Republic | 22 | 22,000
 
-Ecuador...................... | 35 | 35,000
+Ecuador | 35 | 35,000
 
-Egypt......................... | 590 | 590,000
+Egypt. | 590 | 590,000
 
-El Salvado..................... | 11 | 11,000
+El Salvado | 11 | 11,000
 
-Ethiopia...................... | 33 | 33,000
+Ethiopia | 33 | 33,000
 
-Finland....................... | 421 | 421,000
+Finland | 421 | 421,000
 
-France........................ | 5,815 | 5,815,000
+France | 5,815 | 5,815,000
 
-Germany...................... | 3,655 | 3,655,000
+Germany | 3,655 | 3,655,000
 
-Greece....................... | 277 | 277,000
+Greece | 277 | 277,000
 
-Guatemala..................... | 22 | 22,000
+Guatemala | 22 | 22,000
 
-Haiti......................... | 22 | 22,000
+Haiti | 22 | 22,000
 
-Honduras...................... | 11 | 11,000
+Honduras | 11 | 11,000
 
-Iceland....................... | 11 | 11,000
+Iceland | 11 | 11,000
 
-India......................... | 4,431 | 4,431,000
+India | 4,431 | 4,431,000
 
-Indonesia...................... | 1218 | 1,218,000
+Indonesia | 1218 | 1,218,000
 
-Iran......................... | 372 | 372,000
+Iran | 372 | 372,000
 
-Iraq......................... | 67 | 67,000
+Iraq | 67 | 67,000
 
-Israel........................ | 50 | 50,000
+Israel | 50 | 50,000
 
-Italy......................... | 1994 | 1,994,000
+Italy | 1994 | 1,994,000
 
-Japan........................ | 2,769 | 2,769,000
+Japan | 2,769 | 2,769,000
 
-Jordan........................ | 33 | 33,000
+Jordan | 33 | 33,000
 
-Lebanon...................... | 50 | 50,000
+Lebanon | 50 | 50,000
 
-Luxembourg................... | 111 | 111,000
+Luxembourg | 111 | 111,000
 
-Mexico....................... | 720 | 720,000
+Mexico | 720 | 720,000
 
-Netherlands.................... | 3,046 | 3,046,000
+Netherlands | 3,046 | 3,046,000
 
-Nicaragua..................... | 9 | 9,000
+Nicaragua | 9 | 9,000
 
-Norway....................... | 554 | 554,000
+Norway | 554 | 554,000
 
-Pakistan...................... | 1,108 | 1,108,000
+Pakistan | 1,108 | 1,108,000
 
-Panama....................... | 2 | 2,000
+Panama | 2 | 2,000
 
-Paraguay...................... | 16 | 16,000
+Paraguay | 16 | 16,000
 
-Peru......................... | 194 | 194,000
+Peru | 194 | 194,000
 
-Philippines..................... | 166 | 166,000
+Philippines | 166 | 166,000
 
-Sweden....................... | 1,108 | 1,108,000
+Sweden | 1,108 | 1,108,000
 
-Syria......................... | 72 | 72,000
+Syria | 72 | 72,000
 
-Thailand...................... | 139 | 139,000
+Thailand | 139 | 139,000
 
-Turkey....................... | 476 | 476,000
+Turkey | 476 | 476,000
 
-Union of South Africa............. | 1,108 | 1,108,000
+Union of South Africa | 1,108 | 1,108,000
 
-United Kingdom................. | 14,400 | 14,400,000
+United Kingdom | 14,400 | 14,400,000
 
-United States................... | 35,168 | 35,168,000
+United States | 35,168 | 35,168,000
 
-Uruguay...................... | 116 | 116,000
+Uruguay | 116 | 116,000
 
-Venezuela..................... | 116 | 116,000
+Venezuela | 116 | 116,000
 
-Yugoslavia.................... | 443 | 443,000
+Yugoslavia | 443 | 443,000
 
-Total................ | 100,000 | $100,000,000
-
-## Second Schedule—Resolution No. 21
-
-Section 3
-
-Amendment of Articles of Agreement
-
-WHEREAS the Articles of Agreement of the Corporation do not permit the Corporation to make investments of its funds in capital stock;
-
-WHEREAS the Corporation would more effectively fulfil the purposes for which it has been established if it were empowered to make such investments;
-
-WHEREAS, having regard to its nature and purposes, the Corporation has considered it appropriate to declare its policy that, if given such power, it would refrain from exercising the voting rights of a stockholder unless, in its opinion, it were necessary for it to exercise such rights;
-
-WHEREAS the Board of Directors has made recommendations to the Board of Governors that the Articles of Agreement of the Corporation be amended to empower the Corporation to make investments of its funds in capital stock and to include, for the guidance of the Corporation, a provision regarding the exercise of voting rights;
-
-NOW, THEREFORE, the Board of Governors hereby
-
-RESOLVES:
-
-THAT Section 2 of Article III of the Articles of Agreement of the Corporation is deleted and the following new Section substituted therefor:
-
-“Section 2. Forms of Financing.
-
-The Corporation may make investments of its funds in such form or forms as it may deem appropriate in the circumstances.”
-
-THAT sub-section (iv) of Section 3 of Article III of the Articles of Agreement of the Corporation is amended to read as follows:
-
-“(iv) the Corporation shall not assume responsibility for managing any enterprise in which it has invested and shall not exercise voting rights for such purpose or for any other purpose which, in its opinion, properly is within the scope of managerial control;”.
-
-## Third Schedule—Resolution No. 56
-
-Section 3
-
-Borrowing from International Bank for Reconstruction and Development
-
-WHEREAS the Board of Directors has communicated to the Chairman of the Board of Governors a proposal to amend the Articles of Agreement; and
-
-WHEREAS the Chairman has brought the proposal before the Board of Governors:
-
-NOW THEREFORE the Board of Governors resolves that, in accordance with the proposal of the Board of Directors, the Articles of Agreement are hereby amended as follows:
-
-1. By deleting from Article IV, Section 6 the second sentence reading as follows: “The Corporation shall not lend to or borrow from the Bank.”
-
-2. By adding to Article III, Section 6 (i) a sentence reading as follows:
-
-“if and so long as the Corporation shall be indebted on loans from or guaranteed by the Bank, the total amount outstanding of borrowings incurred or guarantees given by the Corporation shall not be increased if, at the time or as a result thereof, the aggregate amount of debt (including the guarantee of any debt) incurred by the Corporation from any source and then outstanding shall exceed an amount equal to four times its unimpaired subscribed capital and surplus;”
+Total | 100,000 | $100,000,000
