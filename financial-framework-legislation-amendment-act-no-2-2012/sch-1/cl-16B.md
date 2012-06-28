@@ -1,0 +1,29 @@
+# 16B Recoverable payments
+
+(1) If, apart from this subsection, the Commonwealth does not have power, under this Act, to pay an amount (the relevant amount) to a person (the recipient) purportedly as a benefit under the Rules, then the Commonwealth may pay the relevant amount to the recipient.
+
+Recovery
+
+(2) If a payment is made under subsection (1) to the recipient, the relevant amount:
+
+(a) is a debt due to the Commonwealth by the recipient; and
+
+(b) may be recovered by the Chief Executive Officer of ComSuper, on behalf of the Commonwealth, in a court of competent jurisdiction.
+
+Note: See also section 47 of the Financial Management and Accountability Act 1997 (duty to pursue recovery of a debt).
+
+(3) If:
+
+(a) a payment is made under subsection (1) to the recipient; and
+
+(b) the recipient is receiving, or is entitled to receive, a benefit under the Rules;
+
+then:
+
+(c) the relevant amount; or
+
+(d) such part of the relevant amount as the Chief Executive Officer of ComSuper determines;
+
+may, if the Chief Executive Officer of ComSuper so directs, be recovered by deduction from that benefit.
+
+Note: See also section 47 of the Financial Management and Accountability Act 1997 (duty to pursue recovery of a debt).

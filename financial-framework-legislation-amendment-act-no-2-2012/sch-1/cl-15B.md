@@ -1,0 +1,63 @@
+# 15B Recoverable advances
+
+(1) The Commissioner may make an advance to a person (the recipient) on account of an amount to which the recipient may become entitled under a taxation law.
+
+(2) The Commissioner must not make an advance under subsection (1) unless:
+
+(a) if the advance is made in conjunction with other advances under that subsection—the Commissioner is satisfied that the total of the costs that would be likely to be incurred by:
+
+(i) the Commonwealth; and
+
+(ii) the recipients; and
+
+(iii) persons other than the Commonwealth or the recipients;
+
+if the advance and the other advances were not made is likely to exceed the total of the advance and the other advances; or
+
+(b) otherwise—the Commissioner is satisfied that the total of the costs that would be likely to be incurred by:
+
+(i) the Commonwealth; and
+
+(ii) the recipient; and
+
+(iii) persons other than the Commonwealth or the recipient;
+
+if the advance were not made is likely to exceed the amount of the advance.
+
+(3) An advance under subsection (1) may:
+
+(a) be recovered under subsection (4); or
+
+(b) be the subject of a determination under subsection (5).
+
+(4) If an advance is made under subsection (1) to a person (the recipient), the advance:
+
+(a) is a debt due to the Commonwealth by the recipient; and
+
+(b) is payable to the Commissioner; and
+
+(c) may be recovered in a court of competent jurisdiction by the Commissioner, or by a Deputy Commissioner, suing in his or her official name;
+
+whether or not the recipient has become entitled to an amount under a taxation law.
+
+Note: See also section 47 of the Financial Management and Accountability Act 1997 (duty to pursue recovery of a debt).
+
+Advance may discharge Commonwealth liability
+
+(5) If:
+
+(a) an advance is made to a person (the recipient) under subsection (1); and
+
+(b) the advance has not been fully recovered under subsection (4); and
+
+(c) an amount is payable to the recipient by the Commonwealth under a taxation law (the Commonwealth liability);
+
+the Commissioner may, by written notice given to the recipient, determine that the making of the advance is taken to have discharged so much of the Commonwealth liability as equals the whole, or a specified part, of the amount of the advance.
+
+(6) A part of an advance must not be specified in a determination under subsection (5) if it has already been specified in a previous determination under subsection (5).
+
+(7) If the whole, or a part, of an advance is the subject of a determination under subsection (5), the whole, or the part, as the case may be, of the advance is not recoverable under subsection (4).
+
+(8) Subsection (5) does not limit Part IIB.
+
+(9) For the purposes of section 47 of the Financial Management and Accountability Act 1997, a determination under subsection (5) of this section is taken to be a method of debt recovery.
