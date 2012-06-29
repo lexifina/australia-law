@@ -1,0 +1,35 @@
+# 6 Recoverable death payments
+
+(1) If, apart from this subsection, the Commonwealth does not have power under section 4 to pay an amount (the relevant amount) in any of the following circumstances:
+
+(a) the relevant amount is deposited to an account kept in the name of a deceased person;
+
+(b) the relevant amount is deposited to an account kept in the names of a deceased person and another person;
+
+(c) the relevant amount is paid by way of a cheque made out to a deceased person;
+
+the Commonwealth may pay the relevant amount in the circumstances mentioned in paragraph (a), (b) or (c), so long as:
+
+(d) on the last day on which changes could reasonably be made to the payment of the relevant amount, the Chief Executive Officer of ComSuper did not know that the deceased person had died; and
+
+(e) apart from this subsection, the relevant amount would have been payable as a benefit to the deceased person if the deceased person had not died.
+
+(2) If a payment is made under subsection (1), the relevant amount is taken to have been paid to the deceased person’s estate.
+
+Recovery
+
+(3) If a payment is made under subsection (1), the relevant amount:
+
+(a) is a debt due to the Commonwealth by the legal personal representative of the deceased person; and
+
+(b) may be recovered by the Chief Executive Officer of ComSuper, on behalf of the Commonwealth, in a court of competent jurisdiction.
+
+Note: See also section 47 of the Financial Management and Accountability Act 1997 (duty to pursue recovery of a debt).
+
+Appropriation
+
+(4) For the purposes of subsection 4(7), a benefit under subsection (1) of this section is taken to be a replacement payment made under section 4.
+
+Benefit
+
+(5) For the purposes of this section, benefit means a replacement payment under section 4.
