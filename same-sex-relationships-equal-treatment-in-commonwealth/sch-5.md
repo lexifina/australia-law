@@ -49,11 +49,3 @@ After “marital” (wherever occurring), insert “or couple”.
 9 Application of amendments of the Governor-General Act 1974
 
 The amendments of the Governor-General Act 1974 made by this Schedule apply in relation to a person who is appointed as Governor-General on or after the commencement of this Schedule.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 28 May 2008
-
-Senate on 16 June 2008]
-
-(107/08)
