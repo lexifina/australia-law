@@ -151,11 +151,3 @@ Omit “Division 7 of Part VI of”, substitute “Subdivision 111-C in Schedule
 174 Subsection 19-25(5)
 
 Omit “Part VI of”, substitute “Part 3-10 in Schedule 1 to”.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 29 March 2006
-
-Senate on 14 June 2006]
-
-(23/06)
