@@ -6,6 +6,10 @@ Part 1—Preliminary
 
 The MRRT law extends to matters and things whether occurring before or after 1 July 2012 (except where a contrary intention appears).
 
+1A Administration of this Schedule
+
+The Commissioner has the general administration of this Schedule.
+
 Part 2—General liability rules
 
 2 Modified time of supply for prepayments before 1 July 2012
@@ -70,7 +74,7 @@ To avoid doubt, Divisions 145 and 150 of the Minerals Resource Rent Tax Act 2012
 
 Despite section 10-25 of the Minerals Resource Rent Tax Act 2012, if:
 
-(a) a miner has, under section 18 of the Income Tax Assessment Act 1936, accounting periods that are not financial years; and
+(a) an entity has, under section 18 of the Income Tax Assessment Act 1936, accounting periods that are not financial years; and
 
 (b) one of those accounting periods starts before 1 July 2012 and ends after that day;
 
@@ -126,6 +130,18 @@ Part 5—Administration
 
 (a) the base value of the starting base asset for the first MRRT year were an assessable amount within the meaning of that Division that was mentioned in column 1 of the table in subsection 155-15(1) of that Division; and
 
-(b) a starting base return for that year in relation to the starting base asset were a document mentioned in column 3 of that table in relation to that assessable amount.
+(b) a starting base return for that year in relation to the starting base asset were a document mentioned in column 3 of that table in relation to that assessable amount; and
+
+(c) the Commissioner were the recipient mentioned in column 2 of that table in relation to that starting base return.
 
 (2) This item applies to property or rights that are expected to be starting base assets as mentioned in subsection 117-20(2) in Schedule 1 to the Taxation Administration Act 1953 as if the property or rights were a starting base asset.
+
+(3) Without limiting subitem (1), from the first time an assessment (a general assessment) is made of the MRRT payable by an entity for an MRRT year (or that no MRRT is payable by the entity for the year):
+
+(a) an assessment (a starting base assessment) that the Commissioner is treated as having made because of subsection 155-15(1) in Schedule 1 to the Taxation Administration Act 1953 in relation to that base value is taken, for the purposes of this Act, to form part of the general assessment; and
+
+(b) any objection against the general assessment under section 155-90 in Schedule 1 to that Act must not relate to matters to which the starting base assessment relates; and
+
+(c) any amendment of the general assessment under Subdivision 155-B in that Schedule must not relate to matters to which the starting base assessment relates, except to the extent necessary to give effect to the starting base assessment (including the starting base assessment as amended).
+
+(4) Without limiting sections 155-45 to 155-60 in Schedule 1 to that Act, the Commissioner may amend a general assessment at any time to the extent necessary to give effect to the starting base assessment (including the starting base assessment as amended).
