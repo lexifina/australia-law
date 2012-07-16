@@ -9,11 +9,3 @@ Repeal the note.
 2 Subsection 123ZH(2) (second note)
 
 Repeal the note.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 23 November 2011
-
-Senate on 29 February 2012]
-
-(266/11)
