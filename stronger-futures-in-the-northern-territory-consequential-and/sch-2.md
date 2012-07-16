@@ -72,11 +72,11 @@ Repeal the subsection.
 
 14 Subsection 70E(18)
 
-Omit “(14), (15), and (17)”, substitute “(14) and (15)”.
+Omit “(14), (15) and (17)”, substitute “(14) and (15)”.
 
 15 Subsections 70E(19), (20) and (21)
 
-Omit “(14), (15), or (17)”, substitute “(14) or (15)”.
+Omit “(14), (15) or (17)”, substitute “(14) or (15)”.
 
 16 Subsection 70F(14)
 
