@@ -530,7 +530,7 @@ Article 40
 
 Article 41
 
-1. This Convention may be denounced by any Contracting State at any time after the date on which the the Convention comes into force for that State.
+1. This Convention may be denounced by any Contracting State at any time after the date on which the Convention comes into force for that State.
 
 2. Denunciation shall be effected by the deposit of an instrument with the Secretary-General of the Organization.
 
