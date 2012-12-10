@@ -1,0 +1,21 @@
+# 60AD Entity that gives a temporary handling report must give a temporary handling disposal report
+
+(1) This section applies if an entity gives the Secretary a temporary handling report for a particular sample of a security-sensitive biological agent.
+
+(2) The entity must give the Secretary a report (a temporary handling disposal report), for the sample, that complies with subsection (3).
+
+Note: Failure to give a report is an offence: see section 60AE.
+
+(3) The temporary handling disposal report:
+
+(a) must be in a form approved by the Secretary; and
+
+(b) must state that the entity has disposed of the sample; and
+
+(c) must include the information required by the approved form; and
+
+(d) must be given to the Secretary:
+
+(i) within 2 business days after the disposal, or after the end of the temporary handling period for the sample, whichever happens first; or
+
+(ii) if a longer period is specified in a written notice given to the entity by the Secretary—within that longer period.

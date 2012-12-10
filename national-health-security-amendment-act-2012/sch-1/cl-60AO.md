@@ -1,0 +1,21 @@
+# 60AO Failure to comply with conditions
+
+(1) This section applies if:
+
+(a) a condition is imposed under subsection 60AM(2) on the handling of a particular sample of a security-sensitive biological agent by an entity; and
+
+(b) the Secretary believes, on reasonable grounds, that the entity is not complying with the condition in relation to the sample.
+
+(2) The Secretary may give the entity a written notice stating that, unless the entity satisfies the Secretary, within the period specified in the notice or such longer period as the Secretary allows, that the entity is complying with the condition, the Secretary may require the entity to dispose of the sample.
+
+(3) If:
+
+(a) the Secretary gives an entity a written notice under subsection (2) in relation to a condition; and
+
+(b) the entity does not satisfy the Secretary, within the period allowed under that subsection, that the entity is complying with the condition;
+
+the Secretary may give the entity a written direction requiring the entity, within the period specified in the direction or such longer period as the Secretary allows, to dispose of the sample.
+
+Note: Failure to comply with the direction is an offence: see section 60AP.
+
+(4) A period specified in a direction under subsection (3) must be reasonable having regard to the circumstances.

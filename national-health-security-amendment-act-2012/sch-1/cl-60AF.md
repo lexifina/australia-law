@@ -1,0 +1,35 @@
+# 60AF Entity that gives a temporary handling report must report any changes to the Secretary
+
+(1) This section applies to an entity if:
+
+(a) the entity gives the Secretary a temporary handling report for a particular sample of a security-sensitive biological agent; and
+
+(b) any of the following events occurs in relation to the sample before the end of the temporary handling period for the sample:
+
+(i) the sample is lost or stolen;
+
+Note: Accidental or deliberate releases of security-sensitive biological agents that could cause harm to human health or the environment may need to be reported under State or Territory legislation.
+
+(ii) a person accesses the sample, and the access is unauthorised under the regulations;
+
+(iii) any other event prescribed by the regulations for the purposes of this subparagraph.
+
+(2) The entity must give a report about the event to the Secretary. The report must be given within the prescribed period.
+
+Note: Failure to give a report is an offence: see section 60AG.
+
+(3) Regulations for the purposes of subparagraph (1)(b)(ii) may prescribe the circumstances in which access to a sample of a specified security-sensitive biological agent, or to a sample of a specified class of security-sensitive biological agents, is unauthorised.
+
+(4) Regulations prescribing a period for the purposes of subsection (2) may:
+
+(a) prescribe different periods in relation to different events; and
+
+(b) prescribe a period in relation to an event that ends before or after the event occurs.
+
+(5) A report given by an entity under subsection (2):
+
+(a) must be in a form approved by the Secretary; and
+
+(b) must include the information required by the approved form.
+
+(6) Subsection (2) does not apply in the circumstances (if any) prescribed by the regulations.

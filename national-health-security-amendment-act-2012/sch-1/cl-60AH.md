@@ -1,0 +1,29 @@
+# 60AH Entity that gives a temporary handling report must report certain events to police
+
+(1) This section applies if:
+
+(a) an event occurs in relation to an entity and a particular sample of a security-sensitive biological agent; and
+
+(b) the event occurs in a State or Territory; and
+
+(c) the event is:
+
+(i) one described in subparagraph 60AF(1)(b)(i); or
+
+(ii) one described in subparagraph 60AF(1)(b)(ii) or (iii) and prescribed by the regulations for the purposes of this subparagraph.
+
+(2) The entity must give a member of the police force of the State or Territory a report of the event that:
+
+(a) is in a form approved by the Secretary; and
+
+(b) includes the information required by the approved form.
+
+Note: Failure to give a report is an offence: see section 60AI.
+
+(3) The entity must give the report within the period prescribed by the regulations.
+
+(4) Regulations prescribing a period for the purposes of subsection (3) may:
+
+(a) prescribe different periods in relation to different events; and
+
+(b) prescribe a period in relation to an event that ends before or after the event occurs.
