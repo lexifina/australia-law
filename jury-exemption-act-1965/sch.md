@@ -12,7 +12,7 @@ Senators
 
 Members of the House of Representatives
 
-Members of Fair Work Australia
+Members of the Fair Work Commission
 
 Members and special members of the Australian Federal Police
 
