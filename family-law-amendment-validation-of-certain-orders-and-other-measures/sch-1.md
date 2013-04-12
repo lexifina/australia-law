@@ -168,6 +168,14 @@ with respect to matters arising under this Part.
 
 (3) A court only has jurisdiction with respect to a matter arising under this Part if it has jurisdiction with respect to an equivalent matter arising under the Family Law Act 1975. The court’s jurisdiction under this Part is subject to the same conditions and limitations as would apply to it in dealing with the equivalent matter.
 
+6A Effect of change of name of Federal Magistrates Court
+
+To the extent that this Part applies after the commencement of Schedule 2 to the Federal Circuit Court of Australia Legislation Amendment Act 2012:
+
+(a) a reference in this Part to the Federal Magistrates Act 1999 is taken to include a reference to the Federal Circuit Court of Australia Act 1999; and
+
+(b) a reference in this Part to the Federal Magistrates Court is taken to include a reference to the Federal Circuit Court of Australia.
+
 Part 2—Orders on appeal from Family Law Magistrates of Western Australia
 
 7 Interpretation
@@ -295,3 +303,11 @@ with respect to matters arising under this Part.
 is invested with federal jurisdiction with respect to matters arising under this Part.
 
 (3) A court only has jurisdiction with respect to a matter arising under this Part if it has jurisdiction with respect to an equivalent matter arising under the Family Law Act 1975. The court’s jurisdiction under this Part is subject to the same conditions and limitations as would apply to it in dealing with the equivalent matter.
+
+13 Effect of change of name of Federal Magistrates Court
+
+To the extent that this Part applies after the commencement of Schedule 2 to the Federal Circuit Court of Australia Legislation Amendment Act 2012:
+
+(a) a reference in this Part to the Federal Magistrates Act 1999 is taken to include a reference to the Federal Circuit Court of Australia Act 1999; and
+
+(b) a reference in this Part to the Federal Magistrates Court is taken to include a reference to the Federal Circuit Court of Australia.
