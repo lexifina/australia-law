@@ -203,3 +203,13 @@ Nothing in this Schedule applies to an order declared or held to be invalid, or 
 (2) Subject to subitem (3), each court of summary jurisdiction of each State is invested with federal jurisdiction, and jurisdiction is conferred on each court of summary jurisdiction of each Territory, with respect to matters arising under this Schedule.
 
 (3) A court only has jurisdiction with respect to a matter arising under this Schedule if it has jurisdiction with respect to an equivalent matter arising under the Family Law Act 1975. The court’s jurisdiction under this Schedule is subject to the same conditions and limitations as would apply to it in dealing with the equivalent matter.
+
+11 Effect of change of name of Federal Magistrates Court
+
+To the extent that this Schedule applies after the commencement of Schedule 2 to the Federal Circuit Court of Australia Legislation Amendment Act 2012:
+
+(a) a reference in this Schedule to the Federal Magistrates Act 1999 is taken to include a reference to the Federal Circuit Court of Australia Act 1999; and
+
+(b) a reference in this Schedule to a Federal Magistrate is taken to include a reference to a Judge of the Federal Circuit Court of Australia; and
+
+(c) a reference in this Schedule to the Federal Magistrates Court is taken to include a reference to the Federal Circuit Court of Australia.

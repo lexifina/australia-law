@@ -27,11 +27,3 @@ Note: Section 60CA requires the best interests of the child to be the paramount 
 3 Application of amendments
 
 The amendments made by this Schedule apply to any order made after the commencement of this item, whether proceedings were initiated, or an application for the order was made, before, at or after that commencement.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 17 November 2010
-
-Senate on 24 November 2010]
-
-(269/10)
