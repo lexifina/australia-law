@@ -118,11 +118,11 @@ The amendments of section 36 of the A New Tax System (Family Assistance) Act 199
 
 (a) an individual’s eligibility under subsection 36(2) of that Act for baby bonus in respect of a child who was born before 1 January 2011; or
 
-(b) an individual’s eligibility under subsection 36(3) of that Act for baby bonus in respect of a child who was entrusted to the person’s care before 1 January 2011; or
+(b) an individual’s eligibility under subsection 36(3) of that Act for baby bonus in respect of a child who became entrusted (within the meaning of that Act, as amended by Part 2 of Schedule 3 to the Family Assistance and Other Legislation Amendment Act 2013) to the person’s care before 1 January 2011; or
 
-(c) an individual’s eligibility under subsection 36(4) of that Act for baby bonus in respect of a child who was delivered before 1 January 2011; or
+(c) an individual’s eligibility under subsection 36(4) of the A New Tax System (Family Assistance) Act 1999 for baby bonus in respect of a child who was delivered before 1 January 2011; or
 
-(d) an individual’s eligibility under subsection 36(5) of that Act for baby bonus in respect of a child who was entrusted to the person’s care before 1 January 2011.
+(d) an individual’s eligibility under subsection 36(5) of the A New Tax System (Family Assistance) Act 1999 for baby bonus in respect of a child who became entrusted (within the meaning of that Act, as amended by Part 2 of Schedule 3 to the Family Assistance and Other Legislation Amendment Act 2013) to the person’s care before 1 January 2011.
 
 4 Eligibility for maternity immunisation allowance
 
@@ -153,11 +153,3 @@ To avoid doubt, section 72AD of the Child Support (Registration and Collection) 
 (b) a debt of a kind referred to in subparagraph (1)(b)(ii) of that section;
 
 that existed immediately before the commencement of this item in the same way that it applies to such a liability or debt that comes into existence after that commencement.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 26 May 2010
-
-Senate on 15 June 2010]
-
-(102/10)
