@@ -1,1 +1,1 @@
-An Act to impose a levy on the lodgment of certain returns under the Superannuation Industry (Supervision) Act 1993
+An Act to impose a levy in respect of self managed superannuation funds
