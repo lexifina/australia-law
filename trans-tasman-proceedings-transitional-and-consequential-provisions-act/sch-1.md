@@ -10,7 +10,11 @@ Part 2 of the Trans-Tasman Act (which deals with service in New Zealand of initi
 
 2 Application of Part 3 of the Trans-Tasman Act
 
-Part 3 of the Trans-Tasman Act (which deals with Australian courts declining jurisdiction on the grounds that a New Zealand court is the more appropriate forum) applies to a civil proceeding commenced in an Australian court on or after commencement.
+Part 3 of the Trans-Tasman Act (which deals with Australian courts declining jurisdiction on the grounds that a New Zealand court is the more appropriate forum) applies to an application made under that Part on or after commencement by a defendant to a civil proceeding that:
+
+(a) was commenced in an Australian court on or after commencement; or
+
+(b) was commenced in an Australian court before commencement, but only if an initiating document for the proceeding was served on the defendant in New Zealand after commencement under Part 2 of that Act.
 
 3 Application of Part 4 of the Trans-Tasman Act
 
