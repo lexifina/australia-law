@@ -157,11 +157,3 @@ For the purposes of paragraph (k) of the definition of charitable purpose in sub
 (b) to which paragraphs (a) to (j) and (l) of that definition do not apply;
 
 is treated as being a purpose beneficial to the general public that may reasonably be regarded as analogous to, or within the spirit of, any of the purposes mentioned in paragraphs (a) to (j) of that definition.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 29 May 2013
-
-Senate on 19 June 2013]
-
-(151/13)
