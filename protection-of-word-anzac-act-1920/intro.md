@@ -1,1 +1,1 @@
-An Act to repeal the War Precautions Act 1914–1918 and to provide for certain matters arising out of such repeal, and for other purposes
+An Act to provide for the protection of the word “Anzac”, and for related purposes
