@@ -1,1 +1,1 @@
-An Act to provide for national gambling reform in relation to gaming machines, and for related purposes
+An Act in relation to measures to encourage responsible gambling, and for related purposes
