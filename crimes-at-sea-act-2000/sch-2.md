@@ -2,28 +2,6 @@
 
 ## Schedule 2—Consequential amendments
 
-Note:
-
-The amendments made by this Schedule are incorporated in the compilations on ComLaw.
-
-Crimes Act 1914
-
-Crimes at Sea Act 1979 [repealed by Act No. 13, 2000, Schedule 2, item 3]
-
-Nuclear Non-Proliferation (Safeguards) Act 1987
-
-Offshore Minerals Act 1994
-
-Petroleum (Timor Gap Zone of Cooperation) Act 1990 [repealed by Act No. 10, 2003, Schedule 1, item 70]
-
-Petroleum (Submerged Lands) Act 1967 [repealed by Act No. 17, 2006, Schedule 1, item 1]
-
-Sea Installations Act 1987
-
-South Pacific Nuclear Free Zone Treaty Act 1986
-
-For access to the wording of the amendments made by this Schedule, see Act No. 13, 2000.
-
 11 Application of amendments
 
 (1) The amendments made by this Schedule apply to acts and omissions that take place after this Schedule commences.
