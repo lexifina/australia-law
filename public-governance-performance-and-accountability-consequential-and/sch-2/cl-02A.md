@@ -1,0 +1,13 @@
+# 2A Simplified outline of this Act
+
+This Act confers on the Commonwealth, in certain circumstances, the powers:
+
+(a) to make arrangements under which relevant money and other CRF money can be spent, or to make grants of financial assistance; and
+
+(b) to form, or otherwise be involved in, companies.
+
+The arrangements, grants, programs and companies (or classes of arrangements or grants) in relation to which the powers are conferred are specified in the regulations.
+
+5 At the end of Part 1
+
+Add:

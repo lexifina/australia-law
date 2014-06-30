@@ -1,0 +1,17 @@
+# 43 Disclosure of interests
+
+(1) A disclosure by the Commission CEO under section 29 of the Public Governance, Performance and Accountability Act 2013 (which deals with the duty to disclose interests) must be made to the Commission Board.
+
+(2) Subsection (1) applies in addition to any rules made for the purposes of that section.
+
+(3) For the purposes of this Act and the Public Governance, Performance and Accountability Act 2013, the Commission CEO is taken not to have complied with section 29 of that Act if the Commission CEO does not comply with subsection (1) of this section.
+
+109 Paragraph 45(4)(c)
+
+Repeal the paragraph, substitute:
+
+(c) the Commission CEO fails, without reasonable excuse, to comply with section 29 of the Public Governance, Performance and Accountability Act 2013 (which deals with the duty to disclose interests) or rules made for the purposes of that section; or
+
+110 Section 52
+
+Repeal the section, substitute:

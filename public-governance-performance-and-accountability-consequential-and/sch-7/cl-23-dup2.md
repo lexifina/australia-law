@@ -1,0 +1,25 @@
+## Part IV—Corporate plans and annual operational plans
+
+457 Sections 23 and 24
+
+Repeal the sections, substitute:
+
+# 23 Corporate plans
+
+Each corporate plan prepared by the members of the Commission under section 35 of the Public Governance, Performance and Accountability Act 2013:
+
+(a) must be submitted to the Minister for approval not less than 3 months, or such lesser period as the Minister, in special circumstances, allows, before the day of commencement of the period to which the corporate plan relates; and
+
+(b) must be laid before each House of the Parliament within 15 sitting days of that House after the Minister has approved the corporate plan; and
+
+(c) comes into force on:
+
+(i) the day on which it is approved by the Minister; or
+
+(ii) the day of commencement of the period to which it relates;
+
+whichever is the later.
+
+458 Section 25 (heading)
+
+Repeal the heading, substitute:

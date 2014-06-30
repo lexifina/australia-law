@@ -1,0 +1,11 @@
+# 44A Money payable to the Commission
+
+(1) There is payable to the Commission such money as is appropriated by the Parliament for the purposes of the Commission.
+
+(2) The Finance Minister may give directions about the amounts in which, and the times at which, money payable under subsection (1) is to be paid to the Commission.
+
+(3) If a direction under subsection (2) is given in writing, the direction is not a legislative instrument.
+
+(4) In this section:
+
+Finance Minister means the Minister administering the Public Governance, Performance and Accountability Act 2013.
