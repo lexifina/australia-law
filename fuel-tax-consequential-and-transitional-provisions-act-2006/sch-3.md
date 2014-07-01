@@ -256,8 +256,6 @@ Part 4—Fuel tax credits for vehicles of 4.5 tonnes
 
 (2) You are entitled to a credit under section 41-5 of the Fuel Tax Act if you would have been entitled to a credit in respect of the fuel under that section, disregarding section 41-20 of that Act.
 
-(2A) If, because of subitem (2), you are entitled to a credit in respect of the fuel acquired, manufactured or imported for use as mentioned in subparagraph (1)(b)(i), then, for the purpose of section 43-8 of the Fuel Tax Act, the amount of carbon reduction that applies to the fuel is taken to be nil.
-
 (3) To avoid doubt, this item continues to apply despite the repeal of the Energy Grants Act on 1 July 2012.
 
 Part 4A—Early payments of fuel tax credits arising between 1 July 2006 and 30 June 2008
