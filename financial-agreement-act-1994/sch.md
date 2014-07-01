@@ -241,3 +241,141 @@ by the Commonwealth, a State, a local governing body or any entity owned or cont
 (a) amounts equal to the amounts received from the State under sub-clause 7(2); and
 
 (b) amounts being the contributions by the Commonwealth under clause 8.
+
+(5) There shall be paid by the Commonwealth into the accounts in the Debt Retirement Reserve Trust Account established under sub-clause 6(3):
+
+(a) amounts equal to the amounts received from the Northern Territory under sub-clause 7(3); and
+
+(b) amounts being the contributions by the Commonwealth under clause 8.
+
+(6) Moneys standing to the credit of an account established in respect of a State in the Debt Retirement Reserve Trust Account shall be applied by the Commonwealth in connection with the purchase, redemption, including redemption on conversion, and repayment of securities of that State. The gross cost, in the case of purchase, or the cost at face value, in the case of redemption or repayment, shall be charged to the account established in respect of that State in the Debt Retirement Reserve Trust Account.
+
+(7) Moneys standing to the credit of the account established in respect of the Northern Territory in the Debt Retirement Reserve Trust Account shall be applied by the Commonwealth in connection with the purchase, redemption, including redemption on conversion, and repayment of securities of the Northern Territory. The gross cost, in the case of purchase, or the cost at face value, in the case of redemption or repayment, shall be charged to the account established in respect of that Territory in the Debt Retirement Reserve Trust Account.
+
+(8) Moneys standing to the credit of an account established in respect of a State in the Debt Retirement Reserve Trust Account will be held within the Commonwealth Public Account established pursuant to paragraph 21(1)(a) of the Audit Act 1901 or that provision as amended, modified or re-enacted from time to time. An amount equal to interest earned on that part of the balances in the Commonwealth Public Account attributable to the credit balance in the account established in respect of a State within the Debt Retirement Reserve Trust Account shall be added to the moneys standing to the credit of that account.
+
+(9) Moneys standing to the credit of the account established in respect of the Northern Territory in the Debt Retirement Reserve Trust Account will be held within the Commonwealth Public Account established pursuant to paragraph 21(1)(a) of the Audit Act 1901 or that provision as amended, modified or re-enacted from time to time. An amount equal to interest earned on that part of the balances in the Commonwealth Public Account attributable to the credit balance in the account established in respect of the Northern Territory within the Debt Retirement Reserve Trust Account shall be added to the moneys standing to the credit of that account.
+
+(10) When securities of a State or of the Northern Territory are purchased, redeemed or repaid, the securities shall be deemed to have been cancelled on the date of the purchase, redemption or repayment.
+
+7(1) Each State shall, in respect of the public debt of the State, pay by equal monthly instalments during each year commencing on 1 July 1990 or in such other amounts as are determined by agreement between the Commonwealth and the relevant State a contribution calculated in respect of that year as provided in this clause.
+
+(2) Each State shall pay the contribution in respect of each year—
+
+(a) in respect of the period from 1 July 1990 until the establishment of the Debt Retirement Reserve Trust Account, to the Commission for credit to the account of the State in the Sinking Fund, and
+
+(b) thereafter, to the Commonwealth for credit to the account established in respect of the State in the Debt Retirement Reserve Trust Account
+
+such that the contribution, together with—
+
+(c) in the case of the period referred to in paragraph (a),
+
+(i) amounts of interest referred to in sub-clause 12A(7) of the Principal Agreement, preserved by sub-clause 16(2), in respect of the relevant year or, where the Debt Retirement Reserve Trust Account has operated for only part of the year, the other part of that year;
+
+(ii) contributions by the Commonwealth pursuant to clause 8 as it relates to the State in respect of the relevant year or, where the Debt Retirement Reserve Trust Account has operated for only part of the year, the other part of that year; and
+
+(iii) the moneys standing to the credit of an account in respect of the State in the Sinking Fund as at the commencement of that year including where the Debt Retirement Reserve Trust Account has operated for only part of the year; and
+
+(d) in the case of the period referred to in paragraph (b),
+
+(i) amounts equal to interest referred to in sub-clause 6(8) in respect of the relevant year, or where the Debt Retirement Reserve Trust Account has operated for only part of the year, the interest referred to in sub-clause 6(8) for that part of that year;
+
+(ii) contributions by the Commonwealth pursuant to clause 8 in respect of the relevant year or where the Debt Retirement Reserve Trust Account has operated for only part of the year, the contribution made into the Debt Retirement Reserve Trust Account for that part of the year; and
+
+(iii) the moneys standing at the commencement of the relevant year to the credit of an account in respect of the State in the Debt Retirement Reserve Trust Account,
+
+is equal to the total of those parts of its public debt which falls to be redeemed or is repaid or purchased in that year, or any greater amount which the State elects to have redeemed, repaid or purchased in that year, but so that in any event that contribution shall not be less than an amount equal to 0.85 per centum of the net public debt of the State as at the 30th June immediately preceding the year in which the contribution is payable.
+
+(3) The Northern Territory shall pay a contribution in respect of each year—
+
+(a) in respect of the period from 1 July 1990 until the establishment of the Debt Retirement Reserve Trust Account, to the Commonwealth for credit to the Northern Territory Debt Sinking Fund; and
+
+(b) thereafter, to the Commonwealth for credit to the account established in respect of the Northern Territory in the Debt Retirement Reserve Trust Account
+
+such that the contribution, together with—
+
+(c) in the case of the period referred to in paragraph (a),
+
+(i) amounts of interest which would have been payable under the 1986 Arrangements in respect of the relevant year or, where the Debt Retirement Reserve Trust Account has operated for only part of the year, the other part of that year;
+
+(ii) contributions by the Commonwealth pursuant to clause 8 as it relates to the Territory in respect of the relevant year or, where the Debt Retirement Reserve Trust Account has operated for only part of the year, the other part of that year; and
+
+(iii) the moneys standing to the credit of the Northern Territory Debt Sinking Fund as at the commencement of that year including where the Debt Retirement Reserve Trust Account has operated for only part of the year; and
+
+(d) in the case of the period referred to in paragraph (b),
+
+(i) amounts equal to interest referred to in sub-clause 6(9) in respect of the relevant year or, where the Debt Retirement Reserve Trust Account has operated for only part of the year, the interest referred to in sub-clause 6(9) for that part of that year;
+
+(ii) contributions by the Commonwealth pursuant to clause 8 in respect of the relevant year or, where the Debt Retirement Reserve Trust Account has operated for only part of the year, the contribution made into the Debt Retirement Reserve Trust Account for that part of the year; and
+
+(iii) the moneys standing at the commencement of the relevant year to the credit of the account in respect of the Northern Territory in the Debt Retirement Reserve Trust Account,
+
+is equal to the total of those parts of its public debt which falls to be redeemed or is repaid or purchased in that year or any greater amount which the Northern Territory elects to have redeemed, repaid or purchased in that year, but so that in any event that contribution shall not be less than an amount equal to 0.85 per centum of the net public debt of the Northern Territory as at the 30th June immediately preceding the year in which the contribution is payable.
+
+8(1) The Commonwealth shall, in respect of the public debt of each State and of the Northern Territory, pay for credit to the account of the State in the National Debt Sinking Fund and that Territory in the Northern Territory Debt Sinking Fund by equal monthly instalments during each year commencing 1 July 1990 or in such other amounts as are determined by agreement between the Commonwealth and the relevant State or the Commonwealth and the Northern Territory, as the case may be, a contribution calculated in respect of that year as provided in this clause.
+
+(2) The Commonwealth shall pay a contribution in respect of each of those years in relation to the public debt of a State and in relation to the public debt of the Northern Territory that is equivalent to 0.28 per centum of the net public debt of the State or the Northern Territory, as the case may be, at the 30th June immediately preceding the year in which the contribution is payable.
+
+(3) On and from the establishment of the Debt Retirement Reserve Trust Account the contribution payable by the Commonwealth under this clause in respect of the States and the Northern Territory shall be paid into that Account.
+
+9 The contributions payable after the establishment of the Debt Retirement Reserve Trust Account by the Northern Territory under sub-clause 7(3) shall be:
+
+(a) in respect of so much of the year ending on 30 June next following the establishment of the Debt Retirement Reserve Trust Account; and
+
+(b) in respect of each succeeding year,
+
+of equal monthly instalments during the period referred to in paragraph (a) or during the year referred to in paragraph (b) or of such other amounts as are determined by agreement between the Commonwealth and the Northern Territory.
+
+10 The Commonwealth shall reimburse, in such amounts and at such times as agreed between the Commonwealth and the State, each State for the excess, as assessed by agreement between the Commonwealth and the State, of the amount of the costs to the State incurred from1 July 1990 in respect of the redemption, repayment and purchase, by the Commonwealth of the securities from that date over the amount of the costs that would have been so incurred under the Principal Agreement.
+
+11 The Commonwealth shall reimburse, in such amounts and at such times as agreed between the Commonwealth and the Northern Territory, that Territory for the excess, as assessed by agreement between the Commonwealth and that Territory, of the amount of the costs to that Territory incurred from 1 July 1990 in respect of the redemption, repayment and purchase, by the Commonwealth of the securities from that date over the amount of the costs that would have been so incurred under the 1986 Arrangements.
+
+12(1) Each State and the Northern Territory shall repay to the Commonwealth all expenses incurred or payments made by the Commonwealth in the performance of this Agreement in relation to the State and the Northern Territory, including the following expenses and payments:—
+
+(a) Loan flotation charges;
+
+(b) Management charges;
+
+(c) Stamp duties on transfer of securities;
+
+(d) Commission on payment of interest;
+
+(e) Expenses incurred in the conversion, renewal, redemption or consolidation of loans; and
+
+(f) Exchange on transference of moneys.
+
+(2) Unless it is otherwise agreed between the Commonwealth and a State, the Commonwealth will not do anything in connection with a loan of that State existing on the 30th June, 1927, or raised thereafter pursuant to the Principal Agreement, which, if done by that State, would be a breach of any now existing agreement by that State with any Bank.
+
+(3) A certificate by the Auditor-General of the Commonwealth stating the amount to be repaid by a State to the Commonwealth and the matter in respect of which the repayment is to be made shall, in the event of a dispute, be conclusive as to the amount and matter stated.
+
+13 Each State agrees with the Commonwealth that it will by the faithful performance of its obligations under this Agreement indemnify the Commonwealth against all liabilities whatsoever in respect of the public debt of that State (other than the liabilities of the Commonwealth under this Agreement to pay interest and to make sinking fund contributions or, after its establishment, contributions to the Debt Retirement Reserve Trust Account), not falling payable under the Principal Agreement prior to the 1 July 1990 in respect of which this Agreement provides that sinking fund contributions or, after its establishment, contributions to the Debt Retirement Reserve Trust Account shall be made.
+
+14 The Northern Territory agrees with the Commonwealth that it will by the faithful performance of its obligations under this Agreement indemnify the Commonwealth against all liabilities whatsoever in respect of all loans of that Territory for which this Agreement provides that, after its establishment, contributions to the Debt Retirement Reserve Trust Account shall be made.
+
+15 Separate accounts shall be kept by the Commonwealth for each State and, so far as relevant, for the Northern Territory in respect of Debt, Interest, and Sinking Funds or, after its establishment, contributions for the purposes of the Debt Retirement Reserve Trust Account.
+
+16(1) This Agreement rescinds the Principal Agreement, except as provided by this clause, but with effect from the date on which this Agreement, other than Clauses 7, 8, 10, 11 and 13, comes into effect.
+
+(2) Sub-clauses 12A(1), (2) and (4) to (12), inclusive, of the Principal Agreement continue to operate until the date on which the Debt Retirement Reserve Trust Account is established and, for the purposes of their continued operation, references in sub-clause 12A(9) of the Principal Agreement to clauses 12B and 12C are taken to be references to clauses 7 and 8, respectively, of this Agreement.
+
+(3) This Agreement rescinds, with effect from the date referred to in sub-clause (1), the provisions of the 1986 Arrangements in relation to debt outstanding as at 1 July 1990, being debt arising from securities the subject of those Arrangements issued or created in respect of the Northern Territory by the Commonwealth.
+
+IN WITNESS WHEREOF this agreement has been signed for and on behalf of the parties respectively as at the day and year first above written.
+
+SIGNED by the Honourable PAUL JOHN KEATING, Prime Minister of the Commonwealth of Australia, in the presence of Dr Michael Keating | * Signature omitted
+
+SIGNED by the Honourable JOHN JOSEPH FAHEY, Premier of the State of New South Wales, in the presence of Mr Roger Wilkins | * Signature omitted
+
+SIGNED by the Honourable JEFFREY GIBB KENNETT, Premier of the State of Victoria, in the presence of Mr Ken Baxter | * Signature omitted
+
+SIGNED by the Honourable WAYNE KEITH GOSS, Premier of the State of Queensland, in the presence of Mr Kevin Rudd | * Signature omitted
+
+SIGNED by the Honourable RICHARD FAIRFAX COURT, Premier of the State of Western Australia, in the presence of Mr Don Saunders | * Signature omitted
+
+SIGNED by the Honourable DEAN CRAIG BROWN, Premier of the State of South Australia, in the presence of Mr Michael Schilling | * Signature omitted
+
+SIGNED by the Honourable RAYMOND JOHN GROOM, Premier of the State of Tasmania, in the presence of Dr Dan Norton | * Signature omitted
+
+SIGNED by ROSEMARY FOLLETT, Chief Minister of the Australian Capital Territory, in the presence of Dr David Rosalky | * Signature omitted
+
+SIGNED by the Honourable MARSHALL BRUCE PERRON, Chief Minister of the Northern Territory, in the presence of Dr Neil Conn | * Signature omitted
