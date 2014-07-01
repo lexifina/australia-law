@@ -526,6 +526,8 @@ only for the purposes mentioned in subsection 35(1A) of the Australian Grape and
 
 (a) the investment of surplus money of the Australian Grape and Wine Authority under section 19 of the Commonwealth Authorities and Companies Act 1997; or
 
+(aa) the investment, under section 59 of the Public Governance, Performance and Accountability Act 2013, of money that is not immediately required for the purposes of the Australian Grape and Wine Authority; or
+
 (b) the reinvestment of the proceeds of an investment.
 
 34 Funding of grape or wine research and development activities before first annual operational plan is developed
@@ -645,11 +647,3 @@ Note: SES employee and acting SES employee are defined in the Acts Interpretatio
 41 Transitional rules
 
 The Minister may, by legislative instrument, make rules in relation to transitional matters arising out of the amendments and repeals made by Schedule 1.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 14 November 2013
-
-Senate on 3 December 2013]
-
-(205/13)
