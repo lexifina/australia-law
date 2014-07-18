@@ -35,11 +35,3 @@ Offshore Act means the Offshore Petroleum and Greenhouse Gas Storage Act 2006, a
 19 Transitional regulations
 
 The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by this Schedule.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 28 November 2012
-
-Senate on 28 February 2013]
-
-(218/12)
