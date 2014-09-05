@@ -29,11 +29,3 @@ Section 40 of the Farm Household Support Act 2014 applies, after the commencemen
 (c) the Social Security Administration Act.
 
 (3) Without limiting subitem (1), the rules may deal with the transition of a person from a payment made under the executive power of the Commonwealth to farm household allowance.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 6 March 2014
-
-Senate on 19 March 2014]
-
-(21/14)

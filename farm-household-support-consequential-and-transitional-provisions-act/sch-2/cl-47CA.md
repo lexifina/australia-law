@@ -176,14 +176,6 @@ Division 1—Amendments if this Act commences before the Minerals Resource Rent 
 
 Minerals Resource Rent Tax Repeal and Other Measures Act 2014
 
-139 Item 23 of Schedule 8
-
-Repeal the item, substitute:
-
-23 Paragraph 1231(1AA)(b)
-
-Omit “, training and learning bonus or income support bonus”, substitute “or training and learning bonus”.
-
 Social Security Act 1991
 
 140 Paragraph 1231(1AA)(b)
