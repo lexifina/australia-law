@@ -1,0 +1,1 @@
+An Act to enact certain transitional provisions, make certain amendments, and effect certain repeals, in consequence of the enactment of the Telecommunications Act 1989, the Australian Postal Corporation Act 1989 and the Australian Telecommunications Corporation Act 1989, and for other purposes
