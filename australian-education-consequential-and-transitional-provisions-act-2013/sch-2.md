@@ -124,7 +124,7 @@ School improvement framework and plans
 
 (b) a school improvement plan for the school in accordance with subparagraph 77(2)(d)(ii) of the new Act;
 
-on and from 1 January 2015.
+on and from 1 January 2016 or such later date as the Minister specifies by legislative instrument made before 1 January 2016.
 
 10 Majority Aboriginal and Torres Strait Islander schools
 
@@ -147,11 +147,3 @@ For the purposes of the definition of majority Aboriginal and Torres Strait Isla
 (2) Without limiting subitem (1), a modification of the operation of that Act may result in a different amount of financial assistance being payable under that Act.
 
 (3) Subsection 130(5) of the new Act (requirement to consult Ministerial Council) does not apply in relation to any regulations made before 1 January 2014.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 5 June 2013
-
-Senate on 20 June 2013]
-
-(161/13)
