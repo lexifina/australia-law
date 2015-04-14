@@ -8,7 +8,7 @@ Sections 35 and 95 of the PGPA Act (which deal with corporate plans for Commonwe
 
 2 Budget estimates
 
-Sections 36 and 96 of the PGPA Act (which deal with budget estimates for Commonwealth entities and wholly-owned Commonwealth companies) apply in relation to reporting periods for those entities and companies that commence after the commencement time.
+Sections 36 and 96 of the PGPA Act (which deal with budget estimates for Commonwealth entities and wholly-owned Commonwealth companies) apply in relation to reporting periods for those entities and companies that commence on or after 1 July 2014.
 
 3 Annual performance statements
 
@@ -16,15 +16,15 @@ Sections 39 and 40 of the PGPA Act (which deal with annual performance statement
 
 4 Annual financial statements
 
-Sections 42 and 43 of the PGPA Act (which deal with annual financial statements for Commonwealth entities) apply in relation to reporting periods for those entities that commence after the commencement time.
+Sections 42 and 43 of the PGPA Act (which deal with annual financial statements for Commonwealth entities) apply in relation to reporting periods for those entities that commence on or after 1 July 2014.
 
 5 Audit of financial statements of subsidiaries
 
-Sections 44 and 99 of the PGPA Act (which deal with audits of financial statements of subsidiaries of Commonwealth entities or Commonwealth companies) apply in relation to reporting periods for those subsidiaries that commence after the commencement time.
+Sections 44 and 99 of the PGPA Act (which deal with audits of financial statements of subsidiaries of Commonwealth entities or Commonwealth companies) apply in relation to reporting periods for those subsidiaries that commence on or after 1 July 2014.
 
 6 Annual reports
 
-Sections 46 and 97 of the PGPA Act (which deal with annual reports for Commonwealth entities and Commonwealth companies) apply in relation to reporting periods for those entities and companies that commence after the commencement time.
+Sections 46 and 97 of the PGPA Act (which deal with annual reports for Commonwealth entities and Commonwealth companies) apply in relation to reporting periods for those entities and companies that commence on or after 1 July 2014.
 
 7 Australian Government financial reporting
 
@@ -86,7 +86,7 @@ Section 76 of the PGPA Act (which deals with payments made between non-corporate
 
 21 Repayments by the Commonwealth
 
-Section 77 of the PGPA Act (which deals with repayments of amounts received by the Commonwealth) applies to amounts received by the Commonwealth after the commencement time.
+Section 77 of the PGPA Act (which deals with repayments of amounts received by the Commonwealth) applies to amounts received by the Commonwealth before or after the commencement time.
 
 22 Special accounts
 

@@ -6,7 +6,7 @@ An amendment made by an item of Schedules 7 to 13 to this Act that relates to a 
 
 2 Annual reports
 
-An amendment made by an item of Schedules 7 to 13 to this Act that relates to an annual report applies in relation to reporting periods that commence at or after the commencement time.
+An amendment made by an item of Schedules 7 to 13 to this Act that relates to an annual report applies in relation to reporting periods that commence on or after 1 July 2014.
 
 3 Disclosing interests
 
@@ -76,7 +76,7 @@ Despite subsections 12(2) and (3) of the Legislative Instruments Act 2003, if:
 
 (ii) the enactment of this Act or the PGPA Act;
 
-the amending instrument may be expressed to take effect from a date before the amending instrument is registered under the enabling Act.
+the amending instrument may be expressed to take effect from a date before the amending instrument is registered under the Legislative Instruments Act 2003.
 
 6 Transitional rules
 
@@ -92,14 +92,6 @@ the amending instrument may be expressed to take effect from a date before the a
 
 (b) the enactment of this Act or the PGPA Act.
 
-(3) Rules made for the purposes of this item may provide that, in or in relation to the first reporting period that commences at or after the commencement time, this Act, the PGPA Act or any other Act has effect with any modifications prescribed by the rules.
+(3) Rules made for the purposes of this item may provide that, in or in relation to the first reporting period that commences on or after 1 July 2014, this Act, the PGPA Act or any other Act has effect with any modifications prescribed by the rules.
 
 (4) This Act does not limit the rules that may be made under this item.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 24 June 2014
-
-Senate on 26 June 2014]
-
-(128/14)

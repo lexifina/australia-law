@@ -96,10 +96,6 @@ Despite the repeal of sections 26 and 27 of the FMA Act, those sections continue
 
 (ii) a special account (within the meaning of the PGPA Act) established by the Nation-building Funds Act 2008.
 
-38 Repayments by the Commonwealth
-
-Despite the repeal of section 28 of the FMA Act (which deals with repayments by the Commonwealth), that section continues to apply after the commencement time in relation to amounts received by the Commonwealth before that time.
-
 39 Repayments to the Commonwealth
 
 Despite the repeal of section 30 and subsection 32A(2) of the FMA Act (which deal with repayments to the Commonwealth), those provisions continue to apply after the commencement time in relation to amounts paid by the Commonwealth before that time.
@@ -262,7 +258,17 @@ Part 2—Transitional and application provisions
 
 2 Continuing application of certain provisions
 
-(1) Despite the repeal of the following provisions of the CAC Act, those provisions continue to apply after the commencement time in relation to the last financial year that ends before the commencement time:
+(1) Despite the repeal of the provisions of the CAC Act referred to in subitem (1A), those provisions continue to apply after the commencement time in relation to reporting periods that:
+
+(a) commenced before 1 July 2014; and
+
+(b) either:
+
+(i) ended on 30 June 2014; or
+
+(ii) had not ended on 30 June 2014.
+
+(1A) For subitem (1), the provisions of the CAC Act are as follows:
 
 (a) section 9 (which deals with directors preparing annual reports);
 
@@ -278,7 +284,7 @@ Part 2—Transitional and application provisions
 
 (g) section 39 (which deals with estimates);
 
-(h) Schedule 1 (which deals with the annual report for Commonwealth authorities).
+(h) Schedule 1 (which deals with annual report for Commonwealth authorities).
 
 (2) Despite the repeal of section 11 of the CAC Act (which deals with the contravention of annual report rules by directors), that section continues to apply after the commencement time in relation to a contravention of a reporting rule that occurs after that time.
 
@@ -341,18 +347,6 @@ Despite the repeal of section 27N of the CAC Act (which deals with insurance for
 15 Cessation of sections 28 and 43 notifications
 
 Notifications that, immediately before the commencement time, are in force as a result of subitem 71(2) or 72(2) of Schedule 1 to the Commonwealth Authorities and Companies Amendment Act 2008 (which deal with section 28 and 43 notifications) cease to be in force at the commencement time.
-
-16 Continuation of provisions of the CAC Act for the purposes of the Future Fund Act 2006
-
-Despite the repeal of the CAC Act by this Schedule, the following provisions continue to apply, in relation to members of the Future Fund Board of Guardians and members of staff of the Future Fund Management Agency, after the commencement time in accordance with section 66 of the Future Fund Act 2006:
-
-(a) section 6 of the CAC Act;
-
-(b) section 27C of the CAC Act;
-
-(c) Schedule 2 to the CAC Act.
-
-Note: Section 66 of the Future Fund Act 2006 applies those provisions of the CAC Act to members of the Future Fund Board of Guardians and members of staff of the Future Fund Management Agency. This item continues the operation of those provisions of the CAC Act.
 
 17 Continuation of instruments
 
