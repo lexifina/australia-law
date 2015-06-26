@@ -1,0 +1,13 @@
+# 131-5 Private Health Insurance (Health Benefits Fund Policy) Rules
+
+(1) *Health benefits funds (and some related matters) are also dealt with in the Private Health Insurance (Health Benefits Fund Policy) Rules. The provisions of this Part indicate when a particular matter is or may be dealt with in these Rules.
+
+Note: The Private Health Insurance (Health Benefits Fund Policy) Rules are made by the Minister under section 333-20.
+
+(2) Before making Private Health Insurance (Health Benefits Fund Policy) Rules for the purposes of section 131-15, the Minister must consult *APRA. However, a failure to consult APRA does not affect the validity of those Rules.
+
+Note: This consultation requirement also applies to any repeal or amendment of such Rules: see subsection 33(3) of the Acts Interpretation Act 1901.
+
+64 After section 131-15
+
+Insert:

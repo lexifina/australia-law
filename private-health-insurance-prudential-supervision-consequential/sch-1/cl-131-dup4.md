@@ -1,0 +1,11 @@
+# 131-25 Operation of health-related businesses through health benefits funds
+
+If a private health insurer has a *health benefits fund in respect of its *health insurance business and some or all of its *health-related businesses, the insurer must comply with any requirements specified in the Private Health Insurance (Health Benefits Fund Policy) Rules relating to how the health-related businesses are to be conducted.
+
+65 Divisions 134 to 152
+
+Repeal the Divisions.
+
+66 Part 4-5 (heading)
+
+Repeal the heading, substitute:
