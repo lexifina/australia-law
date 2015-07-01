@@ -1,0 +1,1 @@
+An Act to make provision with respect to offences connected with the counterfeiting of money or of certain kinds of securities and other activities injurious to Australian currency, and for related purposes
