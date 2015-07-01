@@ -292,10 +292,6 @@ In this Part:
 
 commencement day means the day on which sections 2A to 54 of the Australian Citizenship Act 2007 commence.
 
-15 Transitional—Administrative Appeals Tribunal Act 1975
-
-If, on or after the commencement day, there are proceedings of the Administrative Appeals Tribunal to which paragraph 21AA(5)(c) of the Administrative Appeals Tribunal Act 1975 applies and which relate to the old Act, the amendment made by item 1 of Schedule 1 is, for the purposes of those proceedings, taken not to have been made.
-
 16 Application—Age Discrimination Act 2004
 
 The amendment made by item 2 of Schedule 1 applies in relation to things done by a person on or after the commencement day.
