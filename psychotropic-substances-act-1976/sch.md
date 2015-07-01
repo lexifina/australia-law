@@ -606,78 +606,78 @@ LIST OF SUBSTANCES IN SCHEDULE I
 
 INN | Other non-proprietary or trivial names | Chemical name
 
-1................... | DET.............. | N, N-diethyltryptamine
+1. | DET | N, N-diethyltryptamine
 
-2................... | DMHP............. | 3-(1,2-dimethylheptyl)-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H- dibenzo[b,d]pyran
+2. | DMHP | 3-(1,2-dimethylheptyl)-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H- dibenzo[b,d]pyran
 
-3. .................. | DMT.............. | N,N-dimethyltryptamine
+3. | DMT | N,N-dimethyltryptamine
 
-4. (+)-LYSERGIDE | LSD, LSD-25.. | (+)-N,N-diethyllysergamide (d-lysergic acid diethylamide)
+4. (+)-LYSERGIDE | LSD, LSD-25 | (+)-N,N-diethyllysergamide (d-lysergic acid diethylamide)
 
-5. .................. | mescaline........... | 3,4,5-trimethoxyphenethyl-amine
+5. | mescaline | 3,4,5-trimethoxyphenethyl-amine
 
-6. .................. | parahexyl........... | 3-hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran
+6. | parahexyl | 3-hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran
 
-7. .................. | psilocine, psilotsin..... | 3-(2-dimethylaminoethyl)-4-hydroxyindole
+7. | psilocine, psilotsin | 3-(2-dimethylaminoethyl)-4-hydroxyindole
 
-8. PSILOCYBINE ...... | .................. | 3-(2-dimethylaminoethyl) indol-4-yl dihydrogen phosphate
+8. PSILOCYBINE | 3-(2-dimethylaminoethyl) indol-4-yl dihydrogen phosphate
 
-9. .................. | STP, DOM.......... | 2-amino-1-(2,5-dimethoxy-4-methyl) phenylpropane
+9. | STP, DOM | 2-amino-1-(2,5-dimethoxy-4-methyl) phenylpropane
 
-10. ................. | tetrahydrocanna-binols, all isomers | 1-hydroxy-3-pentyl-6a,7,10,10a-tetrahydro-6,6,9-trimethyl-6-H-dibenzo[b,d]pyran
+10. | tetrahydrocanna-binols, all isomers | 1-hydroxy-3-pentyl-6a,7,10,10a-tetrahydro-6,6,9-trimethyl-6-H-dibenzo[b,d]pyran
 
 LIST OF SUBSTANCES IN SCHEDULE II
 
 INN | Other non-proprietary or trivial names | Chemical name
 
-1. AMPHETAMINE...... | .................. | ()-2-amino-1-phenylpropane
+1. AMPHETAMINE | ()-2-amino-1-phenylpropane
 
-2. DEXAMPHETAMINE... | .................. | (+)-2-amino-1-phenylpropane
+2. DEXAMPHETAMINE | (+)-2-amino-1-phenylpropane
 
-3. METHAMPHETAMINE. | .................. | (+)-2-methylamino-1-phenylpropane
+3. METHAMPHETAMINE | (+)-2-methylamino-1-phenylpropane
 
-4. METHYLPHENIDATE.. | .................. | 2-phenyl-2-(2-piperidyl) acetic acid, methyl ester
+4. METHYLPHENIDATE | 2-phenyl-2-(2-piperidyl) acetic acid, methyl ester
 
-5. PHENCYCLIDINE..... | .................. | 1-(1-phenylcyclohexyl) piperidine
+5. PHENCYCLIDINE | 1-(1-phenylcyclohexyl) piperidine
 
-6. PHENMETRAZINE.... | .................. | 3-methyl-2-phenylmorpholine
+6. PHENMETRAZINE | 3-methyl-2-phenylmorpholine
 
 LIST OF SUBSTANCES IN SCHEDULE III
 
 INN | Other non-proprietary or trivial names | Chemical name
 
-1. AMOBARBITA ....... | ................... | 5-ethyl-5-(3-methylbutyl) barbituric acid
+1. AMOBARBITA | 5-ethyl-5-(3-methylbutyl) barbituric acid
 
-2. CYCLOBARBITAL.... | ................... | 5-(1-cyclohexen-1-yl)-5-ethylbartituric acid
+2. CYCLOBARBITAL | 5-(1-cyclohexen-1-yl)-5-ethylbartituric acid
 
-3. GLUTETHIMIDE ...... | ................... | 2-ethyl-2-phenylglutarimide
+3. GLUTETHIMIDE | 2-ethyl-2-phenylglutarimide
 
-4. PENTOBARBITAL .... | ................... | 5-ethyl-5-(1-methylbutyl) barbituric acid
+4. PENTOBARBITAL | 5-ethyl-5-(1-methylbutyl) barbituric acid
 
-5. SECOBARBITAL ..... | ................... | 5-allyl-5-(1-methylbutyl) barbituric acid
+5. SECOBARBITAL | 5-allyl-5-(1-methylbutyl) barbituric acid
 
 LIST OF SUBSTANCES IN SCHEDULE IV
 
 INN | Other non-proprietary or trivial names | Chemical name
 
-1. AMFEPRAMONE......... | ................. | 2-(diethylamino) propiophenone
+1. AMFEPRAMONE | 2-(diethylamino) propiophenone
 
-2. BARBITAL ............. | ...................... | 5,5-diethylbarbituric acid
+2. BARBITAL | 5,5-diethylbarbituric acid
 
-3. ...................... | ethchlorvynol.. | ethyl-2-chlorovinylethinyl-carbinol
+3. | ethchlorvynol | ethyl-2-chlorovinylethinyl-carbinol
 
-4. ETHINAMATE .......... | ................... | 1-ethynylcyclohexanolcarbamate
+4. ETHINAMATE | 1-ethynylcyclohexanolcarbamate
 
-5. MEPROBAMATE......... | ................. | 2-methyl-2-propyl-1,3-propanediol dicarbamate
+5. MEPROBAMATE | 2-methyl-2-propyl-1,3-propanediol dicarbamate
 
-6. METHAQUALONE........ | ............... | 2-methyl-3-o-tolyl-4 (3H)-quinazolinone
+6. METHAQUALONE | 2-methyl-3-o-tolyl-4 (3H)-quinazolinone
 
-7. METHYLPHENOBAR-BITAL | ............... | 5-ethyl-1-methyl-5-phenyl-barbituric acid
+7. METHYLPHENOBAR-BITAL | 5-ethyl-1-methyl-5-phenyl-barbituric acid
 
-8. METHYPRYLON......... | ................. | 3,3-diethyl-5-methyl-2,4-piperidine-dione
+8. METHYPRYLON | 3,3-diethyl-5-methyl-2,4-piperidine-dione
 
-9. PHENOBARBITAL........ | ................ | 5-ethyl-5-phenylbarbituric acid
+9. PHENOBARBITAL | 5-ethyl-5-phenylbarbituric acid
 
-10. PIPRADROL............ | .................... | 1,1-diphenyl-1-(2-piperidyl) methanol
+10. PIPRADROL | 1,1-diphenyl-1-(2-piperidyl) methanol
 
-11. ..................... | SPA.......... | (—)-1-dimethylamino-1,2-diphenylethane
+11. | SPA | (—)-1-dimethylamino-1,2-diphenylethane
