@@ -2,7 +2,7 @@
 
 Section 5(3)
 
-1. Part IAA (other than section 3Z), and sections 9, 13, 15, 15A, 15B and 15C, and, all the provisions of Divisions 1 to 9 (inclusive) of Part IB, sections 20C, 21B and 21E and Part ID of the Crimes Act 1914.
+1. Part IAA (other than section 3Z), and sections 9, 13, 15, 15A, 15B and 15C, and, all the provisions of Divisions 1 to 9 (inclusive) of Part IB, sections 20C and 21B and Part ID of the Crimes Act 1914.
 
 2. Sections 69, 70, 71 and 71A of the Judiciary Act 1903-1969.
 
