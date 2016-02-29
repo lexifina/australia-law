@@ -1,0 +1,31 @@
+## Division 40—Disciplinary and other action
+
+## Subdivision A—Introduction
+
+# 40-1 Simplified outline of this Division
+
+Remedying failure to lodge documents or give information or documents
+
+ASIC may direct a registered liquidator to comply with a requirement to lodge a document, or give any information or document, to ASIC. If the liquidator fails to comply with the direction, ASIC can direct that the liquidator accept no further appointments or seek an order from the Court directing the liquidator to comply.
+
+Correcting and completing information given to ASIC
+
+If ASIC reasonably suspects that information that a registered liquidator is required to give ASIC is incomplete or inaccurate, ASIC can direct the liquidator to confirm, complete or correct the information. ASIC can also direct the liquidator to tell someone about the defect in the information. If the liquidator fails to comply with a direction, ASIC can direct that the liquidator accept no further appointments or seek an order from the Court directing the liquidator to comply.
+
+Other grounds for a direction not to accept further appointments
+
+There are other grounds on which ASIC can issue a direction not to accept further appointments, for example, if the registered liquidator fails to comply with a direction to convene a meeting.
+
+Suspending or cancelling registration
+
+An individual’s registration as a liquidator can be suspended or cancelled.
+
+The registration is automatically cancelled if the registered liquidator becomes an insolvent under administration or dies.
+
+In some circumstances, ASIC can suspend or cancel the registration of a person as a liquidator. ASIC can also give a registered liquidator notice to show-cause why the liquidator should continue to be registered. If ASIC is not satisfied with the answer, ASIC can refer the matter to a committee which will make a decision on what action should be taken.
+
+An industry body can give ASIC notice of possible grounds for disciplinary action.
+
+If a registration is suspended, the liquidator can apply to ASIC to have the suspension lifted or shortened.
+
+A decision about the suspension or cancellation of the registration of a liquidator is reviewable by the Administrative Appeals Tribunal (see Part 9.4A of this Act).

@@ -1,0 +1,21 @@
+# 65-5 External administrator must pay all money into an administration account
+
+External administrator must pay money into the administration account
+
+(1) The external administrator of a company must pay all money received by the external administrator on behalf of, or in relation to, the company into an administration account for the company within 5 business days after receipt.
+
+Exception
+
+(2) If the Court gives a direction that is inconsistent with subsection (1), that subsection does not apply to the extent of the inconsistency.
+
+Offence
+
+(3) A person commits an offence of strict liability if:
+
+(a) the person is subject to a requirement under subsection (1); and
+
+(b) the person fails to comply with the requirement.
+
+Penalty: 50 penalty units.
+
+Note: A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the Criminal Code).

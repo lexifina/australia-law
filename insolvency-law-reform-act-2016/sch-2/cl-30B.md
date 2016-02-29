@@ -1,0 +1,89 @@
+# 30B Notice to registered liquidators concerning information and books
+
+(1) Subject to subsection (2), ASIC may give a registered liquidator a written notice requiring the liquidator:
+
+(a) to give specified information; and
+
+(b) to produce specified books;
+
+to a specified member or staff member at a specified place and time.
+
+Note: Failure to comply with a requirement made under this subsection is an offence (see section 63).
+
+(2) The power in subsection (1) may only be exercised:
+
+(a) for the purposes of the performance or exercise of any of ASIC’s functions and powers in relation to the liquidator requirements; or
+
+(b) for the purposes of ascertaining compliance with the liquidator requirements; or
+
+(c) in relation to:
+
+(i) an alleged or suspected contravention of the liquidator requirements; or
+
+(ii) an alleged or suspected contravention of a law of the Commonwealth, or of a State or Territory in this jurisdiction, being a contravention that relates to the performance or exercise of a registered liquidator’s functions, duties or powers and that either concerns the management of the affairs of a body corporate or involves fraud or dishonesty and relates to a body corporate; or
+
+(d) for the purposes of an investigation under Division 1 relating to a contravention referred to in paragraph (c).
+
+(3) The liquidator requirements are the requirements in relation to registered liquidators, the external administration of companies or the control of the property of corporations under:
+
+(a) Chapter 5 of the Corporations Act; and
+
+(b) Schedule 2 to the Corporations Act; and
+
+(c) other provisions of the Corporations Act that relate to that Chapter or Schedule.
+
+(4) Without limiting subsection (1), a notice under that subsection may specify information or books that relate to any or all of the following:
+
+(a) the policies relating to the external administration of companies and the control of the property of corporations that the registered liquidator has adopted or proposes to adopt;
+
+(b) the procedures relating to the external administration of companies and the control of the property of corporations that the registered liquidator has put in place or proposes to put in place;
+
+(c) the external administration of a company, or companies, that the registered liquidator has conducted, is conducting or is proposing to conduct;
+
+(d) the control of the property of a corporation, or corporations, that the registered liquidator has conducted, is conducting or is proposing to conduct;
+
+(e) any other matter relating to the external administration of companies or the control of the property of corporations that is prescribed for the purposes of this paragraph.
+
+(5) Without limiting subsection (1), a notice under that subsection may require the registered liquidator to give information or produce books even if doing so would involve a breach of an obligation of confidentiality that the registered liquidator owes to:
+
+(a) a company that is, has been or is likely to be under external administration; or
+
+(b) a corporation the property of which is, has been or is likely to be under control.
+
+(6) ASIC may, by written notice to a registered liquidator who has received a notice under subsection (1), extend the period within which the registered liquidator must give the information or produce the books to which the notice under that subsection relates.
+
+(7) In this section:
+
+control of the property of a corporation means:
+
+(a) the receivership of that property; and
+
+(b) the possession, or control, of that property for the purpose of enforcing a security interest;
+
+and includes any functions or powers in connection with managing the corporation that may be performed or exercised by a receiver or other controller of that property.
+
+external administration of a company has the same meaning as in Schedule 2 to the Corporations Act.
+
+registered liquidator means a person who is registered as a liquidator under Schedule 2 to the Corporations Act.
+
+13 At the end of section 33
+
+Add:
+
+(3) ASIC may give to a person a written notice requiring the production to a specified member or staff member, at a specified place and time, of specified books that:
+
+(a) are in the person’s possession or control; and
+
+(b) relate to the question whether a registered liquidator has complied with liquidator requirements, within the meaning of subsection 30B(3).
+
+14 Subsection 34(3)
+
+After “30A,”, insert “30B,”.
+
+15 Paragraph 37(5)(b)
+
+Omit “or 30A(2)(a), (b) and (d)”, substitute “, 30A(2)(a), (b) and (d) or 30B(2)(a), (b) and (d)”.
+
+16 At the end of Division 3 of Part 3
+
+Add:
