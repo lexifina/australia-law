@@ -8,7 +8,7 @@ Part 1—Enactment
 
 Note: This item creates a second version of the Aged Care Act 1997. This second version will be amended by Part 2 of this Schedule, and will continue in force provisions relating to subsidies, fees and payments for care recipients who were receiving care on 30 June 2014.
 
-(2) For the purposes of paragraph 40(1)(a) of the Acts Interpretation Act 1901, the secular year in which the Aged Care (Transitional Provisions) Act 1997 was passed is taken to be 1997 and its number is taken to be 223.
+(2) For the purposes of subparagraph 40(1A)(a)(ii) of the Acts Interpretation Act 1901, the secular year in which the Aged Care (Transitional Provisions) Act 1997 was passed is taken to be 1997 and its number is taken to be 223.
 
 Note: This means that the Aged Care (Transitional Provisions) Act 1997 may be cited as Act No. 223 of 1997.
 
