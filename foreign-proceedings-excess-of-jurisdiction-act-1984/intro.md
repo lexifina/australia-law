@@ -1,0 +1,1 @@
+An Act to make provision in relation to the evidence that may be given in certain foreign proceedings, to provide a right of action in Australia in respect of the enforcement outside Australia of certain foreign judgments, and for related purposes
