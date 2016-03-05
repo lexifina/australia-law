@@ -64,9 +64,9 @@ by an item of Schedules 7 to 13 to this Act; and
 
 5 Amendments to legislative instruments
 
-Despite subsections 12(2) and (3) of the Legislative Instruments Act 2003, if:
+Subsection 12(2) (retrospective application of legislative instruments) of the Legislation Act 2003 does not apply to a legislative instrument (the amending instrument) if:
 
-(a) a legislative instrument (the amending instrument) is made under an Act (the enabling Act); and
+(a) the amending instrument is made under an Act (the enabling Act); and
 
 (b) the amending instrument amends another legislative instrument made under the enabling Act; and
 
@@ -74,9 +74,7 @@ Despite subsections 12(2) and (3) of the Legislative Instruments Act 2003, if:
 
 (i) the amendments or repeals made by this Act; or
 
-(ii) the enactment of this Act or the PGPA Act;
-
-the amending instrument may be expressed to take effect from a date before the amending instrument is registered under the Legislative Instruments Act 2003.
+(ii) the enactment of this Act or the PGPA Act.
 
 6 Transitional rules
 
