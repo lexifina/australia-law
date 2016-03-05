@@ -1124,4 +1124,6 @@ A reference in the Clean Energy Act 2011 (other than section 307) to the associa
 
 (b) necessary or convenient to be prescribed for carrying out or giving effect to this Part.
 
-(2) Conditions specified in rules made for the purposes of paragraph 352(b) or 354(b) may relate to events or things that occurred, or circumstances that existed, before the rules were registered under the Legislative Instruments Act 2003.
+(2) Conditions specified in rules made for the purposes of paragraph 352(b) or 354(b) may relate to events or things that occurred, or circumstances that existed, before the rules were registered under the Legislation Act 2003.
+
+(3) Subsection 12(2) (retrospective application of legislative instruments) of the Legislation Act 2003 does not apply to the rules.

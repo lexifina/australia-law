@@ -45,11 +45,3 @@ To avoid doubt:
 (b) for the purposes of that Act as amended by this Part, subsection 64(2) of that Act does not apply so as to carry over to the 2013-2014 financial year any unspent amount from the 2012-2013 financial year.
 
 Note: The unspent amount from the 2012-2013 financial year has instead been directly factored into amounts specified in the table substituted by item 1.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 14 July 2014
-
-Senate on 15 July 2014]
-
-(167/14)
