@@ -772,8 +772,6 @@ Subsection 601AD(5) of the Corporations Act 2001 has effect at and after the tra
 
 (2) A determination made under subitem (1) has effect accordingly.
 
-(3) A determination made under subitem (1) is a legislative instrument, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the Legislative Instruments Act 2003 applies to the determination.
-
 (4) In this item:
 
 Appropriation Act means an Act appropriating money for expenditure out of the Consolidated Revenue Fund.
