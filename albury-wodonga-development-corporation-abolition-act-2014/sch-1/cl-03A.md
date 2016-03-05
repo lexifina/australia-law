@@ -50,7 +50,7 @@ instrument includes:
 
 (b) a notice, authority, order or instruction; and
 
-(c) an instrument made under an Act or legislative instrument (within the meaning of the Legislative Instruments Act 2003).
+(c) an instrument made under an Act or legislative instrument.
 
 land means any legal or equitable estate or interest in real property, whether actual, contingent or prospective.
 
@@ -269,11 +269,3 @@ unless the contrary is established.
 25 Transitional rules
 
 The Minister may, by legislative instrument, make rules prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 1 October 2014
-
-Senate on 28 October 2014]
-
-(213/14)
