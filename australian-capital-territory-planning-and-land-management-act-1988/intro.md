@@ -1,0 +1,1 @@
+An Act to provide for the planning of the Australian Capital Territory and the management of land in that Territory, to repeal the National Capital Development Commission Act 1957, and for related purposes
