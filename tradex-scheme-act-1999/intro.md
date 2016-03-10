@@ -1,0 +1,1 @@
+An Act to establish a scheme, to be known as the Tradex Scheme, for the importation, without payment of duties of customs or other taxes, of goods that are to be subsequently exported, and for related purposes
