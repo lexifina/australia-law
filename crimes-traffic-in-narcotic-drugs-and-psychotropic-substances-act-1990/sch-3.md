@@ -22,7 +22,7 @@ Cathinone............................ | 2.00 | 2.00
 
 DOB (2, 5-Dimethoxy-4-bromoamphetamine) | 0.50 | 0.50
 
-DET (N, N-Diethyltryptamine)........ | 2.00 | 2.00
+DET (N, N-Diethyltryptamine) | 2.00 | 2.00
 
 Dexamphetamine....................... | 2.00 | 2.00
 
@@ -30,9 +30,9 @@ DMA (2, 5-Dimethoxy-α-methylphenylethylamine) | 0.50 | 0.50
 
 DMHP (3-(1, 2-Dimethylheptyl)-1-hydroxy-7, 8, 9, 10-tetrahydro-6, 6, 9-trimethyl-6H-dibenzo[b, d]pyran) | 2.00 | 2.00
 
-DMT (N, N-Dimethyltryptamine)...... | 2.00 | 2.00
+DMT (N, N-Dimethyltryptamine) | 2.00 | 2.00
 
-DOET (2, 5-Dimethoxy-4-ethyl-α- methylphenylethylamine)............... | 0.50 | 0.50
+DOET (2, 5-Dimethoxy-4-ethyl-α- methylphenylethylamine) | 0.50 | 0.50
 
 Fenetylline............................ | 2.00 | 2.00
 
@@ -44,9 +44,9 @@ Levomethamphetamine................... | 2.00 | 2.00
 
 Levomethorphan........................ | 2.00 | 2.00
 
-Lysergide (LSD, LSD-25)........... | 0.002 | 0.002
+Lysergide (LSD, LSD-25) | 0.002 | 0.002
 
-MDA (3, 4-Methylenedioxyamphetamine). | 0.50 | 0.50
+MDA (3, 4-Methylenedioxyamphetamine) | 0.50 | 0.50
 
 MDMA (3, 4-Methylenedioxy-N, α-dimethylphenylethylamine) | 0.50 | 0.50
 
@@ -64,21 +64,21 @@ MMDA (5-Methoxy-3, 4-methylenedioxy-α-methylphenylethylamine) | 0.50 | 0.50
 
 Parahexyl (3-Hexyl-1-hydroxy-7, 8, 9, 10-tetrahydro-6, 6, 9- trimethyl-6H-dibenzo[b,d]pyran) | 2.00 | 2.00
 
-PCE (Eticyclidine)....................... | 2.00 | 2.00
+PCE (Eticyclidine) | 2.00 | 2.00
 
 Pentazocine........................... | 20.00 | 20.00
 
 Pentobarbital.......................... | 20.00 | 20.00
 
-Phencyclidine (PCP)..................... | 2.00 | 2.00
+Phencyclidine (PCP) | 2.00 | 2.00
 
 Phenmetrazine......................... | 5.00 | 5.00
 
-PHP PCPY (Rolicyclidine)................. | 2.00 | 2.00
+PHP PCPY (Rolicyclidine) | 2.00 | 2.00
 
 PMA (4-Methoxy-α-methylphenylethylamine) | 0.50 | 0.50
 
-Psilocine (Psilottin)...................... | 2.00 | 2.00
+Psilocine (Psilottin) | 2.00 | 2.00
 
 Psilocybine........................... | 2.00 | 2.00
 
