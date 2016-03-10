@@ -1,0 +1,1 @@
+An Act relating to the Preservation of Public Order in Certain Territories and in respect of Commonwealth Premises, the Premises of certain Federal Courts and Tribunals and the Premises and Personnel of Diplomatic and Special Missions, Consular Posts, Designated Overseas Missions and International Organizations
