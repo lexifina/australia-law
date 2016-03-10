@@ -1,0 +1,1 @@
+An Act to provide for assistance by the Commonwealth in respect of places where children all or the majority of whom are under school age may be cared for, in respect of the development of such places and in respect of research in connection with the care of children, and for related purposes
