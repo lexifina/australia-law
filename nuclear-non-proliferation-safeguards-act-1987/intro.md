@@ -1,0 +1,1 @@
+An Act to make provision in relation to the non-proliferation of nuclear weapons and to establish, in accordance with certain international treaties and agreements to which Australia is a party, a system for the imposition and maintenance of nuclear safeguards in Australia, and for related matters
