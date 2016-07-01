@@ -24,8 +24,6 @@ Deputy Chief Justice of the Family Court of Australia .............. | 127,542
 
 Judge (other than Chief Justice) of the Federal Court of Australia ...... | 124,277
 
-Judge Administrator of the Family Court of Australia .............. | 124,277
-
 Judge assigned to the Appeal Division of the Family Court of Australia (other than the Chief Justice or the Deputy Chief Justice) | 124,277
 
 Senior Judge of the Family Court of Australia ................... | 124,277
