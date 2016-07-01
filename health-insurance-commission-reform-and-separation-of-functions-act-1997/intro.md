@@ -1,0 +1,1 @@
+An Act to amend the Health Insurance Commission Act 1973, to enact transitional provisions relating to the transfer of Medibank Private from the Health Insurance Commission to a separate organisation, and for other purposes
