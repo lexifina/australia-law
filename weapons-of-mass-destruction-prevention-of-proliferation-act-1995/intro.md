@@ -1,0 +1,1 @@
+An Act to prohibit the supply or export of goods that will or may be used in, and the provision of services that will or may assist, the development, production, acquisition or stockpiling of weapons capable of causing mass destruction or missiles capable of delivering such weapons
