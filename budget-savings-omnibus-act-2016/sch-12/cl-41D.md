@@ -1,0 +1,17 @@
+# 41D Exemption from interest charge—general
+
+(1) A person is not liable to pay interest charge under section 41 or 41A if on the day before the start of the period in respect of which the person would otherwise have been liable to pay that charge:
+
+(a) the person is receiving instalments under the ABSTUDY scheme (also known as the Aboriginal Study Assistance Scheme) that includes an amount identified as living allowance; or
+
+(b) the person is receiving instalments under the Assistance for Isolated Children Scheme; or
+
+(c) the person is receiving instalments of family tax benefit (within the meaning of the A New Tax System (Family Assistance) Act 1999); or
+
+(d) the person is receiving a social security payment (within the meaning of the Social Security Act 1991); or
+
+(e) the person is receiving a payment of pension or allowance under the Veterans’ Entitlements Act 1986; or
+
+(f) the circumstances determined in an instrument under subsection (2) apply in relation to the person.
+
+(2) The Minister may, by legislative instrument, determine circumstances for the purposes of paragraph (1)(f).
