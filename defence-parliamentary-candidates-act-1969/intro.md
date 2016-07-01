@@ -1,0 +1,1 @@
+An Act to make provision in relation to Members of the Defence Force who desire to become Candidates for election as Members of the Parliament of Australia or of a State or of certain other legislative or advisory Bodies
