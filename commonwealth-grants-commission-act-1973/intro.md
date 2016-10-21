@@ -1,0 +1,1 @@
+An Act to establish a Commonwealth Grants Commission to make Recommendations concerning the Granting of Financial Assistance to the States and autonomous Territories, the financing of works and services in respect of the other Territories and the financing of works and services in respect of indigenous persons
