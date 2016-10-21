@@ -1,0 +1,3 @@
+# 2 Commencement
+
+This Act shall come into operation on a date to be fixed by Proclamation.
