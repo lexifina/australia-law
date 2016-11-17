@@ -94,7 +94,7 @@ Article 7. Definition and form of arbitration agreement
 
 (3) An arbitration agreement is in writing if its content is recorded in any form, whether or not the arbitration agreement or contract has been concluded orally, by conduct, or by other means.
 
-(4) The requirement that an arbitration agreement be in writing is met by an electronic communication if the information contained therein is accessible so as to be useable for subsequent reference; “electronic communication” means any communication that the parties make by means of data messages; “data message” means information generated, sent, received or stored by electronic, magnetic, optical or similar means, including, but not limited to, electronic data interchange (EDI), electronic mail, telegram, telexor telecopy.
+(4) The requirement that an arbitration agreement be in writing is met by an electronic communication if the information contained therein is accessible so as to be useable for subsequent reference; “electronic communication” means any communication that the parties make by means of data messages; “data message” means information generated, sent, received or stored by electronic, magnetic, optical or similar means, including, but not limited to, electronic data interchange (EDI), electronic mail, telegram, telex or telecopy.
 
 (5) Furthermore, an arbitration agreement is in writing if it is contained in an exchange of statements of claim and defence in which the existence of an agreement is alleged by one party and not denied by the other.
 
