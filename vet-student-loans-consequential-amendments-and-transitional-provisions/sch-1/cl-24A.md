@@ -1,0 +1,15 @@
+# 24A Condition—complying with student assistance laws
+
+(1) An NVR registered training organisation that is a VET provider within the meaning of the Higher Education Support Act 2003 must comply with that Act.
+
+(2) An NVR registered training organisation that is an approved course provider within the meaning of the VET Student Loans Act 2016 must comply with:
+
+(a) the VET Student Loans Act 2016; and
+
+(b) any Act or instrument to the extent that it is included in the definition of this Act in the VET Student Loans Act 2016.
+
+Student Identifiers Act 2014
+
+23 After section 18
+
+Insert:
