@@ -32,19 +32,11 @@ Repeal the definition.
 
 (1) The amendments made by this Schedule apply in relation to concessional contributions for financial years starting on or after 1 July 2017.
 
-(2) However, section 12G of the Superannuation (Government Co-contribution for Low Income Earners) Act 2003 ceases to apply, in relation to any quarter or financial year, at the commencement of this Schedule.
+(2) However, section 12G of the Superannuation (Government Co-contribution for Low Income Earners) Act 2003 ceases to apply, in relation to low income superannuation contributions for any quarter or financial year, at the commencement of this Schedule.
 
 Note: Section 12G requires the Commissioner to give reports to the Minister for presenting to the Parliament. This subitem ensures that reporting under that section is required up to, but not after, the commencement of this Schedule.
 
 (3) For the purposes of this item, concessional contributions has the same meaning as in the Income Tax Assessment Act 1997.
-
-8 Transitional—notifying certain decisions
-
-(1) If, on or after the commencement of this Schedule, the Commissioner makes a decision under paragraph 12F(1)(b) of the Superannuation (Government Co-contribution for Low Income Earners) Act 2003 in respect of a person, the Commissioner is not required to notify the person of the decision.
-
-Note: A decision under paragraph 12F(1)(b) is a decision by the Commissioner that the Commissioner would not have determined that a low income superannuation contribution was payable in respect of a person if the Commissioner had had information that was obtained after that determination.
-
-(2) Subitem (1) has effect despite subsection 12F(2) of that Act.
 
 9 Transitional—Deadlines for the final financial year for a LISC
 

@@ -71,11 +71,3 @@ Part 2—Saving provisions
 Administration Act means the A New Tax System (Family Assistance) (Administration) Act 1999.
 
 Assistance Act means the A New Tax System (Family Assistance) Act 1999.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 1 September 2014
-
-Senate on 1 September 2014]
-
-(186/14)
