@@ -242,7 +242,7 @@ unless the contrary is established.
 
 (d) the enactment of this Act.
 
-(3) Despite subsection 12(2) of the Legislative Instruments Act 2003, rules made for the purposes of paragraph (2)(a) or (b) of this item may be expressed to take effect from a date before the rules are registered under that Act.
+(3) Subsection 12(2) (retrospective application of legislative instruments) of the Legislation Act 2003 does not apply to rules made for the purposes of paragraph (2)(a) or (b) of this item.
 
 (4) The rules may provide that provisions of this Schedule are taken to be modified as set out in the rules. Those provisions then have effect as if they were so modified.
 
@@ -263,11 +263,3 @@ unless the contrary is established.
 (e) amend this Act.
 
 (6) This Act does not limit the rules that may be made under this item.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 26 February 2015
-
-Senate on 4 March 2015]
-
-(21/15)
