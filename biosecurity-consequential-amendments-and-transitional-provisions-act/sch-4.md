@@ -1557,11 +1557,3 @@ Part 10—Regulations
 (ii) the enactment of this Act or the Biosecurity Act 2015.
 
 (2) Without limiting subitem (1), regulations made for the purpose of that subitem may provide that provisions of the Biosecurity Act 2015, or this Schedule, are taken to be modified as prescribed by the regulations. Those provisions then have effect as if they were so modified.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 27 November 2014
-
-Senate on 10 February 2015]
-
-(247/14)

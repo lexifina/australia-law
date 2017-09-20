@@ -34,7 +34,7 @@ Extending life of determination made relying on subitem (1)
 
 the relevant Director may, by legislative instrument, extend the transition period in relation to the landing place or port.
 
-(5) Section 42 (disallowance) of the Legislative Instruments Act 2003 does not apply to an instrument made under subitem (4).
+(5) Section 42 (disallowance) of the Legislation Act 2003 does not apply to an instrument made under subitem (4).
 
 Definitions
 
