@@ -110,22 +110,6 @@ Section 119 (notice of decision) of the new Act does not apply in relation to an
 
 This Schedule does not prevent an approval that is taken to be in force under this Schedule from being varied or revoked.
 
-9 Implementation plans and school improvement plans
-
-Implementation plans
-
-(1) An approved authority for more than one participating school must comply with Part 7 of the new Act on and from 1 January 2014.
-
-School improvement framework and plans
-
-(2) An approved authority for a school must have:
-
-(a) a school improvement framework in accordance with subparagraph 77(2)(d)(i) of the new Act; and
-
-(b) a school improvement plan for the school in accordance with subparagraph 77(2)(d)(ii) of the new Act;
-
-on and from 1 January 2016 or such later date as the Minister specifies by legislative instrument made before 1 January 2016.
-
 10 Majority Aboriginal and Torres Strait Islander schools
 
 For the purposes of the definition of majority Aboriginal and Torres Strait Islander school in section 8 of the new Act, a school’s census day for 2013 is the schools census day for the school for that year under the old Act.
