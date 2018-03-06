@@ -1,1 +1,1 @@
-An Act to impose an annual charge on the registration, listing and inclusion in the Register of therapeutic goods, and on the licensing of manufacturers of therapeutic goods
+An Act to impose an annual charge on the registration, listing and inclusion in the Register of therapeutic goods, on the licensing of manufacturers of therapeutic goods and on the making of conformity assessment body determinations
