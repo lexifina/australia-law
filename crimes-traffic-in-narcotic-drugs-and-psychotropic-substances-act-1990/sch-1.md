@@ -442,7 +442,7 @@ CONTROLLED DELIVERY
 
 2. Decisions to use controlled delivery shall be made on a case-by-case basis and may, when necessary, take into consideration financial arrangements and understandings with respect to the exercise of jurisdiction by the Parties concerned.
 
-3. Illicit consignments whose controlled delivery is agreed to may, with the consent of the Parties concerned, be intercepted and allowed to continue with the narcotic drugs or pyschotropic substances intact or removed or replaced in whole or in part.
+3. Illicit consignments whose controlled delivery is agreed to may, with the consent of the Parties concerned, be intercepted and allowed to continue with the narcotic drugs or psychotropic substances intact or removed or replaced in whole or in part.
 
 Article 12
 
