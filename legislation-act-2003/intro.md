@@ -1,0 +1,1 @@
+An Act providing for public access to Acts and instruments, for the making, parliamentary scrutiny and sunsetting of legislative instruments and for the repeal of spent instruments and provisions, and for other purposes
