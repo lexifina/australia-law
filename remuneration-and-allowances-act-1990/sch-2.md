@@ -238,7 +238,7 @@ Executive Director, Australian Nuclear Science and Technology Organisation | 111
 
 Director-General, Australian Security Intelligence Organisation | 111,004
 
-Director-General, Office of National Assessments | 111,004
+Director-General of National Intelligence | 111,004
 
 Human Rights Commissioner | 111,004
 
