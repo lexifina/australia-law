@@ -1,0 +1,1 @@
+An Act to provide for transfers of business between some kinds of financial institutions, to provide for transfers of shares and other interests in some kinds of financial institutions, and to make provision in relation to internal restructures within some groups of financial institutions
