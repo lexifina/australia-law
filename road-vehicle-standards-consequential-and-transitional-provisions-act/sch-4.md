@@ -111,11 +111,3 @@ Trans-Tasman Mutual Recognition Act 1997
 Omit:
 
 Motor Vehicle Standards Act 1989
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 7 February 2018
-
-Senate on 18 June 2018]
-
-(10/18)
