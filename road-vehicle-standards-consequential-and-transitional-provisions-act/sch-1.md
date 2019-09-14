@@ -1,8 +1,8 @@
 ## Schedule 1—Transitional national road vehicle standards
 
-1 Transitional national road vehicle standards for first 12 months
+1 Transitional national road vehicle standards
 
-(1) This item applies for the purposes of the operation of the following during the period of 12 months beginning on the day the Road Vehicle Standards Act 2018 receives the Royal Assent:
+(1) This item applies for the purposes of the operation of the following during the period beginning on 10 December 2018 and ending on the day before section 15 of the Road Vehicle Standards Act 2018 commences:
 
 (a) provisions of that Act that commence on the day after that Act receives the Royal Assent;
 
