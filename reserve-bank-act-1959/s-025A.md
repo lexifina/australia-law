@@ -1,0 +1,15 @@
+## Part IIIA—The Payments System Board
+
+## Division 1—The members of the Payments System Board
+
+# 25A Membership of Payments System Board
+
+The Payments System Board consists of the following members:
+
+(a) the Governor;
+
+(b) one representative of the Bank;
+
+(c) one representative of APRA;
+
+(d) up to 5 other members.
