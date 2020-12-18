@@ -1,0 +1,35 @@
+# 15AAH Transitional provisions after abolition of Supreme Court
+
+(1) In this section:
+
+proclaimed day means the day to be fixed by Proclamation under section 15AAG.
+
+State Court means the Court to which proceedings are transferred under subsection (2).
+
+Territory Court means the Supreme Court of the Territory.
+
+(2) As soon as practicable after no person holds office as a Judge of the Territory Court, the Registrar of the Court must transfer all proceedings in the Court (including completed proceedings) to:
+
+(a) if the proceedings relate only to a matter of a kind that is within the jurisdiction of the Family Court of Western Australia—the Family Court of Western Australia; or
+
+(b) if the proceedings relate only to a matter of a kind that is within the jurisdiction of the District Court of Western Australia—the District Court of Western Australia; or
+
+(c) if the proceedings relate only to a matter of a kind that is within the jurisdiction of the Children’s Court of Western Australia—the Children’s Court of Western Australia; or
+
+(d) in any other case—the Supreme Court of Western Australia.
+
+(3) If proceedings are transferred under subsection (2):
+
+(a) all documents filed of record in the Territory Court in the proceedings are to be transmitted to the State Court; and
+
+(b) any money lodged with the Territory Court in relation to the proceedings is to be transferred to the State Court and is taken to be money lodged with the State Court in relation to the proceedings; and
+
+(c) everything done in or in relation to the proceedings in the Territory Court is taken to have been done in the State Court.
+
+(4) If proceedings transferred under subsection (2) were not completed before the proclaimed day, the State Court may:
+
+(a) hear, or further hear, the proceedings; and
+
+(b) determine the proceedings; and
+
+(c) have regard to any evidence or argument in the proceedings in the Territory Court.
