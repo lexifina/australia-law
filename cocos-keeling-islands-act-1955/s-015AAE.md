@@ -8,16 +8,16 @@ In relation to the exercise of jurisdiction by a court of Western Australia or a
 
 (c) a reference in this Act to the Registrar of an indictment court included a reference to:
 
-(i) a person who has the powers and functions of the Registrar of the Supreme Court of Western Australia in the application of the Supreme Court Act 1935 of Western Australia in the Territory; or
+(i) a person who has the powers of the Registrar of the Supreme Court of Western Australia in the application of the Supreme Court Act 1935 of Western Australia in the Territory; or
 
-(ii) a person who has the powers and functions of a judge of the District Court of Western Australia in the application of the District Court of Western Australia Act 1969 of Western Australia in the Territory; and
+(ii) a person who has the powers of a judge of the District Court of Western Australia in the application of the District Court of Western Australia Act 1969 of Western Australia in the Territory; and
 
 (d) a reference in this Act to the Sheriff of an indictment court included a reference to:
 
-(i) a person who has the powers and functions of the sheriff of the Supreme Court of Western Australia in the application of the Supreme Court Act 1935 of Western Australia in the Territory; or
+(i) a person who has the powers of the sheriff of the Supreme Court of Western Australia in the application of the Supreme Court Act 1935 of Western Australia in the Territory; or
 
-(ii) a person who has the powers and functions of the sheriff of the District Court of Western Australia in the application of the District Court of Western Australia Act 1969 of Western Australia in the Territory; and
+(ii) a person who has the powers of the sheriff of the District Court of Western Australia in the application of the District Court of Western Australia Act 1969 of Western Australia in the Territory; and
 
 (e) a reference in section 16 to a Territory court included a reference to a Western Australian court exercising jurisdiction in or in relation to the Territory under a law of the Territory; and
 
-(f) a reference in paragraph 16(c) to a person who holds an office in relation to a Territory court included a reference to a person who has the powers or duties mentioned in that paragraph in relation to the Territory under a law of the Territory.
+(f) a reference in paragraph 16(c) to a person who holds an office in relation to a Territory court included a reference to a person who has the powers mentioned in that paragraph in relation to the Territory under a law of the Territory.
