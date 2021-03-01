@@ -1,0 +1,13 @@
+# 18ZJ Subdelegation of powers under this Division
+
+(1) If, under subsection 18ZH(2) or 18ZI(4), the Chief Executive Officer delegates any powers to the Chief Executive Officer of the Federal Circuit and Family Court of Australia, the Chief Executive Officer of the Federal Circuit and Family Court of Australia may, in writing, delegate all or any of those powers to:
+
+(a) in relation to the Federal Circuit and Family Court of Australia (Division 1)—the holder of an office or position referred to in subparagraph 18ZB(a)(v) or (vi); or
+
+(b) in relation to the Federal Circuit and Family Court of Australia (Division 2)—the holder of an office or position referred to in subparagraph 18ZB(a)(vii) or (viii).
+
+(2) Sections 34AA, 34AB and 34A of the Acts Interpretation Act 1901 apply to a delegation under this section in the same way as they apply to a delegation under section 18ZH or 18ZI.
+
+209 Section 18ZK
+
+Repeal the section, substitute:
