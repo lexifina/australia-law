@@ -1,0 +1,19 @@
+# 34ZZX Who is liable to repay an overpayment of allied health exceptional claims indemnity?
+
+(1) This section applies if, in relation to an allied health exceptional claims indemnity that has been paid, there is an amount overpaid as described in subsection 34ZZZ(2) or 41(2).
+
+(2) The liable person, in relation to the amount overpaid, is:
+
+(a) if the indemnity has not yet been dealt with in accordance with whichever of subsections 34ZZW(3) and (4) applies—the recipient referred to in subsection 34ZZW(1); or
+
+(b) if the indemnity has been dealt with in accordance with whichever of those subsections applies—the practitioner referred to in subsection 34ZZW(1).
+
+Note: The recipient and the practitioner will be the same person if the indemnity was paid to the practitioner.
+
+(3) If:
+
+(a) the recipient and the practitioner referred to in subsection 34ZZW(1) are not the same person; and
+
+(b) when the overpayment is recovered as a debt, the liable person is the recipient;
+
+the fact that the recipient may later deal with the remainder of the indemnity in accordance with subsection 34ZZW(3) or (4) does not mean that the overpayment should instead have been recovered from the practitioner.

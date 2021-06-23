@@ -1,0 +1,37 @@
+# 34ZZZC Penalty imposed if an amount is repaid late
+
+(1) If:
+
+(a) a person owes a debt to the Commonwealth under subsection 34ZZZ(3); and
+
+(b) the debt remains wholly or partly unpaid after it becomes due and payable;
+
+the person is liable to pay a late payment penalty under this section.
+
+(2) The late payment penalty is calculated:
+
+(a) at the rate specified in the rules for the purposes of this paragraph; and
+
+(b) on the unpaid amount; and
+
+(c) for the period:
+
+(i) starting when the amount becomes due and payable; and
+
+(ii) ending when the amount, and the penalty payable under this section in relation to the amount, have been paid in full.
+
+(3) The Chief Executive Medicare may remit the whole or a part of an amount of late payment penalty if the Chief Executive Medicare considers that there are good reasons for doing so.
+
+(4) Applications may be made to the Administrative Appeals Tribunal for review of decisions of the Chief Executive Medicare not to remit, or to remit only part of, an amount of late payment penalty.
+
+Note: Section 27A of the Administrative Appeals Tribunal Act 1975 requires notification of a decision that is reviewable.
+
+(5) If:
+
+(a) the recipient and the practitioner referred to in subsection 34ZZW(1) are not the same person; and
+
+(b) the practitioner becomes the liable person; and
+
+(c) the recipient has or had a liability under this section to pay late payment penalty;
+
+the recipient’s liability to the late payment penalty is not affected by the fact that the recipient is no longer the person who owes the debt to the Commonwealth under subsection 34ZZZ(3), except that the period referred to in paragraph (2)(c) of this section ends when the practitioner becomes the liable person.

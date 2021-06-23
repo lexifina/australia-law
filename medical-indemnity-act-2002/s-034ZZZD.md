@@ -1,0 +1,25 @@
+## Subdivision E—Regulations may provide for payments
+
+# 34ZZZD Regulations may provide for payments in relation to allied health exceptional claims
+
+(1) The regulations may provide in relation to making payments to eligible insurers of claim handling fees, and payments on account of legal, administrative or other costs incurred by eligible insurers (whether on their own behalf or otherwise), in respect of claims in relation to which qualifying allied health claim certificates have been issued.
+
+(2) Without limiting subsection (1), the regulations may:
+
+(a) make provision for:
+
+(i) the conditions that must be satisfied for an amount to be payable to an eligible insurer; and
+
+(ii) the amount that is payable; and
+
+(iii) the conditions that must be complied with by an eligible insurer to which an amount is paid; and
+
+(iv) other matters related to the making of payments, and the recovery of overpayments; and
+
+(b) provide that this Division applies with specified modifications in relation to a liability that relates to costs in relation to which an amount has been paid under regulations made for the purposes of this section; and
+
+(c) make provision for making payments on account of legal, administrative or other costs incurred by eligible insurers (whether on their own behalf or otherwise), in respect of incidents notified to eligible insurers that could give rise to claims in relation to which an allied health exceptional claims indemnity could be payable.
+
+(3) Paragraph (2)(b) does not allow the regulations to modify a provision that creates an offence, or that imposes an obligation which, if contravened, constitutes an offence.
+
+(4) It does not matter for the purposes of paragraph (2)(c) whether claims are subsequently made in relation to the incidents referred to in that paragraph.

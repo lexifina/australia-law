@@ -1,0 +1,9 @@
+# 34ZZN Application for a qualifying allied health claim certificate
+
+(1) An application for the issue of a qualifying allied health claim certificate in relation to a claim may be made by the person against whom the claim is or was made, or by a person acting on that person’s behalf.
+
+(2) The application must:
+
+(a) be made in writing using a form approved by the Chief Executive Medicare; and
+
+(b) be accompanied by the documents and other information required by the form approved by the Chief Executive Medicare.

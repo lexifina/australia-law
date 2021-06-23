@@ -1,0 +1,9 @@
+# 34ZZD Exceptions
+
+An allied health high cost claim indemnity is not payable to an MDO or insurer under section 34ZZB in relation to a payment the MDO or insurer makes, or is liable to make, in relation to a claim against a person if:
+
+(a) the incident, or all the incidents, to which the claim relates occurred in the course of the provision of treatment to a public patient in a public hospital; or
+
+(b) the claim is specified in the rules; or
+
+(c) the claim relates to an incident specified in the rules.

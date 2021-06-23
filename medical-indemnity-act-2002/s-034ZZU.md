@@ -1,0 +1,9 @@
+# 34ZZU Treatment of a claim that relates to a series of incidents some of which occurred after the allied health termination date
+
+If:
+
+(a) a claim against a person relates to a series of incidents; and
+
+(b) some, but not all, of the incidents occurred after the allied health termination date;
+
+then, for the purposes of applying paragraph 34ZZR(1)(e) and subparagraphs 34ZZR(1)(f)(i) and (ii) in relation to the claim, an amount that an insurer has paid or is liable to pay, or would have been liable to pay, in relation to the claim, is to be reduced by the extent (if any) to which the amount relates or would relate to, or is or would be reasonably attributable to, the incident or incidents that occurred after the allied health termination date.

@@ -1,0 +1,23 @@
+# 34ZZS Qualifying allied health liabilities
+
+A person (the practitioner) has a qualifying allied health liability in relation to a claim made against the person if:
+
+(a) one of the following applies:
+
+(i) the liability is under a judgment or order of a court in relation to the claim, being a judgment or order that is not stayed and is not subject to appeal;
+
+(ii) the liability is under a settlement of the claim that takes the form of a written agreement between the parties to the claim;
+
+(iii) the liability is some other kind of liability of the practitioner (for example, a liability to legal costs) that relates to the claim; and
+
+(b) the defence of the claim against the practitioner was conducted appropriately up to the time when:
+
+(i) if the liability is under a judgment or order of a court—the date on which the judgment or order became a judgment or order that is not stayed and is not subject to appeal; or
+
+(ii) if the liability is under a settlement of the claim—the date on which the settlement agreement was entered into; or
+
+(iii) if the liability is some other kind of liability—the date on which the liability was incurred; and
+
+(c) if the liability is under a settlement of the claim, or is under a consent order made by a court—a legal practitioner has given a statutory declaration certifying that the amount of the liability is reasonable.
+
+Note: For paragraph (b), see the definitions of defence and conducted appropriately in subsection 4(1).

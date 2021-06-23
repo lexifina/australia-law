@@ -1,0 +1,25 @@
+## Subdivision F—Miscellaneous
+
+# 34ZZZF Modifications and exclusions
+
+(1) The regulations may provide that this Division applies with specified modifications in relation to:
+
+(a) a specified class of claims; or
+
+(b) a specified class of contracts of insurance; or
+
+(c) a specified class of situations in which a liability is, whether wholly or partly, covered by more than one contract of insurance.
+
+Note: For the capacity for rules to exclude claims and contracts of insurance, see paragraphs 34ZZK(1)(i) and (j).
+
+(2) The regulations may provide that this Division does not apply, or applies with specified modifications, in relation to a specified class of liabilities or payments.
+
+(3) Without limiting subsection (2), the regulations may specify modifications regarding how this Division applies in relation to a liability under an order of a court requiring an amount to be paid pending the outcome of an appeal, including modifications:
+
+(a) to count the liability as a qualifying allied health liability (even though subparagraph 34ZZS(a)(i) may not be satisfied in relation to the order); and
+
+(b) to deal with what happens if, as a result of the appeal or another appeal, the amount paid later becomes wholly or partly repayable; and
+
+(c) to deal with what happens if the amount paid is later applied towards a liability that is confirmed as a result of the appeal or another appeal.
+
+(4) This section does not allow the regulations to modify a provision that creates an offence, or that imposes an obligation which, if contravened, constitutes an offence.

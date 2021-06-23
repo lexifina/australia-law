@@ -1,0 +1,9 @@
+# 34ZZT Treatment of a claim that partly relates to a public patient in a public hospital
+
+If:
+
+(a) a claim against a person relates to a series of incidents; and
+
+(b) some, but not all, of the incidents occurred in the course of the provision of treatment to a public patient in a public hospital;
+
+then, for the purposes of applying paragraph 34ZZR(1)(e) and subparagraphs 34ZZR(1)(f)(i) and (ii) in relation to the claim, an amount that an insurer has paid or is liable to pay, or would have been liable to pay, in relation to the claim, is to be reduced by the extent (if any) to which the amount relates or would relate to, or is or would be reasonably attributable to, the incident or incidents that occurred in the course of the provision of treatment to a public patient in a public hospital.
