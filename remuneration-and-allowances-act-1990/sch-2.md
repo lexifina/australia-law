@@ -16,19 +16,17 @@ Office | from 1.7.90 $ | from 1.1.91 $
 
 Chief Justice of the Federal Court | 143,789 | 152,416
 
-Chief Justice of the Family Court | 143,789 | 152,416
+Chief Justice of the Federal Circuit and Family Court of Australia (Division 1) | 143,789 | 152,416
 
 Chief Justice of the Supreme Court of the Australian Capital Territory | 136,031 | 144,193
 
-Deputy Chief Justice of the Family Court | 135,195 | 143,307
+Deputy Chief Justice of the Federal Circuit and Family Court of Australia (Division 1) | 135,195 | 143,307
 
 Judge of the Federal Court | 131,734 | 139,638
 
-Judge assigned to the Appeal Division of the Family Court | 131,734 | 139,638
+Senior Judge of the Federal Circuit and Family Court of Australia (Division 1) | 131,734 | 139,638
 
-Senior Judge of the Family Court | 131,734 | 139,638
-
-Any other Judge of the Family Court | 131,734 | 139,638
+Any other Judge of the Federal Circuit and Family Court of Australia (Division 1) | 131,734 | 139,638
 
 Judge of the Supreme Court of the Australian Capital Territory | 131,734 | 139,638
 
@@ -53,8 +51,6 @@ Rate per annum of Salary
 Office | from 1.7.90 $ | from 1.1.91 $ | from 1.7.91 $
 
 Master, Supreme Court of the Australian Capital Territory | 97,590 | 104,421 | 111,710
-
-Judicial Registrar of the Family Court of Australia | 88,988 | 96,463 | 104,729
 
 ## Part 5
 
