@@ -10,7 +10,7 @@ Item | Court on which civil jurisdiction is conferred | Limits of jurisdiction
 
 1 | The Federal Court of Australia | No specified limits.
 
-2 | The Federal Circuit Court of Australia | No specified limits.
+2 | The Federal Circuit and Family Court of Australia (Division 2) | No specified limits.
 
 3 | A superior court, or lower court, of a State or Territory | The court’s general jurisdictional limits, including limits as to locality and subject matter.
 
