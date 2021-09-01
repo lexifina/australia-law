@@ -414,7 +414,7 @@ Note: The expressions SES employee and acting SES employee are defined in the Ac
 
 (1) If the operation of this Part would result in an acquisition of property (within the meaning of paragraph 51(xxxi) of the Constitution) from a person otherwise than on just terms (within the meaning of that paragraph), the Commonwealth is liable to pay a reasonable amount of compensation to the person.
 
-(2) If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia or the Federal Circuit Court of Australia for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+(2) If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia or the Federal Circuit and Family Court of Australia (Division 2) for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
 
 34 Transitional rules
 
