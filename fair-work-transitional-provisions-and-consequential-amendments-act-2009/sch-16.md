@@ -354,75 +354,75 @@ Standing, jurisdiction and maximum penalties
 
 Item | Column 1 Civil remedy provision | Column 2 Persons | Column 3 Courts | Column 4 Maximum penalty
 
-38 | 2(1) (other than in relation to a contravention or proposed contravention of an outworker term) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an employer organisation; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+38 | 2(1) (other than in relation to a contravention or proposed contravention of an outworker term) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an employer organisation; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-39 | 2(1) (in relation to a contravention or proposed contravention of an outworker term) | (a) an outworker; (b) an employer; (c) an outworker entity; (d) an employee organisation; (e) an employer organisation; (f) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+39 | 2(1) (in relation to a contravention or proposed contravention of an outworker term) | (a) an outworker; (b) an employer; (c) an outworker entity; (d) an employee organisation; (e) an employer organisation; (f) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-40 | 2(2) (in relation to a contravention or proposed contravention of a collective agreement-based transitional instrument other than a contravention or proposed contravention of a term that would be an outworker term if it were included in an award-based transitional instrument) | (a) an employee; (b) an employer; (c) an employee organisation to which the collective agreement-based transitional instrument concerned applies; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+40 | 2(2) (in relation to a contravention or proposed contravention of a collective agreement-based transitional instrument other than a contravention or proposed contravention of a term that would be an outworker term if it were included in an award-based transitional instrument) | (a) an employee; (b) an employer; (c) an employee organisation to which the collective agreement-based transitional instrument concerned applies; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-40A | 2(2) (in relation to a contravention or proposed contravention of a term in a collective agreement-based transitional instrument that would be an outworker term if it were included in an award-based transitional instrument) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+40A | 2(2) (in relation to a contravention or proposed contravention of a term in a collective agreement-based transitional instrument that would be an outworker term if it were included in an award-based transitional instrument) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-41 | 2(2) (in relation to a contravention of an individual agreement-based transitional instrument) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+41 | 2(2) (in relation to a contravention of an individual agreement-based transitional instrument) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-42 | 3(1) | (a) an employee who the proposed enterprise agreement will cover; (b) a bargaining representative for the proposed enterprise agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 30 penalty units
+42 | 3(1) | (a) an employee who the proposed enterprise agreement will cover; (b) a bargaining representative for the proposed enterprise agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 30 penalty units
 
-43 | 3(2) | (a) an employee who the proposed enterprise agreement will cover; (b) a bargaining representative for the proposed enterprise agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 30 penalty units
+43 | 3(2) | (a) an employee who the proposed enterprise agreement will cover; (b) a bargaining representative for the proposed enterprise agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 30 penalty units
 
-44 | 4 | (a) an employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+44 | 4 | (a) an employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-44A | 4A(1) (other than in relation to a contravention or proposed contravention of an outworker term) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an employer organisation; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+44A | 4A(1) (other than in relation to a contravention or proposed contravention of an outworker term) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an employer organisation; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-44B | 4A(1) (in relation to a contravention or proposed contravention of an outworker term) | (a) an outworker; (b) an employer; (c) an outworker entity; (d) an employee organisation; (e) an employer organisation; (f) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+44B | 4A(1) (in relation to a contravention or proposed contravention of an outworker term) | (a) an outworker; (b) an employer; (c) an outworker entity; (d) an employee organisation; (e) an employer organisation; (f) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-44C | 4A(2) (in relation to a contravention or proposed contravention of a collective Division 2B State employment agreement other than a contravention or proposed contravention of a term that would be an outworker term if it were included in a Division 2B State award) | (a) an employee; (b) an employer; (c) an employee organisation to which the collective Division 2B State employment agreement concerned applies; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+44C | 4A(2) (in relation to a contravention or proposed contravention of a collective Division 2B State employment agreement other than a contravention or proposed contravention of a term that would be an outworker term if it were included in a Division 2B State award) | (a) an employee; (b) an employer; (c) an employee organisation to which the collective Division 2B State employment agreement concerned applies; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-44D | 4A(2) (in relation to a contravention or proposed contravention of a term in a collective Division 2B State employment agreement that would be an outworker term if it were included in a Division 2B State award) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+44D | 4A(2) (in relation to a contravention or proposed contravention of a term in a collective Division 2B State employment agreement that would be an outworker term if it were included in a Division 2B State award) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-44E | 4A(2) (in relation to a contravention of an individual Division 2B State employment agreement) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+44E | 4A(2) (in relation to a contravention of an individual Division 2B State employment agreement) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-44F | 4B(1) | (a) an employee who the proposed enterprise agreement will cover; (b) a bargaining representative for the proposed enterprise agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 30 penalty units
+44F | 4B(1) | (a) an employee who the proposed enterprise agreement will cover; (b) a bargaining representative for the proposed enterprise agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 30 penalty units
 
-44G | 4B(2) | (a) an employee who the proposed enterprise agreement will cover; (b) a bargaining representative for the proposed enterprise agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 30 penalty units
+44G | 4B(2) | (a) an employee who the proposed enterprise agreement will cover; (b) a bargaining representative for the proposed enterprise agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 30 penalty units
 
-45 | 5 | (a) an employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+45 | 5 | (a) an employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-46 | 6(1) | (a) an employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+46 | 6(1) | (a) an employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-47 | 6(2) | (a) an employee; (b) a registered employee association; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+47 | 6(2) | (a) an employee; (b) a registered employee association; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-48 | 7 | (a) an employee; (b) an outworker; (c) an employee organisation; (d) an organisation that is entitled to represent the industrial interests of one or more outworkers to whom the take-home pay order relates; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+48 | 7 | (a) an employee; (b) an outworker; (c) an employee organisation; (d) an organisation that is entitled to represent the industrial interests of one or more outworkers to whom the take-home pay order relates; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-48A | 7A(1) | (a) an employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+48A | 7A(1) | (a) an employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-48B | 7A(2) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an employer organisation; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+48B | 7A(2) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an employer organisation; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-49 | 8(1) | (a) an employee; (b) an employee organisation; (c) an inspector (d) if the agreement is an ITEA—a bargaining agent | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 30 penalty units
+49 | 8(1) | (a) an employee; (b) an employee organisation; (c) an inspector (d) if the agreement is an ITEA—a bargaining agent | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 30 penalty units
 
-50 | 8(2) | (a) an employee; (b) an employee organisation; (c) an inspector; (d) if the agreement is an ITEA—a bargaining agent | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+50 | 8(2) | (a) an employee; (b) an employee organisation; (c) an inspector; (d) if the agreement is an ITEA—a bargaining agent | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-51 | 8(3) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector; (e) if the agreement is an ITEA—a bargaining agent | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 30 penalty units
+51 | 8(3) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector; (e) if the agreement is an ITEA—a bargaining agent | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 30 penalty units
 
-52 | 8(4) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector; (e) if the agreement is an ITEA—a bargaining agent | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+52 | 8(4) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an inspector; (e) if the agreement is an ITEA—a bargaining agent | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-53 | 10 | (a) an employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+53 | 10 | (a) an employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-54 | 11(1) | (a) a transferring employee; (b) the new employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+54 | 11(1) | (a) a transferring employee; (b) the new employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-55 | 11(2), (3) and (4) | (a) a transferring employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+55 | 11(2), (3) and (4) | (a) a transferring employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-56 | 11(5) | (a) a transferring employee; (b) the new employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+56 | 11(5) | (a) a transferring employee; (b) the new employer; (c) an employee organisation; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-57 | 12(1) | (a) an employee; (b) an employer; (c) an applicant for the protected action ballot order; (d) the protected action ballot agent; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit Court | 30 penalty units
+57 | 12(1) | (a) an employee; (b) an employer; (c) an applicant for the protected action ballot order; (d) the protected action ballot agent; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2) | 30 penalty units
 
-58 | 13(1) | (a) an employee; (b) an employer; (c) an applicant for the ballot order to which the protected ballot information relates; (d) the authorised ballot agent in relation to the ballot to which the protected ballot information relates; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit Court | 30 penalty units
+58 | 13(1) | (a) an employee; (b) an employer; (c) an applicant for the ballot order to which the protected ballot information relates; (d) the authorised ballot agent in relation to the ballot to which the protected ballot information relates; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2) | 30 penalty units
 
-59 | 14 | (a) an employee; (b) an employer; (c) an applicant for the ballot order; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit Court | 30 penalty units
+59 | 14 | (a) an employee; (b) an employer; (c) an applicant for the ballot order; (d) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2) | 30 penalty units
 
-60 | 15(1) (other than in relation to a contravention of an outworker term in a continuing Schedule 6 instrument) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an employer organisation; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+60 | 15(1) (other than in relation to a contravention of an outworker term in a continuing Schedule 6 instrument) | (a) an employee; (b) an employer; (c) an employee organisation; (d) an employer organisation; (e) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-61 | 15(1) (in relation to a contravention of an outworker term in a continuing Schedule 6 instrument) | (a) an outworker; (b) an employer; (c) an outworker entity; (d) an employee organisation; (e) an employer organisation; (f) an inspector | (a) the Federal Court; (b) the Federal Circuit Court; (c) an eligible State or Territory court | 60 penalty units
+61 | 15(1) (in relation to a contravention of an outworker term in a continuing Schedule 6 instrument) | (a) an outworker; (b) an employer; (c) an outworker entity; (d) an employee organisation; (e) an employer organisation; (f) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
-62 | 15(2) | (a) a transferring transitional employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit Court | 60 penalty units
+62 | 15(2) | (a) a transferring transitional employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2) | 60 penalty units
 
 Outworkers
 
@@ -444,7 +444,7 @@ Outworkers
 
 17 No injunctions in relation to certain contraventions
 
-The Federal Court and the Federal Circuit Court may not make an order under Division 2 of Part 4-1 of the FW Act granting an injunction, or an interim injunction, to prevent, stop or remedy the effects of a contravention of:
+The Federal Court and the Federal Circuit and Family Court of Australia (Division 2) may not make an order under Division 2 of Part 4-1 of the FW Act granting an injunction, or an interim injunction, to prevent, stop or remedy the effects of a contravention of:
 
 (a) a transitional instrument; or
 

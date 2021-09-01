@@ -78,11 +78,11 @@ The jurisdiction conferred on the Federal Court under item 21 is to be exercised
 
 (e) a prosecution is instituted in the Federal Court under this Act or the WR Act as it continues to apply because of this Act; or
 
-(f) an appeal is instituted in the Federal Court from a judgment of the Federal Circuit Court or a court of a State or Territory in a matter arising under this Act or the WR Act as it continues to apply because of this Act; or
+(f) an appeal is instituted in the Federal Court from a judgment of the Federal Circuit and Family Court of Australia (Division 2) or a court of a State or Territory in a matter arising under this Act or the WR Act as it continues to apply because of this Act; or
 
-(g) proceedings in relation to a matter arising under this Act, or the WR Act as it continues to apply because of this Act, are transferred to the Federal Court from the Federal Circuit Court; or
+(g) proceedings in relation to a matter arising under this Act, or the WR Act as it continues to apply because of this Act, are transferred to the Federal Court from the Federal Circuit and Family Court of Australia (Division 2); or
 
-(h) the Federal Circuit Court or a court of a State or Territory states a case or reserves a question for the consideration of the Federal Court in a matter arising under this Act or the WR Act as it continues to apply because of this Act; or
+(h) the Federal Circuit and Family Court of Australia (Division 2) or a court of a State or Territory states a case or reserves a question for the consideration of the Federal Court in a matter arising under this Act or the WR Act as it continues to apply because of this Act; or
 
 (i) the President refers, under section 608 of the FW Act, a question of law to the Federal Court in relation to a matter arising under this Act or the WR Act as it continues to apply because of this Act; or
 
@@ -100,28 +100,28 @@ To avoid doubt, nothing in this Act limits the Federal Court’s powers under se
 
 (3) No appeal lies from a decision referred to in subitem (1), except as provided for by this item.
 
-25 Conferring jurisdiction on the Federal Circuit Court
+25 Conferring jurisdiction on the Federal Circuit and Family Court of Australia (Division 2)
 
-Jurisdiction is conferred on the Federal Circuit Court in relation to any civil matter arising under:
+Jurisdiction is conferred on the Federal Circuit and Family Court of Australia (Division 2) in relation to any civil matter arising under:
 
 (a) this Act; or
 
 (b) the WR Act as it continues to apply because of this Act.
 
-26 Exercising jurisdiction in the Fair Work Division of the Federal Circuit Court
+26 Exercising jurisdiction in the Fair Work Division of the Federal Circuit and Family Court of Australia (Division 2)
 
-Jurisdiction conferred on the Federal Circuit Court under item 25 is to be exercised in the Fair Work Division of the Federal Circuit Court if:
+Jurisdiction conferred on the Federal Circuit and Family Court of Australia (Division 2) under item 25 is to be exercised in the Fair Work Division of the Court if:
 
-(a) an application is made to the Federal Circuit Court under this Act or the WR Act as it continues to apply because of this Act; or
+(a) an application is made to the Court under this Act or the WR Act as it continues to apply because of this Act; or
 
-(b) an injunction is sought under section 15 of the Federal Circuit Court of Australia Act 1999 in relation to a matter arising under this Act or the WR Act as it continues to apply because of this Act; or
+(b) an injunction is sought under section 140 of the Federal Circuit and Family Court of Australia Act 2021 in relation to a matter arising under this Act or the WR Act as it continues to apply because of this Act; or
 
-(c) a declaration is sought under section 16 of the Federal Circuit Court of Australia Act 1999 in relation to a matter arising under this Act or the WR Act as it continues to apply because of this Act; or
+(c) a declaration is sought under section 141 of the Federal Circuit and Family Court of Australia Act 2021 in relation to a matter arising under this Act or the WR Act as it continues to apply because of this Act; or
 
-(d) proceedings in relation to a matter arising under this Act, or the WR Act as it continues to apply because of this Act, are transferred to the Federal Circuit Court from the Federal Court; or
+(d) proceedings in relation to a matter arising under this Act, or the WR Act as it continues to apply because of this Act, are transferred to the Federal Circuit and Family Court of Australia (Division 2) from the Federal Court; or
 
-(e) the High Court remits a matter arising under this Act or the WR Act as it continues to apply because of this Act to the Federal Circuit Court.
+(e) the High Court remits a matter arising under this Act or the WR Act as it continues to apply because of this Act to the Federal Circuit and Family Court of Australia (Division 2).
 
-27 No limitation on Federal Circuit Court’s powers
+27 No limitation on powers of the Federal Circuit and Family Court of Australia (Division 2)
 
-To avoid doubt, nothing in this Act limits the Federal Circuit Court’s powers under section 14, 15 or 16 of the Federal Circuit Court of Australia Act 1999.
+To avoid doubt, nothing in this Act limits the powers of the Federal Circuit and Family Court of Australia (Division 2) under section 139, 140 or 141 of the Federal Circuit and Family Court of Australia Act 2021.
