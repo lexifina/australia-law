@@ -1,0 +1,39 @@
+# 40RB Simplified outline of this Part
+
+(1) This Part deals with the handling of:
+
+(a) AFP conduct issues and AFP practices issues; and
+
+(b) other issues related to the Australian Federal Police.
+
+(2) These issues may be:
+
+(a) issues that are raised by information given to the Australian Federal Police (see section 40SA); or
+
+(b) issues that the Commissioner decides, on his or her own initiative, are to be dealt with under this Part (see section 40SD); or
+
+(c) issues that are referred to the Australian Federal Police by the Integrity Commissioner under the Law Enforcement Integrity Commissioner Act 2006 or by the Ombudsman under the Ombudsman Act 1976; or
+
+(d) issues that the Minister directs are to be inquired into under Division 4.
+
+(3) How a particular AFP conduct issue is dealt with depends on the category to which the issue belongs. Sections 40RK to 40RP deal with the categorisation of AFP conduct issues.
+
+(4) AFP conduct issues that belong to the 2 less serious categories (categories 1 and 2) are dealt with managerially and may be addressed by training and development action (see section 40TC) or remedial action (see section 40TD).
+
+(5) AFP conduct issues that belong to the 2 more serious categories (category 3 and corruption issues) are dealt with through more formal investigations and may be addressed not only by training and development action and remedial action but also by termination action (see section 40TE) and other action. The investigation may also give rise to a prosecution for an offence.
+
+(6) Division 5 confers special investigative powers on people who conduct:
+
+(a) investigations under Division 3 of category 3 conduct issues or corruption issues; or
+
+(b) inquiries under Division 4.
+
+(7) The Ombudsman plays a number of roles under this Part. The Ombudsman:
+
+(a) determines, jointly with the Commissioner, the particular kinds of conduct that are to belong to the various categories of conduct (see section 40RM); and
+
+(b) is consulted by the Commissioner on the appointment of investigators under section 40TO (see subsection 40TO(6)); and
+
+(c) is entitled under section 40WA to have access to the records that are kept in relation to AFP conduct issues and AFP practices issues under that section; and
+
+(d) conducts annual reviews and ad hoc reviews of the operation of this Part under Division 7.
