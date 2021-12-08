@@ -1,0 +1,31 @@
+# 24NAA Commissioner may recover overpayment
+
+(1) This section applies if:
+
+(a) the Commissioner makes a payment in respect of a person under, or purportedly under, this Part; and
+
+(b) the amount paid exceeds the amount (if any) properly payable under this Part in respect of the person.
+
+(2) The Commissioner may recover all or part of the excess from a person (the debtor) described in subsection (3) as a debt due by the debtor to the Commonwealth if the conditions specified in subsection (4) are met.
+
+(3) The persons from whom the Commissioner may recover are as follows:
+
+(a) the superannuation provider for the fund to which the payment was made;
+
+(b) if the payment, or an amount wholly or partly attributable to that payment, was transferred to another fund—the superannuation provider for that other fund.
+
+(4) The conditions for recovery are that:
+
+(a) the Commissioner gave the debtor written notice, as prescribed by the regulations, of the proposed recovery and the amount to be recovered; and
+
+(b) at least 28 days have passed since the notice was given; and
+
+(c) the amount recovered is not more than the amount specified in the notice.
+
+(5) Despite subsections (2) and (3), if the Commissioner gives a notice described in paragraph (4)(a) to a superannuation provider for a fund, and the fund does not hold an amount attributable to the payment, the Commissioner cannot recover from the superannuation provider.
+
+(6) The Commissioner may revoke a notice described in paragraph (4)(a).
+
+(7) The total of the amounts recovered from different debtors in relation to the same excess must not be more than the excess.
+
+(8) A notice described in paragraph (4)(a) is not a legislative instrument.
