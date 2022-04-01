@@ -48,7 +48,7 @@ old law means the following laws, as in force immediately before commencement:
 
 (i) the Motor Vehicle Standards (Used Imported Vehicle Report) Determination 2006 (No. 1).
 
-transitional period means the 12 month period that begins on commencement.
+transitional period means the 24 month period that begins on commencement.
 
 (2) The following expressions used in this Schedule, that are also used in the Road Vehicle Standards Act 2018, have the same meaning in this Schedule as they have in that Act:
 
