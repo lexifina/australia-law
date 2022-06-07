@@ -1,0 +1,7 @@
+# 6F Specification by class
+
+To avoid doubt, a reference in this Code to a class or kind of matter or thing does not, by implication, affect the application of:
+
+(a) subsection 13(3) of the Legislation Act 2003; or
+
+(b) subsection 33(3AB) of the Acts Interpretation Act 1901.

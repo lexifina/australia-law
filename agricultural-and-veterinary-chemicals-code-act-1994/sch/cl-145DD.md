@@ -1,0 +1,47 @@
+# 145DD Withdrawal of an infringement notice
+
+Representations seeking withdrawal of notice
+
+(1) A person to whom an infringement notice has been given may make written representations to the APVMA seeking the withdrawal of the notice.
+
+Withdrawal of notice
+
+(2) The APVMA may withdraw an infringement notice given to a person (whether or not the person has made written representations seeking the withdrawal).
+
+(3) When deciding whether or not to withdraw an infringement notice (the relevant infringement notice), the APVMA:
+
+(a) must take into account any written representations seeking the withdrawal that were given by the person to the APVMA; and
+
+(b) may take into account the following:
+
+(i) whether a court has previously imposed a penalty on the person for a contravention of a prescribed civil penalty provision if the contravention is constituted by conduct that is the same, or substantially the same, as the conduct alleged to constitute the contravention in the relevant infringement notice;
+
+(ii) the circumstances of the alleged contravention;
+
+(iii) whether the person has paid an amount, stated in an earlier infringement notice, for a contravention of a prescribed civil penalty provision if the contravention is constituted by conduct that is the same, or substantially the same, as the conduct alleged to constitute the contravention in the relevant infringement notice;
+
+(iv) any other matter the APVMA considers relevant.
+
+Notice of withdrawal
+
+(4) Notice of the withdrawal of the infringement notice must be given to the person. The withdrawal notice must state:
+
+(a) the person’s name and address; and
+
+(b) the day the infringement notice was given; and
+
+(c) the identifying number of the infringement notice; and
+
+(d) that the infringement notice is withdrawn; and
+
+(e) that proceedings seeking a civil penalty order may be brought in relation to the alleged contravention.
+
+Refund of amount if infringement notice withdrawn
+
+(5) If:
+
+(a) the APVMA withdraws the infringement notice; and
+
+(b) the person has already paid the amount stated in the notice;
+
+the Commonwealth must refund to the person an amount equal to the amount paid.
