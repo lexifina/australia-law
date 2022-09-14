@@ -1,0 +1,1 @@
+An Act to establish an Export Finance and Insurance Corporation for the purpose of facilitating and encouraging Australian export trade and overseas infrastructure development, and for related purposes
