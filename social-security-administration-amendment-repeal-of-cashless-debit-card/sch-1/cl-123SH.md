@@ -1,0 +1,31 @@
+# 123SH Termination of voluntary enhanced income management agreement
+
+Termination by request
+
+(1) If a voluntary enhanced income management agreement in relation to a person is in force, the person may, by written notice given to the Secretary, request the Secretary to terminate the agreement.
+
+(2) However, a person may make a request under subsection (1) only if the agreement has been in force for at least 13 weeks.
+
+(3) The Secretary must comply with a request made in accordance with subsections (1) and (2) by terminating the agreement as soon as practicable after receiving the request.
+
+Other grounds for termination
+
+(4) If:
+
+(a) a voluntary enhanced income management agreement in relation to a person is in force; and
+
+(b) either of the following events occurs:
+
+(i) the person ceases to be an eligible recipient of a category F welfare payment;
+
+(ii) in a case where the person has a Part 3B payment nominee—that nominee ceases to be subject to the enhanced income management regime or ceases to be subject to the income management regime (within the meaning of Part 3B);
+
+the Secretary must terminate the agreement as soon as practicable after the occurrence of the event.
+
+Limit on new voluntary enhanced income management agreements
+
+(5) If a voluntary enhanced income management agreement in relation to a person is terminated under this section, the Secretary must not enter into another voluntary enhanced income management agreement with the person within 21 days after the termination.
+
+48M Before Division 4 of Part 3AA
+
+Insert:
