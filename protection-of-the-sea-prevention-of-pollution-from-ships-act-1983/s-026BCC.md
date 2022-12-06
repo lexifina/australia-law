@@ -76,7 +76,7 @@ Exception—discharge of comminuted and disinfected sewage etc.
 
 (a) the ship is not a category A ship, category B ship or passenger ship constructed on or after 1 January 2017;
 
-(b) if the sewage has been comminuted and disinfected using a system approved in accordance with the regulations, or orders made pursuant to the regulations, giving effect to paragraph 1.2 of Regulation 9 of Annex IV to the Convention—the discharge is made when the ship is:
+(b) if the sewage has been comminuted and disinfected using a system approved in accordance with the regulations giving effect to paragraph 1.2 of Regulation 9 of Annex IV to the Convention—the discharge is made when the ship is:
 
 (i) as far as practicable from areas of ice concentration exceeding 1/10; and
 
