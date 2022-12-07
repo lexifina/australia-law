@@ -66,6 +66,20 @@ Note: This subitem is a civil remedy provision (see item 16, and Part 4-1 of the
 
 Note: This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act).
 
+4C Compliance with obligation to notify employees about automatic sunsetting
+
+(1) An employer must not contravene subitem 20A(3) of Schedule 3.
+
+Note: This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act).
+
+(2) An employer must not contravene subitem 26A(3) of Schedule 3A.
+
+Note: This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act).
+
+(3) An employer must not contravene subitem 30(3) of Schedule 7.
+
+Note: This subitem is a civil remedy provision (see item 16, and Part 4-1 of the FW Act).
+
 5 Compliance with transitional APCSs, the transitional FMW and transitional special FMWs
 
 A person must not contravene section 182 or 185 of the WR Act as that section continues to apply under item 5 of Schedule 9.
@@ -338,7 +352,7 @@ Note: This subitem is a civil remedy provision (see item 16, and Part 4-1 of the
 
 (c) a reference to a fair work instrument in that Part included a reference to a transitional instrument, a Division 2B State instrument, a transitional minimum wage instrument or a continuing Schedule 6 instrument; and
 
-(d) the reference in subsection 540(3) to items 4, 7 and 14 in the table in subsection 539(2) included a reference to items 40 and 44C in the table below; and
+(d) the reference in subsection 540(3) to items 4, 7 and 14 in the table in subsection 539(2) included a reference to items 40, 44C, 44H, 44J and 44K in the table below; and
 
 (da) the reference in subsections 540(3) and (4) to a term in an enterprise agreement that would be an outworker term if it were included in a modern award included:
 
@@ -383,6 +397,12 @@ Item | Column 1 Civil remedy provision | Column 2 Persons | Column 3 Courts | Co
 44F | 4B(1) | (a) an employee who the proposed enterprise agreement will cover; (b) a bargaining representative for the proposed enterprise agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 30 penalty units
 
 44G | 4B(2) | (a) an employee who the proposed enterprise agreement will cover; (b) a bargaining representative for the proposed enterprise agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 30 penalty units
+
+44H | 4C(1) | (a) an employee; (b) an industrial association that is entitled to represent the industrial interests of one or more of the employees covered by the agreement- based transitional instrument; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
+
+44J | 4C(2) | (a) an employee; (b) an industrial association that is entitled to represent the industrial interests of one or more of the employees covered by the Division 2B State employment agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
+
+44K | 4C(3) | (a) an employee; (b) an industrial association that is entitled to represent the industrial interests of one or more of the employees covered by the enterprise agreement; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 
 45 | 5 | (a) an employee; (b) an employee organisation; (c) an inspector | (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia (Division 2); (c) an eligible State or Territory court | 60 penalty units
 

@@ -480,6 +480,8 @@ Subdivision C of Division 7 of Part 2-4 of the FW Act (which deals with terminat
 
 (2) For the purpose of the application of Subdivision D to an old IR agreement, the agreement’s nominal expiry date is taken to be the end of the period of the agreement.
 
+(3) To avoid doubt, subsection 615A(3) of the FW Act does not apply in relation to a collective agreement-based transitional instrument.
+
 17 Individual agreement-based transitional instruments: termination by agreement
 
 (1) The employee and employer covered by an individual agreement-based transitional instrument may make a written agreement (a termination agreement) to terminate the agreement in accordance with the following requirements:
@@ -578,7 +580,7 @@ Note 2: Failure to comply with this obligation does not affect the operation of 
 
 (5) If the FWC approves the termination, the transitional instrument terminates on the 90th day after the day on which the FWC makes the approval decision.
 
-20 Sunsetting rules for various transitional instruments
+20 Initial sunsetting rules for particular transitional instruments
 
 Notional agreements preserving State awards
 
@@ -631,6 +633,128 @@ the award terminates on the earlier of the following:
 (d) when it has been replaced by a State employment agreement (within the meaning of the WR Act).
 
 (7) However, if the employer becomes a national system employer before 27 March 2011, subitem (6) does not apply after that time.
+
+20A Automatic sunsetting of all remaining agreement-based transitional instruments
+
+Automatic sunsetting
+
+(1) An agreement-based transitional instrument terminates at the end of the grace period for the instrument if the instrument has not already terminated before that time.
+
+(2) The grace period for an agreement-based transitional instrument is:
+
+(a) subject to paragraph (b), the period of 12 months (the default period) beginning on the day Part 13 of Schedule 1 to the Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022 commences; or
+
+(b) if the default period is extended for the instrument on one or more occasions under subitem (6) or paragraph (11)(e)—the default period as so extended.
+
+Employer to give notice to employees
+
+(3) An employer covered by an agreement-based transitional instrument must, before the end of 6 months beginning on the day Part 13 of Schedule 1 to the Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022 commences, give each employee who is covered by the instrument and employed by the employer at the end of that period written notice advising the employee:
+
+(a) that the employee is covered by an agreement-based transitional instrument; and
+
+(b) that the instrument will terminate unless an application is made to the FWC under subitem (4), before the end of the period of 12 months beginning on the day that Part commences, for the FWC to extend the default period for the instrument; and
+
+(c) of the day on which that Part commences.
+
+Note: For compliance with this obligation, see item 4C of Schedule 16.
+
+Application to FWC for extension of default period
+
+(4) Any of the following may apply to the FWC, before the end of the grace period for an agreement-based transitional instrument, for the FWC to extend the default period for the instrument for a period of no more than 4 years:
+
+(a) an employer covered by the instrument;
+
+(b) an employee covered by the instrument;
+
+(c) an industrial association that is entitled to represent the industrial interests of one or more of the employees covered by the instrument.
+
+(5) An application under subitem (4) must be accompanied by:
+
+(a) a copy of the instrument; and
+
+(b) any declarations that are required by the procedural rules of the FWC to accompany the application.
+
+Extension of default period
+
+(6) If an application is made under subitem (4), the FWC must extend the default period for the agreement-based transitional instrument for a period of no more than 4 years if the FWC is satisfied that:
+
+(a) subitem (7), (8) or (9) applies and it is otherwise appropriate in the circumstances to do so; or
+
+(b) it is reasonable in the circumstances to do so.
+
+(7) This subitem applies if:
+
+(a) the application is made at or after the notification time for a proposed enterprise agreement; and
+
+(b) the proposed enterprise agreement will cover:
+
+(i) if the application relates to an individual agreement-based transitional instrument—the employee covered by the individual agreement-based transitional instrument; or
+
+(ii) if the application relates to a collective agreement-based transitional instrument—the same, or substantially the same, group of employees as the collective agreement-based transitional instrument; and
+
+(c) bargaining for the proposed enterprise agreement is occurring.
+
+(8) This subitem applies if:
+
+(a) the application relates to an individual agreement-based transitional instrument; and
+
+(b) the employee covered by the instrument would be an award covered employee for the instrument under subitem (10) if the instrument were a collective agreement-based transitional instrument; and
+
+(c) it is likely that, as at the time the application is made, the employee would be better off overall if the instrument applied to the employee than if the relevant modern award referred to in that subitem applied to the employee.
+
+(9) This subitem applies if:
+
+(a) the application relates to a collective agreement-based transitional instrument; and
+
+(b) it is likely that, as at the time the application is made, the award covered employees for the instrument under subitem (10), viewed as a group, would be better off overall if the instrument applied to the employees than if the relevant modern award or awards referred to in that subitem applied to the employees.
+
+(10) For the purposes of subitems (8) and (9), the award covered employees for a collective agreement-based transitional instrument are the employees who:
+
+(a) are covered by the instrument; and
+
+(b) at the time an application is made under subitem (4) in relation to the instrument, are covered by one or more modern awards (the relevant modern awards) that:
+
+(i) are in operation; and
+
+(ii) cover the employees in relation to the work that the employees are to perform under the instrument; and
+
+(c) are employed at that time by an employer who is covered by the instrument and by one or more of the relevant modern awards.
+
+Publication of decisions etc.
+
+(10A) The FWC must publish the following, on its website or by any other means that the FWC considers appropriate:
+
+(a) a decision under subitem (6);
+
+(b) any written reasons that the FWC gives in relation to such a decision;
+
+(c) if the decision is to extend the default period for a collective agreement-based transitional instrument—the instrument.
+
+The FWC must do so as soon as practicable after making the decision.
+
+(10B) Paragraph (10A)(b) applies subject to any order made under section 594 of the FW Act.
+
+(10C) The FWC must not publish an individual agreement-based transitional instrument in relation to which an application under subitem (4) is made.
+
+Pending applications
+
+(11) If:
+
+(a) an application is made under subitem (4) in relation to an agreement-based transitional instrument; and
+
+(b) the FWC has not made a decision on the application at a time (the critical time) that is immediately before what would (apart from this subitem) be the end of the grace period for the instrument;
+
+then:
+
+(c) the FWC must make the decision on the application after the critical time; and
+
+(d) the decision on the application is taken to have been made at the critical time; and
+
+(e) if the FWC’s decision on the application is to refuse to extend the default period for the instrument under subitem (6)—the FWC must extend the default period until the end of:
+
+(i) subject to subparagraph (ii), the day the refusal decision is made; or
+
+(ii) if the refusal decision specifies a later day that is not more than 14 days after the day the refusal decision is made—that later day.
 
 21 Effect of termination
 

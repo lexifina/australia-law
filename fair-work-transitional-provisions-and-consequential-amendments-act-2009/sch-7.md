@@ -603,3 +603,123 @@ Part 7—Transitional provision about the operation of the better off overall te
 (2) For the purposes of determining whether the affected employee would be better off overall if the agreement, or the agreement as proposed to be varied, applied to the employee than if the relevant modern award applied to the employee, the base rate of pay payable under the relevant modern award to the employee is taken to be increased so that it is equal to the amount payable to the employee under the transitional pay equity order.
 
 Note: For the meanings of transitional pay equity order and affected employee, see item 2 of Schedule 2.
+
+Part 8—Transitional provisions relating to termination and sunsetting of enterprise agreements made during the bridging period
+
+29 Terminating under the FW Act enterprise agreements made during the bridging period
+
+Subsection 615A(3) of the FW Act does not apply in relation to an enterprise agreement made during the bridging period.
+
+30 Automatic sunsetting of all remaining enterprise agreements made during the bridging period
+
+Automatic sunsetting
+
+(1) An enterprise agreement made during the bridging period ceases to operate at the end of the grace period for the agreement if the agreement has not already ceased to operate before that time.
+
+(2) The grace period for an enterprise agreement made during the bridging period is:
+
+(a) subject to paragraph (b), the period of 12 months (the default period) beginning on the day Part 13 of Schedule 1 to the Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022 commences; or
+
+(b) if the default period is extended for the agreement on one or more occasions under subitem (6) or paragraph (10)(e)—the default period as so extended.
+
+Employer to give notice to employees
+
+(3) An employer covered by an enterprise agreement made during the bridging period must, before the end of 6 months beginning on the day Part 13 of Schedule 1 to the Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022 commences, give each employee who is covered by the agreement and employed by the employer at the end of that period written notice advising the employee:
+
+(a) that the employee is covered by an enterprise agreement made during the bridging period; and
+
+(b) that the agreement will terminate unless an application is made to the FWC under subitem (4), before the end of the period of 12 months beginning on the day that Part commences, for the FWC to extend the default period for the agreement; and
+
+(c) of the day on which that Part commences.
+
+Note: For compliance with this obligation, see item 4C of Schedule 16.
+
+Application to FWC for extension of default period
+
+(4) Any of the following may apply to the FWC, before the end of the grace period for an enterprise agreement made during the bridging period, for the FWC to extend the default period for the agreement for a period of no more than 4 years:
+
+(a) an employer covered by the agreement;
+
+(b) an employee covered by the agreement;
+
+(c) an industrial association that is entitled to represent the industrial interests of one or more of the employees covered by the agreement.
+
+(5) An application under subitem (4) must be accompanied by:
+
+(a) a copy of the agreement; and
+
+(b) any declarations that are required by the procedural rules of the FWC to accompany the application.
+
+Extension of default period
+
+(6) If an application is made under subitem (4), the FWC must extend the default period for the enterprise agreement made during the bridging period for a period of no more than 4 years if the FWC is satisfied that:
+
+(a) subitem (7) or (8) applies and it is otherwise appropriate in the circumstances to do so; or
+
+(b) it is reasonable in the circumstances to do so.
+
+(7) This subitem applies if:
+
+(a) the application is made at or after the notification time for a proposed enterprise agreement that will cover the same, or substantially the same, group of employees as the enterprise agreement made during the bridging period; and
+
+(b) bargaining for the proposed enterprise agreement is occurring.
+
+(8) This subitem applies if it is likely that, as at the time the application is made, the award covered employees for the agreement under subitem (9), viewed as a group, would be better off overall if the agreement applied to the employees than if the relevant modern award or awards referred to in that subitem applied to the employees.
+
+(9) For the purposes of subitem (8), the award covered employees for an enterprise agreement made during the bridging period are the employees who:
+
+(a) are covered by the agreement; and
+
+(b) at the time an application is made under subitem (4) in relation to the agreement, are covered by one or more modern awards (the relevant modern awards) that:
+
+(i) are in operation; and
+
+(ii) cover the employees in relation to the work that the employees are to perform under the agreement; and
+
+(c) are employed at that time by an employer who is covered by the agreement and by one or more of the relevant modern awards.
+
+Publication of decisions etc.
+
+(9A) The FWC must publish the following, on its website or by any other means that the FWC considers appropriate:
+
+(a) a decision under subitem (6);
+
+(b) any written reasons that the FWC gives in relation to such a decision;
+
+(c) if the decision is to extend the default period for the relevant enterprise agreement—the agreement.
+
+The FWC must do so as soon as practicable after making the decision.
+
+(9B) Paragraph (9A)(b) applies subject to any order made under section 594 of the FW Act.
+
+Pending applications
+
+(10) If:
+
+(a) an application is made under subitem (4) in relation to an enterprise agreement made during the bridging period; and
+
+(b) the FWC has not made a decision on the application at a time (the critical time) that is immediately before what would (apart from this subitem) be the end of the grace period for the agreement;
+
+then:
+
+(c) the FWC must make the decision on the application after the critical time; and
+
+(d) the decision on the application is taken to have been made at the critical time; and
+
+(e) if the FWC’s decision on the application is to refuse to extend the default period for the agreement under subitem (6)—the FWC must extend the default period until the end of:
+
+(i) subject to subparagraph (ii), the day the refusal decision is made; or
+
+(ii) if the refusal decision specifies a later day that is not more than 14 days after the day the refusal decision is made—that later day.
+
+Effect of sunsetting
+
+(11) If an enterprise agreement made during the bridging period ceases to operate in accordance with subitem (1), that does not affect:
+
+(a) any right or liability that a person acquired, accrued or incurred before the agreement ceased to operate; or
+
+(b) any investigation, legal proceeding or remedy in respect of any such right or liability.
+
+(12) Any such investigation, legal proceeding or remedy may be instituted, continued or enforced as if the agreement had not ceased to operate.
+
+(13) Subitems (11) and (12) have effect subject to a contrary intention in this Act or in the FW Act.

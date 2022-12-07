@@ -510,7 +510,9 @@ Subdivision C of Division 7 of Part 2-4 of the FW Act (which deals with terminat
 
 23 Collective Division 2B State employment agreements: termination by the FWC
 
-Subdivision D of Division 7 of Part 2-4 of the FW Act (which deals with termination of enterprise agreements after their nominal expiry date) applies in relation to a collective Division 2B State employment agreement as if a reference to an enterprise agreement included a reference to a collective Division 2B State employment agreement.
+(1) Subdivision D of Division 7 of Part 2-4 of the FW Act (which deals with termination of enterprise agreements after their nominal expiry date) applies in relation to a collective Division 2B State employment agreement as if a reference to an enterprise agreement included a reference to a collective Division 2B State employment agreement.
+
+(2) To avoid doubt, subsection 615A(3) of the FW Act does not apply in relation to a collective Division 2B State employment agreement.
 
 24 Individual Division 2B State employment agreements: termination by agreement
 
@@ -603,6 +605,128 @@ Note 2: Failure to comply with this obligation does not affect the operation of 
 (b) the requirements of subitems (2) and (3) have been complied with.
 
 (5) If the FWC approves the termination, the Division 2B agreement terminates on the 90th day after the day on which the FWC makes the approval decision.
+
+26A Automatic sunsetting of all remaining Division 2B State employment agreements
+
+Automatic sunsetting
+
+(1) A Division 2B State employment agreement terminates at the end of the grace period for the agreement if the agreement has not already terminated before that time.
+
+(2) The grace period for a Division 2B State employment agreement is:
+
+(a) subject to paragraph (b), the period of 12 months (the default period) beginning on the day Part 13 of Schedule 1 to the Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022 commences; or
+
+(b) if the default period is extended for the agreement on one or more occasions under subitem (6) or paragraph (11)(e)—the default period as so extended.
+
+Employer to give notice to employees
+
+(3) An employer covered by a Division 2B State employment agreement must, before the end of 6 months beginning on the day Part 13 of Schedule 1 to the Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022 commences, give each employee who is covered by the agreement and employed by the employer at the end of that period written notice advising the employee:
+
+(a) that the employee is covered by a Division 2B State employment agreement; and
+
+(b) that the agreement will terminate unless an application is made to the FWC under subitem (4), before the end of the period of 12 months beginning on the day that Part commences, for the FWC to extend the default period for the agreement; and
+
+(c) of the day on which that Part commences.
+
+Note: For compliance with this obligation, see item 4C of Schedule 16.
+
+Application to FWC for extension of default period
+
+(4) Any of the following may apply to the FWC, before the end of the grace period for a Division 2B State employment agreement, for the FWC to extend the default period for the agreement for a period of no more than 4 years:
+
+(a) an employer covered by the agreement;
+
+(b) an employee covered by the agreement;
+
+(c) an industrial association that is entitled to represent the industrial interests of one or more of the employees covered by the agreement.
+
+(5) An application under subitem (4) must be accompanied by:
+
+(a) a copy of the agreement; and
+
+(b) any declarations that are required by the procedural rules of the FWC to accompany the application.
+
+Extension of default period
+
+(6) If an application is made under subitem (4), the FWC must extend the default period for the Division 2B State employment agreement for a period of no more than 4 years if the FWC is satisfied that:
+
+(a) subitem (7), (8) or (9) applies and it is otherwise appropriate in the circumstances to do so; or
+
+(b) it is reasonable in the circumstances to do so.
+
+(7) This subitem applies if:
+
+(a) the application is made at or after the notification time for a proposed enterprise agreement; and
+
+(b) the proposed enterprise agreement will cover:
+
+(i) if the application relates to an individual Division 2B State employment agreement—the employee covered by the individual Division 2B State employment agreement; or
+
+(ii) if the application relates to a collective Division 2B State employment agreement—the same, or substantially the same, group of employees as the Division 2B State employment agreement; and
+
+(c) bargaining for the proposed enterprise agreement is occurring.
+
+(8) This subitem applies if:
+
+(a) the application relates to an individual Division 2B State employment agreement; and
+
+(b) the employee covered by the agreement would be an award covered employee for the agreement under subitem (10) if the agreement were a collective Division 2B State employment agreement; and
+
+(c) it is likely that, as at the time the application is made, the employee would be better off overall if the agreement applied to the employee than if the relevant modern award referred to in that subitem applied to the employee.
+
+(9) This subitem applies if:
+
+(a) the application relates to a collective Division 2B State employment agreement; and
+
+(b) it is likely that, as at the time the application is made, the award covered employees for the agreement under subitem (10), viewed as a group, would be better off overall if the agreement applied to the employees than if the relevant modern award or awards referred to in that subitem applied to the employees.
+
+(10) For the purposes of subitems (8) and (9), the award covered employees for a collective Division 2B State employment agreement are the employees who:
+
+(a) are covered by the agreement; and
+
+(b) at the time an application is made under subitem (4) in relation to the agreement, are covered by one or more modern awards (the relevant modern awards) that:
+
+(i) are in operation; and
+
+(ii) cover the employees in relation to the work that the employees are to perform under the agreement; and
+
+(c) are employed at that time by an employer who is covered by the agreement and by one or more of the relevant modern awards.
+
+Publication of decisions etc.
+
+(10A) The FWC must publish the following, on its website or by any other means that the FWC considers appropriate:
+
+(a) a decision under subitem (6);
+
+(b) any written reasons that the FWC gives in relation to such a decision;
+
+(c) if the decision is to extend the default period for a collective Division 2B State employment agreement—the agreement.
+
+The FWC must do so as soon as practicable after making the decision.
+
+(10B) Paragraph (10A)(b) applies subject to any order made under section 594 of the FW Act.
+
+(10C) The FWC must not publish an individual Division 2B State employment agreement in relation to which an application under subitem (4) is made.
+
+Pending applications
+
+(11) If:
+
+(a) an application is made under subitem (4) in relation to a Division 2B State employment agreement; and
+
+(b) the FWC has not made a decision on the application at a time (the critical time) that is immediately before what would (apart from this subitem) be the end of the grace period for the agreement;
+
+then:
+
+(c) the FWC must make the decision on the application after the critical time; and
+
+(d) the decision on the application is taken to have been made at the critical time; and
+
+(e) if the FWC’s decision on the application is to refuse to extend the default period for the agreement under subitem (6)—the FWC must extend the default period until the end of:
+
+(i) subject to subparagraph (ii), the day the refusal decision is made; or
+
+(ii) if the refusal decision specifies a later day that is not more than 14 days after the day the refusal decision is made—that later day.
 
 27 Meaning of nominal expiry date of Division 2B State employment agreement
 
