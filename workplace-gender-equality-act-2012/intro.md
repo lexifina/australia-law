@@ -1,0 +1,1 @@
+An Act to require certain employers to promote gender equality in the workplace, to establish the Workplace Gender Equality Agency and the office of the Director of Workplace Gender Equality, and for related purposes
