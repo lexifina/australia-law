@@ -1,0 +1,11 @@
+# 126AMG Power to require records
+
+Requirement to produce records
+
+(1) An authorised officer may require a person who is subject to record keeping obligations under regulations made for the purposes of section 126AMF to produce to the officer such of those records as the officer requires.
+
+Note: Failing to produce a record when required to do so by an officer may be an offence: see section 243SB. However, a person does not have to produce a record if doing so would tend to incriminate the person: see section 243SC.
+
+Disclosing records to Indian customs official
+
+(2) An authorised officer may, for the purpose of verifying a claim for a preferential tariff in the territory of India, disclose any records so produced to an Indian customs official.
