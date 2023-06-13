@@ -1,1 +1,1 @@
-An Act to impose levies on the import of HCFCs, methyl bromide, SGGs, ODS equipment and SGG equipment under licences granted under the Ozone Protection and Synthetic Greenhouse Gas Management Act 1989
+An Act to impose levies on the import of HCFCs, methyl bromide, SGGs and SGG equipment under licences granted under the Ozone Protection and Synthetic Greenhouse Gas Management Act 1989
