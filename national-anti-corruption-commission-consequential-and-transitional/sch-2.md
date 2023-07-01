@@ -691,11 +691,3 @@ Part 12—Transitional rules
 (e) directly amend the text of this Act or the new Act.
 
 (4) This Schedule (other than subitem (3)) does not limit the rules that may be made for the purposes of subitem (1).
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 28 September 2022
-
-Senate on 28 November 2022]
-
-(95/22)

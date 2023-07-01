@@ -218,10 +218,6 @@ Repeal the paragraph, substitute:
 
 Public Interest Disclosure Act 2013
 
-163 Subsection 7(2)
-
-Omit “4”, substitute “5”.
-
 164 Section 8 (paragraphs (l) and (m) of the definition of designated publication restriction)
 
 Repeal the paragraphs, substitute:
@@ -272,54 +268,6 @@ Insert:
 
 A stop action direction under the NACC Act may prevent the allocation of some or all of a disclosure.
 
-171 Subsection 43(5)
-
-Repeal the subsection, substitute:
-
-(5) The authorised officer must use the officer’s best endeavours to make a decision about the allocation of the disclosure within 14 days after whichever of the following days applies:
-
-(a) the day the disclosure is made or given to an authorised officer;
-
-(b) to the extent that a stop action direction under the NACC Act prevented the allocation of the disclosure—the day on which the authorised officer becomes aware that the direction no longer applies.
-
-172 At the end of section 43
-
-Add:
-
-Stop action directions under the NACC Act
-
-(7) This section has effect subject to any stop action direction under the NACC Act.
-
-173 After subsection 44(2)
-
-Insert:
-
-(2A) If the authorised officer does not allocate the disclosure because of a stop action direction under the NACC Act, the authorised officer must:
-
-(a) inform the Ombudsman of the following (unless paragraph (b) applies):
-
-(i) the information that was disclosed;
-
-(ii) the suspected disclosable conduct (if any);
-
-(iii) if the discloser’s name and contact details are known to the authorised officer, and the discloser consents to the Ombudsman being informed—the discloser’s name and contact details;
-
-(iv) the stop action direction under the NACC Act that prevents allocation of the disclosure; or
-
-(b) inform the IGIS of those matters if the disclosure concerns conduct relating to:
-
-(i) an intelligence agency; or
-
-(ii) the IGIS; or
-
-(iii) the intelligence functions of either ACIC or the Australian Federal Police.
-
-174 At the end of section 44
-
-Add:
-
-(5) To avoid doubt, this section applies despite any stop action direction under the NACC Act.
-
 175 Section 46 (after the paragraph beginning “The principal officer of”)
 
 Insert:
@@ -369,16 +317,6 @@ Add:
 (ii) the IGIS; or
 
 (iii) the intelligence functions of either ACIC or the Australian Federal Police.
-
-182 Subsection 52(1)
-
-Repeal the subsection, substitute:
-
-(1) An investigation under this Division must be completed within 90 days after whichever of the following days applies:
-
-(a) the day the relevant disclosure was allocated to the agency;
-
-(b) to the extent that a stop action direction under the NACC Act prevented the investigation—the day on which the principal officer becomes aware that the direction no longer applies.
 
 183 Paragraph 69(3)(c)
 
