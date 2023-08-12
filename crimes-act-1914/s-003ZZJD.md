@@ -1,0 +1,17 @@
+# 3ZZJD Privileges not abrogated
+
+Self-incrimination
+
+(1) This Part (other than section 3ZZUE) does not affect the right of a person to refuse to answer a question, give information, or produce a document, on the ground that the answer to the question, the information, or the production of the document, might tend to incriminate him or her or make him or her liable to a penalty.
+
+Legal professional privilege
+
+(2) This Part (other than section 3ZZUE) does not affect the right of a person to refuse to answer a question, give information, or produce a document, on the ground that:
+
+(a) the answer to the question or the information would be privileged from being given on the ground of legal professional privilege; or
+
+(b) the document would be privileged from being produced on the ground of legal professional privilege.
+
+Other legislation not affected
+
+(3) The fact that this section is included in this Part does not imply that the privilege against self-incrimination or legal professional privilege is abrogated in any other law of the Commonwealth.

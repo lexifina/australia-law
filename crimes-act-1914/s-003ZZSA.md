@@ -1,0 +1,23 @@
+## Division 9—Powers of issuing officers
+
+# 3ZZSA Powers of issuing officers
+
+Powers conferred personally
+
+(1) A power conferred on an issuing officer by this Part is conferred on the issuing officer:
+
+(a) in a personal capacity; and
+
+(b) not as a court or a member of a court.
+
+Powers need not be accepted
+
+(2) The issuing officer need not accept the power conferred.
+
+Protection and immunity
+
+(3) An issuing officer exercising a power conferred by this Part has the same protection and immunity as if the issuing officer were exercising the power:
+
+(a) as the court of which the issuing officer is a member; or
+
+(b) as a member of the court of which the issuing officer is a member.

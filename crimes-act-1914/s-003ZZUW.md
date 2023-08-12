@@ -1,0 +1,9 @@
+# 3ZZUW Relationship of this Division to parliamentary privileges and immunities
+
+To avoid doubt, this Division does not affect the law relating to the powers, privileges and immunities of any of the following:
+
+(a) each House of the Parliament;
+
+(b) the members of each House of the Parliament;
+
+(c) the committees of each House of the Parliament and joint committees of both Houses of the Parliament.

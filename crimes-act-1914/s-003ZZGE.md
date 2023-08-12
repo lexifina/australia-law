@@ -1,0 +1,35 @@
+# 3ZZGE Ombudsman to be given information etc. despite other laws
+
+(1) Despite any other law, a person is not excused from giving information, answering a question, or giving access to a document, as and when required under this Division, on the ground that giving the information, answering the question, or giving access to the document, as the case may be:
+
+(a) would contravene a law; or
+
+(b) would be contrary to the public interest; or
+
+(c) might tend to incriminate the person or make the person liable to a penalty; or
+
+(d) would disclose one of the following:
+
+(i) a legal advice given to a Minister or a Department, or a prescribed authority (within the meaning of the Ombudsman Act 1976);
+
+(ii) a communication between an officer of a Department or of a prescribed authority (within the meaning of the Ombudsman Act 1976) and another person or body, being a communication protected against disclosure by legal professional privilege.
+
+(2) However, if the person is a natural person:
+
+(a) the information, the answer, or the fact that the person has given access to the document, as the case may be; and
+
+(b) any information or thing (including a document) obtained as a direct or indirect consequence of giving the information, answering the question or giving access to the document;
+
+are not admissible in evidence against the person except in a proceeding by way of a prosecution for an offence against section 3ZZHA or against Part 7.4 or 7.7 of the Criminal Code.
+
+(3) Nothing in section 3ZZHA or any other law prevents a staff member of an eligible agency from:
+
+(a) giving information to the Ombudsman or an inspecting officer (whether orally or in writing and whether or not in answer to a question); or
+
+(b) giving access to a record of the agency to the Ombudsman or an inspecting officer;
+
+for the purposes of an inspection under this Division of the agency’s records.
+
+(4) Nothing in section 3ZZHA or any other law prevents a staff member of an eligible agency from making a record of information, or causing a record of information to be made, for the purposes of giving the information to a person as permitted by subsection (3).
+
+(5) The fact that a person is not excused under subsection (1) from giving information, answering a question or producing a document does not otherwise affect a claim of legal professional privilege that anyone may make in relation to that information, answer or document.
