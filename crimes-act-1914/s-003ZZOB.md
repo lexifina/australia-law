@@ -12,7 +12,7 @@ Issue of warrant
 
 (b) having regard to:
 
-(i) one or more of the matters set out in paragraphs (4)(a) to (f), and the matter set out in paragraph (4)(g); and
+(i) one or more of the matters set out in paragraphs (4)(a) to (c), and the matter set out in paragraph (4)(g); and
 
 (ii) such other matters (if any) as the issuing officer considers relevant;
 

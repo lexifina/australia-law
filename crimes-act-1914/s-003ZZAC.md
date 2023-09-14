@@ -74,7 +74,7 @@ State or Territory law enforcement agency means:
 
 (g) the Corruption and Crime Commission established by the Corruption and Crime Commission Act 2003 (WA); or
 
-(h) the Independent Commissioner Against Corruption established by the Independent Commissioner Against Corruption Act 2012 (SA); or
+(h) the Independent Commission Against Corruption established by the Independent Commission Against Corruption Act 2012 (SA); or
 
 (i) the Integrity Commission established by the Integrity Commission Act 2009 (Tas.).
 

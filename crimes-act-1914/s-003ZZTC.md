@@ -56,7 +56,7 @@ Purposes
 
 (h) the performance of a function or duty, or the exercise of a power, by a person, court, tribunal or other body under, or in relation to a matter arising under, Part 2 of the Terrorism (Extraordinary Temporary Powers) Act 2006 (ACT), so far as the function, duty or power relates to a preventative detention order (within the meaning of that Part); or
 
-(i) the performance of a function or duty, or the exercise of a power, by a person, court, tribunal or other body under, or in relation to a matter arising under, Part 2B of the Terrorism (Emergency Powers) Act (NT), so far as the function, duty or power relates to a preventative detention order (within the meaning of that Part).
+(i) the performance of a function or duty, or the exercise of a power, by a person, court, tribunal or other body under, or in relation to a matter arising under, Part 2B of the Terrorism (Emergency Powers) Act 2003 (NT), so far as the function, duty or power relates to a preventative detention order (within the meaning of that Part).
 
 Definition
 

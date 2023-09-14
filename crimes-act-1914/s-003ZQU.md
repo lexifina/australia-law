@@ -96,4 +96,4 @@ State or Territory law enforcement agency means:
 
 (g) the Corruption and Crime Commission of Western Australia; or
 
-(h) the Independent Commissioner Against Corruption of South Australia.
+(h) the Independent Commission Against Corruption of South Australia.
