@@ -26,6 +26,32 @@ The amendments of sections 32 and 40 of the new Credit Code made by Schedule 1 t
 
 The amendments of sections 72, 73, 74 and 88 of the new Credit Code made by Schedule 1 to the amending Act apply in relation to credit contracts made on or after the commencement of that Schedule.
 
+5A Sections 72 and 73 of the new Credit Code
+
+Item applies to credit contracts and consumer leases entered into before 1 March 2013
+
+(1) This item applies in relation to a credit provider and a debtor under a credit contract (within the meaning of the new Credit Code):
+
+(a) entered into before 1 March 2013; and
+
+(b) for which the debtor applied to the credit provider in accordance with former subsections 72(1) and (2) of the new Credit Code (as in force before 1 March 2013).
+
+(2) This item also applies in relation to a lessor and a lessee under a consumer lease (within the meaning of the new Credit Code):
+
+(a) entered into before 1 March 2013; and
+
+(b) for which the lessee applied to the lessor in accordance with former subsections 72(1) and (2), and former section 177, of the new Credit Code (as in force before 1 March 2013);
+
+in a corresponding way to the way this item applies to a credit provider and debtor under a credit contract.
+
+Note: Former section 177 of the new Credit Code (as in force before 1 March 2013) has the effect that former sections 72 and 73 of that Code apply to consumer leases in the same way as they apply to credit contracts.
+
+Notice requirements for changes to a credit contract or a consumer lease on grounds of hardship do not apply in certain circumstances
+
+(4) Former subsection 72(3) of the new Credit Code (as in force before 1 March 2013) does not apply if the credit provider and the debtor agree to a change to the credit contract that defers or otherwise reduces the obligations of the debtor under that contract for a period not exceeding 90 days.
+
+(5) Former subsection 73(1) of the new Credit Code (as in force before 1 March 2013) does not apply if the credit provider and the debtor agree to a change to the credit contract that defers or otherwise reduces the obligations of the debtor under that contract for a period not exceeding 90 days.
+
 6 Section 89A of the new Credit Code
 
 Section 89A of the new Credit Code, as inserted by Schedule 1 to the amending Act, applies in relation to credit contracts, mortgages and guarantees entered into on or after the commencement of that Schedule.
