@@ -1,0 +1,5 @@
+An Act relating to discrimination on the ground of sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy, potential pregnancy, breastfeeding or family responsibilities, and relating to discrimination involving sexual harassment, harassment on the ground of sex or hostile workplace environments
+
+Recognising the need to prohibit, so far as is possible, discrimination against people on the ground of sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities in the areas of work, accommodation, education, the provision of goods, facilities and services, the disposal of land, the activities of clubs and the administration of Commonwealth laws and programs:
+
+Affirming that every individual is equal before and under the law, and has the right to the equal protection and equal benefit of the law, without discrimination on the ground of sex, sexual orientation, gender identity, intersex status, marital or relationship status, pregnancy or potential pregnancy, breastfeeding or family responsibilities:
