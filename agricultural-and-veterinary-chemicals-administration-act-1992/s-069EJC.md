@@ -1,0 +1,5 @@
+# 69EJC Conduct contravening more than one civil penalty provision
+
+(1) If conduct constitutes a contravention of 2 or more civil penalty provisions, proceedings may be instituted under this Division against a person in relation to the contravention of any one or more of those provisions.
+
+(2) However, the person is not liable to more than one pecuniary penalty under this Division in relation to the same conduct.

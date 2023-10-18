@@ -1,0 +1,9 @@
+# 69EHC Authority of warrant
+
+(1) A form of warrant duly completed under subsection 69EHB(6) is authority for the same powers as are authorised by the warrant signed by the magistrate under subsection 69EHB(4).
+
+(2) In any proceedings, a court is to assume (unless the contrary is proved) that an exercise of power was not authorised by a warrant under section 69EHB if:
+
+(a) it is material, in those proceedings, for the court to be satisfied that the exercise of power was authorised by that section; and
+
+(b) the warrant signed by the inspector authorising the exercise of the power is not produced in evidence.

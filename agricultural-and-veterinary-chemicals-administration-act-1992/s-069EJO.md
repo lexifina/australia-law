@@ -1,0 +1,19 @@
+# 69EJO State of mind
+
+(1) In proceedings for a civil penalty order against a person for a contravention of a civil penalty provision, it is not necessary to prove:
+
+(a) the person’s intention; or
+
+(b) the person’s knowledge; or
+
+(c) the person’s recklessness; or
+
+(d) the person’s negligence; or
+
+(e) any other state of mind of the person.
+
+(2) Subsection (1) does not apply to the extent that the proceedings relate to a contravention of subsection 69EJM(1) (which is about ancillary contraventions of civil penalty provisions).
+
+(3) Subsection (1) does not affect the operation of section 69EJN (which is about mistake of fact).
+
+(4) Subsection (1) does not apply to the extent that the civil penalty provision, or a provision that relates to the civil penalty provision, expressly provides otherwise.

@@ -1,0 +1,7 @@
+# 69EEA Completing execution of an investigation warrant stopped by court order
+
+An inspector, and any persons assisting, may complete the execution of an investigation warrant that has been stopped by an order of a court if:
+
+(a) the order is later revoked or reversed on appeal; and
+
+(b) the warrant is still in force when the order is revoked or reversed.

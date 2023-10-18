@@ -1,0 +1,3 @@
+# 69EJG Contravening a civil penalty provision is not an offence
+
+A contravention of a civil penalty provision is not an offence.

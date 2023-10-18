@@ -1,0 +1,33 @@
+## Subdivision B—Powers of inspectors to ask questions and seek production of documents
+
+# 69EAH Inspector may ask questions and seek production of documents
+
+(1) This section applies if an inspector enters premises for the purposes of determining whether:
+
+(a) this Act, or the Collection Act, has been, or is being, complied with; or
+
+(b) information provided under this Act, or the Collection Act, is correct; or
+
+(c) levy is payable under the Collection Act.
+
+(2) If the entry is authorised because the occupier of the premises consented to the entry, the inspector may ask the occupier to answer any questions, and produce any document, relating to:
+
+(a) the operation of this Act or the Collection Act; or
+
+(b) the information.
+
+(3) If the entry is authorised by a monitoring warrant, the inspector may require any person on the premises to answer any questions, and produce any document, relating to:
+
+(a) the operation of this Act or the Collection Act; or
+
+(b) the information.
+
+Offence
+
+(4) A person commits an offence if:
+
+(a) the person is subject to a requirement under subsection (3); and
+
+(b) the person fails to comply with the requirement.
+
+Penalty for contravention of this subsection: 50 penalty units.

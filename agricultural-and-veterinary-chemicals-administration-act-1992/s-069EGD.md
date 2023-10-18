@@ -1,0 +1,13 @@
+# 69EGD Disposal of things
+
+(1) The APVMA may dispose of a thing seized under an investigation warrant if:
+
+(a) an inspector has taken reasonable steps to return the thing to a person; and
+
+(b) either:
+
+(i) the inspector has been unable to locate the person; or
+
+(ii) the person has refused to take possession of the thing.
+
+(2) The APVMA may dispose of the thing in such manner as it considers appropriate.

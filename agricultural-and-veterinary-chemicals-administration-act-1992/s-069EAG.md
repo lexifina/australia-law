@@ -1,0 +1,3 @@
+# 69EAG Use of force in executing a monitoring warrant
+
+In executing a monitoring warrant, an inspector and a person assisting the inspector may use such force against things as is necessary and reasonable in the circumstances.

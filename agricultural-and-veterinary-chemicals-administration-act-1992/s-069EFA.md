@@ -1,0 +1,17 @@
+# 69EFA Occupier to provide inspector with facilities and assistance
+
+(1) The occupier of premises to which a warrant relates, or another person who apparently represents the occupier, must provide:
+
+(a) an inspector executing the warrant; and
+
+(b) any person assisting;
+
+with all reasonable facilities and assistance for the effective exercise of their powers.
+
+(2) A person commits an offence if:
+
+(a) the person is subject to subsection (1); and
+
+(b) the person fails to comply with that subsection.
+
+Penalty for contravention of this subsection: 30 penalty units.

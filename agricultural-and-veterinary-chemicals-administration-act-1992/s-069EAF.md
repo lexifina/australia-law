@@ -1,0 +1,27 @@
+# 69EAF Persons assisting inspectors
+
+Inspectors may be assisted by other persons
+
+(1) When exercising monitoring powers, an inspector may be assisted by other persons in exercising powers or performing functions or duties under this Part, if that assistance is necessary and reasonable. A person giving such assistance is a person assisting the inspector.
+
+Powers, functions and duties of a person assisting the inspector
+
+(2) A person assisting the inspector:
+
+(a) may enter the premises; and
+
+(b) may exercise powers and perform functions and duties under this Part for the purposes of assisting the inspector to determine whether:
+
+(i) this Act, or the Collection Act, has been, or is being, complied with; or
+
+(ii) information provided under this Act, or the Collection Act, is correct; or
+
+(iii) levy is payable under the Collection Act; and
+
+(c) must do so in accordance with a direction given to the person assisting by the inspector.
+
+(3) A power exercised by a person assisting the inspector as mentioned in subsection (2) is taken for all purposes to have been exercised by the inspector.
+
+(4) A function or duty performed by a person assisting the inspector as mentioned in subsection (2) is taken for all purposes to have been performed by the inspector.
+
+(5) If a direction is given under paragraph (2)(c) in writing, the direction is not a legislative instrument.

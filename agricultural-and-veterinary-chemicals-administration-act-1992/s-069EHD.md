@@ -1,0 +1,15 @@
+# 69EHD Offence relating to warrants by telephone, fax etc.
+
+An inspector must not:
+
+(a) state in a document that purports to be a form of warrant under section 69EHB the name of a magistrate unless that magistrate signed the warrant; or
+
+(b) state on a form of warrant under that section a matter that, to the inspector’s knowledge, departs in a material particular from the terms of the warrant signed by the magistrate under that section; or
+
+(c) purport to execute, or present to another person, a document that purports to be a form of warrant under that section that the inspector knows departs in a material particular from the terms of a warrant signed by a magistrate under that section; or
+
+(d) purport to execute, or present to another person, a document that purports to be a form of warrant under that section where the inspector knows that no warrant in the terms of the form of warrant has been completed and signed by a magistrate; or
+
+(e) give to a magistrate a form of warrant under that section that is not the form of warrant that the inspector purported to execute.
+
+Penalty: Imprisonment for 2 years.
