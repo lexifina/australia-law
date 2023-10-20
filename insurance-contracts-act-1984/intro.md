@@ -1,0 +1,1 @@
+An Act to reform and modernise the law relating to certain contracts of insurance so that a fair balance is struck between the interests of insurers, insureds and other members of the public and so that the provisions included in such contracts, and the practices of insurers in relation to such contracts, operate fairly, and for related purposes
