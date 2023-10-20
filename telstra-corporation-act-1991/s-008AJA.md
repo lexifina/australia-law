@@ -56,6 +56,6 @@
 
 charge has the same meaning as in the Corporations Act 2001.
 
-financial product has the same meaning as in Chapter 7 of the Corporations Act 2001.
+financial product has the same meaning as in Division 3 of Part 7.1 of the Corporations Act 2001.
 
-security has the same meaning as in Chapter 7 of the Corporations Act 2001.
+security has the same meaning as in subsection 92(5) of the Corporations Act 2001.
