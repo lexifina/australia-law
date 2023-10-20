@@ -34,7 +34,7 @@ designated company has the meaning given by item 2.
 
 Federal Court means the Federal Court of Australia.
 
-financial product has the same meaning as in Chapter 7 of the Corporations Act 2001.
+financial product has the same meaning as in Division 3 of Part 7.1 of the Corporations Act 2001.
 
 holding company has the meaning given by item 5.
 
@@ -236,7 +236,7 @@ Note: After the designated sale day, the Legislative Instruments Act 2003 was re
 
 (8) In this item:
 
-security has the same meaning as in Chapter 7 of the Corporations Act 2001.
+security has the same meaning as in subsection 92(5) of the Corporations Act 2001.
 
 7 Authorisation of borrowing—issue of sale-scheme hybrid securities
 
