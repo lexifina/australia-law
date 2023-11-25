@@ -12,7 +12,7 @@
 
 (iii) the Part 5.3 supervisory order is an interim control order that a court declares to be void;
 
-(iv) a court varies the Part 5.3 supervisory order by removing one or more obligations, prohibitions, restrictions or conditions imposed on the person by the order;
+(iv) a court varies the Part 5.3 supervisory order by removing one or more conditions imposed on the person by the order;
 
 a constable must not:
 

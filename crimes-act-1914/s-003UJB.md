@@ -10,7 +10,13 @@
 
 (c) the number of applications made under section 3UI for declarations that Commonwealth places are prescribed security zones;
 
-(d) the number of declarations made under section 3UJ that Commonwealth places are prescribed security zones.
+(d) the number of declarations made under section 3UJ that Commonwealth places are prescribed security zones;
+
+(e) the number of applications made by AFP police officers under section 3UEB for post-entry warrants;
+
+(f) the number of post-entry warrants issued under section 3UEB in response to applications made by AFP police officers;
+
+(g) the number of refusals to issue a post-entry warrant under section 3UEB in response to applications made by AFP police officers.
 
 (3) The Minister must cause copies of the report to be laid before each House of the Parliament within 15 sitting days of that House after the report is completed.
 
