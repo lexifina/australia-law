@@ -1,1 +1,1 @@
-An Act to determine the number of the Ministers of State
+An Act to provide for matters relating to Ministers of State and Executive Councillors, and for related purposes
