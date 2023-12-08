@@ -16,7 +16,7 @@ Use and sharing of thing or document by constable or Commonwealth officer
 
 (d) proceedings for the forfeiture of the thing under a law of the Commonwealth;
 
-(e) the performance of a function or duty, or the exercise of a power, by a person, court or other body under, or in relation to a matter arising under, Division 104, 105 or 105A of the Criminal Code;
+(e) the performance of a function or duty, or the exercise of a power, by a person, court or other body under, or in relation to a matter arising under, Division 104, 105, 105A or 395 of the Criminal Code;
 
 (f) investigating or resolving a complaint or an allegation of misconduct relating to an exercise of a power or the performance of a function or duty under this Part;
 
