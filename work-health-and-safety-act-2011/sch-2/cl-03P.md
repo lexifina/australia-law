@@ -1,0 +1,3 @@
+# 3P Other terms and conditions
+
+An Advisory Committee member holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Minister.
