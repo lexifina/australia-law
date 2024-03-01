@@ -1,0 +1,5 @@
+# 62ZOW Moratorium—effect of Insurance Act statutory management on annual general meeting
+
+(1) This section applies to a body corporate that is required under section 250N or section 601BR of the Corporations Act 2001 to hold an annual general meeting within a particular period.
+
+(2) Despite section 250N and section 601BR of that Act, if an Insurance Act statutory manager is in control of the body corporate’s business at the end of that period, the body corporate need not hold that annual general meeting.

@@ -1,0 +1,23 @@
+# 62ZOO Termination of Insurance Act statutory manager’s appointment
+
+(1) APRA may terminate the appointment of an administrator of a body corporate’s business and either appoint another person as administrator of the body corporate’s business or itself take control of the body corporate’s business if:
+
+(a) the administrator contravenes a requirement of this Division; or
+
+(b) APRA considers such action necessary to:
+
+(i) facilitate the resolution of the body corporate, a relevant group of bodies corporate of which the body corporate is a member, or another member of such a group; or
+
+(ii) if the body corporate is a general insurer—protect the interests of policyholders of the general insurer; or
+
+(iii) promote financial system stability in Australia.
+
+(2) If:
+
+(a) APRA is the statutory manager of a body corporate; and
+
+(b) the requirement in paragraph (1)(b) is satisfied;
+
+it may cease to be the statutory manager of the body corporate and appoint a person as administrator of the body corporate’s business.
+
+(3) This section has effect subject to section 62ZOC.
