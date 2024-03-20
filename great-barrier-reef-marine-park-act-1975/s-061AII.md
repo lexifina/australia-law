@@ -1,0 +1,3 @@
+# 61AII Civil proceedings after criminal proceedings
+
+The Federal Court must not make a declaration of contravention or a pecuniary penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is substantially the same as the conduct constituting the contravention.
