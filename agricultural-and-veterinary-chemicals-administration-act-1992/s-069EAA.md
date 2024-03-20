@@ -2,7 +2,7 @@
 
 In this Division:
 
-approved form means a form approved by the Secretary or prescribed by the regulations.
+approved form means a form approved by the Secretary.
 
 deal with, in relation to an active constituent for a proposed or existing chemical product, or in relation to a chemical product, includes supply or otherwise dispose of the constituent or product.
 
