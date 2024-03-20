@@ -1,0 +1,3 @@
+# 216 Publication of artistic works
+
+Section 68 does not apply in relation to a painting, drawing, engraving, photograph or cinematograph film made before the date of commencement of this Act, but the copyright in an artistic work is not infringed by the publication of a painting, drawing, engraving, photograph or cinematograph film made before that date if, by virtue of section 65 or section 66, the making of the painting, drawing, engraving, photograph or film would not have constituted an infringement of the copyright under this Act if this Act had been in operation at the time when it was made.

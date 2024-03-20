@@ -1,0 +1,7 @@
+# 195AXF Infringement by importation for sale or other dealing
+
+(1) A performer’s moral right in respect of a live performance or recorded performance is infringed by a person who imports an article into Australia for the purpose of dealing with the article if the importer knew, or ought reasonably to have known, that, if the article had been made in Australia, it would have been an infringing article.
+
+(2) In subsection (1):
+
+dealing with does not include distributing except where the proposed distribution is for the purposes of sale.
