@@ -1,0 +1,3 @@
+# 90YZM Deductions from splittable payment before calculating payment split
+
+Any deduction that the trustee is entitled to make from a splittable payment is to be deducted from the splittable payment before calculating any payment split and before applying section 90YZN.

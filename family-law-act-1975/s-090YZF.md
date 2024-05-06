@@ -1,0 +1,13 @@
+## Subdivision B—Notification of application
+
+# 90YZF Notifying third parties about application
+
+The Western Australian Rules of Court may specify the circumstances in which a person who:
+
+(a) applies for an order under this Division; or
+
+(b) is a party to a proceeding for an order under this Division;
+
+is to give notice of the application to a person who is not a party to the proceedings.
+
+Note: The Western Australian Rules of Court may, for example, make provision for the notification of a person married to, or in a de facto relationship with, the applicant or respondent to the proceedings.
