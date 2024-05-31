@@ -1,0 +1,11 @@
+# 14ZZL Implementation of ART decisions
+
+(1) When the decision of the ART on the review of a reviewable objection decision or an extension of time refusal decision becomes final, the Commissioner must, within 60 days, take such action, including amending any assessment or determination concerned, as is necessary to give effect to the decision.
+
+(2) For the purposes of subsection (1), if:
+
+(a) no appeal is lodged against the ART’s decision within the period for lodging an appeal; and
+
+(b) no application to refer a decision of the ART to the guidance and appeals panel is made within the period for making the application;
+
+the decision becomes final at the end of the period.
