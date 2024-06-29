@@ -1,0 +1,1 @@
+An Act to make provision in relation to the Salary of the Governor-General, and the Payment of Allowances to persons, and to the spouses of persons, who have held the office of Governor-General, to establish the office of Official Secretary to the Governor-General, to provide for the employment of staff of the Governor-General, and for related purposes
