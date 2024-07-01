@@ -4,7 +4,7 @@
 
 (2) For the purposes of subsection (1), the following decisions are decisions to which this subsection applies:
 
-(a) a decision under Part V refusing to grant a warehouse licence;
+(a) a decision under Part V refusing to grant a warehouse licence or refusing to grant a warehouse licence in relation to a particular place;
 
 (b) a decision under subsection 82(5) refusing to vary the conditions specified in a warehouse licence;
 
@@ -28,7 +28,7 @@ the Collector shall cause to be served, either personally or by post, on the own
 
 (5) Where a Collector makes a decision under section 126 refusing to allow the export of goods by a person, he or she shall cause to be served, either personally or by post, a notice in writing setting out the decision on the person.
 
-(7) A notice in accordance with section 86 to the holder of a warehouse licence shall state the ground or grounds on which the notice is given.
+(7) A notice under subsection 86(1AA) or (1AD) must state the ground or grounds on which the notice is given.
 
 (8) A notice under subsection 87(2) of the cancellation by the Comptroller-General of Customs of a warehouse licence shall set out the findings of the Comptroller-General of Customs on material questions of fact, refer to the evidence or other material on which those findings were based and give the reasons for the cancellation.
 
