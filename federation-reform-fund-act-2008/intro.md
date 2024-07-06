@@ -1,1 +1,1 @@
-An Act to establish the COAG Reform Fund, and for other purposes
+An Act to establish the Federation Reform Fund, and for other purposes
