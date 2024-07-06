@@ -878,7 +878,7 @@ NAMES(S) OF FISH CARRIER(S)_____________________
 
 FOR GROUP PURSE-SEINER_________________ | YEAR__________________ | MONTH_________________ | NUMBER OF CREW
 
-NOON OR SET POSITION | SKIPJACK | YELLOWFIN | OTHER SPECIES | DISCARDS
+NOON OR SET POSITION | SKIPJACK | YELLOWFIN | OTHER SPECIES | DISCARDS | Numerical expression of school type, comments, and reason for discard SCHOOL TYPE 1 Log 2 Surface 3 Whale 4 Porpoise 5 Raft 6 Other COMMENTS 1 A full day in transit between fishing grounds or to or from fishing grounds. 2 A full day not fishing due to breakdown. 3 A full day not fishing due to bad weather. 4 A full day searching for fish but no sets made. 5 Part of day searching for fish but no sets made. 6 Set unsuccessful for any reason, e.g. fish dive, roll up. REASON FOR DISCARD 1 Undesirable species 2 Fish too small 3 Vessel completely loaded 4 Other reason—please specify
 
 DAY | LAT | LONG
 
@@ -1056,7 +1056,7 @@ Application is hereby made for a licence authorising the use of the vessel named
 
 ....................................................
 
-...................... .........................
+...................... ...........................
 
 Date of application | Director of the Southwest Region National Marine Fisheries Service National Oceanic and Atmospheric Administration
 
