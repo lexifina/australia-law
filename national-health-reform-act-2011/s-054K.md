@@ -1,0 +1,7 @@
+# 54K Disclosure with consent
+
+An official of the Commission may disclose protected Commission information that relates to the affairs of a person if:
+
+(a) the person has consented to the disclosure; and
+
+(b) the disclosure is in accordance with that consent.
