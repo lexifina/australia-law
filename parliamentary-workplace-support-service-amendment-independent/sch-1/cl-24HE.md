@@ -1,0 +1,25 @@
+# 24HE Claims for protection
+
+(1) If, in civil or criminal proceedings (the primary proceedings) instituted against a person in a court, the person makes a claim (relevant to the proceedings) that, because of section 24HB, the person is not subject to any civil, criminal or administrative liability for making a particular disclosure:
+
+(a) the person bears the onus of adducing or pointing to evidence that suggests a reasonable possibility that the claim is made out; and
+
+(b) if the person discharges that onus—the party instituting the primary proceedings against the person bears the onus of proving that the claim is not made out; and
+
+(c) the court must deal with the claim in separate proceedings; and
+
+(d) the court must adjourn the primary proceedings until the claim has been dealt with; and
+
+(e) none of the following:
+
+(i) any admission made by the person in the separate proceedings;
+
+(ii) any information given by the person in the separate proceedings;
+
+(iii) any other evidence adduced by the person in the separate proceedings;
+
+is admissible in evidence against the person except in proceedings in respect of the falsity of the admission, information or evidence; and
+
+(f) if the person or another person gives evidence in the separate proceedings in support of the claim—giving that evidence does not amount to a waiver of privilege for the purposes of the primary proceedings or any other proceedings.
+
+(2) To avoid doubt, a right under section 126K of the Evidence Act 1995 not to be compelled to give evidence is a privilege for the purposes of paragraph (1)(f) of this section.
