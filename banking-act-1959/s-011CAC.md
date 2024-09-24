@@ -1,0 +1,45 @@
+# 11CAC Conversion or write-off etc. not grounds for denial of obligations
+
+(1) This section applies if an entity (the first entity) is party to a contract, whether the proper law of the contract is:
+
+(a) Australian law (including the law of a State or Territory); or
+
+(b) law of a foreign country (including the law of part of a foreign country).
+
+(2) None of the matters mentioned in subsection (3) allows the contract, or a party to the contract (other than the first entity), to do any of the following:
+
+(a) deny any obligation under the contract;
+
+(b) accelerate any debt under the contract;
+
+(c) close out any transaction relating to the contract;
+
+(d) enforce any security under the contract.
+
+(3) The matters are as follows:
+
+(a) a relevant instrument being converted in accordance with the terms of the instrument;
+
+(b) a relevant instrument being written off in accordance with the terms of the instrument;
+
+(c) the making of a determination (however described) by APRA that results in a relevant instrument being required to be converted or written off in accordance with the terms of the instrument.
+
+(4) In this section:
+
+relevant instrument means:
+
+(a) an instrument to which section 11CAB applies:
+
+(i) that is issued by the first entity; or
+
+(ii) to which the first entity is a party; or
+
+(iii) for which the first entity is a conversion entity; or
+
+(b) if the first entity is a body corporate that is a member of a relevant group of bodies corporate—an instrument to which section 11CAB applies:
+
+(i) that is issued by another member of the group; or
+
+(ii) to which another member of the group is a party; or
+
+(iii) for which another member of the group is a conversion entity.

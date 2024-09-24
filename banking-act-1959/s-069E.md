@@ -1,0 +1,15 @@
+# 69E Compensation for acquisition of property
+
+(1) If:
+
+(a) apart from this section, the operation of this Act would result in the acquisition of property from a person otherwise than on just terms; and
+
+(b) the acquisition would be invalid because of paragraph 51(xxxi) of the Constitution;
+
+the Commonwealth is liable to pay to the person compensation of a reasonable amount as agreed on between the Commonwealth and the person. If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia for the recovery from the Commonwealth of such reasonable amount of compensation as the Court determines.
+
+(2) Any damages or compensation recovered or other remedy given in a proceeding that is commenced otherwise than under this section is to be taken into account in assessing compensation payable in a proceeding that is commenced under this section and that arises out of the same event or transaction.
+
+(3) In this section:
+
+acquisition of property and just terms have the same respective meanings as in paragraph 51(xxxi) of the Constitution.
