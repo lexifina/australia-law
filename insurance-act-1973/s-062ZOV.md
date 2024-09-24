@@ -18,4 +18,4 @@ Note: The Federal Court may grant an injunction under section 129D in respect of
 
 (2) In this section:
 
-essential service has the same meaning as in section 600F of the Corporations Act 2001.
+essential service has the same meaning as in the Corporations Act 2001.
