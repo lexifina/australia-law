@@ -612,11 +612,11 @@ the entity may, at any time, give the review body written notice that the entity
 
 29 Administrative review of certain decisions
 
-(1) An application may be made to the Administrative Appeals Tribunal for review of a decision made or taken to have been made by ASIC or the Minister under item 28.
+(1) An application may be made to the Administrative Review Tribunal for review of a decision made or taken to have been made by ASIC or the Minister under item 28.
 
 (2) The application may be made by any entity who could have lodged an application under subitem 28(1) in relation to the decision in relation to which the decision under item 28 was made or taken to have been made.
 
-(3) An application may be made to the Administrative Appeals Tribunal for review of a decision made personally by the Minister to cancel the registration of a business name to an entity under subitem 11(4).
+(3) An application may be made to the Administrative Review Tribunal for review of a decision made personally by the Minister to cancel the registration of a business name to an entity under subitem 11(4).
 
 (4) The application may be made by the entity.
 
