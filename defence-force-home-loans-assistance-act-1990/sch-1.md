@@ -378,8 +378,6 @@ The Bank agrees to pay to the Commonwealth:
 
 (b) for each of the periods set out in Column 1 of Schedule A a payment calculated in accordance with the following formula:
 
-P = (a—b) c
-
 Where
 
 P = the payment due to the Commonwealth;
