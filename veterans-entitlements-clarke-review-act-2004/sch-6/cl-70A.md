@@ -31,11 +31,3 @@ Note 1: After the MRCA commencement date, compensation is provided under the MRC
 Note 2: The other members (or former members) of the Defence Force mentioned in subsection (2) are or were also members of a Peacekeeping Force.
 
 (3) To avoid doubt, service is rendered before, and on or after, the MRCA commencement date whether the service spans the commencement date or is rendered during separate periods before and on or after that date.
-
-[Minister’s second reading speech made in—
-
-House of Representatives on 1 April 2004
-
-Senate on 13 May 2004]
-
-(48/04)
