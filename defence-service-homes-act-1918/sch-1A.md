@@ -94,7 +94,7 @@ Unit Fee— | means the fee payable by the Bank to the Commonwealth for each Var
 
 Unit Fee Claim Period— | means the twelve month period immediately preceding the date of the invoice referred to in Sub-clause 3.3. of this Supplementary Agreement and, for the period preceding 1 May 1991, the period between the date of execution of this Supplementary Agreement and 1 May 1991.
 
-Variation Advance— | means— (a) (i)a Subsidised Advance made by the Bank in accordance with a Certificate of Entitlement issued under Subsection 18(2)(g), (h), (j) and (k) of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990;
+Variation Advance— | means— (a) (i) a Subsidised Advance made by the Bank in accordance with a Certificate of Entitlement issued under Subsection 18(2)(g), (h), (j) and (k) of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990;
 
 (ii) a Subsidised Advance made by the Bank in accordance with a Certificate of Entitlement relating to a person’s retirement village accommodation or right of residence in a retirement village issued under Subsection 18(3)(a)(ii), (d)(ii) and (f), Subsection 20(2)(a) and (b) and Subsection 21(c) of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990; and (b) a Further Advance made by the Bank in accordance with a Certificate of Entitlement issued under Section 19 of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990 to a person who is or was a purchaser or borrower in relation to a Corporation advance, a Subsidised Advance or a Contract of Sale on 9 December 1987.
 
