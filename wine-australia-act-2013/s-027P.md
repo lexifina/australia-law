@@ -1,0 +1,3 @@
+# 27P Disclosure of interests to the Minister
+
+A member of the Authority Selection Committee must give written notice to the Minister of all interests, pecuniary or otherwise, that the member has or acquires and that conflict or could conflict with the proper performance of the member’s functions.
