@@ -88,7 +88,7 @@ FLAG STATE RESPONSIBILITY
 
 5. (a) No Party shall authorize any fishing vessel previously registered in the territory of another Party that has undermined the effectiveness of international conservation and management measures to be used for fishing on the high seas, unless it is satisfied that
 
-(i) any period of suspension by another Party of an authorization for such fishing vessel to be used for fishing on the high seas has expired; and
+any period of suspension by another Party of an authorization for such fishing vessel to be used for fishing on the high seas has expired; and
 
 (ii) no authorization for such fishing vessel to be used for fishing on the high seas has been withdrawn by another Party within the last three years.
 
