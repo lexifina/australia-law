@@ -32,6 +32,6 @@ the eligible issuing officer may issue a delayed notification search warrant in 
 
 (g) the outcome, so far as known to the eligible issuing officer, of any previous application, in respect of the main premises, for a warrant under this Part or Division 2 of Part IAA.
 
-(3) An eligible issuing officer of the Federal Court of Australia or the Administrative Appeals Tribunal may issue a delayed notification search warrant in relation to premises located anywhere in the Commonwealth or an external Territory.
+(3) An eligible issuing officer of the Federal Court of Australia or the Administrative Review Tribunal may issue a delayed notification search warrant in relation to premises located anywhere in the Commonwealth or an external Territory.
 
 (4) An eligible issuing officer of the Supreme Court of a State or Territory may issue a delayed notification search warrant only in relation to premises located in that State or Territory.

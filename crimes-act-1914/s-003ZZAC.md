@@ -40,7 +40,7 @@ executing officer, in relation to a delayed notification search warrant, means:
 
 inspecting officer means a person appointed under subsection 3ZZGA(1).
 
-nominated AAT member means a person in relation to whom a nomination is in force under section 3ZZAF.
+nominated ART member means a person in relation to whom a nomination is in force under section 3ZZAF.
 
 person assisting, in relation to a delayed notification search warrant, means:
 

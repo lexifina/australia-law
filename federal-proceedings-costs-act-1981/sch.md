@@ -16,4 +16,4 @@ Supreme Court of a Territory | 3000
 
 other court of a Territory | 1000
 
-Administrative Appeals Tribunal | 2000
+Administrative Review Tribunal | 2000
