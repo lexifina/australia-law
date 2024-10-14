@@ -1,0 +1,21 @@
+# 165-10 Special rules for objection decisions or extension of time refusal decisions
+
+(1) Sections 17 (who can apply) and 18 (when to apply—general rule) of the ART Act do not apply in relation to:
+
+(a) an objection decision; or
+
+(b) an extension of time refusal decision.
+
+(2) The President of the ART may allow a longer period to make an application to refer a decision of the ART on the review of an objection decision or an extension of time refusal decision to the guidance and appeals panel under section 125 (when to apply to refer Tribunal decision) of the ART Act only if the period for making the application has not expired.
+
+(3) If the President of the ART decides to allow a longer period under section 125 of the ART Act (as modified by subsection (2) of this section), the President of the ART must notify the Commissioner as soon as practicable after making the decision.
+
+(4) Section 32 (reviewable decision continues to operate unless Tribunal orders otherwise) of the ART Act does not apply in relation to:
+
+(a) an objection decision; or
+
+(b) an extension of time refusal decision.
+
+(5) Section 127 (Tribunal decision continues to operate unless Tribunal orders otherwise) of the ART Act does not apply in relation to an objection decision or an extension of time refusal decision.
+
+(6) Section 178 (operation and implementation of Tribunal’s decision) of the ART Act does not apply in relation to an objection decision.
