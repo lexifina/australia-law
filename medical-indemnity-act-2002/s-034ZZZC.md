@@ -22,9 +22,9 @@ the person is liable to pay a late payment penalty under this section.
 
 (3) The Chief Executive Medicare may remit the whole or a part of an amount of late payment penalty if the Chief Executive Medicare considers that there are good reasons for doing so.
 
-(4) Applications may be made to the Administrative Appeals Tribunal for review of decisions of the Chief Executive Medicare not to remit, or to remit only part of, an amount of late payment penalty.
+(4) Applications may be made to the Administrative Review Tribunal for review of decisions of the Chief Executive Medicare not to remit, or to remit only part of, an amount of late payment penalty.
 
-Note: Section 27A of the Administrative Appeals Tribunal Act 1975 requires notification of a decision that is reviewable.
+Note: Section 266 of the Administrative Review Tribunal Act 2024 requires notification of a decision that is reviewable.
 
 (5) If:
 

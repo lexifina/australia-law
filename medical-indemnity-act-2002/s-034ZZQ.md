@@ -34,11 +34,11 @@ Effect of variation
 
 the amount of the excess is an amount overpaid to which section 41 applies.
 
-AAT review of decision to revoke or vary
+ART review of decision to revoke or vary
 
-(6) Applications may be made to the Administrative Appeals Tribunal for review of decisions of the Chief Executive Medicare to revoke or vary a qualifying allied health claim certificate.
+(6) Applications may be made to the Administrative Review Tribunal for review of decisions of the Chief Executive Medicare to revoke or vary a qualifying allied health claim certificate.
 
-Note: Section 27A of the Administrative Appeals Tribunal Act 1975 requires notification of a decision that is reviewable.
+Note: Section 266 of the Administrative Review Tribunal Act 2024 requires notification of a decision that is reviewable.
 
 Chief Executive Medicare to give applicant copy of varied certificate
 

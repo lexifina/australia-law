@@ -76,4 +76,4 @@ Retention requirements for masters and owners of Australian ships
 
 (b) give the owner of the ship written notice of the decision including, in the case of a refusal, the reasons for the refusal.
 
-(8) An application may be made to the Administrative Appeals Tribunal for review of a decision of the Authority under subsection (7) to refuse to approve a place.
+(8) An application may be made to the Administrative Review Tribunal for review of a decision of the Authority under subsection (7) to refuse to approve a place.

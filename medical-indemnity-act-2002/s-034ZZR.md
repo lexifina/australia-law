@@ -70,12 +70,12 @@ What if the insurer is a Chapter 5 body corporate?
 
 (b) a reference in subsection (5) to an amount that an insurer is liable to pay in the ordinary course of the insurer’s business is a reference to an amount that the insurer is liable to pay, and would be able to pay in the ordinary course of the insurer’s business if it were not a Chapter 5 body corporate.
 
-AAT review of decision to refuse, or to pay a particular amount of indemnity
+ART review of decision to refuse, or to pay a particular amount of indemnity
 
-(7) Applications may be made to the Administrative Appeals Tribunal for review of the following decisions of the Chief Executive Medicare:
+(7) Applications may be made to the Administrative Review Tribunal for review of the following decisions of the Chief Executive Medicare:
 
 (a) a decision to refuse an application for allied health exceptional claims indemnity;
 
 (b) a decision to pay a particular amount of allied health exceptional claims indemnity.
 
-Note: Section 27A of the Administrative Appeals Tribunal Act 1975 requires notification of a decision that is reviewable.
+Note: Section 266 of the Administrative Review Tribunal Act 2024 requires notification of a decision that is reviewable.

@@ -84,11 +84,11 @@ Matters to be identified or specified in certificate
 
 The certificate may also contain other material.
 
-AAT review of decision to refuse
+ART review of decision to refuse
 
-(5) Applications may be made to the Administrative Appeals Tribunal for review of decisions of the Chief Executive Medicare to refuse to issue a qualifying allied health claim certificate.
+(5) Applications may be made to the Administrative Review Tribunal for review of decisions of the Chief Executive Medicare to refuse to issue a qualifying allied health claim certificate.
 
-Note: Section 27A of the Administrative Appeals Tribunal Act 1975 requires notification of a decision that is reviewable.
+Note: Section 266 of the Administrative Review Tribunal Act 2024 requires notification of a decision that is reviewable.
 
 Chief Executive Medicare to give applicant copy of certificate
 
