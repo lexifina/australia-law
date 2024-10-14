@@ -1,0 +1,3 @@
+# 18MZD Immunity of magistrates
+
+A magistrate exercising a power mentioned in subsection 18MZC(1) has the same protection and immunity as if he or she were exercising that power as, or as a member of, the court of which the magistrate is a member.

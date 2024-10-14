@@ -1,0 +1,29 @@
+# 18GCA Letting for hire or loaning unverified measuring instruments
+
+Offence requiring fault element
+
+(1) A person commits an offence if:
+
+(a) the person lets for hire, or loans, a measuring instrument; and
+
+(b) the measuring instrument is let, or loaned, for use for trade; and
+
+(c) the measuring instrument is not verified.
+
+Penalty: 200 penalty units.
+
+Strict liability offence
+
+(2) A person commits an offence if:
+
+(a) the person lets for hire, or loans, a measuring instrument; and
+
+(b) the measuring instrument is let, or loaned, for use for trade; and
+
+(c) the measuring instrument is not verified.
+
+Penalty: 40 penalty units.
+
+(3) Subsection (2) is an offence of strict liability.
+
+Note: For strict liability, see section 6.1 of the Criminal Code.
