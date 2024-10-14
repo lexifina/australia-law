@@ -1,0 +1,17 @@
+# 42YKE Effect of this Part
+
+This Part does not:
+
+(a) require an infringement notice to be given to a person for an alleged contravention of a provision of this Act or the regulations that is an offence of strict liability or an alleged contravention of a civil penalty provision; or
+
+(b) affect the liability of a person for an alleged contravention of a provision of this Act or the regulations that is an offence of strict liability or an alleged contravention of a civil penalty provision if:
+
+(i) the person does not comply with an infringement notice given to the person for the contravention; or
+
+(ii) an infringement notice is not given to the person for the contravention; or
+
+(iii) an infringement notice is given to the person for the contravention and is subsequently withdrawn; or
+
+(c) prevent the giving of 2 or more infringement notices to a person for an alleged contravention of a provision of this Act or the regulations that is an offence of strict liability or an alleged contravention of a civil penalty provision; or
+
+(d) limit a court’s discretion to determine the amount of a penalty to be imposed on a person who is found to have contravened a provision of this Act or the regulations that is an offence of strict liability or to have contravened a civil penalty provision.

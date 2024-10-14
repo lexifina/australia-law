@@ -1,0 +1,15 @@
+# 42DZH Civil penalty—giving false or misleading information or document in compliance with a notice
+
+A person contravenes this section if:
+
+(a) the person is given a notice under subsection 42DZF(1) or (2); and
+
+(b) the person gives information or produces a document in compliance or purported compliance with the notice; and
+
+(c) the information or document is false or misleading in a material particular.
+
+Maximum civil penalty:
+
+(a) for an individual—5,000 penalty units; and
+
+(b) for a body corporate—50,000 penalty units.

@@ -1,0 +1,9 @@
+# 6AAD Conferral of jurisdiction on federal courts
+
+If:
+
+(a) a provision of a corresponding State law purports to apply a provision of a law of the Commonwealth (the applied provision) as a law of the State; and
+
+(b) the applied provision purports to confer jurisdiction in relation to a matter on a federal court;
+
+the jurisdiction in relation to that matter is taken to be conferred on the court by this section.
