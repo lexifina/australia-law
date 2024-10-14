@@ -202,7 +202,7 @@ Article 18
 
 Article 19
 
-1. This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty first instrument of ratification, acceptance or approval with the depositary.**
+1. This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty first instrument of ratification, acceptance or approval with the depositary.*
 
 2. For each State ratifying, accepting, approving or acceding to the Convention after the date of deposit of the twenty first instrument of ratification, acceptance or approval, the Convention shall enter into force on the thirtieth day after the deposit by such State of its instrument of ratification, acceptance, approval or accession.
 

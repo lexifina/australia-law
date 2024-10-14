@@ -528,7 +528,7 @@ Article 65
 
 Inventory change reports shall specify identification and batch data for each batch of nuclear material, the date of the inventory change and, as appropriate, the originating material balance area and the receiving material balance area or the recipient. These reports shall be accompanied by concise notes:
 
-(a) Explaining the inventory changes, on the basis of the operating data contained in the operating records provided for under Article 59 (a); and
+(a) Explaining the inventory changes, on the basis of the operating data contained in the operating records provided for under Article 59(a); and
 
 (b) Describing, as specified in the Subsidiary Arrangements, the anticipated operational programme, particularly the taking of a physical inventory.
 
@@ -660,9 +660,9 @@ Access for inspections
 
 Article 77
 
-(a) For the purposes specified in Article 72 (a) and (b) and until such time as the strategic points have been specified in the Subsidiary Arrangements, the Agency inspectors shall have access to any location where the initial report or any inspections carried out in connection with it indicate that nuclear material is present;
+(a) For the purposes specified in Article 72(a) and (b) and until such time as the strategic points have been specified in the Subsidiary Arrangements, the Agency inspectors shall have access to any location where the initial report or any inspections carried out in connection with it indicate that nuclear material is present;
 
-(b) For the purposes specified in Article 72 (c) the inspectors shall have access to any location of which the Agency has been notified pursuant to Articles 93 (d) (iii) or 96 (d) (iii);
+(b) For the purposes specified in Article 72(c) the inspectors shall have access to any location of which the Agency has been notified pursuant to Articles 93(d)(iii) or 96(d)(iii);
 
 (c) For the purposes specified in Article 73 the inspectors shall have access only to the strategic points specified in the Subsidiary Arrangements and to the records maintained pursuant to Articles 52 to 59; and
 
@@ -692,9 +692,9 @@ The number, intensity, duration, timing and mode of routine inspections in respe
 
 (a) For reactors and sealed storage installations the maximum total of routine inspection per year shall be determined by allowing one sixth of a man-year of inspection for each such facility;
 
-(b) For facilities, other than reactors or sealed storage installations, involving plutonium or uranium enriched to more than 5%, the maximum total of routine inspection per year shall be determined by allowing for each such facility 30E man-days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms. The maximum established for any such facility shall not, however, be less than 1.5 man-years of inspection; and
+(b) For facilities, other than reactors or sealed storage installations, involving plutonium or uranium enriched to more than 5%, the maximum total of routine inspection per year shall be determined by allowing for each such facility 30×E man-days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms. The maximum established for any such facility shall not, however, be less than 1.5 man-years of inspection; and
 
-(c) For facilities not covered by paragraphs (a) or (b), the maximum total of routine inspection per year shall be determined by allowing for each such facility one third of a man-year of inspection plus 0.4E man-days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms.
+(c) For facilities not covered by paragraphs (a) or (b), the maximum total of routine inspection per year shall be determined by allowing for each such facility one third of a man-year of inspection plus 0.4×E man-days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms.
 
 Australia and the Agency may agree to amend the figures for the maximum inspection effort specified in this Article, upon determination by the Board that such amendment is reasonable.
 
@@ -722,17 +722,17 @@ Article 84
 
 The Agency shall give advance notice to Australia before arrival of inspectors at facilities or material balance areas outside facilities, as follows:
 
-(a) For ad hoc inspections pursuant to Article 72 (c), at least 24 hours; for those pursuant to Article 72 (a) and (b) as well as the activities provided for in Article 49, at least one week;
+(a) For ad hoc inspections pursuant to Article 72(c), at least 24 hours; for those pursuant to Article 72(a) and (b) as well as the activities provided for in Article 49, at least one week;
 
 (b) For special inspections pursuant to Article 74, as promptly as possible after the Agency and Australia have consulted as provided for in Article 78, it being understood that notification of arrival normally will constitute part of the consultations; and
 
-(c) For routine inspections pursuant to Article 73, at least 24 hours in respect of the facilities referred to in Article 81 (b) and sealed storage installations containing plutonium or uranium enriched to more than 5%, and one week in all other cases.
+(c) For routine inspections pursuant to Article 73, at least 24 hours in respect of the facilities referred to in Article 81(b) and sealed storage installations containing plutonium or uranium enriched to more than 5%, and one week in all other cases.
 
 Such notice of inspections shall include the names of the inspectors and shall indicate the facilities and the material balance areas outside facilities to be visited and the periods during which they will be visited. If the inspectors are to arrive from outside Australia the Agency shall also give advance notice of the place and time of their arrival in Australia.
 
 Article 85
 
-Notwithstanding the provisions of Article 84, the Agency may, as a supplementary measure, carry out without advance notification a portion of the routine inspections pursuant to Article 81 in accordance with the principle of random sampling. In performing any unannounced inspections, the Agency shall fully take into account any operational programme provided by Australia pursuant to Article 65 (b). Moreover, whenever practicable, and on the basis of the operational programme, it shall advise Australia periodically of its general programme of announced and unannounced inspections, specifying the general periods when inspections are foreseen. In carrying out any unannounced inspections, the Agency shall make every effort to minimize any practical difficulties for Australia and for facility operators, bearing in mind the relevant provisions of Articles 45 and 90. Similarly Australia shall make every effort to facilitate the task of the inspectors.
+Notwithstanding the provisions of Article 84, the Agency may, as a supplementary measure, carry out without advance notification a portion of the routine inspections pursuant to Article 81 in accordance with the principle of random sampling. In performing any unannounced inspections, the Agency shall fully take into account any operational programme provided by Australia pursuant to Article 65(b). Moreover, whenever practicable, and on the basis of the operational programme, it shall advise Australia periodically of its general programme of announced and unannounced inspections, specifying the general periods when inspections are foreseen. In carrying out any unannounced inspections, the Agency shall make every effort to minimize any practical difficulties for Australia and for facility operators, bearing in mind the relevant provisions of Articles 45 and 90. Similarly Australia shall make every effort to facilitate the task of the inspectors.
 
 Designation of inspectors
 
