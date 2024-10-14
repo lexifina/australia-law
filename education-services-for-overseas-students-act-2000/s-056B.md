@@ -1,0 +1,5 @@
+# 56B Presiding at meetings
+
+(1) The Chair must preside at all meetings at which he or she is present.
+
+(2) If the Chair is not present at a meeting, the Deputy Chair must preside.
