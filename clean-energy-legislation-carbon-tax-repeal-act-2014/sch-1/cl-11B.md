@@ -1082,7 +1082,7 @@ Power to remit
 
 (2) The Regulator may remit the whole or a part of an amount payable under subitem (1).
 
-(3) Applications may be made to the Administrative Appeals Tribunal for review of decisions of the Regulator under subitem (2) to refuse to remit the whole or a part of an amount.
+(3) Applications may be made to the Administrative Review Tribunal for review of decisions of the Regulator under subitem (2) to refuse to remit the whole or a part of an amount.
 
 358 Recovery of levy and late payment penalty
 
