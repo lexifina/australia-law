@@ -2,7 +2,7 @@
 
 (1) This section applies to electronic equipment seized under this Part or moved under section 3K.
 
-(2) The electronic equipment may be operated at any location after it has been seized or moved, for the purpose of determining whether data that is evidential material is held on or accessible from the electronic equipment, and obtaining access to such data.
+(2) The electronic equipment may be operated at any location after it has been seized or moved, for the purpose of determining whether data that is evidential material, or whether data that suggests the existence of a digital asset that may be seized under a warrant, is held on or accessible from the electronic equipment, and obtaining access to such data.
 
 (3) The data referred to in subsection (2) includes, but is not limited to, the following:
 
