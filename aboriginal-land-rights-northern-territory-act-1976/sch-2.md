@@ -442,6 +442,10 @@ VERNON ISLANDS
 
 All those parcels of land being Northern Territory Portions 2007, 2008, 2009 and 2010 delineated on Survey Plan S.2015/208 lodged with the Surveyor-General, Darwin, and together containing an area of approximately 8,271.2 hectares.
 
+WAKAYA ALYAWARRE
+
+All that land in the Northern Territory comprising the whole of Northern Territory Portions 8009 and 8383 delineated on Survey Plans S2022/073A and S2022/073B lodged with the Surveyor-General, Darwin, and containing an area of approximately 484,000 hectares.
+
 WAVE HILL LOCALITY
 
 All that parcel of land in the Wave Hill Locality of the Northern Territory of Australia containing an area of 1238 km2 more or less bounded by lines commencing at a point 32134 metres due south of the northeast corner of Northern Territory Portion 2654 (Cattle Creek) thence by lines due east for a distance of 3131.5 metres; due south for a distance of 24534 metres; due west to the intersection of the eastern boundary of Northern Territory Portion 2654; thence due north and due east by the eastern and southern boundaries of Northern Territory Portion 2654 to the point of commencement.
