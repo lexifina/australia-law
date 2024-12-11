@@ -12,7 +12,7 @@
 
 (ii) within such other period as the court allows.
 
-Note: The record would include all the evidence given in the original proceeding by the vulnerable person (whether evidence on examination in chief, on cross-examination or on re-examination).
+Note: The record would include all the evidence given in the original proceeding by the vulnerable person (whether evidence on examination in chief, on cross-examination or on re-examination), which could include evidence recorded at an evidence recording hearing or in an interview.
 
 (2) However, the prosecutor may alter or edit that record with the agreement of each defendant in the new proceeding.
 
@@ -24,8 +24,10 @@ Note: The record would include all the evidence given in the original proceeding
 
 (4) This subsection applies to the following persons:
 
-(a) if the original proceeding was a child proceeding—a child complainant;
+(a) if the original proceeding was a child proceeding—a child witness;
 
-(b) if the original proceeding was a vulnerable adult proceeding—a vulnerable adult complainant.
+(b) if the original proceeding was a vulnerable adult proceeding—a vulnerable adult complainant;
+
+(c) if the original proceeding was a special witness proceeding—a special witness for whom an order under subsection 15YAB(3) is in force for this section.
 
 (5) The Minister may, in writing, prescribe the form, and ways for authenticating, records prepared under subsection (1).

@@ -20,7 +20,9 @@ Note: Such a declaration can also be made in a related proceeding (see subsectio
 
 Orders that certain protections apply to a special witness
 
-(3) In a special witness proceeding, the court may order that one or more of the following sections apply to a special witness:
+(3) In a special witness proceeding, the court may order that one or more of the following provisions apply to a special witness:
+
+(aa) Division 2A (evidence recording hearings);
 
 (a) section 15YG (about unrepresented defendants);
 
@@ -32,10 +34,14 @@ Orders that certain protections apply to a special witness
 
 (d) section 15YL (about alternative arrangements);
 
-(e) section 15YM (about use of video recordings);
+(e) section 15YM (about use of video or audio recordings of interviews);
+
+(ea) section 15YNB (about original evidence admissible in new proceedings);
 
 (f) section 15YO (about accompanying adults);
 
-(g) section 15YP (about excluding people from the courtroom).
+(g) section 15YP (about excluding people from the courtroom);
+
+(h) subparagraph 15YR(1)(c)(iii) (about publications that identify vulnerable persons).
 
 (4) An order under subsection (3) may be made on the court’s own initiative or on application by or on behalf of the special witness.
