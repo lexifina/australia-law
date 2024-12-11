@@ -20,6 +20,8 @@ Item | Law | Provision(s)
 
 8 | Regulations and Marine Orders made under the Navigation Act 2012 | regulations made for the purposes of paragraph 29(2)(d) of the Navigation Act 2012 or a Marine Order made with respect to the matter in that paragraph
 
+8A | Online Safety Act 2021 | paragraphs 27(1)(qa) and (qb) and Part 4A
+
 9 | Pig Industry Act 2001 | sections 32 and 33
 
 9A | Private Health Insurance Act 2007 | sections 22-5, 22-15, 22-25 and 22-30, Part 2-3, subsection 63-5(4) and paragraph 66-5(2)(a), because of the reason mentioned in paragraph 66-5(3)(ea)
