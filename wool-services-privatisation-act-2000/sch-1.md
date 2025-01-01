@@ -1,6 +1,6 @@
 ## Schedule 1—Transitional and savings
 
-Part 2—Transitional and savings
+## Part 2—Transitional and savings
 
 9 Continuation of agreements etc.
 
