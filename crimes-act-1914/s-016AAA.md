@@ -6,7 +6,19 @@ Minimum penalty
 
 Item | Column 1 Offence | Column 2 Sentence of imprisonment
 
+1A | offence against subsection 80.2H(1) of the Criminal Code | 12 months
+
+1B | offence against subsection 80.2HA(1) of the Criminal Code | 12 months
+
+1C | offence against a provision of Division 101 or 102 of the Criminal Code (other than an offence against subsection 102.8(1) or (2) of the Criminal Code) | 6 years
+
+1D | offence against subsection 102.8(1) or (2) of the Criminal Code | 12 months
+
+1E | offence against a provision of Division 103 of the Criminal Code | 3 years
+
 1 | offence against subsection 272.8(1) of the Criminal Code | 6 years
+
+1F | offence against subsection 80.2BE(1) or (2) of the Criminal Code | 12 months
 
 2 | offence against subsection 272.8(2) of the Criminal Code | 6 years
 

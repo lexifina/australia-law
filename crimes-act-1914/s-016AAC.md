@@ -10,12 +10,22 @@ Reduction of minimum penalty
 
 (a) the court is taking into account, under paragraph 16A(2)(g), the person pleading guilty;
 
-(b) the court is taking into account, under paragraph 16A(2)(h), the person having cooperated with law enforcement agencies in the investigation of the offence or of a Commonwealth child sex offence.
+(b) the court is taking into account, under paragraph 16A(2)(h), the person having cooperated with law enforcement agencies in the investigation of:
+
+(i) in relation to any of items 1A to 1E of the table in section 16AAA—the offence or an offence against subsection 80.2H(1) or 80.2HA(1) or Part 5.3 or 5.5 of the Criminal Code; or
+
+(ii) in relation to any of items 1 to 15 of the table in section 16AAA or any of the items in the table in subsection 16AAB(2)—the offence or a Commonwealth child sex offence.
 
 (3) If a court may reduce a sentence, the court may reduce the sentence as follows:
 
 (a) if the court is taking into account, under paragraph 16A(2)(g), the person pleading guilty—by an amount that is up to 25% of the period specified in column 2 of the applicable item in the relevant table;
 
-(b) if the court is taking into account, under paragraph 16A(2)(h), the person having cooperated with law enforcement agencies in the investigation of the offence or of a Commonwealth child sex offence—by an amount that is up to 25% of the period specified in column 2 of the applicable item in the relevant table;
+(b) if the court is taking into account, under paragraph 16A(2)(h), the person having cooperated with law enforcement agencies in the investigation of:
+
+(i) in relation to any of items 1A to 1E of the table in section 16AAA—the offence or an offence against subsection 80.2H(1) or 80.2HA(1) or Part 5.3 or 5.5 of the Criminal Code; or
+
+(ii) in relation to any of items 1 to 15 of the table in section 16AAA or any of the items in the table in subsection 16AAB(2)—the offence or a Commonwealth child sex offence;
+
+by an amount that is up to 25% of the period specified in column 2 of the applicable item in the relevant table;
 
 (c) if the court is taking into account both of the matters in paragraphs (a) and (b)—by an amount that is up to 50% of the period specified in column 2 of the applicable item in the relevant table.
