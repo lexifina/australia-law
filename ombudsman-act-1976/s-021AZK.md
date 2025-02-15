@@ -1,0 +1,3 @@
+# 21AZK Part not to affect operation of other provisions of this Act
+
+This Part does not, by implication, affect the operation of other provisions in this Act.
