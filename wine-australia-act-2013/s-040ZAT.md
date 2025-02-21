@@ -11,3 +11,7 @@
 (c) set out the grounds on which such determinations may be made; and
 
 (d) provide for review by the Administrative Review Tribunal of such determinations.
+
+Timing of applications for review to the Administrative Review Tribunal
+
+(3) Regulations made for the purposes of subsection (1) may modify the operation of sections 18 and 19 of the Administrative Review Tribunal Act 2024 (which deal with when applications for review may be made) as they apply in relation to a determination made under those regulations.

@@ -14,4 +14,4 @@
 
 (3) A Judge has, in relation to the performance or exercise of a function or power conferred on an eligible issuing officer by this Part, the same protection and immunity as if he or she were performing that function, or exercising that power, as, or as a member of, a court (being the court of which the Judge is a member).
 
-Note: A member of the Administrative Review Tribunal has the same protection and immunity as a Justice of the High Court (see subsection 293(1) of the Administrative Review Tribunal Act 2024).
+(4) A nominated ART member has, in relation to the performance or exercise of a function or power conferred on an eligible issuing officer by this Part, the same protection and immunity as a Justice of the High Court has in relation to proceedings in the High Court.

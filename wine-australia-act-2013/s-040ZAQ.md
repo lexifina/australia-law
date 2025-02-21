@@ -27,3 +27,7 @@ Role of Registrar of Trade Marks
 (c) set out the procedure to be followed in dealing with such objections (including the charging of fees, the holding of hearings and the taking of evidence); and
 
 (d) provide for the Registrar of Trade Marks to make recommendations to the Committee in relation to the determination of the proposed indications and translations.
+
+Timing of applications for review to the Administrative Review Tribunal
+
+(4) Regulations made for the purposes of subsection (1) may modify the operation of sections 18 and 19 of the Administrative Review Tribunal Act 2024 (which deal with when applications for review may be made) as they apply in relation to a determination made under those regulations.
