@@ -44,6 +44,20 @@ the DRO must check the signature against the most recent record (if any) of the 
 
 (e) in the case of an envelope purporting to contain a postal ballot paper, that the vote marked on the ballot paper was recorded prior to the close of the poll.
 
+6AA. Despite subparagraphs 6(b) and (c), the DRO may treat an envelope as having met the requirements of paragraph 6 if the DRO is satisfied that:
+
+(a) the envelope purports to contain either:
+
+(i) a pre-poll vote ballot paper for an elector who, but for paragraph 200DG(1)(c), would have been entitled to vote by pre-poll ordinary vote; or
+
+(ii) an absent vote ballot paper for an elector; and
+
+(b) the ballot paper was issued to the elector by a voting officer using an approved list of voters for a Division in accordance with Parts XVA and XVI; and
+
+(c) the elector is neither a designated elector nor a person whose address has been excluded or deleted from a Roll under section 104; and
+
+(d) it is appropriate to do so.
+
 6A. If the DRO is satisfied that more than one envelope that meets the requirements of paragraph 6 purports to contain a declaration vote by the same elector, the DRO must:
 
 (a) treat only one of the envelopes, as selected by the DRO, as meeting the requirements of paragraph 6; and
@@ -82,6 +96,8 @@ In applying subparagraph (a), the DRO should, to the extent that it is possible,
 
 (i) the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(5) of the Act applies; and
 
+(ia) the envelopes that, under paragraph 6AA, have been treated as having met the requirements of paragraph 6; and
+
 (ii) the envelopes to which paragraph 12 applies and that bear certificates or declarations by persons who, at the time of the omission referred to in that paragraph, were living at an address in the Division;
 
 (b) in another group:
@@ -97,6 +113,8 @@ In applying subparagraph (a), the DRO should, to the extent that it is possible,
 (a) in one group:
 
 (i) the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(5) of the Act applies; and
+
+(ia) the envelopes that, under paragraph 6AA, have been treated as having met the requirements of paragraph 6; and
 
 (ii) the envelopes to which paragraph 12 applies and that bear certificates or declarations by persons who, at the time of the omission referred to in that paragraph, were living at an address in the Division;
 
@@ -147,8 +165,6 @@ In applying subparagraph (a), the DRO should, to the extent that it is possible,
 19. A ballot paper for a Senate election withdrawn from an envelope referred to in subparagraph 10(b) shall be placed in the ballot-box referred to in paragraph 18 for further scrutiny. A ballot paper for a House of Representatives election withdrawn from such an envelope shall be excluded from further scrutiny.
 
 20. The DRO shall seal up in a parcel ballot papers excluded under paragraph 19 and shall write on the parcel a description of its contents, the name of the Division and the date.
-
-21. Where a ballot paper has been finally excluded from further scrutiny, other than because of subparagraph 6A(b), the DRO shall send to the voter a written statement of the reason for the rejection.
 
 22. For the purposes of paragraph 17, an envelope that contains a ballot paper for a referendum shall be dealt with as if it did not contain that ballot paper.
 
