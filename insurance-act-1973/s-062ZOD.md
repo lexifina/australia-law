@@ -1,0 +1,71 @@
+## Subdivision B—Provisions dealing with control of a body corporate’s business by an Insurance Act statutory manager
+
+# 62ZOD Insurance Act statutory manager’s powers and functions
+
+Insurance Act statutory manager’s powers and functions include powers and functions of board
+
+(1) An Insurance Act statutory manager has the powers and functions of the members of the board of directors of the body corporate (collectively and individually), including the board’s powers of delegation.
+
+Note: When an Insurance Act statutory manager takes control of the business of a body corporate, the directors of the body corporate cease to hold office (see section 62ZOP).
+
+Insurance Act statutory manager’s power to obtain information
+
+(2) An Insurance Act statutory manager may, for the purposes of this Division, require a person who has, at any time, been an officer of the body corporate to give the Insurance Act statutory manager any information relating to the business of the body corporate that the Insurance Act statutory manager requires. A requirement to give information may include a requirement to produce books, accounts or documents.
+
+(3) A person who is or has been an officer of a body corporate commits an offence if:
+
+(a) there is an Insurance Act statutory manager in relation to the body corporate; and
+
+(b) under subsection (2), the Insurance Act statutory manager requires the person to give information or to produce books, accounts or documents; and
+
+(c) the person fails to comply with the requirement.
+
+Penalty: Imprisonment for 12 months.
+
+Note 1: Subsection 4B(2) of the Crimes Act 1914 allows a court to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine a court may impose is worked out as provided in that subsection.
+
+Note 2: If a body corporate is convicted of an offence against this subsection, subsection 4B(3) of the Crimes Act 1914 allows a court to impose a fine of up to 5 times the maximum fine worked out as mentioned in Note 2.
+
+(4) An individual is not excused from complying with a requirement under subsection (2) to give information on the ground that doing so would tend to incriminate the individual or make the individual liable to a penalty.
+
+(5) If:
+
+(a) before giving information in compliance with a requirement under subsection (2), an individual claims that giving the information might tend to incriminate the individual or make the individual liable to a penalty; and
+
+(b) giving the information might in fact tend to incriminate the individual or make the individual so liable;
+
+the information given in compliance with the requirement is not admissible in evidence against the individual in a criminal proceeding or a proceeding for the imposition of a penalty, other than a proceeding in respect of the falsity of the information.
+
+(6) Subsections (4) and (5) apply to the production of books, accounts or documents in a corresponding way to the way in which they apply to the giving of information.
+
+Insurance Act statutory manager’s power to sell whole or part of body corporate’s business
+
+(7) An Insurance Act statutory manager may sell or otherwise dispose of the whole or any part of the body corporate’s business. The sale or disposal may occur on any terms and conditions that the Insurance Act statutory manager considers appropriate.
+
+Insurance Act statutory manager’s powers to alter body corporate’s constitution etc.
+
+(8) An Insurance Act statutory manager may, if the body corporate concerned is registered under the Corporations Act 2001, alter the body corporate’s constitution, rules or other arrangements for governance if the alteration:
+
+(a) is necessary or convenient for enabling or facilitating the performance of the Insurance Act statutory manager’s functions and duties, or the exercise of the Insurance Act statutory manager’s other powers, under this Division in relation to the body corporate; and
+
+(b) promotes:
+
+(i) the protection of the policyholders of the body corporate; and
+
+(ii) financial system stability in Australia.
+
+(9) An Insurance Act statutory manager may do an act under subsection (7) or (8) despite:
+
+(a) the Corporations Act 2001; and
+
+(b) the body corporate’s constitution; and
+
+(c) any contract or arrangement to which the body corporate is party; and
+
+(d) any listing rules of a financial market in whose official list the body corporate is included.
+
+Interpretation
+
+(10) In this section:
+
+officer has the meaning given by section 9 of the Corporations Act 2001.

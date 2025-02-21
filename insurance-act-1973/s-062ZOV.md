@@ -1,0 +1,21 @@
+# 62ZOV Moratorium—effect of Insurance Act statutory management on supply of essential services
+
+(1) If:
+
+(a) an Insurance Act statutory manager is in control of a body corporate’s business; and
+
+(b) the Insurance Act statutory manager requests, or authorises someone else to request, a person or authority (the supplier) to supply an essential service to the body corporate in Australia; and
+
+(c) the body corporate owes an amount to the supplier in respect of the supply of the essential service before the day on which the Insurance Act statutory manager took control of the body corporate’s business;
+
+the supplier must not:
+
+(d) refuse to comply with the request for the reason only that the amount is owing; or
+
+(e) make it a condition of the supply of the essential service pursuant to the request that the amount is to be paid.
+
+Note: The Federal Court may grant an injunction under section 129D in respect of a contravention of this subsection.
+
+(2) In this section:
+
+essential service has the same meaning as in the Corporations Act 2001.

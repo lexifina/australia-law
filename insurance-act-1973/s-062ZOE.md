@@ -1,0 +1,43 @@
+# 62ZOE Safeguards on exercise of Insurance Act statutory manager’s powers and functions
+
+(1) Despite anything else in this Subdivision, an Insurance Act statutory manager of a body corporate (the body corporate under management) may not perform a function or exercise a power under section 62ZOD if:
+
+(a) either or both of subsections (2) and (3) apply; and
+
+(b) the performance of the function or the exercise of the power is not for the purposes of:
+
+(i) an act of the Insurance Act statutory manager under subsection 62ZOF(1); or
+
+(ii) Part 3 or 4 of the Financial Sector (Transfer and Restructure) Act 1999.
+
+(2) This subsection applies if:
+
+(a) the body corporate under management is not a general insurer; and
+
+(b) the performance or the exercise would result in:
+
+(i) the provision of services by the body corporate under management to a related body corporate of the body corporate under management; or
+
+(ii) the provision of services by a related body corporate of the body corporate under management to the body corporate under management; or
+
+(iii) subject to subsection (4), the transfer of assets between the body corporate under management and another body corporate (otherwise than in the ordinary course of business); and
+
+(c) the performance or the exercise is not required or permitted by a binding arrangement that was in existence immediately before the Insurance Act statutory manager started to be in control of the business of the body corporate under management; and
+
+(d) the provision or transfer is not for fair value.
+
+(3) This subsection applies if:
+
+(a) the body corporate under management is an authorised NOHC of a general insurer; and
+
+(b) the performance or the exercise requires using funds of the body corporate or a subsidiary of the body corporate to increase the level of capital of the general insurer to a specified level; and
+
+(c) the shareholders of the body corporate have not agreed, by ordinary resolution, to that use of the funds.
+
+(4) Treat the requirement in subparagraph (2)(b)(iii) as not being met if:
+
+(a) the body corporate under management is an authorised NOHC of a general insurer; and
+
+(b) the transfer of assets mentioned in that subparagraph is a transfer of funds to increase the level of capital of the general insurer to a specified level; and
+
+(c) the shareholders of the body corporate have agreed, by ordinary resolution, to that use of the funds.
