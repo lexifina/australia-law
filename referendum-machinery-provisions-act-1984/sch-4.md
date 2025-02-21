@@ -44,6 +44,20 @@ the DRO must check the signature against the most recent record (if any) of the 
 
 (e) in the case of an envelope purporting to contain a postal ballot paper, that the vote marked on the ballot paper was recorded prior to the close of the voting.
 
+6AA. Despite subparagraphs 6(b) and (c), the DRO may treat an envelope as having met the requirements of paragraph 6 if the DRO is satisfied that:
+
+(a) the envelope purports to contain either:
+
+(i) a pre-poll vote ballot paper for an elector who, but for paragraph 73CG(1)(c), would have been entitled to vote by pre-poll ordinary vote; or
+
+(ii) an absent vote ballot paper for an elector; and
+
+(b) the ballot paper was issued to the elector by a voting officer using an approved list of voters for a Division in accordance with Parts III and IVA; and
+
+(c) the elector is neither a designated elector nor a person whose address has been excluded or deleted from a Roll under section 104 of the Commonwealth Electoral Act 1918; and
+
+(d) it is appropriate to do so.
+
 6A. If the DRO is satisfied that more than one envelope that meets the requirements of paragraph 6 purports to contain a declaration vote by the same elector, the DRO must:
 
 (a) treat only one of the envelopes, as selected by the DRO, as meeting the requirements of paragraph 6; and
@@ -83,6 +97,8 @@ In applying subparagraph (a), the DRO should, to the extent that it is possible,
 (i) the envelopes bearing certificates or declarations by persons who are enrolled for the State or Territory in which the Division is situated (whether or not for the Division itself); and
 
 (ii) the envelopes bearing certificates or declarations by persons whose claims for enrolment are claims to which subsection 102(5) of the Commonwealth Electoral Act 1918 applies; and
+
+(iia) the envelopes that, under paragraph 6AA, have been treated as having met the requirements of paragraph 6; and
 
 (iii) the envelopes to which paragraph 11 of this Schedule applies and that bear certificates or declarations by persons who, at the time of the omission referred to in that paragraph, were living at an address in the State or Territory in which the Division is situated (whether or not in the Division itself);
 
@@ -132,18 +148,16 @@ In applying subparagraph (a), the DRO should, to the extent that it is possible,
 
 (b) if the DRO has not withdrawn the ballot papers in accordance with subparagraph 16(a) by the close of voting—must do so after the close of voting.
 
-18. Where a ballot paper has been finally excluded from further scrutiny, other than because of subparagraph 6A(b), the DRO shall send to the voter a written statement of the reason for the rejection.
-
 19. In the course of a preliminary scrutiny of declaration votes, the DRO must, at a time determined to be appropriate by the DRO (which may be before the close of the poll for the Division):
 
 (a) open the parcel of envelopes that contains the ballot papers that are, under paragraph 5 and subject to the operation of this paragraph and paragraph 20, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 20; and
 
 (b) open the parcel of envelopes that contains the ballot papers that are, under paragraph 14 and subject to the operation of this paragraph and paragraph 21, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 21.
 
-20. For the purpose of dealing further with declaration votes referred to in subparagraph 19(a), paragraphs 3 to 18, inclusive, reapply in relation to those votes as if:
+20. For the purpose of dealing further with declaration votes referred to in subparagraph 19(a), paragraphs 3 to 17, inclusive, reapply in relation to those votes as if:
 
 (a) the words “subject to the operation of paragraphs 19 and 20,” were omitted from paragraph 5; and
 
 (b) the words “subject to the operation of paragraphs 19 and 21,” were omitted from paragraph 14.
 
-21. For the purpose of dealing further with declaration votes referred to in subparagraph 19(b), paragraphs 10 to 18, inclusive, reapply in relation to those votes as if the words “subject to the operation of paragraphs 19 and 21,” were omitted from paragraph 14.
+21. For the purpose of dealing further with declaration votes referred to in subparagraph 19(b), paragraphs 10 to 17, inclusive, reapply in relation to those votes as if the words “subject to the operation of paragraphs 19 and 21,” were omitted from paragraph 14.
