@@ -1,0 +1,23 @@
+# 26M Late payment penalty
+
+(1) If any levy payable by a private health insurer:
+
+(a) is not paid on or before the day on which it is due and payable (the due day for payment); and
+
+(b) remains unpaid after the penalty calculation day;
+
+the insurer is liable to pay, by way of penalty, an amount worked out at the applicable rate per year on the amount unpaid, computed from the end of the due day for payment to the end of the penalty calculation day.
+
+(2) The penalty calculation day is:
+
+(a) if the levy is paid on or after the first day of a month and before the sixth day of that month—the 20th day of the immediately preceding month; or
+
+(b) if the levy is paid on or after the sixth day of a month and before the 20th day of that month—the sixth day of that month; or
+
+(c) if the levy is paid on or after the 20th day of a month and on or before the last day of that month—the 20th day of that month.
+
+(3) The applicable rate, in relation to an amount of unpaid levy, is:
+
+(a) 15% (unless paragraph (b) applies); or
+
+(b) if, under a legislative instrument made by the Minister for the purposes of this paragraph, a specified rate of less than 15% applies in relation to the unpaid levy—that specified rate.
