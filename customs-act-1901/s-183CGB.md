@@ -6,6 +6,8 @@
 
 (b) the conditions imposed under section 183CGA to which the licence is subject.
 
+Note: See section 183UAA for the ways in which the notice may be given to the holder of the licence.
+
 (2) A variation under subsection (1) cannot take effect before:
 
 (a) the end of 30 days after the giving of the notice under that subsection; or
