@@ -8,11 +8,35 @@
 
 (b) for each part of the ordinary taxable income specified in the table applicable to the year of income—the rate applicable under that table.
 
-Tax rates for resident taxpayers for the 2024-25 year of income or a later year of income
+Tax rates for resident taxpayers for the 2024-25 or 2025-26 year of income
 
 Item | For the part of the ordinary taxable income of the taxpayer that: | The rate is:
 
 1 | exceeds the tax-free threshold but does not exceed $45,000 | 16%
+
+2 | exceeds $45,000 but does not exceed $135,000 | 30%
+
+3 | exceeds $135,000 but does not exceed $190,000 | 37%
+
+4 | exceeds $190,000 | 45%
+
+Tax rates for resident taxpayers for the 2026-27 year of income
+
+Item | For the part of the ordinary taxable income of the taxpayer that: | The rate is:
+
+1 | exceeds the tax-free threshold but does not exceed $45,000 | 15%
+
+2 | exceeds $45,000 but does not exceed $135,000 | 30%
+
+3 | exceeds $135,000 but does not exceed $190,000 | 37%
+
+4 | exceeds $190,000 | 45%
+
+Tax rates for resident taxpayers for the 2027-28 year of income or a later year of income
+
+Item | For the part of the ordinary taxable income of the taxpayer that: | The rate is:
+
+1 | exceeds the tax-free threshold but does not exceed $45,000 | 14%
 
 2 | exceeds $45,000 but does not exceed $135,000 | 30%
 
