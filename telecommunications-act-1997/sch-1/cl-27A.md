@@ -1,0 +1,11 @@
+# 27A Code relating to access to information
+
+(1) The ACCC may, by legislative instrument, make a Code setting out conditions that are to be complied with in relation to the provision of information, or access to information, under clause 21, 22, 23, 24 or 25.
+
+(2) A carrier must comply with the Code.
+
+(3) This clause does not, by implication, limit a power conferred by or under this Act to make an instrument.
+
+(4) This clause does not, by implication, limit the matters that may be dealt with by codes or standards referred to in Part 6.
+
+(5) Subclauses (3) and (4) do not, by implication, limit subsection 33(3B) of the Acts Interpretation Act 1901.

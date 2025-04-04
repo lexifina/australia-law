@@ -1,0 +1,47 @@
+# 55A Consultation
+
+(1) Before making a decision on the application for a protection zone installation permit, the ACMA must consult:
+
+(a) the Secretary of the Attorney-General’s Department; and
+
+(aa) the Home Affairs Secretary; and
+
+(b) any other persons the ACMA considers relevant.
+
+(2) Within 2 business days after the day on which the ACMA received the application, the ACMA must give each of the Secretaries mentioned in paragraphs (1)(a) and (aa) a copy of the application.
+
+(3) Within 15 business days after the day on which a Secretary receives a copy of the application, that Secretary must:
+
+(a) give a written notice to the ACMA stating that, while the notice remains in force, the ACMA must not grant the permit; or
+
+(b) make a submission to the ACMA; or
+
+(c) give a written notice to the ACMA stating that he or she does not require any further consultation about the application.
+
+Notice to the ACMA under paragraph (3)(a)
+
+(4) The ACMA must not grant the permit while a notice is in force under paragraph (3)(a).
+
+(5) Unless sooner revoked, a notice under paragraph (3)(a) remains in force during the period specified in the notice.
+
+(6) The period specified under subclause (5) must not be longer than 3 months.
+
+(7) A Secretary who gives a notice under paragraph (3)(a) may, by written notice given to the ACMA, extend, or further extend, the period referred to in subclause (5), so long as the extension, or further extension, does not result in the notice under paragraph (3)(a) being in force for longer than 12 months.
+
+(8) A Secretary who gives a notice under paragraph (3)(a) may revoke the notice by giving the ACMA a further written notice.
+
+(9) Within 2 business days after the day on which the ACMA received a notice under paragraph (3)(a) or subclause (7), the ACMA must give the applicant a copy of the notice.
+
+Submission to the ACMA
+
+(10) If a notice under paragraph (3)(a) is in force, the Secretary who gave the notice may make a submission to the ACMA.
+
+(11) A submission to the ACMA under paragraph (3)(b) or subclause (10) may include:
+
+(a) recommendations about the conditions that should be specified in the permit under paragraph 58A(1)(d) or (e) of this Schedule; or
+
+(b) such other matters (if any) as the Secretary making the submission considers relevant.
+
+Notice to the ACMA under paragraph (3)(c)
+
+(12) A notice under paragraph (3)(c) cannot be revoked.

@@ -1,0 +1,13 @@
+# 86A Failing to comply with ACMA direction to remove an unlawfully installed domestic submarine cable
+
+(1) The ACMA may direct a carrier to remove a domestic submarine cable if:
+
+(a) the carrier installed the submarine cable, or caused it to be installed, in a protection zone without a permit under this Part authorising the installation; or
+
+(b) the carrier is installing the submarine cable, or causing it to be installed, in a protection zone without a permit under this Part authorising the installation.
+
+(2) A carrier who does not comply with a direction under subclause (1) commits an offence.
+
+Penalty: 200 penalty units.
+
+(3) The ACMA must not give a direction to a carrier under subclause (1) in relation to a domestic submarine cable that the carrier installed, or began to install, before the commencement of this clause.

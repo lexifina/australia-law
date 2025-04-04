@@ -1,0 +1,9 @@
+# 360XAC Copies of documents
+
+(1) The Secretary may:
+
+(a) inspect a document or copy produced under subsection 360XAA(2); and
+
+(b) make and retain copies of, or take and retain extracts from, such a document.
+
+(2) The Secretary may retain possession of a copy of a document produced in accordance with a requirement covered by paragraph 360XAA(2)(c).
