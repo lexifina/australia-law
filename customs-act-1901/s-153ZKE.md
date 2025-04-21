@@ -4,19 +4,19 @@
 
 (1) Goods are AANZ originating goods if:
 
-(a) they are classified to a Chapter, heading or subheading of the Harmonized System that is covered by the table in Annex 2 to the Agreement; and
+(a) they are classified to a Chapter, heading or subheading of the Harmonized System that is covered by the Product-Specific Rules; and
 
 (b) they are produced entirely in a Party from non-originating materials only or from non-originating materials and originating materials; and
 
-(c) the goods satisfy the requirements applicable to the goods in that Annex; and
+(c) the goods satisfy the requirements applicable to the goods in the Product-Specific Rules; and
 
 (d) either:
 
-(i) the importer of the goods has, at the time the goods are imported, a Certificate of Origin, or a copy of one, for the goods; or
+(i) the importer of the goods has, at the time the goods are imported, a Proof of Origin, or a copy of one, for the goods; or
 
-(ii) Australia has waived the requirement for a Certificate of Origin for the goods.
+(ii) Australia has waived the requirement for a Proof of Origin for the goods.
 
-(2) Without limiting paragraph (1)(c), a requirement may be specified in the table in Annex 2 to the Agreement by using an abbreviation that is given a meaning for the purposes of that Annex.
+(2) Without limiting paragraph (1)(c), a requirement may be specified in the Product-Specific Rules by using an abbreviation that is given a meaning for the purposes of the Product-Specific Rules.
 
 Change in tariff classification
 

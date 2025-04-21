@@ -10,8 +10,6 @@
 
 (i) the goods undergo subsequent production or any other operation in that country or place (other than unloading, reloading, storing or any operation that is necessary to preserve the goods in good condition or to transport the goods to Australia);
 
-(ii) the goods enter the commerce of that country or place;
-
-(iii) the transport through that country or place is not justified by geographical, economic or logistical reasons.
+(ii) the goods enter into commerce or free circulation in that country or place.
 
 (2) This section applies despite any other provision of this Division.

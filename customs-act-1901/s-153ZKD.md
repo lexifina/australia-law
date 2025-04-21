@@ -8,6 +8,6 @@ Goods are AANZ originating goods if:
 
 (b) either:
 
-(i) the importer of the goods has, at the time the goods are imported, a Certificate of Origin, or a copy of one, for the goods; or
+(i) the importer of the goods has, at the time the goods are imported, a Proof of Origin, or a copy of one, for the goods; or
 
-(ii) Australia has waived the requirement for a Certificate of Origin for the goods.
+(ii) Australia has waived the requirement for a Proof of Origin for the goods.

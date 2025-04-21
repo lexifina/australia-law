@@ -12,8 +12,6 @@ Note: In 2009, the text of the Agreement was accessible through the Australian T
 
 aquaculture has the meaning given by Article 1 of Chapter 3 of the Agreement.
 
-Certificate of Origin means a certificate that is in force and that complies with the requirements of Rule 7 of the Annex to Chapter 3 of the Agreement.
-
 Convention means the International Convention on the Harmonized Commodity Description and Coding System done at Brussels on 14 June 1983, as in force from time to time.
 
 Note: The text of the Convention is set out in Australian Treaty Series 1988 No. 30 ([1988] ATS 30). In 2009, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
@@ -26,7 +24,13 @@ Harmonized System means:
 
 (a) the Harmonized Commodity Description and Coding System as in force immediately before 1 January 2017; or
 
-(b) if the table in Annex 2 to the Agreement is amended or replaced to refer to Chapters, headings and subheadings of a later version of the Harmonized Commodity Description and Coding System—the later version of the Harmonized Commodity Description and Coding System.
+(b) if either of the following events occurs:
+
+(i) Annex 3B to Chapter 3 of the Agreement is amended or replaced to refer to Chapters, headings and subheadings of an updated version of the Harmonized Commodity Description and Coding System;
+
+(ii) there is a transposition (as mentioned in paragraph 4 of Article 19 of Chapter 3 of the Agreement) of Annex 3B to Chapter 3 of the Agreement because of an updated version of the Harmonized Commodity Description and Coding System and the transposition is adopted as mentioned in that paragraph;
+
+the version of the Harmonized Commodity Description and Coding System covered by whichever of those events occurred most recently.
 
 in a Party includes:
 
@@ -72,6 +76,22 @@ Note: See also subsection (7).
 
 produce means grow, farm, raise, breed, mine, harvest, fish, trap, hunt, capture, gather, collect, extract, manufacture, process or assemble.
 
+Product-Specific Rules means the following:
+
+(a) Annex 3B to Chapter 3 of the Agreement, unless paragraph (b) applies;
+
+(b) if:
+
+(i) there is a transposition (as mentioned in paragraph 4 of Article 19 of Chapter 3 of the Agreement) of Annex 3B to Chapter 3 of the Agreement because of an updated version of the Harmonized Commodity Description and Coding System and the transposition is adopted as mentioned in that paragraph; and
+
+(ii) that Annex has not been amended or replaced as a result of that transposition; and
+
+(iii) that Annex has not been amended or replaced as a result of a further updated version of the Harmonized Commodity Description and Coding System;
+
+that Annex as so transposed.
+
+Proof of Origin means a certificate, or a declaration, that is in force and complies with the requirements of Rule 1 of Annex 3A to Chapter 3 of the Agreement.
+
 territorial sea has the same meaning as in the Seas and Submerged Lands Act 1973.
 
 Value of goods
@@ -88,8 +108,6 @@ Incorporation of other instruments
 
 (6) For the purposes of this Division, the regulations may apply, adopt or incorporate any matter contained in any instrument or other writing as in force or existing from time to time.
 
-Notification of entry into force of Agreement for a Party
+Notification of entry into force of Agreement for a Party etc.
 
-(7) The Minister must announce by notice in the Gazette the day on which the Agreement enters into force for a Party (other than Australia). For the purposes of this subsection, Party means a Party (within the meaning of the Agreement).
-
-(8) A notice referred to in subsection (7) is not a legislative instrument.
+(7) The Minister must announce, by notifiable instrument, the day on which the Agreement, or an amendment of the Agreement, enters into force for a Party (other than Australia).
