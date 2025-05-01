@@ -107,3 +107,9 @@ Subsection 14(2)
 (b) all other provisions of that Act, to the extent that they relate to the container deposit scheme established by that Part;
 
 (c) regulations or other instruments made under that Act, to the extent that they relate to that scheme.
+
+38 Both of the following:
+
+(a) the Container Refund Scheme Act 2022 (Tas.);
+
+(b) regulations or other instruments made under that Act, to the extent that they relate to the container deposit scheme established by Part 2 of that Act.
