@@ -26,7 +26,13 @@ Harmonized System means:
 
 (a) the Harmonized Commodity Description and Coding System as in force immediately before 1 January 2017; or
 
-(b) if the table in Annex 3A to Chapter 3 of the Agreement is amended or replaced to refer to Chapters, headings and subheadings of a later version of the Harmonized Commodity Description and Coding System—the later version of the Harmonized Commodity Description and Coding System.
+(b) if either of the following events occurs:
+
+(i) Annex 3A to Chapter 3 of the Agreement is amended or replaced to refer to Chapters, headings and subheadings of an updated version of the Harmonized Commodity Description and Coding System;
+
+(ii) there is a transposition (as mentioned in paragraph 3 of Article 3.34 of Chapter 3 of the Agreement) of Annex 3A to Chapter 3 of the Agreement because of an updated version of the Harmonized Commodity Description and Coding System and the transposition is adopted as mentioned in that paragraph;
+
+the version of the Harmonized Commodity Description and Coding System covered by whichever of those events occurred most recently.
 
 indirect materials means:
 
@@ -67,6 +73,20 @@ Note: See also subsection (6).
 person of a Party has the same meaning as it has in Chapter 3 of the Agreement.
 
 production has the meaning given by Article 3.1 of Chapter 3 of the Agreement.
+
+Product-Specific Rules means the following:
+
+(a) Annex 3A to Chapter 3 of the Agreement, unless paragraph (b) applies;
+
+(b) if:
+
+(i) there is a transposition (as mentioned in paragraph 3 of Article 3.34 of Chapter 3 of the Agreement) of Annex 3A to Chapter 3 of the Agreement because of an updated version of the Harmonized Commodity Description and Coding System and the transposition is adopted as mentioned in that paragraph; and
+
+(ii) that Annex has not been amended or replaced as a result of that transposition; and
+
+(iii) that Annex has not been amended or replaced as a result of a further updated version of the Harmonized Commodity Description and Coding System;
+
+that Annex as so transposed.
 
 Proof of Origin means a document that is in force and that complies with the requirements of Article 3.16 of Chapter 3 of the Agreement.
 

@@ -24,7 +24,13 @@ Harmonized System means:
 
 (a) the Harmonized Commodity Description and Coding System as in force immediately before 1 January 2017; or
 
-(b) if the table in Annex 3-B to Chapter 3 of the Agreement is amended or replaced to refer to Chapters, headings and subheadings of a later version of the Harmonized Commodity Description and Coding System—the later version of the Harmonized Commodity Description and Coding System.
+(b) if either of the following events occurs:
+
+(i) Annex 3-B to Chapter 3 of the Agreement is amended or replaced to refer to Chapters, headings and subheadings of an updated version of the Harmonized Commodity Description and Coding System;
+
+(ii) there are revisions (as mentioned in paragraph 1 of Article 29 of Chapter 3 of the Agreement) to Annex 3-B to Chapter 3 of the Agreement because of an updated version of the Harmonized Commodity Description and Coding System and the revisions are endorsed and come into effect as mentioned in paragraph 3 of that Article;
+
+the version of the Harmonized Commodity Description and Coding System covered by whichever of those events occurred most recently.
 
 in a Party has the same meaning as it has in Chapter 3 of the Agreement.
 
@@ -71,6 +77,20 @@ person of a Party has the same meaning as it has in Chapter 3 of the Agreement.
 producer means a person who engages in the production of goods.
 
 production has the meaning given by Article 1 of Chapter 3 of the Agreement.
+
+Product-Specific Rules means the following:
+
+(a) Annex 3-B to Chapter 3 of the Agreement, unless paragraph (b) applies;
+
+(b) if:
+
+(i) there are revisions (as mentioned in paragraph 1 of Article 29 of Chapter 3 of the Agreement) to Annex 3-B to Chapter 3 of the Agreement because of an updated version of the Harmonized Commodity Description and Coding System and the revisions are endorsed and come into effect as mentioned in paragraph 3 of that Article; and
+
+(ii) that Annex has not been amended or replaced as a result of those revisions; and
+
+(iii) that Annex has not been amended or replaced as a result of a further updated version of the Harmonized Commodity Description and Coding System;
+
+that Annex as so revised.
 
 Value of goods
 

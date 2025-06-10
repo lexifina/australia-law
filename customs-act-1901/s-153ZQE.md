@@ -4,11 +4,11 @@
 
 (1) Goods are RCEP originating goods if:
 
-(a) they are classified to a Chapter, heading or subheading of the Harmonized System that is covered by the table in Annex 3A to Chapter 3 of the Agreement; and
+(a) they are classified to a Chapter, heading or subheading of the Harmonized System that is covered by the Product-Specific Rules; and
 
 (b) they are produced entirely in a Party from non-originating materials only or from non-originating materials and originating materials; and
 
-(c) the goods satisfy the requirements applicable to the goods in that Annex; and
+(c) the goods satisfy the requirements applicable to the goods in the Product-Specific Rules; and
 
 (d) either:
 
@@ -16,7 +16,7 @@
 
 (ii) Australia has waived the requirement for a Proof of Origin for the goods.
 
-(2) Without limiting paragraph (1)(c), a requirement may be specified in the table in Annex 3A to Chapter 3 of the Agreement by using an abbreviation that is given a meaning for the purposes of that Annex.
+(2) Without limiting paragraph (1)(c), a requirement may be specified in the Product-Specific Rules by using an abbreviation that is given a meaning for the purposes of the Product-Specific Rules.
 
 Change in tariff classification
 

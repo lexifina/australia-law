@@ -28,7 +28,13 @@ Harmonized System means:
 
 (a) the Harmonized Commodity Description and Coding System as in force on 1 January 2013; or
 
-(b) if the table in Annex 2 of the Agreement is amended or replaced to refer to Chapters, headings and subheadings of a later version of the Harmonized Commodity Description and Coding System—the later version of the Harmonized Commodity Description and Coding System.
+(b) if either of the following events occurs:
+
+(i) Annex 2 of the Agreement is amended or replaced to refer to Chapters, headings and subheadings of an updated version of the Harmonized Commodity Description and Coding System;
+
+(ii) there is a revision (as mentioned in paragraph 2 of Article 3.24 of Chapter 3 of the Agreement) to Annex 2 of the Agreement because of an updated version of the Harmonized Commodity Description and Coding System and the revision is endorsed and comes into effect as mentioned in that paragraph;
+
+the version of the Harmonized Commodity Description and Coding System covered by whichever of those events occurred most recently.
 
 indirect materials means:
 
@@ -75,6 +81,20 @@ person of Malaysia means:
 planted has the meaning given by Article 3.1 of the Agreement.
 
 produce means grow, plant, mine, harvest, farm, raise, breed, extract, gather, collect, capture, fish, trap, hunt, manufacture, process or assemble.
+
+Product-Specific Rules means the following:
+
+(a) Annex 2 of the Agreement, unless paragraph (b) applies;
+
+(b) if:
+
+(i) there is a revision (as mentioned in paragraph 2 of Article 3.24 of Chapter 3 of the Agreement) to Annex 2 of the Agreement because of an updated version of the Harmonized Commodity Description and Coding System and the revision is endorsed and comes into effect as mentioned in that paragraph; and
+
+(ii) that Annex has not been amended or replaced as a result of that revision; and
+
+(iii) that Annex has not been amended or replaced as a result of a further updated version of the Harmonized Commodity Description and Coding System;
+
+that Annex as so revised.
 
 territory of Australia means territory within the meaning, so far as it relates to Australia, of Article 1.2 of the Agreement.
 

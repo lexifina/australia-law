@@ -8,7 +8,11 @@ Agreement means the Regional Comprehensive Economic Partnership Agreement, done 
 
 Note: The Agreement could in 2021 be viewed in the Australian Treaties Library on the AustLII website (http://www.austlii.edu.au).
 
+approved exporter database means the approved exporter database referred to in paragraph 6 of Article 3.21 of Chapter 3 of the Agreement.
+
 customs authority has the meaning given by Article 4.1 of Chapter 4 of the Agreement.
+
+Declaration of Origin means a Declaration of Origin referred to in paragraph 1 of Article 3.16 of Chapter 3 of the Agreement.
 
 Party has the meaning given by Article 1.2 of Chapter 1 of the Agreement.
 
