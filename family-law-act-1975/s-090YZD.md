@@ -26,6 +26,8 @@ whether or not that last-mentioned property has, since the making of the contrib
 
 (c) the contribution made by a party to the de facto relationship to the welfare of the family constituted by the parties to the de facto relationship and any children of the de facto relationship, including any contribution made in the capacity of homemaker or parent; and
 
+(ca) the effect of any family violence, to which one party to the de facto relationship has subjected or exposed the other party, on the ability of a party to the de facto relationship to make the kind of contributions referred to in paragraphs (a), (b) and (c);
+
 (d) the effect of any proposed order upon the earning capacity of either party to the de facto relationship; and
 
 (e) the following matters, so far as they are relevant:
@@ -34,7 +36,7 @@ whether or not that last-mentioned property has, since the making of the contrib
 
 (ii) the income, property and financial resources of each of the parties and the physical and mental capacity of each of them for appropriate gainful employment;
 
-(iii) whether either party has the care or control of a child of the subject de facto relationship who has not attained the age of 18 years;
+(iii) the extent to which either party has the care of a child of the subject de facto relationship who has not attained the age of 18 years, including the need of either party to provide appropriate housing for such a child;
 
 (iv) commitments of each of the parties that are necessary to enable the party to support themselves and a child or another person that the party has a duty to maintain;
 
@@ -50,7 +52,13 @@ whether or not that last-mentioned property has, since the making of the contrib
 
 (x) the need to protect a party who wishes to continue that party’s role as a parent;
 
-(xi) if either party is cohabiting with another person—the financial circumstances relating to the cohabitation; and
+(xi) if either party is cohabiting with another person—the financial circumstances relating to the cohabitation;
+
+(xii) the effect of any family violence, to which one party to the subject de facto relationship has subjected or exposed the other party, on the current and future circumstances of the other party, including on any of the matters listed in this paragraph or any of paragraphs (f) to (n);
+
+(xiii) the effect of any material wastage, caused intentionally or recklessly by a party to the subject de facto relationship, of property or financial resources of either of the parties to the subject de facto relationship or both of them;
+
+(xiv) any liabilities incurred by either of the parties to the subject de facto relationship or both of them, including the nature of the liabilities and the circumstances relating to them; and
 
 (f) the terms of any other order made or proposed to be made under section 205ZG of the Family Court Act 1997 (WA) in relation to vested bankruptcy property in relation to a bankrupt de facto party to the subject de facto relationship; and
 
