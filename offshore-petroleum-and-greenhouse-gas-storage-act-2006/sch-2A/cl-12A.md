@@ -1,0 +1,13 @@
+# 12A Environmental inspections—publishing environmental prohibition notices and environmental improvement notices
+
+(1) NOPSEMA must publish on its website an environmental prohibition notice or an environmental improvement notice within 21 days after the notice is issued.
+
+(2) However, NOPSEMA must not publish the notice if it is aware that the decision to issue a notice is the subject of an application for review by a court.
+
+(3) If the notice is published on the NOPSEMA website and the decision to issue the notice is, or becomes, the subject of an application for review by a court, NOPSEMA must remove the notice from the website as soon as practicable after becoming aware of the application.
+
+(4) If all rights for judicial review (including any right of appeal) in relation to the decision to issue the notice have been exhausted, and the decision to issue the notice has been upheld, NOPSEMA must publish the notice on its website within 21 days after becoming aware that the rights have been exhausted.
+
+(5) If a notice contains personal information (within the meaning of the Privacy Act 1988), NOPSEMA must take such steps as are reasonable in the circumstances to ensure that the information is de-identified before the notice is published.
+
+(6) Personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonably identifiable.
