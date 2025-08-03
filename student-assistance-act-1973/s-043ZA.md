@@ -1,0 +1,19 @@
+# 43ZA Production of authority to depart
+
+(1) If:
+
+(a) a departure prohibition order in respect of a person is in force; and
+
+(b) the person is about to depart from Australia for a foreign country; and
+
+(c) the person’s departure is authorised by a departure authorisation certificate;
+
+an officer (within the meaning of the Customs Act 1901), or a member of the Australian Federal Police, may request the person to give a copy of the certificate to the officer or member for inspection.
+
+(2) A person commits an offence of strict liability if:
+
+(a) an officer (within the meaning of the Customs Act 1901), or a member of the Australian Federal Police, has made a request of the person under subsection (1); and
+
+(b) the person refuses or fails to comply with the request.
+
+Penalty for contravention of this subsection: 5 penalty units.
