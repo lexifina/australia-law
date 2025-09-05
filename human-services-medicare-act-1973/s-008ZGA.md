@@ -14,7 +14,11 @@ the Chief Executive Medicare must arrange for:
 
 (c) the removal of the data from any device in the control of a Departmental employee; and
 
-(d) the destruction of any other reproduction of the data in the control of a Departmental employee.
+(d) the disposal, by either of the following means, of any other reproduction of the data in the control of a Departmental employee:
+
+(i) returning the reproduction to a person who is the occupier of the premises at that time;
+
+(ii) destroying the reproduction.
 
 (4) If the authorised officer or an officer assisting, after operating the equipment, finds that evidential material is accessible by doing so, he or she may:
 

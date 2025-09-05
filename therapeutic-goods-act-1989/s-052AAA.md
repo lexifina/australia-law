@@ -1,10 +1,10 @@
 ## Part 6-2A—Forfeiture of things seized
 
-# 52AAA Forfeiture of things seized under search warrant in certain circumstances
+# 52AAA Forfeiture of things seized in certain circumstances
 
 (1) If:
 
-(a) an authorised person seizes a thing under a warrant issued under section 50; and
+(a) an authorised person seizes a thing under Part 6-2; and
 
 (b) the Secretary believes, on reasonable grounds, that:
 
@@ -28,7 +28,7 @@ Notice of forfeiture
 
 (a) the day the thing was seized;
 
-(b) that the thing was seized under a warrant issued under section 50 of this Act and the grounds on which it was seized;
+(b) the provision of Part 6-2 under which the thing was seized and the grounds on which the thing was seized;
 
 (c) that the thing is forfeited to the Commonwealth;
 

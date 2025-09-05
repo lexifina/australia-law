@@ -20,7 +20,7 @@ Advertisements
 
 Generic information
 
-(2) If, in relation to the dissemination of generic information in relation to vaping goods to the public or a section of the public, the Secretary is satisfied that there has been a contravention of this Act or the regulations, the Secretary may, in writing, direct a person apparently responsible for the dissemination, or for causing the dissemination, to do one or more of the following:
+(2) In relation to the dissemination of generic information in relation to vaping goods to the public or a section of the public, the Secretary may, in writing, direct a person apparently responsible for the dissemination, or for causing the dissemination, to do one or more of the following if the Secretary is satisfied that it is in the interests of public health or safety to give the person the direction:
 
 (a) withdraw the generic information;
 
