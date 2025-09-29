@@ -1,0 +1,7 @@
+# 110ZJF Remuneration of Defence and Veterans’ Services Commissioner
+
+(1) The Defence and Veterans’ Services Commissioner is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Commissioner is to be paid the remuneration that is prescribed by the rules.
+
+(2) The Commissioner is to be paid the allowances that are prescribed by the rules.
+
+(3) This section has effect subject to the Remuneration Tribunal Act 1973.
