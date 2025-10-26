@@ -1,1 +1,1 @@
-An Act to limit aircraft movements at Sydney Airport, and for related purposes
+An Act to limit and optimise aircraft movements at Sydney Airport, and for related purposes
