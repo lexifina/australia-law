@@ -1,0 +1,23 @@
+# 54Q IC review applications—circumstances in which not giving notice is appropriate
+
+(1) This section applies in relation to a document to which a consultation requirement applies under section 27 or 27A.
+
+(2) An agency or Minister is not required to notify an affected third party for the document under subsection 54P(2) if:
+
+(a) the agency or the Minister applies to the Information Commissioner for an order that it would not be appropriate to notify the affected third party in the circumstances covered by subsection (3); and
+
+(b) the Information Commissioner makes the order.
+
+Note: For affected third party, see section 53C.
+
+(3) The circumstances covered by this subsection are whether notifying the affected third party would, or could reasonably be expected to, do any of the following:
+
+(a) prejudice the conduct of an investigation of a breach, or possible breach, of the law, or a failure, or possible failure, to comply with a law relating to taxation;
+
+(b) prejudice the enforcement or proper administration of the law in a particular instance;
+
+(c) disclose, or enable a person to ascertain, the existence or identity of a confidential source of information, or the non-existence of a confidential source of information, in relation to the enforcement or administration of the law;
+
+(d) endanger the life or physical safety of any person;
+
+(e) cause damage to the security, defence or international relations of the Commonwealth.
