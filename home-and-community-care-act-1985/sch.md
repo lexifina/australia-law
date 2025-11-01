@@ -64,7 +64,7 @@ PART II—INTERPRETATION
 
 “base year” means the financial year that began on 1 July 1984;
 
-“Commonwealth base” means the unadjusted amount referred to in paragraph 13 (1) (a);
+“Commonwealth base” means the unadjusted amount referred to in paragraph 13(1)(a);
 
 “community organisation” means—
 
@@ -74,7 +74,7 @@ PART II—INTERPRETATION
 
 (ii) an organisation the principal objects or purposes of which are charitable or benevolent; or
 
-(iii) any other organisation agreed upon by the Commonwealth Minister and the State Minister for the purpose of this sub-paragraph;
+(iii) any other organisation agreed upon by the Commonwealth Minister and the State Minister for the purpose of this subparagraph;
 
 (b) the trustee or trustees for the time being under a trust established by an organisation referred to in paragraph (a) or by a local government;
 
@@ -102,7 +102,7 @@ PART II—INTERPRETATION
 
 (d) the financial year commencing on 1 July 1988 or any subsequent financial year while this agreement remains in force;
 
-“guidelines” means (other than in clause 10 and sub-clauses 11 (2) and (3)) guidelines referred to in clauses 10 and 11;
+“guidelines” means (other than in clause 10 and subclauses 11(2) and (3)) guidelines referred to in clauses 10 and 11;
 
 “joint body” means any two or more of the following acting jointly—
 
@@ -114,15 +114,15 @@ PART II—INTERPRETATION
 
 “local government” means a local governing body established by or under a law of the State;
 
-“long term residential care” includes long term care provided in a hospital or other institution, or through a residential care service within the meaning of the Aged Care Act 1997;
+“long term residential care” includes long term care provided in a hospital or other institution, or in an approved residential care home (within the meaning of the Aged Care Act 2024);
 
 “program” means the Home and Community Care Program established pursuant to clause 5;
 
 “second grant year” means the financial year commencing on 1 July 1986;
 
-“State base” means the unadjusted amount referred to in paragraph 14 (a);
+“State base” means the unadjusted amount referred to in paragraph 14(a);
 
-“target population” means the persons referred to in paragraph 6 (a); and
+“target population” means the persons referred to in paragraph 6(a); and
 
 “third grant year” means the financial year commencing on 1 July 1987.
 
@@ -132,9 +132,9 @@ PART II—INTERPRETATION
 
 (b) a reference to a clause is to the relevant clause of this agreement;
 
-(c) a reference to a sub-clause is to the relevant sub-clause of the clause in which the reference appears;
+(c) a reference to a subclause is to the relevant subclause of the clause in which the reference appears;
 
-(d) a reference to a paragraph, if no clause is specified, is to the relevant paragraph of the clause in which the reference appears, and a reference to a sub-paragraph, if no paragraph is specified, is to the relevant sub-paragraph of the paragraph in which the reference appears;
+(d) a reference to a paragraph, if no clause is specified, is to the relevant paragraph of the clause in which the reference appears, and a reference to a subparagraph, if no paragraph is specified, is to the relevant subparagraph of the paragraph in which the reference appears;
 
 (e) words in the singular include the plural and words in the plural include the singular; and
 
@@ -188,7 +188,7 @@ PART III—THE PROGRAM AND THE OBJECTIVE
 
 (b) the carers of those persons.
 
-7. (1) Subject to sub-clauses (3) and (4), a service is within the scope of the program if it provides or will provide basic maintenance and support to persons within the target population, being a service that provides or will provide one or more of the following—
+7. (1) Subject to subclauses (3) and (4), a service is within the scope of the program if it provides or will provide basic maintenance and support to persons within the target population, being a service that provides or will provide one or more of the following—
 
 (a) home help or personal care (or both);
 
@@ -214,7 +214,7 @@ PART III—THE PROGRAM AND THE OBJECTIVE
 
 (l) such other service as is agreed upon by the Commonwealth Minister and the State Minister.
 
-(2) A capital facility is within the scope of the program if it is used or to be used for or in connection with the provision of any service within the scope of the program pursuant to sub-clause (1).
+(2) A capital facility is within the scope of the program if it is used or to be used for or in connection with the provision of any service within the scope of the program pursuant to subclause (1).
 
 (3) A service of the following kind shall be outside the scope of the program—
 
@@ -222,7 +222,7 @@ PART III—THE PROGRAM AND THE OBJECTIVE
 
 (b) the provision of an aid or appliance.
 
-(4) A service of the following kind shall be within the scope of the program but only to the extent and for the period that it is eligible for funding by virtue of sub-clause 8 (2)—
+(4) A service of the following kind shall be within the scope of the program but only to the extent and for the period that it is eligible for funding by virtue of subclause 8(2)—
 
 (a) a rehabilitative service directed primarily towards increasing a person’s level of functioning;
 
@@ -236,7 +236,7 @@ PART III—THE PROGRAM AND THE OBJECTIVE
 
 PART IV—PROJECTS
 
-8. (1) Subject to sub-clause (2), a project shall be eligible for funding pursuant to this agreement if it is—
+8. (1) Subject to subclause (2), a project shall be eligible for funding pursuant to this agreement if it is—
 
 (a) a service or capital facility that is—
 
@@ -250,35 +250,35 @@ PART IV—PROJECTS
 
 (b) a former Commonwealth-funded project.
 
-(2) A project referred to in sub-clause 7 (4), being a former Commonwealth-funded project, shall be eligible for funding pursuant to this agreement but only—
+(2) A project referred to in subclause 7(4), being a former Commonwealth-funded project, shall be eligible for funding pursuant to this agreement but only—
 
 (a) to the extent that is necessary in order to maintain the project at the activity level at which it was provided prior to this agreement coming into force; and
 
-(b) while no alternative arrangements for the funding of the project have been made pursuant to sub-clause (3).
+(b) while no alternative arrangements for the funding of the project have been made pursuant to subclause (3).
 
-(3) By the end of the third grant year, the Commonwealth Minister and the State Minister shall jointly review the continued funding under this agreement of all projects to which sub-clause (2) applies and, if they think fit, make alternative arrangements for funding. If no such alternative arrangements are made for their funding, those projects shall continue to be eligible for funding to the extent referred to in sub-clause (2).
+(3) By the end of the third grant year, the Commonwealth Minister and the State Minister shall jointly review the continued funding under this agreement of all projects to which subclause (2) applies and, if they think fit, make alternative arrangements for funding. If no such alternative arrangements are made for their funding, those projects shall continue to be eligible for funding to the extent referred to in subclause (2).
 
-9. (1) The Commonwealth Minister and the State Minister shall jointly from time to time, but at least annually, consider which projects (if any), that are not already approved projects should be approved for funding in accordance with this agreement and, subject to the availability of funds for the purpose, they may jointly approve such projects for the purposes of sub-paragraph 8 (1) (a) (iv) and for such period as is specified in the approval.
+9. (1) The Commonwealth Minister and the State Minister shall jointly from time to time, but at least annually, consider which projects (if any), that are not already approved projects should be approved for funding in accordance with this agreement and, subject to the availability of funds for the purpose, they may jointly approve such projects for the purposes of subparagraph 8(1)(a)(iv) and for such period as is specified in the approval.
 
 (2) The State Minister shall, in consultation with the Commonwealth Minister, review the operation and level of funding of—
 
-(a) approved projects eligible for funding pursuant to paragraph 8 (1) (a) during the period for which approval under sub-clause (1) has been given; and
+(a) approved projects eligible for funding pursuant to paragraph 8(1)(a) during the period for which approval under subclause (1) has been given; and
 
-(b) approved projects eligible for funding pursuant to paragraph 8 (1) (b) annually.
+(b) approved projects eligible for funding pursuant to paragraph 8(1)(b) annually.
 
-(3) The Commonwealth Minister and the State Minister may at any time jointly revoke or vary an approval given under sub-clause (1), and may at any time jointly agree that an approved project eligible for funding pursuant to paragraph 8 (1) (b) is no longer eligible for funding or that the approved project as varied is eligible for funding for the purpose of this agreement.
+(3) The Commonwealth Minister and the State Minister may at any time jointly revoke or vary an approval given under subclause (1), and may at any time jointly agree that an approved project eligible for funding pursuant to paragraph 8(1)(b) is no longer eligible for funding or that the approved project as varied is eligible for funding for the purpose of this agreement.
 
-(4) In taking action under sub-clause (1), (2) or (3), the Commonwealth Minister and the State Minister respectively shall have regard to—
+(4) In taking action under subclause (1), (2) or (3), the Commonwealth Minister and the State Minister respectively shall have regard to—
 
 (a) the objective and the principles and goals set out in clause 5 and any guidelines; and
 
 (b) the views of local governments, community organisations and service users on needs and priorities under the program.
 
-(5) The Commonwealth Minister and the State Minister shall, unless they otherwise agree, jointly announce action taken pursuant to sub-clause (1) and may jointly announce action taken by them pursuant to sub-clauses (2) or (3).
+(5) The Commonwealth Minister and the State Minister shall, unless they otherwise agree, jointly announce action taken pursuant to subclause (1) and may jointly announce action taken by them pursuant to subclauses (2) or (3).
 
 10. The Commonwealth Minister from time to time may, after consultation with the State Minister and, where appropriate, local governments and community organisations and service users, give national program guidelines by notice published in the Commonwealth Gazette including guidelines relating to the scope and setting standards and the level of provision of services within the scope of the program. The Commonwealth Minister and the State Minister will agree on the application of the guidelines in the State.
 
-11. (1) Subject to this agreement, the State will be responsible for the management of the program, in accordance with the guidelines and any administrative arrangements approved pursuant to sub-clause (2).
+11. (1) Subject to this agreement, the State will be responsible for the management of the program, in accordance with the guidelines and any administrative arrangements approved pursuant to subclause (2).
 
 (2) The Commonwealth Minister and the State Minister shall jointly approve and may from time to time vary—
 
@@ -288,7 +288,7 @@ PART IV—PROJECTS
 
 (c) priorities and sub-program guidelines.
 
-(3) Until such time as the Commonwealth Minister and the State Minister jointly approve sub-program guidelines pursuant to sub-clause (2), the provisions of an Act referred to in recital (B) shall, in relation to a service or facility provided for under this agreement similar in kind to a service or facility to which that Act applied, be sub-program guidelines.
+(3) Until such time as the Commonwealth Minister and the State Minister jointly approve sub-program guidelines pursuant to subclause (2), the provisions of an Act referred to in recital (B) shall, in relation to a service or facility provided for under this agreement similar in kind to a service or facility to which that Act applied, be sub-program guidelines.
 
 (4) As soon as practicable after this agreement is signed the Commonwealth Minister and the State Minister shall make arrangements for the transfer to the State during the first 3 grant years of the Commonwealth’s responsibilities in relation to former Commonwealth-funded projects and such arrangements may include the provision of assistance to the State as a means of facilitating the transfer of responsibility.
 
@@ -308,7 +308,7 @@ adjusted in accordance with clause 17; and
 
 (b) such other amounts expended by the Commonwealth in the State in respect of that first or second grant year (as the case may be) as the Commonwealth Minister and the State Minister agree should be taken into account for the purpose of this paragraph.
 
-(2) In addition to the amount payable under sub-clause (1), the Commonwealth will provide in respect of the first grant year an amount equal to the balance (if any) remaining unexpended at 30 June 1985 of the amount allocated to the State of $10 million of the amount appropriated for payments under the Home and Community Care Program by the Appropriation Act (No. 2) 1984-85 of the Commonwealth Parliament.
+(2) In addition to the amount payable under subclause (1), the Commonwealth will provide in respect of the first grant year an amount equal to the balance (if any) remaining unexpended at 30 June 1985 of the amount allocated to the State of $10 million of the amount appropriated for payments under the Home and Community Care Program by the Appropriation Act (No. 2) 1984-85 of the Commonwealth Parliament.
 
 14. Subject to clauses 15 and 19, the State will provide from its own resources and apply, or cause local governments and community organisations to provide from their own resources and to apply, for expenditure in relation to approved projects in respect of the first and second grant years an amount equal to the sum of—
 
@@ -324,21 +324,21 @@ adjusted in accordance with clause 17; and
 
 15. (1) Where a former Commonwealth-funded project ceases to be provided in the first or second grant year, the State may reduce the State base in that grant year and, if that grant year is the first grant year, in the second grant year by an amount not exceeding the amount of expenditure in relation to the project included in the State base that was incurred otherwise than by the State.
 
-(2) Where, pursuant to sub-clause (1) the State reduces the State base, the Commonwealth may reduce the Commonwealth base by an amount not exceeding the amount of any matching funds provided by the Commonwealth in respect of the expenditure referred to in sub-clause (1).
+(2) Where, pursuant to subclause (1) the State reduces the State base, the Commonwealth may reduce the Commonwealth base by an amount not exceeding the amount of any matching funds provided by the Commonwealth in respect of the expenditure referred to in subclause (1).
 
-(3) Where, pursuant to sub-paragraph 14 (a) (ii) the State elects to include expenditure incurred by local governments and community organisations in relation to a particular project then the expenditure for the purpose of that sub-paragraph in relation to that project shall be the amounts expended in respect of that project in respect of the base year by the State, local governments and community organisations adjusted in accordance with clause 17.
+(3) Where, pursuant to subparagraph 14(a)(ii) the State elects to include expenditure incurred by local governments and community organisations in relation to a particular project then the expenditure for the purpose of that subparagraph in relation to that project shall be the amounts expended in respect of that project in respect of the base year by the State, local governments and community organisations adjusted in accordance with clause 17.
 
 16. (1) The Commonwealth will provide, in addition to base financial assistance pursuant to clause 13, the following financial assistance—
 
-(a) in respect of the first grant year—$3 for every $1 of eligible State expenditure incurred by the State in respect of the grant year, up to the maximum amount specified in relation to the State for that grant year in the Schedule or such other amount as may be paid by virtue of the operation of paragraph 3 (b); or
+(a) in respect of the first grant year—$3 for every $1 of eligible State expenditure incurred by the State in respect of the grant year, up to the maximum amount specified in relation to the State for that grant year in the Schedule or such other amount as may be paid by virtue of the operation of paragraph 3(b); or
 
 (b) in respect of the second grant year—
 
-(i) $2 for every $1 of eligible State expenditure incurred by the State in respect of the grant year, up to the maximum amount specified in relation to the State for that grant year in the Schedule or such other amount as may be paid by virtue of the operation of paragraph 3 (b); and
+(i) $2 for every $1 of eligible State expenditure incurred by the State in respect of the grant year, up to the maximum amount specified in relation to the State for that grant year in the Schedule or such other amount as may be paid by virtue of the operation of paragraph 3(b); and
 
-(ii) an amount that may be paid in respect of that grant year by virtue of the operation of paragraph 3 (a).
+(ii) an amount that may be paid in respect of that grant year by virtue of the operation of paragraph 3(a).
 
-(2) A reference in sub-clause (1) to the eligible State expenditure incurred by the State in respect of a grant year shall be read as a reference to an amount equal to the sum of—
+(2) A reference in subclause (1) to the eligible State expenditure incurred by the State in respect of a grant year shall be read as a reference to an amount equal to the sum of—
 
 (a) the amount expended in respect of the grant year by—
 
@@ -346,7 +346,7 @@ adjusted in accordance with clause 17; and
 
 (ii) local governments and community organisations from their own resources in relation to the provision of former Commonwealth-funded projects; and
 
-(iii) local governments and community organisations in relation to the provision of approved projects referred to in sub-paragraph 14 (a) (ii) where the State elects to include such expenditure pursuant to that sub-paragraph,
+(iii) local governments and community organisations in relation to the provision of approved projects referred to in subparagraph 14(a)(ii) where the State elects to include such expenditure pursuant to that subparagraph,
 
 in excess of the amount that is so expended pursuant to clause 14; and
 
@@ -356,17 +356,17 @@ in excess of the amount that is so expended pursuant to clause 14; and
 
 (a) the eligible State expenditure incurred by the State in respect of the first grant year is less than the amount that would be required to be expended in order to attract the maximum amount of financial assistance payable in respect of that grant year pursuant to paragraph (1)(a), then, if the Commonwealth Minister is satisfied that the State has a firm program in place for the expenditure and that the cause of the short-fall in expenditure lies generally outside the State’s control, the Commonwealth may provide additional financial assistance in respect of the second grant year of an amount not exceeding the unexpended balance of the maximum amount, upon the same terms as to matching as apply in respect of the first grant year; or
 
-(b) the whole amount specified in the Schedule as the maximum amount of additional financial assistance that may be paid by the Commonwealth in respect of the first or second grant year to another State or the Northern Territory does not become payable to that State or the Northern Territory, whether pursuant to an agreement made by the Commonwealth with that State or the Northern Territory in terms similar to this agreement or where there is no such agreement, the Commonwealth Minister may, by agreement between the Commonwealth Minister and the State Minister, increase the maximum amount payable to the State in respect of that grant year pursuant to sub-clause (1) by the amount determined by the Commonwealth Minister to be the State’s share of the unexpended balance of the amount specified in relation to that other State or the Northern Territory.
+(b) the whole amount specified in the Schedule as the maximum amount of additional financial assistance that may be paid by the Commonwealth in respect of the first or second grant year to another State or the Northern Territory does not become payable to that State or the Northern Territory, whether pursuant to an agreement made by the Commonwealth with that State or the Northern Territory in terms similar to this agreement or where there is no such agreement, the Commonwealth Minister may, by agreement between the Commonwealth Minister and the State Minister, increase the maximum amount payable to the State in respect of that grant year pursuant to subclause (1) by the amount determined by the Commonwealth Minister to be the State’s share of the unexpended balance of the amount specified in relation to that other State or the Northern Territory.
 
 17. (1) In this clause—
 
-“Commonwealth grant” means the Commonwealth grant referred to in sub-clause (5);
+“Commonwealth grant” means the Commonwealth grant referred to in subclause (5);
 
-“provisional Commonwealth grant” means the provisional Commonwealth grant referred to in sub-clause (6);
+“provisional Commonwealth grant” means the provisional Commonwealth grant referred to in subclause (6);
 
-“provisional State expenditure” means the provisional State expenditure referred to in sub-clause (6);
+“provisional State expenditure” means the provisional State expenditure referred to in subclause (6);
 
-“State expenditure” means the State expenditure referred to in sub-clause (5);
+“State expenditure” means the State expenditure referred to in subclause (5);
 
 “agreed index in respect of the provisional Commonwealth grant” and “agreed index in respect of the provisional State expenditure” means for the first or second grant year the figure ascertained in accordance with the formula—
 
@@ -386,7 +386,7 @@ where—
 
 (2) If the reference base for the Consumer Price Index, weekly award rates of pay or hourly award rates of pay is changed, then, for the purpose of applying a formula referred to in this clause after the change is made, regard shall be had only to the index number provided in terms of the new reference base.
 
-(3) Where the figure in respect of the first or second grant year, as ascertained in accordance with the definitions of “agreed index in respect of the Commonwealth grant” and “agreed index in respect of the State expenditure” in sub-clause (1), would, but for the operation of this sub-clause, be less than one, that figure shall be taken to be one.
+(3) Where the figure in respect of the first or second grant year, as ascertained in accordance with the definitions of “agreed index in respect of the Commonwealth grant” and “agreed index in respect of the State expenditure” in subclause (1), would, but for the operation of this subclause, be less than one, that figure shall be taken to be one.
 
 (4) For the purposes of any formula specified in this clause—
 
@@ -408,7 +408,7 @@ where—
 
 (7) The Commonwealth Minister and the State Minister may adjust the provisional Commonwealth grant and the provisional State expenditure at any time prior to their becoming a Commonwealth grant and the State expenditure respectively to accord with variations in estimates or with the terms of any relevant agreement between the Commonwealth Minister and the State Minister.
 
-(8) When the agreed index in respect of the Commonwealth grant and in respect of the State expenditure may be calculated in respect of the first or second grant year, the provisional Commonwealth grant and the provisional State expenditure shall be considered by the Commonwealth Minister and the State Minister for the purposes of them agreeing, as required by sub-clause (5), upon the Commonwealth grant and the State expenditure in respect of that grant year.
+(8) When the agreed index in respect of the Commonwealth grant and in respect of the State expenditure may be calculated in respect of the first or second grant year, the provisional Commonwealth grant and the provisional State expenditure shall be considered by the Commonwealth Minister and the State Minister for the purposes of them agreeing, as required by subclause (5), upon the Commonwealth grant and the State expenditure in respect of that grant year.
 
 (9) Any financial adjustment arising from differences between the provisional Commonwealth grant and the Commonwealth grant, and between the provisional State expenditure and the State expenditure for the first or second grant year shall, except where otherwise agreed between the Commonwealth Minister and the State Minister, be effected in the following grant year.
 
@@ -424,7 +424,7 @@ where—
 
 (a) x1 and x2 are the Commonwealth bases or the State bases (as the case may be) in respect of the first and second grant years, respectively;
 
-(b) y1 and y2 are the amounts (if any) referred to in paragraph 13 (1) (b) or 14 (b) (as the case may be) in respect of the first and second grant years, respectively; and
+(b) y1 and y2 are the amounts (if any) referred to in paragraph 13(1)(b) or 14(b) (as the case may be) in respect of the first and second grant years, respectively; and
 
 (c) z1 and z2 are the amounts of any additional Commonwealth financial assistance or eligible State expenditure referred to in clause 16 (as the case may be) in respect of the first and second grant years, respectively.
 
@@ -438,31 +438,31 @@ where—
 
 (a) x1 and x2 are the Commonwealth bases or the State bases (as the case may be) in respect of the first and second grant years, respectively;
 
-(b) y1 and y2 are the amounts (if any) referred to in paragraph 13 (1) (b) or 14 (b) (as the case may be) in respect of the first and second grant years, respectively; and
+(b) y1 and y2 are the amounts (if any) referred to in paragraph 13(1)(b) or 14(b) (as the case may be) in respect of the first and second grant years, respectively; and
 
 (c) z1 and z2 are the amounts of any additional Commonwealth financial assistance or eligible State expenditure referred to in clause 16 (as the case may be) in respect of the first and second grant years, respectively.
 
-18. (1) Subject to sub-clause (4), the Commonwealth will provide financial assistance to the State in respect of each grant year following the second grant year of an amount equal to the sum of—
+18. (1) Subject to subclause (4), the Commonwealth will provide financial assistance to the State in respect of each grant year following the second grant year of an amount equal to the sum of—
 
 (a) the amount that is the product of the indexation factor and the amount of financial assistance paid to the State in the immediately preceding grant year; and
 
 (b) such other amounts as are agreed upon for the purposes of this paragraph by the Commonwealth Minister and the State Minister.
 
-(2) Subject to sub-clause (4), the State will provide from its own resources and apply, or cause local governments and community organisations to provide from their own resources and apply, for expenditure in relation to approved projects in respect of each grant year following the second grant year of an amount equal to the sum of—
+(2) Subject to subclause (4), the State will provide from its own resources and apply, or cause local governments and community organisations to provide from their own resources and apply, for expenditure in relation to approved projects in respect of each grant year following the second grant year of an amount equal to the sum of—
 
 (a) the amount that is the product of the indexation factor and the amount expended by the State, local governments and community organisations in relation to approved projects in the immediately preceding grant year; and
 
 (b) such other amounts as are agreed upon for the purposes of this paragraph by the Commonwealth Minister and the State Minister.
 
-(3) For the purposes of paragraphs (1) (a) and (2) (a), the indexation factor is—
+(3) For the purposes of paragraphs (1)(a) and (2)(a), the indexation factor is—
 
 (a) in respect of the third grant year—a number not exceeding 1.2 agreed upon in writing between the Commonwealth Minister and the State Minister in the second grant year or within such longer period as is agreed upon by the Commonwealth Minister and the State Minister; or
 
 (b) in respect of a grant year following the third grant year—the number 1.2 unless the Commonwealth Minister and the State Minister agree in writing in the immediately preceding grant year upon a different number.
 
-(3A) Where a different number is agreed upon in accordance with paragraph (3) (b), that number shall, for the purposes of the operation of paragraphs (1) (a) and (2) (a), be substituted for the number 1.2 in respect of the first-mentioned grant year.
+(3A) Where a different number is agreed upon in accordance with paragraph (3)(b), that number shall, for the purposes of the operation of paragraphs (1)(a) and (2)(a), be substituted for the number 1.2 in respect of the first-mentioned grant year.
 
-(4) In the event that the parties fail to agree on the continued operation of this agreement consequent upon a review conducted in the third or any subsequent grant year (in this sub-clause referred to as the “relevant grant year”) pursuant to clause 31 then, in respect of each of the following 2 grant years—
+(4) In the event that the parties fail to agree on the continued operation of this agreement consequent upon a review conducted in the third or any subsequent grant year (in this subclause referred to as the “relevant grant year”) pursuant to clause 31 then, in respect of each of the following 2 grant years—
 
 (a) the Commonwealth will provide financial assistance of an amount equal to the sum of—
 
@@ -470,9 +470,9 @@ where—
 
 (A) where the grant year is the first succeeding grant year after the relevant grant year—the product of the adjustment factor and the amount of financial assistance paid to the State in the relevant grant year; or
 
-(B) where the grant year is the second succeeding grant year after the relevant grant year—the product of the adjustment factor and the amount calculated in accordance with sub-sub-paragraph (4) (a) (i) (A); and
+(B) where the grant year is the second succeeding grant year after the relevant grant year—the product of the adjustment factor and the amount calculated in accordance with sub-subparagraph (4)(a)(i)(A); and
 
-(ii) such other amounts as are agreed upon for the purposes of this sub-paragraph by the Commonwealth Minister and the State Minister; and
+(ii) such other amounts as are agreed upon for the purposes of this subparagraph by the Commonwealth Minister and the State Minister; and
 
 (b) the State will provide from its own resources and apply, or cause local governments and community organisations to provide from their own resources and apply, for expenditure in relation to approved projects in an amount equal to the sum of—
 
@@ -480,11 +480,11 @@ where—
 
 (A) where the grant year is the first succeeding grant year after the relevant grant year—the product of the adjustment factor and the amount expended by the State, local governments and community organisations in relation to the provision of approved projects in the relevant grant year; or
 
-(B) where the grant year is the second succeeding grant year after the relevant grant year—the product of the adjustment factor and the amount calculated in accordance with sub-sub-paragraph (4) (b) (i) (A); and
+(B) where the grant year is the second succeeding grant year after the relevant grant year—the product of the adjustment factor and the amount calculated in accordance with sub-subparagraph (4)(b)(i)(A); and
 
-(ii) such other amounts as are agreed upon for the purposes of this sub-paragraph by the Commonwealth Minister and the State Minister.
+(ii) such other amounts as are agreed upon for the purposes of this subparagraph by the Commonwealth Minister and the State Minister.
 
-(5) For the purposes of sub-paragraphs (4) (a) (i) and (4) (b) (i), the adjustment factor in respect of each of the 2 grant years following the grant year during which the parties fail to agree is a number calculated in accordance with the formula—
+(5) For the purposes of subparagraphs (4)(a)(i) and (4)(b)(i), the adjustment factor in respect of each of the 2 grant years following the grant year during which the parties fail to agree is a number calculated in accordance with the formula—
 
 where—
 
@@ -492,9 +492,9 @@ where—
 
 (b) is the movement between the March quarter of the first preceding grant year and the March quarter of the second preceding grant year in the All Groups Consumer Price Index Excluding Hospital and Medical Services for the State Capital City as provided by the Australian Statistician in relation to the series entitled “Consumer Price Index”.
 
-(6) Where the adjustment factor, as ascertained in accordance with sub-clause (5), would, but for the operation of this sub-clause, be less than one, that factor shall be taken to be one.
+(6) Where the adjustment factor, as ascertained in accordance with subclause (5), would, but for the operation of this subclause, be less than one, that factor shall be taken to be one.
 
-(7) If the reference base for the Consumer Price Index or hourly award rates of pay index is changed, then, for the purpose of applying the formula referred to in sub-clause (5) after the change is made, regard shall be had only to the index number provided in terms of the new reference base.
+(7) If the reference base for the Consumer Price Index or hourly award rates of pay index is changed, then, for the purpose of applying the formula referred to in subclause (5) after the change is made, regard shall be had only to the index number provided in terms of the new reference base.
 
 19. (1) In calculating expenditure incurred by the State, local governments and community organisations for the purposes of clauses 14, 16 and 18—
 
@@ -518,13 +518,13 @@ where—
 
 (iii) amounts expended in providing a home or community care service to a person who is eligible to receive a payment by way of compensation in respect of a disability that gives rise to the need for such a service.
 
-(2) A reference in sub-clause (1) to a payment by way of compensation shall be read as a reference to—
+(2) A reference in subclause (1) to a payment by way of compensation shall be read as a reference to—
 
 (i) a payment by way of damages;
 
 (ii) a payment under a scheme of insurance or compensation provided for by a law of the State, including payment under a contract entered into in pursuance of such a scheme;
 
-(iii) a payment, whether with or without admission of liability, in settlement of a claim for damages or of a claim under a scheme referred to in sub-paragraph (ii); or
+(iii) a payment, whether with or without admission of liability, in settlement of a claim for damages or of a claim under a scheme referred to in subparagraph (ii); or
 
 (iv) any other payment that, in the opinion of the Commonwealth Minister, is a payment in the nature of compensation or damages, other than a payment for which the person who is eligible to receive the payment has made contributions.
 
@@ -538,17 +538,17 @@ CONDITIONS
 
 (i) particulars of expenditure incurred by the State, local governments and community organisations in relation to the provision of former Commonwealth-funded projects in respect of the base year, showing separately in respect of each of those projects the amounts so expended by the State, local governments and community organisations; and
 
-(ii) details of the projects, other than former Commonwealth-funded projects, in relation to which the State, local governments and community organisations incurred expenditure in respect of the base year and in respect of which the State proposes to seek approval under sub-clause 9 (1), showing separately in respect of each of those projects the amounts so expended by the State, local governments and community organisations; and
+(ii) details of the projects, other than former Commonwealth-funded projects, in relation to which the State, local governments and community organisations incurred expenditure in respect of the base year and in respect of which the State proposes to seek approval under subclause 9(1), showing separately in respect of each of those projects the amounts so expended by the State, local governments and community organisations; and
 
 (b) the Commonwealth shall furnish to the State—
 
 (i) particulars of expenditure incurred by the Commonwealth in relation to the provision of former Commonwealth-funded projects; and
 
-(ii) details of projects, other than former Commonwealth-funded projects, in relation to which the Commonwealth incurred expenditure in respect of the financial year beginning on 1 July 1984 and in respect of which the Commonwealth proposes to seek approval under sub-clause 9 (1).
+(ii) details of projects, other than former Commonwealth-funded projects, in relation to which the Commonwealth incurred expenditure in respect of the financial year beginning on 1 July 1984 and in respect of which the Commonwealth proposes to seek approval under subclause 9(1).
 
 21. Within 3 months of the date this agreement is signed (in respect of the first grant year) and by 1 March preceding the beginning of each succeeding grant year (other than the 2 grant years following a failure to agree as provided in clause 31), the State shall inform the Commonwealth, in a form agreed upon by the Commonwealth Minister and the State Minister, of the amounts of financial assistance that the State wishes the Commonwealth to provide to it in respect of the next 3 succeeding grant years and at the same time provide estimates of financial performance and planned programs for those grant years and revised estimates of that performance and those programs for the then current grant year.
 
-22. (1) Subject to sub-clauses (2) and (3), the Commonwealth Minister and the State Minister shall, in respect of each grant year, jointly approve, in accordance with the objective, principles and goals set out in clause 5, the allocation among approved projects of the total amount of financial assistance to be provided by the Commonwealth and the total amount of expenditure to be incurred by the State in respect of that grant year.
+22. (1) Subject to subclauses (2) and (3), the Commonwealth Minister and the State Minister shall, in respect of each grant year, jointly approve, in accordance with the objective, principles and goals set out in clause 5, the allocation among approved projects of the total amount of financial assistance to be provided by the Commonwealth and the total amount of expenditure to be incurred by the State in respect of that grant year.
 
 (2) The Commonwealth Minister and the State Minister may, in accordance with the objective, principles and goals set out in clause 5, jointly approve the allocation to an approved project of financial assistance to be provided by the Commonwealth and of expenditure to be incurred by the State in respect of two or more grant years.
 
@@ -556,7 +556,7 @@ CONDITIONS
 
 23. Financial assistance in respect of a grant year is to be provided by regular quarterly instalments unless otherwise agreed between the Commonwealth Minister and the State Minister, such instalments to be calculated in respect of the first and second grant years on the basis of the provisional Commonwealth grant in respect of the grant year, ascertained in accordance with clause 17.
 
-24. (1) Subject to sub-clause (2), the Commonwealth Minister may, at such times and in such amounts as the Commonwealth Minister thinks fit, make advances on account of financial assistance that may become payable to the State under this agreement.
+24. (1) Subject to subclause (2), the Commonwealth Minister may, at such times and in such amounts as the Commonwealth Minister thinks fit, make advances on account of financial assistance that may become payable to the State under this agreement.
 
 (2) Where in respect of a grant year the State makes advances from its own resources for the purpose of meeting or reimbursing expenditure for approved projects, the Commonwealth will make advances of the same amounts as to matching as would apply if the advances by the State were expenditure by the State from its own resources pursuant to clauses 14 and 16 or clause 18 (as the case may be) and the advances by the Commonwealth were financial assistance pursuant to clauses 13 and 16 or clause 18 (as the case may be) in respect of that grant year.
 
@@ -578,7 +578,7 @@ CONDITIONS
 
 (e) not permit its expenditure under this agreement, vis-a-vis local governments and community organisations, to diminish unless otherwise agreed by the Commonwealth Minister and the State Minister; and
 
-(f) pay to the Commonwealth an amount that becomes payable pursuant to sub-clause (2).
+(f) pay to the Commonwealth an amount that becomes payable pursuant to subclause (2).
 
 (2) In the event that property of a non-expendable nature that was acquired by the State, a local government or a community organisation wholly or partly with financial assistance provided in respect of an approved project—
 
@@ -590,7 +590,7 @@ CONDITIONS
 
 the State shall pay to the Commonwealth the Commonwealth’s share of the value of the property at the date of the happening of the event unless the Commonwealth Minister and the State Minister otherwise agree or unless, in the case where the property was acquired by a local government or community organisation, the State is unable to recover that share from the local government or community organisation.
 
-(3) For the purpose of sub-clause (2)—
+(3) For the purpose of subclause (2)—
 
 “the value of the property” means the amount agreed upon by the Commonwealth and the State or, in the absence of agreement the amount determined by a qualified valuer nominated by the Commonwealth Minister, as the value of the property; and
 
@@ -628,7 +628,7 @@ PART VII—SUPPLY OF INFORMATION
 
 (5) In specifying the Commonwealth requirements for data collection and the development of an information system, the Commonwealth Minister shall have regard to the administrative practices and procedures of the State and shall ensure that collection requirements and provision of data by the State are kept to a minimum.
 
-(6) In developing an information system pursuant to sub-clause (1) and in arranging for the collection and provision of information pursuant to sub-clause (2), the Commonwealth Minister and the State Minister shall have regard to the views of local governments and community organisations involved in service delivery and users in the design and implementation of the system and ensure that, where appropriate, information so collected is made available to those bodies.
+(6) In developing an information system pursuant to subclause (1) and in arranging for the collection and provision of information pursuant to subclause (2), the Commonwealth Minister and the State Minister shall have regard to the views of local governments and community organisations involved in service delivery and users in the design and implementation of the system and ensure that, where appropriate, information so collected is made available to those bodies.
 
 PART VIII—REVIEW AND VARIATION
 
@@ -636,11 +636,11 @@ PART VIII—REVIEW AND VARIATION
 
 32. (1) The provisions of this agreement may be varied at any time by a further agreement in writing.
 
-(2) A copy of an agreement or copies of the documents which constitute an agreement under sub-clause (1) shall be tabled in the Parliament of the Commonwealth within 15 sitting days from the date upon which the agreement is made.
+(2) A copy of an agreement or copies of the documents which constitute an agreement under subclause (1) shall be tabled in the Parliament of the Commonwealth within 15 sitting days from the date upon which the agreement is made.
 
 PART IX—REPRESENTATION AND COMMUNICATIONS
 
-33. (1) The Commonwealth shall, subject to sub-clause (2), be represented for the purposes of this agreement by the Department of Community Services and the Commonwealth Minister shall notify the State Minister of the address of that Department and of any change at any time of that address.
+33. (1) The Commonwealth shall, subject to subclause (2), be represented for the purposes of this agreement by the Department of Community Services and the Commonwealth Minister shall notify the State Minister of the address of that Department and of any change at any time of that address.
 
 (2) In the event that the administration of this agreement for the Commonwealth is allocated to a Minister other than the Minister for Community Services, the Commonwealth shall be represented by the Department administered by that other Minister and that other Minister shall notify the State Minister of the address of that Department.
 
