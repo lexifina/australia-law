@@ -10,6 +10,24 @@ Commission Act means the Aged Care Quality and Safety Commission Act 2018.
 
 Commission Rules means the Aged Care Quality and Safety Commission Rules 2018.
 
+modify the operation of the provisions of an Act or instrument includes modify that operation by notionally adding, omitting or substituting text.
+
+Note: Examples of modifying the operation of the provisions of an Act or instrument by notionally adding, omitting or substituting text include notionally adding, omitting or substituting:
+
+(a) words in a provision; or
+
+(b) part of a provision; or
+
+(c) a whole provision; or
+
+(d) a series or group of provisions.
+
+new law means any of the following laws:
+
+(a) the new Act;
+
+(b) an instrument made under the new Act.
+
 new Act means the Aged Care Act 2024.
 
 old Act means the Aged Care Act 1997.
@@ -22,11 +40,7 @@ old law means any of the following laws:
 
 (c) the old Transitional Provisions Act;
 
-(d) the old Principles;
-
-(e) the Commission Rules;
-
-(f) the old Transitional Provisions Principles.
+(d) an instrument made under the old Act, the Commission Act or the old Transitional Provisions Act.
 
 old Principles means Principles made under section 96-1 of the old Act.
 
@@ -34,11 +48,13 @@ old Transitional Provisions Act means the Aged Care (Transitional Provisions) Ac
 
 old Transitional Provisions Principles means Principles made under section 96-1 of the old Transitional Provisions Act.
 
+Subsidy Principles means the Subsidy Principles 2014.
+
 transitional rules means the rules made under item 65.
 
 transition time means the time the new Act commences.
 
-(2) An expression used in a provision of this Schedule and in the new Act has the same meaning in that provision as it has in the new Act, subject to subitem (3).
+(2) An expression used in a provision of this Schedule and in the new law has the same meaning in that provision as it has in the new law, subject to subitem (3).
 
 (3) An expression used in a provision of this Schedule and in the old law has the same meaning in that provision as it had in the old law to the extent that:
 
@@ -46,13 +62,17 @@ transition time means the time the new Act commences.
 
 (b) the provision has the effect that a provision of the old law continues to apply despite the repeal of the old law.
 
+1A Section 7 of the Acts Interpretation Act 1901
+
+This Schedule does not limit the effect of section 7 of the Acts Interpretation Act 1901 as it applies in relation to the repeals and amendments made by this Act.
+
 Part 2—Transitional provisions for Chapter 2 of the new Act
 
 2 Access approvals for service groups home support, assistive technology and home modifications
 
 Access approvals and related decisions
 
-(1) The System Governor is taken to have made the following decisions at the transition time, in relation to an individual to whom subitem (2) applies:
+(1) The System Governor is taken to have made the following decisions at the transition time, in relation to an individual to whom subitem (2) applies or who is in a transitional cohort under a determination made under subitem (3):
 
 (a) an eligibility determination under subsection 57(1) of the new Act;
 
@@ -88,7 +108,7 @@ Access approvals and related decisions
 
 (iii) the classification type short-term for the service group home modifications;
 
-(g) for an individual referred to in paragraph (2)(g) of this item—a decision under paragraph 65(2)(a) of the new Act that the individual is approved for each service group and each classification type for that service group specified by the determination;
+(g) for an individual who is in a transitional cohort under a determination made under subitem (3)—a decision under paragraph 65(2)(a) of the new Act that the individual is approved for each service group and each classification type for that service group specified by the determination;
 
 (h) for an individual referred to in any paragraph in subitem (2) of this item and who is not an Aboriginal or Torres Strait Islander person:
 
@@ -114,11 +134,9 @@ Individuals to whom transition applies
 
 (e) had been assessed as eligible for Commonwealth Home Support Programme services; or
 
-(f) had, at any time in the previous 12 months, accessed services under the National Aboriginal and Torres Strait Islander Flexible Aged Care Program; or
+(f) had, at any time in the previous 12 months, accessed services under the National Aboriginal and Torres Strait Islander Flexible Aged Care Program.
 
-(g) was in a class of individuals determined under subitem (3) by the System Governor to be a transitional cohort.
-
-(3) The System Governor may, by legislative instrument, determine a class of individuals to be a transitional cohort for the purposes of paragraph (2)(g) if:
+(3) The System Governor may, by legislative instrument, determine that individuals included in a specified class are in a transitional cohort for the purposes of this item if:
 
 (a) the individuals in that class were eligible to access aged care (whether under the old Act or under a Commonwealth program) at any time in the 12 month period ending at the transition time; and
 
@@ -158,7 +176,7 @@ Limitations on funded aged care services to which transition applies for individ
 
 3 Access approvals for service group residential care
 
-(1) The System Governor is taken to have made the following decisions at the transition time, in relation to an individual to whom subitem (2) applies:
+(1) The System Governor is taken to have made the following decisions at the transition time, in relation to an individual to whom subitem (2) applies or who is in a transitional cohort under a determination made under subitem (4):
 
 (a) an eligibility determination under subsection 57(1) of the new Act;
 
@@ -170,7 +188,7 @@ Limitations on funded aged care services to which transition applies for individ
 
 (ii) if paragraph (2)(b) of this item applies to the individual—the classification type short-term for the service group residential care;
 
-(iii) if paragraph (2)(c), (e) or (f) of this item applies to the individual—the classification types ongoing and short-term for the service group residential care;
+(iii) if paragraph (2)(c) or (e) of this item applies to the individual—the classification types ongoing and short-term for the service group residential care;
 
 (iv) if paragraph (2)(d) of this item applies to the individual—the classification type hospital transition for the service group residential care.
 
@@ -184,19 +202,35 @@ Limitations on funded aged care services to which transition applies for individ
 
 (d) the individual was approved under section 22-1 of the old Act as a recipient of residential care and flexible care in the form of transition care (within the meaning of the old Principles); or
 
-(e) subitem (3) applies in relation to the individual and the individual was:
+(e) subitem (3) applies in relation to the individual and:
 
-(i) accessing flexible care provided in a residential setting through a multi-purpose service (within the meaning of the old Principles); or
+(i) the individual was accessing flexible care provided in a residential setting through a multi-purpose service (within the meaning of the old Principles); or
 
-(ii) party to a written agreement with an approved provider (within the meaning of the old Act) of a multi-purpose service (within the meaning of the old Principles) which provides for the individual to commence accessing flexible care provided in a residential setting through that service within the period of 3 months beginning at the transition time; or
+(ii) the individual was party to a written agreement with an approved provider (within the meaning of the old Act) of a multi-purpose service (within the meaning of the old Principles) which provides for the individual to commence accessing flexible care provided in a residential setting through that service within the period of 3 months beginning at the transition time; or
 
-(f) the individual had, at any time in the previous 12 months, received services under the National Aboriginal and Torres Strait Islander Flexible Aged Care Program.
+(iii) the individual had, at any time in the previous 12 months, received services under the National Aboriginal and Torres Strait Islander Flexible Aged Care Program.
 
-(3) This subitem applies in relation to the individual if the individual has, by reason of sickness (within the meaning of the new Act), a continuing need for funded aged care services (including nursing services) in the service group.
+(3) This subitem applies in relation to the individual if:
+
+(a) the individual has, by reason of sickness (within the meaning of the new Act), a continuing need for funded aged care services (including nursing services) in the service group; or
+
+(b) the individual is an Aboriginal or Torres Strait Islander person.
+
+(4) The System Governor may, by legislative instrument, determine that individuals included in a specified class are in a transitional cohort for the purposes of this item if:
+
+(a) the individuals in that class were eligible to access, at any time in the 12 month period ending at the transition time:
+
+(i) residential care, or flexible care provided in a residential setting, under the old Act; or
+
+(ii) care provided in a residential setting under a Commonwealth program; and
+
+(b) the System Governor considers it reasonably necessary to make the determination to ensure continuity of funded aged care services through the service group residential care for those individuals.
+
+(5) A determination under subitem (4) may be made after the transition time.
 
 4 Classification levels, priority category and place allocation decisions
 
-(1) The System Governor must determine, by legislative instrument, for one or more classes of individuals to whom subitem 2(2) applies, the following:
+(1) The System Governor must determine, by legislative instrument, for one or more classes of individuals to whom subitem 2(2) applies, or who are in a transitional cohort under a determination made under subitem 2(3), the following:
 
 (a) the classification level taken to be established for each of the individuals in the class under subsection 78(1) of the new Act at the transition time for a classification type for a service group that those individuals are taken to be approved for under subitem 2(1);
 
@@ -204,9 +238,11 @@ Limitations on funded aged care services to which transition applies for individ
 
 (c) if circumstances specified by the determination apply in relation to the individuals in the class and a classification type for a service group specified by the determination—that a place is taken to have been allocated under subsection 92(1) of the new Act at the transition time to each of those individuals for the classification type for the service group.
 
-(2) The System Governor must determine, by legislative instrument, for one or more classes of individuals to whom subitem 3(2) applies, the following:
+(2) The System Governor must determine, by legislative instrument, for one or more classes of individuals to whom subitem 3(2) applies, or who are in a transitional cohort under a determination made under subitem 3(4), the following:
 
 (a) the classification level taken to be established for each of the individuals in the class under subsection 78(1) of the new Act at the transition time for a classification type for the service group residential care that those individuals are taken to be approved for under subitem 3(1);
+
+(ab) if circumstances specified by the determination apply in relation to the individuals in the class and a classification type for the service group residential care—the priority category that each of those individuals is taken to have been assigned for the classification type for the service group under subsection 86(1) of the new Act at the transition time;
 
 (b) if circumstances specified by the determination apply in relation to the individuals in the class and a classification type for the service group residential care specified by the determination—that a place is taken to have been allocated under subsection 92(1) of the new Act at the transition time to each of those individuals for the classification type for the service group.
 
@@ -320,7 +356,7 @@ Determinations by System Governor
 
 (3) The System Governor must not make a determination under subitem (1) unless the System Governor is satisfied that:
 
-(a) the determination will ensure that the provision of certain types of care under the old Act, or services delivered under an agreement between the entity and the Commonwealth, may continue as funded aged care services under the new Act that correspond as nearly as possible to those types of care or services; and
+(a) the determination will ensure that the provision of certain types of care under the old Act, or services delivered under an agreement between an entity and the Commonwealth, may continue as funded aged care services under the new Act that correspond as nearly as possible to those types of care or services; and
 
 (b) any other requirements prescribed by the transitional rules are met.
 
@@ -633,6 +669,150 @@ Notices of intention to make determination
 (c) the person or body had not complied with the requirement before the transition time.
 
 (2) Despite the repeal of the old Act by this Act, the requirement continues to apply as if the repeal had not happened.
+
+Part 3A—Transitional provisions for Chapter 4 of the new Act
+
+Division 1—Home care subsidy under the old law
+
+20B Claims for home care subsidy—pre-transition time payment periods
+
+(1) Despite the repeal of the old law, a claim for home care subsidy, or a variation of a claim for home care subsidy, may be made on or after the transition time in respect of a payment period ending before the transition time, and the old Act and the Subsidy Principles continue to apply to the claim and any subsidy payable as a result of the claim, as if the repeal had not happened.
+
+(2) If an overpayment to a person of an amount by way of home care subsidy is made before or after the transition time, and the amount has not been recovered by the Commonwealth before the transition time:
+
+(a) the amount is taken, after the transition time, to be a recoverable amount for the purposes of the new Act; and
+
+(b) the entity is a debtor in relation to the recoverable amount for the purposes of the new Act.
+
+20C Pending application for hardship supplement
+
+Despite the repeal of the old law, sections 48-10, 48-11 and 48-12 of the old Act, and Subdivision A of Division 4 of Part 2 of Chapter 3 of the Subsidy Principles, continue to apply to an application under subsection 48-11(4) of the old Act that was made, but not decided, before the transition time, as if the repeal had not happened.
+
+Division 2—Subsidy for home support
+
+20D Notification of service delivery branches
+
+(1) This item applies if, at the transition time:
+
+(a) an entity is, because of subitem 5(1) of this Schedule, taken to be a registered provider under paragraph 105(1)(a) of the new Act; and
+
+(b) a home care service is, because of subitem 5(8) of this Schedule, taken to be a service delivery branch of the registered provider.
+
+(2) The registered provider is taken, at the transition time, to have given the System Governor a notification for the service delivery branch in accordance with subsection 203(1) of the new Act.
+
+Division 3—Unspent home care amounts
+
+20DA Unspent home care amounts—Commonwealth portions and home care accounts
+
+Responsibility to pay Commonwealth portion after the transition time
+
+(1) Subitem (2) applies if, before the transition time:
+
+(a) section 21F or section 21JB of the User Rights Principles 2014 applied to the Commonwealth portion of a care recipient’s unspent home care amount; and
+
+(b) the time at which the Commonwealth portion becomes due and payable to the Commonwealth had not occurred; and
+
+(c) the Commonwealth portion had not been paid to the Commonwealth.
+
+(2) Despite the repeal of the old law, that section continues to apply after the transition time, in relation to the Commonwealth portion, as if the repeal had not happened.
+
+Recovery of Commonwealth portion—registered providers
+
+(3) If a person who is, at the transition time, taken to be a registered provider because of subitem 5(1) of this Schedule fails, after the transition time, to comply with section 21F or 21JB of the User Rights Principles 2014 (as that section continues to apply because of subitem (2) of this item) in relation to the Commonwealth portion of a care recipient’s unspent home care amount:
+
+(a) the Commonwealth portion is taken to be a recoverable amount under section 514 of the new Act; and
+
+(b) the registered provider is taken to be a debtor under section 514 of the new Act in relation to the recoverable amount.
+
+Note: Division 2 of Part 13 of Chapter 6 of the new Act deals with the recovery of recoverable amounts.
+
+Recovery of Commonwealth portion—persons who are not registered providers
+
+(4) Despite the repeal of the old law, Division 95 of the old Act continues to apply after the transition time in relation to the Commonwealth portion of a care recipient’s unspent home care amount as if the repeal had not happened, if:
+
+(a) subitem (2) of this item applies in relation to the Commonwealth portion; and
+
+(b) the person who was, immediately before the transition time, the approved provider in relation to the Commonwealth portion is not, at the transition time, taken to be a registered provider because of subitem 5(1) of this Schedule.
+
+Note: Division 95 of the old Act deals with the recovery of overpayments.
+
+Credit to new Act home care account for return of Commonwealth portion after the transition time
+
+(5) Subitem (6) applies in relation to an individual if:
+
+(a) immediately before the transition time, the individual was a care recipient with an unspent home care amount; and
+
+(b) at a time (the post-transition time) after the transition time:
+
+(i) a person (whether or not a registered provider) pays the Commonwealth portion of the care recipient’s unspent home care amount to the Commonwealth in accordance with section 21F or 21JB of the User Rights Principles 2014 (as that section continues to apply because of subitem (2) of this item); or
+
+(ii) the Commonwealth recovers the Commonwealth portion of the care recipient’s unspent home care amount (whether under Part 13 of Chapter 6 of the new Act or under Division 95 of the old Act as that Division continues to apply because of subitem (4) of this item); and
+
+(c) at the post-transition time, the individual has a home care account in accordance with section 226E of the new Act.
+
+(6) The individual’s home care account is credited, at the start of a day prescribed by the transitional rules, by the amount of the Commonwealth portion.
+
+20DB Unspent home care amounts—care recipient portions
+
+(1) Subitem (2) applies if, before the transition time:
+
+(a) section 21F of the User Rights Principles 2014 applied to the care recipient portion of a care recipient’s unspent home care amount; and
+
+(b) the period within which the care recipient portion must be paid in accordance with that section had not ended; and
+
+(c) the care recipient portion had not been paid in accordance with that section.
+
+(2) Despite the repeal of the old law, section 21F and subsection 21G(1) of the User Rights Principles 2014 continue to apply after the transition time, in relation to the care recipient portion, as if the repeal had not happened.
+
+Division 4—Residential care subsidy under the old law
+
+20E Claims for residential care subsidy—pre-transition time payment periods
+
+(1) Despite the repeal of the old law, a claim for residential care subsidy, or a variation of a claim for residential care subsidy, may be made on or after the transition time in respect of a payment period ending before the transition time, and the old Act and the Subsidy Principles continue to apply to the claim and any subsidy payable as a result of the claim, as if the repeal had not happened.
+
+(2) If an overpayment to a person of an amount by way of residential care subsidy is made before or after the transition time, and the amount has not been recovered by the Commonwealth before the transition time:
+
+(a) the amount is taken, after the transition time, to be a recoverable amount for the purposes of the new Act; and
+
+(b) the entity is a debtor in relation to the recoverable amount for the purposes of the new Act.
+
+20F Pending application for hardship supplement
+
+Despite the repeal of the old law, sections 44-30, 44-31 and 44-32 of the old Act, and Subdivision B of Division 5 of Part 3 of Chapter 2 of the Subsidy Principles, continue to apply to an application under subsection 44-31(4) of the old Act, that was made, but not decided, before the transition time, as if the repeal had not happened.
+
+Division 5—Subsidy for residential care
+
+20G Leave from an approved residential care home
+
+(1) This item applies if, at the transition time:
+
+(a) an entity is, because of subitem 5(1) of this Schedule, taken to be a registered provider under paragraph 105(1)(a) of the new Act; and
+
+(b) because of subitem 5(7) of this Schedule, a place through which a residential care service is provided is taken to be an approved residential care home in relation to the entity.
+
+Hospital leave
+
+(2) A day before the transition time on which an individual was on leave from the residential care service under subsection 42-2(2) of the old Act or subsection 42-2(2) of the old Transitional Provisions Act is to be counted, for the purposes of the new Act, as a day on which the individual was on hospital leave from the approved residential care home.
+
+Hospital transition leave
+
+(3) A day before the transition time on which an individual was on leave from the residential care service under subsection 42-2(3A) of the old Act is to be counted, for the purposes of the new Act, as a day on which the individual was on hospital transition leave from the approved residential care home.
+
+Social leave
+
+(4) In determining, for the purposes of paragraph 244(7)(c) of the new Act, the number of days during a financial year on which an individual has previously been on leave from the approved residential care home under subsection 244(7) of that Act, any day during that financial year on which the individual was on leave from the residential care service under subsection 42-2(3) of the old Act is to be counted.
+
+Division 6—Flexible care subsidy under the old law
+
+20H Flexible care provided as short-term restorative care—claims for flexible care subsidy—pre-transition time payment periods
+
+(1) Despite the repeal of the old law, a claim for flexible care subsidy in respect of a flexible care service through which an approved provider provides flexible care as short-term restorative care, or a variation of such a claim for flexible care subsidy, may be made on or after the transition time in respect of a payment period ending before the transition time, and the old Act and the Subsidy Principles continue to apply to the claim and any subsidy payable as a result of the claim, as if the repeal had not happened.
+
+(2) If an overpayment to a person of an amount by way of flexible care subsidy in respect of a flexible care service through which an approved provider provides flexible care as short-term restorative care is made before or after the transition time, and the amount has not been recovered by the Commonwealth before the transition time:
+
+(a) the amount is taken, after the transition time, to be a recoverable amount for the purposes of the new Act; and
+
+(b) the entity is a debtor in relation to the recoverable amount for the purposes of the new Act.
 
 Part 4—Transitional provisions for Chapter 5 of the new Act
 
@@ -1044,9 +1224,33 @@ Part 6—Transitional provisions for Chapter 7 of the new Act
 
 (a) protected information within the meaning of the old Act; or
 
-(b) protected information within the meaning of the Commission Act.
+(b) protected information within the meaning of the Commission Act; or
 
-(2) For the purposes of the new Act, the information is taken, after the transition time, to be protected information within the meaning of that Act.
+(c) information that was obtained or generated before the transition time for the purposes of the aged care programs under any of the following items in the Financial Framework (Supplementary Powers) Regulations 1997:
+
+(i) Item 415.018 – Schedule 1AA – Residential and flexible care;
+
+(ii) Item 163 – Schedule 1AB – Commonwealth Home Support Programme.
+
+(2) For the purposes of the new Act, the information is taken, after the transition time, to be relevant information within the meaning of that Act.
+
+(3) To avoid doubt, a reference in paragraph (1)(a) to protected information within the meaning of the old Act includes a reference to information that is taken to be protected information because of the operation of item 8 of Schedule 4 to this Act (which deals with information acquired or generated for transitional purposes).
+
+52A Public interest certificates and determinations
+
+(1) A certificate issued by the Secretary under paragraph 86-3(1)(a) of the old Act that is in force immediately before the transition time continues in force (and may be dealt with) after the transition time as if it were a determination made by the System Governor under subsection 539(10) of the new Act.
+
+(2) A determination made by the Commissioner under paragraph 61(1)(a) of the Commission Act that is in force immediately before the transition time continues in force (and may be dealt with) after the transition time as if it were a determination made by an Appointed Commissioner under subsection 539(11) of the new Act.
+
+52B Modification of provision relating to unauthorised use or disclosure of protected information
+
+(1) For the purposes of applying subsection 535(2) of the new Act after the transition time, in relation to protected information disclosed to a person before that time, the operation of paragraph 535(2)(d) of that Act is modified as if it included a reference to the disclosure of the information to the person being authorised by or under any of the following provisions:
+
+(a) section 86-3, 86-4 or 86-4A of the old Act;
+
+(b) section 61 of the Commission Act.
+
+(2) For the purposes of applying subsection 535(2) of the new Act after the transition time, in relation to protected information disclosed to a person before that time, paragraph 535(2)(e) of the new Act is to be disregarded.
 
 53 Retention of records by approved providers
 
@@ -1138,6 +1342,68 @@ Continued application of Part 7 of Commission Rules
 
 (b) a reconsideration decision of an internal reviewer (whether made before or after the transition time) following a reconsideration of a reviewable Commissioner decision made before the transition time.
 
+58A System Governor may make a determination about a reconsidered decision
+
+(1) This section applies to a decision (the reconsidered decision) made after the transition time, on reconsideration or review of a reviewable decision made before the transition time, being:
+
+(a) a reconsideration of the reviewable decision under any of the following, as continued in operation by item 58 of this Schedule:
+
+(i) Part 6.1 of the old Act;
+
+(ii) Part 6.1 of the old Transitional Provisions Act;
+
+(iii) Part 8B of the Commission Act;
+
+(iv) Part 7 of the Commission Rules; or
+
+(b) a review of the reviewable decision under the Administrative Review Tribunal Act 2024.
+
+(2) The System Governor may make a determination, in writing, that does one or more of the following in relation to the reconsidered decision:
+
+(a) provides for matters relating to the application of the old law, the new Act, or both the old law and the new Act, to an entity or an individual affected by the reconsidered decision, being matters that the System Governor is satisfied are necessary or convenient having regard to the reconsidered decision;
+
+(b) specifies that a state of affairs specified in the determination is taken to exist before, on or after the transition time in respect of an entity or an individual affected by the reconsidered decision, being a state of affairs that the System Governor is satisfied would have existed if the reconsidered decision had been in force at a specified time before the transition time;
+
+(c) provides for or in relation to any other matters that the System Governor is satisfied are necessary or convenient to give effect to the reconsidered decision.
+
+Reconsidered decisions about providers
+
+(3) Without limiting subitem (2), if the reconsidered decision grants, or results in the grant of, an entity’s application for approval as an approved provider, a determination made by the System Governor under that subitem may do one or more of the following:
+
+(a) specify that the entity is taken to have become a registered provider at a specified time that is on or after the transition time;
+
+(b) provide for or in relation to any of the matters set out in Part 3 of Schedule 2 to this Act with respect to the registered provider including, but not limited to, the following:
+
+(i) the registration period of the registered provider;
+
+(ii) the provider registration categories in which the registered provider is taken to be, registered;
+
+(iii) the approved residential care homes covered by the registration;
+
+(c) provide for or in relation to any other matters that the System governor is satisfied are necessary or convenient to give effect to the reconsidered decision.
+
+Reconsidered decisions on access to care
+
+(4) Without limiting subitem (2), if the reconsidered decision grants, or results in the granting of, an individual’s application for access to care, a determination made by the System Governor under that subitem may do one or more of the following:
+
+(a) specify that the individual requires access to funded aged care services at a specified time that is on or after the transition time;
+
+(b) provide for or in relation to any of the matters set out in Part 2 of this Schedule in relation to the individual including, but not limited to, in relation to the following:
+
+(i) matters of a kind mentioned in item 2 or 3 of this Schedule (which deal with access approvals);
+
+(ii) matters of a kind mentioned in item 4 of this Schedule (which deals with classification levels, priority category and place allocation decisions);
+
+(c) provide for or in relation to any other matters that the System Governor is satisfied are necessary or convenient to give effect to the reconsidered decision.
+
+Determination has effect according to its terms
+
+(5) A determination under subitem (2) has effect according to its terms.
+
+Determination is not a legislative instrument
+
+(6) A determination under subitem (2) is not a legislative instrument.
+
 Division 2—Annual reports
 
 59 Annual report for financial year ending before transition time
@@ -1196,7 +1462,9 @@ Part 10—Transitional rules
 
 (3) Without limiting subitem (2), rules made for the purposes of that subitem before the end of the period of 12 months starting at the transition time may modify the operation of the provisions of this Act or the new Act or any other Act or instrument.
 
-(4) Despite subsection 12(2) of the Legislation Act 2003 and subject to subitem (5), the rules may be expressed to take effect from a date before the rules are registered under that Act.
+(4) Despite subsection 12(2) of the Legislation Act 2003 and subject to subitems (4A) and (5), the rules may be expressed to take effect from a date before the rules are registered under that Act.
+
+(4A) Rules expressed to take effect from a date before the rules are registered under the Legislation Act 2003 must not be made after the end of the period of 24 months beginning on the day this subitem commences.
 
 (5) If:
 
