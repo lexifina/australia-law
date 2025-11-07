@@ -2,7 +2,7 @@
 
 (1) Despite any other law of the Commonwealth, a bail authority must not grant bail to a person who:
 
-(a) is charged with, or convicted of, an offence described in column 1 of an item in the table in section 16AAA (except items 1A to 1E of that table); or
+(a) is charged with, or convicted of, an offence described in column 1 of an item in the table in section 16AAA (except items 1AA to 1E of that table); or
 
 (b) is charged with, or convicted of, an offence described in column 1 of an item in the table in subsection 16AAB(2) and who has previously been convicted of a child sexual abuse offence;
 
