@@ -46,7 +46,7 @@ Part 5.3 object means:
 
 (iii) the prevention of the provision of support for, or the facilitation of, the engagement in a hostile activity in a foreign country; or
 
-(b) in relation to an extended supervision order or interim supervision order—the protection of the community from the unacceptable risk of a terrorist offender committing a serious Part 5.3 offence.
+(b) in relation to an extended supervision order or interim supervision order—the protection of the community from the unacceptable risk of a terrorist offender committing a serious Part 5.3 or 5.3A offence.
 
 Part 5.3 supervisory order means:
 
@@ -70,7 +70,7 @@ relevant data has the meaning given by subsection 3ZZKC(3).
 
 seizable item has the same meaning as in Part IAA.
 
-serious Part 5.3 offence has the meaning given by section 105A.2 of the Criminal Code.
+serious Part 5.3 or 5.3A offence has the meaning given by section 105A.2 of the Criminal Code.
 
 staff member of the Australian Federal Police means a person referred to in paragraph (a) of the definition of law enforcement officer in subsection 3(1).
 

@@ -12,7 +12,7 @@ Reduction of minimum penalty
 
 (b) the court is taking into account, under paragraph 16A(2)(h), the person having cooperated with law enforcement agencies in the investigation of:
 
-(i) in relation to any of items 1AA to 1E of the table in section 16AAA—the offence or an offence against subsection 80.2H(1) or 80.2HA(1) or Part 5.3 or 5.5 of the Criminal Code; or
+(i) in relation to any of items 1AA to 1H of the table in section 16AAA—the offence or an offence against subsection 80.2H(1) or 80.2HA(1) or Part 5.3 or 5.5 of the Criminal Code; or
 
 (ii) in relation to any of items 1 to 15 of the table in section 16AAA or any of the items in the table in subsection 16AAB(2)—the offence or a Commonwealth child sex offence.
 
@@ -22,7 +22,7 @@ Reduction of minimum penalty
 
 (b) if the court is taking into account, under paragraph 16A(2)(h), the person having cooperated with law enforcement agencies in the investigation of:
 
-(i) in relation to any of items 1AA to 1E of the table in section 16AAA—the offence or an offence against subsection 80.2H(1) or 80.2HA(1) or Part 5.3 or 5.5 of the Criminal Code; or
+(i) in relation to any of items 1AA to 1H of the table in section 16AAA—the offence or an offence against subsection 80.2H(1) or 80.2HA(1) or Part 5.3 or 5.5 of the Criminal Code; or
 
 (ii) in relation to any of items 1 to 15 of the table in section 16AAA or any of the items in the table in subsection 16AAB(2)—the offence or a Commonwealth child sex offence;
 

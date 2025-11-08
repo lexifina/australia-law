@@ -44,7 +44,7 @@ it is reasonably necessary that one or more constables should have access to the
 
 (v) the possibility that the person has facilitated, is facilitating, or will facilitate, the engagement in a hostile activity in a foreign country;
 
-(b) in relation to an extended supervision order or interim supervision order—the possibility that the person has committed, is committing, or will commit, a serious Part 5.3 offence;
+(b) in relation to an extended supervision order or interim supervision order—the possibility that the person has committed, is committing, or will commit, a serious Part 5.3 or 5.3A offence;
 
 (f) in relation to any Part 5.3 supervisory order—the possibility that the person has contravened, is contravening, or will contravene, the order;
 

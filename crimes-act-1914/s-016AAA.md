@@ -18,6 +18,12 @@ Item | Column 1 Offence | Column 2 Sentence of imprisonment
 
 1E | offence against a provision of Division 103 of the Criminal Code | 3 years
 
+1F | offence against a provision of Division 111 or 112 of the Criminal Code (other than an offence against subsection 112.7(1) or (2) of the Criminal Code) | 6 years
+
+1G | offence against subsection 112.7(1) or (2) of the Criminal Code | 12 months
+
+1H | offence against a provision of Division 113 of the Criminal Code | 3 years
+
 1 | offence against subsection 272.8(1) of the Criminal Code | 6 years
 
 2 | offence against subsection 272.8(2) of the Criminal Code | 6 years

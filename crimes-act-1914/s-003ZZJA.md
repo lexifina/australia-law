@@ -34,6 +34,6 @@ A search must be for any of the following purposes (most of which are called Par
 
 (c) the prevention of the provision of support for, or the facilitation of, the engagement in a hostile activity in a foreign country;
 
-(d) the protection of the community from the unacceptable risk of a terrorist offender committing a serious Part 5.3 offence;
+(d) the protection of the community from the unacceptable risk of a terrorist offender committing a serious Part 5.3 or 5.3A offence;
 
 (e) determining whether the Part 5.3 supervisory order has been, or is being, complied with.
