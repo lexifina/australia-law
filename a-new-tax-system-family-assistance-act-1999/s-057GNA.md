@@ -1,7 +1,7 @@
-# 57GNA Annual review of security notice
+# 57GNA Annual review of benefit restriction notice
 
-Before the end of the following periods, the Home Affairs Minister must consider whether to revoke a security notice (if it has not already been revoked):
+Before the end of the following periods, the Minister who gave a benefit restriction notice must consider whether to revoke the benefit restriction notice (if it has not already been revoked):
 
 (a) 12 months after it came into force;
 
-(b) 12 months after the Home Affairs Minister last considered whether to revoke it.
+(b) 12 months after that Minister last considered whether to revoke it.
