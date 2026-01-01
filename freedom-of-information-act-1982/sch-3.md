@@ -90,6 +90,8 @@ Wine Australia Act 2013
 
 Section 38
 
+Australian Centre for Disease Control Act 2025, section 71
+
 Australian Immunisation Register Act 2015, section 23
 
 Australian Institute of Health Act 1987, subsections 29(1) and (3)
