@@ -1,0 +1,13 @@
+# 271-25 Tax liability where interposed partnership makes distribution etc. outside family group
+
+(1) This section applies if:
+
+(a) the partners in a partnership make an interposed entity election for the partnership to be included in the family group of the individual specified in a family trust election; and
+
+(b) at any time while the interposed entity election is in force (including a time before it was made), the partnership confers a present entitlement to, or distributes, income or capital:
+
+(i) upon or to a person who is neither the individual specified in the family trust election nor a member of the individual’s family group in relation to the conferral or distribution; or
+
+(ii) upon or to the individual specified in the election or a member of the individual’s family group, where the individual or member is the trustee of a trust, or the member is a trust, that is not included in the individual’s family group in relation to the conferral or distribution.
+
+(2) If this section applies, the partners, together with each person who at the time of the conferral or distribution was a director of any partner that was a company, are jointly and severally liable to pay tax, as imposed by the Family Trust Distribution Tax (Primary Liability) Act 1998, on the amount or value of the income or capital to which the entitlement relates, or that is distributed.
