@@ -1,6 +1,6 @@
 # 15A Aboriginal or Torres Strait Islander child result
 
-(1) The Aboriginal or Torres Strait Islander child result is 36.
+(1) The Aboriginal or Torres Strait Islander child result is 100.
 
 (2) The Aboriginal or Torres Strait Islander child result applies to an individual for a CCS fortnight, in relation to a child, if:
 
