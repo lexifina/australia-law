@@ -1,0 +1,1 @@
+An Act to prohibit the interception of, and other access to, telecommunications except where authorised in special circumstances or for the purpose of tracing the location of callers in emergencies, and for other purposes.
