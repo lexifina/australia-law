@@ -1,6 +1,6 @@
-# 85ZZJA Further exclusions—Australian Security Intelligence Organisation
+# 85ZZJA Exclusions—ASIO
 
-(1) Division 3 does not apply in relation to:
+(1) Divisions 2 and 3 do not apply in relation to:
 
 (a) the disclosure of information to or by ASIO, or an ASIO officer, if the disclosure is made for the purposes of the performance of the functions, or the exercise of the powers, of ASIO or the officer; or
 
