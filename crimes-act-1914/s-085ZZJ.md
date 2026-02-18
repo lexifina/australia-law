@@ -11,5 +11,3 @@
 (2) In this section:
 
 employee, in relation to a law enforcement agency, includes a person engaged as a consultant to, or to perform services for, the agency or a member of the agency.
-
-Subdivision BA—Exclusions relating to ASIO and ACC (Divisions 2 and 3)
