@@ -1,0 +1,17 @@
+# 73.3A Supporting the offence of people smuggling
+
+(1) A person (the first person) commits an offence if:
+
+(a) the first person provides material support or resources to another person or an organisation (the receiver); and
+
+(b) the support or resources aids the receiver, or a person or organisation other than the receiver, to engage in conduct constituting the offence of people smuggling.
+
+Penalty: Imprisonment for 10 years or 1,000 penalty units, or both.
+
+(2) Subsection (1) does not apply if the conduct constituting the offence of people smuggling relates, or would relate, to:
+
+(a) the first person; or
+
+(b) a group of persons that includes the first person.
+
+(3) To avoid doubt, the first person commits an offence against subsection (1) even if the offence of people smuggling is not committed.

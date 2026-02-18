@@ -1,0 +1,23 @@
+# 137.2 False or misleading documents
+
+(1) A person commits an offence if:
+
+(a) the person produces a document to another person; and
+
+(b) the person does so knowing that the document is false or misleading; and
+
+(c) the document is produced in compliance or purported compliance with a law of the Commonwealth.
+
+Penalty: Imprisonment for 12 months.
+
+(2) Subsection (1) does not apply if the document is not false or misleading in a material particular.
+
+Note: A defendant bears an evidential burden in relation to the matter in subsection (2). See subsection 13.3(3).
+
+(3) Subsection (1) does not apply to a person who produces a document if the document is accompanied by a written statement signed by the person or, in the case of a body corporate, by a competent officer of the body corporate:
+
+(a) stating that the document is, to the knowledge of the first-mentioned person, false or misleading in a material particular; and
+
+(b) setting out, or referring to, the material particular in which the document is, to the knowledge of the first-mentioned person, false or misleading.
+
+Note: A defendant bears an evidential burden in relation to the matter in subsection (3). See subsection 13.3(3).

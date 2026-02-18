@@ -1,0 +1,3 @@
+# 13.5 Standard of proof—defence
+
+A legal burden of proof on the defendant must be discharged on the balance of probabilities.

@@ -1,0 +1,3 @@
+# 274.7 Double jeopardy
+
+If a person has been convicted or acquitted in a country outside Australia of an offence against the law of that country in respect of any conduct, the person cannot be convicted of an offence under this Division in respect of that conduct.

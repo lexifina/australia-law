@@ -1,0 +1,5 @@
+# 13.2 Standard of proof—prosecution
+
+(1) A legal burden of proof on the prosecution must be discharged beyond reasonable doubt.
+
+(2) Subsection (1) does not apply if the law creating the offence specifies a different standard of proof.

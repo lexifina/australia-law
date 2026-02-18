@@ -1,0 +1,7 @@
+# 13.6 Use of averments
+
+A law that allows the prosecution to make an averment is taken not to allow the prosecution:
+
+(a) to aver any fault element of an offence; or
+
+(b) to make an averment in prosecuting for an offence that is directly punishable by imprisonment.

@@ -1,0 +1,3 @@
+# 123.3 Extended geographical jurisdiction—category D
+
+Section 15.4 (extended geographical jurisdiction—category D) applies to an offence against this Part.

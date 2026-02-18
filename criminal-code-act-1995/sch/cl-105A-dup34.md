@@ -1,0 +1,15 @@
+# 105A.15 Giving documents to terrorist offenders who are in custody
+
+(1) A document that is required to be given under this Division to a terrorist offender who is detained in custody is taken to have been given to the offender at the time referred to in paragraph (3)(b) if the document is given to the following person (the recipient):
+
+(a) the legal representative of the offender;
+
+(b) if the offender does not have a legal representative—the chief executive officer (however described) of the prison or other facility in which the offender is detained, or a delegate of the chief executive officer.
+
+(2) The recipient must, as soon as reasonably practicable, give the document to the offender personally.
+
+(3) Once the recipient has done so, he or she must notify the Court and the person who gave the recipient the document, in writing:
+
+(a) that the document has been given to the offender; and
+
+(b) of the day that document was so given.

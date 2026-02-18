@@ -1,0 +1,13 @@
+# 12.5 Mistake of fact (strict liability)
+
+(1) A body corporate can only rely on section 9.2 (mistake of fact (strict liability)) in respect of conduct that would, apart from this section, constitute an offence on its part if:
+
+(a) the employee, agent or officer of the body corporate who carried out the conduct was under a mistaken but reasonable belief about facts that, had they existed, would have meant that the conduct would not have constituted an offence; and
+
+(b) the body corporate proves that it exercised due diligence to prevent the conduct.
+
+(2) A failure to exercise due diligence may be evidenced by the fact that the prohibited conduct was substantially attributable to:
+
+(a) inadequate corporate management, control or supervision of the conduct of one or more of its employees, agents or officers; or
+
+(b) failure to provide adequate systems for conveying relevant information to relevant persons in the body corporate.

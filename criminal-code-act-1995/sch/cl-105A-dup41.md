@@ -1,0 +1,31 @@
+# 105A.18B Offence relating to monitoring devices
+
+(1) A person commits an offence if:
+
+(a) an extended supervision order or interim supervision order is in force in relation to the person, and not suspended under section 105A.18C; and
+
+(b) the order requires the person to wear a monitoring device; and
+
+(c) the person engages in conduct; and
+
+(d) the conduct results in interference with, or disruption or loss of, a function of the monitoring device or any related monitoring equipment.
+
+Note: A court that is sentencing a person who has been convicted of an offence against this subsection may be required to warn the person about continuing detention orders and extended supervision orders (see section 105A.23).
+
+Penalty: Imprisonment for 5 years.
+
+(2) A person (the perpetrator) commits an offence if:
+
+(a) the perpetrator knows that, or is reckless as to whether, an extended supervision order or interim supervision order is in force in relation to another person; and
+
+(b) the order is not suspended under section 105A.18C; and
+
+(c) the perpetrator knows that, or is reckless as to whether, the order requires the other person to wear a monitoring device; and
+
+(d) the perpetrator engages in conduct; and
+
+(e) the conduct results in interference with, or disruption or loss of, a function of the monitoring device or any related monitoring equipment.
+
+Penalty: Imprisonment for 5 years.
+
+(3) Strict liability applies in relation to paragraph (2)(b).

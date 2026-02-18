@@ -1,0 +1,13 @@
+# 131.4 Theft of land or things forming part of land
+
+(1) For the purposes of this Division, a person cannot commit theft of land, except in the following cases:
+
+(a) the case where the person appropriates anything forming part of the land by severing it or causing it to be severed;
+
+(b) the case where:
+
+(i) the person is a trustee or personal representative, or is authorised (by power of attorney, as liquidator of a company or otherwise) to sell or dispose of land belonging to another; and
+
+(ii) the person appropriates the land, or anything forming part of it, by dealing with it in breach of the confidence reposed in the person.
+
+(2) For the purposes of this section, land does not include incorporeal hereditaments.

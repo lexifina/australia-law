@@ -1,0 +1,5 @@
+# 7.2 Children over 10 but under 14
+
+(1) A child aged 10 years or more but under 14 years old can only be criminally responsible for an offence if the child knows that his or her conduct is wrong.
+
+(2) The question whether a child knows that his or her conduct is wrong is one of fact. The burden of proving this is on the prosecution.

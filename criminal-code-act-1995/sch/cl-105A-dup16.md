@@ -1,0 +1,71 @@
+# 105A.7E Obligations relating to monitoring devices
+
+Additional obligations on terrorist offender
+
+(1) If the Court imposes a condition under paragraph 105A.7B(5)(d) in an extended supervision order or interim supervision order that a terrorist offender wear a monitoring device, then:
+
+(a) the condition must require the offender to wear the monitoring device at all times; and
+
+(b) the order must include the condition referred to in paragraph 105A.7B(5)(e); and
+
+(c) the order must include a condition that the offender do all of the following:
+
+(i) allow a specified authority to enter the offender’s residence at any reasonable time for any purpose relating to the electronic monitoring of the offender;
+
+(ii) allow a specified authority to install, repair or fit the monitoring device or any related monitoring equipment;
+
+(iii) take the steps specified in the order (if any) and any other reasonable steps to ensure that the monitoring device and any related monitoring equipment are or remain in good working order;
+
+(iv) if the offender becomes aware that the monitoring device and any related monitoring equipment are not in good working order—notify a specified authority as soon as reasonably practicable;
+
+(v) allow a specified authority, police officer or corrective services officer to remove the monitoring device;
+
+(vi) allow a police officer to remove any related monitoring equipment.
+
+Powers of specified authorities and others
+
+(2) After including the condition under paragraph 105A.7B(5)(d) in the order, the Court must also include in the order an authorisation for:
+
+(a) one or more specified authorities to enter the offender’s residence as specified in the order at any reasonable time for any purpose relating to the electronic monitoring of the offender; and
+
+(b) one or more specified authorities to install, repair or fit the monitoring device and any related monitoring equipment; and
+
+(c) one or more specified authorities or police officers to take the steps specified in the order to ensure that the device and any related monitoring equipment are or remain in good working order; and
+
+(d) one or more specified authorities, police officers or corrective services officers to remove the monitoring device; and
+
+(e) one or more police officers to remove any related monitoring equipment.
+
+(3) If:
+
+(a) a monitoring device is installed on the terrorist offender; and
+
+(b) any of the following events occurs:
+
+(i) the condition under paragraph 105A.7B(5)(d) is removed from the order;
+
+(ii) the order ceases to be in force;
+
+(iii) the offender is detained in custody;
+
+the device and any related monitoring equipment may be removed in accordance with paragraph (2)(d) or (e) even though:
+
+(c) for subparagraph (b)(i) or (ii)—no authorisation under subsection (2) is in force; or
+
+(d) for subparagraph (b)(iii)—the offender is not required to comply with a condition of the order because of section 105A.18C.
+
+Note: For the definition of detained in custody, see subsection 100.1(1).
+
+Powers relating to monitoring devices and related electronic equipment
+
+(4) Before exercising a power referred to in paragraph (2)(a), (b), (d) or (e), or subsection (3), a specified authority, police officer or corrective services officer must inform the offender:
+
+(a) that the device and equipment are to be installed, repaired, fitted or removed (as the case requires); and
+
+(b) of the proposed timing of the taking of the action; and
+
+(c) that the offender may consent to the taking of the action; and
+
+(d) that if consent is not given, reasonable force may be used to take the action, or to enter the offender’s residence in order to take the action.
+
+(5) If the offender does not give consent, reasonable force may be used by a police officer to take the action, or to enter the offender’s residence in order to take the action.

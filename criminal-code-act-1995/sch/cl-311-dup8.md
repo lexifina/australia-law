@@ -1,0 +1,15 @@
+## Subdivision C—Combining parcels from multiple offences
+
+# 311.8 Multiple offences—trafficking controlled drugs
+
+The prosecution may prove an offence against Division 302 (trafficking controlled drugs) by proving:
+
+(a) that the defendant committed offences against that Division on different occasions; and
+
+(b) that each of those offences was committed within a period of not more than 7 days from another of those offences; and
+
+(c) that the relevant quantity (in sum) of a controlled drug, or of a combination of controlled drugs, was trafficked during the commission of those offences.
+
+Note 1: See section 312.2 for working out quantities where different kinds of controlled drugs are involved.
+
+Note 2: Section 313.4 provides a partial defence in relation to the matter in paragraph (c).

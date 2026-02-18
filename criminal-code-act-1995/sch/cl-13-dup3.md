@@ -1,0 +1,15 @@
+# 13.3 Evidential burden of proof—defence
+
+(1) Subject to section 13.4, a burden of proof that a law imposes on a defendant is an evidential burden only.
+
+(2) A defendant who wishes to deny criminal responsibility by relying on a provision of Part 2.3 (other than section 7.3) bears an evidential burden in relation to that matter.
+
+(3) A defendant who wishes to rely on any exception, exemption, excuse, qualification or justification provided by the law creating an offence bears an evidential burden in relation to that matter. The exception, exemption, excuse, qualification or justification need not accompany the description of the offence.
+
+(4) The defendant no longer bears the evidential burden in relation to a matter if evidence sufficient to discharge the burden is adduced by the prosecution or by the court.
+
+(5) The question whether an evidential burden has been discharged is one of law.
+
+(6) In this Code:
+
+evidential burden, in relation to a matter, means the burden of adducing or pointing to evidence that suggests a reasonable possibility that the matter exists or does not exist.

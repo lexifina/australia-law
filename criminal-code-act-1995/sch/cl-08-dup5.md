@@ -1,0 +1,3 @@
+# 8.5 Involuntary intoxication
+
+A person is not criminally responsible for an offence if the person’s conduct constituting the offence was as a result of intoxication that was not self-induced.

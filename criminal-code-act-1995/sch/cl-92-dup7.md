@@ -1,0 +1,13 @@
+## Subdivision C—Foreign interference involving foreign intelligence agencies
+
+# 92.7 Knowingly supporting foreign intelligence agency
+
+A person commits an offence if:
+
+(a) the person provides resources, or material support, to an organisation or a person acting on behalf of an organisation; and
+
+(b) the person knows that the organisation is a foreign intelligence agency.
+
+Note: An alternative verdict may be available for an offence against this section (see section 93.5).
+
+Penalty: Imprisonment for 15 years.

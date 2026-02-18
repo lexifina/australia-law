@@ -1,0 +1,3 @@
+# 72.6 Double jeopardy and foreign offences
+
+If a person has been convicted or acquitted of an offence in respect of conduct under the law of a foreign country, the person cannot be convicted of an offence under this Subdivision in respect of that conduct.

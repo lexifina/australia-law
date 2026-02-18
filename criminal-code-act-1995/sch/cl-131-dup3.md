@@ -1,0 +1,5 @@
+# 131.3 Appropriation of property
+
+(1) For the purposes of this Division, any assumption of the rights of an owner to ownership, possession or control of property, without the consent of the person to whom it belongs, amounts to an appropriation of the property. This includes, in a case where a person has come by property (innocently or not) without committing theft, any later such assumption of rights without consent by keeping or dealing with it as owner.
+
+(2) For the purposes of this Division, if property, or a right or interest in property, is, or purports to be, transferred or given to a person acting in good faith, a later assumption by the person of rights which the person had believed himself or herself to be acquiring does not, because of any defect in the transferor’s title, amount to an appropriation of the property.
