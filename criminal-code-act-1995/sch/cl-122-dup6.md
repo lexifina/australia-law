@@ -62,6 +62,16 @@ Information communicated etc. for the purpose of reporting offences and maladmin
 
 Note: A defendant may bear an evidential burden in relation to the matters in this subsection (see subsection (12) of this section and subsection 13.3(3)).
 
+Information communicated etc. to a Royal Commission
+
+(4B) It is a defence to a prosecution for an offence by a person against this Division that:
+
+(a) the person communicated, removed, held or otherwise dealt with the relevant information for the primary purpose of communicating it to a Royal Commission within the meaning of the Royal Commissions Act 1902 (whether or not as a result of a requirement); and
+
+(b) at that time, the person reasonably believed that the relevant information was relevant to the Royal Commission’s inquiry.
+
+Note: A defendant may bear an evidential burden in relation to the matters in this subsection (see subsection (12) of this section and subsection 13.3(3)).
+
 Information communicated etc. to a court or tribunal
 
 (5) It is a defence to a prosecution for an offence by a person against this Division that the person communicated the relevant information, or removed, held or otherwise dealt with the relevant information for the purpose of communicating it, to a court or tribunal (whether or not as a result of a requirement).
@@ -156,13 +166,13 @@ Note: A defendant bears an evidential burden in relation to the matters in this 
 
 Removing, holding or otherwise dealing with information for the purposes of communicating information
 
-(11) For the purposes of subsection (3), (4), (5) or (5A), it is not necessary to prove that information, that was removed, held or otherwise dealt with for the purposes of communicating it, was actually communicated.
+(11) For the purposes of subsection (3), (4), (4B), (5) or (5A), it is not necessary to prove that information, that was removed, held or otherwise dealt with for the purposes of communicating it, was actually communicated.
 
 Burden of proof for integrity agency officials
 
 (12) Despite subsection 13.3(3), in a prosecution for an offence against this Division, a person mentioned in subparagraph (3)(a)(i), (ii), (iia) or (iii) does not bear an evidential burden in relation to the matter in:
 
-(a) subsection (1), (4) or (4A); or
+(a) subsection (1), (4), (4A) or (4B); or
 
 (b) either of the following:
 
