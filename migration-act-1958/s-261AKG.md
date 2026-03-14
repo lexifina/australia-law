@@ -1,0 +1,25 @@
+# 261AKG Meanings of unauthorised modification and unauthorised impairment etc.
+
+(1) In this Subdivision:
+
+(a) modification of a video recording; or
+
+(b) impairment of the reliability of a video recording; or
+
+(c) impairment of the security of the storage of a video recording; or
+
+(d) impairment of the operation of a system by which a video recording is stored;
+
+by a person is unauthorised if the person is not entitled to cause that modification or impairment.
+
+(2) Any such modification or impairment caused by the person is not unauthorised merely because he or she has an ulterior purpose for causing it.
+
+(3) For the purposes of an offence under this Subdivision, a person causes any such unauthorised modification or impairment if the person’s conduct substantially contributes to it.
+
+(4) For the purposes of subsection (1), if:
+
+(a) a person causes any modification or impairment of a kind mentioned in that subsection; and
+
+(b) the person does so under a warrant issued under the law of the Commonwealth, a State or a Territory;
+
+the person is entitled to cause that modification or impairment.

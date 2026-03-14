@@ -1,0 +1,17 @@
+# 261AKF Unauthorised impairment of video recordings
+
+A person commits an offence if:
+
+(a) the person causes any unauthorised impairment of:
+
+(i) the reliability of a video recording; or
+
+(ii) the security of the storage of a video recording; or
+
+(iii) the operation of a system by which a video recording is stored; and
+
+(b) the person intends to cause the impairment; and
+
+(c) the person knows that the impairment is unauthorised.
+
+Penalty: Imprisonment for 2 years, or 120 penalty units, or both.
