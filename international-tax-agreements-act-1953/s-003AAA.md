@@ -140,7 +140,7 @@ Icelandic convention means:
 
 each done at Reykjavik on 12 October 2022.
 
-Note: The text of this convention and protocol could in 2023 be viewed on the Department’s website (http://www.treasury.gov.au).
+Note: The text of this convention and protocol is set out in Australian Treaty Series 2023 No. 10 ([2023] ATS 10).
 
 Indian agreement means the Agreement between the Government of Australia and the Government of the Republic of India for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, done at Canberra on 25 July 1991.
 
@@ -256,7 +256,7 @@ Note 2: Section 11N gives this agreement the force of law.
 
 Marshall Islands agreement means the Agreement between the Government of Australia and the Government of the Republic of the Marshall Islands for the allocation of taxing rights with respect to certain income of individuals and to establish a mutual agreement procedure in respect of transfer pricing adjustments, done at Majuro on 12 May 2010.
 
-Note: In 2023, the text of this agreement was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+Note: In 2026, the text of this agreement was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
 
 Mauritius agreement means the Agreement between the Government of Australia and the Government of the Republic of Mauritius for the allocation of taxing rights with respect to certain income of individuals and to establish a mutual agreement procedure in respect of transfer pricing adjustments, done at Port Louis on 8 December 2010.
 
@@ -312,6 +312,16 @@ Polish agreement means the Agreement between Australia and the Republic of Polan
 
 Note: The text of this agreement is set out in Australian Treaty Series 1992 No. 14 ([1992] ATS 14).
 
+Portuguese convention means:
+
+(a) the Convention between Australia and the Portuguese Republic for the elimination of double taxation with respect to taxes on income and the prevention of tax evasion and avoidance; and
+
+(b) the protocol to that convention;
+
+each done at Lisbon on 30 November 2023.
+
+Note: The text of this convention and protocol could in 2026 be viewed on the Department’s website (http://www.treasury.gov.au).
+
 Romanian agreement means:
 
 (a) the Agreement between Australia and Romania for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income; and
@@ -334,7 +344,7 @@ Note: The text of this agreement and protocol is set out in Australian Treaty Se
 
 Samoan agreement means the Agreement between the Government of Australia and the Government of Samoa for the allocation of taxing rights with respect to certain income of individuals and to establish a mutual agreement procedure in respect of transfer pricing adjustments, done at Canberra on 16 December 2009.
 
-Note: In 2023, the text of this agreement was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+Note: In 2026, the text of this agreement was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
 
 Singaporean agreement means the Agreement between the Government of the Commonwealth of Australia and the Government of the Republic of Singapore for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, done at Canberra on 11 February 1969.
 
