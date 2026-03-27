@@ -28,7 +28,7 @@ For the purposes of this Convention:
 
 (a) “nuclear material” means plutonium except that with isotopic concentration exceeding 80% in plutonium-238; uranium-233; uranium enriched in the isotopes 235 or 233; uranium containing the mixture of isotopes as occurring in nature other than in the form of ore or ore-residue; any material containing one or more of the foregoing;
 
-(b) “uranium enriched in the isotope 235 or 233” means uranium containing the isotopes 235 or 233 or both in an amount such that the abundance ratio of the sum of these isotopes to the isotopes 238 is greater than the ratio of isotopes 235 to the isotope 238 occuring in nature;
+(b) “uranium enriched in the isotope 235 or 233” means uranium containing the isotopes 235 or 233 or both in an amount such that the abundance ratio of the sum of these isotopes to the isotopes 238 is greater than the ratio of isotopes 235 to the isotope 238 occurring in nature;
 
 (c) “international nuclear transport” means the carriage of a consignment of nuclear material by any means of transportation intended to go beyond the territory of the State where the shipment originates beginning with the departure from a facility of the shipper in that State and ending with the arrival at a facility of the receiver within the State of ultimate destination.
 
@@ -180,7 +180,7 @@ Article 17
 
 3. Each State Party may at the time of signature, ratification, acceptance or approval of this Convention or accession thereto declare that it does not consider itself bound by either or both of the dispute settlement procedures provided for in paragraph 2. The other States Parties shall not be bound by a dispute settlement procedure provided for in paragraph 2, with respect to a State Party which has made a reservation to that procedure.
 
-4. Any State Party which has made a reservation in accordance with paragraph 3 may at any time withdraw that reservation by notification to the despositary.
+4. Any State Party which has made a reservation in accordance with paragraph 3 may at any time withdraw that reservation by notification to the depositary.
 
 Article 18
 

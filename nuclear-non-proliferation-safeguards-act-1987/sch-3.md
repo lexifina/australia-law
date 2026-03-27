@@ -70,7 +70,7 @@ Article 6
 
 (ii) Statistical techniques and random sampling in evaluating the flow of nuclear material; and
 
-(iii) Concentration of verification procedures on those stages in the nuclear fuel cycle involving the production, processing, use or storage of nuclear material from which nuclear weapons or other nuclear explosive devices could readily be made, and minimization of verfication procedures in respect of other nuclear material, on condition that this does not hamper the implementation of this Agreement.
+(iii) Concentration of verification procedures on those stages in the nuclear fuel cycle involving the production, processing, use or storage of nuclear material from which nuclear weapons or other nuclear explosive devices could readily be made, and minimization of verification procedures in respect of other nuclear material, on condition that this does not hamper the implementation of this Agreement.
 
 NATIONAL SYSTEM OF MATERIALS CONTROL
 
@@ -558,7 +558,7 @@ Material balance reports shall include the following entries, unless otherwise a
 
 (g) Material unaccounted for.
 
-A statement of the physical inventory, listing all batches separately and specifying material indentification and batch data for each batch, shall be attached to each material balance report.
+A statement of the physical inventory, listing all batches separately and specifying material identification and batch data for each batch, shall be attached to each material balance report.
 
 Article 69
 
