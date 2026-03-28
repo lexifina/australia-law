@@ -1,0 +1,5 @@
+# 32AAD Secondment of persons to the Inspector-General
+
+(1) The Inspector-General may, by written agreement with a body or organisation (whether within or outside Australia), arrange for a person who is an officer, employee or other member of staff of the body or organisation to be made available to the Inspector-General to perform services in connection with the performance of its functions or the exercise of its powers.
+
+(2) The terms and conditions (including remuneration and allowances) applicable to a person performing services under an agreement are those specified in the agreement.
