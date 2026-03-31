@@ -1,0 +1,25 @@
+# 11AAA Conditions on an authority
+
+(1) APRA may, at any time, by giving written notice to a body corporate:
+
+(a) impose conditions, or additional conditions, on the body corporate’s NOHC authority; or
+
+(b) vary or revoke conditions imposed on the body corporate’s NOHC authority.
+
+The conditions must relate to prudential matters.
+
+(2) A condition may be expressed to have effect despite anything in the prudential standards or the regulations.
+
+(3) If APRA imposes, varies or revokes the conditions on a body corporate’s NOHC authority, APRA must:
+
+(a) give written notice to the body corporate; and
+
+(b) ensure that notice that the action has been taken is published in the Gazette.
+
+(4) The taking of an action is not invalid merely because of a failure to comply with subsection (3).
+
+(5) Part VI applies to the following decisions made under this section:
+
+(a) a decision to impose conditions, or additional conditions, on a body corporate’s NOHC authority;
+
+(b) a decision to vary conditions imposed on a body corporate’s NOHC authority.
