@@ -1,0 +1,13 @@
+# 22AA Records of the Defence and Veterans’ Service Commission
+
+A non-publication direction given by the Defence and Veterans’ Service Commissioner prohibiting the publication of any material does not apply to:
+
+(a) the provision of public access under this Act to any records of the Defence and Veterans’ Service Commission that are in the open access period; or
+
+(b) the publication by any person of any records of the Commission that are available for public access in accordance with this Act.
+
+Inspector-General of Intelligence and Security Act 1986
+
+3 After section 34AB
+
+Insert:
