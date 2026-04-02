@@ -12,7 +12,7 @@
 
 (2) The Minister may:
 
-(a) by notice in the Gazette, revoke the declaration; or
+(a) by notifiable instrument, revoke the declaration; or
 
 (b) refer the question whether the declaration should be revoked to the Copyright Tribunal in the way prescribed by the regulations.
 

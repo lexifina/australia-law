@@ -6,13 +6,11 @@
 
 (1A) After receiving the application, the Minister must do one of the following:
 
-(a) declare the body to be a collecting society, by notice in the Gazette;
+(a) declare the body to be a collecting society, by notifiable instrument;
 
 (b) refuse to declare the body to be a collecting society;
 
 (c) refer the application to the Copyright Tribunal in the way prescribed by the regulations and notify the body of the referral.
-
-(1B) A declaration made under paragraph (1A)(a) is not a legislative instrument.
 
 (1C) If the Minister refers the application to the Copyright Tribunal, the Tribunal may declare the body to be a collecting society.
 
