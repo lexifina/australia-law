@@ -1,0 +1,3 @@
+# 536KAE Decision not to make order based on the draft
+
+The FWC may decide that no employee-like worker minimum standards order is to be made based on the draft. If the FWC does so, the FWC must publish notice of the decision on its website and by any other means the FWC considers appropriate.

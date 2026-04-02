@@ -1,0 +1,25 @@
+# 536KAB Affected entities to have a reasonable opportunity to make submissions on a draft employee-like worker minimum standards order
+
+(1) The FWC must ensure that affected entities have a reasonable opportunity to make written submissions to the FWC for its consideration in relation to the draft of an employee-like worker minimum standards order published under subsection 536KAA(1)(b), having regard to the unique nature of digital platform work.
+
+(2) The FWC must publish submissions made to the FWC.
+
+(3) However, if a submission made by an entity includes information that is claimed by the entity to be confidential or commercially sensitive, and the FWC is satisfied that the information is confidential or commercially sensitive, the FWC:
+
+(a) may decide not to publish the information; and
+
+(b) may instead publish:
+
+(i) a summary of the information which contains sufficient detail to allow a reasonable understanding of the substance of the information (without disclosing anything that is confidential or commercially sensitive); or
+
+(ii) if the FWC considers that it is not practicable to prepare a summary that would comply with subparagraph (i)—a statement that confidential or commercially sensitive information in the submission has not been published.
+
+(4) The publishing of material under subsections (2) and (3) must be on the FWC’s website and by any other means the FWC considers appropriate.
+
+(5) A reference in this Act (other than in this section) to a submission under this section includes a reference to a summary or statement referred to in paragraph (3)(b).
+
+(6) For the purposes of subsection (1), an affected entity, in relation to a draft employee-like worker minimum standards order published under paragraph 536KAA(1)(b), is:
+
+(a) a person or body likely to be affected by the making of an employee-like worker minimum standards order based on the draft; or
+
+(b) a person or body prescribed by the regulations, or belonging to a class of persons or bodies prescribed by the regulations.

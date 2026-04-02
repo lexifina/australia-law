@@ -1,0 +1,31 @@
+# 536KQN Applications for a suspension determination for a road transport minimum standards order
+
+(1) An application may be made to the FWC for a determination (a suspension determination) under subsection 536KQP(1) in relation to a road transport minimum standards order.
+
+(2) An application may be made under subsection (1) by any of the following:
+
+(a) an organisation that is entitled to represent the industrial interests of one or more regulated road transport contractors covered by the road transport minimum standards order;
+
+(b) an organisation that is entitled to represent the industrial interests of one or more of the road transport businesses covered by the road transport minimum standards order;
+
+(c) a road transport business covered by the road transport minimum standards order.
+
+Note: An Expert Panel can hear applications under this Act for the road transport industry together: see subsection 582(4).
+
+Timing of application for full suspension determination
+
+(3) An application for a full suspension determination in relation to a road transport minimum standards order must be made within 12 months of the day on which the order came into operation.
+
+Timing of application for part suspension determination
+
+(4) An application for a part suspension determination must be made within 12 months of whichever of the following days is applicable:
+
+(a) if the part suspension determination will suspend the application of all of the terms of the road transport minimum standards order to a specified class—the first day on which all of the terms of the road transport minimum standards order applied to the class of person;
+
+(b) if the part suspension determination will suspend the application of all of the terms of the road transport minimum standards order to 2 or more specified classes of persons—the day on which all of the terms of the road transport minimum standards order first applied to at least one of the specified classes of persons (even if all of the terms of the order did not apply to all of the specified classes on that day);
+
+(c) if the part suspension determination will suspend the application of specified terms of the road transport minimum standards order to a specified class of persons—the first day on which the specified terms applied to the specified class of persons;
+
+(d) if the part suspension determination will suspend the application of specified terms of the road transport minimum standards order to 2 or more specified classes of persons—the day on which the specified terms of the road transport minimum standards order first applied to at least one of the specified classes of persons (even if the order did not apply to all of the specified classes on that day);
+
+(e) if the part suspension determination will suspend the application of specified terms of the road transport minimum standards order to all persons—the first day on which the specified terms applied to all persons.

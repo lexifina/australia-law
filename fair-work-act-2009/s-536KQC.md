@@ -1,0 +1,9 @@
+# 536KQC Operation of a minimum standards order during deferral
+
+A minimum standards order:
+
+(a) is not in operation during any period when a full deferral declaration in relation to the minimum standards order is in operation; and
+
+(b) is in operation during any period when a part deferral declaration in relation to the minimum standards order is in operation.
+
+Note: Although a minimum standards order is in operation when a part deferral declaration is in operation in relation to the order, the order as a whole will not apply to specified classes of persons, or specified terms of the order will not apply to all persons or specified classes of persons, during that period.
