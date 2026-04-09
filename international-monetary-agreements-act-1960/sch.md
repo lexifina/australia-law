@@ -10,13 +10,7 @@ That the quota of Australia shall be changed to $400 million, provided that Aust
 
 Section 3(b)
 
-THAT, pursuant to Article II, Section 3 (b) of the Articles of Agreement of
-
-the Bank, the Board of Governors hereby authorizes the acceptance by the Bank of the subscription of Australia to 1,330 shares of the capital stock of the Bank
-
-in addition to the 4,000 shares of said capital stock heretofore subscribed by
-
-Australia, upon the following conditions:
+THAT, pursuant to Article II, Section 3 (b) of the Articles of Agreement of the Bank, the Board of Governors hereby authorizes the acceptance by the Bank of the subscription of Australia to 1,330 shares of the capital stock of the Bank in addition to the 4,000 shares of said capital stock heretofore subscribed by Australia, upon the following conditions:
 
 (a) That the subscription price per share shall be $100,000 in terms of United States dollars of the weight and fineness in effect on July 1, 1944;
 
