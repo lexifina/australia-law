@@ -1,0 +1,5 @@
+# 78B This Division does not limit disclosure or use of information
+
+This Division does not limit the disclosure or use of *VET personal information.
+
+Note: The disclosure or use of VET personal information may also be authorised in other circumstances. For example, see Division 180 and the Privacy Act 1988.

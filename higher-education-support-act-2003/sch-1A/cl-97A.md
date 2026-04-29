@@ -1,0 +1,13 @@
+## Part 4—Miscellaneous
+
+# 97A Compensation for acquisition of property
+
+(1) If the operation of this Schedule would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+
+(2) If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+
+(3) In this clause:
+
+acquisition of property has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+just terms has the same meaning as in paragraph 51(xxxi) of the Constitution.
