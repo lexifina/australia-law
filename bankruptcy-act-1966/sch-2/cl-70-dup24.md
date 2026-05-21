@@ -1,0 +1,21 @@
+# 70-85 Inspector-General may impose conditions on use of the relevant material
+
+Inspector-General may, by notice, impose conditions
+
+(1) The Inspector-General may, by notice in writing to the person or persons to whom the relevant material is to be given, impose conditions on the use and disclosure of the relevant material, or part of the relevant material, by the person or persons.
+
+Offence
+
+(2) A person commits an offence if:
+
+(a) the Inspector-General directs that the relevant material, or part of the relevant material, be given to the person; and
+
+(b) the Inspector-General has given the person notice under subsection (1) imposing a condition in relation to the use or disclosure of that material by the person; and
+
+(c) the person does not comply with the condition.
+
+Penalty: 10 penalty units or imprisonment for 3 months, or both.
+
+Notice is not a legislative instrument
+
+(3) A notice under subsection (1) is not a legislative instrument.
