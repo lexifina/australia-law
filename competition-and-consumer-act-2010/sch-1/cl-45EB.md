@@ -1,0 +1,3 @@
+# 45EB Sections 45D to 45EA do not affect operation of other provisions of Part
+
+Nothing in section 45D, 45DA, 45DC, 45DD, 45E or 45EA affects the operation of any other provision of this Part.

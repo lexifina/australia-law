@@ -1,0 +1,11 @@
+## Subdivision C—Miscellaneous
+
+# 99G Regulations may limit application of this Division
+
+The regulations may provide that some or all of the provisions of this Division do not apply to or in relation to:
+
+(a) gift cards of a kind prescribed by the regulations; or
+
+(b) persons of a kind prescribed by the regulations; or
+
+(c) gift cards supplied in circumstances prescribed by the regulations.

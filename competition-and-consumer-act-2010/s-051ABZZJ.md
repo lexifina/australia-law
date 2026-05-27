@@ -1,0 +1,21 @@
+## Subdivision C—Partnerships and trusts
+
+# 51ABZZJ Treatment of partnerships
+
+(1) The acquisitions provisions apply to a partnership as if it were a person, but with the changes set out in this section.
+
+(2) An obligation that would otherwise be imposed on the partnership by the acquisitions provisions is imposed on each partner instead, but may be discharged by any of the partners.
+
+(3) An offence against the acquisitions provisions that would otherwise have been committed by the partnership is taken to have been committed by each partner in the partnership, at the time the offence was committed, who:
+
+(a) did the relevant act or made the relevant omission; or
+
+(b) aided, abetted, counselled or procured the relevant act or omission; or
+
+(c) was in any way knowingly concerned in, or party to, the relevant act or omission (whether directly or indirectly and whether by any act or omission of the partner).
+
+(4) This section applies to a contravention of a civil penalty provision in a corresponding way to the way in which it applies to an offence.
+
+(5) A reference in the acquisitions provisions to a corporation is taken to include a reference to the partnership if all of the partners are corporations.
+
+(6) For the purposes of the acquisitions provisions, a change in the composition of a partnership does not affect the continuity of the partnership.

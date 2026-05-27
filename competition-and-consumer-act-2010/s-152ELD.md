@@ -1,0 +1,15 @@
+## Division 11—Miscellaneous
+
+# 152ELD Compensation for acquisition of property
+
+(1) If the operation of this Part would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+
+(2) If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+
+(3) In this section:
+
+acquisition of property has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+just terms has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+this Part includes Division 2 of Part 2 of Schedule 1 to the Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010.

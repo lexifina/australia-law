@@ -1,0 +1,15 @@
+# 51ABZZO ASIC’s power to exempt and modify—notice of decision and review rights
+
+(1) Subject to subsection (2), ASIC must take such steps as are reasonable in the circumstances to give to each person whose interests are affected by a decision under section 51ABZZN a notice, in writing or otherwise:
+
+(a) of the making of the decision; and
+
+(b) of the person’s right to have the decision reviewed by the Takeovers Panel under section 656A of the Corporations Act 2001 (see subsection 51ABZZN(7) of this Act).
+
+(2) Subsection (1) does not require ASIC to give notice to a person affected by the decision or to the persons in a class of persons affected by the decision, if ASIC determines that giving notice to the person or persons is not warranted, having regard to:
+
+(a) the cost of giving notice to the person or persons; and
+
+(b) the way in which the interests of the person or persons are affected by the decision.
+
+(3) A failure to comply with this section does not affect the validity of the decision.
