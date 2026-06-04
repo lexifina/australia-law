@@ -1,0 +1,5 @@
+# 75N AUSTRAC CEO may request further information
+
+(1) The AUSTRAC CEO may, in writing, request further information from any person for the purposes of making a decision under this Part.
+
+(2) The AUSTRAC CEO is not required to make a decision under this Part until any information requested under subsection (1) in relation to the decision has been provided.
