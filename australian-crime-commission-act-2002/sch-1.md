@@ -24,6 +24,8 @@ Federal Court of Australia Act 1976, Part VAA
 
 Health Insurance Act 1973, section 130
 
+Inspector-General of Intelligence and Security Act 1986, section 34
+
 Inspector-General of Taxation Act 2003, section 37
 
 Judiciary Act 1903, Part XAA
