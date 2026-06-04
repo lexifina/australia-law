@@ -14,6 +14,8 @@
 
 (i) the Commonwealth Ombudsman; or
 
+(ia) the Inspector-General of Intelligence and Security; or
+
 (ii) an authority that is the State or Territory inspecting agency in relation to the interception agency;
 
 the chief officer must notify the provider of the provider’s right to make such a complaint.

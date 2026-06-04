@@ -1,8 +1,14 @@
 ## Division 6—Reporting and record keeping
 
-# 3ZZVL Chief officers’ annual reports to the Minister and the Ombudsman
+# 3ZZVL Chief officers’ annual reports to the Minister, and the Ombudsman or the Inspector-General of Intelligence and Security
 
-(1) As soon as practicable after 30 June in each year, the chief officer of the Australian Federal Police or the ACC must submit a report to the Minister and the Ombudsman that sets out:
+(1AA) As soon as practicable after 30 June in each year:
+
+(a) the chief officer of the Australian Federal Police must submit a report to the Minister and the Ombudsman in accordance with this section; and
+
+(b) the chief officer of the ACC must submit a report to the Minister and the Inspector-General of Intelligence and Security in accordance with this section.
+
+(1) The report must set out:
 
 (a) the number of applications for account takeover warrants made by law enforcement officers of the Australian Federal Police or the ACC, as the case requires, during the previous 12 months, and the dates on which those applications were made; and
 

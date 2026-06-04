@@ -4,7 +4,7 @@
 
 In this Schedule, unless the contrary intention appears:
 
-agency means ASIO, ASIS, AGO, DIO, ASD, ONI, AFP or the Immigration and Border Protection Department.
+agency means ASIO, ASIS, AGO, DIO, ASD, ONI, AFP, ACIC, AUSTRAC or the Department of Home Affairs.
 
 agency head means:
 
@@ -22,15 +22,23 @@ agency head means:
 
 (e) the Commissioner of the AFP; or
 
-(f) the Secretary of the Immigration and Border Protection Department.
+(f) the Secretary of the Department of Home Affairs; or
+
+(g) the AUSTRAC CEO; or
+
+(h) the CEO of ACIC.
 
 operationally sensitive information means information:
 
-(a) about sources of information, other operational assistance or operational methods available to ASIO, ASIS, AGO, DIO, ASD or ONI; or
+(a) about sources of information, other operational assistance or operational methods available to ACIC, ASIO, ASIS, AGO, DIO, ASD or ONI; or
 
-(b) about particular operations that have been, are being or are proposed to be undertaken by ASIO, ASIS, AGO, DIO or ASD; or
+(b) about particular operations that have been, are being or are proposed to be undertaken by ACIC, ASIO, ASIS, AGO, DIO or ASD; or
 
-(c) provided by, or by an agency of, a foreign government where that government does not consent to the public disclosure of the information.
+(c) provided by, or by an agency of, a foreign government where that government does not consent to the public disclosure of the information; or
+
+(d) about sources of information, other operational assistance or operational methods available to AFP, AUSTRAC or the Department of Home Affairs (including AUSTRAC information) in exercising that agency’s intelligence functions; or
+
+(e) about particular operations that have been, are being or are proposed to be undertaken by AFP, AUSTRAC or the Department of Home Affairs in exercising that agency’s intelligence functions.
 
 responsible Minister, in relation to the review of a matter, means the Minister responsible for the agency concerned in relation to that matter.
 

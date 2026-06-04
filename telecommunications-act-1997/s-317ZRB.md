@@ -1,6 +1,6 @@
 # 317ZRB Inspection of records
 
-(1) An Ombudsman official may inspect the records of an interception agency to determine the extent of compliance with this Part by:
+(1) An Ombudsman official may inspect the records of an interception agency, except the Australian Crime Commission, to determine the extent of compliance with this Part by:
 
 (a) the agency; and
 
@@ -8,7 +8,7 @@
 
 (c) officers of the agency.
 
-(2) The chief officer of an interception agency must ensure that officers of the agency give an Ombudsman official any assistance the Ombudsman official reasonably requires to enable the Ombudsman official to exercise the power conferred by subsection (1).
+(2) The chief officer of an interception agency to which subsection (1) applies must ensure that officers of the agency give an Ombudsman official any assistance the Ombudsman official reasonably requires to enable the Ombudsman official to exercise the power conferred by that subsection.
 
 Report
 

@@ -38,4 +38,8 @@
 
 (2) The Minister must cause a copy of the report to be tabled in each House of the Parliament within 15 sitting days of that House after the Minister receives it.
 
-(3) A copy of a report given to the Minister under this section must be given to the Ombudsman at the same time as it is given to the Minister.
+(3) A copy of a report given to the Minister under this section must, at the same time as it is given to the Minister, be given to:
+
+(a) if the report relates to the Australian Federal Police—the Ombudsman; and
+
+(b) if the report relates to the ACC—the Inspector-General of Intelligence and Security.

@@ -36,8 +36,10 @@ Penalty: Imprisonment for 2 years.
 
 (da) the disclosure is made by anyone to the Ombudsman, a Deputy Commonwealth Ombudsman or a member of the Ombudsman’s staff (whether in connection with the exercise of powers or performance of functions under Division 7, in connection with a complaint made to the Ombudsman or in any other circumstances);
 
+(db) the disclosure is made for the purpose of an IGIS official exercising a power, or performing a function or duty, as an IGIS official;
+
 (e) the disclosure is made after a warrant premises occupier’s notice or an adjoining premises occupier’s notice has been given in relation to the warrant;
 
 (f) the disclosure is made after a direction has been given under subsection 3ZZDA(4) or 3ZZDB(4) in relation to the warrant.
 
-Note: A defendant bears an evidential burden in relation to a matter in subsection (2)—see subsection 13.3(3) of the Criminal Code.
+Note: A defendant, except for an IGIS official, bears an evidential burden in relation to a matter in this subsection (see subsection 13.3(3) of the Criminal Code). For IGIS officials, see section 34C of the Inspector-General of Intelligence and Security Act 1986.

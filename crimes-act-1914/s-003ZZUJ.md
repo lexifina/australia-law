@@ -32,10 +32,12 @@
 
 • The Australian Federal Police and the ACC must comply with reporting and record keeping requirements relating to account takeover warrants and emergency authorisations.
 
-• The Ombudsman must inspect the records of the Australian Federal Police and the ACC to determine the extent of compliance with this Part by:
+• The Ombudsman must inspect the records of the Australian Federal Police to determine the extent of compliance with this Part by:
 
-(a) the Australian Federal Police and the ACC; and
+(a) the Australian Federal Police; and
 
-(b) law enforcement officers.
+(b) law enforcement officers of the Australian Federal Police.
+
+• The Inspector-General of Intelligence and Security inspects the records of the ACC, in relation to the ACC’s compliance with this Part, under the Inspector-General of Intelligence and Security Act 1986.
 
 Note: This Part confers non-judicial functions and powers on magistrates. Section 4AAA deals with the conferral of non-judicial functions and powers on magistrates.

@@ -24,4 +24,4 @@ The chief officer of the Australian Federal Police or the ACC must cause the fol
 
 (k) each written record made under subsection 3ZZUN(5);
 
-(l) a copy of each report given to the Minister and the Ombudsman under section 3ZZVL.
+(l) a copy of each report given to the Minister and the Ombudsman or the Inspector-General of Intelligence and Security, as the case requires, under section 3ZZVL.

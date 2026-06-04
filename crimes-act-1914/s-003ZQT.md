@@ -16,6 +16,8 @@ Penalty: 120 penalty units or imprisonment for 2 years, or both.
 
 (b) the disclosure is made to obtain legal advice or legal representation in relation to the notice; or
 
-(c) the disclosure is made for the purposes of, or in the course of, legal proceedings.
+(c) the disclosure is made for the purposes of, or in the course of, legal proceedings; or
 
-Note: A defendant bears an evidential burden in relation to the matters in subsection (2) (see subsection 13.3(3) of the Criminal Code).
+(d) the disclosure is made for the purpose of an IGIS official exercising a power, or performing a function or duty, as an IGIS official.
+
+Note: A defendant, except for an IGIS official, bears an evidential burden in relation to a matter in this subsection (see subsection 13.3(3) of the Criminal Code). For IGIS officials, see section 34C of the Inspector-General of Intelligence and Security Act 1986.

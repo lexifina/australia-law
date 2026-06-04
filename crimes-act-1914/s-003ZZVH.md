@@ -52,12 +52,12 @@ Exceptions
 
 (k) for the purposes of the admission of evidence in a proceeding that is not a criminal proceeding.
 
-Note: A defendant bears an evidential burden in relation to the matters in this subsection—see subsection 13.3(3) of the Criminal Code.
+Note: A defendant, except for an IGIS official, bears an evidential burden in relation to a matter in this subsection (see subsection 13.3(3) of the Criminal Code). For IGIS officials, see section 34C of the Inspector-General of Intelligence and Security Act 1986.
 
 (4) Subsections (1) and (2) do not apply if the disclosure was made by a person to an Ombudsman official (whether in connection with a complaint made to the Ombudsman or in any other circumstances).
 
-Note: A defendant bears an evidential burden in relation to the matters in this subsection—see subsection 13.3(3) of the Criminal Code.
+Note: A defendant, except for an IGIS official, bears an evidential burden in relation to a matter in this subsection (see subsection 13.3(3) of the Criminal Code). For IGIS officials, see section 34C of the Inspector-General of Intelligence and Security Act 1986.
 
-(5) Subsections (1) and (2) do not apply if the disclosure was made by a person to an IGIS official for the purposes of the IGIS official exercising powers, or performing functions or duties, as an IGIS official.
+(5) Subsections (1) and (2) do not apply if the person uses or discloses the information for the purpose of an IGIS official exercising a power, or performing a function or duty, as an IGIS official.
 
-Note: A defendant bears an evidential burden in relation to the matters in this subsection—see subsection 13.3(3) of the Criminal Code.
+Note: A defendant, except for an IGIS official, bears an evidential burden in relation to a matter in this subsection (see subsection 13.3(3) of the Criminal Code). For IGIS officials, see section 34C of the Inspector-General of Intelligence and Security Act 1986.

@@ -26,13 +26,13 @@ is not admissible in evidence against the person except in a proceeding by way o
 
 Note: A body corporate is not entitled to claim the privilege against self-exposure to a penalty.
 
-(4) Nothing in section 3ZZVH or in any other law prevents a law enforcement officer of the Australian Federal Police or the ACC from:
+(4) Nothing in section 3ZZVH or in any other law prevents a law enforcement officer of the Australian Federal Police from:
 
 (a) giving information to an inspecting officer (whether orally or in writing and whether or not in answer to a question); or
 
-(b) giving access to a record of the Australian Federal Police or the ACC, as the case requires, to an inspecting officer;
+(b) giving access to a record of the Australian Federal Police to an inspecting officer;
 
-for the purposes of an inspection under this Division of the records of the Australian Federal Police or the ACC, as the case requires.
+for the purposes of an inspection under this Division of the records of the Australian Federal Police.
 
 (5) Nothing in section 3ZZVH or in any other law prevents a law enforcement officer from making a record of information, or causing a record of information to be made, for the purposes of giving the information to a person as permitted by subsection (4).
 
