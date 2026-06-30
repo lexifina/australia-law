@@ -16,4 +16,4 @@ Penalty: Imprisonment for 2 years.
 
 Sunset provision
 
-(3) This section does not apply in relation to any communication of information that occurs after the end of 29 June 2026.
+(3) This section does not apply in relation to any communication of information that occurs after the end of 29 December 2026.
