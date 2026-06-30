@@ -550,7 +550,7 @@ Part 9—Review
 
 27 Reviewable decisions
 
-(1) A decision specified in an item in column 1 of the table, made under a provision specified for that item in column 2 of the table, is reviewable on the application of an entity specified for that item in column 3 of the table.
+A decision specified in an item in column 1 of the table, made under a provision specified for that item in column 2 of the table, is reviewable on the application of an entity specified for that item in column 3 of the table.
 
 Reviewable decisions
 
@@ -565,8 +565,6 @@ Item | Column 1 Decision | Column 2 Provision | Column 3 Who may seek review
 4 | Specifying a word or expression to distinguish an entity | Paragraph 18(10)(b) of this Schedule | The entity
 
 5 | Removing a word or expression to distinguish an entity on the Business Names Register | Subitem 20(3) of this Schedule | The entity
-
-(2) A decision by the Registrar under a provision of the data standards or the disclosure framework is reviewable on the application of an entity whose interests are affected by the decision.
 
 28 Internal review of certain decisions
 
