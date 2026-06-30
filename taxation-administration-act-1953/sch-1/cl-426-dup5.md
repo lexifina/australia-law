@@ -1,0 +1,27 @@
+# 426-20 Dealing with an application for endorsement
+
+Requiring further information or documents
+
+(1) The Commissioner may require an applicant to give the Commissioner specified information, or a specified document, that the Commissioner needs in order to decide whether the applicant is entitled to endorsement.
+
+Treating application as being refused
+
+(2) After the time worked out under subsection (3), the applicant may give the Commissioner written notice that the applicant wishes to treat the application as having been refused, if the Commissioner has not given the applicant before that time written notice that the Commissioner endorses or refuses to endorse the applicant.
+
+Note: Section 426-25 requires the Commissioner to give the applicant written notice if the Commissioner endorses or refuses to endorse the applicant.
+
+(3) The time is the end of the 60th day after the application was made. However, if before that time the Commissioner requires the applicant under subsection (1) to give information or a document, the time is the later of the following (or either of them if they are the same):
+
+(a) the end of the 28th day after the last day on which the applicant gives the Commissioner information or a document he or she has required;
+
+(b) the end of the 60th day after the application was made.
+
+(4) If the applicant gives notice under subsection (2), section 426-35 operates as if the Commissioner had refused the application on the day on which the notice is given.
+
+Note: Section 426-35 lets the applicant object against refusal of an application in the manner set out in Part IVC of this Act. That Part provides for review of the refusal objected against.
+
+(5) The notice given by the applicant:
+
+(a) may be *lodged electronically; and
+
+(b) must be signed for the applicant, or include the applicant’s *electronic signature if the application is *lodged electronically.

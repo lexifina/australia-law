@@ -1,0 +1,3 @@
+# 14ZZP Order of court on objection decision
+
+Where a court hears an appeal against an objection decision under section 14ZZ, the court may make such order in relation to the decision as it thinks fit, including an order confirming or varying the decision.

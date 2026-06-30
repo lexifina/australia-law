@@ -1,0 +1,5 @@
+# 135-80 Compensation for acquisition of property
+
+(1) If the operation of section 135-75 would result in an acquisition of property (within the meaning of paragraph 51(xxxi) of the Constitution) from an entity otherwise than on just terms (within the meaning of that paragraph), the Commonwealth is liable to pay a reasonable amount of compensation to the entity.
+
+(2) If the Commonwealth and the entity do not agree on the amount of the compensation, the entity may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
