@@ -1,0 +1,17 @@
+# 12GBCM Continuing contraventions of civil penalty provisions
+
+(1) If an act or thing is required under a civil penalty provision to be done:
+
+(a) within a particular period; or
+
+(b) before a particular time;
+
+then the obligation to do that act or thing continues until the act or thing is done (even if the period has expired or the time has passed).
+
+(2) A person who contravenes a civil penalty provision that requires an act or thing to be done:
+
+(a) within a particular period; or
+
+(b) before a particular time;
+
+commits a separate contravention of that provision in respect of each day during which the contravention occurs (including the day the relevant pecuniary penalty order is made or any later day).

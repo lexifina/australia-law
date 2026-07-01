@@ -1,0 +1,43 @@
+# 12GXC Payment period
+
+Usual payment period
+
+(1) The payment period for an infringement notice begins on the day after the notice is given and, unless otherwise specified in this section, continues for 28 days.
+
+Payment period extended under section 12GXD
+
+(2) If, under section 12GXD, ASIC extends the payment period for the notice, the payment period is as extended.
+
+(3) If, under section 12GXD, ASIC refuses to extend the payment period for the notice, the payment period ends on the latest of the following days:
+
+(a) the last day of the period that, without the extension that has been refused, would be the payment period for the notice;
+
+(b) the day that is 7 days after the day the applicant was given notice of ASIC’s decision not to extend;
+
+(c) the day that is 7 days after the day the application is taken to have been refused under subsection 12GXD(4).
+
+Instalments
+
+(4) If, under section 12GXE, ASIC makes an arrangement for the amount payable under the notice to be paid by instalments, the payment period ends on the earlier of the following days:
+
+(a) the last day on which an instalment is to be paid under the arrangement;
+
+(b) if the person fails to pay an instalment in accordance with the arrangement, the last day on which the missed instalment was to be paid.
+
+(5) If, under section 12GXE, ASIC refuses to make an arrangement for the amount payable under the notice to be paid by instalments, the payment period ends on the latest of the following days:
+
+(a) the last day of the period that, without the instalment arrangement, would be the payment period for the notice;
+
+(b) the day that is 7 days after the day the applicant was given notice of ASIC’s decision not to make the arrangement;
+
+(c) the day that is 7 days after the day the application is taken to have been refused under subsection 12GXE(4).
+
+Payment period if ASIC refuses to withdraw infringement notice
+
+(6) If ASIC refuses a representation made under section 12GXF for the notice to be withdrawn, the payment period ends on the latest of the following days:
+
+(a) the last day of the period that, without the withdrawal, would be the payment period for the notice;
+
+(b) the day that is 7 days after the day the person was given notice of ASIC’s decision not to withdraw the notice;
+
+(c) the day that is 7 days after the day on which, under subsection 12GXF(5), ASIC is taken to have refused to withdraw the infringement notice.

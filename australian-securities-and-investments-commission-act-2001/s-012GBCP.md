@@ -1,0 +1,5 @@
+# 12GBCP Exceptions etc. to civil penalty provisions—burden of proof
+
+(1) If, in proceedings for a declaration of contravention, a pecuniary penalty order, a relinquishment order or any other order against a person for a contravention of a civil penalty provision, the person wishes to rely on any exception, exemption, excuse, qualification or justification provided by the law creating the civil penalty provision, then the person bears an evidential burden in relation to that matter.
+
+(2) In subsection (1), evidential burden, in relation to a matter, means the burden of adducing or pointing to evidence that suggests a reasonable possibility that the matter exists or does not exist.

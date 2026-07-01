@@ -1,0 +1,25 @@
+# 12GXD Extension of time to pay amount
+
+(1) A person to whom an infringement notice has been given may, during the payment period for the notice, apply to ASIC for an extension of the payment period for the notice.
+
+(2) ASIC may, in writing, extend the payment period for an infringement notice:
+
+(a) if a person makes an application in accordance with subsection (1); or
+
+(b) on ASIC’s own initiative.
+
+ASIC may do so before or after the end of the payment period.
+
+(3) ASIC must do each of the following within 14 days after an application in accordance with subsection (1) is made:
+
+(a) grant or refuse to grant an extension of the payment period for the infringement notice;
+
+(b) give the applicant notice in writing of ASIC’s decision.
+
+(4) If ASIC does not comply with subsection (3):
+
+(a) ASIC is taken to have refused to grant an extension of the payment period for the infringement notice; and
+
+(b) the refusal is taken to have occurred on the last day of the 14 day period.
+
+(5) ASIC may extend the payment period more than once under subsection (2).

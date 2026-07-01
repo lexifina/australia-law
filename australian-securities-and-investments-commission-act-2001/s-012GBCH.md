@@ -1,0 +1,13 @@
+# 12GBCH Criminal proceedings during civil proceedings
+
+(1) Proceedings for a declaration of contravention, a pecuniary penalty order or a relinquishment order against a person for a contravention of a civil penalty provision are stayed if:
+
+(a) criminal proceedings are commenced or have already been commenced against the person for an offence; and
+
+(b) the offence is constituted by conduct that is the same, or substantially the same, as the conduct alleged to constitute the contravention.
+
+(2) The proceedings for the declaration or order (the civil proceedings) may be resumed if the person is not convicted of the offence. Otherwise:
+
+(a) the civil proceedings are dismissed; and
+
+(b) costs must not be awarded in relation to the civil proceedings.
