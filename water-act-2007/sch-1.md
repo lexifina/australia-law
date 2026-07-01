@@ -2836,6 +2836,10 @@ In this Division:
 
 (7) The amendments of clause 77 made by the amending Part apply in relation to work plans approved under clause 34A, as amended by the amending Part, on or after the commencement of the amending Part.
 
+155. Application provision relating to repeal of Schedule E to the Agreement made by the Water Amendment (Murray-Darling Basin Agreement) Regulations 2026
+
+Clause 13 of Schedule E to the Agreement, as in force immediately before 1 July 2026, does not apply in relation to the water year (within the meaning of subclause 2(1) of Schedule E as so in force) beginning on 1 July 2025.
+
 Signed for and on behalf of each of the parties by:
 
 The Honourable Kevin Rudd MP )
@@ -4250,178 +4254,38 @@ SCHEDULE C—APPLICATION OF AGREEMENT TO QUEENSLAND
 
 Plan for the purposes of clause 40 of the Agreement
 
-SCHEDULE D—TRANSFERRING WATER ENTITLEMENTS AND ALLOCATIONS
+SCHEDULE D—TRANSFERRING TRADEABLE WATER RIGHTS
 
 PART I—PRELIMINARY
 
-1. Purposes
+1 Purposes
 
-The purposes of this Schedule are, consistently with the laws of each State, the Agreement, the National Water Initiative, the Basin Plan and policies from time to time adopted by the Ministerial Council:
+(1) Consistent with the laws of each State, the Commonwealth water legislation (including the Agreement and the Basin Plan), the National Water Initiative and policies from time to time adopted by the Ministerial Council, the purposes of this Schedule are:
 
-(a) to contribute to an efficient and effective water market by coordinating transfers of water entitlements and allocations described in clause 2 between States and between valleys within the Murray-Darling Basin; and
+(a) to contribute to an efficient and effective water market by setting out administrative and coordination arrangements to facilitate interstate transfers and intervalley transfers of tradeable water rights in the southern connected Basin; and
 
-(b) to set out principles for adjustments of intervalley and State transfer accounts; and
+(b) to enable the Authority to make, amend, review and revoke protocols under this Schedule to supplement its provisions; and
 
-(c) to set out principles to be applied by the Authority, State Contracting Governments and licensing authorities to transfers of water entitlements and allocations described in clause 2; and
+(c) to enable the Committee to make, amend and revoke procedures under this Schedule to supplement its provisions; and
 
-(d) to set out administrative and coordination arrangements, involving the Authority, State Contracting Governments and licensing authorities, to enable transfers of water entitlements and allocations described in clause 2 between States; and
+(d) to require State Contracting Governments to maintain and adjust valley accounts for each valley in the State located in the southern-connected Basin; and
 
-(e) to allow Protocols to be made under this Schedule to supplement its provisions; and
+(e) to require the Authority to maintain and adjust a State transfer account, a Barmah Choke entitlement record and a Barmah Choke allocation account; and
 
-(f) to require a State Contracting Government to notify the Authority of any intervalley transfer described in clause 2 made within that State.
+(f) to enable the Authority to provide advice about water allocation transfers across the Barmah Choke; and
 
-2. Application
+(g) to enable the protocols to restrict or regulate interstate transfers and intervalley transfers across the Barmah Choke; and
 
-Subject to the laws of each State, this Schedule applies to transfers, between States and between valleys within the Murray-Darling Basin, of such water entitlements and allocations as are, from time to time, determined by the Ministerial Council and specified in Appendix 1, relating to water within:
+(h) to require State Contracting Governments to provide information to the Authority about interstate transfers and intervalley transfers of tradeable water rights in the southern-connected Basin.
 
-(a) the upper River Murray and the River Murray in South Australia; and
+(2) A reference to the National Water Initiative in subclause (1) includes a reference to another agreement (however described) that supersedes, replaces, amends, supplements or consolidates the National Water Initiative.
 
-(b) regulated reaches of the Goulburn, Broken, Campaspe, Loddon and Murrumbidgee river systems; and
+2 Circumstances in which this Schedule does not apply
 
-(c) such other sources from time to time specified in Appendix 1,
+Subject to the laws of each State, this Schedule and the protocols and procedures (if any) made under this Schedule do not apply in relation to transfers of tradeable water rights:
 
-for the purposes of exchange rate trade or tagged trade (or both), as the Ministerial Council may determine from time to time.
+(a) of sources of surface water outside the southern-connected Basin; or
 
-3. Definitions and interpretation
+(b) that are not interstate transfers or intervalley transfers; or
 
-(1) In this Schedule and any protocols made under it, save where inconsistent with the context:
-
-(a) “allocation” means the volume of water allocated for use under an entitlement in any water year (as defined in clause 2 of Schedule E) pursuant to the law of a State;
-
-“cap on diversions” has the same meaning as in Schedule E;
-
-“convert”, in relation to an entitlement, means to convert an entitlement of one type, with lower reliability into an entitlement of another type, with higher reliability, or vice versa;
-
-“conversion factor” means a factor determined for the purpose of clause 12;
-
-“designated river valley” has the meaning set out in Schedule E;
-
-“entitlement” means:
-
-(i) an entitlement to a particular share of water within the upper River Murray, the River Murray in South Australia or regulated reaches of the Goulburn, Broken, Campaspe, Loddon and Murrumbidgee river systems or a source referred to in paragraph 2(c) pursuant to the law of a State; or
-
-(ii) any other entitlement to divert water or to receive water diverted by another from those sources,
-
-but does not include a State entitlement;
-
-“environmental entitlement” means an entitlement to use water for environmental purposes;
-
-“exchange rate” means a rate determined for the purposes of clause 12;
-
-“former Schedule” means Schedule E of the former Agreement;
-
-“interstate transfer” means a transfer of an entitlement or allocation made between States in accordance with this Schedule;
-
-“intervalley transfer” means a transfer of an entitlement or allocation made out of a valley:
-
-(i) into another valley; or
-
-(ii) into the River Murray, or vice versa;
-
-“licensing authority” means the authority within a State with power to make a final decision whether a transfer may be made into or out of that State;
-
-“relevant water authority” in relation to an entitlement or allocation within an irrigation district, means the body responsible for administering that entitlement or allocation in that district;
-
-“State of destination” means the State into which a transfer of an entitlement or allocation is, or is to be, made;
-
-“State of origin” means the State out of which a transfer of an entitlement or allocation is, or is to be made;
-
-“transfer”, in relation to an allocation, includes:
-
-(i) the transfer of an allocation already made in a State of origin to a State of destination, in accordance with this Schedule; and
-
-(ii) the transfer of an allocation within a State, according to the laws of that State;
-
-“transfer”, in relation to an entitlement, includes:
-
-(i) the transfer of an entitlement, by either exchange rate trade or tagged trade, between States, in accordance with this Schedule; and
-
-(ii) the transfer of an entitlement within a State, according to the laws of that State;
-
-“Transfer Register” means the register referred to in clause 16;
-
-“valley” means a river valley defined in a protocol made under paragraph 6(1)(b);
-
-“valley account” has the meaning set out in sub-clause 11(3);
-
-“year” means the 12 months beginning on 1 July;
-
-(b) a reference to a clause, sub-clause, paragraph or Appendix is a reference to a clause, sub-clause, paragraph or Appendix of this Schedule;
-
-(c) a reference to the cap on diversions for a designated river valley is to the long-term diversion cap for that designated river valley, fixed in accordance with Schedule E;
-
-(d) a reference to “exchange rate trade” is to an arrangement under which an entitlement in a State of origin is cancelled, extinguished or suspended and an equivalent entitlement is created in a State of destination, either permanently or for a fixed term;
-
-(e) a reference to “tagged trade” is to an arrangement under which every allocation made under an entitlement in a State of origin is made available for use in a State of destination, either permanently or for a fixed term.
-
-(2) For the purposes of this Schedule, the Ministerial Council may determine the geographic extent and limits of the Barmah Choke.
-
-PART II—GENERAL PRINCIPLES
-
-4. Power to alter entitlements and allocations to which Schedule applies
-
-On the recommendation of the Authority, the Ministerial Council may, from time to time, alter the entitlements and allocations to which this Schedule applies, by amending Appendix 1.
-
-5. Suspension of Schedule
-
-(1) Subject to sub-clause 19(10), a State Contracting Government may, from time to time, after consulting the Ministerial Council, suspend or limit the operation of this Schedule in that State, if the State Contracting Government considers that:
-
-(a) the use or management of water comprised in entitlements or allocations transferred under this Schedule have increased or accelerated environmental degradation; or
-
-(b) any other State has made inadequate progress towards pricing water to recover full costs, in accordance with principles adopted by the Council of Australian Governments; or
-
-(c) the policies or practices applying within any other State do not achieve the objectives of the National Water Initiative relating to reducing barriers to trading entitlements and allocations and ensuring competitive neutrality in the market for such entitlements and allocations.
-
-(2) The Ministerial Council may, from time to time, having regard to the National Water Initiative, by resolution, suspend or limit the operation of this Schedule in relation to a State or States.
-
-6 Power to make protocols
-
-(1) The Authority may, in consultation with the Committee, from time to time make one or more protocols in relation to the matters covered by this Schedule, including the following:
-
-(a) facilitating the transfer of tradeable water rights between hydrologically connected river systems in the southern-connected Basin;
-
-(b) adjusting the delivery of State water entitlements under Part XII of the Agreement to take into account, and to give effect to, interstate transfers of tradeable water rights;
-
-(c) maintaining and adjusting valley accounts in accordance with subclause 9(1);
-
-(d) providing information about valley account balances in accordance with subclause 9(2) for each valley in the State;
-
-(e) designated water supply sources and releasing water from valley accounts in accordance with subclauses 9(3) and (4);
-
-(f) maintaining and adjusting a State transfer account, a Barmah Choke entitlement record and a Barmah Choke allocation account in accordance with clause 11;
-
-(g) providing advice about water allocation transfers across the Barmah Choke in accordance with clause 12;
-
-(h) restricting or regulating interstate transfers and intervalley transfers across the Barmah Choke in accordance with clause 12A;
-
-(i) providing information about interstate transfers and intervalley transfers of tradeable water rights in accordance with subclause 13(1);
-
-(j) monitoring and reporting interstate transfers of tradeable water rights;
-
-(k) implementing resolutions of the Ministerial Council.
-
-Note: A protocol made by the Authority under this Schedule is a legislative instrument, see section 18D of the Water Act.
-
-(2) A protocol made under subclause (1) must not purport to affect or interfere with the responsibilities of a State to manage a water resource, except as provided for in the Agreement.
-
-(3) If the Authority plans to, or has determined to, make, amend, review or revoke a protocol, the Authority must notify each Contracting Government:
-
-(a) of the proposed protocol, amendment, review or revocation; and
-
-(b) of the subject matter of the proposed protocol, amendment, review or revocation.
-
-(4) A Contracting Government may nominate a person with relevant expertise and experience to give advice to the Authority in preparing, amending, reviewing or revoking a protocol.
-
-(5) The Authority must consider any advice given by a person nominated under subclause (4), before it makes, amends or revokes a protocol.
-
-(6) A protocol is void to the extent that it is inconsistent with the Agreement (including its Schedules).
-
-(7) The Authority may:
-
-(a) on its own initiative amend, review or revoke a protocol made under subclause (1); or
-
-(b) review a protocol at the request of a Contracting Government.
-
-(8) The Authority must not delegate any power conferred on it by subclauses (1) and (7).
-
-(9) Each State Contracting Government must, in accordance with the laws of the State, take such action within the State as may be necessary to ensure that the matters set out in a protocol are applied and observed by each approval authority and person in that State.
+(c) of ground water.
