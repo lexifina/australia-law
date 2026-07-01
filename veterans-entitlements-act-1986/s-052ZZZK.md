@@ -1,0 +1,21 @@
+# 52ZZZK Adjusted net value of asset
+
+(1) For the purposes of this Subdivision, the adjusted net value of an asset owned by an individual is 100% of the net value of the asset.
+
+(2) For the purposes of this Subdivision, the adjusted net value of an asset controlled by an individual is:
+
+(a) if the entity that owns the asset is a company and the company is a controlled private company in relation to the individual:
+
+(i) 100% of the net value of the asset; or
+
+(ii) if the Commission, by writing, determines a lower percentage in relation to the individual and the asset—that lower percentage of the net value of the asset; or
+
+(b) if the entity that owns the asset is a trust and the trust is a controlled private trust in relation to the individual:
+
+(i) 100% of the net value of the asset; or
+
+(ii) if the Commission, by writing, determines a lower percentage in relation to the individual and the asset—that lower percentage of the net value of the asset; or
+
+(c) if the entity that owns the asset is a business partnership—the individual’s share of the net value of the asset.
+
+(3) In making a determination under this section, the Commission must comply with any relevant decision-making principles.

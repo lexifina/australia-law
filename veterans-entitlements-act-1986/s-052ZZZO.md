@@ -1,0 +1,25 @@
+# 52ZZZO Permissible reductions of income from carrying on a primary production enterprise
+
+(1) For the purposes of this Subdivision, if an entity carries on a primary production enterprise, the entity’s income from the primary production enterprise is to be reduced by:
+
+(a) losses and outgoings that relate to the primary production enterprise and are allowable deductions for the purposes of section 8-1 of the Income Tax Assessment Act 1997; and
+
+(ba) amounts that relate to the primary production enterprise and can be deducted for the decline in value of depreciating assets under Subdivision 40-B of the Income Tax Assessment Act 1997; and
+
+(c) amounts that relate to the primary production enterprise and are allowable deductions under any other provision of the Income Tax Assessment Act 1936 or the Income Tax Assessment Act 1997.
+
+(2) However, the rule in subsection (1) does not apply to:
+
+(a) an ineligible deduction (see subsection (3)); or
+
+(b) an ineligible amount (see subsection (4)); or
+
+(c) an ineligible part of a deduction (see subsection (5)).
+
+(3) The Commission may, by legislative instrument, determine a specified deduction is an ineligible deduction for the purposes of this section.
+
+(4) The Commission may, by legislative instrument, determine that a specified amount is an ineligible amount for the purposes of this section.
+
+(5) The Commission may, by legislative instrument, determine that a specified part of a specified deduction is an ineligible part of the deduction for the purposes of this section.
+
+(6) A determination under subsection (3), (4) or (5) has effect accordingly.

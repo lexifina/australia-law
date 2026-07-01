@@ -1,0 +1,7 @@
+# 59EAC Rounding off amounts
+
+(1) If a provisional living cost amount is a multiple of $2.60, the provisional living cost amount becomes the living cost amount.
+
+(2) Subject to subsection (3), if a provisional living cost amount is not a multiple of $2.60, the living cost amount is the provisional living cost amount rounded up or down to the nearest multiple of $2.60.
+
+(3) If a provisional living cost amount is not a multiple of $2.60 but is a multiple of $1.30, the living cost amount is the provisional living cost amount rounded up to the nearest multiple of $2.60.

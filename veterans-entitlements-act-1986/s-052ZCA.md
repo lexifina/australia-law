@@ -1,0 +1,27 @@
+# 52ZCA Effect of participation in home equity access scheme—maximum loan available
+
+(1) The maximum loan available to a person under the home equity access scheme is the amount worked out using the formula:
+
+where:
+
+age component amount means the amount that is specified in a determination under subsection 1135A(3) of the Social Security Act 1991 and that relates to:
+
+(a) if the person is not a member of a couple—the age the person turned on his or her last birthday; or
+
+(b) if the person is a member of a couple—the age the younger member of the couple turned on his or her last birthday.
+
+value of real assets means:
+
+(a) if neither subparagraph 52ZA(1)(e)(ii) nor subparagraph 52ZA(2)(e)(ii) applied to the person when the person made his or her request to participate in the home equity access scheme—the value of the real assets (after deduction of any nominated amount); or
+
+(b) if subparagraph 52ZA(1)(e)(ii) or (2)(e)(ii) applied to the person when the person made his or her request to participate in the home equity access scheme—the value of the charge referred to in paragraph 52ZA(3)(c).
+
+Note 1: For real assets see subsection 52ZAAA(1).
+
+Note 2: For nominated amount see subsection 52ZAAA(1).
+
+(2) For the purposes of subsection (1), the following provisions have effect:
+
+(a) if, but for this paragraph, the value of real assets would be an amount that exceeds $10,000 but is not a multiple of $10,000, the value is to be taken to be the next lower amount that is a multiple of $10,000;
+
+(b) if, but for this paragraph, the value of real assets would be less than $10,000, the value is to be taken to be nil.

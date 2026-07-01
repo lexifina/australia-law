@@ -1,0 +1,53 @@
+## Subdivision D—Controlled private companies
+
+# 52ZZC Controlled private companies
+
+(1) For the purposes of this Division, a company is a controlled private company in relation to an individual if the company is a designated private company and:
+
+(a) the individual passes the control test set out in subsection (2); or
+
+(b) the individual passes the source test set out in subsection (3).
+
+Control test
+
+(2) For the purposes of this section, an individual passes the control test in relation to a company if:
+
+(a) the aggregate of:
+
+(i) the direct voting interests in the company that the individual holds; and
+
+(ii) the direct voting interests in the company held by associates of the individual;
+
+is 50% or more; or
+
+(b) the aggregate of:
+
+(i) the direct control interests in the company that the individual holds; and
+
+(ii) the direct control interests in the company held by associates of the individual;
+
+is 15% or more; or
+
+(c) the company is sufficiently influenced by:
+
+(i) the individual; or
+
+(ii) an associate of the individual; or
+
+(iii) 2 or more entities covered by the preceding subparagraphs; or
+
+(d) the individual (either alone or together with associates) is in a position to exercise control over the company.
+
+Source test
+
+(3) For the purposes of this section, an individual passes the source test in relation to a company if:
+
+(a) the individual has transferred property or services to the company after 7.30 pm, by standard time in the Australian Capital Territory, on 9 May 2000; and
+
+(b) the underlying transfer was made for no consideration or for a consideration less than the arm’s length amount in relation to the underlying transfer.
+
+No double counting
+
+(4) In calculating the aggregate referred to in paragraph (2)(a), a direct voting interest held because of subsection 52ZZD(2) is not to be counted under subparagraph (2)(a)(i) to the extent to which it is calculated by reference to a direct voting interest in the company that is taken into account under subparagraph (2)(a)(ii).
+
+(5) In calculating the aggregate referred to in paragraph (2)(b), a direct control interest held because of subsection 52ZZF(4) is not to be counted under subparagraph (2)(b)(i) to the extent to which it is calculated by reference to a direct control interest in the company that is taken into account under subparagraph (2)(b)(ii).

@@ -1,0 +1,65 @@
+# 46ABA Meaning of gainful work
+
+(1) For the purposes of this Division, gainful work is work for financial gain or reward (other than as an employee), where:
+
+(a) the work involves personal exertion on the part of the person concerned; and
+
+(b) the work is carried on within or outside Australia.
+
+Disregard managing or administering family financial investments and real property
+
+(2) Work undertaken by a person is taken not to be gainful work for the purposes of this Division to the extent to which the work consists of the management or administration of any financial investment, or any real property, in which any of the following has a legal or equitable interest:
+
+(a) a member of the person’s family group;
+
+(b) a company that is a family company in relation to the person;
+
+(c) the trustee or trustees of a trust that is a family trust in relation to the person.
+
+Note: For financial investment, see subsection 5J(1).
+
+Disregard domestic duties
+
+(3) Work undertaken by a person is taken not to be gainful work for the purposes of this Division if the work consists of carrying out:
+
+(a) domestic tasks; or
+
+(b) household maintenance tasks; or
+
+(c) gardening tasks; or
+
+(d) similar tasks;
+
+in relation to:
+
+(e) the person’s place of residence; or
+
+(f) if the person has 2 or more places of residence—any of those places of residence.
+
+Definitions
+
+(4) For the purposes of this section, a place of residence includes:
+
+(a) if the place is a dwelling-house—any land or building that is adjacent to the dwelling-house and that is used primarily for private or domestic purposes in association with that dwelling-house; or
+
+(b) if the place is a flat or home unit—a garage or storeroom that is used for private or domestic purposes in association with the flat or home unit.
+
+(5) In this section:
+
+family company, in relation to a person, means a company where:
+
+(a) the company is, or its directors are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of any or all of the members of the person’s family group; or
+
+(b) any or all of the members of the person’s family group are in a position to cast, or control the casting of, more than 50% of the maximum number of votes that may be cast at a general meeting of the company; or
+
+(c) both:
+
+(i) the company has one or more shareholders; and
+
+(ii) each shareholder is a member of the person’s family group.
+
+family group, in relation to a person, means the group consisting of the person and the family members of the person. If the person has no family members, the person is taken to be a family group in the person’s own right.
+
+Note: For family member, see subsection 5L(1).
+
+family trust, in relation to a person, means a trust where a member of the person’s family group benefits, or is capable (whether by the exercise of a power of appointment or otherwise) of benefiting, under the trust.

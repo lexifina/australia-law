@@ -1,0 +1,49 @@
+# 52BAA Value of asset-tested income streams (lifetime) that are managed investments
+
+(1) This section applies to a person’s asset-tested income stream (lifetime), that does not arise under arrangements that are regulated by the Superannuation Industry (Supervision) Act 1993, in relation to a day that is before the person’s assessment day (within the meaning of section 52BAB) for the income stream.
+
+Note: For asset-tested income stream (lifetime), see subsection 5J(1).
+
+(2) However, this section does not apply to a family law affected income stream.
+
+Note: For family law affected income streams, see section 52BA.
+
+Value of income stream
+
+(3) Subject to this section, the value of the person’s income stream is, for the purposes of the assets test, the purchase amount for the income stream.
+
+Purchase amount
+
+(4) For the purposes of this section, the purchase amount for the income stream is:
+
+(a) subject to paragraph (b)—if one or more amounts have been paid for the income stream, the sum of each compounded amount in relation to an amount paid for the income stream, as worked out under subsection (5), less any commuted amounts; or
+
+(b) if the circumstances determined in an instrument under subsection (7) apply in relation to the income stream—the amount worked out in accordance with that instrument.
+
+(5) A compounded amount in relation to an amount paid for the income stream is worked out by applying the following formula for each relevant adjustment day (from the earliest to the latest):
+
+where:
+
+compounded amount for the relevant adjustment day means:
+
+(a) for the earliest relevant adjustment day—the amount that was paid for the income stream; or
+
+(b) for each later relevant adjustment day—the result of applying the formula for the most recent earlier relevant adjustment day.
+
+relevant above threshold rate for the relevant adjustment day means the following:
+
+(a) if the relevant adjustment day is the relevant payment day—zero;
+
+(b) if the relevant adjustment day is a 12-month anniversary of the relevant payment day—the rate applicable under subsection 46J(2) for that relevant adjustment day, expressed as a decimal fraction.
+
+relevant adjustment day means each of the following:
+
+(a) the relevant payment day;
+
+(b) each 12-month anniversary of the relevant payment day.
+
+relevant payment day means the day that the amount was paid for the income stream.
+
+(6) If the income stream is a joint income stream, then, for the purposes of applying subsections (4) and (5) to the person and to a day covered by subsection (1), an amount paid for the income stream is taken to be that amount multiplied by the proportion of the income stream attributable to the person on that day.
+
+(7) The Commission may make a legislative instrument for the purposes of paragraph (4)(b).

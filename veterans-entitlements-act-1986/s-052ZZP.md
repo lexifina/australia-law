@@ -1,0 +1,19 @@
+# 52ZZP Derivation periods
+
+(1) For the purposes of this Division:
+
+(a) if a company or trust was in existence throughout a tax year of the company or trust—the tax year is a derivation period of the company or trust; and
+
+(b) if a company or trust was in existence during a part of a tax year of the company or trust—that part of the tax year is a derivation period of the company or trust.
+
+(2) Subsection (1) has effect subject to subsection (3).
+
+(3) The Commission may, by writing, determine that, for the purposes of the application of this Subdivision to a specified individual and a specified company or trust, a specified period is a derivation period of the company or trust.
+
+(4) A determination under subsection (3) has effect accordingly.
+
+(5) In making a determination under subsection (3), the Commission must comply with any relevant decision-making principles.
+
+(6) To avoid doubt, for the purposes of the application of this Subdivision to a particular individual and a particular company or trust, it is not necessary that the individual be an attributable stakeholder of the company or trust throughout a derivation period of the company or trust.
+
+(7) A derivation period may begin or end before the commencement of this Division.

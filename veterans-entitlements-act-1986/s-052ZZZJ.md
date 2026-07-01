@@ -1,0 +1,29 @@
+# 52ZZZJ When asset is controlled by an individual
+
+(1) For the purposes of this Subdivision, an asset is controlled by an individual if, and only if:
+
+(a) all of the following conditions are satisfied:
+
+(i) the asset is owned by a company;
+
+(ii) the company is a controlled private company in relation to the individual;
+
+(iii) no determination is in force under subsection (2) in relation to the asset and the individual; or
+
+(b) all of the following conditions are satisfied:
+
+(i) the asset is owned by a trust;
+
+(ii) the trust is a controlled private trust in relation to the individual;
+
+(iii) no determination is in force under subsection (2) in relation to the asset and the individual; or
+
+(c) both:
+
+(i) the asset is owned by a business partnership; and
+
+(ii) the individual is a partner in the partnership.
+
+(2) If the asset is owned by a company or trust, the Commission may, by writing, determine that, for the purposes of this Subdivision, the asset is taken not to be controlled by the individual.
+
+(3) In making a determination under subsection (2), the Commission must comply with any relevant decision-making principles.

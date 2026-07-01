@@ -1,0 +1,3 @@
+# 6DA Operational service—minesweeping and bomb/mine clearance service
+
+A member of the Defence Force is taken to have been rendering operational service during any period of service in respect of which the member has been awarded, or has become eligible to be awarded, the Naval General Service Medal or the General Service Medal (Army and Royal Air Force) with the Minesweeping 1945-51 Clasp, the Bomb-Mine Clearance 1945-53 Clasp, the Bomb and Mine Clearance 1945-49 Clasp or the Bomb and Mine Clearance 1945-56 Clasp.

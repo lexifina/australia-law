@@ -1,0 +1,31 @@
+# 45UUC Definition of PBBP employment income
+
+(1) PBBP employment income, of a person:
+
+(a) means ordinary income that is, or is taken to be, earned, derived or received by the person or the person’s partner from gainful work; and
+
+(b) includes (without limitation) any of the following that is, or is taken to be, earned, derived or received by the person or the person’s partner:
+
+(i) salary, wages, commissions and employment-related fringe benefits;
+
+(ii) leave payments;
+
+(iii) payments to the person or the person’s partner by a former employer of the person or person’s partner in relation to the termination of the person’s or partner’s employment.
+
+(2) For the purposes of subparagraph (1)(b)(ii), a leave payment:
+
+(a) includes a payment in respect of sick leave, personal leave, carer’s leave, annual leave, maternity leave, long service leave or special leave; and
+
+(aa) includes an instalment of parental leave pay; and
+
+(b) may be made as a lump sum payment, a series of regular payments or otherwise; and
+
+(c) is taken to be made to a person if it is made to another person:
+
+(i) at the direction of the person or of a court; or
+
+(ii) on behalf of the person; or
+
+(iii) for the benefit of the person; or
+
+(iv) if the person waives or assigns his or her right to the payment.

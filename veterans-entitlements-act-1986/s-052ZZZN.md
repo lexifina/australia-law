@@ -1,0 +1,17 @@
+# 52ZZZN Net income from a primary production enterprise—treatment of trading stock
+
+(1) For the purposes of this Subdivision, if:
+
+(a) an entity carries on a primary production enterprise; and
+
+(b) the value of all the trading stock on hand at the end of a tax year is greater than the value of all the trading stock on hand at the beginning of that tax year;
+
+the entity’s income for that tax year in the form of profits from the enterprise is to include the amount of the difference in values.
+
+(2) For the purposes of this Subdivision, if:
+
+(a) an entity carries on a primary production enterprise; and
+
+(b) the value of all the trading stock on hand at the end of a tax year is less than the value of all the trading stock on hand at the beginning of that tax year;
+
+the entity’s income for that tax year in the form of profits from the enterprise is to be reduced by the amount of the difference in values.

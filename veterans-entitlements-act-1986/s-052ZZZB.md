@@ -1,0 +1,25 @@
+## Subdivision J—Modification of income deprivation rules
+
+# 52ZZZB Individual disposes of ordinary income to company or trust
+
+(1) If:
+
+(a) an individual transfers property to a company or trust on or after 1 January 2002; and
+
+(b) either:
+
+(i) as a result of the transfer, the individual became an attributable stakeholder of the company or trust; or
+
+(ii) at the time of the transfer, the individual was an attributable stakeholder of the company or trust; and
+
+(c) the transfer amounts to a disposal by the individual of ordinary income of the individual; and
+
+(d) if the ordinary income is income from an asset—the course of conduct that constituted the disposition of the income did not also constitute a disposition of the asset;
+
+the Commission may, by writing, determine that Division 7 applies, and is taken to have applied, to the disposal referred to in paragraph (c) as if:
+
+(e) the amount of the disposition were nil; or
+
+(f) the amount of the disposition were reduced by the amount specified in the determination.
+
+(2) In making a decision under this section, the Commission must comply with any relevant decision-making principles.
