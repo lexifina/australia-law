@@ -10,7 +10,15 @@ Notice requiring information etc.
 
 (b) produce any such documents to the AER;
 
-(c) appear before the AER, or before a specified person assisting the AER who is an SES employee or an acting SES employee, to give any such evidence (either orally or in writing) and produce any such documents.
+(c) appear before:
+
+(i) the AER; or
+
+(ii) a specified member of the staff of the AER who is an SES employee or an acting SES employee; or
+
+(iii) a specified person assisting the AER, referred to in section 44AACA, who is an SES employee or an acting SES employee;
+
+to give any such evidence (either orally or in writing) and produce any such documents.
 
 (3) The notice must specify:
 

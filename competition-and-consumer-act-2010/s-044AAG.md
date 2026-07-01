@@ -4,7 +4,7 @@
 
 (a) a uniform energy law that is applied as a law of the Commonwealth; or
 
-(b) a State/Territory energy law.
+(b) an AER State/Territory energy law.
 
 (2) If the order declares the person to be in breach of such a law, the order may include one or more of the following:
 
@@ -22,7 +22,7 @@
 
 (a) a uniform energy law that is applied as a law of the Commonwealth; or
 
-(b) a State/Territory energy law;
+(b) an AER State/Territory energy law;
 
 the Federal Court may, on application by the AER on behalf of the Commonwealth, grant an injunction:
 

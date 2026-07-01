@@ -6,7 +6,7 @@
 
 (b) the National Gas (Commonwealth) Law (as defined by the Australian Energy Market Act 2004); or
 
-(c) a provision of a State/Territory energy law.
+(c) a provision of an AER State/Territory energy law.
 
 (2) The reference in subsection (1) to an arbitration includes a reference to each of the following:
 

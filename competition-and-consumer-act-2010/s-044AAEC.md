@@ -1,10 +1,10 @@
-# 44AAEC Divisions of the AER—functions and powers under a State/Territory energy law or a local energy instrument
+# 44AAEC Divisions of the AER—functions and powers under an AER State/Territory energy law or a local energy instrument
 
 Directions
 
 (1) The AER Chair may, by writing, direct that all or any of the AER’s functions and powers:
 
-(a) under a State/Territory energy law; or
+(a) under an AER State/Territory energy law; or
 
 (b) under a local energy instrument;
 
@@ -40,19 +40,19 @@ Functions and powers of the AER
 
 Application
 
-(10) This section does not apply to a State/Territory energy law unless a provision of:
+(10) This section does not apply to an AER State/Territory energy law unless a provision of:
 
-(a) the State/Territory energy law; or
+(a) the AER State/Territory energy law; or
 
 (b) another law of the State or Territory concerned;
 
-provides that this section extends to, and has effect for the purposes of, the State/Territory energy law.
+provides that this section extends to, and has effect for the purposes of, the AER State/Territory energy law.
 
 (11) This section does not apply to a local energy instrument unless a provision of:
 
 (a) the local energy instrument; or
 
-(b) the State/Territory energy law of the State or Territory concerned; or
+(b) the AER State/Territory energy law of the State or Territory concerned; or
 
 (c) another law of the State or Territory concerned;
 

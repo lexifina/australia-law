@@ -50,9 +50,15 @@ Authorised use and disclosure
 
 (a) performing the person’s functions, or exercising the person’s powers, as:
 
-(i) an AER member, a person referred to in section 44AAC or a delegate of the AER; or
+(i) an AER member or a delegate of the AER; or
 
-(ii) a person who is authorised to perform or exercise a function or power of, or on behalf of, the AER; or
+(ii) a member of the staff of the AER; or
+
+(iii) a person assisting the AER referred to in section 44AACA; or
+
+(iv) a consultant engaged under section 44AACB; or
+
+(v) a person who is authorised to perform or exercise a function or power of, or on behalf of, the AER; or
 
 (b) the performance of functions, or the exercise of powers, by the person by way of assisting a delegate of the AER;
 

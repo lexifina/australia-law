@@ -1,11 +1,11 @@
-## Subdivision B—Staff etc. to assist the AER
+## Subdivision B—Staff of the AER etc.
 
-# 44AAC Staff etc. to assist the AER
+# 44AAC Staff of the AER
 
-The Chairperson must make available:
+(1) The staff of the AER must be persons engaged under the Public Service Act 1999.
 
-(a) persons engaged under section 27; and
+(2) For the purposes of the Public Service Act 1999:
 
-(b) consultants engaged under section 27A;
+(a) the AER Chair and the APS employees assisting the AER Chair together constitute a Statutory Agency; and
 
-to assist the AER to perform its functions.
+(b) the AER Chair is the Head of that Statutory Agency.
