@@ -27,3 +27,5 @@ Subdivisions 115-C and 207-B of the Income Tax Assessment Act 1997 provide the c
 (a) Subdivision 115-C of that Act has the effect that an amount corresponding to each of those capital gains is taxed in the hands of the beneficiaries of the trust (as a capital gain) and, if necessary, assessed to the trustee.
 
 (b) Subdivision 207-B of that Act has the effect that an amount corresponding to each of those franked distributions is taxed in the hands of the beneficiaries of the trust and, if necessary, the trustee. It also has the effect that the entity in whose hands those distributions are taxed can take advantage of the relevant amount of related franking credits.
+
+Note: In this Division, a reference to Subdivision 115-C of the Income Tax Assessment Act 1997 includes a reference to that Subdivision as it applies because of Subdivision 115-CA of that Act (which extends the application of Subdivision 115-C in certain circumstances to trusts that would have net capital gains if indexation were disregarded): see subsection 115-255(5) of that Act.
