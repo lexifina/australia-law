@@ -1,0 +1,13 @@
+# 1061ZVGB Application of voluntary SSL repayments
+
+(1) Any money a person pays under this Division to meet the person’s debts to the Commonwealth under this Chapter is to be applied in payment of those debts as the person directs at the time of the payment.
+
+(2) If the person has not given any directions, or the directions given do not adequately deal with the matter, any money available is to be applied as follows:
+
+(a) first, in discharge or reduction of any accumulated SSL debt of the person;
+
+(b) second, in discharge or reduction of:
+
+(i) any SSL debt of the person; or
+
+(ii) if there is more than one such debt, those debts in the order in which they were incurred.

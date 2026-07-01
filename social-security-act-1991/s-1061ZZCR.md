@@ -1,0 +1,3 @@
+# 1061ZZCR Secretary may give notice correcting information in previous notice
+
+If, after a notice has been given to a person under this Division or under the corresponding provision of the Social Security Student Financial Supplement Scheme 1998 or of the Student Assistance Act 1973 as in force at a time before 1 July 1998 (including a notice previously given under this section or under a provision of that Scheme or Act corresponding to this section), the Secretary is satisfied that significant information in the notice was not, or is no longer, correct, the Secretary must arrange for a further written notice to be given to the person setting out the correct information.

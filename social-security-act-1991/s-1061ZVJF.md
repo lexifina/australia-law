@@ -1,0 +1,7 @@
+# 1061ZVJF When tax file numbers are cancelled
+
+(1) If the Commissioner cancels a tax file number issued to a person who has notified the tax file number to the Secretary for the purposes of paragraph 1061ZVBB(1)(c) or (2)(c), the Commissioner may give to the Secretary a written notice informing the Secretary accordingly.
+
+(2) The Commissioner must give a copy of any notice under subsection (1) to the person concerned, together with a written statement of the reasons for the decision to give the notice.
+
+Note: Decisions to give notice under subsection (1) are reviewable under section 202F of the Income Tax Assessment Act 1936.

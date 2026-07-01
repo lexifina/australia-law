@@ -1,0 +1,15 @@
+# 1061ZVHB Repayable SSL debt for an income year
+
+(1) A person’s repayable SSL debt for an income year is:
+
+(a) the person’s accumulated SSL debt referred to in paragraph 1061ZVHA(1)(b) in relation to that income year; or
+
+(b) if one or more amounts:
+
+(i) have been paid in reduction of that debt; or
+
+(ii) have been assessed under section 1061ZVHC to be payable in respect of that debt;
+
+the amount (if any) remaining after deducting from that debt any amounts referred to in subparagraph (i) or (ii).
+
+(2) A reference in paragraph (1)(b) of this section to an amount assessed to be payable is, if the amount has been increased or reduced by an amendment of the relevant assessment, a reference to the increased amount or the reduced amount.

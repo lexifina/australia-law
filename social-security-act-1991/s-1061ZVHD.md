@@ -1,0 +1,11 @@
+# 1061ZVHD Notification of notices of assessment of tax
+
+If:
+
+(a) the Commissioner is required to serve on a person a notice of assessment in respect of the person’s income of an income year under section 174 of the Income Tax Assessment Act 1936; and
+
+(b) the Commissioner has made, in respect of the person, an assessment under paragraph 1061ZVHC(b) of this Act of the amounts referred to in that paragraph; and
+
+(c) notice of the assessment under that paragraph has not been served on the person;
+
+notice of the assessment under that paragraph may be served by specifying the amounts concerned in the notice referred to in paragraph (a).

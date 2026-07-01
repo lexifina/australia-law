@@ -1,0 +1,3 @@
+# 1061ZVJJ Pay as you go (PAYG) withholding
+
+Part 2-5 (other than section 12-55 and Subdivisions 12-E, 12-F and 12-G) in Schedule 1 to the Taxation Administration Act 1953 applies, so far as it is capable of application, in relation to the collection of amounts of a compulsory SSL repayment amount of a person as if the compulsory SSL repayment amount were income tax.

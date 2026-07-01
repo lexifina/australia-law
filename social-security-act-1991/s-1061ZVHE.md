@@ -1,0 +1,33 @@
+# 1061ZVHE Commissioner may defer making assessments
+
+(1) A person may apply in the approved form to the Commissioner for deferral of the making of an assessment in respect of the person under section 1061ZVHC.
+
+(2) The application must specify:
+
+(a) the income year for which the deferral is being sought; and
+
+(b) the reasons for seeking the deferral.
+
+(3) The income year specified in the application must be:
+
+(a) the income year in which the person makes the application; or
+
+(b) the immediately preceding income year; or
+
+(c) the immediately succeeding income year.
+
+(4) The Commissioner may, on application by a person under this section, defer making an assessment in respect of the person under section 1061ZVHC if the Commissioner is of the opinion that:
+
+(a) if the assessment were made, payment of the assessed amount would cause serious hardship to the person; or
+
+(b) there are other special reasons that make it fair and reasonable to defer making the assessment.
+
+(5) The Commissioner may defer making the assessment for any period that he or she thinks appropriate.
+
+(6) The Commissioner must, as soon as practicable after an application is made under this section:
+
+(a) consider the matter to which the application relates; and
+
+(b) notify the applicant of the Commissioner’s decision on the application.
+
+Note: Deferrals of making assessments, or refusals of applications, are reviewable under Division 2A of Part 4 of the Administration Act.

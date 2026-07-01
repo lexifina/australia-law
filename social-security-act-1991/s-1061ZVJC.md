@@ -1,0 +1,15 @@
+# 1061ZVJC When person with tax file number incorrectly notifies number
+
+(1) If the Commissioner is satisfied:
+
+(a) that the tax file number that a person has notified to the Secretary for the purposes of paragraph 1061ZVBB(1)(c) or (2)(c):
+
+(i) has been cancelled or withdrawn since the notification was given; or
+
+(ii) is otherwise wrong; and
+
+(b) that the person has a tax file number;
+
+the Commissioner may give to the Secretary written notice of the incorrect notification and of the person’s tax file number.
+
+(2) That number is taken to be the number that the person notified to the Secretary.

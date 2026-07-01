@@ -1,0 +1,5 @@
+# 1061ZVDC Notice to Commissioner
+
+(1) If a person incurs an SSL debt, the Secretary must give the Commissioner a notice specifying the amount of the debt incurred by the person.
+
+(2) The Secretary may include in the notice any other details the Commissioner requests for the purpose of ensuring the Commissioner has the information needed to exercise powers or perform functions of the Commissioner under this Act.
