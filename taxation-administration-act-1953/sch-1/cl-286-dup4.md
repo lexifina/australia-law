@@ -8,7 +8,7 @@
 
 (2) The base penalty amount is:
 
-(a) for failing to give a return, notice or other document on time or in the *approved form, as mentioned in subsection 286-75(1), (2AA), (2AB), (2A), (2B), (2BA) or (2C)—1 penalty unit for each period of 28 days or part of a period of 28 days starting on the day when the document is due and ending when you give it (up to a maximum of 5 penalty units); or
+(a) for failing to give a return, notice or other document on time or in the *approved form, as mentioned in subsection 286-75(1), (2AAA), (2AA), (2AB), (2A), (2B), (2BA) or (2C)—1 penalty unit for each period of 28 days or part of a period of 28 days starting on the day when the document is due and ending when you give it (up to a maximum of 5 penalty units); or
 
 (c) for failing to notify the happening of an event as mentioned in subsection 286-75(4)—1 penalty unit for each period of 28 days or part of a period of 28 days starting on the day when the notification is due and ending when you notify the happening of the event (up to a maximum of 5 penalty units).
 

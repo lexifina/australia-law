@@ -2,7 +2,7 @@
 
 When notifications can be corrected
 
-(1) An entity that has made a statement (a withholding statement) under section 389-5 notifying an amount under item 1, 2 or 2A of the table in subsection 389-5(1) (and no other item in that table) may correct the statement:
+(1) An entity that has made a statement (a withholding statement) under section 389-5 notifying an amount under item 1 or 2 of the table in subsection 389-5(1) may correct the statement:
 
 (a) within the period determined by the Commissioner under subsection (2); or
 

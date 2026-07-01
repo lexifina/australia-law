@@ -58,7 +58,7 @@ Step 1. Reduce the actual or deemed payment by so much of it that is attributabl
 
 Step 2. Work out what it is reasonable to expect will be the amount mentioned in subsection (3).
 
-Do so on the basis that a *capital gain from *taxable Australian property of the trust that was or would be reduced under step 3 of the method statement in subsection 102-5(1) of the Income Tax Assessment Act 1997 were double the amount it actually is.
+Do so on the basis that a *capital gain from *taxable Australian property of the trust that was or would be reduced under step 5 of the method statement in subsection 102-5(1) of the Income Tax Assessment Act 1997 were double the amount it actually is.
 
 Step 3. The fund payment is so much of the step 2 amount as is reasonable having regard to:
 

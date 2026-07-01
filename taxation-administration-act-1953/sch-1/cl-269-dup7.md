@@ -16,7 +16,7 @@ Item | Column 1 If the company’s obligation is to pay to the Commissioner, on 
 
 2 | the amount of an estimate under Division 268 of a liability referred to in paragraph 268-10(1)(a) (PAYG withholding liabilities), | the last day of the 3 months after the day by which the company was obliged to pay the underlying liability to which the estimate relates, | to any extent.
 
-3 | superannuation guarantee charge for a *quarter, | the due day, | (a) if the company, on or before the last day mentioned in column 2, lodges under section 33 of the Superannuation Guarantee (Administration) Act 1992 a superannuation guarantee statement for the quarter—the extent (if any) to which the sum mentioned in paragraph 35(1)(e) of that Act is less than the amount of the superannuation guarantee charge the company is obliged to pay for the quarter; or (b) otherwise—to any extent.
+3 | superannuation guarantee charge for a *QE day, | the due day, | (a) if the company, on or before the due day, lodges under section 33 of the Superannuation Guarantee (Administration) Act 1992 a voluntary disclosure statement for the QE day—the extent (if any) that the amount of superannuation guarantee charge worked out using that statement is less than the amount of superannuation guarantee charge the company is obliged to pay for the QE day; or (b) otherwise—to any extent.
 
 4 | the amount of an estimate under Division 268 of a liability referred to in paragraph 268-10(1)(b) (superannuation guarantee charge), | the day by which the company was obliged to pay the underlying liability to which the estimate relates, | to any extent.
 
@@ -25,16 +25,6 @@ Item | Column 1 If the company’s obligation is to pay to the Commissioner, on 
 6 | the amount of an estimate under Division 268 of a liability referred to in paragraph 268-10(1)(c) (net amount under GST Act), | the last day of the 3 months after the day by which the company was obliged to give its *GST return, for the tax period for the relevant *net amount, to the Commissioner in accordance with Division 31 of the *GST Act, | to any extent.
 
 Note 1: An administrator or a small business restructuring practitioner of the company being appointed, or the company beginning to be wound up, after the last day mentioned in column 2 will, to the extent mentioned in column 3, have no effect on the penalty.
-
-Note 2: The sum mentioned in paragraph 35(1)(e) of the Superannuation Guarantee (Administration) Act 1992 is the sum of:
-
-(a) the total of the company’s individual superannuation guarantee shortfalls; and
-
-(b) the company’s nominal interest component; and
-
-(c) the company’s administration component;
-
-specified in the superannuation guarantee statement.
 
 Note 3: This subsection will not affect the operation of subsection (1) in respect of penalties that relate to GST instalments.
 

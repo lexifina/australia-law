@@ -14,7 +14,7 @@ Table of sections
 
 (b) you do not give the return, notice, statement or document to the Commissioner in the approved form by that day.
 
-Note: You may not be liable to a penalty in relation to a failure to notify an amount referred to in item 1, 2 or 2A of the table in subsection 389-5(1) during the period provided for by subitem 22(2) of Schedule 23 to the Budget Savings (Omnibus) Act 2016 (see also item 16 of Schedule 3 to the Treasury Laws Amendment (2018 Measures No. 4) Act 2019).
+Note: You may not be liable to a penalty in relation to a failure to notify an amount referred to in an item of the table in subsection 389-5(1) during the period provided for by subitem 22(2) of Schedule 23 to the Budget Savings (Omnibus) Act 2016 (see also item 16 of Schedule 3 to the Treasury Laws Amendment (2018 Measures No. 4) Act 2019).
 
 (1A) However, you are not liable to an administrative penalty under subsection (1) if:
 
@@ -39,6 +39,12 @@ Note: You may not be liable to a penalty in relation to a failure to notify an a
 (b) the Superannuation Guarantee (Administration) Act 1992; or
 
 (c) the Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991.
+
+(2AAA) You are also liable to an administrative penalty if:
+
+(a) you are required under subsection 115-235(1) of the Income Tax Assessment Act 1997 (giving information to beneficiaries) to prepare and give a statement to an entity (other than the Commissioner) by a particular day; and
+
+(b) you do not give the statement to the entity by that day.
 
 (2AA) You are also liable to an administrative penalty if:
 

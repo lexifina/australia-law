@@ -30,7 +30,7 @@ Step 2. Work out what it is reasonable to expect will be the *net income of the 
 
 (a) disregarding (except to the extent that they are amounts to which subsection (2A) or (2B) applies for the income year) excluded amounts, expected excluded amounts and deductions relating to those amounts; and
 
-(b) on the basis that a *capital gain from *taxable Australian property of the trust that was or would be reduced under step 3 of the method statement in subsection 102-5(1) of the Income Tax Assessment Act 1997 were double the amount it actually is.
+(b) on the basis that a *capital gain from *taxable Australian property of the trust that was or would be reduced under step 5 of the method statement in subsection 102-5(1) of the Income Tax Assessment Act 1997 were double the amount it actually is.
 
 Step 3. The fund payment is so much of the step 2 amount as is reasonable having regard to:
 

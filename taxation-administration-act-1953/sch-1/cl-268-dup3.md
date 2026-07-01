@@ -14,11 +14,11 @@ Estimate
 
 (a) under section 16-70 in this Schedule (requirement to pay to the Commissioner amounts you have withheld under the Pay as you go withholding rules); or
 
-(b) to pay superannuation guarantee charge for a *quarter under section 16 of the Superannuation Guarantee (Administration) Act 1992, to the extent the superannuation guarantee charge has not been assessed before the Commissioner makes the estimate; or
+(b) to pay superannuation guarantee charge for a *QE day under section 16A of the Superannuation Guarantee (Administration) Act 1992, to the extent the superannuation guarantee charge has not been assessed before the Commissioner makes the estimate; or
 
 (c) to pay a *net amount for a *tax period, to the extent that the net amount has not been assessed before the Commissioner makes the estimate.
 
-(1A) For the purposes of this Division, your superannuation guarantee charge for a *quarter is treated as being payable on the day by which you must lodge a superannuation guarantee statement for the quarter under section 33 of the Superannuation Guarantee (Administration) Act 1992, even if, on that day, the charge has not been assessed under that Act.
+(1A) For the purposes of this Division, your superannuation guarantee charge for a *QE day is treated as being payable on the first day after the end of the usual period (within the meaning of the Superannuation Guarantee (Administration) Act 1992) for the QE day, even if the charge has not yet been assessed under that Act.
 
 (1B) For the purposes of this Division, if you have a *net amount for a *tax period:
 
@@ -38,7 +38,7 @@ Amount of estimate
 
 Example 1: In the case of an underlying liability under section 16-70 (requirement to pay to the Commissioner amounts you have withheld under the Pay as you go withholding rules), the Commissioner may have regard to information about amounts you withheld under the Pay as you go rules before the period in relation to which the underlying liability arose.
 
-Example 2: In the case of an underlying liability to pay superannuation guarantee charge for a quarter, the Commissioner may have regard to information about your contributions to RSAs and complying superannuation funds for earlier quarters.
+Example 2: In the case of an underlying liability to pay superannuation guarantee charge for a QE day, the Commissioner may have regard to information about your contributions to RSAs and complying superannuation funds for earlier QE days.
 
 Only one estimate for each liability
 

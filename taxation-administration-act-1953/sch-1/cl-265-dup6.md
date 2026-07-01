@@ -4,7 +4,7 @@
 
 (a) an amount of superannuation guarantee charge that is payable by you under the Superannuation Guarantee (Administration) Act 1992; or
 
-(b) if an estimate under Division 268 in this Schedule of an amount of a liability of yours to pay superannuation guarantee charge for a quarter under section 16 of the Superannuation Guarantee (Administration) Act 1992 is in force as referred to in subsection 268-10(5)—the amount of the estimate.
+(b) if an estimate under Division 268 in this Schedule of an amount of a liability of yours to pay superannuation guarantee charge for a *QE day under section 16A of the Superannuation Guarantee (Administration) Act 1992 is in force as referred to in subsection 268-10(5)—the amount of the estimate.
 
 Note: The direction does not create a separate liability to pay the amount. However, it may result in you committing an offence against subsection 265-95(1) if the amount is not paid.
 
@@ -24,7 +24,7 @@ Note: The direction does not create a separate liability to pay the amount. Howe
 
 (a) set out the amount that you are required to pay to the Commissioner; and
 
-(b) if the amount referred to in paragraph (1)(a) or (b) relates to a *quarter—set out the quarter; and
+(b) if the amount referred to in paragraph (1)(a) or (b) relates to a *QE day—set out the QE day; and
 
 (c) specify the period before the end of which you must comply with the direction (which must end at least 21 days after the day the direction is given); and
 

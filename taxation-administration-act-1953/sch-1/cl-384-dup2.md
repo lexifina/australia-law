@@ -8,8 +8,6 @@ Item | The item applies to you if…
 
 1 | You fail to pay an amount of a tax-related liability set out in subsection (2).
 
-2 | You fail to comply with an obligation to give a statement or information to the Commissioner under the Superannuation Guarantee (Administration) Act 1992.
-
 3 | You fail to comply with an obligation to keep records under the Superannuation Guarantee (Administration) Act 1992.
 
 4 | You fail to comply with an obligation under this Act that relates to the Superannuation Guarantee (Administration) Act 1992.

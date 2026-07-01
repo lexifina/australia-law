@@ -168,9 +168,9 @@ Item | Topic | Provision | Act
 
 60 | superannuation guarantee charge | 46 | Superannuation Guarantee (Administration) Act 1992
 
-65 | additional superannuation guarantee charge | 47 | Superannuation Guarantee (Administration) Act 1992
+60 | superannuation guarantee charge | 36 | Superannuation Guarantee (Administration) Act 1992
 
-67 | Superannuation (Self Managed Funds) Levy | 15DB | Superannuation (Self Managed Superannuation Funds) Taxation Act 1987
+65 | late or non-payment of superannuation guarantee charge | 59D | Superannuation Guarantee (Administration) Act 1992
 
 67A | payment of unclaimed money to the Commissioner | 17 | Superannuation (Unclaimed Money and Lost Members) Act 1999
 
