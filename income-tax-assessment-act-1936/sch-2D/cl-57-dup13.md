@@ -61,5 +61,3 @@ Meaning of required award etc. contribution amount
 Meaning of required superannuation guarantee contribution amount
 
 (8) A required superannuation guarantee contribution amount is an amount that an employer would need to contribute in respect of a period so as not to have a superannuation guarantee shortfall under the Superannuation Guarantee (Administration) Act 1992 in respect of that period.
-
-Note: The relevant periods for which shortfalls are or were calculated under that Act are quarters (from 1 July 1993 onwards) or half-years (from 1 July 1992 to 30 June 1993).
