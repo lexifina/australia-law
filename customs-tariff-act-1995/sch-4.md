@@ -1296,7 +1296,7 @@ Notes.
 
 0712 | DRIED VEGETABLES, WHOLE, CUT, SLICED, BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED:
 
-0712.20.00 | -Onions | 5% DCS:4% DCT:5%
+0712.20.00 | -Onions | Free
 
 0712.3 | -Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles:
 
@@ -1304,7 +1304,7 @@ Notes.
 
 0712.32.00 | --Wood ears (Auricularia spp.) | Free
 
-0712.33.00 | --Jelly fungi (Tremella spp.) | 5% DCS:4% DCT:5%
+0712.33.00 | --Jelly fungi (Tremella spp.) | Free
 
 0712.34.00 | --Shiitake (Lentinus edodes) | Free
 
@@ -1312,7 +1312,7 @@ Notes.
 
 0712.90 | -Other vegetables; mixtures of vegetables:
 
-0712.90.10 | ---Potatoes | 5%
+0712.90.10 | ---Potatoes | Free
 
 0712.90.90 | ---Other | 5% DCS:4% DCT:5%
 
@@ -1426,7 +1426,7 @@ provided that they retain the character of dried fruit or dried nuts.
 
 0802.1 | -Almonds:
 
-0802.11.00 | --In shell | 5% DCS:4% DCT:5%
+0802.11.00 | --In shell | Free
 
 0802.12.00 | --Shelled | 5% DCS:4% DCT:5%
 
@@ -1510,7 +1510,7 @@ provided that they retain the character of dried fruit or dried nuts.
 
 0806 | GRAPES, FRESH OR DRIED:
 
-0806.10.00 | -Fresh | 5%
+0806.10.00 | -Fresh | Free
 
 0806.20.00 | -Dried | 5%
 
@@ -1582,9 +1582,9 @@ provided that they retain the character of dried fruit or dried nuts.
 
 0813.10.00 | -Apricots | 5%
 
-0813.20.00 | -Prunes | 5%
+0813.20.00 | -Prunes | Free
 
-0813.30.00 | -Apples | 5%
+0813.30.00 | -Apples | Free
 
 0813.40.00 | -Other fruit | 5%
 
@@ -1910,7 +1910,7 @@ Buckwheat | 45% | 4% | 80% | —
 
 1105 | FLOUR, MEAL, POWDER, FLAKES, GRANULES AND PELLETS OF POTATOES:
 
-1105.10.00 | -Flour, meal and powder | 5%
+1105.10.00 | -Flour, meal and powder | Free
 
 1105.20.00 | -Flakes, granules and pellets | 5%
 
@@ -2120,7 +2120,7 @@ Subheading Note.
 
 1212.21 | --Fit for human consumption:
 
-1212.21.10 | ---Frozen | 5% DCS:Free CA:Free
+1212.21.10 | ---Frozen | Free
 
 1212.21.90 | ---Other | Free
 
@@ -2192,7 +2192,7 @@ The heading does not apply to:
 
 1302.12.00 | --Of liquorice | Free
 
-1302.13.00 | --Of hops | 5%
+1302.13.00 | --Of hops | Free
 
 1302.14.00 | --Of ephedra | Free
 
@@ -2304,7 +2304,7 @@ Additional Note.
 
 1507.10.00 | -Crude oil, whether or not degummed | 5% DCS:4% DCT:5%
 
-1507.90.00 | -Other | 5% DCS:4% DCT:5%
+1507.90.00 | -Other | Free
 
 1508 | GROUND-NUT OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED:
 
@@ -2388,7 +2388,7 @@ Additional Note.
 
 1515.21.00 | --Crude oil | Free
 
-1515.29.00 | --Other | 5% DCS:4% DCT:5%
+1515.29.00 | --Other | Free
 
 1515.30.00 | -Castor oil and its fractions | Free
 
@@ -2408,7 +2408,7 @@ Additional Note.
 
 1517 | MARGARINE; EDIBLE MIXTURES OR PREPARATIONS OF ANIMAL, VEGETABLE OR MICROBIAL FATS OR OILS OR OF FRACTIONS OF DIFFERENT FATS OR OILS OF THIS CHAPTER, OTHER THAN EDIBLE FATS AND OILS OR THEIR FRACTIONS OF 1516:
 
-1517.10.00 | -Margarine, excluding liquid margarine | 5% DCS:4% DCT:5%
+1517.10.00 | -Margarine, excluding liquid margarine | Free
 
 1517.90.00 | -Other | 5% DCS:4% DCT:5%
 
@@ -2602,7 +2602,7 @@ Subheading Notes.
 
 1702.30.00 | -Glucose and glucose syrup, not containing fructose or containing in the dry state less than 20% by weight of fructose | 4%
 
-1702.40.00 | -Glucose and glucose syrup, containing in the dry state at least 20% but less than 50% by weight of fructose, excluding invert sugar | 4% DCS:Free
+1702.40.00 | -Glucose and glucose syrup, containing in the dry state at least 20% but less than 50% by weight of fructose, excluding invert sugar | Free
 
 1702.50.00 | -Chemically pure fructose | Free
 
@@ -2808,7 +2808,7 @@ Additional Notes.
 
 2003 | MUSHROOMS AND TRUFFLES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID:
 
-2003.10.00 | -Mushrooms of the genus Agaricus | 5%
+2003.10.00 | -Mushrooms of the genus Agaricus | Free
 
 2003.90 | -Other:
 
@@ -2844,7 +2844,7 @@ Additional Notes.
 
 2005.9 | -Other vegetables and mixtures of vegetables:
 
-2005.91.00 | --Bamboo shoots | 5% CA:2%
+2005.91.00 | --Bamboo shoots | Free
 
 2005.99.00 | --Other | 5% CA:2%
 
@@ -2858,7 +2858,7 @@ Additional Notes.
 
 2006.00.31 | ----Frozen | Free
 
-2006.00.39 | ----Other | 5% CA:2%
+2006.00.39 | ----Other | Free
 
 2006.00.90 | ---Other | 5%
 
@@ -2876,7 +2876,7 @@ Additional Notes.
 
 2008.1 | -Nuts, ground-nuts and other seeds, whether or not mixed together:
 
-2008.11.00 | --Ground-nuts | 5% DCS:Free
+2008.11.00 | --Ground-nuts | Free
 
 2008.19.00 | --Other, including mixtures | 5%
 
@@ -2898,7 +2898,7 @@ Additional Notes.
 
 2008.91.00 | --Palm hearts | Free
 
-2008.93.00 | --Cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); lingonberries (Vaccinium vitis-idaea) | 5% DCS:Free CA:Free
+2008.93.00 | --Cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos); lingonberries (Vaccinium vitis-idaea) | Free
 
 2008.97.00 | --Mixtures | Free
 
@@ -2926,7 +2926,7 @@ Additional Notes.
 
 2009.31.10 | ---Lime juice, unsweetened | Free
 
-2009.31.20 | ---Mandarin (including tangerine and satsuma) juice or the juice of clementines, wilkings and similar citrus hybrids | 5%
+2009.31.20 | ---Mandarin (including tangerine and satsuma) juice or the juice of clementines, wilkings and similar citrus hybrids | Free
 
 2009.31.90 | ---Other | 5%, or, if lower, $0.45/kg TSS
 
@@ -2940,11 +2940,11 @@ Additional Notes.
 
 2009.4 | -Pineapple juice:
 
-2009.41.00 | --Of a Brix value not exceeding 20 | 5%
+2009.41.00 | --Of a Brix value not exceeding 20 | Free
 
-2009.49.00 | --Other | 5%
+2009.49.00 | --Other | Free
 
-2009.50.00 | -Tomato juice | 5%
+2009.50.00 | -Tomato juice | Free
 
 2009.6 | -Grape juice (including grape must):
 
@@ -2956,7 +2956,7 @@ Additional Notes.
 
 2009.71.00 | --Of a Brix value not exceeding 20 | 5%
 
-2009.79.00 | --Other | 5%
+2009.79.00 | --Other | Free
 
 2009.8 | -Juice of any other single fruit, nut or vegetable:
 
@@ -3034,7 +3034,7 @@ Additional Notes.
 
 2104.10.00 | -Soups and broths and preparations therefor | 4% DCS:Free
 
-2104.20.00 | -Homogenised composite food preparations | 4% DCS:Free CA:Free
+2104.20.00 | -Homogenised composite food preparations | Free
 
 2105.00.00 | ICE CREAM AND OTHER EDIBLE ICE, WHETHER OR NOT CONTAINING COCOA | 4% DCS:Free
 
@@ -3052,7 +3052,7 @@ Additional Notes.
 
 2106.90.15 | ----Formulated supplementary food, as defined in Additional Note 2 to this Chapter | Free
 
-2106.90.16 | ----Formulated supplementary sports food, as defined in Additional Note 3 to this Chapter | 5% DCS:4% DCT:5%
+2106.90.16 | ----Formulated supplementary sports food, as defined in Additional Note 3 to this Chapter | Free
 
 2106.90.19 | ----Other | 5% DCS:4% DCT:5%
 
@@ -3784,7 +3784,7 @@ The products of this Chapter may contain an added anti-dusting agent, provided t
 
 2516.20.10 | ---Crude or roughly trimmed | Free
 
-2516.20.20 | ---Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape | 5% DCS:4% DCT:5%
+2516.20.20 | ---Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape | Free
 
 2516.90.00 | -Other monumental or building stone | Free
 
@@ -3840,9 +3840,9 @@ The products of this Chapter may contain an added anti-dusting agent, provided t
 
 2523.29.00 | --Other | Free
 
-2523.30.00 | -Aluminous cement | 5% DCS:4% DCT:5%
+2523.30.00 | -Aluminous cement | Free
 
-2523.90.00 | -Other hydraulic cements | 5% DCS:4% DCT:5%
+2523.90.00 | -Other hydraulic cements | Free
 
 2524 | ASBESTOS:
 
@@ -3862,7 +3862,7 @@ The products of this Chapter may contain an added anti-dusting agent, provided t
 
 2526.10.00 | -Not crushed, not powdered | Free
 
-2526.20.00 | -Crushed or powdered | 5% DCS:4% DCT:5%
+2526.20.00 | -Crushed or powdered | Free
 
 2528.00.00 | NATURAL BORATES AND CONCENTRATES THEREOF (WHETHER OR NOT CALCINED), BUT NOT INCLUDING BORATES SEPARATED FROM NATURAL BRINE; NATURAL BORIC ACID CONTAINING NOT MORE THAN 85% OF H3BO3 CALCULATED ON THE DRY WEIGHT | Free
 
@@ -4346,7 +4346,7 @@ Additional Notes.
 
 2714.90.00 | -Other | Free
 
-2715.00.00 | BITUMINOUS MIXTURES BASED ON NATURAL ASPHALT, ON NATURAL BITUMEN, ON PETROLEUM BITUMEN, ON MINERAL TAR OR ON MINERAL TAR PITCH (FOR EXAMPLE, BITUMINOUS MASTICS, CUT-BACKS) | 5% DCS:4% CA:Free DCT:5%
+2715.00.00 | BITUMINOUS MIXTURES BASED ON NATURAL ASPHALT, ON NATURAL BITUMEN, ON PETROLEUM BITUMEN, ON MINERAL TAR OR ON MINERAL TAR PITCH (FOR EXAMPLE, BITUMINOUS MASTICS, CUT-BACKS) | Free
 
 ## Section VI—Products of the chemical or allied industries
 
@@ -4568,7 +4568,7 @@ Additional Note.
 
 2809.20.10 | ---Phosphoric acid, containing by weight: (a) 0.45%, or more, in a combined amount, of iron, aluminium and magnesium; and (b) 0.5%, or more, of sulphuric acid, based on an acid containing by weight, 75% orthophosphoric acid | Free
 
-2809.20.90 | ---Other | 5%
+2809.20.90 | ---Other | Free
 
 2810.00.00 | OXIDES OF BORON; BORIC ACIDS | Free
 
@@ -4654,7 +4654,7 @@ Additional Note.
 
 2818.10.10 | ---Chemically defined | Free
 
-2818.10.90 | ---Other | 5%
+2818.10.90 | ---Other | Free
 
 2818.20.00 | -Aluminium oxide, other than artificial corundum | Free
 
@@ -4792,25 +4792,25 @@ Additional Note.
 
 2833.1 | -Sodium sulphates:
 
-2833.11.00 | --Disodium sulphate | 5%
+2833.11.00 | --Disodium sulphate | Free
 
 2833.19.00 | --Other | Free
 
 2833.2 | -Other sulphates:
 
-2833.21.00 | --Of magnesium | 5%
+2833.21.00 | --Of magnesium | Free
 
-2833.22.00 | --Of aluminium | 5%
+2833.22.00 | --Of aluminium | Free
 
 2833.24.00 | --Of nickel | Free
 
-2833.25.00 | --Of copper | 5%
+2833.25.00 | --Of copper | Free
 
 2833.27.00 | --Of barium | Free
 
 2833.29 | --Other:
 
-2833.29.10 | ---Of zinc | 5%
+2833.29.10 | ---Of zinc | Free
 
 2833.29.90 | ---Other | Free
 
@@ -4834,7 +4834,7 @@ Additional Note.
 
 2835.2 | -Phosphates:
 
-2835.22.00 | --Of mono- or disodium | 5%
+2835.22.00 | --Of mono- or disodium | Free
 
 2835.24.00 | --Of potassium | Free
 
@@ -4846,7 +4846,7 @@ Additional Note.
 
 2835.3 | -Polyphosphates:
 
-2835.31.00 | --Sodium triphosphate (sodium tripolyphosphate) | 5%
+2835.31.00 | --Sodium triphosphate (sodium tripolyphosphate) | Free
 
 2835.39 | --Other:
 
@@ -4856,7 +4856,7 @@ Additional Note.
 
 2836 | CARBONATES; PEROXOCARBONATES (PERCARBONATES); COMMERCIAL AMMONIUM CARBONATE CONTAINING AMMONIUM CARBAMATE:
 
-2836.20.00 | -Disodium carbonate | 5% DCS:2.5%
+2836.20.00 | -Disodium carbonate | Free
 
 2836.30.00 | -Sodium hydrogencarbonate (sodium bicarbonate) | Free
 
@@ -4928,7 +4928,7 @@ Additional Note.
 
 2841.90 | -Other:
 
-2841.90.10 | ---Aluminates | 5%
+2841.90.10 | ---Aluminates | Free
 
 2841.90.90 | ---Other | Free
 
@@ -4936,7 +4936,7 @@ Additional Note.
 
 2842.10 | -Double or complex silicates, including aluminosilicates whether or not chemically defined:
 
-2842.10.10 | ---Aluminosilicates, not chemically defined | 5%
+2842.10.10 | ---Aluminosilicates, not chemically defined | Free
 
 2842.10.90 | ---Other | Free
 
@@ -5164,7 +5164,7 @@ Additional Note.
 
 2902.44.00 | --Mixed xylene isomers | $0.38143/L NZ/PG/FI/ DC/LDC: $0.38143/L
 
-2902.50.00 | -Styrene | 5%
+2902.50.00 | -Styrene | Free
 
 2902.60.00 | -Ethylbenzene | Free
 
@@ -5234,7 +5234,7 @@ Additional Note.
 
 2903.7 | -Halogenated derivatives of acyclic hydrocarbons containing two or more different halogens:
 
-2903.71.00 | --Chlorodifluoromethane (HCFC-22) | 5%
+2903.71.00 | --Chlorodifluoromethane (HCFC-22) | Free
 
 2903.72.00 | --Dichlorotrifluoroethanes (HCFC-123) | 5%
 
@@ -5252,7 +5252,7 @@ Additional Note.
 
 2903.79 | --Other:
 
-2903.79.10 | ---Other chlorofluorinated derivatives | 5%
+2903.79.10 | ---Other chlorofluorinated derivatives | Free
 
 2903.79.90 | ---Other | Free
 
@@ -5268,7 +5268,7 @@ Additional Note.
 
 2903.9 | -Halogenated derivatives of aromatic hydrocarbons:
 
-2903.91.00 | --Chlorobenzene, o-dichlorobenzene and p-dichlorobenzene | 5% CA:Free
+2903.91.00 | --Chlorobenzene, o-dichlorobenzene and p-dichlorobenzene | Free
 
 2903.92.00 | --Hexachlorobenzene (ISO) and DDT (ISO) (clofenotane (INN), 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane) | Free
 
@@ -5314,11 +5314,11 @@ Additional Note.
 
 2905.12.00 | --Propan-1-ol (propyl alcohol) and propan-2-ol (isopropyl alcohol) | Free
 
-2905.13.00 | --Butan-1-ol (n-butyl alcohol) | 5%
+2905.13.00 | --Butan-1-ol (n-butyl alcohol) | Free
 
 2905.14.00 | --Other butanols | Free
 
-2905.16.00 | --Octanol (octyl alcohol) and isomers thereof | 5%
+2905.16.00 | --Octanol (octyl alcohol) and isomers thereof | Free
 
 2905.17.00 | --Dodecan-1-ol (lauryl alcohol), hexadecan-1-ol (cetyl alcohol) and octadecan-1-ol (stearyl alcohol) | Free
 
@@ -5338,7 +5338,7 @@ Additional Note.
 
 2905.31.00 | --Ethylene glycol (ethanediol) | 5%
 
-2905.32.00 | --Propylene glycol (propane-1,2-diol) | 5%
+2905.32.00 | --Propylene glycol (propane-1,2-diol) | Free
 
 2905.39.00 | --Other | Free
 
@@ -5352,7 +5352,7 @@ Additional Note.
 
 2905.44.00 | --D-glucitol (sorbitol) | 5%
 
-2905.45.00 | --Glycerol | 5% DCS:4% DCT:5%
+2905.45.00 | --Glycerol | Free
 
 2905.49.00 | --Other | Free
 
@@ -5438,11 +5438,11 @@ Additional Note.
 
 2909.4 | -Ether-alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives:
 
-2909.41.00 | --2,2’-Oxydiethanol (diethylene glycol, digol) | 5%
+2909.41.00 | --2,2’-Oxydiethanol (diethylene glycol, digol) | Free
 
 2909.43.00 | --Monobutyl ethers of ethylene glycol or of diethylene glycol | 5%
 
-2909.44.00 | --Other monoalkylethers of ethylene glycol or of diethylene glycol | 5%
+2909.44.00 | --Other monoalkylethers of ethylene glycol or of diethylene glycol | Free
 
 2909.49.00 | --Other | 5%
 
@@ -5512,7 +5512,7 @@ Additional Note.
 
 2914.1 | -Acyclic ketones without other oxygen function:
 
-2914.11.00 | --Acetone | 5%
+2914.11.00 | --Acetone | Free
 
 2914.12.00 | --Butanone (methyl ethyl ketone) | Free
 
@@ -5570,19 +5570,19 @@ Additional Note.
 
 2915.2 | -Acetic acid and its salts; acetic anhydride:
 
-2915.21.00 | --Acetic acid | 5% CA:Free
+2915.21.00 | --Acetic acid | Free
 
 2915.24.00 | --Acetic anhydride | 5% CA:Free
 
-2915.29.00 | --Other | 5% CA:Free
+2915.29.00 | --Other | Free
 
 2915.3 | -Esters of acetic acid:
 
-2915.31.00 | --Ethyl acetate | 5% CA:Free
+2915.31.00 | --Ethyl acetate | Free
 
 2915.32.00 | --Vinyl acetate | 5% CA:Free
 
-2915.33.00 | --n-Butyl acetate | 5% CA:Free
+2915.33.00 | --n-Butyl acetate | Free
 
 2915.36.00 | --Dinoseb (ISO) acetate | 5% CA:Free
 
@@ -5590,7 +5590,7 @@ Additional Note.
 
 2915.39.10 | ---Glycerol triacetate | Free
 
-2915.39.20 | ---2-Ethoxyethyl acetate | 5%
+2915.39.20 | ---2-Ethoxyethyl acetate | Free
 
 2915.39.90 | ---Other | 5% CA:Free
 
@@ -5600,7 +5600,7 @@ Additional Note.
 
 2915.60.00 | -Butyric acids, valeric acids, their salts and esters | Free
 
-2915.70.00 | -Palmitic acid, stearic acid, their salts and esters | 5%
+2915.70.00 | -Palmitic acid, stearic acid, their salts and esters | Free
 
 2915.90.00 | -Other | 5%
 
@@ -5616,7 +5616,7 @@ Additional Note.
 
 2916.14.00 | --Esters of methacrylic acid | Free
 
-2916.15.00 | --Oleic, linoleic or linolenic acids, their salts and esters | 5%
+2916.15.00 | --Oleic, linoleic or linolenic acids, their salts and esters | Free
 
 2916.16.00 | --Binapacryl (ISO) | Free
 
@@ -5656,9 +5656,9 @@ Additional Note.
 
 2917.3 | -Aromatic polycarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and their derivatives:
 
-2917.32.00 | --Dioctyl orthophthalates | 5%
+2917.32.00 | --Dioctyl orthophthalates | Free
 
-2917.33.00 | --Dinonyl or didecyl orthophthalates | 5%
+2917.33.00 | --Dinonyl or didecyl orthophthalates | Free
 
 2917.34.00 | --Other esters of orthophthalic acid | Free
 
@@ -5668,7 +5668,7 @@ Additional Note.
 
 2917.37.00 | --Dimethyl terephthalate | Free
 
-2917.39.00 | --Other | 5%
+2917.39.00 | --Other | Free
 
 2918 | CARBOXYLIC ACIDS WITH ADDITIONAL OXYGEN FUNCTION AND THEIR ANHYDRIDES, HALIDES, PEROXIDES AND PEROXYACIDS; THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES:
 
@@ -5748,15 +5748,15 @@ Additional Note.
 
 2921.1 | -Acyclic monoamines and their derivatives; salts thereof:
 
-2921.11.00 | --Methylamine, di- or trimethylamine and their salts | 5% CA:Free
+2921.11.00 | --Methylamine, di- or trimethylamine and their salts | Free
 
-2921.12.00 | --2-(N,N-Dimethylamino)ethylchloride hydrochloride | 5% CA:Free
+2921.12.00 | --2-(N,N-Dimethylamino)ethylchloride hydrochloride | Free
 
 2921.13.00 | --2-(N,N-Diethylamino)ethylchloride hydrochloride | 5% CA:Free
 
 2921.14.00 | --2-(N,N-Diisopropylamino)ethylchloride hydrochloride | 5% CA:Free
 
-2921.19.00 | --Other | 5% CA:Free
+2921.19.00 | --Other | Free
 
 2921.2 | -Acyclic polyamines and their derivatives; salts thereof:
 
@@ -5804,7 +5804,7 @@ Additional Note.
 
 2922.14.00 | --Dextropropoxyphene (INN) and its salts | Free
 
-2922.15.00 | --Triethanolamine | 5% CA:Free
+2922.15.00 | --Triethanolamine | Free
 
 2922.16.00 | --Diethanolammonium perfluorooctane sulphonate | Free
 
@@ -5962,7 +5962,7 @@ Additional Note.
 
 2931.49 | --Other:
 
-2931.49.10 | ---Glycine derivatives containing phosphono groups | 5%
+2931.49.10 | ---Glycine derivatives containing phosphono groups | Free
 
 2931.49.90 | ---Other | Free
 
@@ -5984,7 +5984,7 @@ Additional Note.
 
 2931.90 | -Other:
 
-2931.90.10 | ---Glycine derivatives containing phosphono groups | 5%
+2931.90.10 | ---Glycine derivatives containing phosphono groups | Free
 
 2931.90.90 | ---Other | Free
 
@@ -6728,7 +6728,7 @@ Notes.
 
 3204.90.00 | -Other | 5%
 
-3205.00.00 | COLOUR LAKES; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON COLOUR LAKES | 5% CA:Free
+3205.00.00 | COLOUR LAKES; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER BASED ON COLOUR LAKES | Free
 
 3206 | OTHER COLOURING MATTER; PREPARATIONS AS SPECIFIED IN NOTE 3 TO THIS CHAPTER, OTHER THAN THOSE OF 3203.00.00, 3204 OR 3205.00.00; INORGANIC PRODUCTS OF A KIND USED AS LUMINOPHORES, WHETHER OR NOT CHEMICALLY DEFINED:
 
@@ -6756,7 +6756,7 @@ Notes.
 
 3207 | PREPARED PIGMENTS, PREPARED OPACIFIERS AND PREPARED COLOURS, VITRIFIABLE ENAMELS AND GLAZES, ENGOBES (SLIPS), LIQUID LUSTRES AND SIMILAR PREPARATIONS, OF A KIND USED IN THE CERAMIC, ENAMELLING OR GLASS INDUSTRY; GLASS FRIT AND OTHER GLASS, IN THE FORM OF POWDER, GRANULES OR FLAKES:
 
-3207.10.00 | -Prepared pigments, prepared opacifiers, prepared colours and similar preparations | 5%
+3207.10.00 | -Prepared pigments, prepared opacifiers, prepared colours and similar preparations | Free
 
 3207.20.00 | -Vitrifiable enamels and glazes, engobes (slips) and similar preparations | 5%
 
@@ -6976,7 +6976,7 @@ The heading does not apply to:
 
 3402.3 | -Anionic organic surface-active agents, whether or not put up for retail sale:
 
-3402.31.00 | --Linear alkylbenzene sulphonic acids and their salts | 5%
+3402.31.00 | --Linear alkylbenzene sulphonic acids and their salts | Free
 
 3402.39.00 | --Other | 5%
 
@@ -7134,15 +7134,15 @@ Notes.
 
 3601.00.00 | PROPELLENT POWDERS | 5%
 
-3602.00.00 | PREPARED EXPLOSIVES, OTHER THAN PROPELLENT POWDERS | 5%
+3602.00.00 | PREPARED EXPLOSIVES, OTHER THAN PROPELLENT POWDERS | Free
 
 3603 | SAFETY FUSES; DETONATING CORDS; PERCUSSION OR DETONATING CAPS; IGNITERS; ELECTRIC DETONATORS:
 
 3603.10.00 | -Safety fuses | 5%
 
-3603.20.00 | -Detonating cords | 5%
+3603.20.00 | -Detonating cords | Free
 
-3603.30.00 | -Percussion caps | 5%
+3603.30.00 | -Percussion caps | Free
 
 3603.40.00 | -Detonating caps | 5%
 
@@ -7154,7 +7154,7 @@ Notes.
 
 3604.10.00 | -Fireworks | Free
 
-3604.90.00 | -Other | 5% CA:Free
+3604.90.00 | -Other | Free
 
 3605.00.00 | MATCHES, OTHER THAN PYROTECHNIC ARTICLES OF 3604 | Free
 
@@ -7196,13 +7196,13 @@ Notes.
 
 3702.31.10 | ---Instant print film | Free
 
-3702.31.90 | ---Other | 5%
+3702.31.90 | ---Other | Free
 
 3702.32 | --Other, with silver halide emulsion:
 
 3702.32.10 | ---Instant print film | Free
 
-3702.32.90 | ---Other | 5%
+3702.32.90 | ---Other | Free
 
 3702.39 | --Other:
 
@@ -7222,7 +7222,7 @@ Notes.
 
 3702.42.10 | ---Instant print film | Free
 
-3702.42.90 | ---Other | 5%
+3702.42.90 | ---Other | Free
 
 3702.43 | --Of a width exceeding 610 mm and of a length not exceeding 200 m:
 
@@ -7234,7 +7234,7 @@ Notes.
 
 3702.44.10 | ---Instant print film | Free
 
-3702.44.90 | ---Other | 5%
+3702.44.90 | ---Other | Free
 
 3702.5 | -Other film, for colour photography (polychrome):
 
@@ -7422,7 +7422,7 @@ Additional Note.
 
 3806.20.00 | -Salts of rosin, of resin acids or of derivatives of rosin or resin acids, other than salts of rosin adducts | Free
 
-3806.30.00 | -Ester gums | 5%
+3806.30.00 | -Ester gums | Free
 
 3806.90.00 | -Other | Free
 
@@ -7436,13 +7436,13 @@ Additional Note.
 
 3808.52.10 | ---Goods, as follows: (a) fly-papers; (b) mosquito spirals and coils | Free
 
-3808.52.90 | ---Other | 5%
+3808.52.90 | ---Other | Free
 
 3808.59 | --Other:
 
 3808.59.10 | ---Goods, as follows: (a) fly-papers; (b) mosquito spirals and coils | Free
 
-3808.59.90 | ---Other | 5%
+3808.59.90 | ---Other | Free
 
 3808.6 | -Goods specified in Subheading Note 2 to this Chapter:
 
@@ -7450,7 +7450,7 @@ Additional Note.
 
 3808.61.10 | ---Goods, as follows: (a) fly-papers; (b) mosquito spirals and coils | Free
 
-3808.61.90 | ---Other | 5%
+3808.61.90 | ---Other | Free
 
 3808.62 | --In packings of a net weight content exceeding 300 g but not exceeding 7.5 kg:
 
@@ -7538,7 +7538,7 @@ Additional Note.
 
 3815.1 | -Supported catalysts:
 
-3815.11.00 | --With nickel or nickel compounds as the active substance | 5%
+3815.11.00 | --With nickel or nickel compounds as the active substance | Free
 
 3815.12.00 | --With precious metal or precious metal compounds as the active substance | 5%
 
@@ -7606,7 +7606,7 @@ Additional Note.
 
 3822.19.30 | ---Goods that are: (a) on a backing of plastics other than cellulose, in the forms described in Note 10 to Chapter 39; or (b) on a backing of paper or paperboard of specifications not mentioned in Additional Note 1 to this Chapter | 5%
 
-3822.19.40 | ---Goods that are: (a) on a backing of plastics, NSA; or (b) of specifications mentioned in Additional Note 1 to this Chapter, NSA | 5% CA: Free
+3822.19.40 | ---Goods that are: (a) on a backing of plastics, NSA; or (b) of specifications mentioned in Additional Note 1 to this Chapter, NSA | Free
 
 3822.19.90 | ---Other | Free
 
@@ -7616,13 +7616,13 @@ Additional Note.
 
 3823.1 | -Industrial monocarboxylic fatty acids; acid oils from refining:
 
-3823.11.00 | --Stearic acid | 5% DCS:4% DCT:5%
+3823.11.00 | --Stearic acid | Free
 
-3823.12.00 | --Oleic acid | 5% DCS:4% DCT:5%
+3823.12.00 | --Oleic acid | Free
 
 3823.13.00 | --Tall oil fatty acids | 5% DCS:4% DCT:5%
 
-3823.19.00 | --Other | 5% DCS:4% DCT:5%
+3823.19.00 | --Other | Free
 
 3823.70.00 | -Industrial fatty alcohols | Free
 
@@ -7642,7 +7642,7 @@ Additional Note.
 
 3824.81.00 | --Containing oxirane (ethylene oxide) | 5%
 
-3824.82.00 | --Containing polychlorinated biphenyls (PCBs), polychlorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs) | 5%
+3824.82.00 | --Containing polychlorinated biphenyls (PCBs), polychlorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs) | Free
 
 3824.83.00 | --Containing tris(2,3-dibromopropyl) phosphate | 5%
 
@@ -7656,13 +7656,13 @@ Additional Note.
 
 3824.88.00 | --Containing tetra-, penta-, hexa-, hepta- or octabromodiphenyl ethers | 5%
 
-3824.89.00 | --Containing short-chain chlorinated paraffins | 5%
+3824.89.00 | --Containing short-chain chlorinated paraffins | Free
 
 3824.9 | -Other:
 
-3824.91.00 | --Mixtures and preparations consisting mainly of (5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl methyl methylphosphonate and bis[(5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl] methylphosphonate | 5%
+3824.91.00 | --Mixtures and preparations consisting mainly of (5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl methyl methylphosphonate and bis[(5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl] methylphosphonate | Free
 
-3824.92.00 | --Polyglycol esters of methylphosphonic acid | 5%
+3824.92.00 | --Polyglycol esters of methylphosphonic acid | Free
 
 3824.99 | --Other:
 
@@ -7766,7 +7766,7 @@ Additional Note.
 
 3827.40.10 | ---Containing perhalogenated derivatives containing two or more different halogens | Free
 
-3827.40.90 | ---Other | 5%
+3827.40.90 | ---Other | Free
 
 3827.5 | -Containing trifluoromethane (HFC-23) or perfluorocarbons (PFCs) but not containing chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs):
 
@@ -7788,13 +7788,13 @@ Additional Note.
 
 3827.61.10 | ---Containing perhalogenated derivatives containing two or more different halogens | Free
 
-3827.61.90 | ---Other | 5%
+3827.61.90 | ---Other | Free
 
 3827.62 | --Other, not included in the subheading above, containing 55% or more by mass of pentafluoroethane (HFC-125) but not containing unsaturated fluorinated derivatives of acyclic hydrocarbons (HFOs):
 
 3827.62.10 | ---Containing perhalogenated derivatives containing two or more different halogens | Free
 
-3827.62.90 | ---Other | 5%
+3827.62.90 | ---Other | Free
 
 3827.63 | --Other, not included in the subheadings above, containing 40% or more by mass of pentafluoroethane (HFC-125):
 
@@ -7806,7 +7806,7 @@ Additional Note.
 
 3827.64.10 | ---Containing perhalogenated derivatives containing two or more different halogens | Free
 
-3827.64.90 | ---Other | 5%
+3827.64.90 | ---Other | Free
 
 3827.65 | --Other, not included in the subheadings above, containing 20% or more by mass of difluoromethane (HFC-32) and 20% or more by mass of pentafluoroethane (HFC-125):
 
@@ -7824,13 +7824,13 @@ Additional Note.
 
 3827.69.10 | ---Containing perhalogenated derivatives containing two or more different halogens | Free
 
-3827.69.90 | ---Other | 5%
+3827.69.90 | ---Other | Free
 
 3827.90 | -Other:
 
 3827.90.10 | ---Containing perhalogenated derivatives containing two or more different halogens | Free
 
-3827.90.90 | ---Other | 5%
+3827.90.90 | ---Other | Free
 
 ## Section VII—Plastics and articles thereof; rubber and articles thereof
 
@@ -8002,7 +8002,7 @@ Additional Notes.
 
 3901.20.00 | -Polyethylene having a specific gravity of 0.94 or more | 5% CA:Free
 
-3901.30.00 | -Ethylene-vinyl acetate copolymers | 5% CA:Free
+3901.30.00 | -Ethylene-vinyl acetate copolymers | Free
 
 3901.40.00 | -Ethylene-alpha-olefin copolymers, having a specific gravity of less than 0.94 | 5% CA:Free
 
@@ -8014,7 +8014,7 @@ Additional Notes.
 
 3902.20.00 | -Polyisobutylene | Free
 
-3902.30.00 | -Propylene copolymers | 5%
+3902.30.00 | -Propylene copolymers | Free
 
 3902.90.00 | -Other | 5%
 
@@ -8022,27 +8022,27 @@ Additional Notes.
 
 3903.1 | -Polystyrene:
 
-3903.11.00 | --Expansible | 5%
+3903.11.00 | --Expansible | Free
 
 3903.19.00 | --Other | 5%
 
-3903.20.00 | -Styrene-acrylonitrile (SAN) copolymers | 5%
+3903.20.00 | -Styrene-acrylonitrile (SAN) copolymers | Free
 
-3903.30.00 | -Acrylonitrile-butadiene-styrene (ABS) copolymers | 5%
+3903.30.00 | -Acrylonitrile-butadiene-styrene (ABS) copolymers | Free
 
 3903.90.00 | -Other | 5%
 
 3904 | POLYMERS OF VINYL CHLORIDE OR OF OTHER HALOGENATED OLEFINS, IN PRIMARY FORMS:
 
-3904.10.00 | -Poly(vinyl chloride), not mixed with any other substances | 5%
+3904.10.00 | -Poly(vinyl chloride), not mixed with any other substances | Free
 
 3904.2 | -Other poly(vinyl chloride):
 
-3904.21.00 | --Non-plasticised | 5%
+3904.21.00 | --Non-plasticised | Free
 
-3904.22.00 | --Plasticised | 5%
+3904.22.00 | --Plasticised | Free
 
-3904.30.00 | -Vinyl chloride-vinyl acetate copolymers | 5%
+3904.30.00 | -Vinyl chloride-vinyl acetate copolymers | Free
 
 3904.40.00 | -Other vinyl chloride copolymers | 5%
 
@@ -8050,7 +8050,7 @@ Additional Notes.
 
 3904.6 | -Fluoro-polymers:
 
-3904.61.00 | --Polytetrafluoroethylene | 5%
+3904.61.00 | --Polytetrafluoroethylene | Free
 
 3904.69.00 | --Other | 5%
 
@@ -8070,13 +8070,13 @@ Additional Notes.
 
 3905.29.00 | --Other | 5%
 
-3905.30.00 | -Poly(vinyl alcohol), whether or not containing unhydrolysed acetate groups | 5%
+3905.30.00 | -Poly(vinyl alcohol), whether or not containing unhydrolysed acetate groups | Free
 
 3905.9 | -Other:
 
 3905.91.00 | --Copolymers | 5%
 
-3905.99.00 | --Other | 5%
+3905.99.00 | --Other | Free
 
 3906 | ACRYLIC POLYMERS IN PRIMARY FORMS:
 
@@ -8086,7 +8086,7 @@ Additional Notes.
 
 3907 | POLYACETALS, OTHER POLYETHERS AND EPOXIDE RESINS, IN PRIMARY FORMS; POLYCARBONATES, ALKYD RESINS, POLYALLYL ESTERS AND OTHER POLYESTERS, IN PRIMARY FORMS:
 
-3907.10.00 | -Polyacetals | 5% CA:Free
+3907.10.00 | -Polyacetals | Free
 
 3907.2 | -Other polyethers:
 
@@ -8102,7 +8102,7 @@ Additional Notes.
 
 3907.6 | -Poly(ethylene terephthalate):
 
-3907.61.00 | --Having a viscosity number of 78 ml/g or higher | 5% CA:Free
+3907.61.00 | --Having a viscosity number of 78 ml/g or higher | Free
 
 3907.69.00 | --Other | 5% CA:Free
 
@@ -8128,7 +8128,7 @@ Additional Notes.
 
 3909 | AMINO-RESINS, PHENOLIC RESINS AND POLYURETHANES, IN PRIMARY FORMS:
 
-3909.10.00 | -Urea resins; thiourea resins | 5%
+3909.10.00 | -Urea resins; thiourea resins | Free
 
 3909.20.00 | -Melamine resins | 5%
 
@@ -8136,7 +8136,7 @@ Additional Notes.
 
 3909.31.00 | --Poly(methylene phenyl isocyanate) (crude MDI, polymeric MDI) | 5%
 
-3909.39.00 | --Other | 5%
+3909.39.00 | --Other | Free
 
 3909.40.00 | -Phenolic resins | 5%
 
@@ -8150,7 +8150,7 @@ Additional Notes.
 
 3911 | PETROLEUM RESINS, COUMARONE-INDENE RESINS, POLYTERPENES, POLYSULPHIDES, POLYSULPHONES AND OTHER PRODUCTS SPECIFIED IN NOTE 3 TO THIS CHAPTER, NOT ELSEWHERE SPECIFIED OR INCLUDED, IN PRIMARY FORMS:
 
-3911.10.00 | -Petroleum resins, coumarone, indene or coumarone-indene resins and polyterpenes | 5%
+3911.10.00 | -Petroleum resins, coumarone, indene or coumarone-indene resins and polyterpenes | Free
 
 3911.20.00 | -Poly(1,3-phenylene methylphosphonate) | 5%
 
@@ -8164,11 +8164,11 @@ Additional Notes.
 
 3912.12.00 | --Plasticised | Free
 
-3912.20.00 | -Cellulose nitrates (including collodions) | 5%
+3912.20.00 | -Cellulose nitrates (including collodions) | Free
 
 3912.3 | -Cellulose ethers:
 
-3912.31.00 | --Carboxymethylcellulose and its salts | 5%
+3912.31.00 | --Carboxymethylcellulose and its salts | Free
 
 3912.39.00 | --Other | 5%
 
@@ -8188,7 +8188,7 @@ Additional Notes.
 
 3915.10.00 | -Of polymers of ethylene | 5% CA:Free
 
-3915.20.00 | -Of polymers of styrene | 5% CA:Free
+3915.20.00 | -Of polymers of styrene | Free
 
 3915.30.00 | -Of polymers of vinyl chloride | 5% CA:Free
 
@@ -8196,11 +8196,11 @@ Additional Notes.
 
 3915.90.10 | ---Of plastics, as follows: (a) of polymers of propylene; (b) of polymers of vinyl; (c) of polymers of vinylidene | 5% CA:Free
 
-3915.90.90 | ---Of other plastics | 5%
+3915.90.90 | ---Of other plastics | Free
 
 3916 | MONOFILAMENT OF WHICH ANY CROSS SECTIONAL DIMENSION EXCEEDS 1 mm, RODS, STICKS AND PROFILE SHAPES, WHETHER OR NOT SURFACE-WORKED BUT NOT OTHERWISE WORKED, OF PLASTICS:
 
-3916.10.00 | -Of polymers of ethylene | 5% CA:Free
+3916.10.00 | -Of polymers of ethylene | Free
 
 3916.20.00 | -Of polymers of vinyl chloride | 5%
 
@@ -8294,7 +8294,7 @@ Additional Notes.
 
 3920.62.00 | --Of poly(ethylene terephthalate) | 5%
 
-3920.63.00 | --Of unsaturated polyesters | 5%
+3920.63.00 | --Of unsaturated polyesters | Free
 
 3920.69.00 | --Of other polyesters | 5%
 
@@ -8308,7 +8308,7 @@ Additional Notes.
 
 3920.9 | -Of other plastics:
 
-3920.91.00 | --Of poly(vinyl butyral) | 5% CA:Free
+3920.91.00 | --Of poly(vinyl butyral) | Free
 
 3920.92.00 | --Of polyamides | 5% CA:Free
 
@@ -8328,7 +8328,7 @@ Additional Notes.
 
 3921.13.00 | --Of polyurethanes | 5% CA:Free
 
-3921.14.00 | --Of regenerated cellulose | 5%
+3921.14.00 | --Of regenerated cellulose | Free
 
 3921.19.00 | --Of other plastics | 5%
 
@@ -8390,13 +8390,13 @@ Additional Notes.
 
 3926.20 | -Articles of apparel and clothing accessories (including gloves, mittens and mitts):
 
-3926.20.10 | ---Corset busks | 5% CA:Free
+3926.20.10 | ---Corset busks | Free
 
 3926.20.2 | ---Garments:
 
 3926.20.21 | ----Anti-radiation suits, anti-contamination suits, and similar protective garments | 5%
 
-3926.20.29 | ----Other | 5%
+3926.20.29 | ----Other | Free
 
 3926.20.90 | ---Other | Free
 
@@ -8406,7 +8406,7 @@ Additional Notes.
 
 3926.30.90 | ---Other | 5% CA:Free
 
-3926.40.00 | -Statuettes and other ornamental articles | 5% CA:Free
+3926.40.00 | -Statuettes and other ornamental articles | Free
 
 3926.90 | -Other:
 
@@ -8494,9 +8494,9 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4002.11.00 | --Latex | 5%
 
-4002.19.00 | --Other | 5%
+4002.19.00 | --Other | Free
 
-4002.20.00 | -Butadiene rubber (BR) | 5%
+4002.20.00 | -Butadiene rubber (BR) | Free
 
 4002.3 | -Isobutene-isoprene (butyl) rubber (IIR); halo-isobutene-isoprene rubber (CIIR or BIIR):
 
@@ -8506,15 +8506,15 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4002.4 | -Chloroprene (chlorobutadiene) rubber (CR):
 
-4002.41.00 | --Latex | 5%
+4002.41.00 | --Latex | Free
 
-4002.49.00 | --Other | 5%
+4002.49.00 | --Other | Free
 
 4002.5 | -Acrylonitrile-butadiene rubber (NBR):
 
-4002.51.00 | --Latex | 5%
+4002.51.00 | --Latex | Free
 
-4002.59.00 | --Other | 5%
+4002.59.00 | --Other | Free
 
 4002.60.00 | -Isoprene rubber (IR) | Free
 
@@ -8524,9 +8524,9 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4002.9 | -Other:
 
-4002.91.00 | --Latex | 5%
+4002.91.00 | --Latex | Free
 
-4002.99.00 | --Other | 5%
+4002.99.00 | --Other | Free
 
 4003.00.00 | RECLAIMED RUBBER IN PRIMARY FORMS OR IN PLATES, SHEETS OR STRIP | 5%
 
@@ -8534,7 +8534,7 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4005 | COMPOUNDED RUBBER, UNVULCANISED, IN PRIMARY FORMS OR IN PLATES, SHEETS OR STRIP:
 
-4005.10.00 | -Compounded with carbon black or silica | 5% MY:Free
+4005.10.00 | -Compounded with carbon black or silica | Free
 
 4005.20.00 | -Solutions; dispersions other than those of 4005.10.00 | 5% MY:Free
 
@@ -8542,7 +8542,7 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4005.91.00 | --Plates, sheets and strip | 5% MY:Free
 
-4005.99.00 | --Other | 5% MY:Free
+4005.99.00 | --Other | Free
 
 4006 | OTHER FORMS (FOR EXAMPLE, RODS, TUBES AND PROFILE SHAPES) AND ARTICLES (FOR EXAMPLE, DISCS AND RINGS), OF UNVULCANISED RUBBER:
 
@@ -8550,7 +8550,7 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4006.90.00 | -Other | 5%
 
-4007.00.00 | VULCANISED RUBBER THREAD AND CORD | 5%
+4007.00.00 | VULCANISED RUBBER THREAD AND CORD | Free
 
 4008 | PLATES, SHEETS, STRIP, RODS AND PROFILE SHAPES, OF VULCANISED RUBBER OTHER THAN HARD RUBBER:
 
@@ -8632,7 +8632,7 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4010.1 | -Conveyor belts or belting:
 
-4010.11.00 | --Reinforced only with metal | 5%
+4010.11.00 | --Reinforced only with metal | Free
 
 4010.12.00 | --Reinforced only with textile materials | 5%
 
@@ -8644,21 +8644,21 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4010.32.00 | --Endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference exceeding 60 cm but not exceeding 180 cm | 5%
 
-4010.33.00 | --Endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm | 5%
+4010.33.00 | --Endless transmission belts of trapezoidal cross-section (V-belts), V-ribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm | Free
 
-4010.34.00 | --Endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm | 5%
+4010.34.00 | --Endless transmission belts of trapezoidal cross-section (V-belts), other than V-ribbed, of an outside circumference exceeding 180 cm but not exceeding 240 cm | Free
 
 4010.35.00 | --Endless synchronous belts, of an outside circumference exceeding 60 cm but not exceeding 150 cm | 5%
 
-4010.36.00 | --Endless synchronous belts, of an outside circumference exceeding 150 cm but not exceeding 198 cm | 5%
+4010.36.00 | --Endless synchronous belts, of an outside circumference exceeding 150 cm but not exceeding 198 cm | Free
 
 4010.39.00 | --Other | 5%
 
 4011 | NEW PNEUMATIC TYRES, OF RUBBER:
 
-4011.10.00 | -Of a kind used on motor cars (including station wagons and racing cars) | 5%
+4011.10.00 | -Of a kind used on motor cars (including station wagons and racing cars) | Free
 
-4011.20.00 | -Of a kind used on buses or lorries | 5%
+4011.20.00 | -Of a kind used on buses or lorries | Free
 
 4011.30.00 | -Of a kind used on aircraft | Free
 
@@ -8668,15 +8668,15 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4011.70.00 | -Of a kind used on agricultural or forestry vehicles and machines | Free
 
-4011.80.00 | -Of a kind used on construction, mining or industrial handling vehicles and machines | 5%
+4011.80.00 | -Of a kind used on construction, mining or industrial handling vehicles and machines | Free
 
-4011.90.00 | -Other | 5%
+4011.90.00 | -Other | Free
 
 4012 | RETREADED OR USED PNEUMATIC TYRES OF RUBBER; SOLID OR CUSHION TYRES, TYRE TREADS AND TYRE FLAPS, OF RUBBER:
 
 4012.1 | -Retreaded tyres:
 
-4012.11.00 | --Of a kind used on motor cars (including station wagons and racing cars) | 5%
+4012.11.00 | --Of a kind used on motor cars (including station wagons and racing cars) | Free
 
 4012.12.00 | --Of a kind used on buses or lorries | Free
 
@@ -8690,11 +8690,11 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4013 | INNER TUBES, OF RUBBER:
 
-4013.10.00 | -Of a kind used on motor cars (including station wagons and racing cars), buses or lorries | 5%
+4013.10.00 | -Of a kind used on motor cars (including station wagons and racing cars), buses or lorries | Free
 
 4013.20.00 | -Of a kind used on bicycles | Free
 
-4013.90.00 | -Other | 5%
+4013.90.00 | -Other | Free
 
 4014 | HYGIENIC OR PHARMACEUTICAL ARTICLES (INCLUDING TEATS), OF VULCANISED RUBBER OTHER THAN HARD RUBBER, WITH OR WITHOUT FITTINGS OF HARD RUBBER:
 
@@ -8706,13 +8706,13 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4015.1 | -Gloves, mittens and mitts:
 
-4015.12.00 | --Of a kind used for medical, surgical, dental or veterinary purposes | 5%
+4015.12.00 | --Of a kind used for medical, surgical, dental or veterinary purposes | Free
 
 4015.19 | --Other:
 
 4015.19.10 | ---Mittens and mitts, specially designed for use in sports | 5%
 
-4015.19.90 | ---Other | 5%
+4015.19.90 | ---Other | Free
 
 4015.90 | -Other:
 
@@ -8720,9 +8720,9 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4015.90.2 | ---Garments, NSA, other than: (a) aprons of a kind used for X-ray protection; or (b) pilches:
 
-4015.90.21 | ----Anti-radiation suits, anti-contamination suits, and similar protective garments | 5%
+4015.90.21 | ----Anti-radiation suits, anti-contamination suits, and similar protective garments | Free
 
-4015.90.29 | ----Other | 5%
+4015.90.29 | ----Other | Free
 
 4015.90.90 | ---Other | Free
 
@@ -8734,11 +8734,11 @@ In 4008 “rods” and “profile shapes” apply only to such products, whether
 
 4016.91.00 | --Floor coverings and mats | 5%
 
-4016.92.00 | --Erasers | 5%
+4016.92.00 | --Erasers | Free
 
 4016.93.00 | --Gaskets, washers and other seals | 5%
 
-4016.94.00 | --Boat or dock fenders, whether or not inflatable | 5%
+4016.94.00 | --Boat or dock fenders, whether or not inflatable | Free
 
 4016.95.00 | --Other inflatable articles | 5%
 
@@ -8890,7 +8890,7 @@ Notes.
 
 4107.92.00 | --Grain splits | Free
 
-4107.99.00 | --Other | 5%
+4107.99.00 | --Other | Free
 
 4112.00.00 | LEATHER FURTHER PREPARED AFTER TANNING OR CRUSTING, INCLUDING PARCHMENT-DRESSED LEATHER, OF SHEEP OR LAMB, WITHOUT WOOL ON, WHETHER OR NOT SPLIT, OTHER THAN LEATHER OF 4114 | Free
 
@@ -8912,7 +8912,7 @@ Notes.
 
 4115 | COMPOSITION LEATHER WITH A BASIS OF LEATHER OR LEATHER FIBRE, IN SLABS, SHEETS OR STRIP, WHETHER OR NOT IN ROLLS; PARINGS AND OTHER WASTE OF LEATHER OR OF COMPOSITION LEATHER, NOT SUITABLE FOR THE MANUFACTURE OF LEATHER ARTICLES; LEATHER DUST, POWDER AND FLOUR:
 
-4115.10.00 | -Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls | 5%
+4115.10.00 | -Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls | Free
 
 4115.20.00 | -Parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour | Free
 
@@ -9032,7 +9032,7 @@ Notes.
 
 4203.29 | --Other:
 
-4203.29.10 | ---Mittens and mitts, of leather and furskin or of leather and artificial fur | 5%
+4203.29.10 | ---Mittens and mitts, of leather and furskin or of leather and artificial fur | Free
 
 4203.29.90 | ---Other | Free
 
@@ -9112,7 +9112,7 @@ Notes.
 
 4303.10.00 | -Articles of apparel and clothing accessories | 5%
 
-4303.90.00 | -Other | 5%
+4303.90.00 | -Other | Free
 
 4304 | ARTIFICIAL FUR AND ARTICLES THEREOF:
 
@@ -11320,7 +11320,7 @@ Note.
 
 5107 | YARN OF COMBED WOOL, NOT PUT UP FOR RETAIL SALE:
 
-5107.10.00 | -Containing 85% or more by weight of wool | 5% DC:5%
+5107.10.00 | -Containing 85% or more by weight of wool | Free
 
 5107.20.00 | -Containing less than 85% by weight of wool | Free
 
@@ -11550,7 +11550,7 @@ Subheading Note.
 
 5208.11.00 | --Plain weave, weighing not more than 100 g/m2 | 5%
 
-5208.12.00 | --Plain weave, weighing more than 100 g/m2 | 5%
+5208.12.00 | --Plain weave, weighing more than 100 g/m2 | Free
 
 5208.13.00 | --3-thread or 4-thread twill, including cross twill | Free
 
@@ -11564,21 +11564,21 @@ Subheading Note.
 
 5208.23.00 | --3-thread or 4-thread twill, including cross twill | 5%
 
-5208.29.00 | --Other fabrics | 5%
+5208.29.00 | --Other fabrics | Free
 
 5208.3 | -Dyed:
 
-5208.31.00 | --Plain weave, weighing not more than 100 g/m2 | 5%
+5208.31.00 | --Plain weave, weighing not more than 100 g/m2 | Free
 
 5208.32.00 | --Plain weave, weighing more than 100 g/m2 | 5%
 
-5208.33.00 | --3-thread or 4-thread twill, including cross twill | 5%
+5208.33.00 | --3-thread or 4-thread twill, including cross twill | Free
 
-5208.39.00 | --Other fabrics | 5%
+5208.39.00 | --Other fabrics | Free
 
 5208.4 | -Of yarns of different colours:
 
-5208.41.00 | --Plain weave, weighing not more than 100 g/m2 | 5%
+5208.41.00 | --Plain weave, weighing not more than 100 g/m2 | Free
 
 5208.42.00 | --Plain weave, weighing more than 100 g/m2 | 5%
 
@@ -11588,9 +11588,9 @@ Subheading Note.
 
 5208.5 | -Printed:
 
-5208.51.00 | --Plain weave, weighing not more than 100 g/m2 | 5%
+5208.51.00 | --Plain weave, weighing not more than 100 g/m2 | Free
 
-5208.52.00 | --Plain weave, weighing more than 100 g/m2 | 5%
+5208.52.00 | --Plain weave, weighing more than 100 g/m2 | Free
 
 5208.59.00 | --Other fabrics | 5%
 
@@ -11626,7 +11626,7 @@ Subheading Note.
 
 5209.42.00 | --Denim | 5%
 
-5209.43.00 | --Other fabrics of 3-thread or 4-thread twill, including cross twill | 5%
+5209.43.00 | --Other fabrics of 3-thread or 4-thread twill, including cross twill | Free
 
 5209.49.00 | --Other fabrics | 5%
 
@@ -11644,7 +11644,7 @@ Subheading Note.
 
 5210.11.00 | --Plain weave | 5%
 
-5210.19.00 | --Other fabrics | 5%
+5210.19.00 | --Other fabrics | Free
 
 5210.2 | -Bleached:
 
@@ -11662,7 +11662,7 @@ Subheading Note.
 
 5210.4 | -Of yarns of different colours:
 
-5210.41.00 | --Plain weave | 5%
+5210.41.00 | --Plain weave | Free
 
 5210.49.00 | --Other fabrics | 5%
 
@@ -11676,7 +11676,7 @@ Subheading Note.
 
 5211.1 | -Unbleached:
 
-5211.11.00 | --Plain weave | 5%
+5211.11.00 | --Plain weave | Free
 
 5211.12.00 | --3-thread or 4-thread twill, including cross twill | Free
 
@@ -11772,7 +11772,7 @@ Subheading Note.
 
 5307 | YARN OF JUTE OR OF OTHER TEXTILE BAST FIBRES OF 5303:
 
-5307.10.00 | -Single | 5%
+5307.10.00 | -Single | Free
 
 5307.20.00 | -Multiple (folded) or cabled | Free
 
@@ -11840,15 +11840,15 @@ Notes.
 
 5402.3 | -Textured yarn:
 
-5402.31.00 | --Of nylon or other polyamides, measuring per single yarn not more than 50 tex | 5% DC:5%
+5402.31.00 | --Of nylon or other polyamides, measuring per single yarn not more than 50 tex | Free
 
-5402.32.00 | --Of nylon or other polyamides, measuring per single yarn more than 50 tex | 5% DC:5%
+5402.32.00 | --Of nylon or other polyamides, measuring per single yarn more than 50 tex | Free
 
-5402.33.00 | --Of polyesters | 5% DC:5%
+5402.33.00 | --Of polyesters | Free
 
-5402.34.00 | --Of polypropylene | 5% DC:5%
+5402.34.00 | --Of polypropylene | Free
 
-5402.39.00 | --Other | 5% DC:5%
+5402.39.00 | --Other | Free
 
 5402.4 | -Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre:
 
@@ -11858,15 +11858,15 @@ Notes.
 
 5402.46.00 | --Other, of polyesters, partially oriented | 5% DC:5%
 
-5402.47.00 | --Other, of polyesters | 5% DC:5%
+5402.47.00 | --Other, of polyesters | Free
 
-5402.48.00 | --Other, of polypropylene | 5% DC:5%
+5402.48.00 | --Other, of polypropylene | Free
 
-5402.49.00 | --Other | 5% DC:5%
+5402.49.00 | --Other | Free
 
 5402.5 | -Other yarn, single, with a twist exceeding 50 turns per metre:
 
-5402.51.00 | --Of nylon or other polyamides | 5% DC:5%
+5402.51.00 | --Of nylon or other polyamides | Free
 
 5402.52.00 | --Of polyesters | 5% DC:5%
 
@@ -11876,13 +11876,13 @@ Notes.
 
 5402.6 | -Other yarn, multiple (folded) or cabled:
 
-5402.61.00 | --Of nylon or other polyamides | 5% DC:5%
+5402.61.00 | --Of nylon or other polyamides | Free
 
-5402.62.00 | --Of polyesters | 5% DC:5%
+5402.62.00 | --Of polyesters | Free
 
 5402.63.00 | --Of polypropylene | 5% DC:5%
 
-5402.69.00 | --Other | 5% DC:5%
+5402.69.00 | --Other | Free
 
 5403 | ARTIFICIAL FILAMENT YARN (OTHER THAN SEWING THREAD), NOT PUT UP FOR RETAIL SALE, INCLUDING ARTIFICIAL MONOFILAMENT OF LESS THAN 67 DECITEX:
 
@@ -11890,13 +11890,13 @@ Notes.
 
 5403.3 | -Other yarn, single:
 
-5403.31.00 | --Of viscose rayon, untwisted or with a twist not exceeding 120 turns per metre | 5% DC:5%
+5403.31.00 | --Of viscose rayon, untwisted or with a twist not exceeding 120 turns per metre | Free
 
 5403.32.00 | --Of viscose rayon, with a twist exceeding 120 turns per metre | 5% DC:5%
 
-5403.33.00 | --Of cellulose acetate | 5% DC:5%
+5403.33.00 | --Of cellulose acetate | Free
 
-5403.39.00 | --Other | 5% DC:5%
+5403.39.00 | --Other | Free
 
 5403.4 | -Other yarn, multiple (folded) or cabled:
 
@@ -11910,7 +11910,7 @@ Notes.
 
 5404.1 | -Monofilament:
 
-5404.11.00 | --Elastomeric | 5%
+5404.11.00 | --Elastomeric | Free
 
 5404.12.00 | --Other, of polypropylene | 5%
 
@@ -11928,21 +11928,21 @@ Notes.
 
 5407.20.00 | -Woven fabrics obtained from strip or the like | 5%
 
-5407.30.00 | -Fabrics specified in Note 9 to Section XI | 5%
+5407.30.00 | -Fabrics specified in Note 9 to Section XI | Free
 
 5407.4 | -Other woven fabrics, containing 85% or more by weight of filaments of nylon or other polyamides:
 
-5407.41.00 | --Unbleached or bleached | 5%
+5407.41.00 | --Unbleached or bleached | Free
 
-5407.42.00 | --Dyed | 5%
+5407.42.00 | --Dyed | Free
 
-5407.43.00 | --Of yarns of different colours | 5%
+5407.43.00 | --Of yarns of different colours | Free
 
 5407.44.00 | --Printed | 5%
 
 5407.5 | -Other woven fabrics, containing 85% or more by weight of textured polyester filaments:
 
-5407.51.00 | --Unbleached or bleached | 5%
+5407.51.00 | --Unbleached or bleached | Free
 
 5407.52.00 | --Dyed | 5%
 
@@ -11968,9 +11968,9 @@ Notes.
 
 5407.8 | -Other woven fabrics, containing less than 85% by weight of synthetic filaments, mixed mainly or solely with cotton:
 
-5407.81.00 | --Unbleached or bleached | 5%
+5407.81.00 | --Unbleached or bleached | Free
 
-5407.82.00 | --Dyed | 5%
+5407.82.00 | --Dyed | Free
 
 5407.83.00 | --Of yarns of different colours | 5%
 
@@ -11992,7 +11992,7 @@ Notes.
 
 5408.2 | -Other woven fabrics, containing 85% or more by weight of artificial filament or strip or the like:
 
-5408.21.00 | --Unbleached or bleached | 5%
+5408.21.00 | --Unbleached or bleached | Free
 
 5408.22.00 | --Dyed | 5%
 
@@ -12008,7 +12008,7 @@ Notes.
 
 5408.33.00 | --Of yarns of different colours | 5%
 
-5408.34.00 | --Printed | 5%
+5408.34.00 | --Printed | Free
 
 ## Chapter 55—Man-made staple fibres
 
@@ -12132,19 +12132,19 @@ Tow of a length not exceeding 2 m is to be classified in 5503 or 5504.
 
 5509.2 | -Containing 85% or more by weight of polyester staple fibres:
 
-5509.21.00 | --Single yarn | 5% DC:5%
+5509.21.00 | --Single yarn | Free
 
-5509.22.00 | --Multiple (folded) or cabled yarn | 5% DC:5%
+5509.22.00 | --Multiple (folded) or cabled yarn | Free
 
 5509.3 | -Containing 85% or more by weight of acrylic or modacrylic staple fibres:
 
 5509.31.00 | --Single yarn | 5% DC:5%
 
-5509.32.00 | --Multiple (folded) or cabled yarn | 5% DC:5%
+5509.32.00 | --Multiple (folded) or cabled yarn | Free
 
 5509.4 | -Other yarn, containing 85% or more by weight of synthetic staple fibres:
 
-5509.41.00 | --Single yarn | 5% DC:5%
+5509.41.00 | --Single yarn | Free
 
 5509.42.00 | --Multiple (folded) or cabled yarn | 5% DC:5%
 
@@ -12154,15 +12154,15 @@ Tow of a length not exceeding 2 m is to be classified in 5503 or 5504.
 
 5509.52.00 | --Mixed mainly or solely with wool or fine animal hair | 5% DC:5%
 
-5509.53.00 | --Mixed mainly or solely with cotton | 5% DC:5%
+5509.53.00 | --Mixed mainly or solely with cotton | Free
 
-5509.59.00 | --Other | 5% DC:5%
+5509.59.00 | --Other | Free
 
 5509.6 | -Other yarn, of acrylic or modacrylic staple fibres:
 
-5509.61.00 | --Mixed mainly or solely with wool or fine animal hair | 5% DC:5%
+5509.61.00 | --Mixed mainly or solely with wool or fine animal hair | Free
 
-5509.62.00 | --Mixed mainly or solely with cotton | 5% DC:5%
+5509.62.00 | --Mixed mainly or solely with cotton | Free
 
 5509.69.00 | -Other | 5% DC:5%
 
@@ -12170,9 +12170,9 @@ Tow of a length not exceeding 2 m is to be classified in 5503 or 5504.
 
 5509.91.00 | --Mixed mainly or solely with wool or fine animal hair | 5% DC:5%
 
-5509.92.00 | --Mixed mainly or solely with cotton | 5% DC:5%
+5509.92.00 | --Mixed mainly or solely with cotton | Free
 
-5509.99.00 | --Other | 5% DC:5%
+5509.99.00 | --Other | Free
 
 5510 | YARN (OTHER THAN SEWING THREAD) OF ARTIFICIAL STAPLE FIBRES, NOT PUT UP FOR RETAIL SALE:
 
@@ -12182,7 +12182,7 @@ Tow of a length not exceeding 2 m is to be classified in 5503 or 5504.
 
 5510.12.00 | --Multiple (folded) or cabled yarn | 5% DC:5%
 
-5510.20.00 | -Other yarn, mixed mainly or solely with wool or fine animal hair | 5% DC:5%
+5510.20.00 | -Other yarn, mixed mainly or solely with wool or fine animal hair | Free
 
 5510.30.00 | -Other yarn, mixed mainly or solely with cotton | 5% DC:5%
 
@@ -12190,11 +12190,11 @@ Tow of a length not exceeding 2 m is to be classified in 5503 or 5504.
 
 5511 | YARN (OTHER THAN SEWING THREAD) OF MAN-MADE STAPLE FIBRES, PUT UP FOR RETAIL SALE:
 
-5511.10.00 | -Of synthetic staple fibres, containing 85% or more by weight of such fibres | 5%
+5511.10.00 | -Of synthetic staple fibres, containing 85% or more by weight of such fibres | Free
 
 5511.20.00 | -Of synthetic staple fibres, containing less than 85% by weight of such fibres | 5%
 
-5511.30.00 | -Of artificial staple fibres | 5%
+5511.30.00 | -Of artificial staple fibres | Free
 
 5512 | WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING 85% OR MORE BY WEIGHT OF SYNTHETIC STAPLE FIBRES:
 
@@ -12224,17 +12224,17 @@ Tow of a length not exceeding 2 m is to be classified in 5503 or 5504.
 
 5513.12.00 | --3-thread or 4-thread twill, including cross twill, of polyester staple fibres | 5%
 
-5513.13.00 | --Other woven fabrics of polyester staple fibres | 5%
+5513.13.00 | --Other woven fabrics of polyester staple fibres | Free
 
 5513.19.00 | --Other woven fabrics | 5%
 
 5513.2 | -Dyed:
 
-5513.21.00 | --Of polyester staple fibres, plain weave | 5%
+5513.21.00 | --Of polyester staple fibres, plain weave | Free
 
-5513.23.00 | --Other woven fabrics of polyester staple fibres | 5%
+5513.23.00 | --Other woven fabrics of polyester staple fibres | Free
 
-5513.29.00 | --Other woven fabrics | 5%
+5513.29.00 | --Other woven fabrics | Free
 
 5513.3 | -Of yarns of different colours:
 
@@ -12244,9 +12244,9 @@ Tow of a length not exceeding 2 m is to be classified in 5503 or 5504.
 
 5513.4 | -Printed:
 
-5513.41.00 | --Of polyester staple fibres, plain weave | 5%
+5513.41.00 | --Of polyester staple fibres, plain weave | Free
 
-5513.49.00 | --Other woven fabrics | 5%
+5513.49.00 | --Other woven fabrics | Free
 
 5514 | WOVEN FABRICS OF SYNTHETIC STAPLE FIBRES, CONTAINING LESS THAN 85% BY WEIGHT OF SUCH FIBRES, MIXED MAINLY OR SOLELY WITH COTTON, OF A WEIGHT EXCEEDING 170 g/m2:
 
@@ -12260,9 +12260,9 @@ Tow of a length not exceeding 2 m is to be classified in 5503 or 5504.
 
 5514.2 | -Dyed:
 
-5514.21.00 | --Of polyester staple fibres, plain weave | 5%
+5514.21.00 | --Of polyester staple fibres, plain weave | Free
 
-5514.22.00 | --3-thread or 4-thread twill, including cross twill, of polyester staple fibres | 5%
+5514.22.00 | --3-thread or 4-thread twill, including cross twill, of polyester staple fibres | Free
 
 5514.23.00 | --Other woven fabrics of polyester staple fibres | 5%
 
@@ -12310,7 +12310,7 @@ Tow of a length not exceeding 2 m is to be classified in 5503 or 5504.
 
 5516.1 | -Containing 85% or more by weight of artificial staple fibres:
 
-5516.11.00 | --Unbleached or bleached | 5%
+5516.11.00 | --Unbleached or bleached | Free
 
 5516.12.00 | --Dyed | 5%
 
@@ -12330,7 +12330,7 @@ Tow of a length not exceeding 2 m is to be classified in 5503 or 5504.
 
 5516.3 | -Containing less than 85% by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair:
 
-5516.31.00 | --Unbleached or bleached | 5%
+5516.31.00 | --Unbleached or bleached | Free
 
 5516.32.00 | --Dyed | 5%
 
@@ -12410,11 +12410,11 @@ Notes.
 
 5602.2 | -Other felt, not impregnated, coated, covered or laminated:
 
-5602.21.00 | --Of wool or fine animal hair | 5% CA:Free
+5602.21.00 | --Of wool or fine animal hair | Free
 
-5602.29.00 | --Of other textile materials | 5% CA:Free
+5602.29.00 | --Of other textile materials | Free
 
-5602.90.00 | -Other | 5% CA:Free
+5602.90.00 | -Other | Free
 
 5603 | NONWOVENS, WHETHER OR NOT IMPREGNATED, COATED, COVERED OR LAMINATED:
 
@@ -12434,15 +12434,15 @@ Notes.
 
 5603.92.00 | --Weighing more than 25 g/m2 but not more than 70 g/m2 | 5%
 
-5603.93.00 | --Weighing more than 70 g/m2 but not more than 150 g/m2 | 5%
+5603.93.00 | --Weighing more than 70 g/m2 but not more than 150 g/m2 | Free
 
 5603.94.00 | --Weighing more than 150 g/m2 | 5%
 
 5604 | RUBBER THREAD AND CORD, TEXTILE COVERED; TEXTILE YARN, AND STRIP AND THE LIKE OF 5404 OR 5405.00.00, IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS:
 
-5604.10.00 | -Rubber thread and cord, textile covered | 5%
+5604.10.00 | -Rubber thread and cord, textile covered | Free
 
-5604.90.00 | -Other | 5%
+5604.90.00 | -Other | Free
 
 5605.00.00 | METALLISED YARN, WHETHER OR NOT GIMPED, BEING TEXTILE YARN, OR STRIP OR THE LIKE OF 5404 OR 5405.00.00, COMBINED WITH METAL IN THE FORM OF THREAD, STRIP OR POWDER OR COVERED WITH METAL | Free
 
@@ -12450,13 +12450,13 @@ Notes.
 
 5606.00.10 | ---Chenille yarn and gimped yarn | Free
 
-5606.00.90 | ---Other | 5%
+5606.00.90 | ---Other | Free
 
 5607 | TWINE, CORDAGE, ROPES AND CABLES, WHETHER OR NOT PLAITED OR BRAIDED AND WHETHER OR NOT IMPREGNATED, COATED, COVERED OR SHEATHED WITH RUBBER OR PLASTICS:
 
 5607.2 | -Of sisal or other textile fibres of the genus Agave:
 
-5607.21.00 | --Binder or baler twine | 5%
+5607.21.00 | --Binder or baler twine | Free
 
 5607.29.00 | --Other | 5%
 
@@ -12470,7 +12470,7 @@ Notes.
 
 5607.90 | -Other:
 
-5607.90.10 | ---Of jute or other textile bast fibres of 5303 | 5%
+5607.90.10 | ---Of jute or other textile bast fibres of 5303 | Free
 
 5607.90.90 | ---Other | 5%
 
@@ -12554,7 +12554,7 @@ Additional Notes.
 
 5702.49.20 | ---Goods, NSA, as follows: (a) of sisal or jute; (b) of 100% cotton, or in which the pile is of 100% cotton; (c) handmade | Free
 
-5702.49.90 | ---Other | 5%
+5702.49.90 | ---Other | Free
 
 5702.50 | -Other, not of pile construction, not made up:
 
@@ -12588,13 +12588,13 @@ Additional Notes.
 
 5703.2 | -Of nylon or other polyamides:
 
-5703.21.00 | --Turf | 5%
+5703.21.00 | --Turf | Free
 
 5703.29.00 | --Other | 5%
 
 5703.3 | -Of other man-made textile materials:
 
-5703.31.00 | --Turf | 5%
+5703.31.00 | --Turf | Free
 
 5703.39.00 | --Other | 5%
 
@@ -12626,7 +12626,7 @@ Additional Notes.
 
 5705 | OTHER CARPETS AND OTHER TEXTILE FLOOR COVERINGS, WHETHER OR NOT MADE UP:
 
-5705.00.10 | ---Goods of terry fabrics | 5%
+5705.00.10 | ---Goods of terry fabrics | Free
 
 5705.00.20 | ---Goods, NSA, as follows: (a) of coir, sisal or jute; (b) of 100% cotton, or in which the pile is of 100% cotton; (c) handmade | Free
 
@@ -12668,7 +12668,7 @@ Additional Note.
 
 5801.10 | -Of wool or fine animal hair:
 
-5801.10.10 | ---Velvet | 5%
+5801.10.10 | ---Velvet | Free
 
 5801.10.9 | ---Other:
 
@@ -12682,7 +12682,7 @@ Additional Note.
 
 5801.22.00 | --Cut corduroy | Free
 
-5801.23.00 | --Other weft pile fabrics | 5%
+5801.23.00 | --Other weft pile fabrics | Free
 
 5801.26.00 | --Chenille fabrics | 5%
 
@@ -12716,11 +12716,11 @@ Additional Note.
 
 5802 | TERRY TOWELLING AND SIMILAR WOVEN TERRY FABRICS, OTHER THAN NARROW FABRICS OF 5806; TUFTED TEXTILE FABRICS, OTHER THAN PRODUCTS OF 5703:
 
-5802.10.00 | -Terry towelling and similar woven terry fabrics, of cotton | 5%
+5802.10.00 | -Terry towelling and similar woven terry fabrics, of cotton | Free
 
 5802.20.00 | -Terry towelling and similar woven terry fabrics, of other textile materials | Free
 
-5802.30.00 | -Tufted textile fabrics | 5%
+5802.30.00 | -Tufted textile fabrics | Free
 
 5803 | GAUZE, OTHER THAN NARROW FABRICS OF 5806:
 
@@ -12750,7 +12750,7 @@ Additional Note.
 
 5806.10.00 | -Woven pile fabrics (including terry towelling and similar terry fabrics) and chenille fabrics | Free
 
-5806.20.00 | -Other woven fabrics, containing by weight 5% or more of elastomeric yarn or rubber thread | 5%
+5806.20.00 | -Other woven fabrics, containing by weight 5% or more of elastomeric yarn or rubber thread | Free
 
 5806.3 | -Other woven fabrics:
 
@@ -12910,7 +12910,7 @@ This heading does not, however, apply to plates, sheets or strip of cellular rub
 
 5903.90 | -Other:
 
-5903.90.10 | ---Having a woven base fabric, as follows: (a) of cotton, containing 20% or more by weight of man-made fibres; (b) of man-made fibres, other than of polyolefins | 5%
+5903.90.10 | ---Having a woven base fabric, as follows: (a) of cotton, containing 20% or more by weight of man-made fibres; (b) of man-made fibres, other than of polyolefins | Free
 
 5903.90.90 | ---Other | 5%
 
@@ -12932,7 +12932,7 @@ This heading does not, however, apply to plates, sheets or strip of cellular rub
 
 5906 | RUBBERISED TEXTILE FABRICS, OTHER THAN THOSE OF 5902:
 
-5906.10.00 | -Adhesive tape of a width not exceeding 20 cm | 5%
+5906.10.00 | -Adhesive tape of a width not exceeding 20 cm | Free
 
 5906.9 | -Other:
 
@@ -13004,9 +13004,9 @@ Subheading Note.
 
 6001.2 | -Looped pile fabrics:
 
-6001.21.00 | --Of cotton | 5%
+6001.21.00 | --Of cotton | Free
 
-6001.22.00 | --Of man-made fibres | 5%
+6001.22.00 | --Of man-made fibres | Free
 
 6001.29.00 | --Of other textile materials | Free
 
@@ -13014,21 +13014,21 @@ Subheading Note.
 
 6001.91.00 | --Of cotton | Free
 
-6001.92.00 | --Of man-made fibres | 5%
+6001.92.00 | --Of man-made fibres | Free
 
 6001.99.00 | --Of other textile materials | 5%
 
 6002 | KNITTED OR CROCHETED FABRICS OF A WIDTH NOT EXCEEDING 30 cm, CONTAINING BY WEIGHT 5% OR MORE OF ELASTOMERIC YARN OR RUBBER THREAD, OTHER THAN THOSE OF 6001:
 
-6002.40.00 | -Containing by weight 5% or more of elastomeric yarn but not containing rubber thread | 5% CA:Free
+6002.40.00 | -Containing by weight 5% or more of elastomeric yarn but not containing rubber thread | Free
 
-6002.90.00 | -Other | 5% CA:Free
+6002.90.00 | -Other | Free
 
 6003 | KNITTED OR CROCHETED FABRICS OF A WIDTH NOT EXCEEDING 30 cm, OTHER THAN THOSE OF 6001 OR 6002:
 
 6003.10.00 | -Of wool or fine animal hair | Free
 
-6003.20.00 | -Of cotton | 5%
+6003.20.00 | -Of cotton | Free
 
 6003.30.00 | -Of synthetic fibres | 5%
 
@@ -13048,7 +13048,7 @@ Subheading Note.
 
 6005.21.00 | --Unbleached or bleached | Free
 
-6005.22.00 | --Dyed | 5%
+6005.22.00 | --Dyed | Free
 
 6005.23.00 | --Of yarns of different colours | Free
 
@@ -13060,11 +13060,11 @@ Subheading Note.
 
 6005.36.00 | --Other, unbleached or bleached | 5%
 
-6005.37.00 | --Other, dyed | 5%
+6005.37.00 | --Other, dyed | Free
 
 6005.38.00 | --Other, of yarns of different colours | Free
 
-6005.39.00 | --Other, printed | 5%
+6005.39.00 | --Other, printed | Free
 
 6005.4 | -Of artificial fibres:
 
@@ -13086,7 +13086,7 @@ Subheading Note.
 
 6006.21.00 | --Unbleached or bleached | Free
 
-6006.22.00 | --Dyed | 5%
+6006.22.00 | --Dyed | Free
 
 6006.23.00 | --Of yarns of different colours | 5%
 
@@ -13098,9 +13098,9 @@ Subheading Note.
 
 6006.32.00 | --Dyed | 5%
 
-6006.33.00 | --Of yarns of different colours | 5%
+6006.33.00 | --Of yarns of different colours | Free
 
-6006.34.00 | --Printed | 5%
+6006.34.00 | --Printed | Free
 
 6006.4 | -Of artificial fibres:
 
@@ -13210,9 +13210,9 @@ Additional Note.
 
 6102.10.00 | -Of wool or fine animal hair | 5%
 
-6102.20.00 | -Of cotton | 5%
+6102.20.00 | -Of cotton | Free
 
-6102.30.00 | -Of man-made fibres | 5%
+6102.30.00 | -Of man-made fibres | Free
 
 6102.90.00 | -Of other textile materials | 5%
 
@@ -13222,9 +13222,9 @@ Additional Note.
 
 6103.2 | -Ensembles:
 
-6103.22.00 | --Of cotton | 5%
+6103.22.00 | --Of cotton | Free
 
-6103.23.00 | --Of synthetic fibres | 5%
+6103.23.00 | --Of synthetic fibres | Free
 
 6103.29.00 | --Of other textile materials | 5%
 
@@ -13234,7 +13234,7 @@ Additional Note.
 
 6103.32.00 | --Of cotton | 5%
 
-6103.33.00 | --Of synthetic fibres | 5%
+6103.33.00 | --Of synthetic fibres | Free
 
 6103.39.00 | --Of other textile materials | 5%
 
@@ -13246,7 +13246,7 @@ Additional Note.
 
 6103.43.00 | --Of synthetic fibres | 5%
 
-6103.49.00 | --Of other textile materials | 5%
+6103.49.00 | --Of other textile materials | Free
 
 6104 | WOMEN’S OR GIRLS’ SUITS, ENSEMBLES, JACKETS, BLAZERS, DRESSES, SKIRTS, DIVIDED SKIRTS, TROUSERS, BIB AND BRACE OVERALLS, BREECHES AND SHORTS (OTHER THAN SWIMWEAR), KNITTED OR CROCHETED:
 
@@ -13258,9 +13258,9 @@ Additional Note.
 
 6104.2 | -Ensembles:
 
-6104.22.00 | --Of cotton | 5%
+6104.22.00 | --Of cotton | Free
 
-6104.23.00 | --Of synthetic fibres | 5%
+6104.23.00 | --Of synthetic fibres | Free
 
 6104.29.00 | --Of other textile materials | 5%
 
@@ -13270,7 +13270,7 @@ Additional Note.
 
 6104.32.00 | --Of cotton | 5%
 
-6104.33.00 | --Of synthetic fibres | 5%
+6104.33.00 | --Of synthetic fibres | Free
 
 6104.39.00 | --Of other textile materials | 5%
 
@@ -13290,11 +13290,11 @@ Additional Note.
 
 6104.51.00 | --Of wool or fine animal hair | 5%
 
-6104.52.00 | --Of cotton | 5%
+6104.52.00 | --Of cotton | Free
 
-6104.53.00 | --Of synthetic fibres | 5%
+6104.53.00 | --Of synthetic fibres | Free
 
-6104.59.00 | --Of other textile materials | 5%
+6104.59.00 | --Of other textile materials | Free
 
 6104.6 | -Trousers, bib and brace overalls, breeches and shorts:
 
@@ -13326,15 +13326,15 @@ Additional Note.
 
 6107.1 | -Underpants and briefs:
 
-6107.11.00 | --Of cotton | 5%
+6107.11.00 | --Of cotton | Free
 
-6107.12.00 | --Of man-made fibres | 5%
+6107.12.00 | --Of man-made fibres | Free
 
-6107.19.00 | --Of other textile materials | 5%
+6107.19.00 | --Of other textile materials | Free
 
 6107.2 | -Nightshirts and pyjamas:
 
-6107.21.00 | --Of cotton | 5%
+6107.21.00 | --Of cotton | Free
 
 6107.22.00 | --Of man-made fibres | Free
 
@@ -13344,7 +13344,7 @@ Additional Note.
 
 6107.91.00 | --Of cotton | Free
 
-6107.99.00 | --Of other textile materials | 5%
+6107.99.00 | --Of other textile materials | Free
 
 6108 | WOMEN’S OR GIRLS’ SLIPS, PETTICOATS, BRIEFS, PANTIES, NIGHTDRESSES, PYJAMAS, NEGLIGES, BATHROBES, DRESSING GOWNS AND SIMILAR ARTICLES, KNITTED OR CROCHETED:
 
@@ -13356,15 +13356,15 @@ Additional Note.
 
 6108.2 | -Briefs and panties:
 
-6108.21.00 | --Of cotton | 5%
+6108.21.00 | --Of cotton | Free
 
-6108.22.00 | --Of man-made fibres | 5%
+6108.22.00 | --Of man-made fibres | Free
 
-6108.29.00 | --Of other textile materials | 5%
+6108.29.00 | --Of other textile materials | Free
 
 6108.3 | -Nightdresses and pyjamas:
 
-6108.31.00 | --Of cotton | 5%
+6108.31.00 | --Of cotton | Free
 
 6108.32.00 | --Of man-made fibres | Free
 
@@ -13372,11 +13372,11 @@ Additional Note.
 
 6108.9 | -Other:
 
-6108.91.00 | --Of cotton | 5%
+6108.91.00 | --Of cotton | Free
 
 6108.92.00 | --Of man-made fibres | Free
 
-6108.99.00 | --Of other textile materials | 5%
+6108.99.00 | --Of other textile materials | Free
 
 6109 | T-SHIRTS, SINGLETS AND OTHER VESTS, KNITTED OR CROCHETED:
 
@@ -13404,7 +13404,7 @@ Additional Note.
 
 6111.20 | -Of cotton:
 
-6111.20.10 | ---Stockings and understockings | 5%
+6111.20.10 | ---Stockings and understockings | Free
 
 6111.20.20 | ---Clothing accessories, NSA, other than socks, ankle-socks, sockettes and the like | Free
 
@@ -13416,7 +13416,7 @@ Additional Note.
 
 6111.30.20 | ---Clothing accessories, NSA, other than socks, ankle-socks, sockettes and the like | Free
 
-6111.30.90 | ---Other | 5%
+6111.30.90 | ---Other | Free
 
 6111.90 | -Of other textile materials:
 
@@ -13424,7 +13424,7 @@ Additional Note.
 
 6111.90.20 | ---Clothing accessories, NSA, other than socks, ankle-socks, sockettes and the like | Free
 
-6111.90.90 | ---Other | 5%
+6111.90.90 | ---Other | Free
 
 6112 | TRACK SUITS, SKI SUITS AND SWIMWEAR, KNITTED OR CROCHETED:
 
@@ -13432,7 +13432,7 @@ Additional Note.
 
 6112.11.00 | --Of cotton | 5%
 
-6112.12.00 | --Of synthetic fibres | 5%
+6112.12.00 | --Of synthetic fibres | Free
 
 6112.19.00 | --Of other textile materials | 5%
 
@@ -13440,7 +13440,7 @@ Additional Note.
 
 6112.3 | -Men’s or boys’ swimwear:
 
-6112.31.00 | --Of synthetic fibres | 5%
+6112.31.00 | --Of synthetic fibres | Free
 
 6112.39.00 | --Of other textile materials | Free
 
@@ -13448,13 +13448,13 @@ Additional Note.
 
 6112.41.00 | --Of synthetic fibres | 5%
 
-6112.49.00 | --Of other textile materials | 5%
+6112.49.00 | --Of other textile materials | Free
 
 6113 | GARMENTS, MADE UP OF KNITTED OR CROCHETED FABRICS OF 5903, 5906 OR 5907.00.00:
 
 6113.00.1 | ---Of fabric to which, if imported, 5906 would apply:
 
-6113.00.11 | ----Diving dress, wetsuits and similar garments | 5%
+6113.00.11 | ----Diving dress, wetsuits and similar garments | Free
 
 6113.00.12 | ----Goods, NSA, of fabric laminated with expanded or foam rubber | Free
 
@@ -13466,11 +13466,11 @@ Additional Note.
 
 6114 | OTHER GARMENTS, KNITTED OR CROCHETED:
 
-6114.20.00 | -Of cotton | 5%
+6114.20.00 | -Of cotton | Free
 
 6114.30.00 | -Of man-made fibres | 5%
 
-6114.90.00 | -Of other textile materials | 5%
+6114.90.00 | -Of other textile materials | Free
 
 6115 | PANTY HOSE, TIGHTS, STOCKINGS, SOCKS AND OTHER HOSIERY, INCLUDING GRADUATED COMPRESSION HOSIERY (FOR EXAMPLE, STOCKINGS FOR VARICOSE VEINS) AND FOOTWEAR WITHOUT APPLIED SOLES, KNITTED OR CROCHETED:
 
@@ -13488,9 +13488,9 @@ Additional Note.
 
 6115.21.90 | ---Other | 5%
 
-6115.22.00 | --Of synthetic fibres, measuring per single yarn 67 decitex or more | 5%
+6115.22.00 | --Of synthetic fibres, measuring per single yarn 67 decitex or more | Free
 
-6115.29.00 | --Of other textile materials | 5%
+6115.29.00 | --Of other textile materials | Free
 
 6115.30.00 | -Other women’s full-length or knee-length hosiery, measuring per single yarn less than 67 decitex | 5%
 
@@ -13498,7 +13498,7 @@ Additional Note.
 
 6115.94 | --Of wool or fine animal hair:
 
-6115.94.10 | ---Socks, ankle-socks, sockettes and the like | 5%
+6115.94.10 | ---Socks, ankle-socks, sockettes and the like | Free
 
 6115.94.90 | ---Other | 5%
 
@@ -13506,17 +13506,17 @@ Additional Note.
 
 6115.95.10 | ---Socks, ankle-socks, sockettes and the like | 5%
 
-6115.95.90 | ---Other | 5%
+6115.95.90 | ---Other | Free
 
 6115.96 | --Of synthetic fibres:
 
 6115.96.10 | ---Socks, ankle-socks, sockettes and the like | 5%
 
-6115.96.90 | ---Other | 5%
+6115.96.90 | ---Other | Free
 
 6115.99 | --Of other textile materials:
 
-6115.99.10 | ---Socks, ankle-socks, sockettes and the like | 5%
+6115.99.10 | ---Socks, ankle-socks, sockettes and the like | Free
 
 6115.99.90 | ---Other | 5%
 
@@ -13720,9 +13720,9 @@ but does not include other pants made of elastomeric fabric.
 
 6204.21.00 | --Of wool or fine animal hair | 5%
 
-6204.22.00 | --Of cotton | 5%
+6204.22.00 | --Of cotton | Free
 
-6204.23.00 | --Of synthetic fibres | 5%
+6204.23.00 | --Of synthetic fibres | Free
 
 6204.29.00 | --Of other textile materials | 5%
 
@@ -13792,45 +13792,45 @@ but does not include other pants made of elastomeric fabric.
 
 6207.1 | -Underpants and briefs:
 
-6207.11.00 | --Of cotton | 5%
+6207.11.00 | --Of cotton | Free
 
-6207.19.00 | --Of other textile materials | 5%
+6207.19.00 | --Of other textile materials | Free
 
 6207.2 | -Nightshirts and pyjamas:
 
 6207.21.00 | --Of cotton | Free
 
-6207.22.00 | --Of man-made fibres | 5%
+6207.22.00 | --Of man-made fibres | Free
 
-6207.29.00 | --Of other textile materials | 5%
+6207.29.00 | --Of other textile materials | Free
 
 6207.9 | -Other:
 
-6207.91.00 | --Of cotton | 5%
+6207.91.00 | --Of cotton | Free
 
-6207.99.00 | --Of other textile materials | 5%
+6207.99.00 | --Of other textile materials | Free
 
 6208 | WOMEN’S OR GIRLS’ SINGLETS AND OTHER VESTS, SLIPS, PETTICOATS, BRIEFS, PANTIES, NIGHTDRESSES, PYJAMAS, NEGLIGES, BATHROBES, DRESSING GOWNS AND SIMILAR ARTICLES:
 
 6208.1 | -Slips and petticoats:
 
-6208.11.00 | --Of man-made fibres | 5%
+6208.11.00 | --Of man-made fibres | Free
 
-6208.19.00 | --Of other textile materials | 5%
+6208.19.00 | --Of other textile materials | Free
 
 6208.2 | -Nightdresses and pyjamas:
 
-6208.21.00 | --Of cotton | 5%
+6208.21.00 | --Of cotton | Free
 
-6208.22.00 | --Of man-made fibres | 5%
+6208.22.00 | --Of man-made fibres | Free
 
-6208.29.00 | --Of other textile materials | 5%
+6208.29.00 | --Of other textile materials | Free
 
 6208.9 | -Other:
 
-6208.91.00 | --Of cotton | 5%
+6208.91.00 | --Of cotton | Free
 
-6208.92.00 | --Of man-made fibres | 5%
+6208.92.00 | --Of man-made fibres | Free
 
 6208.99.00 | --Of other textile materials | 5%
 
@@ -13842,7 +13842,7 @@ but does not include other pants made of elastomeric fabric.
 
 6209.20.20 | ---Clothing accessories | Free
 
-6209.20.90 | ---Other | 5%
+6209.20.90 | ---Other | Free
 
 6209.30 | -Of synthetic fibres:
 
@@ -13850,7 +13850,7 @@ but does not include other pants made of elastomeric fabric.
 
 6209.30.20 | ---Clothing accessories | Free
 
-6209.30.90 | ---Other | 5%
+6209.30.90 | ---Other | Free
 
 6209.90 | -Of other textile materials:
 
@@ -13858,7 +13858,7 @@ but does not include other pants made of elastomeric fabric.
 
 6209.90.20 | ---Clothing accessories | Free
 
-6209.90.90 | ---Other | 5%
+6209.90.90 | ---Other | Free
 
 6210 | GARMENTS, MADE UP OF FABRICS OF 5602, 5603, 5903, 5906 OR 5907.00.00:
 
@@ -13874,11 +13874,11 @@ but does not include other pants made of elastomeric fabric.
 
 6210.40 | -Other men’s or boys’ garments:
 
-6210.40.10 | ---Anti-radiation suits, anti-contamination suits, and similar protective garments | 5%
+6210.40.10 | ---Anti-radiation suits, anti-contamination suits, and similar protective garments | Free
 
 6210.40.20 | ---Diving dress, wetsuits and similar garments | 5%
 
-6210.40.90 | ---Other | 5%
+6210.40.90 | ---Other | Free
 
 6210.50 | -Other women’s or girls’ garments:
 
@@ -13886,7 +13886,7 @@ but does not include other pants made of elastomeric fabric.
 
 6210.50.20 | ---Diving dress, wetsuits and similar garments | 5%
 
-6210.50.90 | ---Other | 5%
+6210.50.90 | ---Other | Free
 
 6211 | TRACK SUITS, SKI SUITS AND SWIMWEAR; OTHER GARMENTS:
 
@@ -13932,17 +13932,17 @@ but does not include other pants made of elastomeric fabric.
 
 6212.20.00 | -Girdles and panty-girdles | 5%
 
-6212.30.00 | -Corselettes | 5%
+6212.30.00 | -Corselettes | Free
 
 6212.90 | -Other:
 
-6212.90.10 | ---Goods, as follows: (a) corsets, body suits and the like; (b) parts of brassieres, other than: (i) adjustable shoulder straps; or (ii) brassiere back replacements, comprising elastic, textile fabric, hooks and eyes; (c) parts of corsets, girdles, panty-girdles, corselettes, body suits and the like | 5%
+6212.90.10 | ---Goods, as follows: (a) corsets, body suits and the like; (b) parts of brassieres, other than: (i) adjustable shoulder straps; or (ii) brassiere back replacements, comprising elastic, textile fabric, hooks and eyes; (c) parts of corsets, girdles, panty-girdles, corselettes, body suits and the like | Free
 
 6212.90.90 | ---Other | 5%
 
 6213 | HANDKERCHIEFS:
 
-6213.20.00 | -Of cotton | 5%
+6213.20.00 | -Of cotton | Free
 
 6213.90.00 | -Of other textile materials | 5%
 
@@ -13962,7 +13962,7 @@ but does not include other pants made of elastomeric fabric.
 
 6215.10.00 | -Of silk or silk waste | 5%
 
-6215.20.00 | -Of man-made fibres | 5%
+6215.20.00 | -Of man-made fibres | Free
 
 6215.90.00 | -Of other textile materials | 5%
 
@@ -14036,17 +14036,17 @@ Subheading Note.
 
 6301.30.90 | ---Other | 5%
 
-6301.40.00 | -Blankets (other than electric blankets) and travelling rugs, of synthetic fibres | 5%
+6301.40.00 | -Blankets (other than electric blankets) and travelling rugs, of synthetic fibres | Free
 
 6301.90 | -Other blankets and travelling rugs:
 
 6301.90.10 | ---Goods, weighing 339 g/m2 or more, of 100% viscose fibre | Free
 
-6301.90.90 | ---Other | 5%
+6301.90.90 | ---Other | Free
 
 6302 | BED LINEN, TABLE LINEN, TOILET LINEN AND KITCHEN LINEN:
 
-6302.10.00 | -Bed linen, knitted or crocheted | 5%
+6302.10.00 | -Bed linen, knitted or crocheted | Free
 
 6302.2 | -Other bed linen, printed:
 
@@ -14064,7 +14064,7 @@ Subheading Note.
 
 6302.39.00 | --Of other textile materials | 5%
 
-6302.40.00 | -Table linen, knitted or crocheted | 5%
+6302.40.00 | -Table linen, knitted or crocheted | Free
 
 6302.5 | -Other table linen:
 
@@ -14072,9 +14072,9 @@ Subheading Note.
 
 6302.51.10 | ---Hand-embroidered or hand-appliqued | Free
 
-6302.51.90 | ---Other | 5%
+6302.51.90 | ---Other | Free
 
-6302.53.00 | --Of man-made fibres | 5%
+6302.53.00 | --Of man-made fibres | Free
 
 6302.59.00 | --Of other textile materials | 5%
 
@@ -14090,7 +14090,7 @@ Subheading Note.
 
 6302.91.90 | ---Other | 5%
 
-6302.93.00 | --Of man-made fibres | 5%
+6302.93.00 | --Of man-made fibres | Free
 
 6302.99 | --Of other textile materials:
 
@@ -14104,7 +14104,7 @@ Subheading Note.
 
 6303.12 | --Of synthetic fibres:
 
-6303.12.10 | ---Curtains | 5%
+6303.12.10 | ---Curtains | Free
 
 6303.12.90 | ---Other | 5%
 
@@ -14112,19 +14112,19 @@ Subheading Note.
 
 6303.19.10 | ---Curtains | 5%
 
-6303.19.90 | ---Other | 5%
+6303.19.90 | ---Other | Free
 
 6303.9 | -Other:
 
 6303.91 | --Of cotton:
 
-6303.91.10 | ---Goods, as follows: (a) bed valances (ruffles); (b) curtains | 5%
+6303.91.10 | ---Goods, as follows: (a) bed valances (ruffles); (b) curtains | Free
 
 6303.91.90 | ---Other | 5%
 
 6303.92 | --Of synthetic fibres:
 
-6303.92.10 | ---Goods, as follows: (a) bed valances (ruffles); (b) curtains | 5%
+6303.92.10 | ---Goods, as follows: (a) bed valances (ruffles); (b) curtains | Free
 
 6303.92.90 | ---Other | 5%
 
@@ -14138,23 +14138,23 @@ Subheading Note.
 
 6304.1 | -Bedspreads:
 
-6304.11.00 | --Knitted or crocheted | 5%
+6304.11.00 | --Knitted or crocheted | Free
 
 6304.19 | --Other:
 
-6304.19.10 | ---Bedspreads, as follows: (a) alhambra; (b) dimity; (c) grecian; (d) honeycomb; (e) marcella | 5%
+6304.19.10 | ---Bedspreads, as follows: (a) alhambra; (b) dimity; (c) grecian; (d) honeycomb; (e) marcella | Free
 
-6304.19.90 | ---Other | 5%
+6304.19.90 | ---Other | Free
 
 6304.20.00 | -Bed nets specified in Subheading Note 1 to this Chapter | 5%
 
 6304.9 | -Other:
 
-6304.91.00 | --Knitted or crocheted | 5%
+6304.91.00 | --Knitted or crocheted | Free
 
-6304.92.00 | --Not knitted or crocheted, of cotton | 5%
+6304.92.00 | --Not knitted or crocheted, of cotton | Free
 
-6304.93.00 | --Not knitted or crocheted, of synthetic fibres | 5%
+6304.93.00 | --Not knitted or crocheted, of synthetic fibres | Free
 
 6304.99.00 | --Not knitted or crocheted, of other textile materials | 5%
 
@@ -14178,7 +14178,7 @@ Subheading Note.
 
 6305.39.10 | ---Woolpacks | Free
 
-6305.39.90 | ---Other | 5%
+6305.39.90 | ---Other | Free
 
 6305.90.00 | -Of other textile materials | Free
 
@@ -14188,19 +14188,19 @@ Subheading Note.
 
 6306.12.00 | --Of synthetic fibres | 5%
 
-6306.19.00 | --Of other textile materials | 5%
+6306.19.00 | --Of other textile materials | Free
 
 6306.2 | -Tents (including temporary canopies and similar articles):
 
 6306.22.00 | --Of synthetic fibres | 5% CA:Free
 
-6306.29.00 | --Of other textile materials | 5% CA:Free
+6306.29.00 | --Of other textile materials | Free
 
 6306.30.00 | -Sails | 5%
 
 6306.40.00 | -Pneumatic mattresses | Free
 
-6306.90.00 | -Other | 5%
+6306.90.00 | -Other | Free
 
 6307 | OTHER MADE UP ARTICLES, INCLUDING DRESS PATTERNS:
 
@@ -14214,7 +14214,7 @@ Subheading Note.
 
 6307.10.90 | ---Other | 5%
 
-6307.20.00 | -Life-jackets and life-belts | 5%
+6307.20.00 | -Life-jackets and life-belts | Free
 
 6307.90 | -Other:
 
@@ -14222,11 +14222,11 @@ Subheading Note.
 
 6307.90.2 | ---Knitted or crocheted articles, NSA:
 
-6307.90.21 | ----Ornamental trimmings in the piece | 5%
+6307.90.21 | ----Ornamental trimmings in the piece | Free
 
 6307.90.29 | ----Other | 5%
 
-6307.90.30 | ---Articles of felt | 5% CA:Free
+6307.90.30 | ---Articles of felt | Free
 
 6307.90.40 | ---Nonwovens | 5%
 
@@ -14302,7 +14302,7 @@ Subheading Note.
 
 6401.92.10 | ---Footwear of a kind used solely or principally in conjunction with diving dress or wetsuits; ski-boots, cross-country ski footwear and snowboard boots | Free
 
-6401.92.90 | ---Other | 5%
+6401.92.90 | ---Other | Free
 
 6401.99 | --Other:
 
@@ -14318,7 +14318,7 @@ Subheading Note.
 
 6402.12.00 | --Ski-boots, cross-country ski footwear and snowboard boots | Free
 
-6402.19.00 | --Other | 5%
+6402.19.00 | --Other | Free
 
 6402.20.00 | -Footwear with upper straps or thongs assembled to the sole by means of plugs | 5%
 
@@ -14440,7 +14440,7 @@ Notes.
 
 6506.91 | --Of rubber or of plastics:
 
-6506.91.10 | ---Of a kind used solely or principally with diving dress or wetsuits | 5%
+6506.91.10 | ---Of a kind used solely or principally with diving dress or wetsuits | Free
 
 6506.91.90 | ---Other | Free
 
@@ -14474,7 +14474,7 @@ Notes.
 
 6601.91.00 | --Having a telescopic shaft | Free
 
-6601.99.00 | --Other | 5%
+6601.99.00 | --Other | Free
 
 6602.00.00 | WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS, AND THE LIKE | Free
 
@@ -14584,7 +14584,7 @@ Notes.
 
 6802.21.00 | --Marble, travertine and alabaster | 5% DCS:4% DCT:5%
 
-6802.23.00 | --Granite | 5% DCS:4% DCT:5%
+6802.23.00 | --Granite | Free
 
 6802.29.00 | --Other stone | Free
 
@@ -14630,13 +14630,13 @@ Notes.
 
 6806.90 | -Other:
 
-6806.90.10 | ---Of a kind used as components in passenger motor vehicles | 5%
+6806.90.10 | ---Of a kind used as components in passenger motor vehicles | Free
 
 6806.90.90 | ---Other | 5% DCS:4% DCT:5%
 
 6807 | ARTICLES OF ASPHALT OR OF SIMILAR MATERIAL (FOR EXAMPLE, PETROLEUM BITUMEN OR COAL TAR PITCH):
 
-6807.10.00 | -In rolls | 5% DCS:4% DCT:5%
+6807.10.00 | -In rolls | Free
 
 6807.90.00 | -Other | Free
 
@@ -14650,19 +14650,19 @@ Notes.
 
 6809.19.00 | --Other | 5% DCS:4% DCT:5%
 
-6809.90.00 | -Other articles | 5% DCS:4% DCT:5%
+6809.90.00 | -Other articles | Free
 
 6810 | ARTICLES OF CEMENT, OF CONCRETE OR OF ARTIFICIAL STONE, WHETHER OR NOT REINFORCED:
 
 6810.1 | -Tiles, flagstones, bricks and similar articles:
 
-6810.11.00 | --Building blocks and bricks | 5% DCS:4% DCT:5%
+6810.11.00 | --Building blocks and bricks | Free
 
 6810.19.00 | --Other | 5% DCS:4% DCT:5%
 
 6810.9 | -Other articles:
 
-6810.91.00 | --Prefabricated structural components for building or civil engineering | 5% DCS:4% DCT:5%
+6810.91.00 | --Prefabricated structural components for building or civil engineering | Free
 
 6810.99.00 | --Other | 5% DCS:4% DCT:5%
 
@@ -14676,7 +14676,7 @@ Notes.
 
 6811.82.00 | --Other sheets, panels, tiles and similar articles | 5% DCS:4% DCT:5%
 
-6811.89.00 | --Other articles | 5% DCS:4% DCT:5%
+6811.89.00 | --Other articles | Free
 
 6812 | FABRICATED ASBESTOS FIBRES; MIXTURES WITH A BASIS OF ASBESTOS OR WITH A BASIS OF ASBESTOS AND MAGNESIUM CARBONATE; ARTICLES OF SUCH MIXTURES OR OF ASBESTOS (FOR EXAMPLE, THREAD, WOVEN FABRIC, CLOTHING, HEADGEAR, FOOTWEAR, GASKETS), WHETHER OR NOT REINFORCED, OTHER THAN GOODS OF 6811 OR 6813:
 
@@ -14704,7 +14704,7 @@ Notes.
 
 6813.20 | -Containing asbestos:
 
-6813.20.10 | ---Of a kind used as components in passenger motor vehicles | 5% CA:Free
+6813.20.10 | ---Of a kind used as components in passenger motor vehicles | Free
 
 6813.20.90 | ---Other | 5% CA:Free
 
@@ -14724,7 +14724,7 @@ Notes.
 
 6814 | WORKED MICA AND ARTICLES OF MICA, INCLUDING AGGLOMERATED OR RECONSTITUTED MICA, WHETHER OR NOT ON A SUPPORT OF PAPER, PAPERBOARD OR OTHER MATERIALS:
 
-6814.10.00 | -Plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support | 5% DCS:4% DCT:5%
+6814.10.00 | -Plates, sheets and strips of agglomerated or reconstituted mica, whether or not on a support | Free
 
 6814.90.00 | -Other | 5% DCS:4% DCT:5%
 
@@ -14802,7 +14802,7 @@ Notes.
 
 6903.10.00 | -Containing by weight more than 50% of free carbon | 5% DCS:4% DCT:5%
 
-6903.20.00 | -Containing by weight more than 50% of alumina (Al2O3) or of a mixture or compound of alumina and of silica (SiO2) | 5% DCS:4% DCT:5%
+6903.20.00 | -Containing by weight more than 50% of alumina (Al2O3) or of a mixture or compound of alumina and of silica (SiO2) | Free
 
 6903.90.00 | -Other | 5% DCS:4% DCT:5%
 
@@ -14818,7 +14818,7 @@ Notes.
 
 6905.10.00 | -Roofing tiles | 5% DCS:4% DCT:5%
 
-6905.90.00 | -Other | 5% DCS:4% DCT:5%
+6905.90.00 | -Other | Free
 
 6906.00.00 | CERAMIC PIPES, CONDUITS, GUTTERING AND PIPE FITTINGS | Free
 
@@ -14848,7 +14848,7 @@ Notes.
 
 6907.30.10 | ---Tiles, cubes and similar articles, whether or not rectangular, the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm | Free
 
-6907.30.90 | ---Other | 5% DCS:4% DCT:5%
+6907.30.90 | ---Other | Free
 
 6907.40 | -Finishing ceramics:
 
@@ -14968,7 +14968,7 @@ Subheading Note.
 
 7003.20.00 | -Wired sheets | Free
 
-7003.30.00 | -Profiles | 5% DCS:4% DCT:5%
+7003.30.00 | -Profiles | Free
 
 7004 | DRAWN GLASS AND BLOWN GLASS, IN SHEETS, WHETHER OR NOT HAVING AN ABSORBENT, REFLECTING OR NON-REFLECTING LAYER, BUT NOT OTHERWISE WORKED:
 
@@ -14982,7 +14982,7 @@ Subheading Note.
 
 7005.2 | -Other non-wired glass:
 
-7005.21.00 | --Coloured throughout the mass (body tinted), opacified, flashed or merely surface ground | 5% DCS:4% DCT:5%
+7005.21.00 | --Coloured throughout the mass (body tinted), opacified, flashed or merely surface ground | Free
 
 7005.29.00 | --Other | 5% DCS:4% DCT:5%
 
@@ -15004,7 +15004,7 @@ Subheading Note.
 
 7007.11.90 | ---Other | 5% DCS:4% DCT:5%
 
-7007.19.00 | --Other | 5% DCS:4% DCT:5%
+7007.19.00 | --Other | Free
 
 7007.2 | -Laminated safety glass:
 
@@ -15032,7 +15032,7 @@ Subheading Note.
 
 7009.9 | -Other:
 
-7009.91.00 | --Unframed | 5% DCS:4% DCT:5%
+7009.91.00 | --Unframed | Free
 
 7009.92.00 | --Framed | 5% DCS:4% DCT:5%
 
@@ -15064,7 +15064,7 @@ Subheading Note.
 
 7013.22.00 | --Of lead crystal | Free
 
-7013.28.00 | --Other | 5% DCS:4% DCT:5%
+7013.28.00 | --Other | Free
 
 7013.3 | -Other drinking glasses, other than of glass-ceramics:
 
@@ -15076,7 +15076,7 @@ Subheading Note.
 
 7013.41.00 | --Of lead crystal | Free
 
-7013.42.00 | --Of glass having a linear coefficient of expansion not exceeding 5 x 10-6 per Kelvin within a temperature range of 0 ºC to 300 ºC | 5% DCS:4% DCT:5%
+7013.42.00 | --Of glass having a linear coefficient of expansion not exceeding 5 x 10-6 per Kelvin within a temperature range of 0 ºC to 300 ºC | Free
 
 7013.49.00 | --Other | 5% DCS:4% DCT:5%
 
@@ -15120,7 +15120,7 @@ Subheading Note.
 
 7018.10.00 | -Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares | Free
 
-7018.20.00 | -Glass microspheres not exceeding 1 mm in diameter | 5% DCS:4% DCT:5%
+7018.20.00 | -Glass microspheres not exceeding 1 mm in diameter | Free
 
 7018.90.00 | -Other | Free
 
@@ -15142,17 +15142,17 @@ Subheading Note.
 
 7019.6 | -Mechanically bonded fabrics:
 
-7019.61.00 | --Closed woven fabrics of rovings | 5%
+7019.61.00 | --Closed woven fabrics of rovings | Free
 
 7019.62.00 | --Other closed fabrics of rovings | 5%
 
 7019.63.00 | --Closed woven fabrics, plain weave, of yarns, not coated or laminated | 5%
 
-7019.64.00 | --Closed woven fabrics, plain weave, of yarns, coated or laminated | 5%
+7019.64.00 | --Closed woven fabrics, plain weave, of yarns, coated or laminated | Free
 
 7019.65.00 | --Open woven fabrics of a width not exceeding 30 cm | 5%
 
-7019.66.00 | --Open woven fabrics of a width exceeding 30 cm | 5%
+7019.66.00 | --Open woven fabrics of a width exceeding 30 cm | Free
 
 7019.69.00 | --Other | 5%
 
@@ -15160,7 +15160,7 @@ Subheading Note.
 
 7019.71.00 | --Veils (thin sheets) | Free
 
-7019.72.00 | --Other closed fabrics | 5%
+7019.72.00 | --Other closed fabrics | Free
 
 7019.73.00 | --Other open fabrics | Free
 
@@ -15430,7 +15430,7 @@ Subheading Notes.
 
 7117.1 | -Of base metal, whether or not plated with precious metal:
 
-7117.11.00 | --Cuff-links and studs | 5%
+7117.11.00 | --Cuff-links and studs | Free
 
 7117.19.00 | --Other | 5%
 
@@ -16764,11 +16764,11 @@ Alloys of copper and nickel, with or without other elements but in any case cont
 
 7407 | COPPER BARS, RODS AND PROFILES:
 
-7407.10.00 | -Of refined copper | 5% DCS:4% DCT:5%
+7407.10.00 | -Of refined copper | Free
 
 7407.2 | -Of copper alloys:
 
-7407.21.00 | --Of copper-zinc base alloys (brass) | 5% DCS:4% DCT:5%
+7407.21.00 | --Of copper-zinc base alloys (brass) | Free
 
 7407.29.00 | --Other | 5% DCS:4% DCT:5%
 
@@ -16776,55 +16776,55 @@ Alloys of copper and nickel, with or without other elements but in any case cont
 
 7408.1 | -Of refined copper:
 
-7408.11.00 | --Of which the maximum cross-sectional dimension exceeds 6 mm | 5% DCS:4% DCT:5%
+7408.11.00 | --Of which the maximum cross-sectional dimension exceeds 6 mm | Free
 
 7408.19.00 | --Other | 5% DCS:4% DCT:5%
 
 7408.2 | -Of copper alloys:
 
-7408.21.00 | --Of copper-zinc base alloys (brass) | 5% DCS:4% DCT:5%
+7408.21.00 | --Of copper-zinc base alloys (brass) | Free
 
 7408.22.00 | --Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver) | 5% DCS:4% DCT:5%
 
-7408.29.00 | --Other | 5% DCS:4% DCT:5%
+7408.29.00 | --Other | Free
 
 7409 | COPPER PLATES, SHEETS AND STRIP, OF A THICKNESS EXCEEDING 0.15 mm:
 
 7409.1 | -Of refined copper:
 
-7409.11.00 | --In coils | 5% DCS:4% DCT:5%
+7409.11.00 | --In coils | Free
 
-7409.19.00 | --Other | 5% DCS:4% DCT:5%
+7409.19.00 | --Other | Free
 
 7409.2 | -Of copper-zinc base alloys (brass):
 
-7409.21.00 | --In coils | 5% DCS:4% DCT:5%
+7409.21.00 | --In coils | Free
 
 7409.29.00 | --Other | 5% DCS:4% DCT:5%
 
 7409.3 | -Of copper-tin base alloys (bronze):
 
-7409.31.00 | --In coils | 5% DCS:4% DCT:5%
+7409.31.00 | --In coils | Free
 
-7409.39.00 | --Other | 5% DCS:4% DCT:5%
+7409.39.00 | --Other | Free
 
-7409.40.00 | -Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver) | 5% DCS:4% DCT:5%
+7409.40.00 | -Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver) | Free
 
-7409.90.00 | -Of other copper alloys | 5% DCS:4% DCT:5%
+7409.90.00 | -Of other copper alloys | Free
 
 7410 | COPPER FOIL (WHETHER OR NOT PRINTED OR BACKED WITH PAPER, PAPERBOARD, PLASTICS OR SIMILAR BACKING MATERIALS), OF A THICKNESS (EXCLUDING ANY BACKING) NOT EXCEEDING 0.15 mm:
 
 7410.1 | -Not backed:
 
-7410.11.00 | --Of refined copper | 5% DCS:4% DCT:5%
+7410.11.00 | --Of refined copper | Free
 
-7410.12.00 | --Of copper alloys | 5% DCS:4% DCT:5%
+7410.12.00 | --Of copper alloys | Free
 
 7410.2 | -Backed:
 
 7410.21.00 | --Of refined copper | 5% DCS:4% DCT:5%
 
-7410.22.00 | --Of copper alloys | 5% DCS:4% DCT:5%
+7410.22.00 | --Of copper alloys | Free
 
 7411 | COPPER TUBES AND PIPES:
 
@@ -17446,11 +17446,11 @@ Heads, blades and cutting plates for electric shavers or electric hair clippers 
 
 8201 | HAND TOOLS, THE FOLLOWING: SPADES, SHOVELS, MATTOCKS, PICKS, HOES, FORKS AND RAKES; AXES, BILL HOOKS AND SIMILAR HEWING TOOLS; SECATEURS AND PRUNERS OF ANY KIND; SCYTHES, SICKLES, HAY KNIVES, HEDGE SHEARS, TIMBER WEDGES AND OTHER TOOLS OF A KIND USED IN AGRICULTURE, HORTICULTURE OR FORESTRY:
 
-8201.10.00 | -Spades and shovels | 5%
+8201.10.00 | -Spades and shovels | Free
 
 8201.30.00 | -Mattocks, picks, hoes and rakes | Free
 
-8201.40.00 | -Axes, bill hooks and similar hewing tools | 5%
+8201.40.00 | -Axes, bill hooks and similar hewing tools | Free
 
 8201.50.00 | -Secateurs and similar one-handed pruners and shears (including poultry shears) | Free
 
@@ -17474,7 +17474,7 @@ Heads, blades and cutting plates for electric shavers or electric hair clippers 
 
 8202.9 | -Other saw blades:
 
-8202.91.00 | --Straight saw blades, for working metal | 5%
+8202.91.00 | --Straight saw blades, for working metal | Free
 
 8202.99.00 | --Other | 5%
 
@@ -17504,7 +17504,7 @@ Heads, blades and cutting plates for electric shavers or electric hair clippers 
 
 8205.20.00 | -Hammers and sledge hammers | Free
 
-8205.30.00 | -Planes, chisels, gouges and similar cutting tools for working wood | 5%
+8205.30.00 | -Planes, chisels, gouges and similar cutting tools for working wood | Free
 
 8205.40.00 | -Screwdrivers | Free
 
@@ -17530,7 +17530,7 @@ Heads, blades and cutting plates for electric shavers or electric hair clippers 
 
 8207.19.00 | --Other, including parts | 5% DCS:4% CA:Free DCT:5%
 
-8207.20.00 | -Dies for drawing or extruding metal | 5%
+8207.20.00 | -Dies for drawing or extruding metal | Free
 
 8207.30.00 | -Tools for pressing, stamping or punching | 5%
 
@@ -17584,7 +17584,7 @@ Heads, blades and cutting plates for electric shavers or electric hair clippers 
 
 8211.94 | --Blades:
 
-8211.94.10 | ---For table knives, kitchen knives, butchers’ knives and slaughtermen’s knives | 5%
+8211.94.10 | ---For table knives, kitchen knives, butchers’ knives and slaughtermen’s knives | Free
 
 8211.94.90 | ---Other | 5% DCS:Free
 
@@ -17622,7 +17622,7 @@ Heads, blades and cutting plates for electric shavers or electric hair clippers 
 
 8215.91.00 | --Plated with precious metal | 5%
 
-8215.99.00 | --Other | 5%
+8215.99.00 | --Other | Free
 
 ## Chapter 83—Miscellaneous articles of base metal
 
@@ -17674,13 +17674,13 @@ Additional Note.
 
 8303.00.00 | ARMOURED OR REINFORCED SAFES, STRONG-BOXES AND DOORS AND SAFE DEPOSIT LOCKERS FOR STRONG-ROOMS, CASH OR DEED BOXES AND THE LIKE, OF BASE METAL | 5%
 
-8304.00.00 | FILING CABINETS, CARD-INDEX CABINETS, PAPER TRAYS, PAPER RESTS, PEN TRAYS, OFFICE-STAMP STANDS AND SIMILAR OFFICE OR DESK EQUIPMENT, OF BASE METAL, OTHER THAN OFFICE FURNITURE OF 9403 | 5%
+8304.00.00 | FILING CABINETS, CARD-INDEX CABINETS, PAPER TRAYS, PAPER RESTS, PEN TRAYS, OFFICE-STAMP STANDS AND SIMILAR OFFICE OR DESK EQUIPMENT, OF BASE METAL, OTHER THAN OFFICE FURNITURE OF 9403 | Free
 
 8305 | FITTINGS FOR LOOSE-LEAF BINDERS OR FILES, LETTER CLIPS, LETTER CORNERS, PAPER CLIPS, INDEXING TAGS AND SIMILAR OFFICE ARTICLES, OF BASE METAL; STAPLES IN STRIPS (FOR EXAMPLE, FOR OFFICES, UPHOLSTERY, PACKAGING), OF BASE METAL:
 
 8305.10.00 | -Fittings for loose-leaf binders or files | Free
 
-8305.20.00 | -Staples in strips | 5%
+8305.20.00 | -Staples in strips | Free
 
 8305.90.00 | -Other, including parts | Free
 
@@ -17694,7 +17694,7 @@ Additional Note.
 
 8306.29.00 | --Other | 5%
 
-8306.30.00 | -Photograph, picture or similar frames; mirrors | 5%
+8306.30.00 | -Photograph, picture or similar frames; mirrors | Free
 
 8307 | FLEXIBLE TUBING OF BASE METAL, WITH OR WITHOUT FITTINGS:
 
@@ -17706,7 +17706,7 @@ Additional Note.
 
 8308.10.00 | -Hooks, eyes and eyelets | 5%
 
-8308.20.00 | -Tubular or bifurcated rivets | 5%
+8308.20.00 | -Tubular or bifurcated rivets | Free
 
 8308.90.00 | -Other, including parts | 5%
 
@@ -17722,7 +17722,7 @@ Additional Note.
 
 8311.10.00 | -Coated electrodes of base metal, for electric arc-welding | 5% DCS:4% DCT:5%
 
-8311.20.00 | -Cored wire of base metal, for electric arc-welding | 5% DCS:4% DCT:5%
+8311.20.00 | -Cored wire of base metal, for electric arc-welding | Free
 
 8311.30.00 | -Coated rods and cored wire, of base metal, for soldering, brazing or welding by flame | 5% DCS:4% DCT:5%
 
@@ -17984,7 +17984,7 @@ Additional Notes.
 
 8404 | AUXILIARY PLANT FOR USE WITH BOILERS OF 8402 OR 8403 (FOR EXAMPLE, ECONOMISERS, SUPER-HEATERS, SOOT REMOVERS, GAS RECOVERERS); CONDENSERS FOR STEAM OR OTHER VAPOUR POWER UNITS:
 
-8404.10.00 | -Auxiliary plant for use with boilers of 8402 or 8403 | 5% CA:Free
+8404.10.00 | -Auxiliary plant for use with boilers of 8402 or 8403 | Free
 
 8404.20.00 | -Condensers for steam or other vapour power units | Free
 
@@ -18090,7 +18090,7 @@ Additional Notes.
 
 8410.13.00 | --Of a power exceeding 10 000 kW | Free
 
-8410.90.00 | -Parts, including regulators | 5%
+8410.90.00 | -Parts, including regulators | Free
 
 8411 | TURBO-JETS, TURBO-PROPELLERS AND OTHER GAS TURBINES:
 
@@ -18240,7 +18240,7 @@ Additional Notes.
 
 8414.70 | -Gas-tight biological safety cabinets:
 
-8414.70.10 | ---With hoods having a maximum horizontal side not exceeding 120 cm | 5%
+8414.70.10 | ---With hoods having a maximum horizontal side not exceeding 120 cm | Free
 
 8414.70.20 | ---Fitted with filters, other than goods with a stainless steel housing, and with inlet and outlet tube bores with inside diameters exceeding 1.3 cm | Free
 
@@ -18256,7 +18256,7 @@ Additional Notes.
 
 8414.80.20 | ---Reciprocating or rotary air compressors or pumps, having a capacity exceeding 3 m3 but not exceeding 25 m3 of free air delivered per minute | 5% DCS:4% DCT:5%
 
-8414.80.30 | ---Electro-mechanical tools for working in the hand, with self-contained electric motor, NSA | 5%
+8414.80.30 | ---Electro-mechanical tools for working in the hand, with self-contained electric motor, NSA | Free
 
 8414.80.90 | ---Other | Free
 
@@ -18276,7 +18276,7 @@ Additional Notes.
 
 8415.8 | -Other:
 
-8415.81.00 | --Incorporating a refrigerating unit and a valve for reversal of the cooling/heat cycle (reversible heat pumps) | 5%
+8415.81.00 | --Incorporating a refrigerating unit and a valve for reversal of the cooling/heat cycle (reversible heat pumps) | Free
 
 8415.82.00 | --Other, incorporating a refrigerating unit | 5%
 
@@ -18310,9 +18310,9 @@ Additional Notes.
 
 8418.2 | -Refrigerators, household type:
 
-8418.21.00 | --Compression-type | 5%
+8418.21.00 | --Compression-type | Free
 
-8418.29.00 | --Other | 5%
+8418.29.00 | --Other | Free
 
 8418.30.00 | -Freezers of the chest type, not exceeding 800 L capacity | Free
 
@@ -18348,7 +18348,7 @@ Additional Notes.
 
 8419.33.00 | --Lyophilisation apparatus, freeze drying units and spray dryers | Free
 
-8419.34.00 | --Other, for agricultural products | 5% DCS:4% DCT:5%
+8419.34.00 | --Other, for agricultural products | Free
 
 8419.35.00 | --Other, for wood, paper pulp, paper or paperboard | Free
 
@@ -18458,7 +18458,7 @@ Additional Notes.
 
 8422.30 | -Machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; machinery for aerating beverages:
 
-8422.30.10 | ---Electro-mechanical tools for working in the hand, with self-contained electric motor | 5%
+8422.30.10 | ---Electro-mechanical tools for working in the hand, with self-contained electric motor | Free
 
 8422.30.90 | ---Other | 5% DCS:4% DCT:5%
 
@@ -18540,7 +18540,7 @@ Additional Notes.
 
 8424.89.20 | ---Mechanical appliances for projecting, dispersing or spraying of a kind used solely or principally for the manufacture of printed circuits or printed circuit assemblies | Free
 
-8424.89.40 | ---Electro-mechanical tools for working in the hand, with self-contained electric motor | 5%
+8424.89.40 | ---Electro-mechanical tools for working in the hand, with self-contained electric motor | Free
 
 8424.89.90 | ---Other | 5% DCS:4% DCT:5%
 
@@ -18586,7 +18586,7 @@ Additional Notes.
 
 8426.20.00 | -Tower cranes | 5%
 
-8426.30.00 | -Portal or pedestal jib cranes | 5%
+8426.30.00 | -Portal or pedestal jib cranes | Free
 
 8426.4 | -Other machinery, self-propelled:
 
@@ -18618,7 +18618,7 @@ Additional Notes.
 
 8428.31.00 | --Specially designed for underground use | 5%
 
-8428.32.00 | --Other, bucket type | 5%
+8428.32.00 | --Other, bucket type | Free
 
 8428.33.00 | --Other, belt type | 5%
 
@@ -18626,7 +18626,7 @@ Additional Notes.
 
 8428.40.00 | -Escalators and moving walkways | Free
 
-8428.60.00 | -Teleferics, chair-lifts, ski-draglines; traction mechanisms for funiculars | 5%
+8428.60.00 | -Teleferics, chair-lifts, ski-draglines; traction mechanisms for funiculars | Free
 
 8428.70.00 | -Industrial robots | 5%
 
@@ -18640,7 +18640,7 @@ Additional Notes.
 
 8429.19.00 | --Other | Free
 
-8429.20.00 | -Graders and levellers | 5%
+8429.20.00 | -Graders and levellers | Free
 
 8429.30.00 | -Scrapers | Free
 
@@ -18652,19 +18652,19 @@ Additional Notes.
 
 8429.51.10 | ---Goods, as follows: (a) track laying; (b) underground loaders having a payload capacity exceeding 16 t | Free
 
-8429.51.90 | ---Other | 5%
+8429.51.90 | ---Other | Free
 
 8429.52 | --Machinery with a 360o revolving superstructure:
 
 8429.52.10 | ---Goods, as follows: (a) electric walking draglines; (b) excavators of the track laying or wheeled type having an operating weight exceeding 12 t; (c) mechanical shovels having a shovel capacity exceeding 5 m3 | Free
 
-8429.52.90 | ---Other | 5%
+8429.52.90 | ---Other | Free
 
 8429.59 | --Other:
 
 8429.59.10 | ---Mechanical shovels having a shovel capacity exceeding 5 m3 | Free
 
-8429.59.90 | ---Other | 5%
+8429.59.90 | ---Other | Free
 
 8430 | OTHER MOVING, GRADING, LEVELLING, SCRAPING, EXCAVATING, TAMPING, COMPACTING, EXTRACTING OR BORING MACHINERY, FOR EARTH, MINERALS OR ORES; PILE-DRIVERS AND PILE-EXTRACTORS; SNOW-PLOUGHS AND SNOW-BLOWERS:
 
@@ -18894,7 +18894,7 @@ Additional Notes.
 
 8441.80 | -Other machinery:
 
-8441.80.10 | ---Rewinders | 5% DCS:4% DCT:5%
+8441.80.10 | ---Rewinders | Free
 
 8441.80.90 | ---Other | Free
 
@@ -18932,7 +18932,7 @@ Additional Notes.
 
 8443.19 | --Other:
 
-8443.19.10 | ---Hot stamping machines | 5% DCS:4% CA:Free DCT:5%
+8443.19.10 | ---Hot stamping machines | Free
 
 8443.19.90 | ---Other | Free
 
@@ -19056,7 +19056,7 @@ Additional Notes.
 
 8451.21.00 | --Each of a dry linen capacity not exceeding 10 kg | Free
 
-8451.29.00 | --Other | 5% DCS:4% DCT:5%
+8451.29.00 | --Other | Free
 
 8451.30.00 | -Ironing machines and presses (including fusing presses) | Free
 
@@ -19094,7 +19094,7 @@ Additional Notes.
 
 8454 | CONVERTERS, LADLES, INGOT MOULDS AND CASTING MACHINES, OF A KIND USED IN METALLURGY OR IN METAL FOUNDRIES:
 
-8454.10.00 | -Converters | 5% DCS:4% CA:Free DCT:5%
+8454.10.00 | -Converters | Free
 
 8454.20.00 | -Ingot moulds and ladles | Free
 
@@ -19280,7 +19280,7 @@ Additional Notes.
 
 8462.29.10 | ---Power operated | Free
 
-8462.29.90 | ---Other | 5%
+8462.29.90 | ---Other | Free
 
 8462.3 | -Slitting lines, cut-to-length lines and other shearing machines (excluding presses) for flat products, other than combined punching and shearing machines:
 
@@ -19308,7 +19308,7 @@ Additional Notes.
 
 8462.49.20 | ---Nibbling machines | Free
 
-8462.49.90 | ---Other | 5%
+8462.49.90 | ---Other | Free
 
 8462.5 | -Machines for working tube, pipe, hollow section and bar (excluding presses):
 
@@ -19326,7 +19326,7 @@ Additional Notes.
 
 8462.61.10 | ---Numerically controlled or power operated | Free
 
-8462.61.90 | ---Other | 5%
+8462.61.90 | ---Other | Free
 
 8462.62 | --Mechanical presses:
 
@@ -19464,7 +19464,7 @@ Additional Notes.
 
 8468.20.90 | ---Other | 5% DCS:4% DCT:5%
 
-8468.80.00 | -Other machinery and apparatus | 5% DCS:4% DCT:5%
+8468.80.00 | -Other machinery and apparatus | Free
 
 8468.90.00 | -Parts | 5% DCS:4% DCT:5%
 
@@ -19570,7 +19570,7 @@ Additional Notes.
 
 8476.21.00 | --Incorporating heating or refrigerating devices | Free
 
-8476.29.00 | --Other | 5% DCS:4% DCT:5%
+8476.29.00 | --Other | Free
 
 8476.8 | -Other machines:
 
@@ -19580,7 +19580,7 @@ Additional Notes.
 
 8476.89.10 | ---Money-changing machines | Free
 
-8476.89.90 | ---Other | 5% DCS:4% DCT:5%
+8476.89.90 | ---Other | Free
 
 8476.90 | -Parts:
 
@@ -19632,7 +19632,7 @@ Additional Notes.
 
 8479.50.10 | ---Of a kind used for treating metal | Free
 
-8479.50.20 | ---Of a kind used for mixing, kneading, crushing, grinding, screening, sifting, homogenising, emulsifying or stirring | 5% DCS:4% DCT:5%
+8479.50.20 | ---Of a kind used for mixing, kneading, crushing, grinding, screening, sifting, homogenising, emulsifying or stirring | Free
 
 8479.50.90 | ---Other | 5%
 
@@ -19682,9 +19682,9 @@ Additional Notes.
 
 8480.4 | -Moulds for metal or metal carbides:
 
-8480.41.00 | --Injection or compression types | 5% DCS:4% DCT:5%
+8480.41.00 | --Injection or compression types | Free
 
-8480.49.00 | --Other | 5% DCS:4% DCT:5%
+8480.49.00 | --Other | Free
 
 8480.50.00 | -Moulds for glass | Free
 
@@ -19770,7 +19770,7 @@ Additional Notes.
 
 8483.10.9 | ---Other:
 
-8483.10.91 | ----Of a kind used as components in passenger motor vehicles | 5% CA:Free
+8483.10.91 | ----Of a kind used as components in passenger motor vehicles | Free
 
 8483.10.99 | ----Other | 5% CA:Free
 
@@ -19842,7 +19842,7 @@ Additional Notes.
 
 8485.80.10 | ---By paper pulp, paper or paperboard deposit | Free
 
-8485.80.90 | ---Other | 5%
+8485.80.90 | ---Other | Free
 
 8485.90 | -Parts:
 
@@ -20094,7 +20094,7 @@ Additional Notes.
 
 8501.33.00 | --Of an output exceeding 75 kW but not exceeding 375 kW | 5%
 
-8501.34.00 | --Of an output exceeding 375 kW | 5%
+8501.34.00 | --Of an output exceeding 375 kW | Free
 
 8501.40.00 | -Other AC motors, single-phase | 5%
 
@@ -20124,7 +20124,7 @@ Additional Notes.
 
 8501.80 | -Photovoltaic AC generators:
 
-8501.80.10 | ---Of an output not exceeding 375 kVA | 5% DCS:4% DCT:5%
+8501.80.10 | ---Of an output not exceeding 375 kVA | Free
 
 8501.80.90 | ---Other | Free
 
@@ -20132,9 +20132,9 @@ Additional Notes.
 
 8502.1 | -Generating sets with compression-ignition internal combustion piston engines (diesel or semi-diesel engines):
 
-8502.11.00 | --Of an output not exceeding 75 kVA | 5% DCS:4% DCT:5%
+8502.11.00 | --Of an output not exceeding 75 kVA | Free
 
-8502.12.00 | --Of an output exceeding 75 kVA but not exceeding 375 kVA | 5% DCS:4% DCT:5%
+8502.12.00 | --Of an output exceeding 75 kVA but not exceeding 375 kVA | Free
 
 8502.13 | --Of an output exceeding 375 kVA:
 
@@ -20260,9 +20260,9 @@ Additional Notes.
 
 8508.11.00 | --Of a power not exceeding 1 500 W and having a dust bag or other receptacle capacity not exceeding 20 L | Free
 
-8508.19.00 | --Other | 5%
+8508.19.00 | --Other | Free
 
-8508.60.00 | -Other vacuum cleaners | 5%
+8508.60.00 | -Other vacuum cleaners | Free
 
 8508.70.00 | -Parts | 5%
 
@@ -20338,7 +20338,7 @@ Additional Notes.
 
 8514.1 | -Resistance heated furnaces and ovens:
 
-8514.11.00 | --Hot isostatic presses | 5% DCS:4% DCT:5%
+8514.11.00 | --Hot isostatic presses | Free
 
 8514.19.00 | --Other | 5% DCS:4% DCT:5%
 
@@ -20350,7 +20350,7 @@ Additional Notes.
 
 8514.31.10 | ---Of a kind used solely or principally for the manufacture of printed circuits or printed circuit assemblies | Free
 
-8514.31.90 | ---Other | 5% DCS:4% DCT:5%
+8514.31.90 | ---Other | Free
 
 8514.32 | --Plasma and vacuum arc furnaces:
 
@@ -20394,7 +20394,7 @@ Additional Notes.
 
 8515.21.90 | ---Other | 5%
 
-8515.29.00 | --Other | 5%
+8515.29.00 | --Other | Free
 
 8515.3 | -Machines and apparatus for arc (including plasma arc) welding of metals:
 
@@ -20430,7 +20430,7 @@ Additional Notes.
 
 8516.3 | -Electro-thermic hair-dressing or hand-drying apparatus:
 
-8516.31.00 | --Hair dryers | 5%
+8516.31.00 | --Hair dryers | Free
 
 8516.32.00 | --Other hair-dressing apparatus | Free
 
@@ -20694,7 +20694,7 @@ Additional Notes.
 
 8528.71.20 | ---Black and white or other monochrome | Free
 
-8528.72.00 | --Other, colour | 5%
+8528.72.00 | --Other, colour | Free
 
 8528.73.00 | --Other, monochrome | Free
 
@@ -20720,7 +20720,7 @@ Additional Notes.
 
 8531.10.9 | ---Other:
 
-8531.10.91 | ----Of a kind used as components in passenger motor vehicles | 5%
+8531.10.91 | ----Of a kind used as components in passenger motor vehicles | Free
 
 8531.10.99 | ----Other | 5% DCS:4% DCT:5%
 
@@ -20794,7 +20794,7 @@ Additional Notes.
 
 8535.40.10 | ---Lightning arresters (surge diverters), suitable for the protection of electricity supply equipment | 5% DCS:4% DCT:5%
 
-8535.40.90 | ---Other | 5% CA:Free
+8535.40.90 | ---Other | Free
 
 8535.90.00 | -Other | 5% CA:Free
 
@@ -20858,7 +20858,7 @@ Additional Notes.
 
 8536.90.10 | ---Goods, as follows: (a) connection and contact elements for wires and cables; (b) wafer probers | Free
 
-8536.90.20 | ---Battery clamps of a kind used for motor vehicles of 8702, 8703, 8704 or 8711 | 5% CA:Free
+8536.90.20 | ---Battery clamps of a kind used for motor vehicles of 8702, 8703, 8704 or 8711 | Free
 
 8536.90.90 | ---Other | Free
 
@@ -20890,7 +20890,7 @@ Additional Notes.
 
 8538.90.11 | ----Of goods of 8536.70.11 | 5% CA:Free
 
-8538.90.12 | ----Of goods of 8536.70.19 | 5% CA:Free
+8538.90.12 | ----Of goods of 8536.70.19 | Free
 
 8538.90.13 | ----Of goods of 8536.70.21 | 5% CA:Free
 
@@ -20934,7 +20934,7 @@ Additional Notes.
 
 8539.4 | -Ultra-violet or infra-red lamps; arc-lamps:
 
-8539.41.00 | --Arc-lamps | 5% DCS:4% DCT:5%
+8539.41.00 | --Arc-lamps | Free
 
 8539.49.00 | --Other | 5% DCS:4% DCT:5%
 
@@ -20974,7 +20974,7 @@ Additional Notes.
 
 8540.81.00 | --Receiver or amplifier valves and tubes | Free
 
-8540.89.00 | --Other | 5%
+8540.89.00 | --Other | Free
 
 8540.9 | -Parts:
 
@@ -21050,9 +21050,9 @@ Additional Notes.
 
 8544.1 | -Winding wire:
 
-8544.11.00 | --Of copper | 5% DCS:4% CA:Free DCT:5%
+8544.11.00 | --Of copper | Free
 
-8544.19.00 | --Other | 5% DCS:4% CA:Free DCT:5%
+8544.19.00 | --Other | Free
 
 8544.20.00 | -Co-axial cable and other co-axial electric conductors | 5%
 
@@ -21244,15 +21244,15 @@ Notes.
 
 8602 | OTHER RAIL LOCOMOTIVES; LOCOMOTIVE TENDERS:
 
-8602.10.00 | -Diesel-electric locomotives | 5%
+8602.10.00 | -Diesel-electric locomotives | Free
 
-8602.90.00 | -Other | 5%
+8602.90.00 | -Other | Free
 
 8603 | SELF-PROPELLED RAILWAY OR TRAMWAY COACHES, VANS AND TRUCKS, OTHER THAN THOSE OF 8604.00.00:
 
 8603.10.00 | -Powered from an external source of electricity | 5%
 
-8603.90.00 | -Other | 5%
+8603.90.00 | -Other | Free
 
 8604.00.00 | RAILWAY OR TRAMWAY MAINTENANCE OR SERVICE VEHICLES, WHETHER OR NOT SELF-PROPELLED (FOR EXAMPLE, WORKSHOPS, CRANES, BALLAST TAMPERS, TRACKLINERS, TESTING COACHES AND TRACK INSPECTION VEHICLES) | 5%
 
@@ -21268,9 +21268,9 @@ Notes.
 
 8606.91.00 | --Covered and closed | Free
 
-8606.92.00 | --Open, with non-removable sides of a height exceeding 60 cm | 5%
+8606.92.00 | --Open, with non-removable sides of a height exceeding 60 cm | Free
 
-8606.99.00 | --Other | 5%
+8606.99.00 | --Other | Free
 
 8607 | PARTS OF RAILWAY OR TRAMWAY LOCOMOTIVES OR ROLLING-STOCK:
 
@@ -21278,7 +21278,7 @@ Notes.
 
 8607.11.00 | --Driving bogies and bissel-bogies | 5%
 
-8607.12.00 | --Other bogies and bissel-bogies | 5%
+8607.12.00 | --Other bogies and bissel-bogies | Free
 
 8607.19.00 | --Other, including parts | 5%
 
@@ -21446,7 +21446,7 @@ Additional Notes.
 
 8702.20.10 | ---Goods, as follows: (a) g.v.w. exceeding 3.5 t; (b) g.v.w. not exceeding 3.5 t, assembled | 5% CA:Free
 
-8702.20.90 | ---Other | 5% DCS:4% CA:Free DCT:5%
+8702.20.90 | ---Other | Free
 
 8702.30 | -With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion:
 
@@ -21488,13 +21488,13 @@ Additional Notes.
 
 8703.22.1 | ---Passenger motor vehicles:
 
-8703.22.11 | ----Used or second-hand vehicles | 5% CA:Free
+8703.22.11 | ----Used or second-hand vehicles | Free
 
 8703.22.19 | ----Other | 5% CA:Free
 
 8703.22.20 | ---Goods, NSA, as follows: (a) g.v.w. exceeding 3.5 t; (b) g.v.w. not exceeding 3.5 t, assembled | 5% CA:Free
 
-8703.22.90 | ---Other | 5% DCS:4% CA:Free DCT:5%
+8703.22.90 | ---Other | Free
 
 8703.23 | --Of a cylinder capacity exceeding 1 500 cm3 but not exceeding 3 000 cm3:
 
@@ -21526,7 +21526,7 @@ Additional Notes.
 
 8703.31.1 | ---Passenger motor vehicles:
 
-8703.31.11 | ----Used or second-hand vehicles | 5% CA:Free
+8703.31.11 | ----Used or second-hand vehicles | Free
 
 8703.31.19 | ----Other | 5% CA:Free
 
@@ -21622,7 +21622,7 @@ Additional Notes.
 
 8703.80.20 | ---Goods, NSA, as follows: (a) g.v.w. exceeding 3.5 t; (b) g.v.w. not exceeding 3.5 t, assembled | 5% CA:Free
 
-8703.80.90 | ---Other | 5% DCS:4% CA:Free DCT:5%
+8703.80.90 | ---Other | Free
 
 8703.90 | -Other:
 
@@ -21662,7 +21662,7 @@ Additional Notes.
 
 8704.31.90 | ---Other | 5% DCS:4% CA:Free DCT:5%
 
-8704.32.00 | --g.v.w. exceeding 5 t | 5% CA:Free
+8704.32.00 | --g.v.w. exceeding 5 t | Free
 
 8704.4 | -Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion:
 
@@ -21680,7 +21680,7 @@ Additional Notes.
 
 8704.51 | --g.v.w. not exceeding 5 t:
 
-8704.51.10 | ---Goods, as follows: (a) g.v.w. exceeding 3.5 t; (b) g.v.w. not exceeding 3.5 t, assembled | 5% CA:Free
+8704.51.10 | ---Goods, as follows: (a) g.v.w. exceeding 3.5 t; (b) g.v.w. not exceeding 3.5 t, assembled | Free
 
 8704.51.90 | ---Other | 5% DCS:4% CA:Free DCT:5%
 
@@ -21944,7 +21944,7 @@ Additional Notes.
 
 8708.95.10 | ---For the tractors of 8701.10.00, 8701.30.00 or 8701.9, other than tractors for dumpers | Free
 
-8708.95.20 | ---Other, of a kind used as components in passenger motor vehicles | 5% CA:Free
+8708.95.20 | ---Other, of a kind used as components in passenger motor vehicles | Free
 
 8708.95.90 | ---Other | 5% CA:Free
 
@@ -21966,7 +21966,7 @@ Additional Notes.
 
 8709.11.00 | --Electrical | 5%
 
-8709.19.00 | --Other | 5%
+8709.19.00 | --Other | Free
 
 8709.90.00 | -Parts | Free
 
@@ -22152,7 +22152,7 @@ Note.
 
 8901.90 | -Other vessels for the transport of goods and other vessels for the transport of both persons and goods:
 
-8901.90.10 | ---Not exceeding 150 gross construction tons | 5%
+8901.90.10 | ---Not exceeding 150 gross construction tons | Free
 
 8901.90.90 | ---Other | Free
 
@@ -22166,9 +22166,9 @@ Note.
 
 8903.1 | -Inflatable (including rigid hull inflatable) boats:
 
-8903.11.00 | --Fitted or designed to be fitted with a motor, unladen (net) weight (excluding the motor) not exceeding 100 kg | 5%
+8903.11.00 | --Fitted or designed to be fitted with a motor, unladen (net) weight (excluding the motor) not exceeding 100 kg | Free
 
-8903.12.00 | --Not designed for use with a motor and unladen (net) weight not exceeding 100 kg | 5%
+8903.12.00 | --Not designed for use with a motor and unladen (net) weight not exceeding 100 kg | Free
 
 8903.19.00 | --Other | 5%
 
@@ -22180,7 +22180,7 @@ Note.
 
 8903.23 | --Of a length exceeding 24 m:
 
-8903.23.10 | ---Not exceeding 150 gross construction tons | 5%
+8903.23.10 | ---Not exceeding 150 gross construction tons | Free
 
 8903.23.90 | ---Other | Free
 
@@ -22364,7 +22364,7 @@ Additional Notes.
 
 9003.19.00 | --Of other materials | 5%
 
-9003.90.00 | -Parts | 5%
+9003.90.00 | -Parts | Free
 
 9004 | SPECTACLES, GOGGLES AND THE LIKE, CORRECTIVE, PROTECTIVE OR OTHER:
 
@@ -22424,7 +22424,7 @@ Additional Notes.
 
 9008.50 | -Projectors, enlargers and reducers:
 
-9008.50.10 | ---Overhead projectors | 5% DCS:4% DCT:5%
+9008.50.10 | ---Overhead projectors | Free
 
 9008.50.90 | ---Other | Free
 
@@ -22520,7 +22520,7 @@ Additional Notes.
 
 9017.80 | -Other instruments:
 
-9017.80.20 | ---Goods, as follows: (a) graduated rules of wood or plastic, other than folding rules; (b) steel tape measures | 5%
+9017.80.20 | ---Goods, as follows: (a) graduated rules of wood or plastic, other than folding rules; (b) steel tape measures | Free
 
 9017.80.80 | ---Other | Free
 
@@ -22772,7 +22772,7 @@ Additional Notes.
 
 9031.20 | -Test benches:
 
-9031.20.10 | ---Electrical, for internal combustion engines | 5%
+9031.20.10 | ---Electrical, for internal combustion engines | Free
 
 9031.20.90 | ---Other | Free
 
@@ -22972,7 +22972,7 @@ Notes.
 
 9113 | WATCH STRAPS, WATCH BANDS AND WATCH BRACELETS, AND PARTS THEREOF:
 
-9113.10.00 | -Of precious metal or of metal clad with precious metal | 5% CA:Free
+9113.10.00 | -Of precious metal or of metal clad with precious metal | Free
 
 9113.20.00 | -Of base metal, whether or not gold- or silver-plated | Free
 
@@ -23200,11 +23200,11 @@ Additional Note.
 
 9401.5 | -Seats of cane, osier, bamboo or similar materials:
 
-9401.52.00 | --Of bamboo | 5%
+9401.52.00 | --Of bamboo | Free
 
 9401.53.00 | --Of rattan | Free
 
-9401.59.00 | --Other | 5%
+9401.59.00 | --Other | Free
 
 9401.6 | -Other seats, with wooden frames:
 
@@ -23222,7 +23222,7 @@ Additional Note.
 
 9401.9 | -Parts:
 
-9401.91.00 | --Of wood | 5% CA:Free
+9401.91.00 | --Of wood | Free
 
 9401.99 | --Other:
 
@@ -23302,7 +23302,7 @@ Additional Note.
 
 9405.31.00 | --Designed for use solely with light-emitting diode (LED) light sources | Free
 
-9405.39.00 | --Other | 5% CA:Free
+9405.39.00 | --Other | Free
 
 9405.4 | -Other electric luminaires and lighting fittings:
 
@@ -23316,13 +23316,13 @@ Additional Note.
 
 9405.50.10 | ---Candlesticks of glass | Free
 
-9405.50.90 | ---Other | 5%
+9405.50.90 | ---Other | Free
 
 9405.6 | -Illuminated signs, illuminated name-plates and the like:
 
 9405.61.00 | --Designed for use solely with light-emitting diode (LED) light sources | 5%
 
-9405.69.00 | --Other | 5%
+9405.69.00 | --Other | Free
 
 9405.9 | -Parts:
 
@@ -23446,7 +23446,7 @@ This subheading does not cover video game consoles or machines operated by coins
 
 9504 | VIDEO GAME CONSOLES AND MACHINES, TABLE OR PARLOUR GAMES, INCLUDING PINTABLES, BILLIARDS, SPECIAL TABLES FOR CASINO GAMES AND AUTOMATIC BOWLING EQUIPMENT, AMUSEMENT MACHINES OPERATED BY COINS, BANKNOTES, BANK CARDS, TOKENS OR BY ANY OTHER MEANS OF PAYMENT:
 
-9504.20.00 | -Articles and accessories for billiards of all kinds | 5%
+9504.20.00 | -Articles and accessories for billiards of all kinds | Free
 
 9504.30 | -Other games, operated by coins, banknotes, bank cards, tokens or by any other means of payment, other than automatic bowling alley equipment:
 
@@ -23472,7 +23472,7 @@ This subheading does not cover video game consoles or machines operated by coins
 
 9505.10.00 | -Articles for Christmas festivities | Free
 
-9505.90.00 | -Other | 5% CA:Free
+9505.90.00 | -Other | Free
 
 9506 | ARTICLES AND EQUIPMENT FOR GENERAL PHYSICAL EXERCISE, GYMNASTICS, ATHLETICS, OTHER SPORTS (INCLUDING TABLE-TENNIS) OR OUTDOOR GAMES, NOT SPECIFIED OR INCLUDED ELSEWHERE IN THIS CHAPTER; SWIMMING POOLS AND PADDLING POOLS:
 
@@ -23482,7 +23482,7 @@ This subheading does not cover video game consoles or machines operated by coins
 
 9506.12.00 | --Ski-fastenings (ski-bindings) | Free
 
-9506.19.00 | --Other | 5%
+9506.19.00 | --Other | Free
 
 9506.2 | -Water-skis, surf-boards, sailboards and other water-sport equipment:
 
@@ -23510,11 +23510,11 @@ This subheading does not cover video game consoles or machines operated by coins
 
 9506.61.00 | --Lawn-tennis balls | Free
 
-9506.62.00 | --Inflatable | 5%
+9506.62.00 | --Inflatable | Free
 
 9506.69.00 | --Other | 5%
 
-9506.70.00 | -Ice skates and roller skates, including skating boots with skates attached | 5% CA:Free
+9506.70.00 | -Ice skates and roller skates, including skating boots with skates attached | Free
 
 9506.9 | -Other:
 
@@ -23528,7 +23528,7 @@ This subheading does not cover video game consoles or machines operated by coins
 
 9507 | FISHING RODS, FISH-HOOKS AND OTHER LINE FISHING TACKLE; FISH LANDING NETS, BUTTERFLY NETS AND SIMILAR NETS; DECOY “BIRDS” (OTHER THAN THOSE OF 9208 OR 9705) AND SIMILAR HUNTING OR SHOOTING REQUISITES:
 
-9507.10.00 | -Fishing rods | 5%
+9507.10.00 | -Fishing rods | Free
 
 9507.20.00 | -Fish-hooks, whether or not snelled | Free
 
@@ -23544,7 +23544,7 @@ This subheading does not cover video game consoles or machines operated by coins
 
 9508.21.00 | --Roller coasters | Free
 
-9508.22.00 | --Carousels, swings and roundabouts | 5%
+9508.22.00 | --Carousels, swings and roundabouts | Free
 
 9508.23.00 | --Dodge’em cars | Free
 
@@ -23552,7 +23552,7 @@ This subheading does not cover video game consoles or machines operated by coins
 
 9508.25.00 | --Water rides | Free
 
-9508.26.00 | --Water park amusements | 5%
+9508.26.00 | --Water park amusements | Free
 
 9508.29.00 | --Other | 5%
 
@@ -23620,7 +23620,7 @@ Notes.
 
 9603.21.00 | --Tooth brushes, including dental-plate brushes | Free
 
-9603.29.00 | --Other | 5%
+9603.29.00 | --Other | Free
 
 9603.30.00 | -Artists’ brushes, writing brushes and similar brushes for the application of cosmetics | 5%
 
@@ -23654,7 +23654,7 @@ Notes.
 
 9607.11.00 | --Fitted with chain scoops of base metal | 5%
 
-9607.19.00 | --Other | 5%
+9607.19.00 | --Other | Free
 
 9607.20.00 | -Parts | 5%
 
@@ -23668,19 +23668,19 @@ Notes.
 
 9608.30.10 | ---Indian ink drawing pens | Free
 
-9608.30.90 | ---Other | 5%
+9608.30.90 | ---Other | Free
 
 9608.40.00 | -Propelling or sliding pencils | 5%
 
 9608.50.00 | -Sets of articles from two or more of the foregoing subheadings | Free
 
-9608.60.00 | -Refills for ball point pens, comprising the ball point and ink-reservoir | 5%
+9608.60.00 | -Refills for ball point pens, comprising the ball point and ink-reservoir | Free
 
 9608.9 | -Other:
 
 9608.91.00 | --Pen nibs and nib points | Free
 
-9608.99.00 | --Other | 5%
+9608.99.00 | --Other | Free
 
 9609 | PENCILS (OTHER THAN PENCILS OF 9608), CRAYONS, PENCIL LEADS, PASTELS, DRAWING CHARCOALS, WRITING OR DRAWING CHALKS AND TAILORS’ CHALKS:
 
@@ -23696,7 +23696,7 @@ Notes.
 
 9612 | TYPEWRITER OR SIMILAR RIBBONS, INKED OR OTHERWISE PREPARED FOR GIVING IMPRESSIONS, WHETHER OR NOT ON SPOOLS OR IN CARTRIDGES; INK-PADS, WHETHER OR NOT INKED, WITH OR WITHOUT BOXES:
 
-9612.10.00 | -Ribbons | 5% CA:Free
+9612.10.00 | -Ribbons | Free
 
 9612.20.00 | -Ink-pads | 5%
 
@@ -23724,7 +23724,7 @@ Notes.
 
 9615.19.00 | --Other | Free
 
-9615.90.00 | -Other | 5%
+9615.90.00 | -Other | Free
 
 9616 | SCENT SPRAYS AND SIMILAR TOILET SPRAYS, AND MOUNTS AND HEADS THEREFOR; POWDER-PUFFS AND PADS FOR THE APPLICATION OF COSMETICS OR TOILET PREPARATIONS:
 
@@ -23750,7 +23750,7 @@ Notes.
 
 9619.00.4 | ---Garments, NSA:
 
-9619.00.41 | ----For babies | 5%
+9619.00.41 | ----For babies | Free
 
 9619.00.49 | ----Other | 5%
 
@@ -23758,13 +23758,13 @@ Notes.
 
 9619.00.60 | ---Sanitary articles of plastics, NSA | Free
 
-9619.00.90 | ---Other textile articles | 5%
+9619.00.90 | ---Other textile articles | Free
 
 9620 | MONOPODS, BIPODS, TRIPODS AND SIMILAR ARTICLES:
 
 9620.00.10 | ---Solely or principally for machines of 8471 | Free
 
-9620.00.20 | ---For other machines of Chapter 84 | 5%
+9620.00.20 | ---For other machines of Chapter 84 | Free
 
 9620.00.30 | ---Solely or principally for apparatus of 8519 to 8521 or 8524 to 8528 | Free
 
@@ -23774,13 +23774,13 @@ Notes.
 
 9620.00.91 | ----Of plastics | 5% CA:Free
 
-9620.00.92 | ----Of iron or steel | 5% CA:Free
+9620.00.92 | ----Of iron or steel | Free
 
 9620.00.93 | ----Of wood or of graphite or other carbon | 5% DCS:4% DCT:5%
 
 9620.00.94 | ----Of nickel or tin | Free
 
-9620.00.99 | ----Other | 5%
+9620.00.99 | ----Other | Free
 
 ## Section XXI—Works of art, collectors’ pieces and antiques
 

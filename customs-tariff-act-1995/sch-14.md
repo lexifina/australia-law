@@ -12,9 +12,9 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 3 | 0714.50.10 | 4% From 1 January of year 3: 3% From 1 July of year 3: Free
 
-4 | 0802.11.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+4 | 0802.11.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-5 | 0806.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+5 | 0806.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 6 | 0806.20.00 | 5%
 
@@ -56,13 +56,13 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 25 | 2005.10.00 | 5%
 
-26 | 2005.91.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+26 | 2005.91.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 27 | 2005.99.00 | 4% From 1 January of year 4: 3% From 1 January of year 7: 2% From 1 January of year 10: 1% From 1 January of year 15: Free
 
 28 | 2006.00.20 | 4% From 1 July of year 3: Free
 
-29 | 2006.00.39 | 4% From 1 January of year 4: 3% From 1 January of year 7: 2% From 1 January of year 10: 1% From 1 January of year 15: Free
+29 | 2006.00.39 | 4% From 1 January of year 4: 3% From 1 July of year 5: Free
 
 30 | 2008.40.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -78,7 +78,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 36 | 2009.29.00 | 4%, or, if lower, $0.45/kg TSS From 1 January of year 3: 3%, or, if lower, $0.45/kg TSS From 1 January of year 5: 2%, or, if lower, $0.45/kg TSS From 1 January of year 7: Free
 
-37 | 2009.31.20 | 4% From 1 January of year 4: 3% From 1 January of year 7: 2% From 1 January of year 10: 1% From 1 January of year 15: Free
+37 | 2009.31.20 | 4% From 1 January of year 4: 3% From 1 July of year 5: Free
 
 38 | 2009.31.90 | 5%, or, if lower, $0.45/kg TSS
 
@@ -86,7 +86,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 40 | 2009.39.90 | 5%, or, if lower, $0.45/kg TSS
 
-41 | 2009.50.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+41 | 2009.50.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 42 | 2009.61.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -378,7 +378,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 185 | 2711.21.10 | $0.297/kg
 
-186 | 2818.10.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+186 | 2818.10.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 187 | 2833.21.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
@@ -414,7 +414,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 203 | 2903.75.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-204 | 2903.79.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+204 | 2903.79.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 205 | 2905.31.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
@@ -510,13 +510,13 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 250 | 3702.10.00 | 4% From 1 January of year 3: 3% From 1 July of year 3: Free
 
-251 | 3702.32.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+251 | 3702.32.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 252 | 3702.39.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
 253 | 3702.41.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-254 | 3702.42.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+254 | 3702.42.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 255 | 3702.52.90 | 4% From 1 January of year 3: 3% From 1 July of year 3: Free
 
@@ -532,13 +532,13 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 261 | 3806.30.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-262 | 3808.52.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+262 | 3808.52.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-263 | 3808.59.90 (prescribed goods only) | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+263 | 3808.59.90 (prescribed goods only) | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 264 | 3808.59.90 (prescribed goods only) | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-265 | 3808.61.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+265 | 3808.61.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 266 | 3808.62.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -570,13 +570,13 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 277C | 3822.19.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-277D | 3822.19.40 (prescribed goods only) | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+277D | 3822.19.40 (prescribed goods only) | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 278 | 3823.19.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
 284 | 3824.81.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-285 | 3824.82.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+285 | 3824.82.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 286 | 3824.83.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -618,15 +618,15 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 302C | 3827.14.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-302D | 3827.40.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+302D | 3827.40.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-302E | 3827.90.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+302E | 3827.90.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 303 | 3901.10.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
 304 | 3901.20.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-305 | 3901.30.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+305 | 3901.30.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 306 | 3901.40.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -634,33 +634,33 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 308 | 3902.10.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-309 | 3902.30.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+309 | 3902.30.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 310 | 3902.90.00 | 5%
 
-311 | 3903.11.00 | 5%
+311 | 3903.11.00 | 5% From 1 July of year 5: Free
 
 312 | 3903.19.00 | 5%
 
-313 | 3903.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+313 | 3903.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-314 | 3903.30.00 | 5%
+314 | 3903.30.00 | 5% From 1 July of year 5: Free
 
 315 | 3903.90.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-316 | 3904.10.00 | 5%
+316 | 3904.10.00 | 5% From 1 July of year 5: Free
 
-317 | 3904.21.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+317 | 3904.21.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-318 | 3904.22.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+318 | 3904.22.00 | 5% From 1 July of year 5: Free
 
-319 | 3904.30.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+319 | 3904.30.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 320 | 3904.40.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
 321 | 3904.50.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-322 | 3904.61.00 | 5%
+322 | 3904.61.00 | 5% From 1 July of year 5: Free
 
 323 | 3904.69.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -668,7 +668,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 325 | 3905.19.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-326 | 3907.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+326 | 3907.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 327 | 3907.21.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -680,7 +680,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 330 | 3907.50.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-331 | 3907.61.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+331 | 3907.61.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 332 | 3907.69.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -702,7 +702,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 341 | 3913.90.00 (prescribed goods only) | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-342 | 3915.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+342 | 3915.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 343 | 3915.30.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
@@ -742,11 +742,11 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 361 | 3920.62.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-362 | 3920.63.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+362 | 3920.63.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 363 | 3920.69.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-364 | 3920.91.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+364 | 3920.91.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 365 | 3920.92.00 | 5%
 
@@ -754,9 +754,9 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 367 | 3921.14.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-368 | 3926.20.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+368 | 3926.20.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-369 | 3926.20.29 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
+369 | 3926.20.29 | 5% From 1 January of year 5: 3% From 1 July of year 5: Free
 
 370 | 3926.30.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -764,9 +764,9 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 372 | 4002.39.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-373 | 4002.41.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+373 | 4002.41.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-374 | 4002.51.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+374 | 4002.51.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 375 | 4002.59.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
@@ -804,9 +804,9 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 392 | 4010.32.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-393 | 4010.33.00 | 5%
+393 | 4010.33.00 | 5% From 1 July of year 5: Free
 
-394 | 4010.34.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+394 | 4010.34.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 395 | 4010.39.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -814,7 +814,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 397 | 4011.80.00 (prescribed goods only) | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-398 | 4012.11.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+398 | 4012.11.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 399 | 4012.12.00 | 4% From 1 January of year 3: 3% From 1 July of year 3: Free
 
@@ -824,17 +824,17 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 402 | 4012.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-403 | 4013.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+403 | 4013.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 404 | 4014.90.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-404A | 4015.12.00 (prescribed goods only) | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+404A | 4015.12.00 (prescribed goods only) | 5% From 1 July of year 5: Free
 
-405 | 4015.19.90 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+405 | 4015.19.90 | 5% From 1 July of year 5: Free
 
-406 | 4015.90.21 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+406 | 4015.90.21 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-407 | 4015.90.29 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
+407 | 4015.90.29 | 5% From 1 January of year 5: 3% From 1 July of year 5: Free
 
 408 | 4016.91.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
@@ -888,7 +888,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 433 | 4114.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-434 | 4115.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+434 | 4115.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 435 | 4202.91.90 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
@@ -1364,7 +1364,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 669 | 5208.39.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-670 | 5208.41.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+670 | 5208.41.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 671 | 5208.43.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
@@ -1376,7 +1376,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 675 | 5209.41.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-676 | 5209.43.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+676 | 5209.43.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 677 | 5209.52.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
@@ -1390,7 +1390,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 682 | 5210.59.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-683 | 5211.11.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+683 | 5211.11.00 | 5% From 1 July of year 5: Free
 
 684 | 5211.19.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
@@ -1424,13 +1424,13 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 699 | 5306.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-700 | 5307.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+700 | 5307.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 701 | 5307.20.00 | 4% From 1 July of year 3: Free
 
 702 | 5401.10.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-703 | 5402.39.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+703 | 5402.39.00 | 5% From 1 July of year 5: Free
 
 704 | 5402.46.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
@@ -1446,7 +1446,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 710 | 5403.32.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-711 | 5403.33.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+711 | 5403.33.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 712 | 5403.41.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -1454,15 +1454,15 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 714 | 5403.49.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-715 | 5404.11.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+715 | 5404.11.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 716 | 5404.19.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
 717 | 5407.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-718 | 5407.30.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+718 | 5407.30.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-719 | 5407.43.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+719 | 5407.43.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 720 | 5407.52.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -1476,7 +1476,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 725 | 5407.94.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-726 | 5408.21.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+726 | 5408.21.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 727 | 5408.23.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -1506,19 +1506,19 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 739 | 5509.53.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-740 | 5509.59.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+740 | 5509.59.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-741 | 5509.62.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+741 | 5509.62.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 742 | 5509.69.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
 743 | 5509.91.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-744 | 5509.92.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+744 | 5509.92.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-745 | 5509.99.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+745 | 5509.99.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-746 | 5510.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+746 | 5510.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 747 | 5510.30.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -1536,7 +1536,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 754 | 5513.31.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-755 | 5513.49.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+755 | 5513.49.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 756 | 5514.11.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
@@ -1546,7 +1546,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 759 | 5514.21.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-760 | 5514.22.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+760 | 5514.22.00 | 5% From 1 July of year 5: Free
 
 761 | 5514.23.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
@@ -1566,7 +1566,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 769 | 5516.21.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-770 | 5516.31.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+770 | 5516.31.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 771 | 5516.32.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
@@ -1594,7 +1594,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 783 | 5604.90.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-784 | 5606.00.90 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+784 | 5606.00.90 | 5% From 1 July of year 5: Free
 
 785 | 5607.29.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
@@ -1612,7 +1612,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 792 | 5702.49.10 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-793 | 5702.49.90 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+793 | 5702.49.90 | 5% From 1 July of year 5: Free
 
 794 | 5702.50.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
@@ -1624,11 +1624,11 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 798 | 5703.10.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-799 | 5703.21.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+799 | 5703.21.00 | 5% From 1 July of year 5: Free
 
 800 | 5703.29.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-800A | 5703.31.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+800A | 5703.31.00 | 5% From 1 July of year 5: Free
 
 800B | 5703.39.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
@@ -1642,19 +1642,19 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 805 | 5704.90.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-806 | 5705.00.10 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+806 | 5705.00.10 | 5% From 1 July of year 5: Free
 
 807 | 5705.00.30 | 4% From 1 January of year 4: 3% From 1 January of year 7: 2% From 1 January of year 10: 1% From 1 January of year 15: Free
 
 808 | 5705.00.90 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-809 | 5801.10.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+809 | 5801.10.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 810 | 5801.10.99 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
 811 | 5801.21.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-812 | 5801.23.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+812 | 5801.23.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 813 | 5801.26.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
@@ -1666,7 +1666,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 817 | 5801.33.00 | 4% From 1 January of year 3: 3% From 1 July of year 3: Free
 
-818 | 5802.10.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
+818 | 5802.10.00 | 5% From 1 January of year 5: 3% From 1 July of year 5: Free
 
 820 | 5802.20.00 | 4% From 1 January of year 3: 3% From 1 July of year 3: Free
 
@@ -1702,7 +1702,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 836 | 5911.90.90 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-837 | 6001.21.00 | 5% From 1 January of year 5: 4% From 1 January of year 7: 2% From 1 January of year 10: Free
+837 | 6001.21.00 | 5% From 1 January of year 5: 4% From 1 July of year 5: Free
 
 838 | 6001.29.00 | 4% From 1 January of year 3: 3% From 1 July of year 3: Free
 
@@ -1710,7 +1710,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 840 | 6003.10.00 | 4% From 1 January of year 3: 3% From 1 July of year 3: Free
 
-841 | 6003.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+841 | 6003.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 842 | 6003.40.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -1718,7 +1718,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 844 | 6005.21.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-845 | 6005.22.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+845 | 6005.22.00 | 5% From 1 July of year 5: Free
 
 846 | 6005.23.00 | 4% From 1 January of year 3: 3% From 1 July of year 3: Free
 
@@ -1750,15 +1750,15 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 860 | 6102.10.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
-861 | 6102.20.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+861 | 6102.20.00 | 5% From 1 July of year 5: Free
 
 862 | 6102.90.00 | 5% From 1 January of year 5: 4% From 1 January of year 7: 2% From 1 January of year 10: Free
 
 863 | 6103.10.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
 
-864 | 6103.22.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+864 | 6103.22.00 | 5% From 1 July of year 5: Free
 
-865 | 6103.23.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+865 | 6103.23.00 | 5% From 1 July of year 5: Free
 
 866 | 6103.29.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
 
@@ -1766,7 +1766,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 868 | 6103.32.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
-869 | 6103.33.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+869 | 6103.33.00 | 5% From 1 July of year 5: Free
 
 870 | 6103.39.00 | 5% From 1 January of year 5: 4% From 1 January of year 7: 2% From 1 January of year 10: Free
 
@@ -1774,15 +1774,15 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 872 | 6103.43.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
 
-873 | 6103.49.00 | 5% From 1 January of year 5: 4% From 1 January of year 7: 2% From 1 January of year 10: Free
+873 | 6103.49.00 | 5% From 1 January of year 5: 4% From 1 July of year 5: Free
 
 874 | 6104.13.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
 875 | 6104.19.00 | 5% From 1 January of year 5: 4% From 1 January of year 7: 2% From 1 January of year 10: Free
 
-876 | 6104.22.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+876 | 6104.22.00 | 5% From 1 July of year 5: Free
 
-877 | 6104.23.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+877 | 6104.23.00 | 5% From 1 July of year 5: Free
 
 878 | 6104.29.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
 
@@ -1790,7 +1790,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 880 | 6104.32.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
-881 | 6104.33.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+881 | 6104.33.00 | 5% From 1 July of year 5: Free
 
 882 | 6104.39.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
 
@@ -1806,11 +1806,11 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 888 | 6104.51.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
 
-889 | 6104.52.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+889 | 6104.52.00 | 5% From 1 July of year 5: Free
 
-890 | 6104.53.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+890 | 6104.53.00 | 5% From 1 July of year 5: Free
 
-891 | 6104.59.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
+891 | 6104.59.00 | 5% From 1 January of year 5: 3% From 1 July of year 5: Free
 
 892 | 6104.61.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
 
@@ -1830,11 +1830,11 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 900 | 6106.90.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
 
-901 | 6107.12.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+901 | 6107.12.00 | 5% From 1 July of year 5: Free
 
-902 | 6107.19.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+902 | 6107.19.00 | 5% From 1 July of year 5: Free
 
-903 | 6107.21.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+903 | 6107.21.00 | 5% From 1 July of year 5: Free
 
 904 | 6107.22.00 | 5% From 1 July of year 3: Free
 
@@ -1842,27 +1842,27 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 906 | 6107.91.00 | 5% From 1 July of year 3: Free
 
-907 | 6107.99.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+907 | 6107.99.00 | 5% From 1 July of year 5: Free
 
 908 | 6108.11.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
 
 909 | 6108.19.00 | 5% From 1 January of year 5: 4% From 1 January of year 7: 2% From 1 January of year 10: Free
 
-910 | 6108.21.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+910 | 6108.21.00 | 5% From 1 July of year 5: Free
 
-911 | 6108.22.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+911 | 6108.22.00 | 5% From 1 July of year 5: Free
 
-912 | 6108.29.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+912 | 6108.29.00 | 5% From 1 July of year 5: Free
 
 913 | 6108.32.00 | 5% From 1 July of year 3: Free
 
 914 | 6108.39.00 | 5% From 1 July of year 3: Free
 
-915 | 6108.91.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+915 | 6108.91.00 | 5% From 1 July of year 5: Free
 
 916 | 6108.92.00 | 5% From 1 July of year 3: Free
 
-917 | 6108.99.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+917 | 6108.99.00 | 5% From 1 July of year 5: Free
 
 918 | 6109.10.00 | 5% From 1 January of year 2: 4% From 1 January of year 3: Free
 
@@ -1880,27 +1880,27 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 925 | 6111.30.10 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-926 | 6111.30.90 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+926 | 6111.30.90 | 5% From 1 July of year 5: Free
 
 927 | 6111.90.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-928 | 6111.90.90 | 5% From 1 January of year 5: 4% From 1 January of year 7: 2% From 1 January of year 10: Free
+928 | 6111.90.90 | 5% From 1 January of year 5: 4% From 1 July of year 5: Free
 
 929 | 6112.11.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
-930 | 6112.12.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+930 | 6112.12.00 | 5% From 1 July of year 5: Free
 
 931 | 6112.19.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
 932 | 6112.20.00 | 5% From 1 January of year 5: 4% From 1 January of year 7: 2% From 1 January of year 10: Free
 
-933 | 6112.31.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+933 | 6112.31.00 | 5% From 1 July of year 5: Free
 
 934 | 6112.39.00 | 5% From 1 July of year 3: Free
 
 935 | 6112.41.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
-936 | 6112.49.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+936 | 6112.49.00 | 5% From 1 July of year 5: Free
 
 937 | 6113.00.19 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
@@ -1910,7 +1910,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 940 | 6114.20.00 | 5% From 1 January of year 2: 4% From 1 January of year 3: Free
 
-941 | 6114.90.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+941 | 6114.90.00 | 5% From 1 July of year 5: Free
 
 942 | 6115.10.10 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
@@ -1918,11 +1918,11 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 944 | 6115.21.90 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
 
-945 | 6115.22.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
+945 | 6115.22.00 | 5% From 1 January of year 5: 3% From 1 July of year 5: Free
 
-946 | 6115.29.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
+946 | 6115.29.00 | 5% From 1 January of year 5: 3% From 1 July of year 5: Free
 
-947 | 6115.94.10 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
+947 | 6115.94.10 | 5% From 1 January of year 5: 3% From 1 July of year 5: Free
 
 948 | 6115.95.10 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
@@ -1930,7 +1930,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 950 | 6115.96.10 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
-951 | 6115.99.10 | 5% From 1 January of year 5: 4% From 1 January of year 7: 2% From 1 January of year 10: Free
+951 | 6115.99.10 | 5% From 1 January of year 5: 4% From 1 July of year 5: Free
 
 952 | 6117.90.10 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
 
@@ -2002,9 +2002,9 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 989 | 6204.21.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
 
-990 | 6204.22.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+990 | 6204.22.00 | 5% From 1 July of year 5: Free
 
-991 | 6204.23.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+991 | 6204.23.00 | 5% From 1 July of year 5: Free
 
 992 | 6204.29.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
@@ -2050,45 +2050,45 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1013 | 6206.90.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
 
-1014 | 6207.11.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+1014 | 6207.11.00 | 5% From 1 July of year 5: Free
 
-1015 | 6207.19.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+1015 | 6207.19.00 | 5% From 1 July of year 5: Free
 
 1016 | 6207.21.00 | 5% From 1 July of year 3: Free
 
-1017 | 6207.22.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+1017 | 6207.22.00 | 5% From 1 July of year 5: Free
 
-1018 | 6207.29.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
+1018 | 6207.29.00 | 5% From 1 January of year 5: 3% From 1 July of year 5: Free
 
-1019 | 6207.91.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+1019 | 6207.91.00 | 5% From 1 July of year 5: Free
 
-1020 | 6207.99.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
+1020 | 6207.99.00 | 5% From 1 January of year 5: 3% From 1 July of year 5: Free
 
-1021 | 6208.11.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+1021 | 6208.11.00 | 5% From 1 July of year 5: Free
 
-1022 | 6208.19.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+1022 | 6208.19.00 | 5% From 1 July of year 5: Free
 
-1023 | 6208.22.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+1023 | 6208.22.00 | 5% From 1 July of year 5: Free
 
-1024 | 6208.29.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+1024 | 6208.29.00 | 5% From 1 July of year 5: Free
 
-1025 | 6208.91.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+1025 | 6208.91.00 | 5% From 1 July of year 5: Free
 
-1026 | 6208.92.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+1026 | 6208.92.00 | 5% From 1 July of year 5: Free
 
 1027 | 6208.99.00 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
 
 1028 | 6209.20.10 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-1029 | 6209.20.90 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+1029 | 6209.20.90 | 5% From 1 July of year 5: Free
 
 1030 | 6209.30.10 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-1031 | 6209.30.90 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+1031 | 6209.30.90 | 5% From 1 July of year 5: Free
 
 1032 | 6209.90.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-1033 | 6209.90.90 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
+1033 | 6209.90.90 | 5% From 1 January of year 5: 3% From 1 July of year 5: Free
 
 1034 | 6210.10.90 | 5% From 1 July of year 3: Free
 
@@ -2100,11 +2100,11 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1036B | 6210.30.00 (prescribed goods only) | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
-1037 | 6210.40.90 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+1037 | 6210.40.90 | 5% From 1 July of year 5: Free
 
 1038 | 6210.50.10 | 4% From 1 January of year 4: 3% From 1 January of year 7: 2% From 1 January of year 10: 1% From 1 January of year 15: Free
 
-1039 | 6210.50.90 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+1039 | 6210.50.90 | 5% From 1 July of year 5: Free
 
 1040 | 6211.11.00 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
@@ -2128,9 +2128,9 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1050 | 6212.20.00 | 5% From 1 January of year 5: 4% From 1 January of year 7: 2% From 1 January of year 10: Free
 
-1051 | 6212.30.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+1051 | 6212.30.00 | 5% From 1 July of year 5: Free
 
-1052 | 6212.90.10 | 5% From 1 January of year 5: 3% From 1 January of year 7: Free
+1052 | 6212.90.10 | 5% From 1 January of year 5: 3% From 1 July of year 5: Free
 
 1053 | 6212.90.90 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
@@ -2144,7 +2144,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1058 | 6301.90.90 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-1059 | 6302.10.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
+1059 | 6302.10.00 | 5% From 1 July of year 5: Free
 
 1060 | 6302.21.00 | 5% From 1 January of year 7: 4% From 1 January of year 10: 2% From 1 January of year 15: Free
 
@@ -2162,17 +2162,17 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1067 | 6302.91.90 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-1068 | 6303.12.10 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+1068 | 6303.12.10 | 5% From 1 July of year 5: Free
 
 1069 | 6303.19.10 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
-1070 | 6303.91.10 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+1070 | 6303.91.10 | 5% From 1 July of year 5: Free
 
-1071 | 6303.92.10 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
+1071 | 6303.92.10 | 5% From 1 July of year 5: Free
 
 1072 | 6303.99.10 | 5% From 1 January of year 16: 4% From 1 January of year 17: 3% From 1 January of year 18: 2% From 1 January of year 19: 1% From 1 January of year 20: Free
 
-1073 | 6304.19.10 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+1073 | 6304.19.10 | 5% From 1 July of year 5: Free
 
 1074 | 6304.19.90 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
@@ -2192,11 +2192,11 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1082 | 6307.90.10 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-1083 | 6307.90.21 | 4% From 1 January of year 4: 3% From 1 January of year 7: 2% From 1 January of year 10: 1% From 1 January of year 15: Free
+1083 | 6307.90.21 | 4% From 1 January of year 4: 3% From 1 July of year 5: Free
 
 1084 | 6401.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-1085 | 6401.92.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+1085 | 6401.92.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 1086 | 6401.99.20 | 4% From 1 January of year 3: 3% From 1 July of year 3: Free
 
@@ -2240,7 +2240,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1106 | 6802.21.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-1107 | 6806.90.10 | 4% From 1 January of year 4: 3% From 1 January of year 7: 2% From 1 January of year 10: 1% From 1 January of year 15: Free
+1107 | 6806.90.10 | 4% From 1 January of year 4: 3% From 1 July of year 5: Free
 
 1108 | 6811.40.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
@@ -2252,7 +2252,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1112 | 6812.99.20 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
-1113 | 6813.20.10 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+1113 | 6813.20.10 | 5% From 1 July of year 5: Free
 
 1114 | 6813.20.90 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
@@ -2678,9 +2678,9 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1325 | 7409.19.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-1326 | 7410.11.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+1326 | 7410.11.00 | 5% From 1 July of year 5: Free
 
-1327 | 7410.22.00 | 5%
+1327 | 7410.22.00 | 5% From 1 July of year 5: Free
 
 1328 | 7411.10.00 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
@@ -2732,7 +2732,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1352 | 8211.92.90 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-1353 | 8211.94.10 | 4% From 1 January of year 4: 3% From 1 January of year 7: 2% From 1 January of year 10: 1% From 1 January of year 15: Free
+1353 | 8211.94.10 | 4% From 1 January of year 4: 3% From 1 July of year 5: Free
 
 1354 | 8211.95.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -2808,7 +2808,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1390 | 8421.91.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-1391 | 8422.30.10 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+1391 | 8422.30.10 | 5% From 1 July of year 5: Free
 
 1392 | 8422.40.10 | 5% From 1 July of year 3: Free
 
@@ -2848,7 +2848,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1409 | 8450.90.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-1410 | 8454.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+1410 | 8454.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 1411 | 8460.39.90 | 4% From 1 January of year 4: 3% From 1 January of year 7: 2% From 1 January of year 10: 1% From 1 January of year 15: Free
 
@@ -2872,7 +2872,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1421 | 8477.59.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-1422 | 8479.50.20 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+1422 | 8479.50.20 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 1423 | 8479.79.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -2900,7 +2900,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1435 | 8482.99.10 | 5%
 
-1436 | 8483.10.91 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+1436 | 8483.10.91 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 1437 | 8483.20.00 | 5%
 
@@ -2932,7 +2932,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1451 | 8501.62.00 | 5% From 1 July of year 3: Free
 
-1451A | 8501.80.10 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+1451A | 8501.80.10 | 5% From 1 July of year 5: Free
 
 1452 | 8502.31.90 | 5% From 1 July of year 3: Free
 
@@ -2976,7 +2976,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1472 | 8530.90.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-1473 | 8531.10.91 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+1473 | 8531.10.91 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 1474 | 8535.10.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
@@ -3010,9 +3010,9 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1490 | 8601.20.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-1491 | 8602.90.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+1491 | 8602.90.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
-1492 | 8603.90.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+1492 | 8603.90.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 1493 | 8605.00.00 | 5% From 1 July of year 3: Free
 
@@ -3046,7 +3046,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1504 | 8702.20.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-1505 | 8702.20.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+1505 | 8702.20.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 1506 | 8702.30.10 | 5%
 
@@ -3070,13 +3070,13 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1516 | 8703.21.90 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-1517 | 8703.22.11 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+1517 | 8703.22.11 | 5% From 1 July of year 5: Free
 
 1518 | 8703.22.19 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
 1519 | 8703.22.20 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-1520 | 8703.22.90 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+1520 | 8703.22.90 | 5% From 1 July of year 5: Free
 
 1521 | 8703.23.11 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
@@ -3094,7 +3094,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1528 | 8703.24.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-1529 | 8703.31.11 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
+1529 | 8703.31.11 | 5% From 1 July of year 5: Free
 
 1530 | 8703.31.19 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
 
@@ -3196,7 +3196,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1579 | 8703.80.20 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-1580 | 8703.80.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+1580 | 8703.80.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 1581 | 8703.90.11 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
@@ -3214,7 +3214,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1587A | 8704.41.10 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
-1587B | 8704.51.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+1587B | 8704.51.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 1587C | 8704.51.90 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
@@ -3324,7 +3324,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1640 | 8708.94.59 | 5% From 1 January of year 11: 4% From 1 January of year 13: 3% From 1 January of year 16: 2% From 1 January of year 18: 1% From 1 January of year 20: Free
 
-1641 | 8708.95.20 | 5%
+1641 | 8708.95.20 | 5% From 1 July of year 5: Free
 
 1642 | 8708.95.90 | 5%
 
@@ -3352,7 +3352,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1654 | 9006.59.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-1655 | 9008.50.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: Free
+1655 | 9008.50.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 1656 | 9021.10.20 | 5%
 
@@ -3380,7 +3380,7 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1668 | 9110.90.10 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
 
-1669 | 9113.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 January of year 7: 1% From 1 January of year 10: Free
+1669 | 9113.10.00 | 4% From 1 January of year 3: 3% From 1 January of year 5: 2% From 1 July of year 5: Free
 
 1670 | 9113.90.00 | 2% From 1 January of year 2: 1% From 1 January of year 3: Free
 
@@ -3422,6 +3422,6 @@ Column 1 Item | Column 2 Heading or subheading in Schedule 3 | Column 3 Rate
 
 1688 | 9619.00.30 | 5% From 1 July of year 3: Free
 
-1689 | 9619.00.41 | 5%
+1689 | 9619.00.41 | 5% From 1 July of year 5: Free
 
 1690 | 9619.00.49 | 5%
