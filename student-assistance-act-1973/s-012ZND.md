@@ -1,0 +1,3 @@
+# 12ZND Pay as you go (PAYG) instalments
+
+Division 45 in Schedule 1 to the Taxation Administration Act 1953 applies, so far as it is capable of application, in relation to the collection of a compulsory repayment amount of a person as if the compulsory repayment amount were income tax.
