@@ -1,0 +1,9 @@
+## Division 5—Definitions
+
+## Subdivision A—Introduction
+
+# 5-1 Simplified outline of this Division
+
+Terms used in this Schedule are defined in the Dictionary. In some cases, the definition is a signpost to another provision of the Schedule in which the meaning of the term is explained.
+
+Some of the key terms, the meaning of which is explained in this Division, are external administration of a company and external administrator of a company.

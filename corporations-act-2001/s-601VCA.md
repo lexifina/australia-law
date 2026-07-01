@@ -1,0 +1,17 @@
+## Division 3—Other matters
+
+# 601VCA Acquisition of property
+
+(1) The Court must not make an order under section 601VAC if:
+
+(a) the order would result in the acquisition of property from a person otherwise than on just terms; and
+
+(b) the order would be invalid because of paragraph 51(xxxi) of the Constitution.
+
+(2) Section 1350 does not apply in relation to the making of an order under section 601VAC.
+
+(3) In this section:
+
+acquisition of property has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+just terms has the same meaning as in paragraph 51(xxxi) of the Constitution.

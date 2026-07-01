@@ -1,0 +1,39 @@
+# 601VAC Orders to remedy unacceptable control situation
+
+(1) If an unacceptable control situation exists in relation to a licensed trustee company, the Court may make such orders as the Court considers appropriate for the purpose of ensuring that the unacceptable control situation ceases to exist.
+
+(2) However, the Court may only make orders under this section on application by:
+
+(a) the Minister; or
+
+(b) ASIC; or
+
+(c) the trustee company; or
+
+(d) a person who has any voting power in the trustee company; or
+
+(e) a client of the trustee company.
+
+(3) The Court’s orders may include:
+
+(a) an order directing the disposal of shares; or
+
+(b) an order restraining the exercise of any rights attached to shares; or
+
+(c) an order prohibiting or deferring the payment of any sums due to a person in respect of shares held by the person; or
+
+(d) an order that any exercise of rights attached to shares be disregarded; or
+
+(e) an order directing any person to do or refrain from doing a specified act, for the purpose of securing compliance with any other order made under this section; or
+
+(f) an order containing such ancillary or consequential provisions as the Court thinks just.
+
+(4) Subsection (3) does not, by implication, limit subsection (1).
+
+(5) Before making an order under this section, the Court may direct that notice of the application be given to such persons as the Court thinks fit or be published in such manner as the Court thinks fit, or both.
+
+(6) The Court may, by order:
+
+(a) rescind, vary or discharge an order made by the Court under this section; or
+
+(b) suspend the operation of such an order.

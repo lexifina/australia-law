@@ -1,0 +1,35 @@
+# 601VBC Duration of approval
+
+(1) An approval under section 601VBB remains in force:
+
+(a) if the notice of approval specifies a period during which the approval remains in force—until the end of that period, or if the Minister extends that period, until the end of that extended period; or
+
+(b) otherwise—indefinitely.
+
+Extension of approval
+
+(2) A person who holds an approval under section 601VBB that is in force for a specified period may apply to extend that period by lodging with ASIC an application that sets out the person’s reasons for making the application.
+
+Note: For fees in respect of lodging applications, see Part 9.10.
+
+(3) ASIC must give the application to the Minister as soon as possible.
+
+(4) The Minister may grant the application if the Minister is satisfied that:
+
+(a) in the case of a licensed trustee company—it would be in the interests of that company and its clients for the application to be granted; or
+
+(b) in the case of a proposed licensed trustee company—it would be in the interests of that company and its clients for the application to be granted were that company a licensed trustee company.
+
+(5) If the Minister grants the application, the Minister must:
+
+(a) give written notice of the extension to the applicant; and
+
+(b) specify the extended period during which the approval remains in force (which may or may not be the period the applicant applied for).
+
+(6) If the Minister refuses the application, the Minister must give written notice of the refusal to the applicant.
+
+(7) As soon as practicable, the Minister must arrange for a copy of a notice of extension under this section to be:
+
+(a) published in the Gazette; and
+
+(b) given to the company concerned.

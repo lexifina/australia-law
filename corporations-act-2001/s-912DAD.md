@@ -1,0 +1,23 @@
+# 912DAD ASIC must publish details of certain reports
+
+(1) ASIC must, for each financial year, publish information about:
+
+(a) reports lodged with ASIC during the financial year under section 912DAA in relation to reportable situations of the kind mentioned in paragraphs 912D(1)(a) and (b) (breaches and likely breaches of core obligations); and
+
+(b) reports lodged with APRA during the financial year, as described in subsections 912DAA(5) and (6), in relation to reportable situations of the kind mentioned in paragraphs 912D(1)(a) and (b) (breaches and likely breaches of core obligations); and
+
+(c) the entities in relation to which those reports are lodged with ASIC or APRA.
+
+(2) The information must:
+
+(a) be published within 4 months after the end of the financial year; and
+
+(b) be published on ASIC’s website; and
+
+(c) include the information (if any) prescribed by the regulations, which may include personal information (within the meaning of the Privacy Act 1988) in relation to a financial services licensee who is an individual; and
+
+(d) if the regulations prescribe how the information is to be organised—be organised in accordance with the regulations.
+
+(3) The regulations may prescribe circumstances in which information need not be included in the information published by ASIC under this section.
+
+(4) ASIC may correct any error in, or omission from, information published under this section.
