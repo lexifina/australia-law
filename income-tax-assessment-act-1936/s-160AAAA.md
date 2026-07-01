@@ -8,7 +8,7 @@
 
 (a) on at least one day during the year of income, the taxpayer:
 
-(i) is eligible for a pension, allowance or benefit under the Veterans’ Entitlements Act 1986 (other than Part VII); and
+(i) is eligible for a pension, allowance or benefit under the Veterans’ Entitlements Act 1986; and
 
 (ii) has reached pension age, within the meaning of that Act; and
 
