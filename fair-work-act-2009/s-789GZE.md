@@ -6,7 +6,9 @@
 
 (b) the Infrastructure Minister; and
 
-(c) the Industry Minister; and
+(c) the Minister responsible for the building and construction industry, excluding workplace relations; and
+
+(ca) the Minister responsible for skills and vocational education; and
 
 (d) the members appointed by the Minister.
 
