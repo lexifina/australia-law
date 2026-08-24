@@ -18,7 +18,7 @@ unless the assessment process prescribed by those regulations has been followed 
 
 (3) Without limiting subsection (1), regulations made for the purposes of that subsection may make provision for:
 
-(a) the application of Part 8 (except sections 82, 83 and 84) and the other provisions of this Act (so far as they relate to that Part) in relation to the assessment process, subject to such modifications as are specified in the regulations; and
+(a) the application of Part 8 (except sections 82, 83, 84 and 87A) and the other provisions of this Act (so far as they relate to that Part) in relation to the assessment process, subject to such modifications as are specified in the regulations; and
 
 (b) exemptions from the assessment process.
 
