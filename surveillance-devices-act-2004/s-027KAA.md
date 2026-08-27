@@ -2,4 +2,4 @@
 
 # 27KAA Sunsetting
 
-This Division ceases to have effect 5 years after it commences.
+This Division is repealed at the end of 4 September 2029.
