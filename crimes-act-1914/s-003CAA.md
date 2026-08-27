@@ -1,0 +1,31 @@
+# 3CAA Account-based data
+
+(1) For the purposes of this Part, if:
+
+(a) an electronic service has accounts for end-users; and
+
+(b) either:
+
+(i) a person holds an account with the electronic service; or
+
+(ii) a person is, or is likely to be, a user of an account with the electronic service; and
+
+(c) the person can (with the use of appropriate equipment) access particular data provided by the service;
+
+the data is account-based data in relation to the person.
+
+(2) For the purposes of this Part, if:
+
+(a) an electronic service has accounts for end-users; and
+
+(b) either:
+
+(i) a deceased person held, before the person’s death, an account with the electronic service; or
+
+(ii) a deceased person, before the person’s death, was, or was likely to be, a user of an account with the electronic service; and
+
+(c) the deceased person could, before the person’s death (with the use of appropriate equipment), access particular data provided by the service;
+
+the data is account-based data in relation to the deceased person.
+
+(3) For the purposes of this section, account has the same meaning as in the Online Safety Act 2021.

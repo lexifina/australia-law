@@ -1,0 +1,33 @@
+# 3ZZNF Compensation for damage to electronic equipment
+
+Scope
+
+(1) This section applies if:
+
+(a) as a result of electronic equipment being operated as mentioned in this Part:
+
+(i) damage is caused to the equipment; or
+
+(ii) the data recorded on the equipment is damaged; or
+
+(iii) programs associated with the use of the equipment, or with the use of the data, are damaged or corrupted; and
+
+(b) the damage or corruption occurs because:
+
+(i) insufficient care was exercised in selecting the person who was to operate the equipment; or
+
+(ii) insufficient care was exercised by the person operating the equipment.
+
+Compensation
+
+(2) The Commonwealth must pay the owner of the equipment, or the user of the data or programs, such reasonable compensation for the damage or corruption as the Commonwealth and the owner or user agree on.
+
+(3) However, if the owner or user and the Commonwealth fail to agree, the owner or user may institute proceedings in:
+
+(a) the Federal Court of Australia or the Federal Circuit and Family Court of Australia (Division 2); or
+
+(b) a court of a State or Territory that has jurisdiction in relation to the matter;
+
+for such reasonable amount of compensation as the court determines.
+
+(4) In determining the amount of compensation payable, regard is to be had to whether the occupier of the premises, or the occupier’s employees or agents, if they were available at the time, provided any appropriate warning or guidance on the operation of the equipment.

@@ -1,0 +1,9 @@
+# 3ZZVT Offence
+
+A person commits an offence if:
+
+(a) the person is required under section 3ZZVS to attend before an inspecting officer, to give information or to answer questions; and
+
+(b) the person refuses or fails to do so.
+
+Penalty: Imprisonment for 6 months.
