@@ -20,9 +20,9 @@
 
 (e) the weight of the tobacco is 100 kilograms or above.
 
-Penalty: 2 years imprisonment or the greater of the following, or both 2 years imprisonment and the greater of the following:
+Penalty: 5 years imprisonment or the greater of the following, or both 5 years imprisonment and the greater of the following:
 
-(a) 500 penalty units;
+(a) 6,000 penalty units;
 
 (b) the amount mentioned in subsection (2) multiplied by 5.
 

@@ -242,6 +242,10 @@ Item | Topic | Provision | Act
 
 136AF | shortfall interest charge on Australian DMT tax | 127-70 in Schedule 1 | Taxation Administration Act 1953
 
+136AG | amount of news media bargaining charge | 129-10 in Schedule 1 | Taxation Administration Act 1953
+
+136AH | shortfall interest charge on news media bargaining charge | 129-10 in Schedule 1 | Taxation Administration Act 1953
+
 136A | debt account discharge liability | 133-105 in Schedule 1 | Taxation Administration Act 1953
 
 136B | Division 296 debt account discharge liability | 134-105 in Schedule 1 | Taxation Administration Act 1953

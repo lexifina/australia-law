@@ -146,6 +146,8 @@ Item | Column 1 Section | Column 2 Act | Column 3 Topic
 
 45BB | 127-70 in Schedule 1 | Taxation Administration Act 1953 | payment of Australian DMT tax or shortfall interest charge
 
+45BC | 129-10 in Schedule 1 | Taxation Administration Act 1953 | payment of news media bargaining charge or shortfall interest charge
+
 45C | 133-115 in Schedule 1 | Taxation Administration Act 1953 | payment of debt account discharge liability
 
 45D | 134-115 in Schedule 1 | Taxation Administration Act 1953 | payment of Division 296 debt account discharge liability

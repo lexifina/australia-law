@@ -1,8 +1,8 @@
-# 308-35 Sale of tobacco (5 kg or above)—reasonable suspicion offence
+# 308-30 Sale or supply of tobacco (100 kilograms or above)—reasonable suspicion offence
 
 (1) A person commits an offence if:
 
-(a) the person sells a thing; and
+(a) the person sells or supplies a thing; and
 
 (b) the thing is tobacco (other than tobacco seed or tobacco plant); and
 
@@ -18,11 +18,11 @@
 
 (iv) customs duty is not payable on the tobacco because of an exemption under a law of the Commonwealth; and
 
-(e) the weight of the tobacco is 5 kilograms or above.
+(e) the weight of the tobacco is 100 kilograms or above.
 
-Penalty: The greater of the following:
+Penalty: 5 years imprisonment or the greater of the following, or both 5 years imprisonment and the greater of the following:
 
-(a) 200 penalty units;
+(a) 6,000 penalty units;
 
 (b) the amount mentioned in subsection (2) multiplied by 5.
 

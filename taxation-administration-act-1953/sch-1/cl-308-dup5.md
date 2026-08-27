@@ -1,4 +1,4 @@
-# 308-20 Possession of tobacco (5 kg or above)—reasonable suspicion offence
+# 308-18 Possession of tobacco (10 kilograms or above)—reasonable suspicion offence
 
 (1) A person commits an offence if:
 
@@ -18,11 +18,11 @@
 
 (iv) customs duty is not payable on the tobacco because of an exemption under a law of the Commonwealth; and
 
-(e) the weight of the tobacco is 5 kilograms or above.
+(e) the weight of the tobacco is 10 kilograms or above.
 
-Penalty: The greater of the following:
+Penalty: 3 years imprisonment or the greater of the following, or both 3 years imprisonment and the greater of the following:
 
-(a) 200 penalty units;
+(a) 4,000 penalty units;
 
 (b) the amount mentioned in subsection (2) multiplied by 5.
 

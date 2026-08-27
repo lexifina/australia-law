@@ -1,12 +1,12 @@
-# 308-25 Sale of tobacco (500 kilograms or above)—reasonable suspicion offence
+# 308-20 Possession of tobacco (5 kg or above)—reasonable suspicion offence
 
 (1) A person commits an offence if:
 
-(a) the person sells a thing; and
+(a) the person possesses a thing; and
 
 (b) the thing is tobacco (other than tobacco seed or tobacco plant); and
 
-(c) the tobacco is in Australia but not in an external Territory; and
+(c) the place in which the person possesses the tobacco is in Australia but not in an external Territory; and
 
 (d) it is reasonable to suspect that none of the following circumstances exist:
 
@@ -18,11 +18,11 @@
 
 (iv) customs duty is not payable on the tobacco because of an exemption under a law of the Commonwealth; and
 
-(e) the weight of the tobacco is 500 kilograms or above.
+(e) the weight of the tobacco is 5 kilograms or above.
 
-Penalty: 5 years imprisonment or the greater of the following, or both 5 years imprisonment and the greater of the following:
+Penalty: 2 years imprisonment or the greater of the following, or both 2 years imprisonment and the greater of the following:
 
-(a) 1,000 penalty units;
+(a) 3,000 penalty units;
 
 (b) the amount mentioned in subsection (2) multiplied by 5.
 

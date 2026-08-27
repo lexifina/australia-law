@@ -30,7 +30,7 @@
 
 (3) A person is liable to a civil penalty if the person contravenes subsection (1).
 
-Penalty: 100 penalty units.
+Penalty: 2,000 penalty units.
 
 (4) Section 308-510 applies to this section in the same way that it applies to Division 308.
 

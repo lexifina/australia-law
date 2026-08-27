@@ -30,6 +30,8 @@ Provisions of Acts and regulations of which the Commissioner has the general adm
 
 (fh) *Australian DMT tax;
 
+(fi) *news media bargaining charge;
+
 (g) the administration or collection of those taxes, levies and duties;
 
 (h) a grant or benefit mentioned in section 8 of the Product Grants and Benefits Administration Act 2000, or the administration or payment of such a grant or benefit;

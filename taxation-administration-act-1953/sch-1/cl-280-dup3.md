@@ -22,6 +22,8 @@ Table of sections
 
 280-102F Liability to shortfall interest charge—excessive tax offset refunds
 
+280-102G Liability to shortfall interest charge—news media bargaining charge
+
 280-103 Liability to shortfall interest charge—general
 
 280-105 Amount of shortfall interest charge

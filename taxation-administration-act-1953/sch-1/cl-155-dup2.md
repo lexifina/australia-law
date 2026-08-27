@@ -54,4 +54,6 @@ Note: This Division has a modified operation in relation to diverted profits tax
 
 (l) an amount of *Laminaria and Corallina decommissioning levy for a financial year;
 
-(m) an amount of *build to rent development misuse tax.
+(m) an amount of *build to rent development misuse tax;
+
+(n) an amount of *news media bargaining charge.

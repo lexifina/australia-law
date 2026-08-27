@@ -20,6 +20,8 @@ Item | Column 1 Assessable amount | Column 2 Recipient | Column 3 Document
 
 7 | an amount of *Australian DMT tax for a *Fiscal Year | the Commissioner | *Australian DMT tax return given under section 127-45 for the Fiscal Year
 
+8 | an amount of *news media bargaining charge for a financial year | the Commissioner | return given under section 129-5 for the financial year
+
 Note: There is no self-assessment of Division 293 tax, Division 296 tax, excess transfer balance tax or first home super saver tax.
 
 (2) The assessment is treated as having been made on the day the document is given to the recipient mentioned in column 2.
