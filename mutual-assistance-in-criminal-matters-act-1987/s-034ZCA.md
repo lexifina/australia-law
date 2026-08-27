@@ -16,4 +16,4 @@ A POCA search warrant in relation to a foreign serious offence authorises an aut
 
 (b) the seizure of the property or thing is necessary to prevent its concealment, loss or destruction or its use in committing an offence.
 
-Note: Subject to paragraph 34ZB(3)(d), the POCA search warrant also authorises the things set out in section 228 of the Proceeds of Crimes Act.
+Note: Subject to paragraph 34ZB(3)(d), the POCA search warrant also authorises the things set out in sections 228, 228A and 228AA of the Proceeds of Crimes Act.
