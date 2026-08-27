@@ -1,0 +1,73 @@
+# 73ZSE Person with knowledge of a computer or a computer system to assist access etc.
+
+(1) This section applies if an authorised person exercises investigation powers under Part 3 of the Regulatory Powers Act in relation to premises for the purposes of a provision mentioned in subsection 73ZSB(1).
+
+(2) The authorised person may apply to an issuing officer referred to in paragraph 73ZSB(2)(c) for an order requiring a specified person to provide any information or assistance that is reasonable and necessary to allow an authorised person or person assisting to do one or more of the following:
+
+(a) access data held in, or accessible from, a computer or data storage device that:
+
+(i) is on the premises; or
+
+(ii) has been moved under subsection 73ZSC(3) and is at a place for examination or processing; or
+
+(iii) has been seized under this Part or under the Regulatory Powers Act as it applies in relation to this Act because of this Part;
+
+(b) copy data held in, or accessible from, a computer, or data storage device, described in paragraph (a) to another data storage device;
+
+(c) convert into documentary form or another form intelligible to an authorised person or person assisting:
+
+(i) data held in, or accessible from, a computer, or data storage device, described in paragraph (a); or
+
+(ii) data held in a data storage device to which the data was copied as described in paragraph (b); or
+
+(iii) data held in a data storage device removed from premises under the Regulatory Powers Act as it applies in relation to this Act because of this Part.
+
+(3) The issuing officer may grant the order if the issuing officer is satisfied that:
+
+(a) there are reasonable grounds for suspecting that evidential material is held in, or is accessible from, the computer or data storage device; and
+
+(b) the specified person is:
+
+(i) reasonably suspected of having committed the offence or contravened the civil penalty provision stated in the relevant warrant; or
+
+(ii) the owner or lessee of the computer or device; or
+
+(iii) an employee of the owner or lessee of the computer or device; or
+
+(iv) a person engaged under a contract for services by the owner or lessee of the computer or device; or
+
+(v) a person who uses or has used the computer or device; or
+
+(vi) a person who is or was a system administrator for the system including the computer or device; and
+
+(c) the specified person has relevant knowledge of:
+
+(i) the computer or device or a computer network of which the computer or device forms or formed a part; or
+
+(ii) measures applied to protect data held in, or accessible from, the computer or device.
+
+(4) If:
+
+(a) the computer or data storage device that is the subject of the order is seized under this Part or under the Regulatory Powers Act as it applies in relation to this Act because of this Part; and
+
+(b) the order was granted on the basis of an application made before the seizure;
+
+the order does not have effect on or after the seizure.
+
+Note: An application for another order under this section relating to the computer or data storage device may be made after the seizure.
+
+(5) If the computer or data storage device is not on the premises, the order must:
+
+(a) specify the period within which the person must provide the information or assistance; and
+
+(b) specify the place at which the person must provide the information or assistance; and
+
+(c) specify the conditions (if any) determined by the issuing officer as the conditions to which the requirement on the person to provide the information or assistance is subject.
+
+(6) A person commits an offence if the person fails to comply with the order.
+
+Penalty:
+
+(a) for a participant—30 penalty units; or
+
+(b) in any other case—imprisonment for 2 years, or 120 penalty units, or both.

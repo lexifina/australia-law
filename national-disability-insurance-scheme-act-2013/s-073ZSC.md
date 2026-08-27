@@ -1,0 +1,51 @@
+# 73ZSC Use of equipment to examine or process things
+
+(1) This section applies if an authorised person exercises investigation powers under Part 3 of the Regulatory Powers Act in relation to premises entered under an investigation warrant issued for the purposes of a provision mentioned in subsection 73ZSB(1).
+
+Equipment may be brought to premises
+
+(2) The authorised person or a person assisting may bring to the premises any equipment reasonably necessary for the examination or processing of a thing found at the premises in order to determine whether the thing may be seized.
+
+Thing may be moved for examination or processing
+
+(3) A thing found at the premises may be moved to another place for examination or processing in order to determine whether the thing may be seized if:
+
+(a) both of the following apply:
+
+(i) it is significantly more practicable to do so having regard to the timeliness and cost of examining or processing the thing at another place and the availability of expert assistance;
+
+(ii) the authorised person or a person assisting suspects on reasonable grounds that the thing contains or constitutes evidential material; or
+
+(b) the occupier of the premises consents in writing.
+
+Notification of examination or processing and right to be present
+
+(4) If the thing is moved to another place for the purpose of examination or processing under subsection (3), the authorised person must, if it is practicable to do so:
+
+(a) inform the occupier of the premises of the address of the place and the time at which the examination or processing will be carried out; and
+
+(b) allow the occupier or the occupier’s representative to be present during the examination or processing.
+
+(5) The authorised person need not comply with paragraph (4)(a) or (b) if the authorised person believes on reasonable grounds that to do so might:
+
+(a) endanger the safety of a person; or
+
+(b) prejudice an investigation or prosecution.
+
+Time limit on moving the thing
+
+(6) The thing may be moved to another place for examination or processing for no longer than 14 days.
+
+(7) An authorised person may apply to an issuing officer for one or more extensions of that time if the authorised person believes on reasonable grounds that the thing cannot be examined or processed within 14 days or that time as previously extended.
+
+(8) The authorised person must give notice of the application to the occupier of the premises, and that person is entitled to be heard in relation to the application.
+
+(9) A single extension cannot exceed 7 days.
+
+Equipment at premises may be operated
+
+(10) An authorised person or a person assisting may operate equipment already at the premises to carry out the examination or processing of a thing found at the premises in order to determine whether it is a thing that may be seized if the authorised person or person assisting believes on reasonable grounds that:
+
+(a) the equipment is suitable for the examination or processing; and
+
+(b) the examination or processing can be carried out without damage to the equipment or the thing.
