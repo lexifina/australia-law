@@ -246,7 +246,19 @@ protected information means:
 
 (ii) disclosed to the Commission under section 215UB(2A) or 135P of the Water Act 2007; or
 
-(iii) obtained under Part XID of this Act and relates to a matter arising under Part 5 or Part 5A of the Water Act 2007 or the Water Market Intermediaries Code within the meaning of the Water Act 2007.
+(iii) obtained under Part XID of this Act and relates to a matter arising under Part 5 or Part 5A of the Water Act 2007 or the Water Market Intermediaries Code within the meaning of the Water Act 2007; or
+
+(h) information that:
+
+(i) was given in confidence to the Commission; and
+
+(ii) relates to a matter arising under the cash distribution framework; or
+
+(i) information that was:
+
+(i) obtained by the Commission under the cash distribution framework; or
+
+(ii) obtained by the Commission under section 155 of this Act and relates to a designated cash distribution framework matter within the meaning of that section.
 
 For the purposes of this definition, it is immaterial whether the information was given to or obtained by the Commission before, at or after the commencement of this section.
 
