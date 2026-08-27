@@ -6,7 +6,7 @@ person with disability means any of the following:
 
 (a) a person who is a participant (within the meaning of the National Disability Insurance Scheme Act 2013);
 
-(b) a person who is receiving supports or services of a kind mentioned in paragraph (b) of the definition of NDIS provider in section 9 of that Act;
+(b) a person who is receiving supports or services of a kind mentioned in paragraph 10C(1)(b) of that Act;
 
 (c) a person who is receiving supports or services of a kind prescribed by the regulations for the purposes of this paragraph.
 
