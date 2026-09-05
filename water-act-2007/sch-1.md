@@ -1838,6 +1838,8 @@ The Authority may, from time to time at the request of the Committee member for 
 
 (2) South Australia may store any part of its entitlement under clause 88 (as adjusted for interstate trade) for the purpose of private carry-over in the upper River Murray storage or storages of its choice, beyond the time at which that part of its entitlement would otherwise have been delivered under this Agreement, provided such storage does not affect water availability or storage access for New South Wales or Victoria that would otherwise have existed under this Agreement had it not been for the exercise by South Australia of its right under this clause.
 
+(2AA) South Australia may hold any part of its entitlement under clause 88 (as adjusted for interstate trade) for the purposes referred to in subclauses (1) and (2) as a credit against the Initial River Murray Increased Flows Account (within the meaning of Schedule F) if the entitlement is substituted in accordance with Part 2A of Schedule G.
+
 (2A) In calculating monthly quantities under paragraph 88 (a), any part of South Australia’s entitlement stored under subclause (1) or (2) is taken to have been received by South Australia at the time it is stored.
 
 (3) During the period before a Schedule is made under Subdivision F of Division 1 of this Part, the Authority is to account for water stored pursuant to this clause, as far as possible, consistently with Subdivisions D and E of this Division.
@@ -1870,7 +1872,7 @@ The quantity of water that South Australia is entitled to receive in any month s
 
 (d) subject to paragraph (1)(c), an amount of water from the upper River Murray equivalent to any water contributed by any tributary or any outfall approved by the Ministerial Council entering the upper River Murray from its territory downstream of Doctors Point; and
 
-(e) half the volume of water calculated in accordance with clause 8 of Schedule F.
+(e) the volume of water calculated in accordance with clause 8 of Schedule F.
 
 (2) Entitlements under sub-clause (1) shall not be affected by the declaration of a period of special accounting except as specifically provided in Subdivision E of this Division.
 
@@ -1908,7 +1910,7 @@ New South Wales and Victoria must provide, in equal proportions, South Australia
 
 Subject to subclause 102C (4), unless the Ministerial Council determines otherwise, New South Wales or Victoria must not use:
 
-(a) deferred water stored under Schedule G, except as provided in that Schedule; or
+(a) deferred water stored or held under Schedule G, except as provided in that Schedule; or
 
 (b) water from the upper River Murray to an extent which may result in the total volume of water held in upper River Murray storages and reserved for the use of the relevant State at the end of the following May being less than half the sum of the minimum reserve and the conveyance reserve.
 
@@ -1976,7 +1978,9 @@ From time to time the Authority must:
 
 (ba) determine the allowance to be made for water deferred under clause 91;
 
-(c) having regard to its determinations under paragraphs (a), (b) and (ba), determine the water available:
+(bb) determine the allowance to be made for water credited to the River Murray Increased Flows in Authority Storages Account (within the meaning of Schedule F);
+
+(c) having regard to its determinations under paragraphs (a), (b), (ba) and (bb), determine the water available:
 
 (i) for distribution to New South Wales, Victoria and South Australia (including water to meet critical human water needs) before the end of the following May; and
 
@@ -2044,7 +2048,9 @@ plus the following:
 
 (i) the Authority’s estimate of the minimum flow of water into the River Murray from the sources referred to in paragraph 94 (1) (d);
 
-(ii) the volume calculated under clause 8 of Schedule F;
+(ii) the volume of water calculated under subclause 8(3) of Schedule F;
+
+(iia) the volume of water calculated under subclause 8(4) of Schedule F;
 
 (iii) any water stored by South Australia under subclause 91 (2).
 
@@ -2306,7 +2312,13 @@ SUBDIVISION E—PERIODS OF SPECIAL ACCOUNTING
 
 (b) unless the Ministerial Council decides otherwise, will be deemed to have commenced on 1 August in that year, whenever it is in fact declared.
 
-(3) In calculating a reserve referred to in subclause (1), the Authority must disregard any deferred water and any conveyance reserve held in a major storage.
+(3) In calculating a reserve referred to in subclause (1), the Authority must disregard the following:
+
+(a) any deferred water held in a major storage;
+
+(b) any conveyance reserve held in a major storage;
+
+(c) any water recorded in the River Murray Increased Flows in Authority Storages Account (within the meaning of Schedule F).
 
 124. Variation of Navigation Depths During Restrictions
 
@@ -4262,7 +4274,7 @@ PART I—PRELIMINARY
 
 (1) Consistent with the laws of each State, the Commonwealth water legislation (including the Agreement and the Basin Plan), the National Water Initiative and policies from time to time adopted by the Ministerial Council, the purposes of this Schedule are:
 
-(a) to contribute to an efficient and effective water market by setting out administrative and coordination arrangements to facilitate interstate transfers and intervalley transfers of tradeable water rights in the southern connected Basin; and
+(a) to contribute to an efficient and effective water market by setting out administrative and coordination arrangements to facilitate interstate transfers, intervalley transfers and transfers across the Barmah Choke, of tradeable water rights in the southern connected Basin; and
 
 (b) to enable the Authority to make, amend, review and revoke protocols under this Schedule to supplement its provisions; and
 
@@ -4274,9 +4286,9 @@ PART I—PRELIMINARY
 
 (f) to enable the Authority to provide advice about water allocation transfers across the Barmah Choke; and
 
-(g) to enable the protocols to restrict or regulate interstate transfers and intervalley transfers across the Barmah Choke; and
+(g) to enable the protocols to restrict or regulate transfers across the Barmah Choke; and
 
-(h) to require State Contracting Governments to provide information to the Authority about interstate transfers and intervalley transfers of tradeable water rights in the southern-connected Basin.
+(h) to require State Contracting Governments to provide information to the Authority about interstate transfers, intervalley transfers and transfers across the Barmah Choke, of tradeable water rights in the southern-connected Basin.
 
 (2) A reference to the National Water Initiative in subclause (1) includes a reference to another agreement (however described) that supersedes, replaces, amends, supplements or consolidates the National Water Initiative.
 
@@ -4286,6 +4298,2148 @@ Subject to the laws of each State, this Schedule and the protocols and procedure
 
 (a) of sources of surface water outside the southern-connected Basin; or
 
-(b) that are not interstate transfers or intervalley transfers; or
+(b) that are not interstate transfers, intervalley transfers or transfers across the Barmah Choke; or
 
 (c) of ground water.
+
+3 Definitions
+
+Note 1: A number of expressions used in this Schedule are defined in section 4 of the Water Act, including the following:
+
+(a) Agreement;
+
+(b) Commonwealth water legislation;
+
+(c) ground water;
+
+(d) National Water Initiative;
+
+(e) State;
+
+(f) State water management law;
+
+(g) surface water;
+
+(h) tradeable water rights;
+
+(i) water access entitlement;
+
+(j) water allocation.
+
+Note 2: A number of expressions used in this Schedule are defined in clause 2 of the Agreement, including the following:
+
+(a) Authority;
+
+(b) Committee;
+
+(c) Contracting Government;
+
+(d) Ministerial Council;
+
+(e) State Contracting Government;
+
+(f) State water entitlement;
+
+(g) Water Act.
+
+(1) In this Schedule and the protocols and procedures (if any) made under it:
+
+approval authority means a person or body whose approval is required under State water management law for a proposed interstate transfer, intervalley transfer or transfer across the Barmah Choke to proceed.
+
+Barmah Choke allocation account means an account that the Authority must maintain under subclause 11(3).
+
+Barmah Choke entitlement record means a record that the Authority must maintain under subclause 11(2).
+
+designated water supply source means a water supply source for a valley account from which water is released by a State Contracting Government for the purposes of implementing a direction given by the Authority under subclause 9(3).
+
+interstate transfer means a transfer of tradeable water rights out of a State into another State.
+
+intervalley transfer means a transfer of tradeable water rights out of a valley:
+
+(a) into another valley; or
+
+(b) into the River Murray, or vice versa.
+
+procedures means procedures made by the Committee under clause 7A.
+
+protocol means a protocol made by the Authority under clause 6.
+
+southern-connected Basin has the meaning given by clause 4.
+
+State transfer account means the account the Authority must maintain under subclause 11(1).
+
+transfer includes any of the following:
+
+(a) a transfer that does not involve the payment of consideration;
+
+(b) a transfer between places under which ownership of the right being transferred does not change;
+
+(c) a transfer that does not involve the physical movement of water from one location to another.
+
+valley means a valley (within the ordinary meaning of that word), catchment or geographic area associated with a river (other than the River Murray) covered by the definition of southern-connected Basin.
+
+valley account means an account maintained by a State Contracting Government under subclause 9(1) for a valley located in the State.
+
+(2) A reference to a clause, subclause or paragraph is a reference to a clause, subclause or paragraph of this Schedule.
+
+(3) For the purposes of this Schedule, the Ministerial Council may determine the geographic extent and limits of the Barmah Choke.
+
+(4) A reference to a transfer across the Barmah Choke in this Schedule is a reference to a transfer of tradeable water rights from below the Barmah Choke in a State to above the Barmah Choke in that State or another State, and vice versa.
+
+(5) Subclause (4) does not apply to subclause 11(2) or 12(1).
+
+Note 1: Subclause 11(2) covers water access entitlements transferred from below the Barmah Choke in a State to above the Barmah Choke in that State or another State.
+
+Note 2: Subclause 12(1) covers water allocation transfers from above the Barmah Choke in a State to below the Barmah Choke in that State or another State.
+
+4 Meaning of southern-connected Basin
+
+(1) For the purposes of this Schedule and subject to subclause (2), the southern-connected Basin means the following sources of surface water:
+
+(a) in New South Wales—the following:
+
+(i) regulated reaches of the following river systems—the Darling River (including, but limited to, Menindee Lakes and the Darling River downstream from the Menindee Lakes), the Murrumbidgee River and the River Murray;
+
+(ii) regulated reaches connected to the river systems covered by subparagraph (i);
+
+(b) in Victoria—the following:
+
+(i) regulated reaches of the following river systems—the Goulburn River, the Broken River, the Campaspe River, the Loddon River and the River Murray;
+
+(ii) regulated reaches connected to the river systems covered by subparagraph (i);
+
+(c) in South Australia—the River Murray;
+
+(d) in the Australian Capital Territory—the Murrumbidgee River;
+
+(e) any other sources of surface water determined by the Ministerial Council under paragraph (2)(a).
+
+(2) For the purposes of this Schedule, the Ministerial Council may determine:
+
+(a) other sources of surface water within the southern connected Basin; and
+
+(b) the geographic extent and limits of the southern connected Basin.
+
+5 Suspension of Schedule
+
+(1) Subject to subclause (4), a State Contracting Government may, from time to time, after consulting the Ministerial Council, suspend or limit the operation of this Schedule (other than the clauses and subclauses of this Schedule specified in subclause (2)) in that State, if the State Contracting Government considers that:
+
+(a) the use or management of water comprised in water access entitlements or water allocations transferred under this Schedule have increased or accelerated environmental degradation; or
+
+(b) any other State has made inadequate progress towards pricing water to recover full costs, in accordance with principles adopted by the Council of Australian Governments; or
+
+(c) the policies or practices applying within any other State do not achieve the objectives of the National Water Initiative relating to reducing barriers to trading water access entitlements and water allocations and ensuring competitive neutrality in the market for such entitlements and allocations.
+
+(2) For the purposes of subclause (1), the following clauses and subclauses of this Schedule are specified:
+
+(a) subclauses 6(1) to (8) (which are about making protocols);
+
+(b) subclauses 7A(1) to (6) (which are about making procedures);
+
+(c) clause 8 (which is about adjusting the delivery of State water entitlements);
+
+(d) subclause 9(2) (which is about providing information about valley accounts);
+
+(e) clause 11 (which is about maintaining and adjusting State transfer accounts, a Barmah Choke allocation account and a Barmah Choke entitlement record);
+
+(f) clauses 13 to 16 (which are about information sharing and audits, monitoring and reporting, reviewing the Schedule and dispute resolution).
+
+(3) The Ministerial Council may, from time to time, having regard to the National Water Initiative, by resolution, suspend or limit the operation of this Schedule in relation to a State or States.
+
+(4) Each State Contracting Government must try to resolve any difference between it and any other State Contracting Government about a matter referred to in paragraph (1)(a), (b) or (c), in accordance with clause 16, before consulting the Ministerial Council under subclause (1).
+
+PART II—PROTOCOLS AND PROCEDURES
+
+6 Power to make protocols
+
+(1) The Authority may, in consultation with the Committee, from time to time make one or more protocols in relation to the matters covered by this Schedule, including the following:
+
+(a) facilitating the transfer of tradeable water rights between hydrologically connected river systems in the southern-connected Basin;
+
+(b) adjusting the delivery of State water entitlements under Part XII of the Agreement to take into account, and to give effect to, interstate transfers of tradeable water rights;
+
+(c) maintaining and adjusting valley accounts in accordance with subclause 9(1);
+
+(d) providing information about valley account balances in accordance with subclause 9(2) for each valley in the State;
+
+(e) designated water supply sources and releasing water from valley accounts in accordance with subclauses 9(3) and (4);
+
+(f) maintaining and adjusting a State transfer account, a Barmah Choke entitlement record and a Barmah Choke allocation account in accordance with clause 11;
+
+(g) providing advice about water allocation transfers across the Barmah Choke in accordance with clause 12;
+
+(h) restricting or regulating transfers across the Barmah Choke in accordance with clause 12A;
+
+(i) providing information about interstate transfers, intervalley transfers and transfers across the Barmah Choke, of tradeable water rights in accordance with subclause 13(1);
+
+(j) monitoring and reporting interstate transfers of tradeable water rights;
+
+(k) implementing resolutions of the Ministerial Council.
+
+Note: A protocol made by the Authority under this Schedule is a legislative instrument, see section 18D of the Water Act.
+
+(2) A protocol made under subclause (1) must not purport to affect or interfere with the responsibilities of a State to manage a water resource, except as provided for in the Agreement.
+
+(3) If the Authority plans to, or has determined to, make, amend, review or revoke a protocol, the Authority must notify each Contracting Government:
+
+(a) of the proposed protocol, amendment, review or revocation; and
+
+(b) of the subject matter of the proposed protocol, amendment, review or revocation.
+
+(4) A Contracting Government may nominate a person with relevant expertise and experience to give advice to the Authority in preparing, amending, reviewing or revoking a protocol.
+
+(5) The Authority must consider any advice given by a person nominated under subclause (4), before it makes, amends or revokes a protocol.
+
+(6) A protocol is void to the extent that it is inconsistent with the Agreement (including its Schedules).
+
+(7) The Authority may:
+
+(a) on its own initiative amend, review or revoke a protocol made under subclause (1); or
+
+(b) review a protocol at the request of a Contracting Government.
+
+(8) The Authority must not delegate any power conferred on it by subclauses (1) and (7).
+
+(9) Each State Contracting Government must, in accordance with the laws of the State, take such action within the State as may be necessary to ensure that the matters set out in a protocol are applied and observed by each approval authority and person in that State.
+
+7A Power to make procedures
+
+(1) The Committee may, from time to time, make, amend or revoke procedures as it considers necessary or desirable to give effect to this Schedule or a protocol (if any) made under this Schedule.
+
+(2) Without limiting subclause (1), the Committee may make procedures setting out processes in relation to any or all of the matters covered by subclause 6(1).
+
+(3) Procedures are void to the extent that they are inconsistent with the Agreement (including its Schedules) or a protocol (if any) made under this Schedule.
+
+(4) The Authority must, as soon as practicable after procedures are made or amended, publish the procedures as made or amended on its website.
+
+(5) Procedures come into effect when they are published on the Authority’s website.
+
+(6) Procedures made by the Committee under subclause (1) are not legislative instruments.
+
+(7) Each State Contracting Government must take such action within the State as may be necessary to ensure that the processes referred to in the procedures are applied and observed by each approval authority and person in that State.
+
+PART III—MATTERS RELATING TO ADMINISTRATION OF THE AGREEMENT
+
+8 Adjustment of delivery of State water entitlements
+
+The Authority must, from time to time, adjust the delivery of State water entitlements under Part XII of the Agreement to take into account, and to give effect to, interstate transfers of tradeable water rights in accordance with the protocols and procedures (if any) made under this Schedule.
+
+PART IV—OPERATIONAL PRINCIPLES AND ADMINISTRATION
+
+9 Release of water and valley accounts
+
+(1) Each State Contracting Government must maintain and adjust valley accounts that:
+
+(a) record the available balance for transfers of tradeable water rights in respect of each valley located in the State; and
+
+(b) are in accordance with the protocols and procedures (if any) made under this Schedule.
+
+(2) Each State Contracting Government must, in accordance with the protocols and procedures (if any) made under this Schedule, provide information to the Authority about valley account balances for each valley in the State.
+
+(3) The Authority may:
+
+(a) in accordance with the protocols and procedures (if any) made under this Schedule, use the information provided under subclause (2) to give a State Contracting Government a direction to release water standing to the credit of a valley account for any valley for any of the purposes referred to in subclause 98(3) or (4) of the Agreement; and
+
+(b) amend or cancel the direction at any time.
+
+(4) A State Contracting Government must implement the direction by releasing water from a designated water supply source in accordance with the protocols and procedures (if any) made under this Schedule.
+
+(5) With the consent of the State Contracting Government to whom the direction is given, the direction may result in a valley account being overdrawn.
+
+10 Authority to be informed of new proposals
+
+Obligation to inform Authority of proposal
+
+(1) A State Contracting Government (the proposing State) that is considering a proposal specified in subclause (2) to amend a State water management law, or a policy, arrangement, rule or requirement (however described) made under a State water management law, must, in writing:
+
+(a) inform the Authority of the proposal and give the Authority the necessary information and data on the flow or use (or both) of water within, or into, the River Murray with sufficient time for the Authority to provide advice under subclause (4); and
+
+(b) if the proposing State believes that any other State or States may be affected by the proposal—inform the other affected State Contracting Governments of the proposal as soon as practicable after giving the necessary information and data mentioned in paragraph (a) to the Authority.
+
+(2) For the purposes of subclause (1), the following proposals are specified:
+
+(a) if the proposing State is New South Wales or Victoria—a proposal that:
+
+(i) directly alters the flow or use of water in a river that is covered by the definition of southern-connected Basin, other than the River Murray; and
+
+(ii) the proposing State believes may significantly affect the flow or use of water from that river into the River Murray;
+
+(b) if the proposing State is New South Wales or Victoria—a proposal that:
+
+(i) directly alters the flow or use of water in the River Murray in the proposing State; and
+
+(ii) the proposing State believes may significantly affect the flow or use of water in the River Murray;
+
+(c) if the proposing State is South Australia—a proposal that:
+
+(i) directly alters the flow or use of water in the River Murray in South Australia; and
+
+(ii) the proposing State believes may significantly affect the flow or use of water in the River Murray upstream of South Australia.
+
+Discontinuation of proposal
+
+(3) The proposing State must, in writing, notify the Authority, and any other State Contracting Governments informed of the proposal under paragraph (1)(b), if, at any time before the Authority provides advice under subclause (4), the proposing State decides not to proceed with the proposal.
+
+Authority may provide advice on proposal
+
+(4) The Authority may, having regard to the information and data given by the proposing State, provide advice, in writing, to the proposing State on the following matters:
+
+(a) the anticipated effect of the proposal on the flow, use or control of water in the River Murray;
+
+(b) if the Authority believes the proposal will affect other States—the other States that would be affected by the proposal.
+
+Proposing State to provide Authority’s advice to affected State Contracting Governments
+
+(5) If:
+
+(a) the Authority provides advice under subclause (4); and
+
+(b) that advice identifies other States under paragraph (4)(b); and
+
+(c) the proposing State has not given notification of its decision not to proceed with the proposal under subclause (3);
+
+the proposing State must provide a copy of the proposal, and the Authority’s advice on the proposal, to the other State Contracting Governments identified in that advice.
+
+Authority may provide advice to affected State Contracting Governments
+
+(6) The Authority may, at any time after providing advice to the proposing State under subclause (4), provide a copy of that advice to another State Contracting Government if the Authority considers it reasonable and relevant to do so.
+
+(7) The Authority must, in writing, notify the proposing State if the Authority provides a copy of the advice to another State Contracting Government under subclause (6).
+
+11 State transfer accounts, Barmah Choke allocation account and Barmah Choke entitlement record
+
+State transfer account
+
+(1) The Authority must maintain and adjust a State transfer account that records:
+
+(a) each interstate transfer of tradeable water rights in the southern-connected Basin; and
+
+(b) adjustments to the delivery of State water entitlements.
+
+Note: The Authority uses information provided by the State Contracting Governments under subclause 13(1) to maintain the State transfer account.
+
+Barmah Choke entitlement record
+
+(2) The Authority must maintain and adjust a Barmah Choke entitlement record of the water access entitlements transferred from below the Barmah Choke in a State to above the Barmah Choke in that State or another State.
+
+Barmah Choke allocation account
+
+(3) The Authority must maintain and adjust a Barmah Choke allocation account that sets out water allocation transfers across the Barmah Choke in a financial year by recording the net volume of water allocation transfers from below the Barmah Choke in a State to above the Barmah Choke in that State or another State in the financial year.
+
+Note: The Authority uses information provided by the State Contracting Governments under subclause 13(1) to maintain the Barmah Choke allocation account.
+
+Compliance with protocols and procedures
+
+(4) An account or record that the Authority is required to maintain and adjust under this clause must be maintained and adjusted in accordance with the protocols and procedures (if any) made under this Schedule.
+
+12 Advice about water allocation transfers across the Barmah Choke
+
+(1) The Authority may, in accordance with the protocols and procedures (if any) made under this Schedule, provide advice to one or more State Contracting Governments about the following matters in relation to water allocation transfers across the Barmah Choke:
+
+(a) the maximum volume of water allocations that may be transferred from above the Barmah Choke in a State to below the Barmah Choke in that State or another State;
+
+(b) the period during which such transfers may occur;
+
+(c) the conditions (if any) that apply to such transfers.
+
+(2) Before providing that advice, the Authority must:
+
+(a) have regard to the information provided by the State Contracting Governments under subclause 13(1); and
+
+(b) consult with the Committee.
+
+12A Restrictions on transfers of tradeable water rights across the Barmah Choke
+
+Subject to the laws of each State and the Basin Plan, the protocols (if any) made under this Schedule may impose restrictions on, or regulate, transfers across the Barmah Choke.
+
+Note: Subclause 6(2) does not apply to a protocol restricting or regulating transfers across the Barmah Choke made in accordance with this clause.
+
+13 Transfers of tradeable water rights—information sharing and audits
+
+Information sharing about interstate transfers, intervalley transfers and transfers across the Barmah Choke
+
+(1) Each State Contracting Government must, in relation to interstate transfers, intervalley transfers and transfers across the Barmah Choke, of tradeable water rights in the southern-connected Basin, provide information to the Authority about transfers within, to or from the State, in accordance with the protocols and procedures (if any) made under this Schedule.
+
+Record-keeping
+
+(2) The Authority must keep records of the information provided by the State Contracting Governments under subclause (1).
+
+Requirement to undertake audit
+
+(3) The Authority must arrange for an independent auditor to undertake an audit of the Authority’s records in accordance with this clause if:
+
+(a) the Authority is not satisfied that any volumetric errors in the monthly reconciliation process between the States and the Authority can be rectified; or
+
+(b) the Committee determines that the Authority is to arrange for the audit to be undertaken.
+
+Content of audit
+
+(4) If the Authority is required to arrange for an independent auditor under paragraph (3)(a), the auditor must examine whether there is any discrepancy between:
+
+(a) the volumetric information provided by the State Contracting Governments under subclause (1); and
+
+(b) the volumetric information contained in the records kept by the Authority under subclause (2).
+
+(5) If the Authority is required to arrange for an independent auditor under paragraph (3)(b):
+
+(a) the Committee must determine the matters that the auditor must examine; and
+
+(b) the auditor must examine those matters.
+
+Audit report
+
+(6) If an auditor undertakes an audit under subclause (3), the Authority must arrange for the auditor to make recommendations to the Ministerial Council, as soon as practicable after the audit is completed, about any matter relevant to the audit that the auditor considers appropriate.
+
+Outcome of audit
+
+(7) After considering any recommendation made by the auditor under subclause (6), the Ministerial Council may require the Authority to amend or adjust any of the following, as the Ministerial Council considers appropriate:
+
+(a) the Authority’s records kept under subclause (2) of this clause;
+
+(b) the State transfer account maintained under subclause 11(1);
+
+(c) the Barmah Choke allocation account maintained under subclause 11(3).
+
+14 Monitoring and reporting
+
+For each financial year (the relevant financial year), the Authority must, in accordance with the protocols and procedures (if any) made under this Schedule, prepare and give to the State Contracting Governments a report setting out the following information for the relevant financial year by no later than 31 December in the following financial year:
+
+(a) the total volume of interstate transfers of tradeable water rights into and out of each State;
+
+(b) any adjustment to the delivery of a State water entitlement made under clause 8.
+
+15 Review of Schedule D
+
+Timing of review
+
+(1) The Authority must commence a review of the matters covered by subclause (3) or (4) at the following times:
+
+(a) before the end of the period of 10 years starting on 1 July 2026, and of each subsequent 10 year period;
+
+(b) at any other time the Committee determines.
+
+(2) The Authority must complete a review within 12 months of the day the review commences, unless the Ministerial Council agrees a longer period for completing the review.
+
+Content of review
+
+(3) For the purposes of a review commenced under paragraph (1)(a), the matters are the operation of this Schedule, including any matters that the Committee directs.
+
+(4) For the purposes of a review commenced under paragraph (1)(b), the matters are as follows:
+
+(a) any matters relating to the operation of this Schedule that the Committee directs;
+
+(b) any other matters relating to the operation of this Schedule that the Authority considers appropriate.
+
+Review report
+
+(5) The Authority must prepare a report of the review and provide it to the Committee.
+
+(6) After considering the review report, the Committee must:
+
+(a) decide whether it is appropriate to consult on the proposed outcomes of the review with the Basin Community Committee or any other relevant stakeholders; and
+
+(b) submit the report, and the Committee’s advice in relation to it, to the Ministerial Council.
+
+16 Dispute resolution
+
+Parties to dispute
+
+(1) This clause applies to any dispute arising under this Schedule between the following parties:
+
+(a) two or more State Contracting Governments;
+
+(b) one or more State Contracting Governments and the Authority.
+
+Notifying parties of dispute
+
+(2) A dispute arises at the time when one party notifies the other party or parties in writing that there is a dispute about a matter specified in the notice.
+
+Expeditious resolution of dispute
+
+(3) If a dispute arises, the parties must seek, in good faith, to resolve the dispute expeditiously by negotiations between them.
+
+Referring dispute to a dispute panel
+
+(4) If a dispute is not resolved within 60 days, a party to the dispute may give written notice to the other party or parties requiring the matter to be referred to a dispute panel:
+
+(a) comprising at least two members agreed between the parties; or
+
+(b) if they cannot agree, comprising an equal number of members appointed by each party to the dispute.
+
+(5) A dispute panel must meet within 7 days after it is appointed, or within such other period agreed by the parties.
+
+Decision of dispute panel
+
+(6) A unanimous decision of the dispute panel is binding upon the parties.
+
+(7) If the dispute panel does not reach a unanimous decision:
+
+(a) any dispute to which the Authority is a party must be referred to the Ministerial Council for resolution; and
+
+(b) any dispute between State Contracting Governments may be referred by a party to an arbitrator, as if it were a matter requiring resolution by an arbitrator under clause 140 of the Agreement.
+
+Costs of dispute
+
+(8) Each party must meet its own costs in relation to any dispute.
+
+(9) Each party must contribute equally to the cost of any dispute panel or arbitrator, unless the dispute panel or arbitrator, as the case requires, directs otherwise.
+
+PART V—APPLICATION, SAVING AND TRANSITIONAL PROVISIONS
+
+DIVISION 1—AMENDMENTS MADE BY THE WATER AMENDMENT (MURRAY-DARLING BASIN AGREEMENT) REGULATIONS 2026
+
+20 Application provision
+
+For the purposes of the operation of clause 6 or 7A of this Schedule before 1 July 2026, assume that Parts I, III and IV of this Schedule, as substituted by Part 2 of Schedule 2 to the Water Amendment (Murray-Darling Basin Agreement) Regulations 2026, had commenced at the same time as that clause.
+
+Note: Parts I, III, and IV of this Schedule, as substituted by Part 2 of Schedule 2 to the Water Amendment (Murray-Darling Basin Agreement) Regulations 2026, commence on 1 July 2026 (see item 5 of the commencement table in section 2 of the Water Amendment (Murray-Darling Basin Agreement) Regulations 2026).
+
+21 Saving provisions
+
+Protocols
+
+(1) A protocol made under clause 6 of this Schedule that was in force immediately before the commencement of this subclause continues in force (and may be dealt with) on and after that commencement as if it had been made under clause 6 of this Schedule as amended by Schedule 2 to the Water Amendment (Murray-Darling Basin Agreement) Regulations 2026.
+
+Monitoring and reporting
+
+(2) Clause 17 of this Schedule, as in force immediately before the commencement of this subclause, continues to apply on and after that commencement in relation to the financial year beginning on 1 July 2025.
+
+22 Things done under this Schedule
+
+(1) Subject to clause 21, if:
+
+(a) a thing was done for a particular purpose under this Schedule as in force immediately before the commencement of this clause; and
+
+(b) the thing could be done for that purpose under this Schedule, as amended by Schedule 2 to the Water Amendment (Murray-Darling Basin Agreement) Regulations 2026;
+
+the thing has effect for the purposes of this Schedule as if it had been done for that purpose under this Schedule, as so amended.
+
+(2) Without limiting subclause (1), a reference in that subclause to a thing being done includes a reference to information being given.
+
+SCHEDULE F—EFFECT OF THE SNOWY SCHEME
+
+PART I—PRELIMINARY
+
+1. Purpose
+
+The purpose of this Schedule is to make arrangements for sharing between New South Wales, South Australia and Victoria of water made available in the catchment of River Murray above Hume Dam by the Snowy Scheme.
+
+2. Definitions
+
+In this Schedule:
+
+(1) “Baseline Conditions” means:
+
+(a) the infrastructure supplying water;
+
+(b) the rules for allocating water and for water management systems applying;
+
+(c) the operating efficiency of water management systems; and
+
+(d) existing entitlements to take and use water and the extent to which those entitlements were used,
+
+within the Murray-Darling Basin as at the Corporatisation Date;
+
+(2) “Corporatisation Date” means the date on which the Snowy Mountains Hydro-electric Power Act 1949 (Cth) is repealed by the Snowy Hydro Corporatisation Act 1997 (Cth);
+
+(3) “Environmental Entitlement” means:
+
+(a) a category of environmental water referred to in section 8 of the Water Management Act 2000 (NSW); and
+
+(b) a bulk entitlement granted under the Water Act 1989 (Vic) that includes conditions relating to environmental purposes,
+
+in both cases comprising a volume of water derived from either or both of Water Savings and Water Entitlements;
+
+(4) “Goulburn River System” means the Broken, Goulburn, Campaspe and Loddon Rivers and the water supply systems supplied by those rivers;
+
+(4A) “Initial River Murray Increased Flows Account” means the account maintained by the Authority under paragraph 21(1)(a);
+
+(5) “Licensee” means the licensee under the Snowy Water Licence;
+
+(7) “Lower Darling River System” means the Darling River and its anabranch system from the upstream extent of the Menindee Lakes Storage and downstream and the water supply systems supplied by that River;
+
+(7A) “Ministerial Corporation” means the Water Administration Ministerial Corporation constituted under section 371 of the Water Management Act 2000 (NSW);
+
+(8) “Month” means calendar month and “Monthly” means each calendar month;
+
+(10) “Murrumbidgee River System” means the Murrumbidgee River and the water supply systems supplied by that river;
+
+(11) “Relaxation Volume” has the same meaning as in the Snowy Water Licence as amended by the Notice of Variation dated 18 November 2020;
+
+(12) “Reliability” with respect to a supply of water means the statistical probability of being able to supply a particular volume in any Water Year;
+
+(13) “Required Annual Release” has the same meaning as in the Snowy Water Licence taken as a whole as amended by the Notice of Variation dated 18 November 2020. For the avoidance of doubt, “Required Annual Release” is not a reference to “Agreed Annual Release” under that Licence;
+
+(13A) “Required Annual Release Pre-Release Volume” means the volume of water for the Water Year worked out under clause 13.4 of Schedule Four to the Snowy Water Licence, as amended by the Notice of Variation dated 18 November 2020;
+
+(14) “Required Annual Release Shortfall” means, for any Water Year, the volume of water by which the sum of the following exceeds the actual volume of water released from the Snowy Scheme to the catchment of the River Murray upstream of Hume Dam in that Water Year:
+
+(a) the Required Annual Release from the Snowy-Murray Development for that Water Year;
+
+(b) the River Murray Drought Release (if any) for that Water Year;
+
+(c) the River Murray Increased Flows Requested Release (if any) for that Water Year;
+
+(15) “River Murray Above Target Releases” means, for any Water Year, the volume of water that is released from the Snowy Scheme to the catchment of the River Murray upstream of Hume Dam in that Water Year minus the sum of the following:
+
+(a) the Required Annual Release from the Snowy-Murray Development for that Water Year;
+
+(b) the River Murray Drought Release (if any) for that Water Year;
+
+(c) the River Murray Increased Flows Requested Release (if any) for that Water Year;
+
+(d) the Required Annual Release Pre-Release Volume (if any) for that Water Year;
+
+(16) “River Murray Annual Allocation” with respect to each Water Year means the annual allocation from the River Murray Apportioned Entitlement determined by New South Wales;
+
+(17) “River Murray Apportioned Entitlement” means the volume of water from the Environmental Entitlements that is apportioned to the River Murray Increased Flows by New South Wales;
+
+(17A) “River Murray Drought Release” for a Water Year means the volume of water for that Water Year worked out under subclause 10.2(5) of Schedule Four to the Snowy Water Licence, as amended by the Notice of Variation dated 18 November 2020;
+
+(18) “River Murray Increased Flows” means releases of water made in accordance with Part V of this Schedule, for the purpose of environmental flows from the Snowy Scheme, whether the water is released directly from the Snowy Scheme or is substituted for that purpose from water sources other than the Snowy Scheme;
+
+(19) “River Murray Increased Flows Accounts” means the water accounts to be maintained by the Authority under clause 21 of this Schedule;
+
+(20) “River Murray Increased Flows in Authority Storages Account” means the water account to be maintained by the Authority under paragraph 21(1)(b) of this Schedule;
+
+(20A) “River Murray Increased Flows Requested Release” means the volume of water specified in a notice given by the Authority to the Ministerial Corporation, in accordance with the Strategy, requesting a call out of River Murray Increased Flows for that Water Year under subclause 10.4(1) of Schedule Four to the Snowy Water Licence, as amended by the Notice of Variation dated 18 November 2020;
+
+(21) “River Murray System” means the aggregate of:
+
+(a) the River Murray;
+
+(b) all tributaries entering the River Murray upstream of Doctors Point;
+
+(c) the Ovens River; and
+
+(d) the Lower Darling River System;
+
+(22) “Seasonal Availability” with respect to the water to which an entitlement refers means:
+
+(a) for that part of the entitlement whose availability is determined by reference to seasonal allocations: the final seasonal allocation announcement of the relevant State during the previous Water Year; and
+
+(b) for that part of the entitlement whose availability is determined by reference to the entitlement of South Australia: the allocated volume received during the previous Water Year by South Australia as a proportion of its entitlement during that Water Year under this Agreement;
+
+(23) “Snowy Montane Rivers External Increased Flows” means releases of water made by the Licensee to montane rivers under the environmental flow requirements of the Snowy Water Licence which would have flowed through either:
+
+(a) the Murray 1 Power Station in the case of the Snowy-Murray Development; or
+
+(b) Jounama Pondage in the case of the Snowy-Tumut Development,
+
+if it were not released for environmental purposes;
+
+(24) “Snowy-Murray Development” means the component of the Snowy Scheme comprising works that regulate the waters of the Upper Snowy River, the Geehi River and Bogong Creek;
+
+(25) “Snowy-Murray Development Annual Allocation” means the annual allocation for any Water Year for the Snowy-Murray Development determined by New South Wales by reference to the Seasonal Availability of the water contained in the Snowy-Murray Development Designated Entitlement;
+
+(26) “Snowy-Murray Development Designated Entitlement” means that part of the Environmental Entitlements designated against the Snowy-Murray Development by New South Wales;
+
+(27) “Snowy-Murray Development (River Murray) Environmental Entitlements” means both:
+
+(a) a category of environmental water referred to in section 8 of the Water Management Act 2000 (NSW); and
+
+(b) a bulk entitlement granted under the Water Act 1989 (Vic) that includes conditions relating to the protection of the environment,
+
+in both cases comprising a volume of water derived from either or both of Water Savings and Water Entitlements sourced from the River Murray System or the Goulburn River System;
+
+(28) “Snowy Notional Spill” means:
+
+(a) in the case of the Snowy-Murray Development: the calculated active volume of water belonging to the Snowy-Murray Development stored in Eucumbene Reservoir exceeding 2,019 GL and accounted as a loss from the Snowy-Murray Development and a gain to the Snowy-Tumut Development;
+
+(b) in the case of Snowy-Tumut Development: the calculated active volume of water belonging to the Snowy-Tumut Development stored in Eucumbene Reservoir exceeding 2,348 GL and accounted as a loss from the Snowy-Tumut Development and a gain to the Snowy-Murray Development;
+
+(29) “Snowy River” means the Snowy River downstream of Jindabyne Dam;
+
+(30) “Snowy River Annual Allocation” means the annual allocation from the Snowy River Apportioned Entitlement for any Water Year, determined by New South Wales;
+
+(31) “Snowy River Apportioned Entitlement” means the volume of water from the Environmental Entitlements apportioned to environmental flows from the Snowy Scheme to the Snowy River, by New South Wales;
+
+(32) “Snowy Scheme” means the dams, tunnels, power stations, aqueducts and other structures that comprise the Snowy-Murray Development and the Snowy-Tumut Development, that together are known as the Snowy Mountains Hydro-electric Scheme;
+
+(33) “Snowy-Tumut Development” means the component of the Snowy Scheme comprising works that regulate the waters of the Eucumbene River, the Tooma River, the Upper Murrumbidgee River and the Upper Tumut River;
+
+(34) “Snowy-Tumut Development Annual Allocation” with respect to each Water Year means the annual allocation for the Snowy-Tumut Development determined by New South Wales by reference to the Seasonal Availability of the water contained in the Snowy-Tumut Development Designated Entitlement;
+
+(35) “Snowy-Tumut Development Designated Entitlement” means that part of the Environmental Entitlements designated against the Snowy-Tumut Development by New South Wales;
+
+(36) “Snowy Water Licence” means the licence issued under Part 5 of the Snowy Hydro Corporatisation Act 1997 (NSW);
+
+(37) “Strategy” means the Strategy referred to in subclause 20(1) of this Schedule;
+
+(37A) “Substitution” means the alteration of an account to substitute a volume of water to be shown as being stored in a major storage for an equivalent volume of water previously shown as being credited to the Snowy Scheme, or vice versa;
+
+(38) “Translation Factors” means the translation factors used to convert Water Savings and Water Entitlements into an Environmental Entitlement with specified Reliability;
+
+(39) “Upper Snowy River” means the Snowy River upstream of Jindabyne Dam (including the Mowamba River and the Cobbon Creek) but excluding the Eucumbene River;
+
+(39A) “Valley” means a valley (within the ordinary meaning of that word), catchment or geographic area associated with a river within the following river systems:
+
+(a) the River Murray System;
+
+(b) the Murrumbidgee River System;
+
+(c) the Goulburn River System;
+
+(40) “Water Entitlement” means any of the following types of licence, right, share or entitlement purchased for the purpose of environmental flows from the Snowy Scheme:
+
+(a) in New South Wales, an access licence granted under the Water Management Act 2000 (NSW);
+
+(b) in Victoria, any of the following:
+
+(i) a water right granted under the Water Act 1989 (Vic), as in force immediately before the commencement of the Water (Resource Management) Act 2005 (Vic);
+
+(ii) a water share (within the meaning of that Act) issued under that Act;
+
+(iii) a licence to take and use water under that Act, as in force immediately before the commencement of the Water (Resource Management) Act 2005 (Vic);
+
+(iv) a bulk entitlement (within the meaning of that Act) granted under that Act;
+
+(v) any transferable allocation of sales water made to the holder of a right or licence mentioned in subparagraph (i) or (iii);
+
+(41) “Water Market” means, with respect to a Water Entitlement, the market from which the relevant Water Entitlement is drawn;
+
+(42) “Water Savings” means the volume of water that is:
+
+(a) sourced from the River Murray System, the Murrumbidgee River System or the Goulburn River System; and
+
+(b) saved for the purpose of environmental flows from the Snowy Scheme;
+
+through one or more projects that:
+
+(c) reduce transmission losses, evaporation or system inefficiencies; or
+
+(d) achieve either or both of the following:
+
+(i) water management improvements;
+
+(ii) environmental improvements;
+
+(43) “Water Year” means the period of 12 Months commencing on 1 May in each year.
+
+PART II—CALCULATING WATER VOLUMES
+
+3. The Snowy Scheme And The River Murray
+
+(1) In this Agreement, “Water Available to the Snowy-Murray Development” means:
+
+Water of the Upper Snowy River regulated by the Snowy Scheme
+
+PLUS water of the Geehi River and Bogong Creek regulated by the Snowy Scheme
+
+PLUS any Snowy Notional Spill from the Snowy-Tumut Development to the Snowy-Murray Development
+
+PLUS the transfer from the Snowy-Tumut Development to the Snowy-Murray Development of the Snowy-Tumut Development Annual Allocation
+
+PLUS 4·5 GL per Water Year transferred from the Snowy-Tumut Development to the Snowy-Murray Development
+
+MINUS Snowy Notional Spill from the Snowy-Murray Development to the Snowy-Tumut Development.
+
+(2) In this Agreement, “Net Snowy-Murray Development Diversions to the River Murray” means the volume of water calculated as follows:
+
+Water Available to the Snowy-Murray Development released by the Snowy Scheme to the catchment of the River Murray upstream of Hume Dam
+
+MINUS the water of the Tooma River regulated by the Snowy Scheme
+
+MINUS the natural flows of the Geehi River and Bogong Creek regulated by the Snowy Scheme.
+
+(3) In this Agreement, “Murray to Murrumbidgee Inter-Valley Transfer” means the volume of Water Available to the Snowy-Murray Development released by the Snowy Scheme to the catchment of the Murrumbidgee River.
+
+4. The Snowy Scheme And The Murrumbidgee River
+
+(1) In this Agreement, “Water Available to the Snowy-Tumut Development” means:
+
+Water of the Eucumbene River, the Tooma River, the Upper Murrumbidgee River and the Upper Tumut River regulated by the Snowy Scheme
+
+PLUS any Snowy Notional Spill from the Snowy-Murray Development to the Snowy-Tumut Development
+
+MINUS any Snowy Notional Spill from the Snowy-Tumut Development to the Snowy-Murray Development
+
+MINUS the transfer from the Snowy-Tumut Development to the Snowy-Murray Development of the Snowy-Tumut Development Annual Allocation
+
+MINUS 4·5 GL per Water Year transferred from the Snowy-Tumut Development to the Snowy-Murray Development.
+
+(2) In this Agreement, “Murrumbidgee to Murray Inter-Valley Transfer” means the volume of Water Available to the Snowy-Tumut Development released by the Snowy Scheme to the catchment of the River Murray upstream of Hume Dam.
+
+5. Excess Snowy River Releases
+
+In this Agreement, “Excess Snowy River Releases” means the greater of zero and the volume of water calculated as follows:
+
+The regulated releases made to the Snowy River in the relevant Water Year, measured immediately below the confluence of the Snowy River and the Mowamba River
+
+MINUS 9 GL
+
+MINUS the Snowy River Annual Allocation in the relevant Water Year.
+
+6. Snowy River Release Shortfalls
+
+In this Agreement, “Snowy River Release Shortfalls” means the greater of zero and the volume of water calculated as follows:
+
+The Snowy River Annual Allocation in the relevant Water Year
+
+PLUS 9 GL
+
+MINUS the regulated releases made to the Snowy River in the relevant Water Year, measured immediately below the confluence of the Snowy River and the Mowamba River.
+
+7. Accounting For Water Releases
+
+For the purposes of this Agreement, water releases from the Snowy-Murray Development to the catchment of the River Murray upstream of Hume Dam are to be accounted as:
+
+(1) water releases as at Murray 1 Power Station; and
+
+(2) any water that would have passed through the Murray 1 Power Station but does not:
+
+(a) for operational reasons; or
+
+(b) because it is released from the Snowy Scheme as Snowy Montane Rivers External Increased Flows,
+
+and that flows into the catchment of the River Murray upstream of Hume Dam.
+
+PART III—WATER ACCOUNTING
+
+8. Entitlements of New South Wales and Victoria to Use Water
+
+(1) For the purposes of paragraph 94(1)(e) of the Agreement:
+
+(a) New South Wales is entitled to use the volume of water calculated under subclause (3); and
+
+(b) Victoria is entitled to use the volume of water calculated under subclause (4).
+
+Calculation of base entitlements of New South Wales and Victoria
+
+(2) New South Wales and Victoria are each entitled to use half the volume of water calculated as follows:
+
+The Net Snowy-Murray Development Diversions to the River Murray
+
+PLUS Murray to Murrumbidgee Inter-Valley Transfers
+
+PLUS the Required Annual Release Shortfall
+
+PLUS the Snowy-Murray Development Annual Allocation
+
+PLUS Excess Snowy River Releases in excess of the volume of the Snowy River Release Shortfall in the previous Water Year
+
+MINUS at the discretion of the Authority, Murrumbidgee to Murray Inter-Valley Transfers
+
+MINUS the Required Annual Release Shortfall from the previous Water Year
+
+MINUS River Murray Above Target Releases allocated, in accordance with the Strategy, to New South Wales, Victoria and South Australia received by Hume Reservoir
+
+MINUS the River Murray Increased Flows Requested Release (if any) for that Water Year that is assigned to New South Wales, Victoria and South Australia in accordance with the Strategy
+
+PLUS the volume of water assigned to a major storage for River Murray Increased Flows as a result of a Substitution made in accordance with the Strategy.
+
+Total entitlement of New South Wales
+
+(3) For the purposes of paragraph (1)(a), the volume of water that New South Wales is entitled to use is calculated as follows:
+
+The volume of water that New South Wales is entitled to use under subclause (2)
+
+PLUS the volume of water in a major storage that the Authority has assigned to New South Wales as a result of a Substitution made in accordance with the Strategy
+
+PLUS the River Murray Increased Flows Requested Release (if any) for that Water Year that is assigned to New South Wales in accordance with the Strategy
+
+PLUS River Murray Above Target Releases allocated, in accordance with the Strategy, to New South Wales received by Hume Reservoir
+
+MINUS the volume of water credited into the Initial River Murray Increased Flows Account to New South Wales following a Substitution made in accordance with the Strategy.
+
+Total entitlement of Victoria
+
+(4) For the purposes of paragraph (1)(b), the volume of water that Victoria is entitled to use is calculated as follows:
+
+The volume of water that Victoria is entitled to use under subclause (2)
+
+PLUS the volume of water in a major storage that the Authority has assigned to Victoria as a result of a Substitution made in accordance with the Strategy
+
+PLUS the River Murray Increased Flows Requested Release (if any) for that Water Year that is assigned to Victoria in accordance with the Strategy
+
+PLUS River Murray Above Target Releases allocated, in accordance with the Strategy, to Victoria received by Hume Reservoir
+
+MINUS the volume of water credited into the Initial River Murray Increased Flows Account to Victoria following a Substitution made in accordance with the Strategy.
+
+9. Water Estimated To Be Under The Control Of The Authority
+
+Water referred to in paragraph 101(e) of the Agreement is estimated as follows:
+
+The Net Snowy-Murray Development Diversions to the River Murray
+
+PLUS Murray to Murrumbidgee Inter-Valley Transfers
+
+PLUS the Required Annual Release Shortfall
+
+PLUS the Snowy-Murray Development Annual Allocation
+
+PLUS Excess Snowy River Releases in excess of the volume of the Snowy River Release Shortfall in the previous Water Year
+
+MINUS at the discretion of the Authority, Murrumbidgee to Murray Inter-Valley Transfers
+
+MINUS the Required Annual Release Shortfall from the previous Water Year
+
+MINUS River Murray Above Target Releases allocated to the River Murray Increased Flows received by Hume Reservoir
+
+MINUS River Murray Above Target Releases allocated, in accordance with the Strategy, to New South Wales, Victoria and South Australia received by Hume Reservoir
+
+MINUS the River Murray Increased Flows Requested Release (if any) for that Water Year;
+
+in each case before the end of the following May.
+
+10. Allocation of Water to New South Wales and Victoria
+
+The volume of water referred to in paragraph 106(1)(b) of the Agreement is calculated as follows:
+
+The Net Snowy-Murray Development Diversions to the River Murray
+
+PLUS Murray to Murrumbidgee Inter-Valley Transfers
+
+PLUS the Required Annual Release Shortfall
+
+PLUS the Snowy-Murray Development Annual Allocation
+
+PLUS Excess Snowy River Releases in excess of the volume of the Snowy River Release Shortfall in the previous Water Year
+
+MINUS at the discretion of the Authority, Murrumbidgee to Murray Inter-Valley Transfers
+
+MINUS the Required Annual Release Shortfall from the previous Water Year
+
+MINUS River Murray Above Target Releases allocated to the River Murray Increased Flows received by Hume Reservoir
+
+MINUS River Murray Above Target Releases allocated, in accordance with the Strategy, to New South Wales, Victoria and South Australia received by Hume Reservoir
+
+MINUS the River Murray Increased Flows Requested Release (if any) for that Water Year.
+
+11. Tributary Inflows
+
+(1) The volume of water referred to in sub-clause 108(2) of the Agreement is calculated as follows:
+
+The component of the Required Annual Release Shortfall from the previous Water Year allocated to New South Wales under sub-clause 13(2) of this Schedule
+
+PLUS half of the River Murray Above Target Releases allocated to the River Murray Increased Flows received by Hume Reservoir
+
+PLUS half of the Excess Snowy River Release up to the volume of half of the Snowy River Release Shortfall in the previous Water Year for which an adjustment was made under sub-clauses 11(2) and 12(1) of this Schedule in the previous Water Year
+
+PLUS at the discretion of the Authority, Murrumbidgee to Murray Inter-Valley Transfers
+
+PLUS River Murray Above Target Releases allocated, in accordance with the Strategy, to New South Wales received by Hume Reservoir
+
+PLUS the River Murray Increased Flows Requested Release (if any) for that Water Year that is assigned to New South Wales in accordance with the Strategy
+
+PLUS half of the River Murray Increased Flows Requested Release (if any) for that Water Year that is assigned to River Murray Increased Flows in accordance with the Strategy
+
+PLUS the volume of water in a major storage that the Authority has assigned to New South Wales as a result of a Substitution made in accordance with the Strategy
+
+PLUS half the volume of water assigned to a major storage for River Murray Increased Flows as a result of a Substitution made in accordance with the Strategy.
+
+(2) The volume of water referred to in sub-clause 108(3) of the Agreement is calculated as follows:
+
+The component of the Required Annual Release Shortfall from the previous Water Year allocated to Victoria under sub-clause 13(2) of this Schedule
+
+PLUS half of the River Murray Above Target Releases allocated to the River Murray Increased Flows received by Hume Reservoir
+
+PLUS River Murray Above Target Releases allocated, in accordance with the Strategy, to Victoria received by Hume Reservoir
+
+PLUS half of the Snowy River Release Shortfall, unless Victoria has previously advised the Authority that Victoria waives this element of its allocation in any Water Year
+
+PLUS the River Murray Increased Flows Requested Release (if any) for that Water Year that is assigned to Victoria in accordance with the Strategy
+
+PLUS half of the River Murray Increased Flows Requested Release (if any) for that Water Year that is assigned to River Murray Increased Flows in accordance with the Strategy
+
+PLUS the volume of water in a major storage that the Authority has assigned to Victoria as a result of a Substitution made in accordance with the Strategy
+
+PLUS half the volume of water assigned to a major storage for River Murray Increased Flows as a result of a Substitution made in accordance with the Strategy.
+
+12. Use By New South Wales And Victoria Of Allocated Water
+
+(1) The quantity of water referred to in paragraph 109(b) of the Agreement is calculated as follows:
+
+Murray to Murrumbidgee Inter-Valley Transfers
+
+PLUS Excess Snowy River Releases in excess of the volume of the Snowy River Release Shortfall in the previous Water Year
+
+PLUS the Snowy-Murray Development Annual Allocation sourced from New South Wales
+
+PLUS the component of the Required Annual Release Shortfall allocated to New South Wales under sub-clause 13(1) of this Schedule
+
+PLUS unless otherwise agreed with Victoria, half of the Snowy River Release Shortfall
+
+PLUS the volume of water credited into the Initial River Murray Increased Flows Account to New South Wales following a Substitution made in accordance with the Strategy.
+
+(2) The quantity of water referred to in paragraph 109(c) of the Agreement is calculated as follows:
+
+The Snowy-Murray Development Annual Allocation sourced from Victoria
+
+PLUS the component of the Required Annual Release Shortfall allocated to Victoria under sub-clause 13(1) of this Schedule
+
+PLUS half of the Excess Snowy River Release up to the volume of half of the Snowy River Release Shortfall in the previous Water Year for which an adjustment was made under subclauses 11(2) and 12(1) of this Schedule in the previous Water Year, (such adjustments to reflect any waiver or agreement with Victoria as referred to in those subclauses)
+
+PLUS the volume of water credited into the Initial River Murray Increased Flows Account to Victoria following a Substitution made in accordance with the Strategy.
+
+13. Required Annual Release Shortfalls
+
+(1) If at the end of a Water Year there is a Required Annual Release Shortfall, the Required Annual Release Shortfall is to be accounted for by the Authority in accordance with Table One.
+
+TABLE ONE: WATER ACCOUNTING AND REQUIRED ANNUAL RELEASE SHORTFALLS
+
+TYPE OF WATER YEAR | ARRANGEMENT WITH RESPECT TO REQUIRED ANNUAL RELEASE SHORTFALL | WATER ACCOUNTING OUTCOMES
+
+Water Year during which a period of special accounting is not in effect | Victoria agrees to the Required Annual Release Shortfall | New South Wales and Victoria deemed to each have used the Required Annual Release Shortfall as agreed
+
+Victoria does not agree to the Required Annual Release Shortfall | New South Wales deemed to have used the whole of the Required Annual Release Shortfall
+
+Water Year during which a period of special accounting is in effect | Victoria and the Ministerial Council agree to the Required Annual Release Shortfall | New South Wales and Victoria deemed to each have used the Required Annual Release Shortfall as agreed
+
+The Ministerial Council does not agree to the Required Annual Release Shortfall | New South Wales deemed to have used the whole of the Required Annual Release Shortfall
+
+(2) The volume of any Required Annual Release Shortfall from the previous Water Year must be allocated equally between New South Wales and Victoria until the balance of Required Annual Release Shortfalls for either State is zero and thereafter wholly to the other State.
+
+14. Other Water Accounting Provisions
+
+(1) Where under this Schedule the Authority is required to adjust accounts in connection with the Snowy-Murray Development Annual Allocation, it must make those adjustments in equal Monthly quantities.
+
+(2) Where under this Schedule the Authority is required to adjust accounts in connection with inter-valley transfer, it must make those adjustments in equal Monthly quantities during the balance of the Water Year in which New South Wales notifies the Authority of the relevant inter-valley transfer.
+
+(3) Each release of River Murray Increased Flows must be allocated half to New South Wales and half to Victoria.
+
+PART IV—SNOWY-MURRAY DEVELOPMENT (RIVER MURRAY) ENVIRONMENTAL ENTITLEMENTS
+
+15. Translation Factors
+
+(1) New South Wales and Victoria must each transfer Water Savings and Water Entitlements to its respective Snowy-Murray Development (River Murray) Environmental Entitlement in accordance with Translation Factors agreed between each of them and the Authority.
+
+(2) New South Wales, Victoria and the Authority must ensure that:
+
+(a) the Translation Factors are determined in a manner consistent with the principles used to determine exchange rates in the relevant Water Market at the time of each transfer; and
+
+(b) the use of Translation Factors to transfer Water Savings and Water Entitlements to a Snowy-Murray Development (River Murray) Environmental Entitlement will not have a significant adverse impact on:
+
+(i) the level of Reliability of entitlements to water diverted from the River Murray System, the Murrumbidgee River System and the Goulburn River System;
+
+(ii) the environmental benefits related to the quantity and timing of water flows for environmental purposes in the River Murray System, the Murrumbidgee River System and the Goulburn River System;
+
+(iii) the Seasonal Availability of the entitlement to be received during that Water Year by South Australia under this Agreement; and
+
+(iv) water quality in the River Murray in South Australia.
+
+16. Apportionment Of Environmental Entitlements
+
+New South Wales and Victoria must notify the Authority of how each Environmental Entitlement has been apportioned between:
+
+(1) the Snowy River Apportioned Entitlement; and
+
+(2) the River Murray Apportioned Entitlement.
+
+17. Transfers to Environmental Entitlements
+
+If New South Wales or Victoria (the transferring State) transfers Water Entitlements or Water Savings, or both, to an Environmental Entitlement, the transferring State must notify the Authority of the following:
+
+(a) the volume and Reliability of the Water Entitlements or Water Savings, or both, that were transferred to the Environmental Entitlement;
+
+(b) the Valley from which the Water Entitlements or Water Savings, or both, were transferred;
+
+(c) the change to the volume and Reliability of the Environmental Entitlement as a result of the transfer.
+
+PART V—RIVER MURRAY INCREASED FLOWS
+
+19. Obligation Of Authority To Make River Murray Increased Flows
+
+Subject to this Part, the Authority must release River Murray Increased Flows.
+
+20. Strategy for River Murray Increased Flows
+
+(1) The Strategy is:
+
+(a) the document titled Strategy for River Murray Increased Flows 2026, as amended from time to time; or
+
+(b) any replacement document the Ministerial Council has approved, by resolution, as amended from time to time.
+
+Content of the Strategy
+
+(2) The Strategy must include the environmental objectives that the River Murray Increased Flows are intended to achieve in relation to the River Murray System by reference to:
+
+(a) the environmental objectives set out in Part 2 of Chapter 8 of the Basin Plan, as in force immediately before the commencement of this clause; or
+
+(b) if the environmental objectives set out in Part 2 of Chapter 8 of the Basin Plan are amended on or after the commencement of this clause and the Ministerial Council agrees, by resolution, to include the amended environmental objectives in the Strategy—the amended environmental objectives, as in force at a particular time.
+
+(3) The Strategy:
+
+(a) must:
+
+(i) require that River Murray Increased Flows are released and used in accordance with the environmental objectives included in the Strategy; and
+
+(ii) provide that the River Murray Increased Flows have first priority from River Murray Above Target Releases; and
+
+(iii) include adaptive management principles to allow the environmental benefits of River Murray Increased Flows to be optimised; and
+
+(iv) identify some or all of the environmental reporting and monitoring conditions relating to River Murray Increased Flows set out under Commonwealth water legislation or State water management law; and
+
+(b) may provide that water credited to the River Murray Increased Flows in Authority Storages Account need not be released during the Water Year in which it is credited; and
+
+(c) must not have a significant adverse impact upon the security of entitlements to water, unless the Ministerial Council determines otherwise.
+
+Note: Subparagraph (a)(iv) does not require the Strategy to include an exhaustive list of environmental reporting and monitoring conditions relating to River Murray Increased Flows.
+
+When the Strategy takes effect
+
+(4) The Strategy takes effect as follows:
+
+(a) for the document referred to in paragraph (1)(a)—on the day the Water Amendment (Murray-Darling Basin Agreement—River Murray Increased Flows and Other Measures) Regulations 2026 commence;
+
+(b) for a document referred to in paragraph (1)(b)—on the day after the Ministerial Council has approved, by resolution, the replacement document.
+
+Publication of the Strategy
+
+(5) The Authority must, as soon as practicable after the Strategy takes effect, publish the Strategy on the Authority’s website.
+
+Amending the Strategy
+
+(6) The Ministerial Council may from time to time, by resolution, amend the Strategy.
+
+(7) Amendments to the Strategy take effect on the day after the Ministerial Council makes a resolution to amend the Strategy under subclause (6).
+
+(8) The Authority must, as soon as practicable after the amended Strategy takes effect, publish the amended Strategy on the Authority’s website.
+
+20A. Periodic review of Strategy for River Murray Increased Flows
+
+(1) The Authority must conduct a periodic review of the Strategy.
+
+(2) Without limiting subclause (1), the review of the Strategy must consider:
+
+(a) any amendments of the environmental objectives set out in Part 2 of Chapter 8 of the Basin Plan since the commencement of the previous review; and
+
+(b) the impact of either of the following on the Strategy:
+
+(i) any amendments to the Snowy Water Licence and the deed between the Commonwealth, New South Wales and Victoria since the commencement of the previous review;
+
+(ii) the making or varying of any other agreements with respect to River Murray Increased Flows since the commencement of the previous review; and
+
+(c) if the Strategy requires the review to consider specified matters—the specified matters; and
+
+(d) any other matters relating to the Strategy or River Murray Increased Flows that the Committee directs.
+
+Timing of reviews
+
+(3) The first review must commence before 30 June 2031.
+
+(4) Each later review must commence:
+
+(a) no later than 10 years after the completion of the previous review; and
+
+(b) at a time determined by the Committee.
+
+(5) The Authority must complete the review within 12 months of the day the review commences, unless the Committee agrees a longer period for completing the review.
+
+Review report
+
+(6) The Authority must prepare a report of the review and provide it to the Committee.
+
+(7) After considering the review report, the Committee must submit the report, and the Committee’s advice in relation to it, to the Ministerial Council.
+
+21. Authority To Maintain River Murray Increased Flows Accounts
+
+(1) The continuous water accounts for the River Murray Increased Flows known as:
+
+(a) the Initial River Murray Increased Flows Account; and
+
+(b) the River Murray Increased Flows in Authority Storages Account,
+
+maintained under this subclause, as in force immediately before the commencement of the Water Amendment (Murray-Darling Basin Agreement—River Murray Increased Flows and Other Measures) Regulations 2026, are continued in existence.
+
+(2) The Authority must maintain the continuous water accounts of the River Murray Increased Flows referred to in subclause (1) in the manner required by this clause.
+
+(3) The Authority must:
+
+(a) credit the Initial River Murray Increased Flows Account with the River Murray Annual Allocation notified by New South Wales;
+
+(b) transfer from the Initial River Murray Increased Flows Account to the River Murray Increased Flows in Authority Storages Account, River Murray Above Target Releases allocated to the River Murray Increased Flows in accordance with the Strategy;
+
+(c) record in the River Murray Increased Flows in Authority Storages Account the transfer of water in that account between Authority storages; and
+
+(d) record in the River Murray Increased Flows in Authority Storages Account the release of River Murray Increased Flows from Authority storages.
+
+(4) The River Murray Increased Flows Accounts must be independently audited unless the Ministerial Council, by resolution, declares otherwise.
+
+(5) As soon as practicable after the completion of each audit, the Authority must send a copy of the audited River Murray Increased Flows Accounts to the Contracting Governments.
+
+22. Binding Effect of Strategy
+
+Despite any other provision in this Agreement but subject to Divisions 2 and 3 of Part XII of the Agreement, the Authority must:
+
+(1) allocate River Murray Above Target Releases to the River Murray Increased Flows Accounts; and
+
+(2) manage the water in and releases of water from the River Murray Increased Flows in Authority Storages Account,
+
+in accordance with the Strategy.
+
+PART VI—NOTIFICATION AND CONSULTATION PROVISIONS
+
+23. Authority To Be Informed Of New Proposals
+
+A Contracting Government must inform the Authority of any proposal:
+
+(1) to achieve Water Savings or to purchase Water Entitlements for the purpose of transferring those Water Savings or Water Entitlements to the Environmental Entitlements; or
+
+(2) to modify the reliability of a supply of water pursuant to an Environmental Entitlement,
+
+in accordance with sub-clause 49(4) of the Agreement.
+
+24. Snowy Scheme Annual Water Operating Plan
+
+(1) The parties acknowledge that as a result of provisions in the Snowy Water Licence and a deed between the Commonwealth, New South Wales and Victoria as at the Corporatisation Date, the Licensee is bound to consult with others, including the Authority, while developing each Annual Water Operating Plan and any variation to each Plan.
+
+(2) The Commonwealth, New South Wales and Victoria must:
+
+(a) ensure the direct participation by the Authority in each consultation referred to in sub-clause 24(1) or held under any varied consultation arrangements; and
+
+(b) consult with the Authority before varying existing consultation arrangements.
+
+25. Notifications Required
+
+(1) Each Contracting Government must, at the time specified by the Authority, notify the Authority of such water volumes and estimates as are reasonably requested by the Authority to enable it to make calculations referred to in this Schedule.
+
+(2) The Authority must, at any time specified by New South Wales, notify New South Wales of such water volumes and estimates calculated by the Authority by reference to the Baseline Conditions as are reasonably requested by New South Wales, to enable New South Wales to calculate the Required Annual Release.
+
+PART VII—ANALYTICAL MODELS
+
+26. Developing Analytical Models
+
+(1) The Authority must develop an analytical model for determining, in the case of the River Murray System:
+
+(a) storage volumes; and
+
+(b) total diversions,
+
+that would have occurred under Baseline Conditions.
+
+(2) New South Wales must develop an analytical model for determining, in the case of the Murrumbidgee River System:
+
+(a) storage volumes; and
+
+(b) total diversions,
+
+that would have occurred under Baseline Conditions.
+
+(3) An analytical model developed under this clause:
+
+(a) must be the best model available to the Authority or New South Wales, from time to time, for the purpose of calculating the timing and quantity of the Relaxation Volume under Baseline Conditions; and
+
+(b) must be tested against relevant historical data to determine the accuracy of the model.
+
+(4) New South Wales may at its own cost engage an independent auditor to evaluate whether the model developed under sub-clause 26(1) of this Schedule is:
+
+(a) the best available to the Authority; and
+
+(b) accurate.
+
+PART VIII—OTHER PROVISIONS
+
+27. Inter-Valley Water Transfers
+
+(1) To facilitate water transfers, the Authority may request New South Wales to release:
+
+(a) Water Available to the Snowy-Murray Development to each or both of the Tumut River catchment and the Murrumbidgee River catchment; or
+
+(b) Water Available to the Snowy-Tumut Development to the River Murray catchment upstream of Hume Dam.
+
+(2) If New South Wales agrees with the request made under sub-clause 27(1) of this Schedule, any inter-valley transfer referred to in sub-clause 27(1) must be converted into an allocation to New South Wales of water in Hume Reservoir.
+
+PART IX—APPLICATION, SAVING AND TRANSITIONAL PROVISIONS
+
+DIVISION 1—AMENDMENTS MADE BY THE WATER AMENDMENT (MURRAY-DARLING BASIN AGREEMENT—RIVER MURRAY INCREASED FLOWS AND OTHER MEASURES) REGULATIONS 2026
+
+28. Definitions
+
+In this Division:
+
+“amending Schedule” means Schedule 1 to the Water Amendment (Murray-Darling Basin Agreement—River Murray Increased Flows and Other Measures) Regulations 2026.
+
+29. Transitional provision—Calculation of Required Annual Release
+
+(1) For the purposes of the Water Year starting on 1 May 2026, the Required Annual Release for that Water Year is the sum of the amounts worked out under subclauses (2) and (3).
+
+Calculation of Required Annual Release for May to September 2026
+
+(2) The Required Annual Release for the period beginning on 1 May 2026 and ending on 30 September 2026 is the volume of water, as calculated on 1 September 2026 (the calculation day), that isof the Required Annual Release (within the meaning of that term as in force on the calculation day) for that Water Year.
+
+Note: For the months between May and September 2026, the Required Annual Release is worked out as a proportion of the total Required Annual Release for that Water Year based on the requirements of this Schedule, as in force on 1 September 2026.
+
+Calculation of Required Annual Release for October 2026 to April 2027
+
+(3) The Required Annual Release for the period beginning on 1 October 2026 and ending on 30 April 2027 is the volume of water, as calculated on 1 April 2027, that isof the Required Annual Release for that Water Year, worked out in accordance with the requirements set out in this Schedule, as amended by the amending Schedule.
+
+Note: For the months between October 2026 and April 2027, the Required Annual Release is worked out as a proportion of the total Required Annual Release for that Water Year based on the requirements of this Schedule, as amended by the amending Schedule.
+
+SCHEDULE G Accounting for south Australia’s storage rights
+
+PART 1 – PRELIMINARY
+
+1. Purposes of Schedule G
+
+The purposes of this Schedule are, in accordance with clause 130 of the Agreement:
+
+(a) to set out rules for giving effect to, and accounting for, South Australia’s storage rights under clause 91 of the Agreement; and
+
+(b) to define what constitutes an effect on water availability and an effect on storage access for that clause.
+
+2. Definitions and Interpretation
+
+(1) In this Schedule except where inconsistent with the context:
+
+“account” means an account maintained under subclause 20 (1).
+
+“allocation” means the volume of water allocated for use under an entitlement in any financial year pursuant to the law of a State.
+
+“deferred water” means any of the following:
+
+(a) any part of South Australia’s entitlement under clause 88 of the Agreement that South Australia stores under clause 91 of the Agreement;
+
+(b) any allocations South Australia may have acquired for use in South Australia from within an upper State, the delivery of which has been deferred in accordance with this Schedule;
+
+(c) any volume of water that the Authority credits into the Initial River Murray Increased Flows Account to South Australia under Part 2A of this Schedule.
+
+“entitlement” means:
+
+(a) an entitlement to a particular share of water within the upper River Murray, the River Murray in South Australia or regulated reaches of the Goulburn, Broken, Campaspe, Loddon and Murrumbidgee river systems, pursuant to the law of a State; or
+
+(b) any other entitlement to divert water or to receive water diverted by another person or body from the river systems mentioned in paragraph (a);
+
+but does not include a State water entitlement.
+
+“Initial River Murray Increased Flows Account” has the meaning given by Schedule F.
+
+“major storage” means any one of the major storages defined by the Agreement.
+
+“Plan” means the Deferred Water Storage and Delivery Plan approved in accordance with clause 7.
+
+“pre-release” means to release water from a major storage solely for the purpose of creating capacity in the major storage to be used to mitigate downstream flooding.
+
+“re-regulate” means to control water released from an upstream major storage in a downstream major storage, when the water was released for a purpose other than a planned transfer of water to the downstream major storage.
+
+“River Murray Above Target Releases” has the meaning given by Schedule F.
+
+Note: For the purposes of this definition, see also the definition of “Water Year” in Schedule F.
+
+“River Murray Increased Flows” has the meaning given by Schedule F.
+
+“River Murray Increased Flows Requested Release” has the meaning given by Schedule F.
+
+Note: For the purposes of this definition, see also the definition of “Water Year” in Schedule F.
+
+“Schedule F Strategy” means the Strategy referred to in subclause 20(1) of Schedule F.
+
+“Snowy Scheme” has the meaning given by Schedule F.
+
+“substitute”:
+
+(a) in relation to Part 2 (other than paragraph 10(1)(b))—means to alter an account to substitute a volume of water to be shown as being stored in an upstream major storage for an equivalent volume of water previously shown as being stored in a downstream major storage; and
+
+(b) in relation to paragraph 10(1)(b) and Part 2A—has the same meaning as the definition of “Substitution” in Schedule F.
+
+“transfer” means to transfer a volume of water held in an upstream major storage to a downstream major storage.
+
+“unused capacity”, for a major storage at any time, means the capacity not then used by an upper State, comprising the difference between:
+
+(a) the lesser of:
+
+(i) the target capacity of the major storage as set out in clause 116 of the Agreement; and
+
+(ii) if the Authority thinks there is a risk that water may have to be released from that major storage for flood mitigation—the volume of water that the Authority estimates will be held in the major storage when the release occurs; and
+
+(b) the volume in storage and attributed to the upper States at that time.
+
+“upper State” means each of New South Wales and Victoria.
+
+“year” means the 12 months beginning on 1 June.
+
+(2) Expressions used in this Schedule and in the Water Act 2007 (Commonwealth) or the Agreement that are not defined in this Schedule have the same meanings as in the Act or the Agreement.
+
+(3) Clause 3 of the Agreement applies to this Schedule as if a reference to the Agreement in the clause were a reference to this Schedule.
+
+Effect on water availability and storage access
+
+(4) For clause 91 and paragraph 130(8)(b) of the Agreement, storing water after the time when a part of South Australia’s entitlement would otherwise have been delivered:
+
+(a) will have an effect on water availability for an upper State if continuing to store the part of South Australia’s entitlement in accordance with the Plan, or any approved departure from the Plan, either reduces the volume of water available for allocation by the upper State or limits its ability to store any part of the State water entitlement of the upper State; and
+
+(b) will have an effect on storage access by an upper State if delivering part of South Australia’s entitlement that South Australia has continued to store in accordance with the Plan, or any approved departure from the Plan, limits the Authority’s ability to deliver any part of the State water entitlement of the upper State because limitations on the capacity of either or both:
+
+(i) river channels to carry the necessary flow; or
+
+(ii) a major storage to release sufficient water;
+
+affect the ability to deliver the State water entitlements of both States simultaneously.
+
+(5) The Authority must determine when an effect mentioned in paragraph (4) (a) or (4) (b) has occurred, taking into account the Plan, other provisions of this Schedule and any other relevant circumstances.
+
+Requirements for Authority to form an opinion
+
+(6) Whenever the Authority is required to form an opinion for this Schedule, it must do so reasonably in all the circumstances, and must take into account any relevant prevailing professional standards.
+
+3. Commencement
+
+Unless the Ministerial Council determines otherwise, this Schedule takes effect on the first day of the year after it is approved by the Ministerial Council.
+
+4. Application
+
+This Schedule:
+
+(a) only applies to water to be used by South Australia to meet either critical human water needs or private carry-over; and
+
+(b) does not entitle South Australia to store any water on behalf of an upper State; and
+
+(c) applies during any period of water sharing under Division 1, 2 or 3 of Part XII of the Agreement, subject to any Schedule for water sharing made under clause 135 of the Agreement; and
+
+(d) does not affect the ability of South Australia to store water under provisions of the Agreement other than clause 91.
+
+PART 2 – STORING DEFERRED WATER
+
+5. Establishing initial volumes
+
+(1) The volume of deferred water held in each major storage at the date this Schedule takes effect is taken to be zero.
+
+(2) The Authority must enter the volumes mentioned in subclause (1) in the accounts established under subclause 20 (1).
+
+6. Permissible volume of deferred water
+
+The volume of deferred water in each major storage must not exceed the total unused capacity of the major storage at any time.
+
+7. Planning for storage and delivery of deferred water
+
+Preparation of draft Plan
+
+(1) By the first day of every month, the Committee member for South Australia must give to the Authority and each upper State a draft Deferred Water Storage and Delivery Plan for at least the following 12 months, that estimates the deferred water to be stored and delivered in each of those months, under either:
+
+(a) minimum inflow conditions; or
+
+(b) other inflow conditions specified in the draft Plan.
+
+Content of draft Plan
+
+(2) A draft Plan must:
+
+(a) nominate how much of the deferred water held in storage, or credited to the Initial River Murray Increased Flows Account, at the commencement of the Plan is for the purpose of meeting critical human water needs; and
+
+(b) for each month of the Plan, provide for the delivery of deferred water for the purpose of meeting either or both critical human water needs and private carry-over; and
+
+(c) for each month of the Plan, nominate one or more preferred major storages in which water set aside as deferred water in that month might be stored; and
+
+(d) for each month of the Plan, nominate one or more preferred major storages from which deferred water might be delivered; and
+
+(e) for each month of the Plan, nominate any preferred transfers and substitutions of deferred water between major storages; and
+
+(ea) for each month of the Plan, nominate whether South Australia will make a request under clause 12B for deferred water credited to the Initial River Murray Increased Flows Account; and
+
+(f) not provide for deferred water to be delivered in the same month as that water became deferred water.
+
+(2A) For the purposes of paragraph (2)(ea), the Committee member for South Australia may, but is not required to, include in the draft Plan the specific volume or volumetric range of deferred water that South Australia will request under clause 12B (as applicable).
+
+Authority to provide assistance
+
+(3) The Authority must provide assistance and advice to the Committee member for South Australia for the preparation of any draft Plan if the Committee member for South Australia so requests.
+
+Approval of draft Plan
+
+(4) When considering whether or not to approve a draft Plan, the Authority must comply with clause 50 of the Agreement.
+
+(5) Subject to subclauses (4), (6) and (7), the Authority must, within 14 days after receiving a draft Plan from the Committee member for South Australia:
+
+(a) approve the draft Plan, subject to any conditions the Authority specifies; or
+
+(b) refer the draft Plan back to the Committee member for South Australia for further consideration; or
+
+(c) not approve the draft Plan.
+
+(6) The Authority must approve a draft Plan unless:
+
+(a) in the opinion of the Authority, the implementation of the Plan would have an effect on either or both of:
+
+(i) water availability for an upper State; and
+
+(ii) for deferred water stored for the purpose of meeting private carry-over by South Australia—storage access by an upper State; or
+
+(b) subclause (7) applies.
+
+(7) The Authority may refer a draft Plan back to the Committee member for South Australia, or refuse to approve a draft Plan, if, in the opinion of the Authority, prevailing circumstances for river operations make it impractical to implement the Plan.
+
+(8) The Authority must give written reasons to the Committee member for South Australia and each upper State for not approving a draft Plan.
+
+Resubmission of draft Plan or proposal for departure from Plan
+
+(9) The Committee member for South Australia may at any time:
+
+(a) resubmit a draft Plan mentioned in paragraph (5)(b) or (c), with or without amendments, to the Authority; or
+
+(b) propose to the Authority, in writing, a departure from the arrangements mentioned in the Plan.
+
+(10) The Committee member for South Australia must give each upper State a copy of anything resubmitted or proposed to the Authority under subclause (9).
+
+Requirements for resubmission or proposal same as for draft Plan
+
+(11) Subclauses (2) to (8) apply to any draft Plan, Plan or departure mentioned in subclause (9), as if a reference to a draft Plan or Plan in those subclauses were a reference to a draft Plan, Plan or departure mentioned in subclause (9).
+
+Effect of approving draft Plan or departure from Plan
+
+(12) A draft Plan approved by the Authority under paragraph (5)(a) takes effect as the Plan.
+
+(13) If a departure from the Plan is approved by the Authority under subclause (11), the Plan is taken to be amended accordingly.
+
+8. Resolving disputes about Plans
+
+(1) If the Authority does not approve a draft Plan or a departure from the Plan under clause 7, the Committee member for South Australia or the Authority may refer the matter to the Committee.
+
+(2) Subclauses 33 (5) to 33 (8) of the Agreement apply to any matter referred to the Committee under subclause (1) as if it were a matter referred by the Authority under subclause 33 (5) of the Agreement.
+
+9. When deferred water is stored
+
+(1) The Committee member for South Australia may request the Authority in writing to reduce the quantity of water that it would otherwise receive in any month under the Agreement, by a volume to be designated as deferred water under this Schedule.
+
+(2) If a request made under subclause (1) is not in accordance with the Plan, the request must be taken to be a proposal for a departure from arrangements mentioned in that Plan, made under paragraph 7(9)(b) and dealt with accordingly.
+
+(3) If a request made under subclause (1) is either:
+
+(a) in accordance with the Plan; or
+
+(b) approved as a departure from the Plan;
+
+the volume mentioned in subclause (1) becomes deferred water for this Schedule at the time when the reduced quantity of water is released for delivery to South Australia.
+
+10. Where deferred water may be stored or held
+
+(1) South Australia may:
+
+(a) store deferred water within the unused capacity of one or more major storages; or
+
+(b) hold deferred water as a credit against the Initial River Murray Increased Flows Account if the deferred water is substituted in accordance with clause 12A.
+
+(2) Subject to subclauses (3) and (4), any deferred water stored after the date this Schedule comes into effect must initially be held in the major storage from which the Authority determines that water would have been supplied, if its delivery had not been deferred.
+
+(3) If the source of any deferred water stored after the date this Schedule comes into effect is a tributary of the River Murray downstream of Hume Dam, the deferred water must initially be held in Lake Victoria.
+
+(4) Subclauses (2) and (3) apply whether the deferred water is either:
+
+(a) part of South Australia’s entitlement under clause 88 of the Agreement, that is stored under clause 91 of the Agreement; or
+
+(b) allocations acquired for use in South Australia from within an upper State.
+
+11. Transferring deferred water downstream
+
+(1) Subject to subclauses (5) and (6), the Authority must transfer deferred water from an upstream major storage to a downstream major storage in accordance with those provisions of the Plan, or approved departure from the Plan, that apply during minimum inflow conditions, or other inflow conditions specified in the Plan.
+
+(2) Despite subclause (1) but subject to subclauses (5) and (6), the Authority may transfer deferred water from an upstream major storage to a downstream major storage at any time, at the request of the Committee member for South Australia.
+
+(3) Despite subclause (1) but subject to subclauses (5) and (6), the Authority must, with the prior written consent of the Committee member for South Australia, transfer deferred water from an upstream major storage to a downstream major storage at any time when, in the Authority’s opinion, a transfer of deferred water is required for the purpose of delivering water for the remainder of the year.
+
+(4) If the Committee member for South Australia fails to consent to a transfer proposed under subclause (3), the Authority must reduce the delivery of deferred water in accordance with the Plan or approved departure from the Plan for the remainder of the year, by the amount of the proposed transfer.
+
+(5) The Authority must not transfer deferred water under subclause (1), (2) or (3) if, in the opinion of the Authority, transferring the deferred water would have an effect on either or both of:
+
+(a) water availability for an upper State; and
+
+(b) for deferred water stored for the purpose of meeting private carry-over in South Australia—storage access by an upper State.
+
+(6) The Authority may decide not to transfer deferred water in accordance with subclause (1), (2) or (3) if, in the opinion of the Authority, prevailing circumstances for river operations make it impractical to do so.
+
+(7) The Authority must give written reasons to the Committee member for South Australia and for each upper State if it decides not to transfer deferred water in accordance with subclause (1) or (2), under subclause (6).
+
+(8) Subject to subclause (9), the Authority must debit the account for the major storage with any deferred water transferred under this clause.
+
+(9) The Authority must credit the account for a downstream major storage with any deferred water transferred to the major storage under this clause when, in the Authority’s opinion, the deferred water has reached the downstream major storage.
+
+12. Substituting deferred water upstream
+
+(1) Unless the Plan, or an approved departure from the Plan, provides otherwise, whenever:
+
+(a) the volume of deferred water held in a downstream storage exceeds the volume of deferred water to be delivered under the Plan, or an approved departure from the Plan, during the remainder of the year; and
+
+(b) the Authority, for the purpose of normal river operations, is required to transfer a volume of water from an upstream storage to a downstream storage; and
+
+(c) in the Authority’s view, it would be practicable to use a volume of water held in the downstream storage for the purpose mentioned in paragraph (b);
+
+the Authority must substitute the deferred water held in the downstream storage for water held in an upstream storage.
+
+(2) For subclause (1), substituting deferred water held in a downstream storage for water held in an upstream storage includes substituting deferred water held in the Menindee Lakes Storage for water held in the Hume Reservoir.
+
+(3) The Authority must progressively adjust the relevant accounts of the upper States and South Australia maintained under Subdivisions D and E of Division 1 of Part XII of the Agreement as deferred water is substituted from a major storage to another in accordance with subclause (1) to reflect the effect of each substitution of deferred water.
+
+PART 2A – DEFERRED WATER AND THE SNOWY SCHEME
+
+12A. Substitution of deferred water stored in a major storage for a credit against the Snowy Scheme
+
+The Authority must substitute a volume of deferred water that is stored in a major storage for a credit against the Initial River Murray Increased Flows Account for the equivalent volume if:
+
+(a) a request is made to the Authority, in accordance with the Schedule F Strategy, for a River Murray Increased Flows Requested Release; and
+
+(b) the Committee member for South Australia notifies the Authority of its decision, in accordance with the Schedule F Strategy, to substitute a volume of deferred water that is stored in a major storage for all or part of the volume of water requested under paragraph (a).
+
+12B. Conversion of a credit against the Snowy Scheme
+
+Conversion of a credit against the Initial River Murray Increased Flows Account when water is released from the Snowy Scheme
+
+(1) South Australia may store a volume of water as deferred water in the Hume Reservoir if:
+
+(a) all of the following apply:
+
+(i) the Authority has assigned a volume of water under a River Murray Increased Flows Requested Release (if any) to South Australia in accordance with the Schedule F Strategy;
+
+(ii) all or part of the volume of water assigned under subparagraph (a)(i) is released from the Snowy Scheme in accordance with the Schedule F Strategy;
+
+(iii) the volume of released water has, in the Authority’s opinion, reached the Hume Reservoir; or
+
+(b) all of the following apply:
+
+(i) water is released as part of River Murray Above Target Releases that has not been allocated as River Murray Increased Flows;
+
+(ii) the Authority allocates a volume of water to South Australia from that release;
+
+(iii) the volume of allocated water is released and has, in the Authority’s opinion, reached the Hume Reservoir.
+
+(2) If paragraph (1)(a) or (b) applies, the Authority must credit the account for the Hume Reservoir, and debit the Initial River Murray Increased Flows Account, with the volume of any deferred water released in accordance with that paragraph when, in the Authority’s opinion, the deferred water has reached the Hume Reservoir.
+
+Conversion of a credit when upper States substitute water held in a major storage
+
+(3) South Australia may store a volume of water as deferred water in a major storage if:
+
+(a) the Committee member for South Australia has made a request to the Authority, in accordance with the Schedule F Strategy, for a release of a volume of water as part of a River Murray Increased Flows Requested Release; and
+
+(b) either or both of the upper States notify the Authority of the State’s decision, in accordance with the Schedule F Strategy, to substitute a volume of water stored in a major storage for all or part of the volume requested by South Australia under paragraph (a).
+
+(4) If subclause (3) applies, the Authority must credit the account for the major storage, and debit the Initial River Murray Increased Flows Account, with the volume of deferred water substituted under subclause (3).
+
+PART 3 – DELIVERING DEFERRED WATER
+
+13. Deferred water delivered at South Australia’s request
+
+(1) Subject to subclause (2), except for deferred water that spills from a major storage, the Authority must only deliver deferred water from a major storage to South Australia in accordance with the Plan or approved departure from the Plan.
+
+(2) Despite subclause (1), the Authority may deliver deferred water from a major storage to South Australia at any time, at the request of the Committee member for South Australia.
+
+(3) The Authority may only decide not to deliver deferred water in accordance with subclause (1) or (2) if, in the opinion of the Authority, prevailing circumstances for river operations make it impractical to do so.
+
+(4) The Authority must give written reasons to the Committee member for South Australia and for each upper State if it decides not to deliver deferred water in accordance with subclause (1) or (2).
+
+14. Power to cancel delivery
+
+(1) The Committee member for South Australia may cancel a delivery of deferred water under subclause 13 (1), or a request made to the Authority to deliver deferred water under subclause 13 (2) by writing to the Authority.
+
+(2) If the Authority receives a cancellation under subclause (1) after giving directions to release deferred water, the Authority must either:
+
+(a) store in a downstream major storage any deferred water released for delivery to South Australia before the Authority directs that the delivery of deferred water should cease; or
+
+(b) if, in the Authority’s opinion it is not possible to comply with paragraph (a), debit that deferred water to the relevant account.
+
+15. Deferred water not part of South Australia’s entitlement
+
+Any deferred water delivered for use in South Australia during any period under this Schedule is in addition to, and is not part of, other water delivered to South Australia under the Agreement in the same period.
+
+16. South Australia’s exclusive right to use deferred water
+
+Unless the Committee member for South Australia and the Committee member for an upper State agree otherwise, and subject to subclause 17 (4), the upper State must not divert any water that is taken to be deferred water by the Authority.
+
+17. Spills and pre-releases
+
+(1) If:
+
+(a) water spills from a major storage in which deferred water is stored; or
+
+(b) water is pre-released from a major storage, in which deferred water is stored, for flood mitigation purposes;
+
+the water must be taken to be deferred water, until a volume equivalent to the volume of deferred water stored in the major storage immediately before the relevant event has either spilled or been pre-released.
+
+(2) In measuring the volume of water spilled or pre-released under subclause (1), deferred water stored for the purpose of meeting private carry-over must be taken to have spilled or been pre-released before any deferred water stored for the purpose of meeting critical human water needs.
+
+(3) The Authority must, whenever possible, re-regulate any water taken to be deferred water under subclause (1) in a downstream major storage, for use by South Australia.
+
+(4) If the Authority is unable to re-regulate spilled or pre-released deferred water in accordance with subclause (3), the water must be accounted for as environmental flows.
+
+(5) If there is deferred water in Dartmouth Reservoir and water is transferred from Dartmouth Reservoir to Hume Reservoir, with the effect of increasing the likelihood that each of these major storages will spill simultaneously:
+
+(a) the deferred water is taken to be transferred first and becomes deferred water in Hume Reservoir; and
+
+(b) deferred water for the purpose of meeting private carry-over is taken to be transferred before any deferred water stored for the purposes of meeting critical human water needs.
+
+18. Limitations on channels and storages
+
+Unless the Committee determines otherwise, either generally or in a particular case, whenever the delivery of water is restricted due to either or both of limitations on the capacity:
+
+(a) of river channels to carry that flow; or
+
+(b) a major storage to release sufficient water to meet the commitments of any State to supply allocations at any time;
+
+then delivery of deferred water for the purpose of meeting private carry-over must be given the lowest priority.
+
+19. Reallocation of deferred water
+
+(1) Despite Part 2 and this Part, but subject to subclause (2), the Authority may reallocate volumes of deferred water between major storages and adjust the accounts accordingly if, after considering the Plan, the Authority considers that it is necessary or convenient to do so in order to:
+
+(a) facilitate the delivery of deferred water to South Australia; or
+
+(b) assist in re-regulating any deferred water that may have spilled from a major storage; or
+
+(c) operate the River Murray System efficiently.
+
+(2) In reallocating deferred water under subclause (1), the Authority must not:
+
+(a) reduce the total volume of deferred water then held in all major storages and entered in the accounts; or
+
+(b) affect either or both of:
+
+(i) water availability for an upper State; or
+
+(ii) for deferred water stored for the purpose of meeting private carry-over in South Australia—storage access by an upper State; or
+
+(c) increase the risk that deferred water might spill from a major storage.
+
+PART 4 – ACCOUNTING FOR DEFERRED WATER
+
+20. Establishing and maintaining accounts
+
+(1) The Authority must, in accordance with the requirements of this Part, establish and maintain:
+
+(a) a separate account for deferred water held in each major storage showing the respective volumes stored at any time for the purpose of meeting:
+
+(i) critical human water needs; and
+
+(ii) private carry-over; and
+
+(b) an account showing the total deferred water held at any time; and
+
+(c) an account that maintains a record of deferred water that is stored, spilled, in transit, debited for evaporation or attributed as transmission losses under clause 26 and delivered to South Australia in accordance with this Schedule.
+
+(2) The Authority must give a copy of each account mentioned in subclause (1) to each Committee member at the same time as the water accounts prepared under Subdivisions D and E of Division 1 of Part XII of the Agreement.
+
+(3) If the Authority makes a determination under subclause 2 (5) about the occurrence of an effect under paragraph 2 (4) (a) or (b), the Authority must immediately:
+
+(a) notify each Committee member in writing of that effect and of any adjustment to the accounts maintained under this clause that the Authority considers appropriate to correct that effect; and
+
+(b) make any adjustment to the accounts determined by the Committee.
+
+21. Accounting for internal spills
+
+The volume of deferred water in a major storage must not be taken into account when re-allocating water in the major storage under clause 116 of the Agreement.
+
+22. Attribution of evaporative losses
+
+(1) The Authority must calculate and attribute to South Australia any incremental evaporative losses arising from the storage of deferred water in accordance with subclause (2) and any rules made under subclause 130 (12) of the Agreement.
+
+(2) For subclause (1), the Authority must:
+
+(a) calculate the volume of the total net evaporative loss from all major storages; and
+
+(b) estimate the volume of the total net evaporative loss that would have occurred from all major storages if no water had been stored as deferred water; and
+
+(c) subtract the volume estimated under paragraph (b) from the volume calculated under paragraph (a).
+
+23. Accounting for deferred water in Menindee Lakes Storage
+
+Deferred water stored for private carry-over
+
+(1) Subclauses (2) and (3) apply whenever New South Wales becomes entitled to use water in Menindee Lakes Storage under subclause 95 (1) of the Agreement.
+
+(2) New South Wales may use for any purpose deferred water stored by South Australia in the Menindee Lakes Storage for the purpose of private carry-over.
+
+(3) The Authority must alter the existing volume in the account for deferred water stored for the purpose of private carry-over in the Menindee Lakes Storage to zero.
+
+(4) As soon as New South Wales is no longer able to use water under subclause 95 (1) of the Agreement, the Authority must credit the account mentioned in subclause (3) with a volume equivalent to the existing volume mentioned in subclause (3).
+
+Deferred water stored for meeting critical human water needs.
+
+(5) Whenever New South Wales becomes entitled to use water under subclause 95 (1) of the Agreement, the Authority must:
+
+(a) attribute any credit for deferred water then stored in the Menindee Lakes Storage for the purpose of meeting critical human water needs to the relevant account for Lake Victoria; and
+
+(b) reduce the relevant entry in the account for the Menindee Lakes Storage to zero; and
+
+(c) adjust the accounts maintained for New South Wales under Subdivisions D and E of Division 1 of Part XII of the Agreement accordingly.
+
+Resumption of ability to store deferred water
+
+(6) At the conclusion of any period mentioned in subclause 95 (1) of the Agreement South Australia may resume storing deferred water in the Menindee Lakes Storage for the purpose of private carry-over and for meeting critical human water needs.
+
+Calculation of additional dilution flows
+
+(7) Any volume of deferred water stored in any major storage must be excluded from any calculation of the total volume of water held in that storage for the purposes of determining any additional quantity of water for dilution under paragraph 88 (c) of the Agreement.
+
+24. Adjustments of accounts between major storages other than Menindee Lakes Storage
+
+(1) Subclause (2) applies whenever the Authority estimates that, unless the account established under subclause 20 (1) for a major storage other than Dartmouth Reservoir is adjusted, the volume of deferred water in the account may be greater than the volume by which the total volume of water held in storage exceeds the volume held in storage at the minimum operating level of that major storage.
+
+(2) The Authority must, whenever possible:
+
+(a) credit the account for deferred water stored in a major storage (the upstream storage) upstream of the major storage in subclause (1) (the downstream storage) with a volume equivalent to the difference between the volumes mentioned in subclause (1); and
+
+(b) reduce the balance of the account for deferred water stored in the downstream storage to the volume by which the total volume of water held in storage exceeds the minimum operating level of that downstream storage.
+
+(3) Whenever the Authority estimates that, unless the account established under subclause 20 (1) for Dartmouth Reservoir is adjusted, the volume of deferred water in the account may be greater than the volume by which the total volume of water held in storage exceeds the volume held in storage at the minimum operating level of Dartmouth Reservoir, the Authority must, whenever possible:
+
+(a) credit the account for deferred water stored in Hume Reservoir with a volume equivalent to the difference between those two volumes; and
+
+(b) reduce the balance of the account for deferred water stored in Dartmouth Reservoir by the same volume.
+
+25. Accounting for transmission losses during regulated flows
+
+(1) Subclause (2) applies whenever flows from major storages are regulated and wholly contained within river channels.
+
+(2) The Authority must not reduce the volume of deferred water credited to an account by any amount attributable to transmission losses incurred in:
+
+(a) delivering deferred water from a major storage to South Australia; or
+
+(b) transferring deferred water to a downstream major storage.
+
+26. Accounting for transmission losses during other periods
+
+(1) Subclause (2) applies during any period when:
+
+(a) water spilling from a major storage is taken to be deferred water under clause 17; and
+
+(b) the flow of water is only partly contained within river channels.
+
+(2) The Authority must estimate and attribute transmission losses resulting from the flow of water not contained within river channels during the period in accordance with any rules made under subclause 130 (12) of the Agreement.
+
+27. Adjusting accounts for normal river operations
+
+(1) The Authority may, from time to time, adjust an account as a consequence of normal river operations if, in the opinion of the Authority, it is necessary or appropriate to do so.
+
+(2) Without limiting subclause (1), the Authority may adjust an account:
+
+(a) to incorporate recent hydrographic data; or
+
+(b) to reflect alterations in the Authority’s assumptions about water losses or diversions.
+
+(3) The Authority must notify each Committee member in writing whenever it adjusts an account under this clause.
+
+28. Reconciling accounts with Agreement requirements
+
+(1) As soon as practicable after the end of each year, the Committee member for South Australia must inform the Authority and the Committee member for each upper State in writing whether or not all regulated flows of deferred water released from major storages in the preceding year were in fact used by South Australia for either or both of the purpose of meeting critical human water needs or for private carry-over.
+
+(2) As soon as practicable after the end of each year, and after taking into account any adjustments made under clause 27 in that year, the Authority must:
+
+(a) examine each account in order to determine:
+
+(i) the extent to which South Australia was able to store deferred water in accordance with the Plan in the year; and
+
+(ii) the extent to which South Australia received deliveries of deferred water in accordance with the Plan in the year; and
+
+(iii) whether, in the year, storing deferred water under this Schedule has had an effect on either or both of:
+
+(A) water availability for an upper State; and
+
+(B) for deferred water stored for the purpose of meeting private carry-over in South Australia—storage access by an upper State; and
+
+(b) report its findings to the Committee.
+
+(3) Any difference or dispute arising about information given under subclause (1) or findings mentioned in subclause (2) must be resolved by any means specified for resolving similar differences or disputes by the document from time to time approved under clause 31 of the Agreement.
+
+29. Independent review of operation of Schedule
+
+(1) Each year the following matters must be examined and the findings reported to the Committee:
+
+(a) the extent to which South Australia was able to store deferred water in accordance with the Plan in the previous year;
+
+(b) the extent to which South Australia received deliveries of deferred water in accordance with the Plan in the previous year;
+
+(c) whether, in that previous year, storing deferred water under this Schedule had an effect on either or both of:
+
+(i) water availability for an upper State; and
+
+(ii) for deferred water stored for the purpose of meeting private carry-over in South Australia—storage access by an upper State.
+
+(2) An examination under subclause (1) must be made by:
+
+(a) the Independent River Operations Review Group appointed under the Objectives and Outcomes document approved under clause 31 of the Agreement; or
+
+(b) if that Group has not been appointed—an independent reviewer approved by the Committee and engaged by the Authority.
+
+PART 5 – AMENDMENT OF SCHEDULE AND RULES
+
+30. Committee may request review
+
+The Committee may, at any time, request the Authority to review this Schedule in accordance with clause 142 of the Agreement.
+
+31. Amendment of Schedule
+
+If the Authority at any time considers that the operation of any provision of this Schedule:
+
+(a) has had an effect, in the previous year, on either or both of the extent to which South Australia:
+
+(i) was able to store deferred water; or
+
+(ii) received deliveries of deferred water; or
+
+(b) has had, or is likely to have, either or both of an effect on:
+
+(i) water availability for an upper State; or
+
+(ii) for deferred water stored for the purpose of meeting private carry-over in South Australia—storage access by an upper State;
+
+the Authority or the Committee may, after consulting the Committee or the Authority, propose to the Ministerial Council any amendment to this Schedule that the Authority considers may be necessary or appropriate to avoid that effect.
+
+PART 6 – APPORTIONMENT OF COSTS
+
+32. Costs of administering Schedule
+
+The costs incurred by the Authority in administering this Schedule are taken to be incurred in the provision of river operations services, for paragraph 72 (2) (a) of the Agreement.
+
+SCHEDULE H Water Sharing during tiers 2 and 3
+
+PART 1 – PRELIMINARY
+
+1. Purposes
+
+The purposes of this Schedule are:
+
+(a) to set out the way in which State water entitlements will be determined, delivered and accounted for; and
+
+(b) to provide for South Australia’s storage rights under subclause 91 (1) of the Agreement;
+
+during a period when either Tier 2 or Tier 3 distribution of waters applies, in accordance with clause 135 of the Agreement.
+
+2. Definitions and Interpretation
+
+(1) In this Schedule except where inconsistent with the context:
+
+“account” means an account maintained under Part XII, Division 1, Subdivision D of the Agreement.
+
+“current critical human water needs” means critical human water needs in the current year.
+
+“worst-case planning inflow sequence” means a sequence of monthly inflows to the River Murray System calculated by the Authority in accordance with any rule made for the purpose under paragraph 135 (14) of the Agreement.
+
+“year” means the 12 months beginning on 1 June.
+
+(2) Expressions used in this Schedule and in the Water Act 2007 (Commonwealth) or the Agreement that are not defined in this Schedule have the same meanings as in the Act or the Agreement.
+
+Note 1: The following expressions are defined by the relevant sections of the Water Act noted below:
+
+- conveyance water-see section 86A (4)
+
+- critical human water needs-see section 86A (2)
+
+- River Murray System-see section 86A (3).
+
+Note 2: The following expressions are defined in clause 2 of the Agreement:
+
+- Contracting Government
+
+- Constructing Authority
+
+- conveyance reserve
+
+- current conveyance water
+
+- major storages
+
+- period of special accounting.
+
+(3) Clause 3 of the Agreement applies to this Schedule as if a reference to the Agreement in the clause were a reference to the Schedule.
+
+3. Commencement of Schedule
+
+Unless the Ministerial Council determines otherwise, this Schedule takes effect on the first day of the year after it is approved by the Ministerial Council.
+
+4. Application
+
+(1) Parts 1, 4 and 5 apply from the date on which this Schedule takes effect.
+
+(2) Part 2 applies when Tier 2 distribution of waters under the Agreement applies.
+
+(3) Part 3 applies when Tier 3 distribution of waters under the Agreement applies.
+
+PART 2 – TIER 2 PROVISIONS
+
+5. Application of Tier 1 provisions
+
+(1) The provisions of Tier 1 distribution of waters under the Agreement continue to apply while this Part applies, except to the extent that any of those provisions is inconsistent with a provision of this Part.
+
+(2) The provisions of clause 139 of the Agreement and of Schedule F continue to apply while this Part applies, except to the extent that any of those provisions are inconsistent with a provision of this Part.
+
+6. Inability to contribute to Conveyance Reserve
+
+(1) If, at any time after 1 September in any year, the Authority considers that insufficient water may be distributed to a State in the year for the State to make the contribution of the State to the conveyance reserve determined under subclause 102D (4) of the Agreement, it must tell the Committee:
+
+(a) its estimate of the volume of any shortfall in that State’s contribution; and
+
+(b) whether it considers that there is sufficient water in the River Murray System to meet the conveyance reserve.
+
+(2) In considering whether there may or may not be sufficient water under subclause (1), the Authority must have regard to:
+
+(a) the volume of water then in storage in the River Murray System; and
+
+(b) the volume of water required to be delivered from the Snowy Scheme to the River Murray System under Schedule F before the end of that year; and
+
+(c) any relevant rules approved under subclause 135 (15) of the Agreement; and
+
+(d) the Authority’s estimate of inflows to the River Murray System before the end of that year; and
+
+(e) any previously proposed remedial action taken, or to be taken by the State under clause 10.
+
+7. Advances to meet contributions to Conveyance Reserve
+
+(1) If the Authority tells the Committee that there is sufficient water available in the River Murray System to meet the conveyance reserve determined under clause 102D of the Agreement, the Committee may determine whether an advance is required from one or more of the States to meet any shortfall mentioned in paragraph 6 (1) (a), and the volume of the advance.
+
+(2) If the Committee determines that an advance to a State is required under subclause (1), the Authority must:
+
+(a) increase the water available for distribution to the State by the volume of the advance determined by the Committee; and
+
+(b) decrease the water available for distribution to the other States by the same volume;
+
+without increasing the total volume of water available for distribution.
+
+8. Insufficient water to meet Conveyance Reserve
+
+(1) If, at any time after 1 September in any year, the Authority considers that insufficient water may be distributed to States in that year to meet the conveyance reserve determined under subclause 102D of the Agreement, it must tell the Committee of its view.
+
+(2) In considering whether there may or may not be sufficient water under subclause (1), the Authority must have regard to the matters mentioned in subclause 6 (2).
+
+(3) On receiving advice from the Authority under subclause (1), the Committee must promptly prepare and adopt a plan of actions to be taken by each State and the Authority:
+
+(a) to ensure that adequate water is available both to meet and to deliver current critical human water needs; and
+
+(b) to establish a reserve to reduce the risk that there will not be sufficient water to deliver critical human water needs in the following year.
+
+9. Insufficient current conveyance water
+
+(1) If, at any time, the Authority considers that there may be insufficient water set aside to meet requirements for current conveyance water, it must tell the Committee of its view.
+
+(2) In considering whether there may or may not be sufficient water under subclause (1), the Authority must have regard to the matters mentioned in subclause 6 (2).
+
+(3) If the Committee considers that there is insufficient water available to meet current conveyance water requirements, the Committee must make a declaration to that effect.
+
+10. Taking remedial action
+
+(1) The Committee must, within 1 month after making a declaration under subclause 9 (3) and after considering any information given by the Authority, tell the Authority of:
+
+(a) the Committee’s proposal for:
+
+(i) any remedial action required to ensure that current conveyance water will be available; and
+
+(ii) the respective responsibilities of each Contracting Government and the Authority in implementing the remedial action; and
+
+(b) when the Committee expects that the water attributable to any remedial action mentioned in subparagraph (a) (i) will be available.
+
+(2) At the request of the Committee, the Authority may, subject to clause 50 of the Agreement, assist in planning or implementing any remedial action taken under this clause.
+
+(3) The Committee may, from time to time, adopt policies to be observed by the Committee, the Authority, a Constructing Authority or a Contracting Government in relation to remedial action mentioned in this clause.
+
+(4) In determining what remedial action to propose to ensure that the water mentioned in subparagraph (1) (a) (i) will be available, the Committee:
+
+(a) may have regard to:
+
+(i) the Basin Plan; and
+
+(ii) any policies adopted by the Committee in relation to remedial action; and
+
+(iii) any information given by the Authority; and
+
+(b) must consider what additional remedial action may be necessary and available while either Part 2 or Part 3 applies.
+
+(5) Unless the Committee determines otherwise, any proposal made under subclause (1) must set out:
+
+(a) how the water attributable to any remedial action mentioned in subparagraph (1) (a) (i) will be made available, including information about how any possible environmental or other consequences of the proposed action will be averted or remedied; and
+
+(b) either the circumstances in which, or the date by which, the proposed remedial action will cease.
+
+(6) Before taking a remedial action proposed under subclause (1), the Committee must determine whether, under the Agreement, the action requires the approval of one or more of the Ministerial Council, the Committee or the Authority.
+
+(7) If the Committee determines that a proposed remedial action requires approval under the Agreement, the action must not be taken:
+
+(a) before it has been approved; and
+
+(b) otherwise than in accordance with any conditions attached to that approval.
+
+(8) Unless the Committee decides otherwise, any remedial action proposed under subclause (1) must not be taken until the Committee has determined what volume of water will be made available by the proposed remedial action for subparagraph (1) (a) (i), having regard to any relevant rules made under subclause 135 (14) of the Agreement.
+
+(9) After a declaration under subclause 9 (3) is made, the Committee must report to the Ministerial Council:
+
+(a) at least once in every 4 months; and
+
+(b) at each meeting of the Ministerial Council;
+
+on what remedial action has been taken or is proposed in accordance with this clause, to ensure that the water attributable to a remedial action mentioned in paragraph (1) (a) will be available in the current year.
+
+(10) The Committee must continue to report until the Committee revokes a declaration made under subclause 9 (3).
+
+(11) When the Committee is satisfied that current conveyance water will be available in the current year, it must:
+
+(a) revoke the declaration made under subclause 9 (3); and
+
+(b) report that fact to the next meeting of the Ministerial Council.
+
+11. Adjusting accounts relating to stored water
+
+(1) Subject to subclause (2) and despite any other provision of the Agreement, the Authority may at any time alter the water accounts maintained by the Authority relating to the volume of a State’s share of water held in a particular major storage if the Authority considers it necessary or appropriate to facilitate the delivery of current critical human water needs.
+
+(2) Subclause (1) does not apply to a State if the alteration would alter the total volume of water:
+
+(a) held in major storages by that State; or
+
+(b) entered to the credit of that State in the water accounts;
+
+(3) Whenever the Authority alters a water account in accordance with subclause (1), it must immediately notify each Committee member in writing of the alteration.
+
+PART 3 – TIER 3 PROVISIONS
+
+12. Application of Tier 1 and Tier 2 provisions
+
+Except as otherwise determined by the Ministerial Council:
+
+(a) the provisions of Tier 1 distribution of waters under the Agreement and of Part 2 continue to apply while this Part applies, except to the extent that any of those provisions is inconsistent with a provision of this Part; and
+
+(b) the provisions of clause 139 of the Agreement and of Schedule F continue to apply while this Part applies, except to the extent that any of those provisions is inconsistent with a provision of this Part.
+
+13. Obligations of the Committee
+
+(1) While this Part applies, the Committee must meet at least once in every 2 months:
+
+(a) to consider possible actions which might be taken by the Ministerial Council, the Authority, a Constructing Authority or any Contracting Government; and
+
+(b) to recommend any such actions to the Ministerial Council as it considers appropriate; and
+
+(c) to monitor and to prepare a report to the Ministerial Council on the implementation of any actions approved by the Ministerial Council; and
+
+(d) to recommend to the Ministerial Council such amendments to, or additional, actions as it considers appropriate.
+
+(2) The Authority may make suggestions to the Committee about any matter mentioned in subclause (1).
+
+(3) The Committee must take into account any suggestions made by the Authority under subclause (2) when discharging its functions under subclause (1).
+
+(4) Without limiting subclause (1) or (2), in discharging their functions under those subclauses, the Committee and the Authority must have regard to any relevant policies adopted by the Committee in relation to remedial action.
+
+14. Obligations of the Ministerial Council
+
+While this Part applies, the Ministerial Council must meet at least once in every 4 months:
+
+(a) to consider any recommendations or reports made by the Committee; and
+
+(b) to take such consequential action as it considers appropriate in the circumstances.
+
+PART 4 – ACCOUNTING FOR WATER UNDER THIS SCHEDULE
+
+15. Establishing and maintaining accounts
+
+(1) Whenever Part 2 or Part 3 applies, the Authority must establish and maintain separate accounts for each State relating to:
+
+(a) the storage and use of water for the purpose of meeting current critical human water needs; and
+
+(b) water set aside for current conveyance water; and
+
+(c) the storage and use of water for the purpose of meeting private carry-over; and
+
+(d) water set aside for the conveyance reserve.
+
+(2) The Authority must apply any relevant rules adopted under subclause 135 (14) of the Agreement when maintaining accounts under subclause (1).
+
+(3) The Authority must give to each Committee member a copy of each account mentioned in subclause (1) at the same time as the water accounts kept under Subdivisions D and E of Division 1 of Part XII of the Agreement.
+
+16. Reporting
+
+(1) Whenever Part 2 or Part 3 applies, within 14 days after the end of each month each State must give the Authority a written report setting out any alterations to each of the accounts mentioned in subclause 15 (1) for the State, required as a result of action taken in the preceding month.
+
+(2) If the Authority considers it necessary or appropriate to verify the contents of any report given under subclause (1), the Authority may appoint an independent auditor to investigate and advise it on the accuracy of the report.
+
+(3) If an independent auditor advises the Authority that a report was inaccurate in any way, the Authority must seek to resolve the matter in consultation with the relevant State.
+
+(4) If the Authority is unable to resolve the matter under subclause (3) within 14 days after raising it with the relevant State, the Authority may refer the matter to the Committee.
+
+(5) After considering any matter referred to it under subclause (4), the Committee may determine what, if any, adjustment is required to the accounts mentioned in subclause 15 (1), and the Authority must adjust the accounts accordingly.
+
+PART 5 – REVIEW OF SCHEDULE
+
+17. Review of Schedule
+
+The Committee may, from time to time, recommend to the Ministerial Council that the Ministerial Council review this Schedule in accordance with subclause 135 (11) of the Agreement.
