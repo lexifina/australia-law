@@ -827,3 +827,127 @@ The Department of Foreign Affairs and Trade avails itself of this opportunity to
 CANBERRA
 
 11 April 2017
+
+PART C
+
+INTERPRETATIVE DECLARATION AND EXCHANGE OF NOTES CONSTITUTING AN AGREEMENT AFFECTING THE OPERATION OF THE AGREEMENT ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF AUSTRALIA AND THE GOVERNMENT OF NEW ZEALAND, DONE AT WELLINGTON ON 8 DECEMBER 2016
+
+Interpretative declaration
+
+WHEREAS the Minister for International Development and the Pacific of the Government of Australia has approved the making of an Interpretative Declaration (‘Declaration’) in relation to the Agreement on Social Security between the Government of Australia and the Government of New Zealand (‘the Agreement’) done at Wellington on 8 December 2016;
+
+NOW THEREFORE THESE PRESENT CERTIFY that Australia’s Declaration is as follows:
+
+The purpose of this Declaration is to clarify Australia’s interpretation of Article 5(1) of the Agreement.
+
+The Agreement is relevantly intended to enable New Zealand citizens who are lawfully residing in Australia on a special category visa to:
+
+ qualify for Australian age pension, disability support pension and carer payment under the Agreement, and
+
+ where applicable, enable another relevant person to qualify for Australian age pension and carer payment under the Agreement.
+
+It is the understanding of Australia that Article 5(1) of the Agreement extends the definition of “Australian resident” in subsection 7(2) of Australia’s Social Security Act 1991 (the Act) to include a person who is an “Australian resident” under Article 5(1) of the Agreement.
+
+This means if a person is an “Australian resident” under Article 5(1) of the Agreement, the person may be able to satisfy the Australian resident requirements in the Act, for example:
+
+ paragraphs 43(1)(a), 43(1A)(c) and 43(1A)(d) of the Act, for the purposes of Australian age pension qualification,
+
+ paragraphs 94(1)(e), 94(1)(ea), 95(1)(c) and 95(1)(d) of the Act, for the purposes of Australian disability support pension qualification, and
+
+ subsection 197D(3), paragraph 197D(4)(b), subsection 198(4) and paragraphs 198(5)(b) and 198(7)(b) of the Act, for the purposes of Australian carer payment qualification.
+
+IN WITNESS WHEREOF, I, Pat Conroy, have hereunto set my hand and affixed my seal.
+
+DONE at Belmont, this 19th day of March, Two Thousand and Twenty-Five.
+
+Minister for International Development and the Pacific
+
+Australia initiating note
+
+Note No.25/14
+
+The Australian High Commission presents its compliments to the Ministry of Foreign
+
+Affairs and Trade and has the honour to convey to the Government of New Zealand the
+
+enclosed Interpretative Declaration dated 19 March 2025 regarding the interpretation of
+
+the Agreement on Social Security between the Government of Australia and the
+
+Government of New Zealand, done at Wellington on 8 December 2016 (the
+
+Agreement).
+
+The Department of Social Services, as the lead agency with responsibility for the Agreement and Interpretative Declaration on behalf of the Australian Government, has been consulting with New Zealand’s Ministry of Social Development on this matter.
+
+In line with Australia’s longstanding interpretation of Article 5(1) of the Agreement,
+
+Australia considers that New Zealand citizens living in Australia on a Special Category
+
+Visa (SCV) can rely on the terms of the Agreement to satisfy the residence
+
+requirements in Australia’s domestic legislation to qualify for the Australian Age
+
+Pension, Disability Support Pension and Carer Payment in certain circumstances.
+
+Australia also considers that the Agreement enables a person caring for an SCV holder
+
+to qualify for the Carer Payment and a widow whose deceased partner was an SCV
+
+holder to qualify for the Age Pension.
+
+On that understanding, on 19 March 2025, the Australian Government made an
+
+Interpretative Declaration to clarify Australia’s interpretation of Article 5(1) of the
+
+Agreement.
+
+The Interpretative Declaration is a unilateral document and does not purport to modify
+
+either Party’s obligations under the Agreement. It only acts to clarify Australia’s
+
+understanding of our existing obligations under the Agreement, consistent with
+
+longstanding Australian policy and practice.
+
+Should the New Zealand Government approve of Australia’s Interpretative Declaration
+
+we would be grateful confirmation via diplomatic note that the attached Interpretative
+
+Declaration will be considered by New Zealand as an authoritative interpretation of
+
+Article 5(1) of the Agreement.
+
+Should your officials have any queries or wish to discuss, the relevant point of contact
+
+for this matter at the Department of Social Services is Residency
+
+and International Payments, internationalpolicy@dss.gov.au
+
+The Australian High Commission avails itself of this opportunity to renew to the
+
+Ministry of Foreign Affairs and Trade the assurances of its highest consideration.
+
+Wellington
+
+16 April 2025
+
+Encl. Interpretative Declaration.
+
+New Zealand note in reply
+
+NOTE NO: NZHC/2025/036
+
+The New Zealand High Commission presents its compliments to the Australian Department of Foreign Affairs and Trade has the honour to refer to the Australian High Commission to New Zealand’s Note No. 25/16, dated 16 April 2025, and the enclosed Interpretative Declaration from Australia’s Minister for International Development and the Pacific, Pat Conroy, dated 19 March 2025, regarding the Agreement on Social Security between the Government of Australia and the Government of New Zealand, done at Wellington on 8 December 2016 (the Agreement).
+
+The New Zealand High Commission to Australia has the honour to confirm the Government of New Zealand approves of Australia’s Interpretative Declaration in its entirety and considers it as an authoritative interpretation of Article 5(1) of the Agreement.
+
+The New Zealand High Commission takes this opportunity to renew to the Australian Department of Foreign Affairs and Trade the assurances of its highest consideration.
+
+New Zealand High Commission
+
+CANBERRA
+
+16 September 2025
+
+Enc

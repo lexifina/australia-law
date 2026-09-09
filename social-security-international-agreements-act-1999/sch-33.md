@@ -380,6 +380,8 @@ Duration and Termination
 
 IN WITNESS WHEREOF, the undersigned, being duly authorised thereto by their respective Governments, have signed this Agreement.
 
-DONE in two originals at …….. on this ….. day of …….….., two thousand and …… in English and Serbian languages, each version being equally authentic.
+DONE in two originals at Belgrade on this 20th day of January, two thousand and twenty three in English and Serbian languages, each version being equally authentic.
 
 FOR AUSTRALIA | FOR THE REPUBLIC OF SERBIA
+
+Daniel Emery Australian Ambassador to Serbia | Nikola Selakovic Serbian Minister of Labour, Employment, Veteran and Social Affairs
