@@ -12,7 +12,7 @@
 
 Note: For when a reference to a corporation includes a reference to the unit trust, see paragraph 51ABZZK(2)(c) or (3)(c).
 
-(2) The acquisitions provisions apply to the acquisition of an interest in a managed investment scheme (within the meaning of the Corporations Act 2001):
+(2) The acquisitions provisions apply to the acquisition of an interest in a managed investment scheme:
 
 (a) as if:
 

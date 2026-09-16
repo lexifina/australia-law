@@ -32,7 +32,7 @@ The Council must give a copy of the application to each entity mentioned in para
 
 (4) Subject to subsection (5), the Council’s consideration of whether to make the recommendation must be in accordance with subsection 44M(4).
 
-(5) In considering whether to make the recommendation, the Council must consider whether it is satisfied that the regime no longer meets the relevant principles, set out in the Competition Principles Agreement, relating to whether access regimes are effective access regimes, because of either or both of the following:
+(5) In considering whether to make the recommendation, the Council must consider whether it is satisfied that the regime no longer meets the relevant principles, set out in the National Competition Policy Agreement, relating to whether access regimes are effective access regimes, because of either or both of the following:
 
 (a) substantial changes to the regime;
 

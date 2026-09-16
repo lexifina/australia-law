@@ -6,13 +6,21 @@
 
 (b) a copy of each acquisition determination (if any) made in respect of the notification, and a statement of the Commission’s reasons for making the determination; and
 
-(c) if a notification of the acquisition is subject to phase 2 review—a copy of the notice given under subparagraph 51ABZJ(2)(b)(i) in relation to the notification.
+(c) if a notification of the acquisition is subject to phase 2 review—a copy of the notice given under subparagraph 51ABZJ(2)(b)(i) in relation to the notification; and
+
+(d) if a decision under subsection 51ABG(3) grants an extension relating to a notification of the acquisition—details of the extension.
 
 (2) The register must also include any other information or documents, relating to the operation of the acquisitions provisions, determined under paragraph (6)(b) of this section.
 
 (3) Details to which paragraph (1)(a) applies must be included on the acquisitions register within 1 business day after the effective notification date of the notification.
 
 (4) Information or documents to which paragraph (1)(b) or (c) applies must be included on the acquisitions register within 1 business day after the day the relevant determination or decision is made.
+
+(4A) Details to which paragraph (1)(d) applies must be included on the acquisitions register within:
+
+(a) 1 business day after the day the decision is made; or
+
+(b) if this is impracticable—as soon as practicable afterwards.
 
 (5) Information or documents to which subsection (2) applies must be included on the acquisitions register by the time determined under paragraph (6)(c) for the purposes of this subsection in relation to the information or documents.
 
