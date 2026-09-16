@@ -1,0 +1,73 @@
+## Division 4—Orders to redress loss or damage suffered by non-parties etc.
+
+# 51ADB Orders to redress loss or damage suffered by non-parties etc.
+
+Orders
+
+(1) If:
+
+(a) a person engaged in conduct (the contravening conduct) that:
+
+(i) if the person was a corporation—constituted a contravention of an applicable industry code; or
+
+(ii) in any case—constituted a related contravention of an applicable industry code; and
+
+(b) the contravening conduct caused, or is likely to cause, a class of persons to suffer loss or damage; and
+
+(c) the class includes persons (non-parties) who are not, or have not been, parties to a proceeding (an enforcement proceeding) instituted under Part VI in relation to the contravening conduct;
+
+any court having jurisdiction in the matter may, on the application of the Commission, make such order or orders (other than an award of damages) as the court thinks appropriate against a person referred to in subsection (2) of this section.
+
+Note: The orders that the court may make include all or any of the orders set out in section 51ADC.
+
+(2) An order under subsection (1) may be made against:
+
+(a) the person mentioned in paragraph (1)(a); or
+
+(b) a person involved in the contravening conduct.
+
+(3) A court must not make an order under subsection (1) unless the court considers that the order will:
+
+(a) redress, in whole or in part, the loss or damage suffered by the non-parties in relation to the contravening conduct; or
+
+(b) prevent or reduce the loss or damage suffered, or likely to be suffered, by the non-parties in relation to the contravening conduct.
+
+Application for orders
+
+(4) An application may be made under subsection (1) even if an enforcement proceeding in relation to the contravening conduct has not been instituted.
+
+(5) An application under subsection (1) may be made at any time within 6 years after the day on which the cause of action that relates to the contravening conduct accrues.
+
+Determining whether to make an order
+
+(6) In determining whether to make an order under subsection (1) against a person referred to in subsection (2), a court may have regard to the conduct of:
+
+(a) the person; and
+
+(b) the non-parties;
+
+in relation to the contravening conduct, since the contravention occurred.
+
+(7) In determining whether to make an order under subsection (1), a court need not make a finding about either of the following matters:
+
+(a) which persons are non-parties in relation to the contravening conduct;
+
+(b) the nature of the loss or damage suffered, or likely to be suffered, by such persons.
+
+When a non-party is bound by an order etc.
+
+(8) If:
+
+(a) an order is made under subsection (1) against a person; and
+
+(b) the loss or damage suffered, or likely to be suffered, by a non-party in relation to the contravening conduct to which the order relates has been redressed, prevented or reduced in accordance with the order; and
+
+(c) the non-party has accepted the redress, prevention or reduction;
+
+then:
+
+(d) the non-party is bound by the order; and
+
+(e) any other order made under subsection (1) that relates to that loss or damage has no effect in relation to the non-party; and
+
+(f) despite any other provision of this Act or any other law of the Commonwealth, or a State or Territory, no claim, action or demand may be made or taken against the person by the non-party in relation to that loss or damage.

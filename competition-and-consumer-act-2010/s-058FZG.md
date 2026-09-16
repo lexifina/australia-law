@@ -1,0 +1,19 @@
+# 58FZG Defendant to notify plaintiff of concurrent wrongdoer of whom defendant aware
+
+(1) If:
+
+(a) a defendant in proceedings involving a claim under subsection 58FZC(1) has reasonable grounds to believe that a particular person (the other person) may be a concurrent wrongdoer in relation to the claim; and
+
+(b) the defendant fails to give the plaintiff, as soon as practicable, written notice of the information that the defendant has about:
+
+(i) the identity of the other person; and
+
+(ii) the circumstances that may make the other person a concurrent wrongdoer in relation to the claim; and
+
+(c) the plaintiff unnecessarily incurs costs in the proceedings because the plaintiff was not aware that the other person may be a concurrent wrongdoer in relation to the claim;
+
+the court hearing the proceedings may order that the defendant pay all or any of those costs of the plaintiff.
+
+Note: The plaintiff is the victim or an SPF regulator (see subsections 58FZC(1) and (2)).
+
+(2) The court may order that the costs to be paid by the defendant be assessed on an indemnity basis or otherwise.

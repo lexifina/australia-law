@@ -1,0 +1,23 @@
+# 152BBB Enforcement of directions
+
+(1) If the Federal Court is satisfied that a person has contravened subsection 152BBA(5) or (6), the Court may order the person to pay to the Commonwealth such pecuniary penalty, in respect of each contravention, as the Court determines to be appropriate.
+
+(2) In determining the pecuniary penalty, the Court must have regard to all relevant matters, including:
+
+(a) the nature and extent of the contravention; and
+
+(b) the nature and extent of any loss or damage suffered as a result of the contravention; and
+
+(c) the circumstances in which the contravention took place; and
+
+(d) whether the person has previously been found by the Court in proceedings under this Act to have engaged in any similar conduct.
+
+(3) The pecuniary penalty payable under subsection (1) by a body corporate is not to exceed $250,000 for each contravention.
+
+(4) The pecuniary penalty payable under subsection (1) by a person other than a body corporate is not to exceed $50,000 for each contravention.
+
+(5) The Commission may institute a proceeding in the Federal Court for the recovery on behalf of the Commonwealth of a pecuniary penalty referred to in subsection (1).
+
+(6) A proceeding under subsection (5) may be commenced within 6 years after the contravention.
+
+(7) Criminal proceedings do not lie against a person only because the person has contravened subsection 152BBA(5) or (6).

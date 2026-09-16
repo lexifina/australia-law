@@ -1,0 +1,15 @@
+# 60P Infringement notice compliance period for infringement notice
+
+(1) The infringement notice compliance period for an infringement notice is the period of 28 days beginning on the day after the day on which the infringement notice is issued by the Commission.
+
+(2) Subsection (1) has effect subject to subsection (7).
+
+(3) The Commission may extend, by notice in writing, the infringement notice compliance period for the notice if the Commission is satisfied that it is appropriate to do so.
+
+(4) Only one extension may be given, and the extension must not be for longer than 28 days.
+
+(5) Notice of the extension must be given to the person who was issued the infringement notice.
+
+(6) A failure to comply with subsection (5) does not affect the validity of the extension.
+
+(7) If the Commission extends the infringement notice compliance period for an infringement notice, a reference in this Division to the infringement notice compliance period for an infringement notice is taken to be a reference to the infringement notice compliance period as so extended.
