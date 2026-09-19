@@ -24,7 +24,11 @@ Note: Sections 269ZZX and 269ZZY set out requirements concerning confidential or
 
 (c) contain a statement setting out how the grounds mentioned in paragraph (a) support the making of the proposed decision; and
 
-(d) for a decision referred to in paragraph 269ZZN(c)—contain a statement setting out how the proposed decision is materially different from the reviewable decision.
+(d) for a decision referred to in paragraph 269ZZN(c):
+
+(i) contain a statement setting out how the proposed decision is materially different from the reviewable decision; and
+
+(ii) contain a statement that the applicant has not given a notice to the Commissioner under subsection 269X(7A) in relation to the reviewable decision.
 
 Fee
 

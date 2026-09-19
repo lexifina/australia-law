@@ -8,7 +8,7 @@ This Subdivision deals with the review of the following decisions:
 
 (b) a decision by the Commissioner to terminate an investigation under subsection 269TDA(1), (2), (3), (7), (13), (13A), (14) or (14A) (a termination decision);
 
-(c) a decision by the Commissioner to make recommendations to the Minister under paragraph 269X(6)(b) or (c) (a negative preliminary decision);
+(c) a decision by the Commissioner to make recommendations to the Minister under paragraph 269X(6)(b) or (c) (a negative preliminary decision) (other than a decision in relation to which a notice has been given to the Commissioner under subsection 269X(7A));
 
 (d) a decision (a rejection decision):
 

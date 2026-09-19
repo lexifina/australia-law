@@ -1,6 +1,6 @@
 # 269ZZU The review of a negative preliminary decision
 
-(1) If an application for the review of a negative preliminary decision is not rejected under section 269ZZQA or 269ZZRA, the Review Panel must make a decision on the application by:
+(1) If an application for the review of a negative preliminary decision is not rejected under section 269ZZQA, 269ZZRAA or 269ZZRA, the Review Panel must make a decision on the application by:
 
 (a) affirming the reviewable decision; or
 
