@@ -1,0 +1,15 @@
+# 124ZZB Annual report
+
+(1) The Secretary must, as soon as practicable after the end of each financial year that starts after the commencement of this section, prepare a written report in relation to the information published under section 124ZY before the end of that year.
+
+Note: The report is not limited to information published in that year only.
+
+(2) Without limiting subsection (1), the report must include analysis of any trends in the published information, including, for example, trends in relation to:
+
+(a) changes in the median costs of particular kinds of professional services; and
+
+(b) variations in those costs between different geographical areas where those services are rendered.
+
+(3) The Secretary must give the Minister a copy of the report no later than 3 months after the end of that year.
+
+(4) The Minister must cause a copy of the report to be tabled in each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
