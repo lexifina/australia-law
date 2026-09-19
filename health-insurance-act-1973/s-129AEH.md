@@ -1,0 +1,11 @@
+# 129AEH Failure to comply with garnishee notice
+
+(1) A person commits an offence if:
+
+(a) the person is given a garnishee notice under section 129AEG; and
+
+(b) the person fails to comply with the notice.
+
+Penalty: 20 penalty units.
+
+(2) The court may, in addition to imposing a penalty on a person convicted of an offence against subsection (1) in relation to failing to pay an amount under the notice, order the person to pay to the Commonwealth an amount not exceeding that amount.

@@ -1,0 +1,3 @@
+# 23DZZIP Extended geographical jurisdiction—category A
+
+Section 15.1 of the Criminal Code (extended geographical jurisdiction—category A) applies to an offence against this Division.

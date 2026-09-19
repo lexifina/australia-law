@@ -1,0 +1,9 @@
+# 106ZFG Acting appointments
+
+The Minister may appoint a person to act as an Associate Director:
+
+(a) during a vacancy in the office of that Associate Director (whether or not an appointment has previously been made to the office); or
+
+(b) during any period or during all periods when that Associate Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
+
+Note: For rules that apply to acting appointments, see section 33A of the Acts Interpretation Act 1901.
