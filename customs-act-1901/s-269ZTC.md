@@ -1,0 +1,13 @@
+# 269ZTC Acting appointments
+
+The Minister may, by written instrument, appoint a person to act as a member of the Review Panel:
+
+(a) during a vacancy in the office of the member (whether or not an appointment has previously been made to the office); or
+
+(b) during any period, or during all periods, when the member:
+
+(i) is absent from duty or from Australia; or
+
+(ii) is, for any reason, unable to perform the duties of the office.
+
+Note: For rules that apply to acting appointments, see sections 33AB and 33A of the Acts Interpretation Act 1901.
