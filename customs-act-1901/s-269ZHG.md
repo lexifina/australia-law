@@ -22,7 +22,7 @@ Note: Subsection (3) deals with the end of the anti-dumping measures and subsect
 
 (a) before the expiry day specified in the notice; and
 
-(b) on the Anti-Dumping Commission’s website.
+(b) on the Australian Trade Remedies Commission’s website.
 
 (3) If the Minister declares that he or she has decided not to secure the continuation of the anti-dumping measures, then, on the specified expiry day:
 

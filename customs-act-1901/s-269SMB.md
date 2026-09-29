@@ -1,9 +1,7 @@
-## Subdivision B—Anti-Dumping Commission
+## Subdivision B—Australian Trade Remedies Commission
 
 # 269SMB Establishment
 
-(1) The Anti-Dumping Commission that was established by this section (as in force before the transfer day) continues in existence, by force of this section, within the Department.
+The body that was continued in existence under this section as previously in force by the name Anti-Dumping Commission is now to be known as the Australian Trade Remedies Commission.
 
-(2) In this section:
-
-transfer day means the day Schedule 1 to the Customs Amendment (Anti-Dumping Commission Transfer) Act 2013 commenced.
+Note: Subsection 25B(1) of the Acts Interpretation Act 1901 provides that a body whose name is altered by an Act continues in existence under the new name so that its identity is not affected.

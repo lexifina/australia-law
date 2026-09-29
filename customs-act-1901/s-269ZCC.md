@@ -14,7 +14,7 @@
 
 (3) The notice informing the applicant of the rejection of the application must set out the reasons why the Commissioner was not satisfied of one or more of the matters set out in subsection (2).
 
-(4) If the Commissioner decides not to reject an application, the Commissioner must publish a notice on the Anti-Dumping Commission’s website in accordance with subsection (8).
+(4) If the Commissioner decides not to reject an application, the Commissioner must publish a notice on the Australian Trade Remedies Commission’s website in accordance with subsection (8).
 
 (5) If the Commissioner considers (either as a result of an application under section 269ZCA or on the Commissioner’s own initiative) that the review applied for should be extended to include any additional matter, the Commissioner may, within 40 days after the publication of the notice under subsection 269ZC(4), (5) or (6) relating to the review, recommend to the Minister that the review be extended accordingly.
 
@@ -28,7 +28,7 @@
 
 the Minister may, within 60 days of the publication of the relevant notice under subsection 269ZC(4), (5) or (6), by notice in writing, request that the Commissioner extend the review applied for accordingly.
 
-(7) If the Commissioner is requested under this section by the Minister to extend a review of anti-dumping measures, the Commissioner must, on receipt of that request, publish a notice on the Anti-Dumping Commission’s website indicating that it is proposed to so extend the review.
+(7) If the Commissioner is requested under this section by the Minister to extend a review of anti-dumping measures, the Commissioner must, on receipt of that request, publish a notice on the Australian Trade Remedies Commission’s website indicating that it is proposed to so extend the review.
 
 (8) The notice published by the Commissioner under subsection (4) or (7) must:
 

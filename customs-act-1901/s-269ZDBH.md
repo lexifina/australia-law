@@ -50,4 +50,4 @@ When declaration takes effect
 
 Manner of publication
 
-(9) A notice under subsection (1) must be published on the Anti-Dumping Commission’s website.
+(9) A notice under subsection (1) must be published on the Australian Trade Remedies Commission’s website.

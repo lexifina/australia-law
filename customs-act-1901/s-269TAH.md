@@ -8,6 +8,6 @@
 
 (2) However, subsection (1) does not apply to a function or power under:
 
-(a) subsection 269TG(1) or (2), 269TH(1) or (2), 269TJ(1) or (2) or 269TK(1) or (2) of this Act; or
+(a) subsection 269TG(1) or (2), 269TH(1) or (2), 269TJ(1) or (2), 269TK(1) or (2) or subsection 269ZHGK(1) of this Act; or
 
 (b) subsection 8(5), 9(5), 10(3B) or 11(4) of the Dumping Duty Act.

@@ -1,6 +1,6 @@
 # 269ZHB Applications for continuation of anti-dumping measures
 
-(1) Not later than 9 months before particular anti-dumping measures expire, the Commissioner must publish on the Anti-Dumping Commission’s website a notice:
+(1) Not later than 9 months before particular anti-dumping measures expire, the Commissioner must publish on the Australian Trade Remedies Commission’s website a notice:
 
 (a) informing persons that the dumping duty notice, countervailing duty notice or undertaking comprising those measures is due to expire on a specified day (the specified expiry day); and
 

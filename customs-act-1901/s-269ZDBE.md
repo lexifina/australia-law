@@ -18,11 +18,11 @@ Note: For original notice, see section 269ZDBC.
 
 (3) The notice informing the applicant of the rejection of the application must set out the reasons why the Commissioner was not satisfied of either or both of the matters referred to in subsection (2).
 
-(4) If the Commissioner does not reject an application for the conduct of an anti-circumvention inquiry in relation to the original notice, the Commissioner must publish a notice on the Anti-Dumping Commission’s website indicating that such an inquiry is to be conducted.
+(4) If the Commissioner does not reject an application for the conduct of an anti-circumvention inquiry in relation to the original notice, the Commissioner must publish a notice on the Australian Trade Remedies Commission’s website indicating that such an inquiry is to be conducted.
 
 Requests
 
-(5) If, under subsection 269ZDBC(2), the Minister requests the Commissioner to conduct an anti-circumvention inquiry in relation to an original notice, the Commissioner must, on receipt of that request, publish a notice on the Anti-Dumping Commission’s website indicating that such an inquiry is to be conducted.
+(5) If, under subsection 269ZDBC(2), the Minister requests the Commissioner to conduct an anti-circumvention inquiry in relation to an original notice, the Commissioner must, on receipt of that request, publish a notice on the Australian Trade Remedies Commission’s website indicating that such an inquiry is to be conducted.
 
 Note: For original notice, see section 269ZDBC.
 

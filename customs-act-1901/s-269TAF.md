@@ -18,7 +18,7 @@ the Minister may, for the purpose of that comparison, disregard that fluctuation
 
 (b) the Minister is satisfied that the rate of exchange between those currencies has undergone a sustained movement;
 
-the Minister may, by notice published on the Anti-Dumping Commission’s website, declare that this subsection applies with effect from a day specified in the notice and, if the Minister does so, the Minister may use the rate of exchange in force on that day for the purposes of that comparison during the period of 60 days starting on that day.
+the Minister may, by notice published on the Australian Trade Remedies Commission’s website, declare that this subsection applies with effect from a day specified in the notice and, if the Minister does so, the Minister may use the rate of exchange in force on that day for the purposes of that comparison during the period of 60 days starting on that day.
 
 (5) Nothing in subsection (4) prevents the Minister specifying a day in a notice that is earlier than the day of publication of the notice if the day specified:
 
@@ -28,7 +28,7 @@ the Minister may, by notice published on the Anti-Dumping Commission’s website
 
 (6) Nothing in subsection (4) prevents the Minister publishing more than one notice if a sustained movement in the rate of exchange continues for more than 60 days.
 
-(7) The Commissioner may, if he or she considers it desirable so to do for the avoidance of doubt, specify, by notice published on the Anti-Dumping Commission’s website, a means of establishing a rate that is taken to be, or to have been, the rate of exchange between the Australian currency and another currency or between other currencies:
+(7) The Commissioner may, if he or she considers it desirable so to do for the avoidance of doubt, specify, by notice published on the Australian Trade Remedies Commission’s website, a means of establishing a rate that is taken to be, or to have been, the rate of exchange between the Australian currency and another currency or between other currencies:
 
 (a) on a day, or during a period, preceding the day of publication of the notice; or
 

@@ -1,6 +1,6 @@
-# 269SMC Constitution of the Anti-Dumping Commission
+# 269SMC Constitution of the Australian Trade Remedies Commission
 
-The Anti-Dumping Commission consists of:
+The Australian Trade Remedies Commission consists of:
 
 (a) the Commissioner; and
 

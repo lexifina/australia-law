@@ -16,7 +16,7 @@ the Commissioner must reject each such application and inform the applicant, by 
 
 (3) A notice informing an applicant of the rejection of an application must set out the reasons why the Commissioner was not satisfied of one or more of the matters set out in subsection (2).
 
-(4) If the Commissioner decides not to reject an application for continuation of anti-dumping measures taken in respect of goods as they affect a particular exporter of those goods, the Commissioner must publish a notice on the Anti-Dumping Commission’s website indicating that it is proposed to inquire whether continuation of the measures is justified.
+(4) If the Commissioner decides not to reject an application for continuation of anti-dumping measures taken in respect of goods as they affect a particular exporter of those goods, the Commissioner must publish a notice on the Australian Trade Remedies Commission’s website indicating that it is proposed to inquire whether continuation of the measures is justified.
 
 (5) The notice published by the Commissioner must:
 

@@ -52,4 +52,4 @@ the person who paid the interim duty may apply under Division 3 of Part VIII for
 
 (b) in a circumstance to which subparagraph (1)(b)(ii) or (iv) applies—that is earlier than the date of the declaration.
 
-(7) A notice under subsection (1) must be published on the Anti-Dumping Commission’s website.
+(7) A notice under subsection (1) must be published on the Australian Trade Remedies Commission’s website.

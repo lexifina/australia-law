@@ -1,3 +1,3 @@
-# 269SME Anti-Dumping Commission has privileges and immunities of the Crown
+# 269SME Australian Trade Remedies Commission has privileges and immunities of the Crown
 
-The Anti-Dumping Commission has the privileges and immunities of the Crown in right of the Commonwealth.
+The Australian Trade Remedies Commission has the privileges and immunities of the Crown in right of the Commonwealth.
