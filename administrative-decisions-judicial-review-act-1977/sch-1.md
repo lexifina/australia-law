@@ -142,7 +142,7 @@ Note: Section 12-439 in that Schedule empowers the Treasurer to approve economic
 
 (l) decisions of the National Workplace Relations Consultative Council;
 
-(o) decisions under the Defence Force Discipline Act 1982;
+(o) decisions under the Defence Force Discipline Act 1982, except for those made under subsection 190C(8) of that Act;
 
 (p) decisions under section 42 of the Customs Act 1901 to require and take securities in respect of duty that may be payable under the Customs Tariff (Anti-Dumping) Act 1975;
 
