@@ -110,6 +110,8 @@ Civil Aviation Act 1988, subsections 32AP(1) and (2)
 
 Crimes (Taxation Offences) Act 1980, section 4
 
+Defence Act 1903, section 70NA
+
 Designs Act 2003, paragraph 61(1)(a) and sections 108 and 109
 
 Disability Services and Inclusion Act 2023, section 28
