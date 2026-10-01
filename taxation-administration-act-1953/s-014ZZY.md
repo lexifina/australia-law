@@ -1,0 +1,45 @@
+# 14ZZY Victimisation prohibited
+
+Actually causing detriment to another person
+
+(1) A person (the first person) commits an offence if:
+
+(a) the first person engages in conduct; and
+
+(b) the first person’s conduct causes any detriment to another person (the second person); and
+
+(c) when the first person engages in the conduct, the first person believes or suspects that the second person or any other person made, may have made, proposes to make or could make a disclosure that qualifies for protection under this Part; and
+
+(d) the belief or suspicion referred to in paragraph (c) is the reason, or part of the reason, for the conduct.
+
+Penalty: Imprisonment for 2 years or 240 penalty units, or both.
+
+Threatening to cause detriment to another person
+
+(2) A person (the first person) commits an offence if:
+
+(a) the first person makes to another person (the second person) a threat to cause any detriment to the second person or to a third person; and
+
+(b) the first person:
+
+(i) intends the second person to fear that the threat will be carried out; or
+
+(ii) is reckless as to causing the second person to fear that the threat will be carried out; and
+
+(c) the first person makes the threat because a person:
+
+(i) makes a disclosure that qualifies for protection under this Part; or
+
+(ii) may make a disclosure that would qualify for protection under this Part.
+
+Penalty: Imprisonment for 2 years or 240 penalty units, or both.
+
+Threats
+
+(3) For the purposes of subsection (2), a threat may be:
+
+(a) express or implied; or
+
+(b) conditional or unconditional.
+
+(4) In a prosecution for an offence against subsection (2), it is not necessary to prove that the person threatened actually feared that the threat would be carried out.

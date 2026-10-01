@@ -1,0 +1,33 @@
+# 353-15 Access to premises, documents etc.
+
+(1) For the purposes of a *taxation law, the Commissioner, or an individual authorised by the Commissioner for the purposes of this section:
+
+(a) may at all reasonable times enter and remain on any land, premises or place; and
+
+(b) is entitled to full and free access at all reasonable times to any documents, goods or other property; and
+
+(c) may inspect, examine, make copies of, or take extracts from, any documents; and
+
+(d) may inspect, examine, count, measure, weigh, gauge, test or analyse any goods or other property and, to that end, take samples.
+
+(2) An individual authorised by the Commissioner for the purposes of this section is not entitled to enter or remain on any land, premises or place if, after having been requested by the occupier to produce proof of his or her authority, the individual does not produce an authority signed by the Commissioner stating that the individual is authorised to exercise powers under this section.
+
+(3) You commit an offence if:
+
+(a) you are the occupier of land, premises or a place; and
+
+(b) an individual enters, or proposes to enter, the land, premises or place under this section; and
+
+(c) the individual is the Commissioner or authorised by the Commissioner for the purposes of this section; and
+
+(d) you do not provide the individual with all reasonable facilities and assistance for the effective exercise of powers under this section.
+
+Penalty: 30 penalty units.
+
+Note 1: Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+
+Note 2: See section 4AA of the Crimes Act 1914 for the current value of a penalty unit.
+
+(4) Strict liability applies to paragraphs (3)(a) and (c).
+
+Note: For strict liability, see section 6.1 of the Criminal Code.
