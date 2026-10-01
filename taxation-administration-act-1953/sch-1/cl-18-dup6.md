@@ -2,6 +2,12 @@
 
 (1) An entity is entitled under subsection (2), (4), (6) or (8) to a credit in respect of *amounts withheld (the amounts withheld) from *withholding payments made to the trustee of a trust during an income year.
 
+(1A) For the purposes of subsection (1), if Subdivision 14-D applies to a *withholding payment made to the trustee of a trust, then the withholding payment is taken to have been made to the trustee in the income year for which the withholding payment is recognised for income tax purposes for the trust.
+
+Note 1: This subsection ensures that the entity’s entitlement to the credit is determined for the income year in which the withholding payment is recognised for income tax purposes for the trust.
+
+Note 2: The withholding payment may be recognised for income tax purposes for the trust at different times depending on whether the payment is recognised on revenue or capital account for the trust.
+
 Trust—section 97
 
 (2) A beneficiary of the trust is entitled to a credit if:

@@ -1,47 +1,99 @@
-# 14-255 Notification by suppliers of residential premises etc.
+## Subdivision 14-E—GST payable on taxable supplies of certain real property
 
-(1) You must not make a *supply, by way of sale or long-term lease (within the meaning of the *GST Act), of *residential premises or of *potential residential land to another entity unless, before making the supply, you have given to the other entity a written notice stating:
+Table of sections
 
-(a) whether the other entity will be required to make a payment under section 14-250 in relation to the supply; and
+14-250 Recipients of certain taxable supplies of real property must pay amounts to Commissioner
 
-(b) if the other entity will be required to make such a payment in relation to the supply:
+14-255 Notification by suppliers of residential premises etc.
 
-(i) the name and *ABN of the entity that is liable to pay the *GST on the supply; and
+# 14-250 Recipients of certain taxable supplies of real property must pay amounts to Commissioner
 
-(ii) the amount that the other entity will be required to pay to the Commissioner under section 14-250 in relation to the supply; and
+Liability to pay an amount
 
-(iii) when the other entity will be required to pay that amount; and
+(1) You must pay to the Commissioner an amount if:
 
-(iv) if some or all of the *consideration for the supply will not be expressed as an amount of *money—the *GST inclusive market value of so much of the consideration as will not be expressed as an amount of money; and
+(a) you are the recipient (within the meaning of the *GST Act) of a *taxable supply that is, or includes, a *supply to which subsection (2) applies; and
 
-(v) such other matters as are specified in the regulations.
+(b) in a case where the supply is a supply of *potential residential land—either:
 
-(2) However, subsection (1):
+(i) you are not registered (within the meaning of that Act); or
 
-(a) does not apply to a supply of *commercial residential premises; and
+(ii) you do not acquire the thing supplied for a *creditable purpose.
 
-(b) does not apply to a supply of *potential residential land to another entity if the other entity:
+(2) This subsection applies to a *supply, by way of sale or long-term lease (within the meaning of the *GST Act), of:
 
-(i) is registered (within the meaning of the *GST Act); and
+(a) *new residential premises that:
 
-(ii) acquires the land for a *creditable purpose.
+(i) have not been created through *substantial renovations of a building; and
 
-(3) To avoid doubt, a failure to comply with subsection (1) does not affect the other entity’s obligation to make a payment under section 14-250.
+(ii) are not *commercial residential premises; or
 
-Strict liability offence
+(b) *potential residential land that:
 
-(4) You must not fail to give a notice required under this section.
+(i) is included in a *property subdivision plan; and
 
-Penalty: 100 penalty units.
+(ii) does not contain any building that is in use for a commercial purpose;
 
-(5) An offence against subsection (4) is a strict liability offence.
+other than a supply that is of a kind determined by the Commissioner under subsection (3).
 
-Note: For strict liability, see section 6.1 of the Criminal Code.
+(3) The Commissioner may, by legislative instrument, determine that subsection (2) does not apply to a kind of *supply specified in the determination.
 
-Administrative penalty
+When the amount must be paid
 
-(6) You are liable to pay the Commissioner a penalty of 100 penalty units if you fail to give a notice required under this section.
+(4) You must pay the amount on or before:
 
-Note: Division 298 contains machinery provisions for administrative penalties.
+(a) the day on which:
 
-(7) However, you are not liable to a penalty for failing to meet the requirements of paragraph (1)(b) in relation to a supply if, at the time you gave the notice, you reasonably believed that you were not required to meet those requirements in relation to that supply.
+(i) any of the *consideration for the *supply (other than consideration provided as a deposit) is first provided; or
+
+(ii) if the supplier is your *associate, and the supply is without consideration—the supply is made; or
+
+(b) if a determination under subsection (5) applies—the day provided under that determination.
+
+(5) The Commissioner may determine, by legislative instrument, circumstances in which amounts under this section are to be paid on or before the day provided under the determination. The determination may provide for amounts to be paid in instalments.
+
+The amount to be paid
+
+(6) The amount to be paid to the Commissioner is an amount equal to:
+
+(a) if the *margin scheme applies to the *supply:
+
+(i) the percentage, of the amount provided under subsection (7), determined by the Minister under subsection (8); or
+
+(ii) if there is no such determination—7% of the amount provided under subsection (7); or
+
+(b) otherwise—1/11 of the amount provided under subsection (7).
+
+(7) For the purposes of paragraphs (6)(a) and (b), the amount is:
+
+(a) if the contract for the *supply specifies an amount (the contract price) that is the *price for the supply, subject to normal adjustments that apply on completion of transactions of that kind—that contract price; or
+
+(b) otherwise—the *price for the supply.
+
+(8) The Minister may, by legislative instrument, determine a percentage exceeding 7%, but not exceeding 9%, for the purposes of subparagraph (6)(a)(i).
+
+(9) Despite subsection (6), if:
+
+(a) the supplier is your *associate; and
+
+(b) the *supply is without *consideration or is for consideration that is less than the *GST inclusive market value;
+
+the amount to be paid to the Commissioner is an amount equal to 10% of the *GST exclusive market value (within the meaning of the *GST Act) of the supply.
+
+(10) Despite subsections (6) and (9), if:
+
+(a) the *supply does not consist solely of one or more supplies to which subsection (2) applies; and
+
+(b) it is practicable to ascertain, at the time any of the *consideration for the supply (other than consideration provided as a deposit) is first provided, the amount (the reduced amount) of the amount provided under subsection (6) or (9) that relates to supplies to which subsection (2) applies;
+
+the amount provided under subsection (6) or (9) is taken (other than for the purposes of this subsection) to be the reduced amount.
+
+Multiple recipients
+
+(11) If there is more than one recipient (within the meaning of the *GST Act) of the *supply (the original supply):
+
+(a) treat each recipient as being the recipient of a separate supply; and
+
+(b) treat the amount under subsection (6), (9) or (10) (as the case requires) for such a separate supply as being the same proportion of that amount for the original supply, as the proportion of the original supply that is constituted by that separate supply.
+
+Treat recipients who are joint tenants as a single recipient for the purposes of this subsection.

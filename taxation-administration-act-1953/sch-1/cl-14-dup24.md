@@ -1,29 +1,43 @@
-# 14-235 Varying amounts to be paid to the Commissioner
+# 14-230 Administrative penalties for false or misleading statements
 
-Policies relevant to varying amounts
+Knowingly making false or misleading statements
 
-(1) In exercising a power under this section to vary an amount, the Commissioner must have regard to the need to protect a creditor’s right to recover a debt.
+(1) You are liable to pay the Commissioner a penalty of 120 penalty units if:
 
-Varying particular amounts
+(a) you make a statement; and
 
-(2) The Commissioner may, in writing, vary a particular amount payable by you to the Commissioner under this Subdivision. The variation takes effect when you become aware of it.
+(b) the statement is, or purports to be, a declaration under section 14-225 or a notice under section 14-226; and
 
-Note: Decisions to vary, or not to vary, are reviewable (see section 20-80).
+(c) the statement is false or misleading in a material particular, whether because of things in it or omitted from it; and
 
-(3) Any of the following entities may apply to the Commissioner in the *approved form for a variation under subsection (2):
+(d) you know, at the time of making the statement, that it is so false or misleading.
 
-(a) you;
+Note: Division 298 contains machinery provisions for administrative penalties.
 
-(b) an entity from which you *acquire, or could acquire, the *CGT asset;
+Recklessly making false or misleading statements
 
-(c) an entity that is owed a debt by an entity covered by paragraph (b).
+(2) You are liable to pay the Commissioner a penalty of 80 penalty units if:
 
-(4) A variation made under subsection (2) is not a legislative instrument.
+(a) you make a statement; and
 
-Varying classes of amounts
+(b) the statement is, or purports to be, a declaration under section 14-225 or a notice under section 14-226; and
 
-(5) The Commissioner may, by legislative instrument, vary classes of amounts payable to the Commissioner under this Subdivision.
+(c) the statement is false or misleading in a material particular, whether because of things in it or omitted from it; and
 
-Amounts may be reduced to nil
+(d) you were reckless in connection with the making of the statement.
 
-(6) The Commissioner’s power under subsection (2) or (5) to vary an amount includes the power to reduce the amount to nil.
+Note: Division 298 contains machinery provisions for administrative penalties.
+
+Not taking reasonable care in making statements
+
+(3) You are liable to pay the Commissioner a penalty of 40 penalty units if:
+
+(a) you make a statement; and
+
+(b) the statement is, or purports to be, a declaration under section 14-225 or a notice under section 14-226; and
+
+(c) the statement is false or misleading in a material particular, whether because of things in it or omitted from it; and
+
+(d) you did not take reasonable care in connection with the making of the statement.
+
+Note: Division 298 contains machinery provisions for administrative penalties.

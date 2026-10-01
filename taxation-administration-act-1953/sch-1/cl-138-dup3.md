@@ -22,7 +22,7 @@ Requesting a first home super saver determination
 
 (a) you have never held:
 
-(i) a legal interest in an estate in fee simple in real property in Australia; or
+(i) a legal interest in an estate in fee simple in *real property in Australia; or
 
 (ii) a legal interest in a lease of land in Australia (including a renewal or extension of such a lease) as described in paragraph 104-115(1)(b) of the Income Tax Assessment Act 1997; or
 

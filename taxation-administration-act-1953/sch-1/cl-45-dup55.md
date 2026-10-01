@@ -12,7 +12,7 @@ Step 1. The income tax payable on your *adjusted taxable income, or on your *adj
 
 (da) Subdivision 61-L of the Income Tax Assessment Act 1997 (tax offset for Medicare levy surcharge (lump sum payments in arrears)); or
 
-(db) Division 160 of the Income Tax Assessment Act 1997 (the corporate loss carry back tax offset for 2020-21, 2021-22 or 2022-23 for businesses with turnover under $5 billion); or
+(db) Division 160 of the Income Tax Assessment Act 1997 (the corporate loss carry back tax offset for entities that are not significant global entities); or
 
 (e) section 205-70 of the Income Tax Assessment Act 1997 (the tax offset for *franking deficit tax liabilities); or
 
