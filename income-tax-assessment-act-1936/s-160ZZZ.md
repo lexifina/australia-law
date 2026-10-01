@@ -1,0 +1,5 @@
+# 160ZZZ Notional borrowing by branch from bank
+
+(1) If an amount has been made available by a foreign bank for use by an Australian branch of the bank and is recorded in the branch’s accounting records as having been provided by the bank to the branch, that amount is taken, for the purposes of this Act, to have been borrowed by the branch from the bank when the amount became so available and to have been so borrowed in the currency in which the amount became so available.
+
+(2) If an amount has been made available by the branch to the bank in purported repayment of an amount that is taken, under subsection (1), to have been borrowed by the branch from the bank and the amount so made available is recorded in the branch’s accounting records as having been repaid by the branch to the bank, the amount that was so taken to have been borrowed is taken, for the purposes of this Act, to have been repaid by the branch to the bank when the amount became so available and to have been so repaid in the currency in which the amount became so available.
