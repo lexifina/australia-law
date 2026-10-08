@@ -1,0 +1,15 @@
+# 76DAB Offence relating to requirement not to go within certain distance of a school etc.
+
+(1) A person commits an offence if:
+
+(a) the person holds a Subclass 070 (Bridging (Removal Pending)) visa; and
+
+(b) the visa is subject to a condition requiring that the person not go within a particular distance of a school, childcare centre or day care centre; and
+
+(c) the person fails to comply with the requirement of the condition.
+
+Penalty: 5 years imprisonment or 300 penalty units, or both.
+
+(2) Subsection (1) does not apply if the person has a reasonable excuse.
+
+Note: A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the Criminal Code).

@@ -1,0 +1,9 @@
+# 261AKH Destroying video recordings
+
+A person commits an offence if:
+
+(a) the person is the person who has day-to-day responsibility for the system under which a video recording is stored; and
+
+(b) the person fails physically to destroy the recording, and all copies of the recording, within 10 years after it was made.
+
+Penalty: Imprisonment for 2 years, or 120 penalty units, or both.

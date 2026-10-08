@@ -1,0 +1,35 @@
+# 261AKD Providing video recordings
+
+(1) A person commits an offence if:
+
+(a) the person’s conduct causes a video recording to be provided to another person; and
+
+(b) the provision of the recording is not a permitted provision of the recording.
+
+Penalty: Imprisonment for 2 years, or 120 penalty units, or both.
+
+(2) A permitted provision of a video recording is a provision of the recording that:
+
+(a) is for the purpose of administering or managing the storage of video recordings; or
+
+(b) is for the purpose of making the video recording in question available to the non-citizen to whom it relates; or
+
+(c) is for the purpose of a proceeding, before a court, the ART or another tribunal, relating to the non-citizen to whom the video recording in question relates; or
+
+(d) is for any purpose connected with determining whether a civil or criminal liability has arisen from a person carrying out or helping to carry out an identification test under this Act; or
+
+(e) is for the purpose of an investigation by the Information Commissioner under the Privacy Act 1988 or the Ombudsman relating to carrying out an identification test; or
+
+(f) is made to a prescribed body or agency for the purpose of the body or agency inquiring into the operation of provisions of this Act relating to carrying out an identification test; or
+
+(g) takes place with the written consent of the non-citizen to whom the video recording in question relates.
+
+(3) However, a provision of a video recording is not a permitted provision of the recording if:
+
+(a) it constitutes a disclosure of identifying information relating to a personal identifier of a prescribed type; and
+
+(b) it is for the purpose of:
+
+(i) investigating an offence against a law of the Commonwealth or a State or Territory (other than an offence involving whether an identification test was carried out lawfully); or
+
+(ii) prosecuting a person for such an offence.
