@@ -12,13 +12,17 @@ Disclosure to Higher Education Department
 
 (3) An official may, subject to subsection (5), disclose relevant information to the Secretary of the Higher Education Department if the disclosure is for the purposes of assisting the Higher Education Department to perform its functions or duties or exercise its powers.
 
+Disclosure to ATEC Commissioners
+
+(3A) An official may, subject to subsection (5), disclose relevant information to an ATEC Commissioner if the disclosure is for the purposes of assisting the ATEC Commissioner to perform the functions or duties, or to exercise the powers, of the ATEC Commissioner.
+
 Disclosure to prescribed body
 
 (4) An official may, subject to subsection (5), disclose relevant information to a prescribed body (within the meaning of subsection 21AE(5)) if the disclosure is for the purposes of assisting the body to perform its functions or duties or exercise its powers.
 
 Identifying information
 
-(5) An official is not authorised under subsection (1), (2), (3) or (4) to disclose relevant information that would enable an individual who has made a complaint under this Part to be identified, unless the individual has consented to the disclosure.
+(5) An official is not authorised under subsection (1), (2), (3), (3A) or (4) to disclose relevant information that would enable an individual who has made a complaint under this Part to be identified, unless the individual has consented to the disclosure.
 
 Definitions
 
