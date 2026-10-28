@@ -1,0 +1,10 @@
+{
+  "path": "au",
+  "code": "AU",
+  "name": "Australia",
+  "level": "country",
+  "repo": "https://github.com/lexifina/australia-law",
+  "build": "ready",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
