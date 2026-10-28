@@ -1,0 +1,165 @@
+{
+ "title_id": "C1905A00016",
+ "name": "Commerce (Trade Descriptions) Act 1905",
+ "folder": "commerce-trade-descriptions-act-1905",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00554",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2024-10-14/text",
+   "sha256": "947645ed8b898e65bd1488a44b2f1e24501c46dfe39621cbacecd6849a7f4453"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1905-12-08",
+   "acts": []
+  },
+  {
+   "in_force": "1926-08-11",
+   "acts": [
+    "Commerce (Trade Descriptions) Act 1926"
+   ]
+  },
+  {
+   "in_force": "1930-07-18",
+   "acts": [
+    "Commerce (Trade Descriptions) Act 1930"
+   ]
+  },
+  {
+   "in_force": "1933-07-24",
+   "acts": [
+    "Commerce (Trade Descriptions) Act 1933"
+   ]
+  },
+  {
+   "in_force": "1950-12-31",
+   "acts": [
+    "Statute Law Revision Act 1950"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-10-26",
+   "acts": [
+    "Commerce (Trade Descriptions) Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-01-01",
+   "acts": [
+    "Export Control (Miscellaneous Amendments) Act 1982"
+   ]
+  },
+  {
+   "in_force": "1985-06-10",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-05-13",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Industry, Technology and Commerce Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Customs, Excise and Bounty Legislation Amendment Act 1995",
+    "Customs, Excise and Bounty Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-04-05",
+   "acts": [
+    "Customs and Other Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-20",
+   "acts": [
+    "Statute Update (Winter 2017) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "Commerce (Trade Descriptions) Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-29",
+   "acts": [
+    "Commerce (Trade Descriptions) Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2021-03-28",
+   "acts": [
+    "Export Control (Consequential Amendments and Transitional Provisions) Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

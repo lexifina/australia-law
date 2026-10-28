@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00047",
+ "name": "Sewerage Agreements Act 1973",
+ "folder": "sewerage-agreements-act-1973",
+ "compilations": [
+  {
+   "in_force": "2005-02-22",
+   "register_id": "C2005C00099",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00047',start=2005-02-22,retrospectivestart=2005-02-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00047/2005-02-22/text",
+   "sha256": "556cc3e090e699e627898db2633a1f5dd3431b1d9b3e45d737b7929ba2c65b01"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1973-12-18",
+   "acts": []
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

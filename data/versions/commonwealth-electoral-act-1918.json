@@ -1,0 +1,917 @@
+{
+ "title_id": "C1918A00027",
+ "name": "Commonwealth Electoral Act 1918",
+ "folder": "commonwealth-electoral-act-1918",
+ "compilations": [
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00260",
+   "compilation": "81",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1918A00027',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1918A00027/2026-07-01/text",
+   "sha256": "df9b4584944f3f8a5ed6e98af77fe9252256b84209c15a5495aa3eb0568c8cfb"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1918-11-21",
+   "acts": []
+  },
+  {
+   "in_force": "1919-10-28",
+   "acts": [
+    "Commonwealth Electoral Act 1919"
+   ]
+  },
+  {
+   "in_force": "1921-12-15",
+   "acts": [
+    "Commonwealth Electoral Act 1921"
+   ]
+  },
+  {
+   "in_force": "1922-10-04",
+   "acts": [
+    "Commonwealth Electoral Act 1922"
+   ]
+  },
+  {
+   "in_force": "1924-07-31",
+   "acts": [
+    "Commonwealth Electoral Act 1924"
+   ]
+  },
+  {
+   "in_force": "1925-09-26",
+   "acts": [
+    "Commonwealth Electoral Act 1925"
+   ]
+  },
+  {
+   "in_force": "1928-06-22",
+   "acts": [
+    "Commonwealth Electoral Act 1928"
+   ]
+  },
+  {
+   "in_force": "1929-02-25",
+   "acts": [
+    "Commonwealth Electoral Act 1929"
+   ]
+  },
+  {
+   "in_force": "1934-07-27",
+   "acts": [
+    "Commonwealth Electoral Act 1934"
+   ]
+  },
+  {
+   "in_force": "1940-08-16",
+   "acts": [
+    "Commonwealth Electoral Act 1940"
+   ]
+  },
+  {
+   "in_force": "1946-08-15",
+   "acts": [
+    "Commonwealth Electoral Act 1946"
+   ]
+  },
+  {
+   "in_force": "1948-05-18",
+   "acts": [
+    "Commonwealth Electoral Act 1948"
+   ]
+  },
+  {
+   "in_force": "1949-04-22",
+   "acts": [
+    "Commonwealth Electoral Act 1949"
+   ]
+  },
+  {
+   "in_force": "1949-10-27",
+   "acts": [
+    "Commonwealth Electoral Act (No. 2) 1949"
+   ]
+  },
+  {
+   "in_force": "1952-12-16",
+   "acts": [
+    "Commonwealth Electoral Act 1952"
+   ]
+  },
+  {
+   "in_force": "1954-01-07",
+   "acts": [
+    "Commonwealth Electoral Act 1953"
+   ]
+  },
+  {
+   "in_force": "1961-06-16",
+   "acts": [
+    "Commonwealth Electoral Act 1961"
+   ]
+  },
+  {
+   "in_force": "1962-06-18",
+   "acts": [
+    "Commonwealth Electoral Act 1962"
+   ]
+  },
+  {
+   "in_force": "1965-07-01",
+   "acts": [
+    "Commonwealth Electoral Act 1965",
+    "Commonwealth Electoral Act (No. 2) 1965"
+   ]
+  },
+  {
+   "in_force": "1966-05-24",
+   "acts": [
+    "Commonwealth Electoral Act 1966"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-03-21",
+   "acts": [
+    "Commonwealth Electoral Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-09-20",
+   "acts": [
+    "Commonwealth Electoral Act (No. 2) 1973"
+   ]
+  },
+  {
+   "in_force": "1975-07-01",
+   "acts": [
+    "Postal and Telecommunications Commissions (Transitional Provisions) Act 1975"
+   ]
+  },
+  {
+   "in_force": "1977-02-28",
+   "acts": [
+    "Commonwealth Electoral Amendment Act 1977",
+    "Commonwealth Electoral Amendment Act (No. 2) 1977"
+   ]
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-06-06",
+   "acts": [
+    "Commonwealth Electoral Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-09-19",
+   "acts": [
+    "High Court of Australia (Consequential Provisions) Act 1980"
+   ]
+  },
+  {
+   "in_force": "1982-09-22",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-01-26",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1984-02-21",
+   "acts": [
+    "Commonwealth Electoral Legislation Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-04-02",
+   "acts": [
+    "Migration (Miscellaneous Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-25",
+   "acts": [
+    "Cocos (Keeling) Islands Self-Determination (Consequential Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Commonwealth Electoral Legislation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-18",
+   "acts": [
+    "Christmas Island Administration (Miscellaneous Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-25",
+   "acts": [
+    "Electoral and Referendum Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-01-01",
+   "acts": [
+    "Broadcasting and Television (Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-01-08",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1987-06-03",
+   "acts": [
+    "Commonwealth Electoral Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-30",
+   "acts": [
+    "Broadcasting Amendment Act (No. 3) 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Migration Legislation Amendment (Consequential Amendments) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-23",
+   "acts": [
+    "Electoral and Referendum Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-02-09",
+   "acts": [
+    "Electoral and Referendum Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-09-30",
+   "acts": [
+    "Electoral and Referendum Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-19",
+   "acts": [
+    "Political Broadcasts and Political Disclosures Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-23",
+   "acts": [
+    "Special Broadcasting Service Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-03-06",
+   "acts": [
+    "Australian Capital Territory Self-Government Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-05-13",
+   "acts": [
+    "Electoral and Referendum Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-11",
+   "acts": [
+    "Commonwealth Electoral Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-10-05",
+   "acts": [
+    "Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-10-17",
+   "acts": [
+    "Norfolk Island (Electoral and Judicial) Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Electoral and Referendum Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-06-24",
+   "acts": [
+    "Electoral and Referendum Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-02-16",
+   "acts": [
+    "Commonwealth Electoral Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-04-11",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-09-01",
+   "acts": [
+    "Migration Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-06-15",
+   "acts": [
+    "Commonwealth Electoral Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Electoral and Referendum Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-17",
+   "acts": [
+    "Electoral and Referendum Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-18",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1998-08-14",
+   "acts": [
+    "Electoral and Referendum Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    "Electoral and Referendum Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-11-10",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-11-11",
+   "acts": [
+    "Electoral and Referendum Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-10-03",
+   "acts": [
+    "Commonwealth Electoral Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-10-26",
+   "acts": [
+    "Commonwealth Electoral Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-16",
+   "acts": [
+    "Electoral and Referendum Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-15",
+   "acts": [
+    "Finance and Administration Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-10-10",
+   "acts": [
+    "Commonwealth Electoral Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2003-05-12",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-12-17",
+   "acts": [
+    "Commonwealth Electoral Amendment (Members of Local Government Bodies) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-04-27",
+   "acts": [
+    "Commonwealth Electoral Amendment (Representation in the House of Representatives) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-13",
+   "acts": [
+    "Electoral and Referendum Amendment (Enrolment Integrity and Other Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-21",
+   "acts": [
+    "Electoral and Referendum Amendment (Access to Electoral Roll and Other Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-08-10",
+   "acts": [
+    "Electoral and Referendum Amendment (Enrolment Integrity and Other Measures) Act 2004",
+    "Electoral and Referendum Amendment (Enrolment Integrity and Other Measures) Act 2004",
+    "Electoral and Referendum Amendment (Enrolment Integrity and Other Measures) Act 2004",
+    "Electoral and Referendum Amendment (Prisoner Voting and Other Measures) Act 2004",
+    "Electoral and Referendum Amendment (Prisoner Voting and Other Measures) Act 2004",
+    "Electoral and Referendum Amendment (Prisoner Voting and Other Measures) Act 2004",
+    "Electoral and Referendum Amendment (Prisoner Voting and Other Measures) Act 2004",
+    "Electoral and Referendum Amendment (Prisoner Voting and Other Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-05-16",
+   "acts": [
+    "Administrative Appeals Tribunal Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-08",
+   "acts": [
+    "Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-11-21",
+   "acts": [
+    "Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006",
+    "Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-13",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Electoral and Referendum Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-13",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-16",
+   "acts": [
+    "Electoral and Referendum Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006",
+    "Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006",
+    "Australian Citizenship (Transitionals and Consequentials) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Commonwealth Electoral Amendment (Democratic Plebiscites) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-09",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010",
+    "Statute Law Revision Act 2010",
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-14",
+   "acts": [
+    "Electoral and Referendum Amendment (Pre-poll Voting and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-15",
+   "acts": [
+    "Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010",
+    "Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-19",
+   "acts": [
+    "Electoral and Referendum Amendment (Pre-poll Voting and Other Measures) Act 2010",
+    "Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-23",
+   "acts": [
+    "Electoral and Referendum Amendment (How-to-Vote Cards and Other Measures) Act 2010",
+    "Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-14",
+   "acts": [
+    "Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010",
+    "Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-05-25",
+   "acts": [
+    "Electoral and Referendum Amendment (Enrolment and Prisoner Voting) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-05-26",
+   "acts": [
+    "Electoral and Referendum Amendment (Provisional Voting) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-25",
+   "acts": [
+    "Electoral and Referendum Amendment (Maintaining Address) Act 2012",
+    "Electoral and Referendum Amendment (Protecting Elector Participation) Act 2012",
+    "Electoral and Referendum Amendment (Protecting Elector Participation) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-27",
+   "acts": [
+    "Electoral and Referendum Amendment (Improving Electoral Procedure) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-03-29",
+   "acts": [
+    "Electoral and Referendum Amendment (Improving Electoral Administration) Act 2013",
+    "Electoral and Referendum Amendment (Improving Electoral Administration) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-01-01",
+   "acts": [
+    "Electoral and Referendum Amendment (Improving Electoral Administration) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-03-22",
+   "acts": [
+    "Commonwealth Electoral Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-03-14",
+   "acts": [
+    "Electoral and Other Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-01",
+   "acts": [
+    "Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-01-01",
+   "acts": [
+    "Electoral Legislation Amendment (Electoral Funding and Disclosure Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-03-08",
+   "acts": [
+    "Electoral Legislation Amendment (Modernisation and Other Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-12-01",
+   "acts": [
+    "Electoral Legislation Amendment (Miscellaneous Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-02-15",
+   "acts": [
+    "Electoral Amendment (Territory Representation) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-03",
+   "acts": [
+    "Electoral Legislation Amendment (Counting, Scrutiny and Operational Efficiencies) Act 2021",
+    "Electoral Legislation Amendment (Electoral Offences and Preventing Multiple Voting) Act 2021",
+    "Electoral Legislation Amendment (Electoral Offences and Preventing Multiple Voting) Act 2021",
+    "Electoral Legislation Amendment (Party Registration Integrity) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-14",
+   "acts": [
+    "Electoral Legislation Amendment (Annual Disclosure Equality) Act 2021",
+    "Electoral Legislation Amendment (Assurance of Senate Counting) Act 2021",
+    "Electoral Legislation Amendment (Contingency Measures) Act 2021",
+    "Electoral Legislation Amendment (Political Campaigners) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-02-18",
+   "acts": [
+    "Courts and Tribunals Legislation Amendment (2021 Measures No. 1) Act 2022",
+    "Electoral Legislation Amendment (Authorisations) Act 2022",
+    "Electoral Legislation Amendment (COVID Enfranchisement) Act 2022",
+    "Electoral Legislation Amendment (Foreign Influences and Offences) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-01-01",
+   "acts": [
+    "Electoral Legislation Amendment (Assurance of Senate Counting) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-03-27",
+   "acts": [
+    "Referendum (Machinery Provisions) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-01-07",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-21",
+   "acts": [
+    "Electoral Legislation Amendment (Electoral Reform) Act 2025",
+    "Electoral Legislation Amendment (Electoral Reform) Act 2025",
+    "Electoral Legislation Amendment (Electoral Reform) Act 2025",
+    "Electoral Legislation Amendment (Electoral Reform) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-03-31",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

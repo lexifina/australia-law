@@ -1,0 +1,86 @@
+{
+ "title_id": "C1961A00065",
+ "name": "Explosives Act 1961",
+ "folder": "explosives-act-1961",
+ "compilations": [
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00816",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1961A00065',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1961A00065/2024-12-11/text",
+   "sha256": "83e2a416d2b9e9c16a4e893f24dc891c9208aef48d738398f8404308eba0f14d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1961-10-24",
+   "acts": []
+  },
+  {
+   "in_force": "1965-02-04",
+   "acts": [
+    "Explosives Act 1964"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1982-10-20",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

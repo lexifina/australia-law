@@ -1,0 +1,80 @@
+{
+ "title_id": "C1919A00025",
+ "name": "Loans Securities Act 1919",
+ "folder": "loans-securities-act-1919",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00610",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1919A00025',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1919A00025/2014-07-01/text",
+   "sha256": "1af0659e1b12b7f25de42218f3f354d203753725df8b1ee6284d8895721773b9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1919-10-28",
+   "acts": []
+  },
+  {
+   "in_force": "1956-11-07",
+   "acts": [
+    "Loans Securities Act 1956"
+   ]
+  },
+  {
+   "in_force": "1959-09-09",
+   "acts": [
+    "Loans Securities Act 1959"
+   ]
+  },
+  {
+   "in_force": "1968-06-07",
+   "acts": [
+    "Loans Securities Act 1968"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1988-12-22",
+   "acts": [
+    "Loans Securities Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-13",
+   "acts": [
+    "Commonwealth Securities and Investment Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2012-10-20",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

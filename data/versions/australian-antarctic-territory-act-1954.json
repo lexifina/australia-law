@@ -1,0 +1,92 @@
+{
+ "title_id": "C1954A00042",
+ "name": "Australian Antarctic Territory Act 1954",
+ "folder": "australian-antarctic-territory-act-1954",
+ "compilations": [
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00725",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1954A00042',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1954A00042/2012-09-22/text",
+   "sha256": "da2153b5c761be886d4fd4278275cd4cd934ce3f7618fcaef6adb7f213e87ba2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1954-11-01",
+   "acts": []
+  },
+  {
+   "in_force": "1957-07-05",
+   "acts": [
+    "Australian Antarctic Territory Act 1957"
+   ]
+  },
+  {
+   "in_force": "1963-06-25",
+   "acts": [
+    "Australian Antarctic Territory Act 1963"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-03-04",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

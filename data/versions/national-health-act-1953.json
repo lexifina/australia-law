@@ -1,0 +1,2221 @@
+{
+ "title_id": "C1953A00095",
+ "name": "National Health Act 1953",
+ "folder": "national-health-act-1953",
+ "compilations": [
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00410",
+   "compilation": "157",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00095',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00095/2026-09-19/text",
+   "sha256": "1062c15ff626ddb4da225ff560a19a25a3cfb9ecd17cf7d4da3eb48353306eec"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1953-12-18",
+   "acts": []
+  },
+  {
+   "in_force": "1954-04-14",
+   "acts": [
+    "National Health Act 1956",
+    "National Health Act 1955"
+   ]
+  },
+  {
+   "in_force": "1954-05-12",
+   "acts": [
+    "Health and Community Services Legislation Amendment Act 1992",
+    "National Health Act 1955"
+   ]
+  },
+  {
+   "in_force": "1955-11-04",
+   "acts": [
+    "National Health Act 1955"
+   ]
+  },
+  {
+   "in_force": "1956-01-01",
+   "acts": [
+    "National Health Act 1955"
+   ]
+  },
+  {
+   "in_force": "1956-06-30",
+   "acts": [
+    "National Health Act 1956"
+   ]
+  },
+  {
+   "in_force": "1956-07-01",
+   "acts": [
+    "National Health Act 1955"
+   ]
+  },
+  {
+   "in_force": "1957-09-01",
+   "acts": [
+    "National Health Act (No. 2) 1956"
+   ]
+  },
+  {
+   "in_force": "1958-01-01",
+   "acts": [
+    "National Health Act 1957"
+   ]
+  },
+  {
+   "in_force": "1958-09-11",
+   "acts": [
+    "National Health Act 1958"
+   ]
+  },
+  {
+   "in_force": "1958-10-08",
+   "acts": [
+    "National Health Act 1958"
+   ]
+  },
+  {
+   "in_force": "1959-01-01",
+   "acts": [
+    "National Health Act 1959"
+   ]
+  },
+  {
+   "in_force": "1959-12-01",
+   "acts": [
+    "National Health Act 1959"
+   ]
+  },
+  {
+   "in_force": "1960-01-01",
+   "acts": [
+    "National Health Act 1959"
+   ]
+  },
+  {
+   "in_force": "1960-03-01",
+   "acts": [
+    "National Health Act 1959"
+   ]
+  },
+  {
+   "in_force": "1961-05-11",
+   "acts": [
+    "National Health Act 1961"
+   ]
+  },
+  {
+   "in_force": "1961-07-01",
+   "acts": [
+    "National Health Act 1961"
+   ]
+  },
+  {
+   "in_force": "1962-12-12",
+   "acts": [
+    "National Health Act 1962"
+   ]
+  },
+  {
+   "in_force": "1963-01-01",
+   "acts": [
+    "National Health Act 1962"
+   ]
+  },
+  {
+   "in_force": "1964-05-28",
+   "acts": [
+    "National Health Act 1964"
+   ]
+  },
+  {
+   "in_force": "1964-06-01",
+   "acts": [
+    "National Health Act 1964"
+   ]
+  },
+  {
+   "in_force": "1964-07-01",
+   "acts": [
+    "National Health Act 1964"
+   ]
+  },
+  {
+   "in_force": "1965-01-01",
+   "acts": [
+    "National Health Act 1963"
+   ]
+  },
+  {
+   "in_force": "1965-12-13",
+   "acts": [
+    "National Health Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-02-14",
+   "acts": [
+    "National Health Act (No. 2) 1965"
+   ]
+  },
+  {
+   "in_force": "1966-10-18",
+   "acts": [
+    "National Health Act 1966"
+   ]
+  },
+  {
+   "in_force": "1967-04-21",
+   "acts": [
+    "National Health Act 1967"
+   ]
+  },
+  {
+   "in_force": "1967-11-10",
+   "acts": [
+    "National Health Act (No. 2) 1967"
+   ]
+  },
+  {
+   "in_force": "1968-03-01",
+   "acts": [
+    "National Health Act (No. 2) 1967"
+   ]
+  },
+  {
+   "in_force": "1968-11-26",
+   "acts": [
+    "National Health Act 1968"
+   ]
+  },
+  {
+   "in_force": "1969-01-01",
+   "acts": [
+    "National Health Act 1968"
+   ]
+  },
+  {
+   "in_force": "1969-09-27",
+   "acts": [
+    "National Health Act 1969"
+   ]
+  },
+  {
+   "in_force": "1970-01-01",
+   "acts": [
+    "National Health Act 1970"
+   ]
+  },
+  {
+   "in_force": "1970-06-24",
+   "acts": [
+    "National Health Act 1970"
+   ]
+  },
+  {
+   "in_force": "1971-07-01",
+   "acts": [
+    "National Health Act 1970"
+   ]
+  },
+  {
+   "in_force": "1971-10-20",
+   "acts": [
+    "National Health Act 1971"
+   ]
+  },
+  {
+   "in_force": "1971-10-21",
+   "acts": [
+    "National Health Act 1971"
+   ]
+  },
+  {
+   "in_force": "1971-11-01",
+   "acts": [
+    "National Health Act 1971"
+   ]
+  },
+  {
+   "in_force": "1972-10-31",
+   "acts": [
+    "National Health Act 1972"
+   ]
+  },
+  {
+   "in_force": "1973-01-01",
+   "acts": [
+    "National Health Act 1972"
+   ]
+  },
+  {
+   "in_force": "1973-03-01",
+   "acts": [
+    "National Health Act 1972"
+   ]
+  },
+  {
+   "in_force": "1973-07-03",
+   "acts": [
+    "National Health Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-18",
+   "acts": [
+    "National Health Act (No. 2) 1973"
+   ]
+  },
+  {
+   "in_force": "1974-01-01",
+   "acts": [
+    "National Health Act (No. 2) 1973"
+   ]
+  },
+  {
+   "in_force": "1974-08-07",
+   "acts": [
+    "National Health Act 1974"
+   ]
+  },
+  {
+   "in_force": "1975-01-01",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1983",
+    "National Health Act 1975"
+   ]
+  },
+  {
+   "in_force": "1975-02-15",
+   "acts": [
+    "National Health Act 1975"
+   ]
+  },
+  {
+   "in_force": "1975-04-09",
+   "acts": [
+    "National Health Act (No. 2) 1975"
+   ]
+  },
+  {
+   "in_force": "1975-09-01",
+   "acts": [
+    "National Health (Pharmaceutical Benefits Charges) Act 1975"
+   ]
+  },
+  {
+   "in_force": "1976-02-29",
+   "acts": [
+    "National Health Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-03-01",
+   "acts": [
+    "National Health Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-06-05",
+   "acts": [
+    "National Health Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-10-01",
+   "acts": [
+    "National Health Amendment Act 1976",
+    "National Health Amendment Act (No. 2) 1976"
+   ]
+  },
+  {
+   "in_force": "1976-11-25",
+   "acts": [
+    "National Health Amendment Act (No. 3) 1976"
+   ]
+  },
+  {
+   "in_force": "1977-01-01",
+   "acts": [
+    "National Health Amendment Act (No. 4) 1976"
+   ]
+  },
+  {
+   "in_force": "1977-02-01",
+   "acts": [
+    "Federal Court of Australia (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-10-01",
+   "acts": [
+    "National Health Acts Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1977-11-01",
+   "acts": [
+    "National Health Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-06-22",
+   "acts": [
+    "National Health Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-07-01",
+   "acts": [
+    "National Health Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-10-01",
+   "acts": [
+    "National Health Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-10-31",
+   "acts": [
+    "National Health Amendment Act (No. 2) 1978"
+   ]
+  },
+  {
+   "in_force": "1978-11-01",
+   "acts": [
+    "National Health Amendment Act (No. 2) 1978"
+   ]
+  },
+  {
+   "in_force": "1978-12-04",
+   "acts": [
+    "National Health Amendment Act (No. 3) 1978"
+   ]
+  },
+  {
+   "in_force": "1979-02-16",
+   "acts": [
+    "National Health Amendment Act (No. 2) 1978",
+    "Health Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1979-06-14",
+   "acts": [
+    "National Health Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-09-01",
+   "acts": [
+    "National Health Amendment Act (No. 2) 1979",
+    "National Health Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-11-01",
+   "acts": [
+    "National Health Amendment Act (No. 3) 1979"
+   ]
+  },
+  {
+   "in_force": "1980-09-04",
+   "acts": [
+    "National Health Amendment Act (No. 2) 1980"
+   ]
+  },
+  {
+   "in_force": "1980-09-08",
+   "acts": [
+    "National Health Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-10-01",
+   "acts": [
+    "National Health Amendment Act (No. 2) 1980"
+   ]
+  },
+  {
+   "in_force": "1980-11-01",
+   "acts": [
+    "National Health Amendment Act (No. 2) 1980"
+   ]
+  },
+  {
+   "in_force": "1980-12-01",
+   "acts": [
+    "National Health Amendment Act (No. 2) 1980"
+   ]
+  },
+  {
+   "in_force": "1981-01-01",
+   "acts": [
+    "Health Acts Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-05-12",
+   "acts": [
+    "National Health (Pharmaceutical Benefits) Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-06-18",
+   "acts": [
+    "Commonwealth Functions (Statutes Review) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-09-01",
+   "acts": [
+    "Health Acts Amendment Act 1981",
+    "Statute Law (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-11-26",
+   "acts": [
+    "National Health Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-12-01",
+   "acts": [
+    "National Health Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-12-30",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-06-09",
+   "acts": [
+    "Health Legislation Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1982-07-01",
+   "acts": [
+    "Companies (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-09-22",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1982-11-01",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1982",
+    "Health Legislation Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1982-11-08",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-01-01",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-03-01",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-06-19",
+   "acts": [
+    "National Health Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "National Health Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-10-01",
+   "acts": [
+    "Health Legislation Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-12-01",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-12-22",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-02-01",
+   "acts": [
+    "Health Legislation Amendment Act 1983",
+    "Health Legislation Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-05-23",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-25",
+   "acts": [
+    "Cocos (Keeling) Islands Self-Determination (Consequential Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984",
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-18",
+   "acts": [
+    "Christmas Island Administration (Miscellaneous Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-25",
+   "acts": [
+    "Health Legislation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-12-13",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-01",
+   "acts": [
+    "Social Security and Repatriation Legislation Amendment Act 1985",
+    "Social Security and Repatriation (Budget Measures) Amendment Act 1985",
+    "National Welfare Fund Repeal Act 1985",
+    "Health Legislation Amendment Act 1984",
+    "National Health Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-09-01",
+   "acts": [
+    "Health Legislation Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-10-28",
+   "acts": [
+    "Social Security and Repatriation (Budget Measures) Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-11-01",
+   "acts": [
+    "Social Security and Repatriation (Budget Measures) Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-02-22",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-05-22",
+   "acts": [
+    "Veterans' Entitlements (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-07-01",
+   "acts": [
+    "Health Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-07-22",
+   "acts": [
+    "Health Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-10-01",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-10-13",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-11-01",
+   "acts": [
+    "National Health Amendment Act 1987",
+    "National Health Amendment Act 1987",
+    "Health Legislation Amendment Act (No. 2) 1986",
+    "Health Legislation Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-11-24",
+   "acts": [
+    "Nursing Homes and Hostels Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-04-01",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-05-01",
+   "acts": [
+    "Nursing Homes and Hostels Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-05-26",
+   "acts": [
+    "National Health Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-07-01",
+   "acts": [
+    "Nursing Homes and Hostels Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-08-01",
+   "acts": [
+    "Health Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-16",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1987",
+    "Community Services and Health Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-01-01",
+   "acts": [
+    "National Health Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-03-01",
+   "acts": [
+    "National Health Amendment Act (No. 2) 1987",
+    "Community Services and Health Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-06-24",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1988",
+    "National Health Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-10-01",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-26",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-15",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act (No. 2) 1988",
+    "Community Services and Health Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-06-01",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-06-28",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-07-01",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-11-15",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act (No. 4) 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-24",
+   "acts": [
+    "National Health Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-28",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act (No. 4) 1989",
+    "Community Services and Health Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-01-17",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-24",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1990-02-01",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-03-01",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1990-04-01",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-06-01",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act (No. 4) 1989",
+    "Social Security Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-10-30",
+   "acts": [
+    "Social Welfare Legislation (Pharmaceutical Benefits) Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-11-01",
+   "acts": [
+    "Social Welfare Legislation (Pharmaceutical Benefits) Amendment Act 1990",
+    "Community Services and Health Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-12-18",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1990",
+    "Health and Community Services Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1990-12-28",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-01",
+   "acts": [
+    "Social Welfare Legislation (Pharmaceutical Benefits) Amendment Act 1990",
+    "Community Services and Health Legislation Amendment Act 1990",
+    "Health Legislation (Pharmaceutical Benefits) Amendment Act 1991",
+    "National Health Amendment Act 1991",
+    "Community Services and Health Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-02-01",
+   "acts": [
+    "Social Welfare Legislation (Pharmaceutical Benefits) Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-03-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1991",
+    "Veterans' Affairs Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-06-26",
+   "acts": [
+    "National Health Amendment Act 1991",
+    "Community Services and Health Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-06-27",
+   "acts": [
+    "Health Legislation (Pharmaceutical Benefits) Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Social Security (Job Search and Newstart) Amendment Act 1991",
+    "Social Security (Rewrite) Transition Act 1991",
+    "Veterans' Entitlements (Rewrite) Transition Act 1991",
+    "Social Security (Rewrite) Amendment Act 1991",
+    "Health Legislation (Pharmaceutical Benefits) Amendment Act 1991",
+    "Social Security Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-08-01",
+   "acts": [
+    "Nursing Homes and Hostels Legislation Amendment Act 1986",
+    "Community Services and Health Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-10-16",
+   "acts": [
+    "National Health Regulations (Amendment)"
+   ]
+  },
+  {
+   "in_force": "1991-11-12",
+   "acts": [
+    "Social Security (Disability and Sickness Support) Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-24",
+   "acts": [
+    "Health and Community Services Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-27",
+   "acts": [
+    "Health Legislation (Pharmaceutical Benefits) Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-01-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1991",
+    "Social Security Legislation Amendment Act (No. 3) 1991",
+    "Health, Housing and Community Services Legislation Amendment Act 1992",
+    "Veterans' Affairs Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-01-02",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-04-01",
+   "acts": [
+    "Health and Community Services Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Health, Housing and Community Services Legislation Amendment Act 1992",
+    "Health, Housing and Community Services Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Australian Hearing Services Act 1991",
+    "Health and Community Services Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-11-01",
+   "acts": [
+    "Health and Community Services Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-11-11",
+   "acts": [
+    "Health and Community Services Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-21",
+   "acts": [
+    "Health and Community Services Legislation Amendment Act (No. 3) 1992",
+    "Health and Community Services Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-06",
+   "acts": [
+    "Health and Community Services Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-03-20",
+   "acts": [
+    "Social Security Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1993-04-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-06-09",
+   "acts": [
+    "National Health Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Health and Community Services Legislation Amendment Act 1993",
+    "National Health Amendment Act 1994",
+    "National Health Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-11-01",
+   "acts": [
+    "National Health Act 1953 (Amendment) Regulations"
+   ]
+  },
+  {
+   "in_force": "1993-11-03",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1993-11-25",
+   "acts": [
+    "Health and Community Services Legislation Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-01",
+   "acts": [
+    "National Health Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1994-02-16",
+   "acts": [
+    "National Health Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-06-21",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-06-23",
+   "acts": [
+    "Human Services and Health Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Health Legislation (Professional Services Review) Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-21",
+   "acts": [
+    "Statute Law Revision Act 2002",
+    "Health Legislation (Powers of Investigation) Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-09-16",
+   "acts": [
+    "Human Services and Health Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-01",
+   "acts": [
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-01-01",
+   "acts": [
+    "Student Assistance (Youth Training Allowance—Transitional Provisions and Consequential Amendments) Act 1994",
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-02-23",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-03-20",
+   "acts": [
+    "Veterans' Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1995-04-01",
+   "acts": [
+    "National Health Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-05-29",
+   "acts": [
+    "Health Legislation (Private Health Insurance Reform) Amendment Act 1995",
+    "Health Legislation Amendment Act (No. 2) 1998"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "National Health Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-09-29",
+   "acts": [
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-10-01",
+   "acts": [
+    "Health Legislation (Private Health Insurance Reform) Amendment Act 1995",
+    "Human Services and Health Legislation Amendment Act (No. 3) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-11-06",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Human Services and Health Legislation Amendment Act (No. 3) 1995",
+    "Human Services and Health Legislation Amendment Act (No. 3) 1995",
+    "Human Services and Health Legislation Amendment Act (No. 2) 1995",
+    "Health Legislation Amendment Act (No. 2) 1998",
+    "Health Legislation Amendment Act (No. 2) 1998"
+   ]
+  },
+  {
+   "in_force": "1996-02-01",
+   "acts": [
+    "Health and Other Services (Compensation) (Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-03-20",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-07-01",
+   "acts": [
+    "Health Legislation (Private Health Insurance Reform) Amendment Act 1995",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-09-20",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-01-01",
+   "acts": [
+    "National Health (Budget Measures) Amendment Act 1996",
+    "Health Legislation Amendment Act (No. 2) 1998"
+   ]
+  },
+  {
+   "in_force": "1997-01-02",
+   "acts": [
+    "National Health (Budget Measures) Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-03-20",
+   "acts": [
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-04-22",
+   "acts": [
+    "Health Legislation Amendment (Private Health Insurance Incentives) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Commonwealth Services Delivery Agency (Consequential Amendments) Act 1997",
+    "Aged Care (Consequential Provisions) Act 1997",
+    "Health Legislation (Private Health Insurance Reform) Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-12-01",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-03-20",
+   "acts": [
+    "Social Security Legislation Amendment (Parenting and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-04-17",
+   "acts": [
+    "Health Legislation Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-04-24",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1998"
+   ]
+  },
+  {
+   "in_force": "1998-05-01",
+   "acts": [
+    "Health Legislation Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Financial Sector Reform (Consequential Amendments) Act 1998",
+    "Aged Care (Consequential Provisions) Act 1997",
+    "Health Legislation Amendment Act (No. 2) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-01-01",
+   "acts": [
+    "Health Legislation Amendment Act (No. 3) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999",
+    "Assistance for Carers Legislation Amendment Act 1999",
+    "1998 Budget Measures Legislation Amendment (Social Security and Veterans' Entitlements) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Statute Stocktake Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-19",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-01",
+   "acts": [
+    "National Health Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-01-01",
+   "acts": [
+    "Health Legislation Amendment Act (No. 3) 1999",
+    "Health Legislation Amendment Act (No. 3) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-06-30",
+   "acts": [
+    "National Health Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "National Health Amendment Act (No. 1) 2000",
+    "National Health Amendment (Lifetime Health Cover) Act 1999",
+    "A New Tax System (Compensation Measures Legislation Amendment) Act 1999",
+    "Health Legislation Amendment (Pharmacy Location Arrangements) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2000-08-11",
+   "acts": [
+    "Health Legislation Amendment (Gap Cover Schemes) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-12-11",
+   "acts": [
+    "National Health Amendment (Improved Monitoring of Entitlements to Pharmaceutical Benefits) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-01-01",
+   "acts": [
+    "National Health Amendment (Improved Monitoring of Entitlements to Pharmaceutical Benefits) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-03-21",
+   "acts": [
+    "Health Legislation Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-08",
+   "acts": [
+    "Health Legislation Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "Health Legislation Amendment Act (No. 1) 2001",
+    "Social Security Legislation Amendment (Concession Cards) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-09-17",
+   "acts": [
+    "Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-07-03",
+   "acts": [
+    "Statute Law Revision Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-10-08",
+   "acts": [
+    "Health Legislation Amendment (Private Health Industry Measures) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-11-05",
+   "acts": [
+    "Health Legislation Amendment (Private Health Industry Measures) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Medical Indemnity (Consequential Amendments) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-02-27",
+   "acts": [
+    "Health Legislation Amendment (Private Health Insurance Reform) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-03-24",
+   "acts": [
+    "Medical Indemnity Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-04-21",
+   "acts": [
+    "Health and Ageing Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-04-23",
+   "acts": [
+    "Health Legislation Amendment (Private Health Insurance Reform) Act 2004",
+    "Health Legislation Amendment (Private Health Insurance Reform) Act 2004",
+    "Health Legislation Amendment (Private Health Insurance Reform) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-05-19",
+   "acts": [
+    "Health and Ageing Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004",
+    "Health Legislation Amendment (Private Health Insurance Reform) Act 2004",
+    "Health Legislation Amendment (Private Health Insurance Reform) Act 2004",
+    "Health Legislation Amendment (Private Health Insurance Reform) Act 2004",
+    "National Health Amendment (Private Health Insurance Levies) Act 2003",
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-13",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits Budget Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-13",
+   "acts": [
+    "Health Legislation Amendment (Podiatric Surgery and Other Matters) Act 2004",
+    "Health Legislation Amendment (Podiatric Surgery and Other Matters) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Private Health Insurance Incentives Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-06-26",
+   "acts": [
+    "Health Legislation Amendment (Australian Community Pharmacy Authority) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Medical Indemnity Legislation Amendment (Competitive Neutrality) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-31",
+   "acts": [
+    "National Health Amendment (Prostheses) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-14",
+   "acts": [
+    "National Health Amendment (Budget Measures—Pharmaceutical Benefits Safety Net) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-19",
+   "acts": [
+    "Health Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-20",
+   "acts": [
+    "Health Legislation Amendment Act 2005",
+    "Health Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-01-01",
+   "acts": [
+    "National Health Amendment (Immunisation Program) Act 2005",
+    "National Health Amendment (Budget Measures—Pharmaceutical Benefits Safety Net) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-05-03",
+   "acts": [
+    "Health Legislation Amendment (Pharmacy Location Arrangements) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Health Legislation Amendment (Pharmacy Location Arrangements) Act 2006",
+    "National Health and Medical Research Council Amendment Act 2006",
+    "National Health and Medical Research Council Amendment Act 2006",
+    "Health Legislation Amendment (Private Health Insurance) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Privacy Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "National Health Amendment (Immunisation) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-01",
+   "acts": [
+    "Australian Participants in British Nuclear Tests (Treatment) (Consequential Amendments and Transitional Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-12",
+   "acts": [
+    "Medibank Private Sale Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "National Health Amendment (Budget Measures—Pharmaceutical Benefits Safety Net) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-08-01",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits Scheme) Act 2007",
+    "Health Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-08-20",
+   "acts": [
+    "National Health Amendment (National HPV Vaccination Program Register) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-28",
+   "acts": [
+    "Health Legislation Amendment Act 2007",
+    "National Health Amendment (Pharmaceutical Benefits) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-29",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "National Health Amendment (Budget Measures—Pharmaceutical Benefits Safety Net) Act 2005",
+    "National Health Amendment (Pharmaceutical Benefits) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-25",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits Scheme) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-26",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits Scheme) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "National Health Amendment (Pharmaceutical and Other Benefits—Cost Recovery) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "National Health Amendment (Budget Measures—Pharmaceutical Benefits Safety Net) Act 2005",
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-11-17",
+   "acts": [
+    "Statute Stocktake (Regulatory and Other Laws) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-31",
+   "acts": [
+    "National Health Amendment (Budget Measures—Pharmaceutical Benefits Safety Net) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2010-04-13",
+   "acts": [
+    "Health Legislation Amendment (Midwives and Nurse Practitioners) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-28",
+   "acts": [
+    "Health Legislation Amendment (Australian Community Pharmacy Authority and Private Health Insurance) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "National Health Amendment (Continence Aids Payment Scheme) Act 2010",
+    "Health Legislation Amendment (Midwives and Nurse Practitioners) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-01",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits Scheme) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-02-01",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits Scheme) Act 2010",
+    "National Health Amendment (Pharmaceutical Benefits Scheme) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-27",
+   "acts": [
+    "Aged Care Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-01",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits Scheme) Act 2010",
+    "National Health Amendment (Pharmaceutical Benefits Scheme) Act 2010",
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Personally Controlled Electronic Health Records (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "National Health Amendment (Fifth Community Pharmacy Agreement Initiatives) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-10-01",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits Scheme) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-10-20",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-03-13",
+   "acts": [
+    "National Health Amendment (Simplified Price Disclosure) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-27",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-01",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Health Legislation Amendment (eHealth) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits) Act 2015",
+    "Australian Immunisation Register (Consequential and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015",
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-11-17",
+   "acts": [
+    "Statute Law Revision (Spring 2016) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Australian Immunisation Register (Consequential and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-29",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Budget Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-03",
+   "acts": [
+    "Medicare Guarantee (Consequential Amendments) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-12-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Omnibus) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-02-21",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits—Budget and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Health Legislation Amendment (Improved Medicare Compliance and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-10-01",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits—Budget and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Treatment Benefits (Special Access) (Consequential Amendments and Transitional Provisions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-02",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-05",
+   "acts": [
+    "National Health Amendment (Pharmaceutical Benefits) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-13",
+   "acts": [
+    "Health Legislation Amendment (Data-matching and Other Matters) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "National Health Amendment (Safety Net Thresholds) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Medical and Midwife Indemnity Legislation Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-11",
+   "acts": [
+    "National Health Amendment (Decisions under the Continence Aids Payment Scheme) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-13",
+   "acts": [
+    "National Health Amendment (COVID-19) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-07-01",
+   "acts": [
+    "National Health Amendment (Enhancing the Pharmaceutical Benefits Scheme) Act 2021",
+    "Treasury Laws Amendment (Cost of Living Support and Other Measures) Act 2022",
+    "National Health Amendment (Technical Changes to Averaging Price Disclosure Threshold and Other Matters) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2022-10-01",
+   "acts": [
+    "National Health Amendment (Enhancing the Pharmaceutical Benefits Scheme) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-12-06",
+   "acts": [
+    "Health Legislation Amendment (Medicare Compliance and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-01-01",
+   "acts": [
+    "National Health Amendment (General Co-payment) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-04-12",
+   "acts": [
+    "National Health Amendment (Effect of Prosecution—Approved Pharmacist Corporations) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Health Amendment (General Co-payment) Act 2022",
+    "National Health Amendment (Enhancing the Pharmaceutical Benefits Scheme) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2024-07-10",
+   "acts": [
+    "National Health Amendment (Supporting Patient Access to Cheaper Medicines and Other Measures) Act 2024",
+    "National Health Amendment (Supporting Patient Access to Cheaper Medicines and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-11-01",
+   "acts": [
+    "Health Legislation Amendment (Removal of Requirement for a Collaborative Arrangement) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-11",
+   "acts": [
+    "Privacy and Other Legislation Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-15",
+   "acts": [
+    "Health Legislation Amendment (Modernising My Health Record—Sharing by Default) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-09-05",
+   "acts": [
+    "Health Legislation Amendment (Improved Medicare Integrity and Other Measures) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-11-01",
+   "acts": [
+    "Aged Care and Other Legislation Amendment Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-12-05",
+   "acts": [
+    "Regulatory Reform Omnibus Act 2025",
+    "Regulatory Reform Omnibus Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-01-01",
+   "acts": [
+    "National Health Amendment (Cheaper Medicines) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-04-09",
+   "acts": [
+    "National Health Amendment (Passive Immunological Products) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2026-07-01",
+   "acts": [
+    "Veterans’ Entitlements, Treatment and Support (Simplification and Harmonisation) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-07-07",
+   "acts": [
+    "Health Legislation Amendment (Prescribing of Pharmaceutical Benefits) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2027-07-01",
+   "acts": [
+    "National Health Amendment (Enhancing the Pharmaceutical Benefits Scheme) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

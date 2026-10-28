@@ -1,0 +1,166 @@
+{
+ "title_id": "C2004A00274",
+ "name": "Racial Discrimination Act 1975",
+ "folder": "racial-discrimination-act-1975",
+ "compilations": [
+  {
+   "in_force": "2022-12-13",
+   "register_id": "C2022C00366",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00274',start=2022-12-13,retrospectivestart=2022-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00274/2022-12-13/text",
+   "sha256": "79503d4c39df522a077ed342b3bce3dc37b1fedc4ca98139bf19da12e911c59d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1975-06-11",
+   "acts": []
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1981-12-10",
+   "acts": [
+    "Racial Discrimination Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1983-06-19",
+   "acts": [
+    "Racial Discrimination Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1986-12-10",
+   "acts": [
+    "Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-12-21",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1992-11-26",
+   "acts": [
+    "Human Rights and Equal Opportunity Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-08",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-13",
+   "acts": [
+    "Sex Discrimination and other Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-06-28",
+   "acts": [
+    "Human Rights Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-10-13",
+   "acts": [
+    "Racial Hatred Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-04-13",
+   "acts": [
+    "Human Rights Legislation Amendment Act (No. 1) 1999",
+    null
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000",
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-01-01",
+   "acts": [
+    "Charities (Consequential Amendments and Transitional Provisions) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2022-11-10",
+   "acts": [
+    "Australian Human Rights Commission Legislation Amendment (Selection and Appointment) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

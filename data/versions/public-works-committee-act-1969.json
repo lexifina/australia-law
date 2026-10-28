@@ -1,0 +1,152 @@
+{
+ "title_id": "C1969A00092",
+ "name": "Public Works Committee Act 1969",
+ "folder": "public-works-committee-act-1969",
+ "compilations": [
+  {
+   "in_force": "2017-03-22",
+   "register_id": "C2017C00098",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1969A00092',start=2017-03-22,retrospectivestart=2017-03-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1969A00092/2017-03-22/text",
+   "sha256": "1ec9785f08a3648d252ed04d405204b11b0b435aeb1236487d0723683be22b68"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1969-09-27",
+   "acts": []
+  },
+  {
+   "in_force": "1972-06-09",
+   "acts": [
+    "Public Works Committee Act 1972"
+   ]
+  },
+  {
+   "in_force": "1973-11-15",
+   "acts": [
+    "Public Works Committee Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-08-21",
+   "acts": [
+    "Public Works Committee Act 1974"
+   ]
+  },
+  {
+   "in_force": "1981-04-09",
+   "acts": [
+    "Public Works Committee Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-10-20",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1988-12-06",
+   "acts": [
+    "Australian Capital Territory (Planning and Land Management) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-01-31",
+   "acts": [
+    "Administrative Services Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-03-13",
+   "acts": [
+    "Administrative Services Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-08-30",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1997-04-07",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2001-10-15",
+   "acts": [
+    "Finance and Administration Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-11-07",
+   "acts": [
+    "Public Works Committee Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Maritime Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

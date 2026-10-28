@@ -1,0 +1,26 @@
+{
+ "title_id": "C1961A00087",
+ "name": "Defence Forces Retirement Benefits (Pension Increases) Act 1961",
+ "folder": "defence-forces-retirement-benefits-pension-increases-act-1961",
+ "compilations": [
+  {
+   "in_force": "1997-02-19",
+   "register_id": "C2004C00481",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1961A00087',start=1997-02-19,retrospectivestart=1997-02-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1961A00087/1997-02-19/text",
+   "sha256": "d0e91578ae022bc8135001db71cc2b80a522145e1445fc87187f8b3084c10d62"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1961-10-27",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

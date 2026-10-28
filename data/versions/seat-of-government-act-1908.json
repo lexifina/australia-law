@@ -1,0 +1,32 @@
+{
+ "title_id": "C1908A00024",
+ "name": "Seat of Government Act 1908",
+ "folder": "seat-of-government-act-1908",
+ "compilations": [
+  {
+   "in_force": "1973-12-31",
+   "register_id": "C2004C00607",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1908A00024',start=1973-12-31,retrospectivestart=1973-12-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1908A00024/1973-12-31/text",
+   "sha256": "28d749ffbdb4b65433f5a25db1b7b80fad7c9157cf07ec0630ad4f4035523b82"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1908-12-14",
+   "acts": []
+  },
+  {
+   "in_force": "1956-02-16",
+   "acts": [
+    "Australian Capital Territory and Jervis Bay (Lands Acquisition) Act 1955"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

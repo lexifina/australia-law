@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00007",
+ "name": "Defence Forces Retirement Benefits (Pension Increases) Act 1973",
+ "folder": "defence-forces-retirement-benefits-pension-increases-act-1973",
+ "compilations": [
+  {
+   "in_force": "1973-06-19",
+   "register_id": "C2004A00007",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00007',start=1973-06-19,retrospectivestart=1973-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00007/1973-06-19/text",
+   "sha256": "12c1e2bbcdeef6818ef824be7eebaaeef44e12e7159d83bea4b49e113438c9c1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

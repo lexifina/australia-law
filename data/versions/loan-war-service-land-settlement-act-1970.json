@@ -1,0 +1,21 @@
+{
+ "title_id": "C1970A00040",
+ "name": "Loan (War Service Land Settlement) Act 1970",
+ "folder": "loan-war-service-land-settlement-act-1970",
+ "compilations": [
+  {
+   "in_force": "1970-06-24",
+   "register_id": "C1970A00040",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1970A00040',start=1970-06-24,retrospectivestart=1970-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1970A00040/1970-06-24/text",
+   "sha256": "9c33981b8a5a5b34d5029e402bd53550fd153eb50ad2e80e5e28b4118a3a6e53"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

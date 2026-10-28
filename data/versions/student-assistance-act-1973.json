@@ -1,0 +1,703 @@
+{
+ "title_id": "C2004A00058",
+ "name": "Student Assistance Act 1973",
+ "folder": "student-assistance-act-1973",
+ "compilations": [
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00238",
+   "compilation": "70",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00058',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00058/2026-07-01/text",
+   "sha256": "dea11da8d886ee8cf44df3876aa98e1ab2bd21847603d23cb33c345e8371854d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1973-11-27",
+   "acts": []
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1984-08-01",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-18",
+   "acts": [
+    "Christmas Island Administration (Miscellaneous Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-11-28",
+   "acts": [
+    "Student Assistance Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-26",
+   "acts": [
+    "Student Assistance Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-01-01",
+   "acts": [
+    "Student Assistance Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1987-01-01",
+   "acts": [
+    "Student Assistance Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-12-16",
+   "acts": [
+    "Student Assistance Amendment Act 1987",
+    "Social Security and Veterans' Entitlements Amendment Act (No. 2) 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-01-01",
+   "acts": [
+    "Social Security and Veterans' Entitlements Amendment Act (No. 2) 1987"
+   ]
+  },
+  {
+   "in_force": "1988-05-22",
+   "acts": [
+    "Student Assistance Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "Student Assistance Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-02",
+   "acts": [
+    "Student Assistance Amendment Act (No. 2) 1989",
+    "Student Assistance Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1990-01-03",
+   "acts": [
+    "Student Assistance Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1991-06-26",
+   "acts": [
+    "Student Assistance Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Social Security (Rewrite) Transition Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-11-18",
+   "acts": [
+    "Student Assistance Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-01-01",
+   "acts": [
+    "Student Assistance Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-11-19",
+   "acts": [
+    "Student Assistance Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-05-30",
+   "acts": [
+    "Commonwealth Reciprocal Recovery Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Commonwealth Reciprocal Recovery Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-01-01",
+   "acts": [
+    "Student Assistance (Youth Training Allowance) Amendment Act 1994",
+    "Student Assistance (Youth Training Allowance) Amendment Act 1994",
+    "Student and Youth Assistance Amendment (Youth Training Allowance) Act (No. 2) 1995",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1995-09-29",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-12",
+   "acts": [
+    "Student and Youth Assistance Amendment (Youth Training Allowance) Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Student and Youth Assistance Amendment (Youth Training Allowance) Act (No. 3) 1995",
+    "Student and Youth Assistance Amendment (Youth Training Allowance) Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-01-01",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997",
+    "Student and Youth Assistance Amendment (Youth Training Allowance) Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-03-19",
+   "acts": [
+    "Student and Youth Assistance Amendment (Youth Training Allowance) Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-03-20",
+   "acts": [
+    "Student and Youth Assistance Amendment (Youth Training Allowance) Act (No. 3) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-07-01",
+   "acts": [
+    "Student and Youth Assistance Amendment (Youth Training Allowance) Act (No. 3) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-09-20",
+   "acts": [
+    "Student and Youth Assistance Amendment (Youth Training Allowance) Act (No. 3) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-12-23",
+   "acts": [
+    "Social Security Legislation Amendment (Further Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-01-01",
+   "acts": [
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-03-04",
+   "acts": [
+    "Student and Youth Assistance Amendment (Waiting Period) Act 1997",
+    "Social Security Legislation Amendment (Newly Arrived Resident's Waiting Periods and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-03-20",
+   "acts": [
+    "Social Security Legislation Amendment (Activity Test Penalty Periods) Act 1997",
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996",
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997",
+    "Commonwealth Services Delivery Agency (Consequential Amendments) Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Aged Care (Consequential Provisions) Act 1997",
+    "Social Security Legislation Amendment (Further Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-10",
+   "acts": [
+    "Social Security Legislation Amendment (Activity Test Penalty Periods) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-09-20",
+   "acts": [
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-10-01",
+   "acts": [
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-10-20",
+   "acts": [
+    "Social Security Legislation Amendment (Activity Test Penalty Periods) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-15",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-16",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998",
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-03-20",
+   "acts": [
+    "Social Security Legislation Amendment (Parenting and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-03-30",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1998-06-04",
+   "acts": [
+    "Student and Youth Assistance Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Financial Sector Reform (Consequential Amendments) Act 1998",
+    "Social Security Legislation Amendment (Parenting and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-15",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-01-01",
+   "acts": [
+    "Student and Youth Assistance Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-06-18",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Social Security Legislation Amendment (Parenting and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-08",
+   "acts": [
+    "Indigenous Education (Supplementary Assistance) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "A New Tax System (Tax Administration) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Education, Training and Youth Affairs Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-05-30",
+   "acts": [
+    "Student Assistance Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-12-01",
+   "acts": [
+    "Bankruptcy Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-05-22",
+   "acts": [
+    "Student Assistance Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Student Assistance Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-09-28",
+   "acts": [
+    "Social Security Legislation Amendment (2007 Budget Measures for Students) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-26",
+   "acts": [
+    "Dental Benefits (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-09",
+   "acts": [
+    "Tax Laws Amendment (Education Refund) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-11",
+   "acts": [
+    "Social Security and Veterans' Entitlements Legislation Amendment (Schooling Requirements) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-27",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Tax Laws Amendment (Transfer of Provisions) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-18",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011",
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-26",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-04-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-12",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Seniors Health Card and Other Measures) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-14",
+   "acts": [
+    "Civil Law and Justice (Omnibus Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Labor 2013-14 Budget Savings (Measures No. 2) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-06",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2015) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016",
+    "Higher Education Support Legislation Amendment (2016 Measures No. 1) Act 2016",
+    "Higher Education Support Legislation Amendment (2016 Measures No. 1) Act 2016",
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016",
+    "Higher Education Support Legislation Amendment (2016 Measures No. 1) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-05-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-10-19",
+   "acts": [
+    "Social Services Legislation Amendment (Student Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Higher Education Support Legislation Amendment (Student Loan Sustainability) Act 2018",
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018",
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018",
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-02-01",
+   "acts": [
+    "Services Australia Governance Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-07",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Simplifying Income Reporting and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-05-28",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Student Assistance and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-06-29",
+   "acts": [
+    "Education Legislation Amendment (Startup Year and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-05",
+   "acts": [
+    "Universities Accord (Student Support and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-21",
+   "acts": [
+    "Administrative Review Tribunal (Miscellaneous Measures) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-06-01",
+   "acts": [
+    "Universities Accord (Student Support and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-08-03",
+   "acts": [
+    "Universities Accord (Cutting Student Debt by 20 Per Cent) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-12-05",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Technical Changes No. 2) Act 2025",
+    "Regulatory Reform Omnibus Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-03-20",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Technical Changes No. 2) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

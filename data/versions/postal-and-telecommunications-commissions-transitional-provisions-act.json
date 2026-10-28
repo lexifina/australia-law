@@ -1,0 +1,75 @@
+{
+ "title_id": "C2004A00278",
+ "name": "Postal and Telecommunications Commissions (Transitional Provisions) Act 1975",
+ "folder": "postal-and-telecommunications-commissions-transitional-provisions-act",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00581",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00278',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00278/2014-07-01/text",
+   "sha256": "3b640f94d7d6985472e6bbf44e0f8513ef2fd0f2b6701a00ce66672d259ab1c0"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1975-06-12",
+   "acts": []
+  },
+  {
+   "in_force": "1975-08-19",
+   "acts": [
+    "Customs Act (No. 2) 1975"
+   ]
+  },
+  {
+   "in_force": "1975-10-27",
+   "acts": [
+    "Social Services Act (No. 3) 1975",
+    "Repatriation Acts Amendment Act (No. 2) 1975"
+   ]
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-09-22",
+   "acts": [
+    "Postal and Telecommunications Commissions (Transitional Provisions) Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

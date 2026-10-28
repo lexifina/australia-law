@@ -1,0 +1,298 @@
+{
+ "title_id": "C1968A00151",
+ "name": "Judges' Pensions Act 1968",
+ "folder": "judges-pensions-act-1968",
+ "compilations": [
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00252",
+   "compilation": "37",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1968A00151',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1968A00151/2026-07-01/text",
+   "sha256": "9a0d1f5307f33c8e22279918bfd3c348599464a190a0dd5f30e81dd81615154d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1968-12-10",
+   "acts": []
+  },
+  {
+   "in_force": "1973-06-08",
+   "acts": [
+    "Parliamentary and Judicial Retiring Allowances Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-12-17",
+   "acts": [
+    "Judges' Pensions Act 1974"
+   ]
+  },
+  {
+   "in_force": "1975-01-30",
+   "acts": [
+    "Judges' Pensions Act 1974"
+   ]
+  },
+  {
+   "in_force": "1975-09-16",
+   "acts": [
+    "Judges' Pensions Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1979-10-01",
+   "acts": [
+    "Judges' Pensions Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1981-07-01",
+   "acts": [
+    "Judges' Pensions Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-11-24",
+   "acts": [
+    "Judges' Pensions Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1992-05-06",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "A.C.T. Supreme Court (Transfer) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-07",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 4) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-06-25",
+   "acts": [
+    "Commonwealth Superannuation Schemes Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-07",
+   "acts": [
+    "Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2002-12-28",
+   "acts": [
+    "Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2005-05-16",
+   "acts": [
+    "Administrative Appeals Tribunal Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Superannuation (Consequential Amendments) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Judges' Pensions Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-25",
+   "acts": [
+    "Judges' Pensions Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-10-01",
+   "acts": [
+    "Defence Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-22",
+   "acts": [
+    "Military Justice (Interim Measures) Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-15",
+   "acts": [
+    "Statute Law Revision Act 2012",
+    "Judges and Governors-General Legislation Amendment (Family Law) Act 2012",
+    "Judges and Governors-General Legislation Amendment (Family Law) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-05-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-08-24",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Public Sector Superannuation Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Public Sector Superannuation Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-09-28",
+   "acts": [
+    "Family Law Amendment (Western Australia De Facto Superannuation Splitting and Bankruptcy) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2026-04-01",
+   "acts": [
+    "Treasury Laws Amendment (Building a Stronger and Fairer Super System) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

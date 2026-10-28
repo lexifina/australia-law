@@ -1,0 +1,50 @@
+{
+ "title_id": "C1955A00006",
+ "name": "Meteorology Act 1955",
+ "folder": "meteorology-act-1955",
+ "compilations": [
+  {
+   "in_force": "2014-09-11",
+   "register_id": "C2014C00652",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00006',start=2014-09-11,retrospectivestart=2014-09-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00006/2014-09-11/text",
+   "sha256": "fd29fe4cca9e96d5faa053328d88ea06b1ced4825e90c58764b83a28f60a4f0a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1955-05-23",
+   "acts": []
+  },
+  {
+   "in_force": "1973-10-30",
+   "acts": [
+    "Meteorology Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "2008-03-03",
+   "acts": [
+    "Water (Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

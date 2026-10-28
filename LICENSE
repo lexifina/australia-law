@@ -1,0 +1,23 @@
+The legal text in this repository
+
+Based on content from the Federal Register of Legislation at 28 October 2026. For the latest information on Australian
+Government legislation please go to https://www.legislation.gov.au.
+
+Source: Federal Register of Legislation (https://www.legislation.gov.au), managed by the Office of Parliamentary
+Counsel. The register's terms of use (https://www.legislation.gov.au/terms-of-use) provide that, with the exception of
+the Commonwealth Coat of Arms and where otherwise noted, all content on the register is provided under the Creative
+Commons Attribution 4.0 International licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+(legal code: https://creativecommons.org/licenses/by/4.0/legalcode).
+
+Changes made: the text of each registered compilation of the Commonwealth of Australia Constitution Act
+(https://www.legislation.gov.au/C2004Q00685/latest/versions) and of each Act listed in data/titles.csv (each at
+https://www.legislation.gov.au/<register ID>/latest/versions) has been split into one file per provision, with white
+space, soft hyphens and non-breaking hyphens normalised, hidden template text and the compilers' "[see Note N]" marks
+left out, and the history between compilations reconstructed into commits from the register's version list and the
+compilations' endnotes. The Coat of Arms is not reproduced. Neither the Office of Parliamentary Counsel nor the
+Commonwealth endorses this repository or its use.
+
+The code, documentation and arrangement
+
+Copyright 2026 Lexifina. The scripts in tools/ and the documentation (README.md, REPRODUCE.md, corpus.json, changes.csv,
+data/) are provided for Lexifina's use. This repository is private.

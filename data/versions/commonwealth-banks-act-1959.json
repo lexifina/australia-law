@@ -1,0 +1,279 @@
+{
+ "title_id": "C1959A00005",
+ "name": "Commonwealth Banks Act 1959",
+ "folder": "commonwealth-banks-act-1959",
+ "compilations": [
+  {
+   "in_force": "2023-06-24",
+   "register_id": "C2023C00149",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00005',start=2023-06-24,retrospectivestart=2023-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00005/2023-06-24/text",
+   "sha256": "40001302522ae8141e02308f43159f9314b72e871ffa9791595651788c9f021b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1959-04-23",
+   "acts": []
+  },
+  {
+   "in_force": "1961-10-27",
+   "acts": [
+    "Commonwealth Banks Act 1961"
+   ]
+  },
+  {
+   "in_force": "1962-03-23",
+   "acts": [
+    "Commonwealth Banks Act 1962"
+   ]
+  },
+  {
+   "in_force": "1963-10-28",
+   "acts": [
+    "Commonwealth Banks Act 1963"
+   ]
+  },
+  {
+   "in_force": "1966-02-14",
+   "acts": [
+    "Commonwealth Banks Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-11-26",
+   "acts": [
+    "Commonwealth Banks Act 1966"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1968-12-09",
+   "acts": [
+    "Commonwealth Banks Act 1968"
+   ]
+  },
+  {
+   "in_force": "1969-01-01",
+   "acts": [
+    "Commonwealth Banks Act 1968"
+   ]
+  },
+  {
+   "in_force": "1973-04-11",
+   "acts": [
+    "Commonwealth Banks Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-10-26",
+   "acts": [
+    "Commonwealth Banks Act (No. 2) 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-10-18",
+   "acts": [
+    "Commonwealth Banks Act 1974"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-06-22",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1980-12-17",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1981-05-12",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-11-22",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-29",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-11-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1986-01-13",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1988-01-23",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1987",
+    "Banking Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1988-06-30",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Government Business Enterprises (Miscellaneous Reforms) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-11-07",
+   "acts": [
+    "Banking Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-28",
+   "acts": [
+    "Banking Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-12-31",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-03-28",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-02",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-06",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-17",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990",
+    "Commonwealth Banks Restructuring Act 1990",
+    "Commonwealth Banks Restructuring Act 1990",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1991-12-24",
+   "acts": [
+    "Bank Integration Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-02-05",
+   "acts": [
+    "Banking Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-10-22",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Commonwealth Bank Sale Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-07-19",
+   "acts": [
+    "Commonwealth Bank Sale Act 1995",
+    "Commonwealth Bank Sale Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-07-19",
+   "acts": [
+    null,
+    "Commonwealth Bank Sale Act 1995"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-06-17",
+   "acts": [
+    "Designs (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2006-07-19",
+   "acts": [
+    null,
+    "Commonwealth Bank Sale Act 1995"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,68 @@
+{
+ "title_id": "C1918A00028",
+ "name": "Control of Naval Waters Act 1918",
+ "folder": "control-of-naval-waters-act-1918",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01077",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1918A00028',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1918A00028/2016-10-21/text",
+   "sha256": "2d64c081bc43f04c4bcf4629fb8c46efd40193f3de533fa43ab292212efdd9ce"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1918-11-27",
+   "acts": []
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1990-08-01",
+   "acts": [
+    "Control of Naval Waters Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1991-02-05",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2001-12-15",
+   "acts": [
+    "Defence Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

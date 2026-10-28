@@ -1,0 +1,153 @@
+{
+ "title_id": "C1972A00013",
+ "name": "Commonwealth Teaching Service Act 1972",
+ "folder": "commonwealth-teaching-service-act-1972",
+ "compilations": [
+  {
+   "in_force": "1989-05-11",
+   "register_id": "C2004C02964",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1972A00013',start=1989-05-11,retrospectivestart=1989-05-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1972A00013/1989-05-11/text",
+   "sha256": "3df584db145d71c338adea8c7ae38ee261119b05156fdd72a0b9875743ca525f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1972-04-17",
+   "acts": []
+  },
+  {
+   "in_force": "1973-09-14",
+   "acts": [
+    "Commonwealth Teaching Service Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-04-13",
+   "acts": [
+    "Commonwealth Teaching Service Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-04-01",
+   "acts": [
+    "Commonwealth Teaching Service Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1980-12-17",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1981-03-13",
+   "acts": [
+    "Commonwealth Teaching Service Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-08-10",
+   "acts": [
+    "Commonwealth Functions (Statutes Review) Act 1981",
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1982-06-14",
+   "acts": [
+    "Commonwealth Functions (Statutes Review) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-07-01",
+   "acts": [
+    "Commonwealth Functions (Statutes Review) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-11-22",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-12-16",
+   "acts": [
+    "Conciliation and Arbitration Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-01",
+   "acts": [
+    "Conciliation and Arbitration Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-11-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-11-22",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1988-05-25",
+   "acts": [
+    "Commonwealth Teaching Service Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Employment, Education and Training Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-01",
+   "acts": [
+    "Safety, Rehabilitation and Compensation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-07",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

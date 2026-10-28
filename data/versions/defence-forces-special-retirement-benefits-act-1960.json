@@ -1,0 +1,38 @@
+{
+ "title_id": "C1960A00068",
+ "name": "Defence Forces Special Retirement Benefits Act 1960",
+ "folder": "defence-forces-special-retirement-benefits-act-1960",
+ "compilations": [
+  {
+   "in_force": "2001-04-19",
+   "register_id": "C2004C00462",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1960A00068',start=2001-04-19,retrospectivestart=2001-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1960A00068/2001-04-19/text",
+   "sha256": "4a79af8afd7a0e922024bedc1edfc779ea413e0561346eee403c77dafc1a3e1b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1960-12-07",
+   "acts": []
+  },
+  {
+   "in_force": "1965-09-24",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1965-12-10",
+   "acts": [
+    "Defence Forces Retirement Benefits Act (No. 2) 1965"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

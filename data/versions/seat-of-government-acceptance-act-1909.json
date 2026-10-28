@@ -1,0 +1,50 @@
+{
+ "title_id": "C1909A00023",
+ "name": "Seat of Government Acceptance Act 1909",
+ "folder": "seat-of-government-acceptance-act-1909",
+ "compilations": [
+  {
+   "in_force": "1973-12-31",
+   "register_id": "C2004C00608",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1909A00023',start=1973-12-31,retrospectivestart=1973-12-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1909A00023/1973-12-31/text",
+   "sha256": "079e7e7d9a2fefbaf242c141423a0c3b0d9f62ae96cfea60379160eaa4490d9d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1909-12-13",
+   "acts": []
+  },
+  {
+   "in_force": "1929-09-02",
+   "acts": [
+    "Judiciary Act 1927"
+   ]
+  },
+  {
+   "in_force": "1933-05-30",
+   "acts": [
+    "Seat of Government (Administration) Act 1933"
+   ]
+  },
+  {
+   "in_force": "1938-07-29",
+   "acts": [
+    "Seat of Government Acceptance Act 1938"
+   ]
+  },
+  {
+   "in_force": "1956-02-16",
+   "acts": [
+    "Australian Capital Territory and Jervis Bay (Lands Acquisition) Act 1955"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

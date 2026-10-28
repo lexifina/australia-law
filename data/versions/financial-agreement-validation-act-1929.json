@@ -1,0 +1,21 @@
+{
+ "title_id": "C1929A00004",
+ "name": "Financial Agreement Validation Act 1929",
+ "folder": "financial-agreement-validation-act-1929",
+ "compilations": [
+  {
+   "in_force": "1929-03-18",
+   "register_id": "C1929A00004",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1929A00004',start=1929-03-18,retrospectivestart=1929-03-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1929A00004/1929-03-18/text",
+   "sha256": "3763f04f638397c19eb45692f9fe8d98399f05a1154f9518e22aa41141d06bf8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

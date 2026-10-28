@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00074",
+ "name": "Superannuation (Distribution of Surplus) Act 1974",
+ "folder": "superannuation-distribution-of-surplus-act-1974",
+ "compilations": [
+  {
+   "in_force": "1974-04-11",
+   "register_id": "C2004A00074",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00074',start=1974-04-11,retrospectivestart=1974-04-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00074/1974-04-11/text",
+   "sha256": "2a766931feaeed62f6285e6c3eee15156f776272754e125d69782e786efa3e69"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

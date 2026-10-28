@@ -1,0 +1,80 @@
+{
+ "title_id": "C1953A00092",
+ "name": "Royal Australian Air Force Veterans' Residences Act 1953",
+ "folder": "royal-australian-air-force-veterans-residences-act-1953",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00545",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00092',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00092/2014-07-01/text",
+   "sha256": "11fe6ca60fec5b2895c5e1e0294741863703c9f98f196df6c3f71dde9fd554bb"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1953-12-12",
+   "acts": []
+  },
+  {
+   "in_force": "1965-12-18",
+   "acts": [
+    "Royal Australian Air Force Veterans' Residences Act 1965"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1977-02-28",
+   "acts": [
+    "Royal Australian Air Force Veterans' Residences Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1984-11-23",
+   "acts": [
+    "Defence Legislation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1987-01-15",
+   "acts": [
+    "Sex Discrimination (Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1993-12-22",
+   "acts": [
+    "Defence Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

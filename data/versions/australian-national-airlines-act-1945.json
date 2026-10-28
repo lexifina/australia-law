@@ -1,0 +1,196 @@
+{
+ "title_id": "C1945A00031",
+ "name": "Australian National Airlines Act 1945",
+ "folder": "australian-national-airlines-act-1945",
+ "compilations": [
+  {
+   "in_force": "1994-12-16",
+   "register_id": "C2004C01144",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1945A00031',start=1994-12-16,retrospectivestart=1994-12-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1945A00031/1994-12-16/text",
+   "sha256": "a176c456d881874f0132f96feef26073dab0ab778c89ce4ffdd4553d47750a7d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1945-08-16",
+   "acts": []
+  },
+  {
+   "in_force": "1946-04-17",
+   "acts": [
+    "Australian National Airlines Act 1952",
+    "Australian National Airlines Act 1952"
+   ]
+  },
+  {
+   "in_force": "1947-12-11",
+   "acts": [
+    "Australian National Airlines Act 1947"
+   ]
+  },
+  {
+   "in_force": "1952-07-01",
+   "acts": [
+    "Australian National Airlines Act 1952"
+   ]
+  },
+  {
+   "in_force": "1952-12-16",
+   "acts": [
+    "Australian National Airlines Act 1952"
+   ]
+  },
+  {
+   "in_force": "1956-10-23",
+   "acts": [
+    "Australian National Airlines Act 1956"
+   ]
+  },
+  {
+   "in_force": "1958-10-10",
+   "acts": [
+    "Airlines Equipment Act 1958"
+   ]
+  },
+  {
+   "in_force": "1959-04-21",
+   "acts": [
+    "Australian National Airlines Act 1959"
+   ]
+  },
+  {
+   "in_force": "1959-10-01",
+   "acts": [
+    "Australian National Airlines Act 1959"
+   ]
+  },
+  {
+   "in_force": "1961-10-27",
+   "acts": [
+    "Australian National Airlines Act 1961"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1970-06-25",
+   "acts": [
+    "Australian National Airlines Act 1970"
+   ]
+  },
+  {
+   "in_force": "1972-11-02",
+   "acts": [
+    "Australian National Airlines Act 1972"
+   ]
+  },
+  {
+   "in_force": "1973-09-22",
+   "acts": [
+    "Australian National Airlines Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1975-07-01",
+   "acts": [
+    "Postal and Telecommunications Commissions (Transitional Provisions) Act 1975"
+   ]
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1980-06-01",
+   "acts": [
+    "Australian National Airlines Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1983-12-16",
+   "acts": [
+    "Conciliation and Arbitration Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-01",
+   "acts": [
+    "Conciliation and Arbitration Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-25",
+   "acts": [
+    "Australian National Airlines Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-07-01",
+   "acts": [
+    "Australian National Airlines Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-03-01",
+   "acts": [
+    "Australian National Airlines Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-03-09",
+   "acts": [
+    "Australian Airlines (Conversion to Public Company) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-04-30",
+   "acts": [
+    "Australian Airlines (Conversion to Public Company) Act 1988",
+    "Australian Airlines (Conversion to Public Company) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-06-29",
+   "acts": [
+    "Australian Airlines (Conversion to Public Company) Act 1988"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

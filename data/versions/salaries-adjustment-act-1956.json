@@ -1,0 +1,21 @@
+{
+ "title_id": "C1956A00018",
+ "name": "Salaries Adjustment Act 1956",
+ "folder": "salaries-adjustment-act-1956",
+ "compilations": [
+  {
+   "in_force": "1956-05-12",
+   "register_id": "C1956A00018",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1956A00018',start=1956-05-12,retrospectivestart=1956-05-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1956A00018/1956-05-12/text",
+   "sha256": "be9c741d088e39b7219154573aafdfc882ffbeb58d562aa3f4d40bd9c2d27a92"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

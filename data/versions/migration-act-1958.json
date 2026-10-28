@@ -1,0 +1,1559 @@
+{
+ "title_id": "C1958A00062",
+ "name": "Migration Act 1958",
+ "folder": "migration-act-1958",
+ "compilations": [
+  {
+   "in_force": "2026-10-08",
+   "register_id": "C2026C00461",
+   "compilation": "172",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1958A00062',start=2026-10-08,retrospectivestart=2026-10-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1958A00062/2026-10-08/text",
+   "sha256": "2780a6ab7ccf75e8435a8e1128e63de6389e21c191285d74aed225c7a61622af"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1958-10-08",
+   "acts": []
+  },
+  {
+   "in_force": "1964-11-05",
+   "acts": [
+    "Migration Act 1964"
+   ]
+  },
+  {
+   "in_force": "1966-05-06",
+   "acts": [
+    "Migration Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-04-11",
+   "acts": [
+    "Migration Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1975-12-22",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1979-10-29",
+   "acts": [
+    "Migration Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-11-01",
+   "acts": [
+    "Migration Amendment Act 1979",
+    "Migration Amendment Act (No. 2) 1979",
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1980-05-29",
+   "acts": [
+    "Migration Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-07-01",
+   "acts": [
+    "Migration Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1981-01-14",
+   "acts": [
+    "Migration Amendment Act (No. 2) 1980"
+   ]
+  },
+  {
+   "in_force": "1981-01-23",
+   "acts": [
+    "Migration Amendment Act (No. 2) 1980"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-07-14",
+   "acts": [
+    "Off-shore Installations (Miscellaneous Amendments) Act 1982"
+   ]
+  },
+  {
+   "in_force": "1983-11-25",
+   "acts": [
+    "Migration Amendment (Emigration of Certain Children) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-04-02",
+   "acts": [
+    "Migration Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-12-14",
+   "acts": [
+    "Taxation Laws Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-02-15",
+   "acts": [
+    "Torres Strait Treaty (Miscellaneous Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1986-08-20",
+   "acts": [
+    "Migration Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-02-01",
+   "acts": [
+    "Intelligence and Security (Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-05-11",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-09-16",
+   "acts": [
+    "Migration Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-11-06",
+   "acts": [
+    "Sea Installations (Miscellaneous Amendments) Act 1987",
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1987-12-16",
+   "acts": [
+    "Migration Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-01-01",
+   "acts": [
+    "Migration Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Migration Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-08-01",
+   "acts": [
+    "Mutual Assistance in Criminal Matters (Consequential Amendments) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-01",
+   "acts": [
+    "Extradition (Repeal and Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-26",
+   "acts": [
+    "Migration Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-19",
+   "acts": [
+    "Migration Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-07-01",
+   "acts": [
+    "Migration Amendment Act (No. 2) 1988",
+    "Migration Legislation Amendment Act 1989",
+    "Migration Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-11-01",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 6) 1995"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Migration Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-20",
+   "acts": [
+    "Migration Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-02-18",
+   "acts": [
+    "Petroleum (Australia-Indonesia Zone of Cooperation) (Consequential Provisions) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-06-26",
+   "acts": [
+    "Migration Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Social Security (Rewrite) Transition Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Migration Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-26",
+   "acts": [
+    "Migration Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-01-15",
+   "acts": [
+    "Migration Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-05-06",
+   "acts": [
+    "Migration Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-06-04",
+   "acts": [
+    "Migration Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Migration Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-09-21",
+   "acts": [
+    "Migration Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-11-06",
+   "acts": [
+    "Migration Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-07",
+   "acts": [
+    "Migration Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-16",
+   "acts": [
+    "Migration Laws Amendment Act 1992",
+    "Migration Laws Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "International Labour Organisation (Compliance with Conventions) Act 1992",
+    "Migration Amendment Act (No. 4) 1992",
+    "Migration Legislation Amendment Act (No. 6) 1995",
+    "Migration (Offences and Undesirable Persons) Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-03-01",
+   "acts": [
+    "Migration Laws Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Migration Reform Act 1992",
+    "Migration Laws Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-10-28",
+   "acts": [
+    "Migration Laws Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-11-01",
+   "acts": [
+    "Migration Reform Act 1992",
+    "Migration Legislation Amendment Act (No. 6) 1995",
+    "Migration (Offences and Undesirable Persons) Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-19",
+   "acts": [
+    "Migration Amendment (\"Points\" System) Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-08-01",
+   "acts": [
+    "Maritime Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-09-01",
+   "acts": [
+    "Border Protection Legislation Amendment Act 1999",
+    "Migration Laws Amendment Act 1993",
+    "Migration Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-11-15",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 4) 1994"
+   ]
+  },
+  {
+   "in_force": "1995-02-17",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Customs, Excise and Bounty Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-08-28",
+   "acts": [
+    "International War Crimes Tribunals (Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-09-01",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 5) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-09-15",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 5) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-09-18",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 6) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-09-29",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-12",
+   "acts": [
+    "Family Law Reform (Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-06-28",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 1996"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-04-10",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-05-01",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-06-30",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 3) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-07",
+   "acts": [
+    "Environment, Sport and Territories Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-10-17",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-03-21",
+   "acts": [
+    "Migration Legislation Amendment (Migration Agents) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-12-03",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-01-21",
+   "acts": [
+    "Migration Legislation Amendment (Migration Agents) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-02-21",
+   "acts": [
+    "Migration Legislation Amendment (Migration Agents) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-03-21",
+   "acts": [
+    "Migration Legislation Amendment (Migration Agents) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-05-20",
+   "acts": [
+    "Migration Legislation Amendment (Temporary Safe Haven Visas) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-06-01",
+   "acts": [
+    "Migration Legislation Amendment (Strengthening of Provisions relating to Character and Conduct) Act 1998",
+    "Migration Legislation Amendment (Temporary Safe Haven Visas) Act 1999",
+    "Migration Legislation Amendment Act (No. 1) 2000",
+    "Migration Legislation Amendment Act (No. 1) 2001",
+    "Migration Legislation Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-22",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-26",
+   "acts": [
+    "Timor Gap Treaty (Transitional Arrangements) Act 2000"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999",
+    "Migration Legislation Amendment (Migration Agents) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-16",
+   "acts": [
+    "Border Protection Legislation Amendment Act 1999",
+    "Migration Legislation Amendment Act (No. 1) 2001",
+    "Deterring People Smuggling Act 2011"
+   ]
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "Migration Legislation Amendment (Migration Agents) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-01",
+   "acts": [
+    "Migration Legislation Amendment (Migration Agents) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-04-28",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2000",
+    "Migration Legislation Amendment Act (No. 1) 2000",
+    "Migration Legislation Amendment (Electronic Transactions and Methods of Notification) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Migration Legislation Amendment (Overseas Students) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-01-27",
+   "acts": [
+    "Migration Legislation Amendment (Immigration Detainees) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-03-01",
+   "acts": [
+    "Migration Legislation Amendment (Overseas Students) Act 2000",
+    "Migration Legislation Amendment (Electronic Transactions and Methods of Notification) Act 2001",
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-04",
+   "acts": [
+    "Education Services for Overseas Students (Consequential and Transitional) Act 2000",
+    "Migration Legislation Amendment (Overseas Students) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "Migration Legislation Amendment (Integrity of Regional Migration Schemes) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-08-10",
+   "acts": [
+    "Migration Legislation Amendment (Electronic Transactions and Methods of Notification) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-09-19",
+   "acts": [
+    "Migration Legislation Amendment (Immigration Detainees) Act 2001",
+    "Migration Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-09-27",
+   "acts": [
+    "Border Protection (Validation and Enforcement Powers) Act 2001",
+    "Migration Amendment (Excision from Migration Zone) Act 2001",
+    "Migration Amendment (Excision from Migration Zone) (Consequential Provisions) Act 2001",
+    "Migration Legislation Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-09-28",
+   "acts": [
+    "Migration Legislation Amendment (Immigration Detainees) Act (No. 2) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2001",
+    "Migration Legislation Amendment Act (No. 6) 2001",
+    "Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001",
+    "Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001",
+    "Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001",
+    "Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Migration Legislation Amendment (Judicial Review) Act 2001",
+    "Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-12-11",
+   "acts": [
+    "Border Protection Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-12-21",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 5) 2001"
+   ]
+  },
+  {
+   "in_force": "2002-04-12",
+   "acts": [
+    "Migration Legislation Amendment (Transitional Movement) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-05-20",
+   "acts": [
+    "Petroleum (Timor Sea Treaty) (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2002-06-26",
+   "acts": [
+    "Migration Legislation Amendment (Migration Agents) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-07-04",
+   "acts": [
+    "Migration Legislation Amendment (Procedural Fairness) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-07-06",
+   "acts": [
+    "Security Legislation Amendment (Terrorism) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-09-26",
+   "acts": [
+    "International Criminal Court (Consequential Amendments) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-11-01",
+   "acts": [
+    "Migration Legislation Amendment (Migration Agents) Act 2002",
+    "Migration Legislation Amendment (Migration Agents) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-01-05",
+   "acts": [
+    "Border Security Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-02-24",
+   "acts": [
+    "Migration Legislation Amendment (Migration Advice Industry) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-03-20",
+   "acts": [
+    "Migration Legislation Amendment (Contributory Parents Migration Scheme) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-06-03",
+   "acts": [
+    "Crimes Legislation Enhancement Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-07-15",
+   "acts": [
+    "Migration Legislation Amendment (Protected Information) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-07-16",
+   "acts": [
+    "Migration Legislation Amendment (Protected Information) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-09-24",
+   "acts": [
+    "Migration Amendment (Duration of Detention) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-10-14",
+   "acts": [
+    "Migration Legislation Amendment (Sponsorship Measures) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-03-25",
+   "acts": [
+    "Customs Legislation Amendment (Application of International Trade Modernisation and Other Measures) Act 2004",
+    "Customs Legislation Amendment (Application of International Trade Modernisation and Other Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003",
+    "Migration Legislation Amendment (Migration Agents Integrity Measures) Act 2004",
+    "Australian Federal Police and Other Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-08-27",
+   "acts": [
+    "Migration Legislation Amendment (Identification and Authentication) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-05-16",
+   "acts": [
+    "Administrative Appeals Tribunal Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-06-29",
+   "acts": [
+    "Migration Amendment (Detention Arrangements) Act 2005",
+    "Migration Amendment (Detention Arrangements) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Australian Passports (Transitionals and Consequentials) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-08-24",
+   "acts": [
+    "Border Protection Legislation Amendment (Deterrence of Illegal Foreign Fishing) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-11-30",
+   "acts": [
+    "Border Protection Legislation Amendment (Deterrence of Illegal Foreign Fishing) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-01",
+   "acts": [
+    "Migration Amendment (Detention Arrangements) Act 2005",
+    "Migration Litigation Reform Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-12",
+   "acts": [
+    "Migration and Ombudsman Legislation Amendment Act 2005",
+    "Migration and Ombudsman Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-14",
+   "acts": [
+    "Anti-Terrorism Act (No. 2) 2005"
+   ]
+  },
+  {
+   "in_force": "2006-01-11",
+   "acts": [
+    "Anti-Terrorism Act (No. 2) 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-15",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2008"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Family Law Amendment (Shared Parental Responsibility) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-10-06",
+   "acts": [
+    "Postal Industry Ombudsman Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-02-19",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-15",
+   "acts": [
+    "Migration Legislation Amendment (Information and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-05-01",
+   "acts": [
+    "Migration Legislation Amendment (Information and Other Measures) Act 2007",
+    "Migration Legislation Amendment (Information and Other Measures) Act 2007",
+    "Migration Legislation Amendment (Information and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-22",
+   "acts": [
+    "Migration Amendment (Statutory Agency) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-29",
+   "acts": [
+    "Migration Amendment (Review Provisions) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Education Services for Overseas Students Legislation Amendment (2006 Measures No. 2) Act 2006",
+    "Australian Citizenship (Transitionals and Consequentials) Act 2007",
+    "Migration Amendment (Border Integrity) Act 2007",
+    "Migration Legislation Amendment (Information and Other Measures) Act 2007",
+    "Education Services for Overseas Students Legislation Amendment Act 2007",
+    "Migration Amendment (Maritime Crew) Act 2007",
+    "Migration Amendment (Maritime Crew) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-08-19",
+   "acts": [
+    "Migration Amendment (Employer Sanctions) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-10-01",
+   "acts": [
+    "Defence Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-22",
+   "acts": [
+    "Fisheries Legislation Amendment (New Governance Arrangements for the Australian Fisheries Management Authority and Other Matters) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-09-15",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2008"
+   ]
+  },
+  {
+   "in_force": "2008-09-19",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-27",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-05",
+   "acts": [
+    "Migration Amendment (Notification Review) Act 2008",
+    "Migration Amendment (Notification Review) Act 2008",
+    "Migration Amendment (Notification Review) Act 2008",
+    "Migration Amendment (Notification Review) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-02-15",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-15",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-06-24",
+   "acts": [
+    "Fisheries Legislation Amendment (New Governance Arrangements for the Australian Fisheries Management Authority and Other Matters) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-14",
+   "acts": [
+    "Migration Legislation Amendment (Worker Protection) Act 2008",
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Migration Amendment (Protection of Identifying Information) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-22",
+   "acts": [
+    "Military Justice (Interim Measures) Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2009-11-09",
+   "acts": [
+    "Migration Amendment (Abolishing Detention Debt) Act 2009",
+    "Migration Amendment (Abolishing Detention Debt) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-06-01",
+   "acts": [
+    "Anti-People Smuggling and Other Measures Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-26",
+   "acts": [
+    "Migration Amendment (Strengthening the Character Test and Other Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-26",
+   "acts": [
+    "Migration Amendment (Strengthening the Character Test and Other Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-24",
+   "acts": [
+    "Migration Amendment (Complementary Protection) Act 2011",
+    "Migration Amendment (Complementary Protection) Act 2011",
+    "Migration Amendment (Complementary Protection) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-08-18",
+   "acts": [
+    "Migration Legislation Amendment (Regional Processing and Other Measures) Act 2012",
+    "Migration Amendment (Regional Processing Arrangements) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2012-09-20",
+   "acts": [
+    "Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012",
+    "Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-24",
+   "acts": [
+    "Migration (Visa Evidence) Charge (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-08",
+   "acts": [
+    "Crimes Legislation Amendment (Slavery, Slavery-like Conditions and People Trafficking) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-04-13",
+   "acts": [
+    "Migration Legislation Amendment (Student Visas) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-05-21",
+   "acts": [
+    "Migration Amendment (Unauthorised Maritime Arrivals and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-01",
+   "acts": [
+    "Migration Amendment (Reform of Employer Sanctions) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Migration Amendment (Unauthorised Maritime Arrivals and Other Measures) Act 2013",
+    "Migration Amendment (Unauthorised Maritime Arrivals and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Crimes Legislation Amendment (Law Enforcement Integrity, Vulnerable Witness Protection and Other Measures) Act 2013",
+    "Migration Amendment (Temporary Sponsored Visas) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-30",
+   "acts": [
+    "Migration Amendment (Temporary Sponsored Visas) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-08-01",
+   "acts": [
+    "Sex Discrimination Amendment (Sexual Orientation, Gender Identity and Intersex Status) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-11-23",
+   "acts": [
+    "Migration Amendment (Temporary Sponsored Visas) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-03-27",
+   "acts": [
+    "Maritime Powers (Consequential Amendments) Act 2013",
+    "Migration Amendment (Unauthorised Maritime Arrivals and Other Measures) Act 2013",
+    "Crimes Legislation Amendment (Law Enforcement Integrity, Vulnerable Witness Protection and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-05-28",
+   "acts": [
+    "Migration Amendment Act 2014",
+    "Migration Amendment Act 2014",
+    "Migration Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-29",
+   "acts": [
+    "Migration Amendment (Offshore Resources Activity) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-09-25",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-11-03",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-11-04",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-11",
+   "acts": [
+    "Migration Amendment (Character and General Visa Cancellation) Act 2014",
+    "Migration Amendment (Character and General Visa Cancellation) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-16",
+   "acts": [
+    "Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act 2014",
+    "Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act 2014",
+    "Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-01-01",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Migration Amendment (Protection and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-04-18",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014",
+    "Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act 2014",
+    "Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act 2014",
+    "Migration Amendment (Protection and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014",
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015",
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015",
+    "Tribunals Amalgamation Act 2015",
+    "Tribunals Amalgamation Act 2015",
+    "Tribunals Amalgamation Act 2015",
+    "Tribunals Amalgamation Act 2015",
+    "Tribunals Amalgamation Act 2015",
+    "Tribunals Amalgamation Act 2015",
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-14",
+   "acts": [
+    "Migration Amendment (Charging for a Migration Outcome) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-02-16",
+   "acts": [
+    "Migration Amendment (Strengthening Biometrics Integrity) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-03-24",
+   "acts": [
+    "Migration Legislation Amendment (Cessation of Visa Labels) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-11-17",
+   "acts": [
+    "Statute Law Revision (Spring 2016) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-02-23",
+   "acts": [
+    "Migration Amendment (Character Cancellation Consequential Provisions) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-06",
+   "acts": [
+    "Migration Amendment (Validation of Decisions) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-20",
+   "acts": [
+    "Statute Update (Winter 2017) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-08-12",
+   "acts": [
+    "Migration Amendment (Skilling Australians Fund) Act 2018",
+    "Migration Amendment (Skilling Australians Fund) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-13",
+   "acts": [
+    "Migration and Other Legislation Amendment (Enhanced Integrity) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-29",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-03-02",
+   "acts": [
+    "Home Affairs Legislation Amendment (Miscellaneous Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-04-17",
+   "acts": [
+    "Migration Amendment (Family Violence and Other Measures) Act 2018",
+    "Migration Amendment (Family Violence and Other Measures) Act 2018",
+    "Migration Amendment (Family Violence and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-09-01",
+   "acts": [
+    "Home Affairs Legislation Amendment (Miscellaneous Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-05",
+   "acts": [
+    "Migration Amendment (Repairing Medical Transfers) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-08-11",
+   "acts": [
+    "Migration Amendment (Regulation of Migration Agents) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-10-15",
+   "acts": [
+    "Migration Amendment (Regulation of Migration Agents) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-22",
+   "acts": [
+    "Migration Amendment (Regulation of Migration Agents) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-05-25",
+   "acts": [
+    "Migration Amendment (Clarifying International Obligations for Removal) Act 2021",
+    "Migration Amendment (Tabling Notice of Certain Character Decisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-02-17",
+   "acts": [
+    "Migration Amendment (Aggregate Sentences) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-06-24",
+   "acts": [
+    "Migration Amendment (Giving Documents and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-11-01",
+   "acts": [
+    "Migration Amendment (Giving Documents and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-11-18",
+   "acts": [
+    "Migration Amendment (Bridging Visa Conditions) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-12-08",
+   "acts": [
+    "Migration and Other Legislation Amendment (Bridging Visas, Serious Offenders and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-03-20",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-03-29",
+   "acts": [
+    "Migration Amendment (Australia’s Engagement in the Pacific and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-07-01",
+   "acts": [
+    "Migration Amendment (Strengthening Employer Compliance) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024",
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-05",
+   "acts": [
+    "Migration Amendment Act 2024",
+    "Migration Amendment (Removal and Other Measures) Act 2024",
+    "Migration Amendment (Removal and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-21",
+   "acts": [
+    "Administrative Review Tribunal (Miscellaneous Measures) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-06-04",
+   "acts": [
+    "Migration Amendment (Prohibiting Items in Immigration Detention Facilities) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-09-06",
+   "acts": [
+    "Home Affairs Legislation Amendment (2025 Measures No. 1) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-12-16",
+   "acts": [
+    "Home Affairs Legislation Amendment (2025 Measures No. 2) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-01-22",
+   "acts": [
+    "Combatting Antisemitism, Hate and Extremism (Criminal and Migration Laws) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2026-03-14",
+   "acts": [
+    "Migration Amendment (2026 Measures No. 1) Act 2026",
+    "Migration Amendment (2026 Measures No. 1) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2026-05-18",
+   "acts": [
+    "Administrative Review Tribunal and Other Legislation Amendment Act 2026"
+   ]
+  },
+  {
+   "in_force": "2026-06-04",
+   "acts": [
+    "Strengthening Oversight of the National Intelligence Community Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C1967A00103",
+ "name": "Nauru Independence Act 1967",
+ "folder": "nauru-independence-act-1967",
+ "compilations": [
+  {
+   "in_force": "1967-11-10",
+   "register_id": "C1967A00103",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1967A00103',start=1967-11-10,retrospectivestart=1967-11-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1967A00103/1967-11-10/text",
+   "sha256": "742ac09c00e9c06ff26b84840a169d0fbd8917b9aae59ad7047d1a33c2410ca2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

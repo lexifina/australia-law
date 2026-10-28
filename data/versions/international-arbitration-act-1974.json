@@ -1,0 +1,120 @@
+{
+ "title_id": "C2004A00192",
+ "name": "International Arbitration Act 1974",
+ "folder": "international-arbitration-act-1974",
+ "compilations": [
+  {
+   "in_force": "2022-02-18",
+   "register_id": "C2022C00086",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00192',start=2022-02-18,retrospectivestart=2022-02-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00192/2022-02-18/text",
+   "sha256": "d06505da95f7b651a3eb73159d15fc6c8cdbd8d6c291b1fb1f3680ec95e0401d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1974-12-09",
+   "acts": []
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1989-06-12",
+   "acts": [
+    "International Arbitration Amendment Act 1989",
+    "International Arbitration Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-06-01",
+   "acts": [
+    "ICSID Implementation Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-10-31",
+   "acts": [
+    "Carriage of Goods by Sea Act 1991"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-12-07",
+   "acts": [
+    "Federal Justice System Amendment (Efficiency Measures) Act (No. 1) 2009",
+    "International Arbitration Amendment Act 2010",
+    "International Arbitration Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-06",
+   "acts": [
+    "International Arbitration Amendment Act 2010",
+    "International Arbitration Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2015-08-18",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-14",
+   "acts": [
+    "Civil Law and Justice (Omnibus Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-11-17",
+   "acts": [
+    "Statute Law Revision (Spring 2016) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-10-26",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

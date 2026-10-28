@@ -1,0 +1,164 @@
+{
+ "title_id": "C1970A00121",
+ "name": "Commonwealth Places (Application of Laws) Act 1970",
+ "folder": "commonwealth-places-application-of-laws-act-1970",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00956",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1970A00121',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1970A00121/2016-10-21/text",
+   "sha256": "df0f0cfaaa4569108dc0b25cc237db94124a965dff2cd7479a713b1bfef69867"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1970-11-11",
+   "acts": []
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1984-03-05",
+   "acts": [
+    "Director of Public Prosecutions (Consequential Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-11-22",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-09",
+   "acts": [
+    "Lands Acquisition (Repeal and Consequential Provisions) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-07-17",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1991-11-01",
+   "acts": [
+    "Crimes Legislation Enhancement Act 2003"
+   ]
+  },
+  {
+   "in_force": "1992-04-13",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-08",
+   "acts": [
+    "Crimes Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-11-30",
+   "acts": [
+    "Crimes (Search Warrants and Powers of Arrest) Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-04-17",
+   "acts": [
+    "Commonwealth Places (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-01-23",
+   "acts": [
+    "Crimes Amendment (Forensic Procedures) Act 1998"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-12-15",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-06-03",
+   "acts": [
+    "Crimes Legislation Enhancement Act 2003"
+   ]
+  },
+  {
+   "in_force": "2006-12-07",
+   "acts": [
+    "Judiciary Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2011-03-30",
+   "acts": [
+    "Aviation Crimes and Policing Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

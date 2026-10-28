@@ -1,0 +1,118 @@
+{
+ "title_id": "C1963A00074",
+ "name": "Air Accidents (Commonwealth Government Liability) Act 1963",
+ "folder": "air-accidents-commonwealth-government-liability-act-1963",
+ "compilations": [
+  {
+   "in_force": "2021-06-17",
+   "register_id": "C2021C00232",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1963A00074',start=2021-06-17,retrospectivestart=2021-06-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1963A00074/2021-06-17/text",
+   "sha256": "f591877f11f17901653fc537ac70517db1dcf1e0aeb96e08587cc4e9f482d108"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1963-10-31",
+   "acts": []
+  },
+  {
+   "in_force": "1971-03-18",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966",
+    "Air Accidents (Commonwealth Liability) Act 1970"
+   ]
+  },
+  {
+   "in_force": "1971-09-01",
+   "acts": [
+    "Air Accidents (Commonwealth Liability) Act 1971"
+   ]
+  },
+  {
+   "in_force": "1973-11-13",
+   "acts": [
+    "Air Accidents (Australian Government Liability) Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-11-24",
+   "acts": [
+    "Air Accidents (Commonwealth Government Liability) Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-07-01",
+   "acts": [
+    "Air Accidents (Commonwealth Government Liability) Amendment Act 1978",
+    "Air Accidents (Commonwealth Government Liability) Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1982-09-24",
+   "acts": [
+    "Air Accidents (Commonwealth Government Liability) Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1986-05-22",
+   "acts": [
+    "Veterans' Entitlements (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-12-01",
+   "acts": [
+    "Safety, Rehabilitation and Compensation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Social Security Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-24",
+   "acts": [
+    "Civil Aviation Legislation Amendment (1999 Montreal Convention and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-22",
+   "acts": [
+    "Statute Update (A.C.T. Self-Government (Consequential Provisions) Regulations) Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,80 @@
+{
+ "title_id": "C1933A00060",
+ "name": "Ashmore and Cartier Islands Acceptance Act 1933",
+ "folder": "ashmore-and-cartier-islands-acceptance-act-1933",
+ "compilations": [
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00341",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1933A00060',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1933A00060/2008-07-04/text",
+   "sha256": "72ba9e9438c7b3a524b4f270ccac1156ee1b46ed42870ad8adf8c117d84c9cb5"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1933-12-15",
+   "acts": []
+  },
+  {
+   "in_force": "1938-07-29",
+   "acts": [
+    "Ashmore and Cartier Islands Acceptance Act 1938"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1978-07-01",
+   "acts": [
+    "Ashmore and Cartier Islands Acceptance Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-10-01",
+   "acts": [
+    "Ashmore And Cartier Islands Acceptance Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

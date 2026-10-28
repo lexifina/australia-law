@@ -1,0 +1,21 @@
+{
+ "title_id": "C1922A00028",
+ "name": "Seat of Government Acceptance Act 1922",
+ "folder": "seat-of-government-acceptance-act-1922",
+ "compilations": [
+  {
+   "in_force": "1922-10-18",
+   "register_id": "C1922A00028",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1922A00028',start=1922-10-18,retrospectivestart=1922-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1922A00028/1922-10-18/text",
+   "sha256": "94ca5d2b666eabfd777e49a92bf395312fe92d9d3893e4158789a7ccebe418de"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

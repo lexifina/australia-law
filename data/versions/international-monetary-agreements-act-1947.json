@@ -1,0 +1,195 @@
+{
+ "title_id": "C1947A00005",
+ "name": "International Monetary Agreements Act 1947",
+ "folder": "international-monetary-agreements-act-1947",
+ "compilations": [
+  {
+   "in_force": "2026-04-09",
+   "register_id": "C2026C00173",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1947A00005',start=2026-04-09,retrospectivestart=2026-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1947A00005/2026-04-09/text",
+   "sha256": "598aa2ec7dd18a02aa992946e5e9bda83eea8e5d2631a72c360d7135d6ab1e16"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1947-04-02",
+   "acts": []
+  },
+  {
+   "in_force": "1966-09-12",
+   "acts": [
+    "International Monetary Agreements Act 1966"
+   ]
+  },
+  {
+   "in_force": "1968-12-09",
+   "acts": [
+    "International Monetary Agreements Act 1968"
+   ]
+  },
+  {
+   "in_force": "1969-09-04",
+   "acts": [
+    "International Monetary Agreements Act 1968"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1978-08-24",
+   "acts": [
+    "International Monetary Agreements Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1992-12-16",
+   "acts": [
+    "International Monetary Fund (Quota Increase and Agreement Amendments) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1997-09-15",
+   "acts": [
+    "International Monetary Agreements Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-04-17",
+   "acts": [
+    "International Monetary Agreements Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-06-26",
+   "acts": [
+    "International Monetary Agreements Amendment (Financial Assistance) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-09",
+   "acts": [
+    "International Monetary Agreements Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2009-09-10",
+   "acts": [
+    "International Monetary Agreements Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-11-25",
+   "acts": [
+    "International Financial Institutions Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-11",
+   "acts": [
+    "International Monetary Agreements Amendment Act (No. 1) 2010",
+    "International Monetary Agreements Amendment Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2012-11-17",
+   "acts": [
+    "International Monetary Agreements Amendment (Loans) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "International Monetary Agreements Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2016-02-08",
+   "acts": [
+    "International Monetary Agreements Amendment (Loans) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-07-13",
+   "acts": [
+    "International Monetary Agreements Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-11-17",
+   "acts": [
+    "International Monetary Agreements Amendment (New Arrangements to Borrow) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2020-06-20",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-06-23",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-04",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 2) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-06",
+   "acts": [
+    "Statute Update (Regulations References) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-02",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2024-07-10",
+   "acts": [
+    "Treasury Laws Amendment (Delivering Better Financial Outcomes and Other Measures) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

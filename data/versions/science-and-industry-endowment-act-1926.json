@@ -1,0 +1,44 @@
+{
+ "title_id": "C1926A00021",
+ "name": "Science and Industry Endowment Act 1926",
+ "folder": "science-and-industry-endowment-act-1926",
+ "compilations": [
+  {
+   "in_force": "1986-12-05",
+   "register_id": "C2004C00158",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1926A00021',start=1986-12-05,retrospectivestart=1986-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1926A00021/1986-12-05/text",
+   "sha256": "c393d9e935fd862a08af69e63b1f9d5a2f3941b433e960daa0cca89155b6a83b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1926-06-21",
+   "acts": []
+  },
+  {
+   "in_force": "1949-05-19",
+   "acts": [
+    "Science and Industry Research Act 1949"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

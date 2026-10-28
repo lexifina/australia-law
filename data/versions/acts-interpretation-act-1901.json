@@ -1,0 +1,471 @@
+{
+ "title_id": "C1901A00002",
+ "name": "Acts Interpretation Act 1901",
+ "folder": "acts-interpretation-act-1901",
+ "compilations": [
+  {
+   "in_force": "2026-03-28",
+   "register_id": "C2026C00117",
+   "compilation": "39",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2026-03-28,retrospectivestart=2026-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2026-03-28/text",
+   "sha256": "0a539017208dede8d9607aba17e53c20ea1a80f087ba83800ee3086d82499f9d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1901-07-12",
+   "acts": []
+  },
+  {
+   "in_force": "1916-05-30",
+   "acts": [
+    "Acts Interpretation Act 1916"
+   ]
+  },
+  {
+   "in_force": "1918-06-11",
+   "acts": [
+    "Acts Interpretation Act 1918"
+   ]
+  },
+  {
+   "in_force": "1930-08-14",
+   "acts": [
+    "Acts Interpretation Act 1930"
+   ]
+  },
+  {
+   "in_force": "1930-10-27",
+   "acts": [
+    "Acts Interpretation Act 1930"
+   ]
+  },
+  {
+   "in_force": "1932-05-30",
+   "acts": [
+    "Acts Interpretation Act 1932"
+   ]
+  },
+  {
+   "in_force": "1937-10-11",
+   "acts": [
+    "Acts Interpretation Act 1937"
+   ]
+  },
+  {
+   "in_force": "1939-09-03",
+   "acts": [
+    "Acts Interpretation Act 1941"
+   ]
+  },
+  {
+   "in_force": "1941-04-04",
+   "acts": [
+    "Acts Interpretation Act 1941"
+   ]
+  },
+  {
+   "in_force": "1948-01-01",
+   "acts": [
+    "Defence (Transitional Provisions) Act 1947"
+   ]
+  },
+  {
+   "in_force": "1949-01-14",
+   "acts": [
+    "Acts Interpretation Act 1948"
+   ]
+  },
+  {
+   "in_force": "1950-12-31",
+   "acts": [
+    "Statute Law Revision Act 1950"
+   ]
+  },
+  {
+   "in_force": "1957-12-05",
+   "acts": [
+    "Acts Interpretation Act 1957"
+   ]
+  },
+  {
+   "in_force": "1963-06-25",
+   "acts": [
+    "Acts Interpretation Act 1963"
+   ]
+  },
+  {
+   "in_force": "1964-06-27",
+   "acts": [
+    "Acts Interpretation Act 1964"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-06-19",
+   "acts": [
+    "Acts Interpretation Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-07-01",
+   "acts": [
+    "Acts Interpretation Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-07-01",
+   "acts": [
+    "Acts Citation Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-12-06",
+   "acts": [
+    "Acts Interpretation Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-07-01",
+   "acts": [
+    "Acts Interpretation Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Acts Interpretation Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1980-01-01",
+   "acts": [
+    "Acts Interpretation Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1982-09-22",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-12",
+   "acts": [
+    "Acts Interpretation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1987-07-24",
+   "acts": [
+    "Administrative Arrangements Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Crimes Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1989-06-30",
+   "acts": [
+    "Crimes Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-12-21",
+   "acts": [
+    "Statute Law Revision Act 2002",
+    "Law and Justice Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-01",
+   "acts": [
+    "Corporations Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-10-10",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Territories Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-06-23",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995",
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-12-21",
+   "acts": [
+    "Acts Interpretation Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-11-24",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Intelligence Services (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-07",
+   "acts": [
+    "Acts Interpretation Amendment (Court Procedures) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003",
+    "Acts Interpretation Amendment (Legislative Instruments) Act 2005",
+    "Acts Interpretation Amendment (Legislative Instruments) Act 2005",
+    "Legislation Act 2003",
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-11-15",
+   "acts": [
+    "Acts Interpretation Amendment (Legislative Instruments) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2008-12-04",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-12-04",
+   "acts": [
+    "Evidence Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-01-01",
+   "acts": [
+    "Charities (Consequential Amendments and Transitional Provisions) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015",
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Law and Justice Legislation Amendment (Northern Territory Local Court) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Intelligence Services Amendment (Establishment of the Australian Signals Directorate) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Legislation Amendment (Sunsetting Review and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-10-26",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-20",
+   "acts": [
+    "Office of National Intelligence (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2023-08-12",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 2) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-12-11",
+   "acts": [
+    "Crown References Amendment Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

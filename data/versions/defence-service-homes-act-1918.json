@@ -1,0 +1,601 @@
+{
+ "title_id": "C1918A00043",
+ "name": "Defence Service Homes Act 1918",
+ "folder": "defence-service-homes-act-1918",
+ "compilations": [
+  {
+   "in_force": "2025-02-15",
+   "register_id": "C2025C00096",
+   "compilation": "31",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1918A00043',start=2025-02-15,retrospectivestart=2025-02-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1918A00043/2025-02-15/text",
+   "sha256": "4c22bb7e55a5854f86643ddbfc6a265c55dfbd13efafa9ec42f71cb4b1ecdcaa"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1918-12-25",
+   "acts": []
+  },
+  {
+   "in_force": "1919-03-06",
+   "acts": [
+    "War Service Homes Act 1923",
+    "War Service Homes Act 1923",
+    "War Service Homes Act 1923",
+    "War Service Homes Act 1929"
+   ]
+  },
+  {
+   "in_force": "1919-10-28",
+   "acts": [
+    "War Service Homes Act 1919"
+   ]
+  },
+  {
+   "in_force": "1920-10-19",
+   "acts": [
+    "War Service Homes Act 1920"
+   ]
+  },
+  {
+   "in_force": "1923-01-01",
+   "acts": [
+    "War Service Homes Act 1923"
+   ]
+  },
+  {
+   "in_force": "1923-09-01",
+   "acts": [
+    "War Service Homes Act 1923"
+   ]
+  },
+  {
+   "in_force": "1925-08-12",
+   "acts": [
+    "War Service Homes Act 1925"
+   ]
+  },
+  {
+   "in_force": "1926-08-23",
+   "acts": [
+    "War Service Homes Act 1926"
+   ]
+  },
+  {
+   "in_force": "1927-04-08",
+   "acts": [
+    "War Service Homes Act 1927"
+   ]
+  },
+  {
+   "in_force": "1928-07-01",
+   "acts": [
+    "War Service Homes Act 1929"
+   ]
+  },
+  {
+   "in_force": "1929-03-22",
+   "acts": [
+    "War Service Homes Act 1929"
+   ]
+  },
+  {
+   "in_force": "1932-03-26",
+   "acts": [
+    "War Service Homes Act 1932"
+   ]
+  },
+  {
+   "in_force": "1932-08-01",
+   "acts": [
+    "War Service Homes Act (No. 2) 1932"
+   ]
+  },
+  {
+   "in_force": "1934-12-17",
+   "acts": [
+    "War Service Homes Act 1934"
+   ]
+  },
+  {
+   "in_force": "1935-02-01",
+   "acts": [
+    "War Service Homes Act 1935"
+   ]
+  },
+  {
+   "in_force": "1935-12-06",
+   "acts": [
+    "War Service Homes Act 1935"
+   ]
+  },
+  {
+   "in_force": "1937-09-16",
+   "acts": [
+    "War Service Homes Act 1937"
+   ]
+  },
+  {
+   "in_force": "1941-05-02",
+   "acts": [
+    "War Service Homes Act 1941"
+   ]
+  },
+  {
+   "in_force": "1946-04-18",
+   "acts": [
+    "War Service Homes Act 1946"
+   ]
+  },
+  {
+   "in_force": "1947-03-14",
+   "acts": [
+    "Commonwealth Public Service Act 1947"
+   ]
+  },
+  {
+   "in_force": "1947-07-14",
+   "acts": [
+    "War Service Homes Act 1947"
+   ]
+  },
+  {
+   "in_force": "1947-12-04",
+   "acts": [
+    "War Service Homes Act (No. 2) 1947"
+   ]
+  },
+  {
+   "in_force": "1949-01-06",
+   "acts": [
+    "War Service Homes Act 1948"
+   ]
+  },
+  {
+   "in_force": "1949-07-01",
+   "acts": [
+    "War Service Homes Act 1949"
+   ]
+  },
+  {
+   "in_force": "1951-12-11",
+   "acts": [
+    "War Service Homes Act 1951"
+   ]
+  },
+  {
+   "in_force": "1954-11-08",
+   "acts": [
+    "War Service Homes Act 1954"
+   ]
+  },
+  {
+   "in_force": "1956-02-16",
+   "acts": [
+    "Lands Acquisition Act 1955"
+   ]
+  },
+  {
+   "in_force": "1956-11-15",
+   "acts": [
+    "War Service Homes Act 1956"
+   ]
+  },
+  {
+   "in_force": "1961-11-24",
+   "acts": [
+    "War Service Homes Act 1961"
+   ]
+  },
+  {
+   "in_force": "1962-03-17",
+   "acts": [
+    "War Service Homes Act 1962"
+   ]
+  },
+  {
+   "in_force": "1963-05-28",
+   "acts": [
+    "War Service Homes Act (No. 2) 1962"
+   ]
+  },
+  {
+   "in_force": "1966-07-01",
+   "acts": [
+    "National Debt Sinking Fund Act 1966"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1968-11-25",
+   "acts": [
+    "War Service Homes Act 1968"
+   ]
+  },
+  {
+   "in_force": "1969-07-01",
+   "acts": [
+    "War Service Homes Act 1968"
+   ]
+  },
+  {
+   "in_force": "1971-12-10",
+   "acts": [
+    "War Service Homes Act 1971"
+   ]
+  },
+  {
+   "in_force": "1973-05-15",
+   "acts": [
+    "Defence Service Homes Act 1973",
+    "Defence Service Homes Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-09-03",
+   "acts": [
+    "Defence Service Homes Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-12-06",
+   "acts": [
+    "Defence Service Homes Act 1974"
+   ]
+  },
+  {
+   "in_force": "1975-06-24",
+   "acts": [
+    "Defence Service Homes Corporation Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-12-13",
+   "acts": [
+    "Defence Service Homes Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-07-01",
+   "acts": [
+    "Defence Service Homes Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-11-11",
+   "acts": [
+    "Defence Service Homes Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1980-03-19",
+   "acts": [
+    "Defence Service Homes Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-10-01",
+   "acts": [
+    "Defence Service Homes Amendment Act 1978",
+    "Defence Service Homes Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-10-15",
+   "acts": [
+    "Defence Service Homes Amendment Act (No. 2) 1980"
+   ]
+  },
+  {
+   "in_force": "1982-10-20",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-10-24",
+   "acts": [
+    "Repatriation Legislation Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1986-05-22",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1990",
+    "Veterans' Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986",
+    "Veterans' Entitlements (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-12-19",
+   "acts": [
+    "Defence Service Homes Amendment Act 1988",
+    "Defence Service Homes Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-02-18",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1989",
+    "Veterans' Affairs Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1989-06-27",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-06-30",
+   "acts": [
+    "Defence Service Homes Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-08-02",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-08",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-03-01",
+   "acts": [
+    "Defence Force (Home Loans Assistance) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-06-25",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Veterans' Entitlements (Rewrite) Transition Act 1991",
+    "Veterans' Affairs Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-12-24",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1993-01-01",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1994-06-21",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Veterans' Affairs (1995-96 Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-11-14",
+   "acts": [
+    "Veterans' Affairs (1995-96 Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-11-08",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act (No. 1) 1996",
+    "Veterans' Affairs Legislation Amendment Act (No. 1) 1996"
+   ]
+  },
+  {
+   "in_force": "1997-03-05",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (1996-97 Budget Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-03",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-27",
+   "acts": [
+    "Defence Service Homes Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-11-24",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Defence Home Ownership Assistance Scheme (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-09-11",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Budget Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (2010 Budget Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-17",
+   "acts": [
+    "Veterans' Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-20",
+   "acts": [
+    "Business Names Registration (Transitional and Consequential Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-02-28",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Miscellaneous Measures) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2019-09-21",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Partner Service Pension and Other Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Defence Service Homes Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2023-06-29",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Miscellaneous Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-11",
+   "acts": [
+    "Crown References Amendment Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

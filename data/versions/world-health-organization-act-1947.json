@@ -1,0 +1,38 @@
+{
+ "title_id": "C1947A00093",
+ "name": "World Health Organization Act 1947",
+ "folder": "world-health-organization-act-1947",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00962",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1947A00093',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1947A00093/2016-10-21/text",
+   "sha256": "3fc5da119dda7d7f7102b9ace0596712f044d5ad7b2d5921bdcf8b36af350733"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1947-12-11",
+   "acts": []
+  },
+  {
+   "in_force": "1969-03-01",
+   "acts": [
+    "World Health Organization Act 1963"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

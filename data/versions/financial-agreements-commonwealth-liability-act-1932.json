@@ -1,0 +1,32 @@
+{
+ "title_id": "C1932A00002",
+ "name": "Financial Agreements (Commonwealth Liability) Act 1932",
+ "folder": "financial-agreements-commonwealth-liability-act-1932",
+ "compilations": [
+  {
+   "in_force": "1979-05-15",
+   "register_id": "C2004C00484",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1932A00002',start=1979-05-15,retrospectivestart=1979-05-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1932A00002/1979-05-15/text",
+   "sha256": "59bde4dac4942bad463c7b83929a1194d7080e5fe30f1bf224ad51f45375db67"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1931-01-01",
+   "acts": []
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

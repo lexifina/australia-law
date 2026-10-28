@@ -1,0 +1,44 @@
+{
+ "title_id": "C1971A00073",
+ "name": "Superannuation (Pension Increases) Act 1971",
+ "folder": "superannuation-pension-increases-act-1971",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00569",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00073',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00073/2014-07-01/text",
+   "sha256": "d65e05123ed70c692dd38db7635d2139593eecf0300e07cddaa7a9e64e5aedcb"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1971-10-01",
+   "acts": []
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-09-16",
+   "acts": [
+    "Statute Stocktake Act (No. 1) 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

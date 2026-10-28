@@ -1,0 +1,176 @@
+{
+ "title_id": "C1938A00015",
+ "name": "Foreign Passports (Law Enforcement and Security) Act 2005",
+ "folder": "foreign-passports-law-enforcement-and-security-act-2005",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00622",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1938A00015',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1938A00015/2024-10-14/text",
+   "sha256": "739a129ab4b1d39c78defd54b5d4c468e63dd510088f3b05e22b070619cd44a7"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1938-07-05",
+   "acts": []
+  },
+  {
+   "in_force": "1949-01-26",
+   "acts": [
+    "Passports Act 1948"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-10-25",
+   "acts": [
+    "Passports Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-05-28",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1980"
+   ]
+  },
+  {
+   "in_force": "1984-11-22",
+   "acts": [
+    "Passports Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1991-09-20",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1995-12-12",
+   "acts": [
+    "Family Law Reform (Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-10-17",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-14",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-26",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-09-13",
+   "acts": [
+    "Anti-terrorism Act (No. 3) 2004"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Australian Passports (Transitionals and Consequentials) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-10-08",
+   "acts": [
+    "Passports Legislation Amendment (Integrity) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-12-13",
+   "acts": [
+    "Passports Legislation Amendment (Overseas Travel by Child Sex Offenders) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2022-04-02",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 1) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

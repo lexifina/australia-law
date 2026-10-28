@@ -1,0 +1,62 @@
+{
+ "title_id": "C1915A00019",
+ "name": "Jervis Bay Territory Acceptance Act 1915",
+ "folder": "jervis-bay-territory-acceptance-act-1915",
+ "compilations": [
+  {
+   "in_force": "2023-08-22",
+   "register_id": "C2023C00223",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1915A00019',start=2023-08-22,retrospectivestart=2023-08-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1915A00019/2023-08-22/text",
+   "sha256": "167e725d3c956c05be2088c0254ac970b38de0cfd822987fee5642e42fc68950"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1915-07-12",
+   "acts": []
+  },
+  {
+   "in_force": "1956-02-16",
+   "acts": [
+    "Australian Capital Territory and Jervis Bay (Lands Acquisition) Act 1955"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1987-01-15",
+   "acts": [
+    "Aboriginal Land and Waters (Jervis Bay Territory) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-03-04",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

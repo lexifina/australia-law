@@ -1,0 +1,577 @@
+{
+ "title_id": "C1973A00076",
+ "name": "Insurance Act 1973",
+ "folder": "insurance-act-1973",
+ "compilations": [
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00157",
+   "compilation": "73",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1973A00076',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1973A00076/2025-02-21/text",
+   "sha256": "44af0bc50b704a8062452735ed08ec1ce8c867ddf1f4598975e894969597fc1c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1973-06-19",
+   "acts": []
+  },
+  {
+   "in_force": "1974-08-01",
+   "acts": [
+    "Insurance Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1975-02-01",
+   "acts": [
+    "Insurance Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1976-12-13",
+   "acts": [
+    "Insurance Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1977-02-01",
+   "acts": [
+    "Federal Court of Australia (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-05-18",
+   "acts": [
+    "Insurance Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1977-06-28",
+   "acts": [
+    "Insurance Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1982-07-01",
+   "acts": [
+    "Companies (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-03-01",
+   "acts": [
+    "Census and Statistics Amendment Act (No. 2) 1981"
+   ]
+  },
+  {
+   "in_force": "1984-01-19",
+   "acts": [
+    "Insurance Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-02-01",
+   "acts": [
+    "Health Legislation Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-10-01",
+   "acts": [
+    "Insurance Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-11-23",
+   "acts": [
+    "Insurance and Superannuation Commissioner (Consequential Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-18",
+   "acts": [
+    "Insurance Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-10-20",
+   "acts": [
+    "Insurance Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-03-20",
+   "acts": [
+    "Insurance Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-11-01",
+   "acts": [
+    "Export Finance and Insurance Corporation (Transitional Provisions and Consequential Amendments) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-01-06",
+   "acts": [
+    "Insurance Laws Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-03-15",
+   "acts": [
+    "Insurance Acquisitions and Takeovers Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-06-23",
+   "acts": [
+    "Corporate Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-06-03",
+   "acts": [
+    "CSL Sale Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-10-01",
+   "acts": [
+    "Insurance Laws Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Life Insurance (Consequential Amendments and Repeals) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-12",
+   "acts": [
+    "Superannuation Industry (Supervision) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-11-25",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-02",
+   "acts": [
+    "Retirement Savings Accounts (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-06-30",
+   "acts": [
+    "Financial Laws Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-04-30",
+   "acts": [
+    "Insurance Laws Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998",
+    "Company Law Review Act 1998",
+    "Company Law Review Act 1998",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Insurance Laws Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "2001-01-18",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-12-15",
+   "acts": [
+    "Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2002-03-11",
+   "acts": [
+    "Financial Services Reform (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Financial Sector Legislation Amendment Act (No. 1) 2002",
+    "Statute Law Revision Act 2005",
+    "Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001",
+    "General Insurance Reform Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-05-12",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Australian Prudential Regulation Authority Amendment Act 2003",
+    "Medical Indemnity (Prudential Supervision and Product Standards) (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-11-28",
+   "acts": [
+    "Financial Sector Legislation Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2005-05-16",
+   "acts": [
+    "Administrative Appeals Tribunal Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-05-26",
+   "acts": [
+    "Financial Sector Legislation Amendment (Review of Prudential Decisions) Act 2008",
+    "Financial Sector Legislation Amendment (Review of Prudential Decisions) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-25",
+   "acts": [
+    "Private Health Insurance Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Financial Sector Legislation Amendment (Discretionary Mutual Funds and Direct Offshore Foreign Insurers) Act 2007",
+    "Financial Sector Legislation Amendment (Review of Prudential Decisions) Act 2008",
+    "Financial Sector Legislation Amendment (Review of Prudential Decisions) Act 2008",
+    "Financial Sector Legislation Amendment (Review of Prudential Decisions) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-18",
+   "acts": [
+    "Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008",
+    "Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-06-23",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 2) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-08-28",
+   "acts": [
+    "Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-07-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-06-01",
+   "acts": [
+    "Financial System Legislation Amendment (Resilience and Collateral Protection) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Insolvency Law Reform Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-03-05",
+   "acts": [
+    "Financial Sector Legislation Amendment (Crisis Resolution Powers and Other Measures) Act 2018",
+    "Treasury Laws Amendment (Banking Measures No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-09-18",
+   "acts": [
+    "Corporations Amendment (Asia Region Funds Passport) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Enhancing Whistleblower Protections) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-18",
+   "acts": [
+    "Treasury Laws Amendment (Combating Illegal Phoenixing) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Financial Sector Reform (Hayne Royal Commission Response) Act 2020",
+    "Corporations Amendment (Corporate Insolvency Reforms) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Financial Regulator Assessment Authority (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-08",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 5) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-03-05",
+   "acts": [
+    "Treasury Laws Amendment (Putting Consumers First—Establishment of the Australian Financial Complaints Authority) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2022-03-31",
+   "acts": [
+    "Treasury Laws Amendment (Cyclone and Flood Damage Reinsurance Pool) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-09-15",
+   "acts": [
+    "Financial Accountability Regime (Consequential Amendments) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-21",
+   "acts": [
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-20",
+   "acts": [
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Treasury Laws Amendment (Modernising Business Communications and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-03-01",
+   "acts": [
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-09-18",
+   "acts": [
+    "Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-09-24",
+   "acts": [
+    "Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

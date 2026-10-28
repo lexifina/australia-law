@@ -1,0 +1,74 @@
+{
+ "title_id": "C1914A00033",
+ "name": "Treasury Bills Act 1914",
+ "folder": "treasury-bills-act-1914",
+ "compilations": [
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00217",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1914A00033',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1914A00033/2011-04-19/text",
+   "sha256": "0e4811f4a2f1cfbdb115aad2c59df110a421c9b2440a55cd149849ca9b1f718e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1914-12-21",
+   "acts": []
+  },
+  {
+   "in_force": "1915-08-16",
+   "acts": [
+    "Treasury Bills Act 1915"
+   ]
+  },
+  {
+   "in_force": "1941-01-14",
+   "acts": [
+    "Treasury Bills Act 1940"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-05-28",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1980"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Crimes (Currency) Act 1981"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

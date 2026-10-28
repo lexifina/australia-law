@@ -1,0 +1,74 @@
+{
+ "title_id": "C1959A00052",
+ "name": "Statutory Declarations Act 1959",
+ "folder": "statutory-declarations-act-1959",
+ "compilations": [
+  {
+   "in_force": "2024-01-01",
+   "register_id": "C2024C00005",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00052',start=2024-01-01,retrospectivestart=2024-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00052/2024-01-01/text",
+   "sha256": "92f21ba8512e8e9e0942e5734f8143954eee2eeaffd356d7f7d0fc002fc52e84"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1959-05-22",
+   "acts": []
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1990-12-21",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-12-12",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-01-08",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-11-26",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

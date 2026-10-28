@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00221",
+ "name": "Parliament Act 1974",
+ "folder": "parliament-act-1974",
+ "compilations": [
+  {
+   "in_force": "1988-08-01",
+   "register_id": "C2004C00292",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00221',start=1988-08-01,retrospectivestart=1988-08-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00221/1988-08-01/text",
+   "sha256": "bdd5d03dbe141e72d55e33ad934942a92cee01049995fa90bb5ea809f3aff138"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1974-12-17",
+   "acts": []
+  },
+  {
+   "in_force": "1988-04-05",
+   "acts": [
+    "Parliamentary Precincts Act 1988"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

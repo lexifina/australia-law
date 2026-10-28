@@ -1,0 +1,26 @@
+{
+ "title_id": "C1960A00014",
+ "name": "International Monetary Agreements Act 1960",
+ "folder": "international-monetary-agreements-act-1960",
+ "compilations": [
+  {
+   "in_force": "2026-04-09",
+   "register_id": "C2026C00178",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1960A00014',start=2026-04-09,retrospectivestart=2026-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1960A00014/2026-04-09/text",
+   "sha256": "7fdb1e210ef098c8abb8d0fa547cf5abe49f8d37fa7a9e82e598f14d05d0b1cf"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1960-05-14",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

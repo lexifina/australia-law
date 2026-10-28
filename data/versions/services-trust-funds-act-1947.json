@@ -1,0 +1,86 @@
+{
+ "title_id": "C1947A00023",
+ "name": "Services Trust Funds Act 1947",
+ "folder": "services-trust-funds-act-1947",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00415",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1947A00023',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1947A00023/2014-07-01/text",
+   "sha256": "976f6573db8d3ef03b7a3c885d291be601f5e2d87ee67988ab57e1c3a640bd38"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1947-06-10",
+   "acts": []
+  },
+  {
+   "in_force": "1947-06-20",
+   "acts": [
+    "Services Trust Funds Act 1950"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1975-10-28",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1976-02-09",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1984-11-23",
+   "acts": [
+    "Defence Legislation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1987-06-05",
+   "acts": [
+    "Defence Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1993-12-22",
+   "acts": [
+    "Defence Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

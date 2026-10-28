@@ -1,0 +1,32 @@
+{
+ "title_id": "C1966A00025",
+ "name": "Asian Development Bank Act 1966",
+ "folder": "asian-development-bank-act-1966",
+ "compilations": [
+  {
+   "in_force": "2026-04-09",
+   "register_id": "C2026C00167",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1966A00025',start=2026-04-09,retrospectivestart=2026-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1966A00025/2026-04-09/text",
+   "sha256": "c3d6f609fa079b9f42d81b011d0ab284c6eb51c0c7e9cd23743d6f5b46fbf241"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1966-05-24",
+   "acts": []
+  },
+  {
+   "in_force": "2024-07-10",
+   "acts": [
+    "Treasury Laws Amendment (Delivering Better Financial Outcomes and Other Measures) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

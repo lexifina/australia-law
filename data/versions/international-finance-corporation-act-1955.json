@@ -1,0 +1,63 @@
+{
+ "title_id": "C1955A00066",
+ "name": "International Finance Corporation Act 1955",
+ "folder": "international-finance-corporation-act-1955",
+ "compilations": [
+  {
+   "in_force": "2026-04-09",
+   "register_id": "C2026C00172",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00066',start=2026-04-09,retrospectivestart=2026-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00066/2026-04-09/text",
+   "sha256": "a678e48e56e2d48adf9633e33d899001e16974dbd94e8a7e5a88d48564cb8a85"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1955-11-04",
+   "acts": []
+  },
+  {
+   "in_force": "1961-10-24",
+   "acts": [
+    "International Finance Corporation Act 1961"
+   ]
+  },
+  {
+   "in_force": "1966-09-12",
+   "acts": [
+    "International Finance Corporation Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1988-11-09",
+   "acts": [
+    "International Finance Corporation Act 1963"
+   ]
+  },
+  {
+   "in_force": "2012-06-27",
+   "acts": [
+    "International Financial Institutions Legislation Amendment Act 2010",
+    "International Financial Institutions Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2020-09-04",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 2) Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

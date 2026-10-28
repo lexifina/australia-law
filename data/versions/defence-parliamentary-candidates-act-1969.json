@@ -1,0 +1,98 @@
+{
+ "title_id": "C1969A00060",
+ "name": "Defence (Parliamentary Candidates) Act 1969",
+ "folder": "defence-parliamentary-candidates-act-1969",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00807",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1969A00060',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1969A00060/2016-07-01/text",
+   "sha256": "f6c5fbb1cc1c0cce7c0423a5975ca5ba63e57263943968236c3c7455076d4fbd"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1969-09-05",
+   "acts": []
+  },
+  {
+   "in_force": "1972-10-01",
+   "acts": [
+    "Defence (Parliamentary Candidates) Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-09-27",
+   "acts": [
+    "Election Candidates (Public Service and Defence Force) Act 1974"
+   ]
+  },
+  {
+   "in_force": "1975-10-28",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1976-02-09",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-09-30",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1991-09-02",
+   "acts": [
+    "Defence Force Superannuation Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "2001-04-19",
+   "acts": [
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

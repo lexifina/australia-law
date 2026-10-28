@@ -1,0 +1,92 @@
+{
+ "title_id": "C1909A00027",
+ "name": "Bills of Exchange Act 1909",
+ "folder": "bills-of-exchange-act-1909",
+ "compilations": [
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00128",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1909A00027',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1909A00027/2011-12-27/text",
+   "sha256": "306dd3b27630b534710c25412bce74d586681a4861ae3898e119ebe24347a776"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1909-12-13",
+   "acts": []
+  },
+  {
+   "in_force": "1912-12-24",
+   "acts": [
+    "Bills of Exchange Act 1912"
+   ]
+  },
+  {
+   "in_force": "1932-12-05",
+   "acts": [
+    "Bills of Exchange Act 1932"
+   ]
+  },
+  {
+   "in_force": "1936-12-07",
+   "acts": [
+    "Bills of Exchange Act 1936"
+   ]
+  },
+  {
+   "in_force": "1958-06-09",
+   "acts": [
+    "Bills of Exchange Act 1958"
+   ]
+  },
+  {
+   "in_force": "1971-05-01",
+   "acts": [
+    "Bills of Exchange Act 1971"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1987-07-01",
+   "acts": [
+    "Bills of Exchange Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1991-10-10",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1998-12-01",
+   "acts": [
+    "Cheques and Payment Orders Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "2008-07-03",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

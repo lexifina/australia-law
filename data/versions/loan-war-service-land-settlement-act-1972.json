@@ -1,0 +1,21 @@
+{
+ "title_id": "C1972A00091",
+ "name": "Loan (War Service Land Settlement) Act 1972",
+ "folder": "loan-war-service-land-settlement-act-1972",
+ "compilations": [
+  {
+   "in_force": "1972-10-18",
+   "register_id": "C1972A00091",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1972A00091',start=1972-10-18,retrospectivestart=1972-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1972A00091/1972-10-18/text",
+   "sha256": "063205e7ab8be8331e3cd7f455ff6b981411043243409b0efc228984664971c2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

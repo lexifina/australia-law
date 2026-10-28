@@ -1,0 +1,50 @@
+{
+ "title_id": "C1908A00016",
+ "name": "Parliamentary Papers Act 1908",
+ "folder": "parliamentary-papers-act-1908",
+ "compilations": [
+  {
+   "in_force": "1981-05-01",
+   "register_id": "C2004C00582",
+   "compilation": "5",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1908A00016',start=1981-05-01,retrospectivestart=1981-05-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1908A00016/1981-05-01/text",
+   "sha256": "3df53b13247daac42a27a1ebbe1489b5cc9010e4ec0b60480d84b9b0e948b9c9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1908-06-10",
+   "acts": []
+  },
+  {
+   "in_force": "1935-12-09",
+   "acts": [
+    "Parliamentary Papers Act 1935"
+   ]
+  },
+  {
+   "in_force": "1946-08-14",
+   "acts": [
+    "Parliamentary Papers Act 1946"
+   ]
+  },
+  {
+   "in_force": "1963-06-27",
+   "acts": [
+    "Parliamentary Papers Act 1963"
+   ]
+  },
+  {
+   "in_force": "1974-08-01",
+   "acts": [
+    "Parliamentary Papers Act 1974"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

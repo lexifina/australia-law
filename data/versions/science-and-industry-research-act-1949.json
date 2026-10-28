@@ -1,0 +1,189 @@
+{
+ "title_id": "C1949A00013",
+ "name": "Science and Industry Research Act 1949",
+ "folder": "science-and-industry-research-act-1949",
+ "compilations": [
+  {
+   "in_force": "2022-09-14",
+   "register_id": "C2022C00256",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1949A00013',start=2022-09-14,retrospectivestart=2022-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1949A00013/2022-09-14/text",
+   "sha256": "1f0485309e776bde2a029fde2339f08bc5ad7c42cd35857e6ea4850eac99764e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1949-03-25",
+   "acts": []
+  },
+  {
+   "in_force": "1960-01-01",
+   "acts": [
+    "Science and Industry Research Act 1959"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1968-05-08",
+   "acts": [
+    "Science and Industry Research Act 1968"
+   ]
+  },
+  {
+   "in_force": "1968-07-01",
+   "acts": [
+    "Science and Industry Research Act (No. 2) 1968"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-12-14",
+   "acts": [
+    "Science and Industry Research Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1982-10-20",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-12-05",
+   "acts": [
+    "Science and Industry Research Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1991-06-15",
+   "acts": [
+    "Industry, Technology and Commerce Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Industry, Technology and Commerce Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    null,
+    "Industry, Science and Tourism Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "National Measurement Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2007-09-10",
+   "acts": [
+    "Governance Review Implementation (Science Research Agencies) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-08-05",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

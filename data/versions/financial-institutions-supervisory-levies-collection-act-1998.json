@@ -1,0 +1,107 @@
+{
+ "title_id": "C2004A00313",
+ "name": "Financial Institutions Supervisory Levies Collection Act 1998",
+ "folder": "financial-institutions-supervisory-levies-collection-act-1998",
+ "compilations": [
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00149",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00313',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00313/2025-02-21/text",
+   "sha256": "508736ed6f48d40bb51cdcbf05397a18d25ec68fe6f38dbc4a10ccc6657d6b2f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "1999-10-08",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 3) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-04-03",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2002-06-27",
+   "acts": [
+    "Financial Sector Legislation Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005",
+    "Financial Institutions Supervisory Levies Collection Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Governance Review Implementation (Treasury Portfolio Agencies) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-10-18",
+   "acts": [
+    "Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "First Home Saver Accounts (Further Provisions) Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-07-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015",
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015",
+    "Private Health Insurance (Prudential Supervision) (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

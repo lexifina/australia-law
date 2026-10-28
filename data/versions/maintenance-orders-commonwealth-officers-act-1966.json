@@ -1,0 +1,32 @@
+{
+ "title_id": "C1966A00059",
+ "name": "Maintenance Orders (Commonwealth Officers) Act 1966",
+ "folder": "maintenance-orders-commonwealth-officers-act-1966",
+ "compilations": [
+  {
+   "in_force": "2017-12-09",
+   "register_id": "C2017C00398",
+   "compilation": "4",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1966A00059',start=2017-12-09,retrospectivestart=2017-12-09,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1966A00059/2017-12-09/text",
+   "sha256": "a19952a77e001fc5d19f61319025d043b49feba1937dc0e92a1cfa65fefea457"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1966-10-29",
+   "acts": []
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

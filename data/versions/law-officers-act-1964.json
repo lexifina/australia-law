@@ -1,0 +1,152 @@
+{
+ "title_id": "C1964A00091",
+ "name": "Law Officers Act 1964",
+ "folder": "law-officers-act-1964",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00533",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1964A00091',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1964A00091/2024-10-14/text",
+   "sha256": "baf485d9c50952104a3367cc89d7a1b33cb2f9e8a6069990a78a527bd9896dbb"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1964-11-05",
+   "acts": []
+  },
+  {
+   "in_force": "1968-12-10",
+   "acts": [
+    "Law Officers Act 1968"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1983-11-22",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-10-10",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-04-13",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-11-28",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-26",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1998-06-04",
+   "acts": [
+    "Law Officers Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Superannuation Legislation (Commonwealth Employment) Repeal and Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-06-13",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-25",
+   "acts": [
+    "Law Officers Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2023-08-12",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 2) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

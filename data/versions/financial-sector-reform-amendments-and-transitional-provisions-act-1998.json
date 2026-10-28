@@ -1,0 +1,39 @@
+{
+ "title_id": "C2004A00314",
+ "name": "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998",
+ "folder": "financial-sector-reform-amendments-and-transitional-provisions-act-1998",
+ "compilations": [
+  {
+   "in_force": "1999-12-05",
+   "register_id": "C2006C00145",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00314',start=1999-12-05,retrospectivestart=1999-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00314/1999-12-05/text",
+   "sha256": "4f075ad160b1c4248479cb6fb0a683c9b8d91ba79d83ba02afbc128fcbccc186"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999",
+    "Statute Law Revision Act 2006"
+   ]
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,26 @@
+{
+ "title_id": "C2004A00250",
+ "name": "Common Informers (Parliamentary Disqualifications) Act 1975",
+ "folder": "common-informers-parliamentary-disqualifications-act-1975",
+ "compilations": [
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00320",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00250',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00250/2008-07-04/text",
+   "sha256": "2099917c18f3da1e8c9b05ae92487a29877081b68766b22084e09b58fc46a178"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1975-04-23",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

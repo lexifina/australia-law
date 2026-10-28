@@ -1,0 +1,128 @@
+{
+ "title_id": "C1923A00014",
+ "name": "Removal of Prisoners (Territories) Act 1923",
+ "folder": "removal-of-prisoners-territories-act-1923",
+ "compilations": [
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00388",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1923A00014',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1923A00014/2008-07-04/text",
+   "sha256": "3123c7c84d6157aac013af2e2c63bae1afe0fe37712639dcef8250def305b179"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1923-09-01",
+   "acts": []
+  },
+  {
+   "in_force": "1936-05-27",
+   "acts": [
+    "Removal of Prisoners (Territories) Act 1935"
+   ]
+  },
+  {
+   "in_force": "1950-12-31",
+   "acts": [
+    "Statute Law Revision Act 1950"
+   ]
+  },
+  {
+   "in_force": "1957-04-15",
+   "acts": [
+    "Removal of Prisoners (Territories) Act 1957"
+   ]
+  },
+  {
+   "in_force": "1962-12-22",
+   "acts": [
+    "Removal of Prisoners (Territories) Act 1962"
+   ]
+  },
+  {
+   "in_force": "1968-05-08",
+   "acts": [
+    "Removal of Prisoners (Territories) Act 1968"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-05-28",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1980"
+   ]
+  },
+  {
+   "in_force": "1984-08-01",
+   "acts": [
+    "Transfer Of Prisoners (Consequential Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1985-06-12",
+   "acts": [
+    "Transfer Of Prisoners (Consequential Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Crimes Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "2008-07-03",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

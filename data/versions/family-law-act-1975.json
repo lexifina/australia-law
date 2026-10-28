@@ -1,0 +1,894 @@
+{
+ "title_id": "C2004A00275",
+ "name": "Family Law Act 1975",
+ "folder": "family-law-act-1975",
+ "compilations": [
+  {
+   "in_force": "2025-06-10",
+   "register_id": "C2025C00341",
+   "compilation": "101",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00275',start=2025-06-10,retrospectivestart=2025-06-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00275/2025-06-10/text",
+   "sha256": "e714b58bd56011c72a64e823dbd9208e969525b9522d5b75ad34f922d72debff"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1975-06-12",
+   "acts": []
+  },
+  {
+   "in_force": "1976-01-05",
+   "acts": [
+    "Family Law Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-06-08",
+   "acts": [
+    "Family Law Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-07-01",
+   "acts": [
+    "Family Law Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-09-28",
+   "acts": [
+    "Family Law Amendment Act (No. 2) 1976"
+   ]
+  },
+  {
+   "in_force": "1977-06-20",
+   "acts": [
+    "Marriage Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-10-11",
+   "acts": [
+    "Family Law Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1979-04-05",
+   "acts": [
+    "Family Law Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-08-01",
+   "acts": [
+    "Family Law Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1982-03-04",
+   "acts": [
+    "Domicile (Consequential Amendments) Act 1982"
+   ]
+  },
+  {
+   "in_force": "1983-10-20",
+   "acts": [
+    "Family Law Amendment (Legal Aid Costs) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-11-25",
+   "acts": [
+    "Family Law Amendment Act 1983",
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-20",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-01-02",
+   "acts": [
+    "Family Law Amendment Act 1983",
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984",
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984",
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-01-08",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-04-01",
+   "acts": [
+    "Family Law Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-04-05",
+   "acts": [
+    "Family Court of Australia (Additional Jurisdiction and Exercise of Powers) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Family Law Amendment Act 2000",
+    "Family Court of Australia (Additional Jurisdiction and Exercise of Powers) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-10-01",
+   "acts": [
+    "Child Support (Assessment) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "Family Court of Australia (Additional Jurisdiction and Exercise of Powers) Act 1988",
+    "Courts and Tribunals Administration Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-06-25",
+   "acts": [
+    "Family Law Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1990-12-21",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-12-28",
+   "acts": [
+    "Child Support Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-24",
+   "acts": [
+    "Family Law Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-10-10",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-10-25",
+   "acts": [
+    "Family Law Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-24",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1991-12-27",
+   "acts": [
+    "Courts (Mediation and Arbitration) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-04-13",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-05-06",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Territories Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-07",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 4) 1992"
+   ]
+  },
+  {
+   "in_force": "1994-06-23",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Family Law Reform Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-06-11",
+   "acts": [
+    "Family Law Reform Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-12-16",
+   "acts": [
+    "Family Law Reform Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-04-10",
+   "acts": [
+    "Family Law Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-21",
+   "acts": [
+    "Child Support Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-14",
+   "acts": [
+    "Family Law Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Statute Stocktake Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-05-03",
+   "acts": [
+    "Child Support Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-11-29",
+   "acts": [
+    "Family Law Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-12-27",
+   "acts": [
+    "Family Law Amendment Act 2000",
+    "Family Law Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-09-03",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2002-12-28",
+   "acts": [
+    "Family Law Legislation Amendment (Superannuation) Act 2001",
+    "Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001",
+    "Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-08-01",
+   "acts": [
+    "Family Law Amendment (Child Protection Convention) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-12-17",
+   "acts": [
+    "Family Law Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-01-14",
+   "acts": [
+    "Family Law Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-12-17",
+   "acts": [
+    "Family Law Amendment Act 2003",
+    "Family Law Amendment (Annuities) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-04-15",
+   "acts": [
+    "Bankruptcy and Family Law Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-06-15",
+   "acts": [
+    "Family Law Amendment (Annuities) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-08-03",
+   "acts": [
+    "Family Law Amendment Act 2005",
+    "Jurisdiction of Courts (Family Law) Act 2006",
+    "Jurisdiction of Courts (Family Law) Act 2006",
+    "Jurisdiction of Courts (Family Law) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2005-09-18",
+   "acts": [
+    "Bankruptcy and Family Law Legislation Amendment Act 2005",
+    "Family Law Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-05-04",
+   "acts": [
+    "Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-05-22",
+   "acts": [
+    "Family Law Amendment (Shared Parental Responsibility) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Jurisdiction of Courts (Family Law) Act 2006",
+    "Family Law Amendment (Shared Parental Responsibility) Act 2006",
+    "Family Law Amendment (Shared Parental Responsibility) Act 2006",
+    "Family Law Amendment (Shared Parental Responsibility) Act 2006",
+    "Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-07",
+   "acts": [
+    "Judiciary Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Superannuation Legislation Amendment (Simplification) Act 2007",
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-19",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-26",
+   "acts": [
+    "Evidence Amendment (Journalists' Privilege) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-21",
+   "acts": [
+    "Family Law Amendment (De Facto Financial Matters and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-01",
+   "acts": [
+    "Family Law Amendment (De Facto Financial Matters and Other Measures) Act 2008",
+    "Family Law Amendment (De Facto Financial Matters and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-12-07",
+   "acts": [
+    "Federal Justice System Amendment (Efficiency Measures) Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Access to Justice (Civil Litigation Reforms) Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-04",
+   "acts": [
+    "Federal Justice System Amendment (Efficiency Measures) Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Family Law Amendment (Validation of Certain Parenting Orders and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-13",
+   "acts": [
+    "Evidence Amendment (Journalists' Privilege) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-07",
+   "acts": [
+    "Family Law Legislation Amendment (Family Violence and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-04",
+   "acts": [
+    "Family Law Legislation Amendment (Family Violence and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-21",
+   "acts": [
+    "Family Law Amendment (Validation of Certain Orders and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-06-05",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-07",
+   "acts": [
+    "Family Law Legislation Amendment (Family Violence and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-10-01",
+   "acts": [
+    "Parliamentary Counsel and Other Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-12",
+   "acts": [
+    "Access to Justice (Federal Jurisdiction) Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Courts Legislation Amendment (Judicial Complaints) Act 2012",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-11",
+   "acts": [
+    "Access to Justice (Federal Jurisdiction) Amendment Act 2012",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Public Service Amendment Act 2013",
+    "Courts and Tribunals Legislation Amendment (Administration) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-10-11",
+   "acts": [
+    "Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010",
+    "Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-08-18",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-08",
+   "acts": [
+    "Passports Legislation Amendment (Integrity) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-14",
+   "acts": [
+    "Civil Law and Justice (Omnibus Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015",
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015",
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Trade Legislation Amendment Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015",
+    "Courts Administration Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-11-17",
+   "acts": [
+    "Statute Law Revision (Spring 2016) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Courts Administration Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Legislation Amendment (Sunsetting Review and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-09-01",
+   "acts": [
+    "Family Law Amendment (Family Violence and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-10-26",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-03-10",
+   "acts": [
+    "Family Law Amendment (Family Violence and Cross-examination of Parties) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-25",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-11-27",
+   "acts": [
+    "Family Law Amendment (Risk Screening Protections) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Family Law Amendment (Risk Screening Protections) Act 2020",
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-02-18",
+   "acts": [
+    "Courts and Tribunals Legislation Amendment (2021 Measures No. 1) Act 2022",
+    "Courts and Tribunals Legislation Amendment (2021 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-04-01",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 6) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-09-28",
+   "acts": [
+    "Family Law Amendment (Western Australia De Facto Superannuation Splitting and Bankruptcy) Act 2020",
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021",
+    "Treasury Laws Amendment (2021 Measures No. 6) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-03-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-11-28",
+   "acts": [
+    "Federal Courts Legislation Amendment (Judicial Immunity) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-05-06",
+   "acts": [
+    "Family Law Amendment (Information Sharing) Act 2023",
+    "Family Law Amendment Act 2023",
+    "Family Law Amendment Act 2023",
+    "Family Law Amendment Act 2023",
+    "Family Law Amendment Act 2023",
+    "Family Law Amendment Act 2023",
+    "Family Law Amendment Act 2023",
+    "Family Law Amendment Act 2023",
+    "Family Law Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-06-12",
+   "acts": [
+    "Attorney-General’s Portfolio Miscellaneous Measures Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-11",
+   "acts": [
+    "Family Law Amendment Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,87 @@
+{
+ "title_id": "C2004Q00685",
+ "name": "Commonwealth of Australia Constitution Act",
+ "folder": "constitution",
+ "compilations": [
+  {
+   "in_force": "1900-01-01",
+   "register_id": "C2004Q00685",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004Q00685',start=1900-01-01,retrospectivestart=1900-01-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004Q00685/1900-01-01/text",
+   "sha256": "d76ab0e35fde3ae107f6ddff9fda6d2e0333e1321565955c9ccecc9f4f9845a1"
+  },
+  {
+   "in_force": "1907-04-03",
+   "register_id": "C2021Q00024",
+   "compilation": "1",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004Q00685',start=1907-04-03,retrospectivestart=1907-04-03,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004Q00685/1907-04-03/text",
+   "sha256": "6e5a071df3ebd2e9e544eda9bf572184edfe3f5454d2216e4a3d075d5bc2deed"
+  },
+  {
+   "in_force": "1910-08-06",
+   "register_id": "C2021Q00025",
+   "compilation": "2",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004Q00685',start=1910-08-06,retrospectivestart=1910-08-06,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004Q00685/1910-08-06/text",
+   "sha256": "b74917ab81bf4728cb612838d3860585acfdf343eae8e2abb3f025049094aed8"
+  },
+  {
+   "in_force": "1929-02-13",
+   "register_id": "C2021Q00026",
+   "compilation": "3",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004Q00685',start=1929-02-13,retrospectivestart=1929-02-13,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004Q00685/1929-02-13/text",
+   "sha256": "9687bfb6cedc34f31bc9dff938adc6873a50018a3de93dd48c59fffd3143f625"
+  },
+  {
+   "in_force": "1946-12-19",
+   "register_id": "C2021Q00027",
+   "compilation": "4",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004Q00685',start=1946-12-19,retrospectivestart=1946-12-19,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004Q00685/1946-12-19/text",
+   "sha256": "a6ac671123892c1ee45f8562613a1727bbfb9871242a657a1a3b675ef1418d85"
+  },
+  {
+   "in_force": "1967-08-10",
+   "register_id": "C2004C00469",
+   "compilation": "5",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004Q00685',start=1967-08-10,retrospectivestart=1967-08-10,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004Q00685/1967-08-10/text",
+   "sha256": "9140b4b7b8af60c044e46387fafdb06f9ee80dca657d0db7cfb0dcb6f6f504a4"
+  },
+  {
+   "in_force": "1977-07-29",
+   "register_id": "C2013Q00005",
+   "compilation": "6",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004Q00685',start=1977-07-29,retrospectivestart=1977-07-29,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004Q00685/1977-07-29/text",
+   "sha256": "5888f05ca921543e1ff2f26562d86d3feb8fb3cb6dc0108bdbb2b08100bd7532"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

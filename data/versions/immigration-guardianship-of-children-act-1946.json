@@ -1,0 +1,116 @@
+{
+ "title_id": "C1946A00045",
+ "name": "Immigration (Guardianship of Children) Act 1946",
+ "folder": "immigration-guardianship-of-children-act-1946",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00628",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1946A00045',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1946A00045/2024-10-14/text",
+   "sha256": "718028fa235cc1b6a0c12d4174d252d9085fd5aca8fdb7093ee9eb3820d0d624"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1946-08-15",
+   "acts": []
+  },
+  {
+   "in_force": "1948-12-06",
+   "acts": [
+    "Immigration (Guardianship of Children) Act 1948"
+   ]
+  },
+  {
+   "in_force": "1952-06-16",
+   "acts": [
+    "Immigration (Guardianship of Children) Act 1952"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1984-04-02",
+   "acts": [
+    "Migration (Miscellaneous Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1994-04-12",
+   "acts": [
+    "Immigration (Guardianship of Children) Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-09-19",
+   "acts": [
+    "Migration Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-15",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2012-08-18",
+   "acts": [
+    "Migration Legislation Amendment (Regional Processing and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-12-16",
+   "acts": [
+    "Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

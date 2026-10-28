@@ -1,0 +1,50 @@
+{
+ "title_id": "C1954A00001",
+ "name": "Flags Act 1953",
+ "folder": "flags-act-1953",
+ "compilations": [
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00376",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1954A00001',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1954A00001/2008-07-04/text",
+   "sha256": "af5b4e6ab13aaa94cdbdf4da049d66b4a2011e8e37a9fe6b6b3ab19a41d0e617"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1954-02-15",
+   "acts": []
+  },
+  {
+   "in_force": "1954-04-14",
+   "acts": [
+    "Flags Act 1954"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1982-01-26",
+   "acts": [
+    "Flags Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1998-03-24",
+   "acts": [
+    "Flags Amendment Act 1998"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

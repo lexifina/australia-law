@@ -1,0 +1,80 @@
+{
+ "title_id": "C1946A00020",
+ "name": "Parliamentary Proceedings Broadcasting Act 1946",
+ "folder": "parliamentary-proceedings-broadcasting-act-1946",
+ "compilations": [
+  {
+   "in_force": "2018-03-14",
+   "register_id": "C2018C00083",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1946A00020',start=2018-03-14,retrospectivestart=2018-03-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1946A00020/2018-03-14/text",
+   "sha256": "3fd376b0da2c00f278e5deb0e36f6137d18f5babccf5ca458911367bf1304a29"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1946-07-05",
+   "acts": []
+  },
+  {
+   "in_force": "1960-06-08",
+   "acts": [
+    "Parliamentary Proceedings Broadcasting Act 1960"
+   ]
+  },
+  {
+   "in_force": "1973-08-30",
+   "acts": [
+    "Parliamentary Proceedings Broadcasting Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-08-01",
+   "acts": [
+    "Parliamentary Proceedings Broadcasting Act 1974"
+   ]
+  },
+  {
+   "in_force": "1981-05-01",
+   "acts": [
+    "Parliamentary Joint Sittings Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-07-01",
+   "acts": [
+    "Australian Broadcasting Corporation (Transitional Provisions and Consequential Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1986-01-01",
+   "acts": [
+    "Broadcasting and Television (Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1992-10-05",
+   "acts": [
+    "Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Australian Broadcasting Corporation Amendment Act 1993"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

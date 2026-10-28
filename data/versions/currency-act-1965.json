@@ -1,0 +1,80 @@
+{
+ "title_id": "C1965A00095",
+ "name": "Currency Act 1965",
+ "folder": "currency-act-1965",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01090",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1965A00095',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1965A00095/2016-10-21/text",
+   "sha256": "5704e7a9635125c1c08a395f7c0e21369a059f441574e7885c59b95081068de9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1965-12-10",
+   "acts": []
+  },
+  {
+   "in_force": "1969-04-08",
+   "acts": [
+    "Currency Act 1969"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1980-04-23",
+   "acts": [
+    "Currency Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1981-03-25",
+   "acts": [
+    "Currency Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1992-03-13",
+   "acts": [
+    "Financial Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

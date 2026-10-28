@@ -1,0 +1,57 @@
+{
+ "title_id": "C2004A00318",
+ "name": "Payment Systems (Regulation) Act 1998",
+ "folder": "payment-systems-regulation-act-1998",
+ "compilations": [
+  {
+   "in_force": "2025-12-19",
+   "register_id": "C2025C00677",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00318',start=2025-12-19,retrospectivestart=2025-12-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00318/2025-12-19/text",
+   "sha256": "3769134d88731b3c896b44d707c6a1c5a9b7e60d6bbb49ee028594aa5e52a144"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Payment Systems (Regulation) Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-13",
+   "acts": [
+    "Corporations and Other Legislation Amendment (Trustee Companies and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,56 @@
+{
+ "title_id": "C2004A00312",
+ "name": "Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998",
+ "folder": "authorised-non-operating-holding-companies-supervisory-levy-imposition",
+ "compilations": [
+  {
+   "in_force": "2020-06-20",
+   "register_id": "C2020C00185",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00312',start=2020-06-20,retrospectivestart=2020-06-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00312/2020-06-20/text",
+   "sha256": "ae68b1665389c934f0b6f7035b601b60de91b75158d01cce6aac9eccd76daa3b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Authorised Non-operating Holding Companies Supervisory Levy Imposition Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-02-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

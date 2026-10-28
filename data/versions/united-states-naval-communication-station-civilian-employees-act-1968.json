@@ -1,0 +1,56 @@
+{
+ "title_id": "C1968A00054",
+ "name": "United States Naval Communication Station (Civilian Employees) Act 1968",
+ "folder": "united-states-naval-communication-station-civilian-employees-act-1968",
+ "compilations": [
+  {
+   "in_force": "2009-07-01",
+   "register_id": "C2009C00330",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1968A00054',start=2009-07-01,retrospectivestart=2009-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1968A00054/2009-07-01/text",
+   "sha256": "bc5b0f67d81b46fccbe2cd0ba228facb9751aa5d44af94a9e6fed624eee07d11"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1968-06-24",
+   "acts": []
+  },
+  {
+   "in_force": "1971-05-25",
+   "acts": [
+    "United States Naval Communication Station (Civilian Employees) Act 1971"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "2003-05-12",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

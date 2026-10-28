@@ -1,0 +1,3788 @@
+{
+ "title_id": "C1936A00027",
+ "name": "Income Tax Assessment Act 1936",
+ "folder": "income-tax-assessment-act-1936",
+ "compilations": [
+  {
+   "in_force": "2026-10-01",
+   "register_id": "C2026C00454",
+   "compilation": "193",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1936A00027',start=2026-10-01,retrospectivestart=2026-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1936A00027/2026-10-01/text",
+   "sha256": "9495a0982f0104274397260d6712e71d79b3f8c983e25962371ad2bf958804bc"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1936-06-02",
+   "acts": []
+  },
+  {
+   "in_force": "1936-12-07",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1936"
+   ]
+  },
+  {
+   "in_force": "1937-07-03",
+   "acts": [
+    "Judiciary Act 1937"
+   ]
+  },
+  {
+   "in_force": "1938-12-28",
+   "acts": [
+    "Income Tax Assessment Act 1938"
+   ]
+  },
+  {
+   "in_force": "1939-10-13",
+   "acts": [
+    "Income Tax Assessment Act 1941"
+   ]
+  },
+  {
+   "in_force": "1939-10-24",
+   "acts": [
+    "Income Tax Assessment Act 1939"
+   ]
+  },
+  {
+   "in_force": "1940-06-24",
+   "acts": [
+    "Income Tax Assessment Act 1940"
+   ]
+  },
+  {
+   "in_force": "1940-11-28",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1940"
+   ]
+  },
+  {
+   "in_force": "1940-12-14",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1940"
+   ]
+  },
+  {
+   "in_force": "1941-01-01",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1940"
+   ]
+  },
+  {
+   "in_force": "1941-12-31",
+   "acts": [
+    "Income Tax Assessment Act 1941",
+    "Income Tax Assessment Act (No. 2) 1941"
+   ]
+  },
+  {
+   "in_force": "1942-06-07",
+   "acts": [
+    "Income Tax Assessment Act 1942"
+   ]
+  },
+  {
+   "in_force": "1942-07-28",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1942"
+   ]
+  },
+  {
+   "in_force": "1942-10-06",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1942"
+   ]
+  },
+  {
+   "in_force": "1943-03-20",
+   "acts": [
+    "Income Tax Assessment Act 1943",
+    "Income Tax Assessment Act 1943"
+   ]
+  },
+  {
+   "in_force": "1943-04-01",
+   "acts": [
+    "Income Tax Assessment Act 1943"
+   ]
+  },
+  {
+   "in_force": "1943-07-01",
+   "acts": [
+    "Income Tax Assessment Act 1943",
+    "Income Tax Assessment Act 1943",
+    "Income Tax Assessment Act 1944"
+   ]
+  },
+  {
+   "in_force": "1944-04-03",
+   "acts": [
+    "Income Tax Assessment Act 1944"
+   ]
+  },
+  {
+   "in_force": "1944-07-01",
+   "acts": [
+    "Income Tax Assessment Act 1944"
+   ]
+  },
+  {
+   "in_force": "1944-10-06",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1944"
+   ]
+  },
+  {
+   "in_force": "1945-06-15",
+   "acts": [
+    "Income Tax Assessment Act 1945"
+   ]
+  },
+  {
+   "in_force": "1945-07-01",
+   "acts": [
+    "Income Tax Assessment Act 1945"
+   ]
+  },
+  {
+   "in_force": "1945-10-11",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1945"
+   ]
+  },
+  {
+   "in_force": "1946-04-13",
+   "acts": [
+    "Income Tax Assessment Act 1946"
+   ]
+  },
+  {
+   "in_force": "1947-06-03",
+   "acts": [
+    "Income Tax Assessment Act 1947"
+   ]
+  },
+  {
+   "in_force": "1947-12-04",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1947"
+   ]
+  },
+  {
+   "in_force": "1948-12-22",
+   "acts": [
+    "Income Tax Assessment Act 1948"
+   ]
+  },
+  {
+   "in_force": "1949-11-25",
+   "acts": [
+    "Income Tax Assessment Act 1949"
+   ]
+  },
+  {
+   "in_force": "1950-12-14",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1950",
+    "Income Tax and Social Services Contribution Assessment Act 1950"
+   ]
+  },
+  {
+   "in_force": "1951-12-07",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1951"
+   ]
+  },
+  {
+   "in_force": "1952-03-13",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1952"
+   ]
+  },
+  {
+   "in_force": "1952-07-14",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 2) 1952"
+   ]
+  },
+  {
+   "in_force": "1952-11-18",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 3) 1952"
+   ]
+  },
+  {
+   "in_force": "1953-04-01",
+   "acts": [
+    "Taxation Administration Act 1953"
+   ]
+  },
+  {
+   "in_force": "1953-04-15",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1953"
+   ]
+  },
+  {
+   "in_force": "1953-10-26",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 2) 1953"
+   ]
+  },
+  {
+   "in_force": "1953-12-11",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 3) 1953"
+   ]
+  },
+  {
+   "in_force": "1954-11-06",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1954"
+   ]
+  },
+  {
+   "in_force": "1955-06-10",
+   "acts": [
+    "Salaries Adjustment Act 1955"
+   ]
+  },
+  {
+   "in_force": "1955-11-04",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1955"
+   ]
+  },
+  {
+   "in_force": "1955-11-23",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1955",
+    "Income Tax and Social Services Contribution Assessment Act 1955"
+   ]
+  },
+  {
+   "in_force": "1956-06-20",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1956"
+   ]
+  },
+  {
+   "in_force": "1956-07-01",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 2) 1956"
+   ]
+  },
+  {
+   "in_force": "1956-11-15",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 3) 1956"
+   ]
+  },
+  {
+   "in_force": "1957-07-01",
+   "acts": [
+    "Salaries (Statutory Offices) Adjustment Act 1957"
+   ]
+  },
+  {
+   "in_force": "1957-11-28",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1957"
+   ]
+  },
+  {
+   "in_force": "1958-10-01",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1958"
+   ]
+  },
+  {
+   "in_force": "1959-11-20",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 2) 1959"
+   ]
+  },
+  {
+   "in_force": "1959-12-02",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 3) 1959"
+   ]
+  },
+  {
+   "in_force": "1960-01-14",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1959"
+   ]
+  },
+  {
+   "in_force": "1960-05-17",
+   "acts": [
+    "Salaries (Statutory Offices) Adjustment Act 1960"
+   ]
+  },
+  {
+   "in_force": "1960-06-17",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1960"
+   ]
+  },
+  {
+   "in_force": "1960-11-25",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 2) 1960"
+   ]
+  },
+  {
+   "in_force": "1960-12-16",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 3) 1960"
+   ]
+  },
+  {
+   "in_force": "1961-06-12",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1961"
+   ]
+  },
+  {
+   "in_force": "1961-06-16",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 2) 1961"
+   ]
+  },
+  {
+   "in_force": "1961-10-30",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 3) 1961"
+   ]
+  },
+  {
+   "in_force": "1962-05-28",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1962"
+   ]
+  },
+  {
+   "in_force": "1962-07-01",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1963"
+   ]
+  },
+  {
+   "in_force": "1962-07-13",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1963"
+   ]
+  },
+  {
+   "in_force": "1963-01-01",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1963"
+   ]
+  },
+  {
+   "in_force": "1963-05-28",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 2) 1962"
+   ]
+  },
+  {
+   "in_force": "1963-05-31",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1963"
+   ]
+  },
+  {
+   "in_force": "1964-05-28",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1964"
+   ]
+  },
+  {
+   "in_force": "1964-10-20",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 2) 1964"
+   ]
+  },
+  {
+   "in_force": "1964-11-23",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act (No. 3) 1964",
+    "Salaries (Statutory Offices) Adjustment Act (No. 2) 1964"
+   ]
+  },
+  {
+   "in_force": "1965-06-02",
+   "acts": [
+    "Income Tax and Social Services Contribution Assessment Act 1965"
+   ]
+  },
+  {
+   "in_force": "1965-12-14",
+   "acts": [
+    "Income Tax Assessment Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-02-14",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1965"
+   ]
+  },
+  {
+   "in_force": "1966-10-26",
+   "acts": [
+    "Income Tax Assessment Act 1966"
+   ]
+  },
+  {
+   "in_force": "1966-10-29",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1966"
+   ]
+  },
+  {
+   "in_force": "1967-05-12",
+   "acts": [
+    "Income Tax Assessment Act 1967"
+   ]
+  },
+  {
+   "in_force": "1967-05-25",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1967"
+   ]
+  },
+  {
+   "in_force": "1967-11-06",
+   "acts": [
+    "Income Tax Assessment Act (No. 3) 1967"
+   ]
+  },
+  {
+   "in_force": "1967-11-08",
+   "acts": [
+    "Income Tax Assessment Act (No. 4) 1967"
+   ]
+  },
+  {
+   "in_force": "1968-03-04",
+   "acts": [
+    "Income Tax Assessment Act 1966"
+   ]
+  },
+  {
+   "in_force": "1968-05-08",
+   "acts": [
+    "Income Tax Assessment Act 1968"
+   ]
+  },
+  {
+   "in_force": "1968-06-25",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1968"
+   ]
+  },
+  {
+   "in_force": "1968-10-25",
+   "acts": [
+    "Income Tax Assessment Act (No. 3) 1968"
+   ]
+  },
+  {
+   "in_force": "1968-11-21",
+   "acts": [
+    "Income Tax Assessment Act (No. 4) 1968"
+   ]
+  },
+  {
+   "in_force": "1968-12-09",
+   "acts": [
+    "Income Tax Assessment Act (No. 5) 1968"
+   ]
+  },
+  {
+   "in_force": "1969-06-04",
+   "acts": [
+    "Income Tax Assessment Act 1969"
+   ]
+  },
+  {
+   "in_force": "1969-09-27",
+   "acts": [
+    "Income Tax Assessment Act (No. 3) 1969",
+    "Income Tax Assessment Act (No. 2) 1969"
+   ]
+  },
+  {
+   "in_force": "1970-10-27",
+   "acts": [
+    "Income Tax Assessment Act 1970"
+   ]
+  },
+  {
+   "in_force": "1971-03-19",
+   "acts": [
+    "Income Tax Assessment Act 1971"
+   ]
+  },
+  {
+   "in_force": "1971-05-25",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1971"
+   ]
+  },
+  {
+   "in_force": "1971-11-12",
+   "acts": [
+    "Income Tax Assessment Act (No. 3) 1971"
+   ]
+  },
+  {
+   "in_force": "1972-03-24",
+   "acts": [
+    "Income Tax Assessment Act 1972"
+   ]
+  },
+  {
+   "in_force": "1972-06-07",
+   "acts": [
+    "Income Tax Assessment Act (No. 3) 1972"
+   ]
+  },
+  {
+   "in_force": "1972-08-31",
+   "acts": [
+    "Income Tax Assessment Act (No. 4) 1972"
+   ]
+  },
+  {
+   "in_force": "1972-10-04",
+   "acts": [
+    "Income Tax Assessment Act (No. 5) 1972"
+   ]
+  },
+  {
+   "in_force": "1973-06-14",
+   "acts": [
+    "Income Tax Assessment Act 1973",
+    "Income Tax Assessment Act (No. 2) 1973"
+   ]
+  },
+  {
+   "in_force": "1973-06-18",
+   "acts": [
+    "Income Tax Assessment Act (No. 3) 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-11",
+   "acts": [
+    "Income Tax Assessment Act (No. 5) 1973",
+    "Income Tax Assessment Act (No. 4) 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-08-01",
+   "acts": [
+    "Income Tax Assessment Act 1974"
+   ]
+  },
+  {
+   "in_force": "1974-12-06",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1974"
+   ]
+  },
+  {
+   "in_force": "1975-06-20",
+   "acts": [
+    "Income Tax Assessment Act 1975"
+   ]
+  },
+  {
+   "in_force": "1975-11-11",
+   "acts": [
+    "Income Tax Assessment Act (No. 2) 1975"
+   ]
+  },
+  {
+   "in_force": "1976-06-04",
+   "acts": [
+    "Income Tax Assessment Amendment Act 1976",
+    "Health Insurance Levy Assessment Act 1976",
+    "Income Tax Assessment Amendment Act (No. 2) 1976"
+   ]
+  },
+  {
+   "in_force": "1976-07-01",
+   "acts": [
+    "Income Tax Assessment Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1976-09-29",
+   "acts": [
+    "Health Insurance Levy Assessment Act (No. 2) 1976"
+   ]
+  },
+  {
+   "in_force": "1976-12-06",
+   "acts": [
+    "Income Tax Laws Amendment (Royalties) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-12-20",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 3) 1976"
+   ]
+  },
+  {
+   "in_force": "1977-02-01",
+   "acts": [
+    "Income Tax Assessment Amendment (Jurisdiction of Courts) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-06-16",
+   "acts": [
+    "Income Tax Assessment Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1977-11-10",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 2) 1977",
+    "Income Tax Assessment Amendment Act (No. 3) 1977"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-06-22",
+   "acts": [
+    "Income Tax Assessment Amendment Act 1978",
+    "Income Tax (Arrangements with the States) Act 1978",
+    "Health Insurance Levy Assessment Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-10-13",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 2) 1978"
+   ]
+  },
+  {
+   "in_force": "1978-11-28",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 3) 1978",
+    "Income Tax Assessment Amendment Act (No. 4) 1978"
+   ]
+  },
+  {
+   "in_force": "1979-03-13",
+   "acts": [
+    "Income Tax Assessment Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-06-04",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 2) 1979"
+   ]
+  },
+  {
+   "in_force": "1979-06-14",
+   "acts": [
+    "Income Tax (Rates and Assessment) Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-06-15",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 3) 1979"
+   ]
+  },
+  {
+   "in_force": "1979-07-21",
+   "acts": [
+    "Income Tax Laws Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-11-28",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 4) 1979",
+    "Income Tax Laws Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-11-29",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 5) 1979"
+   ]
+  },
+  {
+   "in_force": "1980-04-30",
+   "acts": [
+    "Income Tax Laws Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-05-01",
+   "acts": [
+    "Income Tax Assessment Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-05-23",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 3) 1980",
+    "Income Tax Assessment Amendment Act (No. 2) 1980"
+   ]
+  },
+  {
+   "in_force": "1980-09-17",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 4) 1980"
+   ]
+  },
+  {
+   "in_force": "1980-09-19",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 5) 1980",
+    "Taxation Debts (Abolition of Crown Priority) Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-12-10",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 6) 1980"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-06-24",
+   "acts": [
+    "Income Tax Laws Amendment Act 1981",
+    "Income Tax (Assessment and Rates) Amendment Act 1981",
+    "Income Tax Laws Amendment Act (No. 2) 1981",
+    "Income Tax Assessment Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-10-26",
+   "acts": [
+    "Income Tax Laws Amendment Act (No. 3) 1981"
+   ]
+  },
+  {
+   "in_force": "1981-12-02",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 2) 1981"
+   ]
+  },
+  {
+   "in_force": "1982-05-17",
+   "acts": [
+    "Income Tax Assessment Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1982-06-02",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 3) 1982",
+    "Income Tax Assessment Amendment Act (No. 3) 1982",
+    "Income Tax Assessment Amendment Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1982-07-01",
+   "acts": [
+    "Companies (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-09-13",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 4) 1982"
+   ]
+  },
+  {
+   "in_force": "1982-09-22",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1982-10-30",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 5) 1982"
+   ]
+  },
+  {
+   "in_force": "1982-12-13",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 6) 1982",
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-02-14",
+   "acts": [
+    "Income Tax Assessment Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-06-14",
+   "acts": [
+    "Income Tax Assessment Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-06-19",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-09-21",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 3) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-09-30",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-10-01",
+   "acts": [
+    "Income Tax Laws Amendment (Medicare Levy) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-11-23",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 4) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-12-22",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 4) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-02-01",
+   "acts": [
+    "Health Legislation Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-04-12",
+   "acts": [
+    "Income Tax Assessment Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-06-25",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 3) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-06-29",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "National Crime Authority (Consequential Amendments) Act 1984",
+    "Public Service Reform Act 1984",
+    "Income Tax Assessment Amendment Act (No. 4) 1984",
+    "National Crime Authority (Miscellaneous Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1984-10-17",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 5) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-19",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 4) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-11-23",
+   "acts": [
+    "Income Tax Assessment Amendment (Income Equalization Deposits) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-12-13",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-12-14",
+   "acts": [
+    "Taxation Laws Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-05-30",
+   "acts": [
+    "Sales Tax Laws Amendment Act 1985",
+    "Taxation Laws Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-06-06",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-10-16",
+   "acts": [
+    "National Crime Authority (Miscellaneous Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-10-28",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-11-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-11-18",
+   "acts": [
+    "Income Tax Assessment Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Income Tax Assessment Amendment Act (No. 2) 1985",
+    "Taxation Laws Amendment Act (No. 4) 1985",
+    "Taxation Laws Amendment Act (No. 3) 1985",
+    "Taxation Laws (Technical Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1986",
+    "Income Tax Assessment Amendment (Capital Gains) Act 1986",
+    "Taxation Laws Amendment Act (No. 4) 1985",
+    "Taxation Laws Amendment Act 1988",
+    "Fringe Benefits Tax (Miscellaneous Provisions) Act 1986",
+    "Taxation Laws Amendment Act 1986",
+    "Taxation Laws Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1986-06-25",
+   "acts": [
+    "Income Tax Assessment Amendment (Research and Development) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-07-01",
+   "acts": [
+    "Taxation Boards of Review (Transfer of Jurisdiction) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-07-22",
+   "acts": [
+    "Taxation Laws Amendment (Foreign Tax Credits) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-10-22",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1986-11-04",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1986",
+    "Taxation Laws (Miscellaneous Provisions) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-12-22",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1987-01-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-06-05",
+   "acts": [
+    "Taxation Laws Amendment Act 1987",
+    "Taxation Laws Amendment Act (No. 2) 1987",
+    "Taxation Laws Amendment Act (No. 2) 1987",
+    "Taxation Laws Amendment (Company Distributions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-09-01",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-11-13",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-16",
+   "acts": [
+    "Crimes Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act 1989",
+    "Taxation Laws Amendment (Superannuation) Act 1989",
+    "Taxation Laws Amendment Act (No. 4) 1987",
+    "Taxation Laws Amendment (Fringe Benefits and Substantiation) Act 1987",
+    "Taxation Laws Amendment Act 1994",
+    "Taxation Laws Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1987-12-21",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-26",
+   "acts": [
+    "Management and Investment Companies Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-01-15",
+   "acts": [
+    "Petroleum Resource Rent Tax (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-04-26",
+   "acts": [
+    "Taxation Laws Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-06-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1988",
+    "Employment, Education and Training Act 1988",
+    "Research and Development Legislation Amendment Act 1988",
+    "Family Court of Australia (Additional Jurisdiction and Exercise of Powers) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-11-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1988-11-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-01",
+   "acts": [
+    "Safety, Rehabilitation and Compensation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "ANL (Conversion into Public Company) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-26",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 1988"
+   ]
+  },
+  {
+   "in_force": "1989-01-01",
+   "acts": [
+    "Taxation Laws Amendment (Tax File Numbers) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-01-06",
+   "acts": [
+    "Higher Education Funding Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-16",
+   "acts": [
+    "Taxation Laws Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-06-21",
+   "acts": [
+    "Income Tax (Arrangements with the States) Repeal Act 1989",
+    "Taxation Laws Amendment (Rates and Rebates) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1989",
+    "Taxation Laws Amendment Act (No. 3) 1989",
+    "Taxation Laws Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1989-07-01",
+   "acts": [
+    "Income Equalization Deposits Laws Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-11-13",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act (No. 3) 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-04",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1990"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-28",
+   "acts": [
+    "Banking Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-17",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 1989",
+    "Taxation Laws Amendment Act 1994",
+    "Taxation Laws Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1990-06-03",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1990-06-07",
+   "acts": [
+    "Taxation Laws Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-06-16",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1990",
+    "Taxation Laws Amendment Act (No. 3) 1990",
+    "Taxation Laws Amendment Act (No. 3) 1990",
+    "Income Tax Assessment Amendment Act 1990",
+    "Taxation Laws Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Occupational Superannuation (Reasonable Benefit Limits) Amendment Act 1990",
+    "Training Guarantee (Administration) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-08-21",
+   "acts": [
+    "Taxation Laws Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1990-11-06",
+   "acts": [
+    "Taxation Laws Amendment (Rates and Provisional Tax) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-12-28",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 1990",
+    "Social Security and Veterans' Affairs Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-01",
+   "acts": [
+    "Social Security Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-08",
+   "acts": [
+    "Taxation Laws Amendment Act 1991",
+    "Taxation Laws Amendment (Foreign Income) Act 1990",
+    "Taxation Laws Amendment Act (No. 4) 1990",
+    "Taxation Laws Amendment Act (No. 2) 1991",
+    "Taxation Laws Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1991-01-22",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-02-18",
+   "acts": [
+    "Petroleum (Australia-Indonesia Zone of Cooperation) (Consequential Provisions) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-24",
+   "acts": [
+    "Taxation Laws Amendment Act 1991",
+    "Occupational Superannuation Laws Amendment Act 1991",
+    "Taxation Laws Amendment Act (No. 2) 1991",
+    "Taxation Laws Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-04-25",
+   "acts": [
+    "Taxation Laws Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-06-27",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Taxation Laws Amendment (Rates and Provisional Tax) Act 1990",
+    "Taxation Laws Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-08-20",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-08-21",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-10-20",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-12-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991",
+    "Veterans' Affairs Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-25",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-01-06",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991",
+    "Life Insurance Policy Holders' Protection Levies Collection Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-01-16",
+   "acts": [
+    "Political Broadcasts and Political Disclosures Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-03-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-05-25",
+   "acts": [
+    "Taxation Laws Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 2003",
+    "Taxation Laws Amendment (Self Assessment) Act 1992",
+    "Social Security Legislation Amendment Act 1992",
+    "Taxation Laws Amendment Act (No. 3) 1992",
+    "Taxation Laws Amendment Act (No. 2) 1992",
+    "Taxation Laws Amendment Act (No. 2) 1994",
+    "Taxation Laws Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Superannuation Guarantee (Consequential Amendments) Act 1992",
+    "Taxation Laws Amendment Act (No. 3) 1992",
+    "Social Security Legislation Amendment Act 1992",
+    "Veterans' Affairs Legislation Amendment Act 1992",
+    "Taxation Laws Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-08-19",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 6) 1992",
+    "Income Equalisation Deposits Laws Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-10-27",
+   "acts": [
+    "Sales Tax Amendment (Transitional) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-11-19",
+   "acts": [
+    "Student Assistance Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-21",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1992",
+    "Taxation Laws Amendment Act (No. 4) 1992",
+    "Taxation Laws Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1992-12-22",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1994",
+    "Taxation Laws Amendment Act (No. 5) 1992",
+    "Taxation Laws Amendment Act (No. 6) 1992",
+    "Taxation Laws Amendment (Car Parking) Act 1992",
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "1993-01-01",
+   "acts": [
+    "Social Security (Family Payment) Amendment Act 1992",
+    "Taxation Laws Amendment Act (No. 2) 1994",
+    "Income Tax Assessment Amendment (Foreign Investment) Act 1992",
+    "Taxation Laws Amendment Act (No. 6) 1992",
+    "Taxation Laws Amendment Act (No. 3) 1994",
+    "Taxation Laws Amendment Act (No. 1) 1997",
+    "Taxation Laws Amendment Act (No. 2) 1993",
+    "Taxation Laws (Technical Amendments) Act 1998",
+    "Taxation Laws Amendment Act (No. 2) 1996"
+   ]
+  },
+  {
+   "in_force": "1993-05-27",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-06-09",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1994",
+    "Veterans' Affairs Legislation Amendment Act 1993",
+    "Taxation Laws Amendment Act 1993",
+    "Taxation Laws Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1993-06-16",
+   "acts": [
+    "Insolvency (Tax Priorities) Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 1992",
+    "Taxation Laws Amendment Act 1994",
+    "Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-10-27",
+   "acts": [
+    "Taxation (Deficit Reduction) Act (No. 2) 1993",
+    "Taxation (Deficit Reduction) Act (No. 1) 1993",
+    "Taxation (Deficit Reduction) Act (No. 3) 1993"
+   ]
+  },
+  {
+   "in_force": "1993-12-01",
+   "acts": [
+    "Superannuation Industry (Supervision) Consequential Amendments Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-12-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-01",
+   "acts": [
+    "Higher Education Funding Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-03-20",
+   "acts": [
+    "Taxation Laws Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-04-01",
+   "acts": [
+    "Taxation Laws Amendment (Fringe Benefits Tax Measures) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-04-07",
+   "acts": [
+    "Taxation Laws Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-06-23",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1995",
+    "Taxation Laws Amendment (Superannuation) Act 1993",
+    "Taxation Laws Amendment (Superannuation) Act 1993",
+    "Taxation Laws Amendment Act 1994",
+    "Taxation Laws Amendment (Private Health Insurance Incentives) Act 1997",
+    "Superannuation Industry (Supervision) Consequential Amendments Act 1993",
+    "Taxation Laws Amendment (Superannuation) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-09-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1994-09-20",
+   "acts": [
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-10-18",
+   "acts": [
+    "Drought Relief Payment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-11-23",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1994-11-28",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-16",
+   "acts": [
+    "Taxation Laws Amendment (Infrastructure Borrowings) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-19",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1995",
+    "Taxation Laws Amendment Act (No. 4) 1994",
+    "Taxation Laws Amendment Act (No. 4) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-28",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1994"
+   ]
+  },
+  {
+   "in_force": "1995-01-01",
+   "acts": [
+    "Student Assistance (Youth Training Allowance—Transitional Provisions and Consequential Amendments) Act 1994",
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-03-29",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-04-07",
+   "acts": [
+    "Tax Law Improvement (Substantiation) Act 1995",
+    "Taxation Laws Amendment (Drought Relief Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-05-09",
+   "acts": [
+    "Taxation Laws Amendment (Budget Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Occupational Superannuation (Reasonable Benefit Limits) Amendment Act 1990",
+    "Life Insurance (Consequential Amendments and Repeals) Act 1995",
+    "Superannuation Laws Amendment (Small Accounts and Other Measures) Act 1995",
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994",
+    "Taxation (Deficit Reduction) Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1995-10-25",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-12",
+   "acts": [
+    "Taxation Laws Amendment (FBT Cost of Compliance) Act 1995",
+    "Veterans' Affairs Legislation Amendment (1995-96 Budget Measures) Act (No. 2) 1995",
+    "Taxation Laws (Technical Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1995",
+    "Taxation Laws Amendment Act (No. 3) 1995",
+    "Taxation Laws Amendment Act (No. 4) 1995",
+    "Taxation Laws Amendment Act (No. 4) 1995",
+    "Law and Justice Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-01-01",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (1995-96 Budget Measures) Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-02-01",
+   "acts": [
+    "Social Security Legislation Amendment (Family Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-03-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-06-27",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1997",
+    "Taxation Laws Amendment Act (No. 2) 1996"
+   ]
+  },
+  {
+   "in_force": "1996-07-01",
+   "acts": [
+    "Taxation (Deficit Reduction) Act (No. 2) 1993",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995",
+    "Income Tax Assessment Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-07-09",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1996"
+   ]
+  },
+  {
+   "in_force": "1996-07-23",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1996"
+   ]
+  },
+  {
+   "in_force": "1996-09-20",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-09",
+   "acts": [
+    "Taxation Laws Amendment (International Tax Agreements) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-12-18",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1996"
+   ]
+  },
+  {
+   "in_force": "1996-12-19",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1997",
+    "Taxation Laws Amendment Act (No. 3) 1997",
+    "Industry Research and Development Amendment Act 1996",
+    "Taxation Laws Amendment Act (No. 3) 1996",
+    "Taxation Laws Amendment Act (No. 3) 1996"
+   ]
+  },
+  {
+   "in_force": "1997-01-01",
+   "acts": [
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Family (Tax Initiative) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-01-20",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-02-16",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1996"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-03-20",
+   "acts": [
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-04-30",
+   "acts": [
+    "Taxation Laws Amendment (Private Health Insurance Incentives) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-02",
+   "acts": [
+    "Superannuation (Unclaimed Money and Lost Members) Consequential and Transitional Act 1999",
+    "Retirement Savings Accounts (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-06-05",
+   "acts": [
+    "Superannuation Contributions Tax (Consequential Amendments) Act 1997",
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "1997-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1997",
+    "Taxation Laws Amendment Act (No. 2) 1997",
+    "Taxation Laws Amendment Act (No. 2) 1997",
+    "Taxation Laws Amendment (Infrastructure Borrowings) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Assistance for Carers Legislation Amendment Act 1999",
+    "Taxation (Deficit Reduction) Act (No. 2) 1993",
+    "Income Tax (Consequential Amendments) Act 1997",
+    "Commonwealth Services Delivery Agency (Consequential Amendments) Act 1997",
+    "Taxation Laws Amendment (Private Health Insurance Incentives) Act 1997",
+    "Taxation Laws Amendment (Private Health Insurance Incentives) Act 1997",
+    "Aged Care (Consequential Provisions) Act 1997",
+    "Taxation Laws Amendment Act (No. 3) 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Income Tax Assessment Amendment Act 1996",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-07-08",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1997",
+    "Taxation Laws Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-09-19",
+   "acts": [
+    "Franchise Fees Windfall Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-10-14",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1997",
+    "Taxation Laws Amendment Act (No. 3) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-10-17",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-10-24",
+   "acts": [
+    "Taxation Laws Amendment (Foreign Income Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-21",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1997",
+    "Taxation Laws Amendment Act (No. 4) 1997",
+    "Taxation Laws Amendment Act (No. 4) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-25",
+   "acts": [
+    "Farm Household Support Amendment (Restart and Exceptional Circumstances) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-07",
+   "acts": [
+    "Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-08",
+   "acts": [
+    "Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997",
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-03-20",
+   "acts": [
+    "Social Security Legislation Amendment (Parenting and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-04-16",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1998",
+    "Taxation Laws Amendment Act (No. 1) 1998",
+    "Taxation Laws Amendment (Trust Loss and Other Deductions) Act 1998",
+    "Taxation Laws Amendment Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "1998-04-17",
+   "acts": [
+    "Commonwealth Places (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-06-04",
+   "acts": [
+    "Taxation Laws (Technical Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-06-22",
+   "acts": [
+    "Tax Law Improvement Act (No. 1) 1998",
+    "Tax Law Improvement Act (No. 1) 1998",
+    "Tax Law Improvement Act (No. 1) 1998",
+    "Tax Law Improvement Act (No. 1) 1998",
+    "Tax Law Improvement Act (No. 1) 1998",
+    "Tax Law Improvement Act (No. 1) 1998",
+    "Tax Law Improvement Act (No. 1) 1998",
+    "Tax Law Improvement Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1998-06-23",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1998",
+    "Taxation Laws Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Taxation Laws Amendment (Company Law Review) Act 1998",
+    "Taxation Laws Amendment (Company Law Review) Act 1998",
+    "Financial Sector Reform (Consequential Amendments) Act 1998",
+    "Taxation Laws Amendment Act (No. 7) 1999",
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Taxation Laws Amendment Act (No. 2) 2000",
+    "Taxation Laws Amendment Act (No. 2) 2002",
+    "Taxation Laws Amendment Act (No. 2) 2002",
+    "Taxation Laws Amendment Act (No. 3) 2003",
+    "Taxation Laws (Technical Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-14",
+   "acts": [
+    "Taxation Laws Amendment (Landcare and Water Facility Tax Offset) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-30",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1998-12-07",
+   "acts": [
+    "Taxation Laws Amendment (Film Licensed Investment Company) Act 1998",
+    "Taxation Laws Amendment Act (No. 3) 2000",
+    "Taxation Laws Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "1998-12-21",
+   "acts": [
+    "Taxation Laws Amendment (Private Health Insurance) Act 1998",
+    "Taxation Laws Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "1999-01-02",
+   "acts": [
+    "Taxation Laws Amendment (Farm Management Deposits) Act 1998",
+    "Taxation Laws Amendment (Earlier Access to Farm Management Deposits) Act 2002"
+   ]
+  },
+  {
+   "in_force": "1999-02-22",
+   "acts": [
+    "New Business Tax System (Integrity and Other Measures) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-03-31",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-04-09",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-04-19",
+   "acts": [
+    "A New Tax System (Fringe Benefits Reporting) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-05-16",
+   "acts": [
+    "A New Tax System (Fringe Benefits Reporting) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-05-31",
+   "acts": [
+    "Taxation Laws Amendment (Software Depreciation) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1999",
+    "Taxation Laws Amendment Act (No. 3) 1999",
+    "Taxation Laws Amendment Act (No. 3) 1999",
+    "Taxation Laws Amendment Act (No. 3) 1999",
+    "Taxation Laws Amendment Act (No. 3) 1999",
+    "Taxation Laws Amendment Act (No. 3) 1999",
+    "Taxation Laws Amendment Act (No. 3) 1999",
+    "Taxation Laws Amendment Act (No. 3) 1999",
+    "Taxation Laws Amendment Act (No. 3) 1999",
+    "Assistance for Carers Legislation Amendment Act 1999",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999",
+    "Taxation Laws Amendment Act (No. 2) 2000"
+   ]
+  },
+  {
+   "in_force": "1999-07-05",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 6) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-08",
+   "acts": [
+    "A New Tax System (Closely Held Trusts) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-09",
+   "acts": [
+    "A New Tax System (Personal Income Tax Cuts) Act 1999",
+    "A New Tax System (Income Tax Laws Amendment) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-16",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1999",
+    "Superannuation Legislation Amendment Act (No. 2) 1999",
+    "Taxation Laws Amendment (CPI Indexation) Act 1999",
+    "Taxation Laws Amendment (Demutualisation of Non-insurance Mutual Entities) Act 1999",
+    "Taxation Laws Amendment Act (No. 2) 2000",
+    "Taxation Laws Amendment Act (No. 2) 2000",
+    "Taxation Laws Amendment Act (No. 2) 2000",
+    "Taxation Laws Amendment Act (No. 2) 2000",
+    "Taxation Laws Amendment Act (No. 2) 2000",
+    "Taxation Laws Amendment Act (No. 2) 2003",
+    "Taxation Laws Amendment Act (No. 1) 2004",
+    "Taxation Laws Amendment Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Statute Stocktake Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-08",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 3) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    "Superannuation (Unclaimed Money and Lost Members) Consequential and Transitional Act 1999",
+    "Superannuation (Unclaimed Money and Lost Members) Consequential and Transitional Act 1999",
+    "Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-26",
+   "acts": [
+    "Timor Gap Treaty (Transitional Arrangements) Act 2000"
+   ]
+  },
+  {
+   "in_force": "1999-11-11",
+   "acts": [
+    "New Business Tax System (Miscellaneous) Act (No. 2) 2000"
+   ]
+  },
+  {
+   "in_force": "1999-11-17",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "New Business Tax System (Integrity and Other Measures) Act 1999",
+    "New Business Tax System (Integrity and Other Measures) Act 1999",
+    "New Business Tax System (Capital Allowances) Act 1999",
+    "New Business Tax System (Miscellaneous) Act (No. 1) 2000",
+    "New Business Tax System (Capital Gains Tax) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "A New Tax System (Pay As You Go) Act 1999",
+    "A New Tax System (Tax Administration) Act (No. 1) 2000",
+    "A New Tax System (Tax Administration) Act 1999",
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-05-03",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-05-12",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-05-31",
+   "acts": [
+    "Radiocommunications Legislation Amendment Act 2000",
+    "Taxation Laws Amendment Act (No. 2) 2000",
+    "Taxation Laws Amendment Act (No. 2) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-06-28",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 6) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-06-30",
+   "acts": [
+    "New Business Tax System (Alienation of Personal Services Income) Act 2000",
+    "New Business Tax System (Miscellaneous) Act (No. 2) 2000",
+    "New Business Tax System (Miscellaneous) Act (No. 2) 2000",
+    "New Business Tax System (Integrity Measures) Act 2000",
+    "Tax Laws Amendment (2004 Measures No. 2) Act 2004",
+    "Taxation Laws Amendment Act (No. 1) 2004",
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999",
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999",
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999",
+    "A New Tax System (Tax Administration) Act (No. 1) 2000",
+    "A New Tax System (Tax Administration) Act (No. 1) 2000",
+    "A New Tax System (Tax Administration) Act (No. 1) 2000",
+    "A New Tax System (Family Assistance and Related Measures) Act 2000",
+    "A New Tax System (Family Assistance and Related Measures) Act 2000",
+    "New Business Tax System (Alienation of Personal Services Income) Act 2000",
+    "Indirect Tax Legislation Amendment Act 2000",
+    "A New Tax System (Tax Administration) Act (No. 2) 2000",
+    "New Business Tax System (Miscellaneous) Act (No. 1) 2000",
+    "New Business Tax System (Miscellaneous) Act (No. 2) 2000",
+    "New Business Tax System (Miscellaneous) Act (No. 2) 2000",
+    "New Business Tax System (Miscellaneous) Act (No. 2) 2000",
+    "Social Security and Veterans' Entitlements Legislation Amendment (Miscellaneous Matters) Act 2000",
+    "Taxation Laws Amendment Act (No. 2) 2001",
+    "Taxation Laws Amendment Act (No. 5) 2001",
+    "Taxation Laws Amendment Act (No. 2) 2002",
+    "Taxation Laws Amendment Act (No. 2) 2004",
+    "Tax Laws Amendment (2004 Measures No. 2) Act 2004",
+    "Taxation Laws Amendment Act (No. 1) 2004",
+    "A New Tax System (Tax Administration) Act 1999",
+    "A New Tax System (Tax Administration) Act 1999",
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-06",
+   "acts": [
+    "Youth Allowance Consolidation Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-09-05",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-11-13",
+   "acts": [
+    "Social Security and Veterans' Entitlements Legislation Amendment (Private Trusts and Private Companies—Integrity of Means Testing) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-12-18",
+   "acts": [
+    "Farm Household Support Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 8) 2000",
+    "Taxation Laws Amendment Act (No. 7) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-01-29",
+   "acts": [
+    "Taxation Laws Amendment (Research and Development) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-25",
+   "acts": [
+    "Taxation Laws Amendment (Changes for Senior Australians) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-06-28",
+   "acts": [
+    "Governor-General Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 2001",
+    "Taxation Laws Amendment Act (No. 3) 2001",
+    "Child Support Legislation Amendment Act 2001",
+    "New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001",
+    "New Business Tax System (Simplified Tax System) Act 2001",
+    "Taxation Laws Amendment (Research and Development) Act 2001",
+    "Taxation Laws Amendment Act (No. 5) 2002"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "New Business Tax System (Miscellaneous) Act (No. 1) 2000",
+    "New Business Tax System (Thin Capitalisation) Act 2001",
+    "New Business Tax System (Thin Capitalisation) Act 2001",
+    "New Business Tax System (Debt and Equity) Act 2001",
+    "Taxation Laws Amendment Act (No. 2) 2002",
+    "Tax Laws Amendment (2005 Measures No. 5) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-18",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation Contributions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-08-29",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 2001",
+    "Taxation Laws Amendment Act (No. 6) 2001",
+    "Taxation Laws Amendment (Research and Development) Act 2001",
+    "Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-12-15",
+   "acts": [
+    "Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001"
+   ]
+  },
+  {
+   "in_force": "2002-03-11",
+   "acts": [
+    "Financial Services Reform (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-04-04",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act (No. 1) 2002",
+    "Taxation Laws Amendment Act (No. 1) 2002",
+    "Taxation Laws Amendment (Film Incentives) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-05-20",
+   "acts": [
+    "Petroleum (Timor Sea Treaty) (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2002-05-30",
+   "acts": [
+    "Taxation Laws Amendment (Baby Bonus) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-06-26",
+   "acts": [
+    "Taxation Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-06-29",
+   "acts": [
+    "New Business Tax System (Imputation) Act 2002",
+    "Taxation Laws Amendment (Superannuation) Act (No. 2) 2002",
+    "Taxation Laws Amendment Act (No. 4) 2002",
+    "Taxation Laws Amendment Act (No. 4) 2003"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001",
+    "Taxation Laws Amendment (Earlier Access to Farm Management Deposits) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-07-03",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 2002",
+    "Taxation Laws Amendment Act (No. 3) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-09-22",
+   "acts": [
+    "New Business Tax System (Integrity and Other Measures) Act 1999",
+    "New Business Tax System (Simplified Tax System) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-10-24",
+   "acts": [
+    "New Business Tax System (Consolidation) Act (No. 1) 2002",
+    "New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Act 2002",
+    "New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Act 2002",
+    "New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002",
+    "New Business Tax System (Consolidation and Other Measures) Act 2003",
+    "New Business Tax System (Consolidation and Other Measures) Act 2003",
+    "New Business Tax System (Consolidation and Other Measures) Act 2003",
+    "New Business Tax System (Consolidation and Other Measures) Act 2003",
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2002-11-10",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-02",
+   "acts": [
+    "New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002",
+    "Taxation Laws Amendment Act (No. 5) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-19",
+   "acts": [
+    "Taxation Laws Amendment (Venture Capital) Act 2002",
+    "Taxation Laws Amendment (Structured Settlements and Structured Orders) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-28",
+   "acts": [
+    "Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-04-02",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-04-11",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2003-05-12",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-06-24",
+   "acts": [
+    "Taxation Laws Amendment (Personal Income Tax Reduction) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 2003",
+    "Taxation Laws Amendment Act (No. 4) 2003",
+    "Taxation Laws Amendment Act (No. 4) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act (No. 2) 2002",
+    "Energy Grants (Credits) Scheme (Consequential Amendments) Act 2003",
+    "Taxation Laws Amendment Act (No. 8) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-09-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 6) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-10-14",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 2003",
+    "Taxation Laws Amendment Act (No. 3) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-10-21",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 8) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-11-12",
+   "acts": [
+    "Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-12-05",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003",
+    "International Tax Agreements Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-12-17",
+   "acts": [
+    "New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003",
+    "Taxation Laws Amendment Act (No. 5) 2003"
+   ]
+  },
+  {
+   "in_force": "2004-01-01",
+   "acts": [
+    "Australian Heritage Council (Consequential and Transitional Provisions) Act 2003",
+    "Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-03-23",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 2004"
+   ]
+  },
+  {
+   "in_force": "2004-05-26",
+   "acts": [
+    "Family Assistance Legislation Amendment (More Help for Families—One-off Payments) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-23",
+   "acts": [
+    "New International Tax Arrangements Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-25",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 2) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-29",
+   "acts": [
+    "Superannuation Laws Amendment (2004 Measures No. 1) Act 2004",
+    "Superannuation Laws Amendment (2004 Measures No. 2) Act 2004",
+    "Tax Laws Amendment (2004 Measures No. 1) Act 2004",
+    "New International Tax Arrangements (Participation Exemption and Other Measures) Act 2004",
+    "Tax Laws Amendment (2004 Measures No. 7) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2004-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 2004",
+    "Taxation Laws Amendment Act (No. 1) 2004",
+    "Superannuation Legislation Amendment (Choice of Superannuation Funds) Act 2004",
+    "Tax Laws Amendment (2004 Measures No. 3) Act 2004",
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Family Assistance Legislation Amendment (More Help for Families-Increased Payments) Act 2004",
+    "Tax Laws Amendment (2004 Measures No. 1) Act 2004",
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-13",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 2) 2004"
+   ]
+  },
+  {
+   "in_force": "2004-09-20",
+   "acts": [
+    "Veterans' Entitlements (Clarke Review) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-18",
+   "acts": [
+    "New International Tax Arrangements (Managed Funds and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-21",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 6) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-04-01",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 7) Act 2005",
+    "Tax Laws Amendment (2004 Measures No. 7) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-05-25",
+   "acts": [
+    "Social Security Legislation Amendment (One-off Payments for Carers) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-06-26",
+   "acts": [
+    "Tax Laws Amendment (2005 Measures No. 3) Act 2005",
+    "New International Tax Arrangements (Foreign-owned Branches and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-06-27",
+   "acts": [
+    "New International Tax Arrangements (Foreign-owned Branches and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-06-29",
+   "acts": [
+    "Tax Laws Amendment (Improvements to Self Assessment) Act (No. 1) 2005",
+    "Tax Laws Amendment (2005 Measures No. 2) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Superannuation (Consequential Amendments) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-14",
+   "acts": [
+    "Tax Laws Amendment (Loss Recoupment Rules and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-19",
+   "acts": [
+    "Tax Laws Amendment (2005 Measures No. 4) Act 2005",
+    "Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005",
+    "Tax Laws Amendment (2005 Measures No. 5) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-29",
+   "acts": [
+    "Tax Laws Amendment (2005 Measures No. 6) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-04-06",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 1) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-05-22",
+   "acts": [
+    "Social Security and Veterans' Entitlements Legislation Amendment (One-off Payments to Increase Assistance for Older Australians and Carers and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006",
+    "Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-30",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 3) Act 2006",
+    "Tax Laws Amendment (2006 Measures No. 3) Act 2006",
+    "Tax Laws Amendment (2006 Measures No. 3) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangements) Act 2006",
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006",
+    "Tax Laws Amendment (2010 Measures No. 1) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-12",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 4) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-02-19",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 6) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Tax Laws Amendment (Simplified Superannuation) Act 2007",
+    "Superannuation Legislation Amendment (Simplification) Act 2007",
+    "Superannuation Legislation Amendment (Simplification) Act 2007",
+    "Tax Laws Amendment (2011 Measures No. 9) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2007-04-12",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 7) Act 2007",
+    "Tax Laws Amendment (2007 Measures No. 1) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-05-11",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (One-off Payments and Other 2007 Budget Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-21",
+   "acts": [
+    "Tax Laws Amendment (2007 Budget Measures) Act 2007",
+    "Tax Laws Amendment (Personal Income Tax Reduction) Act 2007",
+    "Tax Laws Amendment (2007 Measures No. 2) Act 2007",
+    "Tax Laws Amendment (2007 Measures No. 3) Act 2007",
+    "Tax Laws Amendment (Small Business) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-22",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (2007 Measures No. 1) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Corporations Amendment (Aboriginal and Torres Strait Islander Corporations) Act 2006",
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007",
+    "Tax Laws Amendment (2007 Measures No. 3) Act 2007",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Care and Other 2007 Budget Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-08-18",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Welfare Payment Reform) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-01",
+   "acts": [
+    "Corporations Legislation Amendment (Simpler Regulatory System) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 4) Act 2007",
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-25",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 5) Act 2007",
+    "Tax Laws Amendment (2007 Measures No. 5) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-27",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 5) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-10-01",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Disability Assistance) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006",
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-05-26",
+   "acts": [
+    "Social Security and Veterans' Entitlements Legislation Amendment (One-off Payments and Other Budget Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Tax Laws Amendment (Election Commitments No. 1) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-24",
+   "acts": [
+    "Tax Laws Amendment (2008 Measures No. 2) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-26",
+   "acts": [
+    "First Home Saver Accounts (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-30",
+   "acts": [
+    "Tax Laws Amendment (Budget Measures) Act 2008",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2008 Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Tax Laws Amendment (Personal Income Tax Reduction) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-01",
+   "acts": [
+    "First Home Saver Accounts (Further Provisions) Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-03",
+   "acts": [
+    "Tax Laws Amendment (2008 Measures No. 4) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-18",
+   "acts": [
+    "Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Economic Security Strategy) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-09",
+   "acts": [
+    "Tax Laws Amendment (2008 Measures No. 5) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-02-18",
+   "acts": [
+    "Household Stimulus Package Act (No. 2) 2009",
+    "Tax Bonus for Working Australians (Consequential Amendments) Act (No. 2) 2009",
+    "Social Security Amendment (Liquid Assets Waiting Period) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-02-25",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 6) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2009-03-26",
+   "acts": [
+    "Tax Laws Amendment (2008 Measures No. 6) Act 2009",
+    "Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009",
+    "Tax Laws Amendment (2010 Measures No. 4) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2009-03-27",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-03-29",
+   "acts": [
+    "Tax Laws Amendment (2008 Measures No. 6) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-06-23",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 2) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-06-29",
+   "acts": [
+    "Tax Laws Amendment (2009 Budget Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Tax Laws Amendment (Personal Income Tax Reduction) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-09-18",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 4) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-10-01",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 4) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-05",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 5) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-14",
+   "acts": [
+    "Tax Laws Amendment (2009 Budget Measures No. 2) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Tax Agent Services (Transitional Provisions and Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-04-13",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-03",
+   "acts": [
+    "Tax Laws Amendment (2010 Measures No. 4) Act 2010",
+    "Tax Laws Amendment (2010 Measures No. 1) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-04",
+   "acts": [
+    "Tax Laws Amendment (2010 Measures No. 1) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-28",
+   "acts": [
+    "Tax Laws Amendment (2010 Measures No. 2) Act 2010",
+    "Corporations Amendment (Corporate Reporting Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-29",
+   "acts": [
+    "Tax Laws Amendment (2010 Measures No. 2) Act 2010",
+    "Tax Laws Amendment (2010 Measures No. 3) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 5) Act 2007",
+    "Tax Laws Amendment (Personal Income Tax Reduction) Act 2008",
+    "Tax Laws Amendment (2010 Measures No. 2) Act 2010",
+    "Tax Laws Amendment (Transfer of Provisions) Act 2010",
+    "Tax Laws Amendment (Transfer of Provisions) Act 2010",
+    "Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010",
+    "Tax Laws Amendment (2010 Measures No. 1) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-14",
+   "acts": [
+    "Tax Laws Amendment (Foreign Source Income Deferral) Act (No. 1) 2010",
+    "Tax Laws Amendment (Foreign Source Income Deferral) Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-10-01",
+   "acts": [
+    "Paid Parental Leave (Consequential Amendments) Act 2010",
+    "Paid Parental Leave (Consequential Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-07",
+   "acts": [
+    "Tax Laws Amendment (2010 Measures No. 4) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010",
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-06-27",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 2) Act 2011",
+    "Tax Laws Amendment (2011 Measures No. 4) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-06-28",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 2) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-06-29",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 5) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-09-08",
+   "acts": [
+    "Tax Laws Amendment (Research and Development) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-11-29",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 7) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Higher Education Legislation Amendment (Student Services and Amenities) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-21",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 9) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-03-22",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 9) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-04-02",
+   "acts": [
+    "Clean Energy (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-05-14",
+   "acts": [
+    "Clean Energy (Household Assistance Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-21",
+   "acts": [
+    "Tax Laws Amendment (2012 Measures No. 3) Act 2012",
+    "Tax Laws Amendment (2012 Measures No. 3) Act 2012",
+    "Tax Laws Amendment (Shipping Reform) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-06-27",
+   "acts": [
+    "Tax Laws Amendment (2012 Measures No. 1) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Clean Energy (Tax Laws Amendments) Act 2011",
+    "Fairer Private Health Insurance Incentives Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-08",
+   "acts": [
+    "Tax Laws Amendment (Cross-Border Transfer Pricing) Act (No. 1) 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-29",
+   "acts": [
+    "Superannuation Laws Amendment (Capital Gains Tax Relief and Other Efficiency Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-11",
+   "acts": [
+    "Personal Liability for Corporate Fault Reform Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Tax Laws Amendment (2012 Measures No. 6) Act 2013",
+    "Tax and Superannuation Laws Amendment (2013 Measures No. 2) Act 2013",
+    "Tax and Superannuation Laws Amendment (2013 Measures No. 1) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2013 Measures No. 1) Act 2013",
+    "Tax and Superannuation Laws Amendment (2013 Measures No. 1) Act 2013",
+    "Tax Laws Amendment (Countering Tax Avoidance and Multinational Profit Shifting) Act 2013",
+    "Tax Laws Amendment (2013 Measures No. 2) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-30",
+   "acts": [
+    "Tax Laws Amendment (2013 Measures No. 2) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2013 Measures No. 1) Act 2013",
+    "Private Health Insurance Amendment (Lifetime Health Cover Loading and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-11",
+   "acts": [
+    "Tax Laws Amendment (2013 Measures No. 2) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-10-01",
+   "acts": [
+    "Social Security Legislation Amendment (Disaster Recovery Allowance) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-01-01",
+   "acts": [
+    "Charities (Consequential Amendments and Transitional Provisions) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-18",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 1) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-05-30",
+   "acts": [
+    "Tax Laws Amendment (2014 Measures No. 1) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-25",
+   "acts": [
+    "Tax Laws Amendment (Interest on Non-Resident Trust Distributions) (Temporary Budget Repair Levy) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-30",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 2) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Farm Household Support (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-18",
+   "acts": [
+    "Trade Support Loans (Consequential Amendments) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-30",
+   "acts": [
+    "Minerals Resource Rent Tax Repeal and Other Measures Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-16",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 4) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014",
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 4) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-12",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 6) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-02-25",
+   "acts": [
+    "Treasury Legislation Amendment (Repeal Day) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-03-19",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 7) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-03-20",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 7) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-05-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 7) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-22",
+   "acts": [
+    "Tax Laws Amendment (Small Business Measures No. 1) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-25",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Business Services Wage Assessment Tool Payment Scheme (Consequential Amendments) Act 2015",
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015",
+    "Tax and Superannuation Laws Amendment (Employee Share Schemes) Act 2015",
+    "Treasury Legislation Amendment (Repeal Day) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-08",
+   "acts": [
+    "Passports Legislation Amendment (Integrity) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-13",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 4) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-30",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 5) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-11",
+   "acts": [
+    "Tax Laws Amendment (Combating Multinational Tax Avoidance) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Education Legislation Amendment (Overseas Debt Recovery) Act 2015",
+    "Labor 2013-14 Budget Savings (Measures No. 2) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-02-26",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 6) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-05",
+   "acts": [
+    "Tax Laws Amendment (New Tax System for Managed Investment Trusts) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-06",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2015) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (Norfolk Island Reforms) Act 2015",
+    "Tax Laws Amendment (Tax Incentives for Innovation) Act 2016",
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-11-24",
+   "acts": [
+    "Higher Education Support Legislation Amendment (2016 Measures No. 1) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016",
+    "Treasury Laws Amendment (Fair and Sustainable Superannuation) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-04-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2016 Measures No. 2) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-04-05",
+   "acts": [
+    "Treasury Laws Amendment (2016 Measures No. 1) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Social Services Legislation Amendment (Low Income Supplement) Act 2015",
+    "Treasury Laws Amendment (Combating Multinational Tax Avoidance) Act 2017",
+    "Veterans' Affairs Legislation Amendment (Budget Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-02-21",
+   "acts": [
+    "Statute Update (Smaller Government) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-04-01",
+   "acts": [
+    "Treasury Laws Amendment (2018 Measures No. 1) Act 2018",
+    "Treasury Laws Amendment (Junior Minerals Exploration Incentive) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Personal Income Tax Plan) Act 2018",
+    "Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Act 2017",
+    "Treasury Laws Amendment (2018 Measures No. 4) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2018-09-18",
+   "acts": [
+    "Corporations Amendment (Asia Region Funds Passport) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-10-01",
+   "acts": [
+    "Treasury Laws Amendment (Tax Integrity and Other Measures No. 2) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-13",
+   "acts": [
+    "Migration and Other Legislation Amendment (Enhanced Integrity) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-01-01",
+   "acts": [
+    "Treasury Laws Amendment (Tax Integrity and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-03-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2019-04-01",
+   "acts": [
+    "Treasury Laws Amendment (2017 Enterprise Incentives No. 1) Act 2019",
+    "Treasury Laws Amendment (2018 Measures No. 4) Act 2019",
+    "Treasury Laws Amendment (2018 Measures No. 5) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Treasury Laws Amendment (Mutual Reforms) Act 2019",
+    "Treatment Benefits (Special Access) (Consequential Amendments and Transitional Provisions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 1) Act 2014",
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018",
+    "Treasury Laws Amendment (Making Sure Foreign Investors Pay Their Fair Share of Tax in Australia and Other Measures) Act 2019",
+    "Treasury Laws Amendment (2019 Measures No. 1) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Treasury Laws Amendment (Timor Sea Maritime Boundaries Treaty) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-10-01",
+   "acts": [
+    "Treasury Laws Amendment (Making Sure Multinationals Pay Their Fair Share of Tax in Australia and Other Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Tax Integrity and Other Measures No. 1) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-03-20",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-04-01",
+   "acts": [
+    "Treasury Laws Amendment (2018 Measures No. 2) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-04-09",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus (Measures No. 2) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-20",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-10-15",
+   "acts": [
+    "Treasury Laws Amendment (A Tax Plan for the COVID-19 Economic Recovery) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-11-27",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Omnibus) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Treasury Laws Amendment (A Tax Plan for the COVID-19 Economic Recovery) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-04-04",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 6) Act 2020",
+    "Treasury Laws Amendment (Registries Modernisation and Other Measures) Act 2020",
+    "Corporate Collective Investment Vehicle Framework and Other Measures Act 2022"
+   ]
+  },
+  {
+   "in_force": "2021-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 2) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-08",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 5) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-01",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "Veterans’ Affairs Legislation Amendment (Exempting Disability Payments from Income Testing and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-02-22",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2022-07-01",
+   "acts": [
+    "Treasury Laws Amendment (2022 Measures No. 3) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2022 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-01-01",
+   "acts": [
+    "Treasury Laws Amendment (2022 Measures No. 2) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-10-20",
+   "acts": [
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Treasury Laws Amendment (Modernising Business Communications and Other Measures) Act 2023",
+    "Trade Support Loans Amendment Act 2023",
+    "Treasury Laws Amendment (2023 Measures No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Making Multinationals Pay Their Fair Share—Integrity and Transparency) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-01",
+   "acts": [
+    "Treasury Laws Amendment (Delivering Better Financial Outcomes and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-11",
+   "acts": [
+    "Treasury Laws Amendment (Multinational—Global and Domestic Minimum Tax) (Consequential) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-01-01",
+   "acts": [
+    "Treasury Laws Amendment (2024 Tax and Other Measures No. 1) Act 2024",
+    "Treasury Laws Amendment (Responsible Buy Now Pay Later and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-04-01",
+   "acts": [
+    "Future Made in Australia (Production Tax Credits and Other Measures) Act 2025",
+    "Future Made in Australia (Production Tax Credits and Other Measures) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-01-01",
+   "acts": [
+    "Future Made in Australia (Production Tax Credits and Other Measures) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-04-01",
+   "acts": [
+    "Treasury Laws Amendment (Supporting Choice in Superannuation and Other Measures) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2026-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Payday Superannuation) Act 2025",
+    "Treasury Laws Amendment (Delivering an Efficient and Trusted Tax System) Act 2026",
+    "Veterans’ Entitlements, Treatment and Support (Simplification and Harmonisation) Act 2025",
+    "Treasury Laws Amendment (Tax Reform No. 1) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

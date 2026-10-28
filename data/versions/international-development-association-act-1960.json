@@ -1,0 +1,26 @@
+{
+ "title_id": "C1960A00021",
+ "name": "International Development Association Act 1960",
+ "folder": "international-development-association-act-1960",
+ "compilations": [
+  {
+   "in_force": "1969-03-01",
+   "register_id": "C2004C00518",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1960A00021',start=1969-03-01,retrospectivestart=1969-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1960A00021/1969-03-01/text",
+   "sha256": "aada8fae5fc48b0486fdcc82688dd146068a3c93028a666a381cf68c99113aa9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1960-05-26",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

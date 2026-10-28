@@ -1,0 +1,265 @@
+{
+ "title_id": "C1961A00012",
+ "name": "Marriage Act 1961",
+ "folder": "marriage-act-1961",
+ "compilations": [
+  {
+   "in_force": "2026-03-28",
+   "register_id": "C2026C00129",
+   "compilation": "34",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1961A00012',start=2026-03-28,retrospectivestart=2026-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1961A00012/2026-03-28/text",
+   "sha256": "f7455e48c36e1cf0cc419cd96abb81ae253d132a3209f84e04b80dd6fce382e1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1961-05-06",
+   "acts": []
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-07-01",
+   "acts": [
+    "Marriage Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-07-01",
+   "acts": [
+    "Marriage Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-06-20",
+   "acts": [
+    "Marriage Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1982-03-04",
+   "acts": [
+    "Domicile (Consequential Amendments) Act 1982"
+   ]
+  },
+  {
+   "in_force": "1985-04-26",
+   "acts": [
+    "Marriage Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-04-07",
+   "acts": [
+    "Marriage Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-12-21",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-08-01",
+   "acts": [
+    "Sex Discrimination Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Territories Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Witness Protection Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-12-12",
+   "acts": [
+    "Family Law Reform (Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000",
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-11-05",
+   "acts": [
+    "Marriage Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-04-08",
+   "acts": [
+    "Marriage Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-09-01",
+   "acts": [
+    "Marriage Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-08-16",
+   "acts": [
+    "Marriage Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Family Law Amendment (Shared Parental Responsibility) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Marriage Amendment (Celebrant Administration and Fees) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Law and Justice Legislation Amendment (Northern Territory Local Court) Act 2016",
+    "Trade Legislation Amendment Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017",
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017",
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-10-26",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017",
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2024-06-12",
+   "acts": [
+    "Attorney-General’s Portfolio Miscellaneous Measures Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-07-09",
+   "acts": [
+    "Attorney-General’s Portfolio Miscellaneous Measures Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-11",
+   "acts": [
+    "Crown References Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-12-05",
+   "acts": [
+    "Regulatory Reform Omnibus Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

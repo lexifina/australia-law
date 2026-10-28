@@ -1,0 +1,26 @@
+{
+ "title_id": "C1971A00074",
+ "name": "Defence Forces Retirement Benefits (Pension Increases) Act 1971",
+ "folder": "defence-forces-retirement-benefits-pension-increases-act-1971",
+ "compilations": [
+  {
+   "in_force": "1978-06-12",
+   "register_id": "C2004C00460",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00074',start=1978-06-12,retrospectivestart=1978-06-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00074/1978-06-12/text",
+   "sha256": "de80591b3719714796056d6c483ed4024c94b9d8669264fae45aeb67c003b9ef"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1971-10-01",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,68 @@
+{
+ "title_id": "C1964A00116",
+ "name": "Crimes (Overseas) Act 1964",
+ "folder": "crimes-overseas-act-1964",
+ "compilations": [
+  {
+   "in_force": "2014-10-03",
+   "register_id": "C2014C00679",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1964A00116',start=2014-10-03,retrospectivestart=2014-10-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1964A00116/2014-10-03/text",
+   "sha256": "faa00fabecb634a02e23c7d3f6309fe3df1aa30b23f93314a155b95d71efb277"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1964-11-23",
+   "acts": []
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1991-03-04",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1995-01-16",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Crimes (Overseas) Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-12-02",
+   "acts": [
+    "Intelligence Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

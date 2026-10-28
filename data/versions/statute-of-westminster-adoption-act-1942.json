@@ -1,0 +1,26 @@
+{
+ "title_id": "C1942A00056",
+ "name": "Statute of Westminster Adoption Act 1942",
+ "folder": "statute-of-westminster-adoption-act-1942",
+ "compilations": [
+  {
+   "in_force": "1986-03-03",
+   "register_id": "C2004C00661",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1942A00056',start=1986-03-03,retrospectivestart=1986-03-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1942A00056/1986-03-03/text",
+   "sha256": "9e0950109e73bacef5a600d12f45c2b43d7589383791be0e534c85dbf57539ff"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1942-10-09",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,134 @@
+{
+ "title_id": "C1905A00015",
+ "name": "Census and Statistics Act 1905",
+ "folder": "census-and-statistics-act-1905",
+ "compilations": [
+  {
+   "in_force": "2020-10-01",
+   "register_id": "C2020C00296",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00015',start=2020-10-01,retrospectivestart=2020-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00015/2020-10-01/text",
+   "sha256": "3e7cdb25689c203426ac0c819a3960106fafa848858fae3765c7c68b0e9fa21e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1905-12-08",
+   "acts": []
+  },
+  {
+   "in_force": "1920-10-11",
+   "acts": [
+    "Census and Statistics Act 1920"
+   ]
+  },
+  {
+   "in_force": "1930-07-21",
+   "acts": [
+    "Census and Statistics Act 1930"
+   ]
+  },
+  {
+   "in_force": "1938-07-05",
+   "acts": [
+    "Census and Statistics Act 1938"
+   ]
+  },
+  {
+   "in_force": "1947-01-11",
+   "acts": [
+    "Census and Statistics Act 1946"
+   ]
+  },
+  {
+   "in_force": "1949-07-12",
+   "acts": [
+    "Census and Statistics Act 1949"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1977-02-28",
+   "acts": [
+    "Census and Statistics Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1981-05-25",
+   "acts": [
+    "Census and Statistics Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-06-30",
+   "acts": [
+    "Census and Statistics Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-03-01",
+   "acts": [
+    "Census and Statistics Amendment Act (No. 2) 1981"
+   ]
+  },
+  {
+   "in_force": "1986-01-13",
+   "acts": [
+    "Census and Statistics Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "2000-04-19",
+   "acts": [
+    "Census Information Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2003-10-21",
+   "acts": [
+    "Statistics Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2006-04-20",
+   "acts": [
+    "Census Information Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2015-05-27",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

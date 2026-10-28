@@ -1,0 +1,21 @@
+{
+ "title_id": "C1963A00030",
+ "name": "United States Naval Communication Station Agreement Act 1963",
+ "folder": "united-states-naval-communication-station-agreement-act-1963",
+ "compilations": [
+  {
+   "in_force": "1963-05-31",
+   "register_id": "C1963A00030",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1963A00030',start=1963-05-31,retrospectivestart=1963-05-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1963A00030/1963-05-31/text",
+   "sha256": "b644145c329a013257cfb964e419d234032a004fe4bd409248b4665d0d8b83e5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

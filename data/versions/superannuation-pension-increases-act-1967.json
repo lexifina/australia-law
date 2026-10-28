@@ -1,0 +1,26 @@
+{
+ "title_id": "C1967A00090",
+ "name": "Superannuation (Pension Increases) Act 1967",
+ "folder": "superannuation-pension-increases-act-1967",
+ "compilations": [
+  {
+   "in_force": "2011-09-16",
+   "register_id": "C2011C00795",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1967A00090',start=2011-09-16,retrospectivestart=2011-09-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1967A00090/2011-09-16/text",
+   "sha256": "0c8541153ed5d6b479fdb4608d030afb9049def447ce0888d53c9f093bd140e4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1967-11-08",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

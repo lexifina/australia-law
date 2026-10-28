@@ -1,0 +1,38 @@
+{
+ "title_id": "C1965A00066",
+ "name": "Stevedoring Industry Act 1965",
+ "folder": "stevedoring-industry-act-1965",
+ "compilations": [
+  {
+   "in_force": "1973-12-19",
+   "register_id": "C2004C07091",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1965A00066',start=1973-12-19,retrospectivestart=1973-12-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1965A00066/1973-12-19/text",
+   "sha256": "34bd2a4dbf5ea2207952a2c85ca5b03ff34edde25a07e384040b6735399dcb47"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1965-10-08",
+   "acts": []
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1977-12-05",
+   "acts": [
+    "Stevedoring Industry Acts (Termination) Act 1977"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

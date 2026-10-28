@@ -1,0 +1,56 @@
+{
+ "title_id": "C2004A00191",
+ "name": "Urban and Regional Development (Financial Assistance) Act 1974",
+ "folder": "urban-and-regional-development-financial-assistance-act-1974",
+ "compilations": [
+  {
+   "in_force": "2017-03-22",
+   "register_id": "C2017C00111",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00191',start=2017-03-22,retrospectivestart=2017-03-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00191/2017-03-22/text",
+   "sha256": "e7a57133573cf92efb937fd3c771c2ca2ff294ada88652247d3ea481bfe24430"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1974-12-09",
+   "acts": []
+  },
+  {
+   "in_force": "1975-06-19",
+   "acts": [
+    "Urban and Regional Development (Financial Assistance) Act 1975"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1994-09-16",
+   "acts": [
+    "Environment, Sport and Territories Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "National Debt Sinking Fund Repeal Act 1994"
+   ]
+  },
+  {
+   "in_force": "2015-01-01",
+   "acts": [
+    "Albury-Wodonga Development Corporation (Abolition) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

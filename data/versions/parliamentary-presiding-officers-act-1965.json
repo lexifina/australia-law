@@ -1,0 +1,38 @@
+{
+ "title_id": "C1965A00005",
+ "name": "Parliamentary Presiding Officers Act 1965",
+ "folder": "parliamentary-presiding-officers-act-1965",
+ "compilations": [
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00070",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1965A00005',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1965A00005/2015-12-10/text",
+   "sha256": "17aef3e639b040d0a29405da8fa142eab9a4befbca9bac7728a3ee405b5ee447"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1965-04-12",
+   "acts": []
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Parliamentary Presiding Officers Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-12-05",
+   "acts": [
+    "Prime Minister and Cabinet (Miscellaneous Provisions) Act 1995"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

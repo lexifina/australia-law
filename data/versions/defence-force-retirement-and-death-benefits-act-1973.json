@@ -1,0 +1,440 @@
+{
+ "title_id": "C2004A00006",
+ "name": "Defence Force Retirement and Death Benefits Act 1973",
+ "folder": "defence-force-retirement-and-death-benefits-act-1973",
+ "compilations": [
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026C00113",
+   "compilation": "48",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00006',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00006/2026-04-01/text",
+   "sha256": "9c31468cb1b5edf0ac14c5dd5dfcb9bcc2065560fab71b74e94c33dd79faf76d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1972-10-01",
+   "acts": []
+  },
+  {
+   "in_force": "1973-06-19",
+   "acts": [
+    "Defence Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1974-09-27",
+   "acts": [
+    "Election Candidates (Public Service and Defence Force) Act 1974"
+   ]
+  },
+  {
+   "in_force": "1976-02-09",
+   "acts": [
+    "Defence Force Re-organization Act 1975",
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1976-07-01",
+   "acts": [
+    "Defence Force Retirement and Death Benefits Amendment Act 1976",
+    "Defence Force Retirement and Death Benefits Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-02-28",
+   "acts": [
+    "Defence Force (Retirement and Death Benefits Amendments) Act 1977"
+   ]
+  },
+  {
+   "in_force": "1977-11-10",
+   "acts": [
+    "Defence Legislation Amendment Act 1987",
+    "Defence Force (Retirement and Death Benefits Amendments) Act (No. 2) 1977"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-07-01",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1979-03-19",
+   "acts": [
+    "Defence Force (Retirement and Death Benefits Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-11-23",
+   "acts": [
+    "Defence Force (Retirement and Death Benefits Amendments) Act (No. 2) 1979"
+   ]
+  },
+  {
+   "in_force": "1981-05-14",
+   "acts": [
+    "Defence Force Retirement and Death Benefits Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-11-18",
+   "acts": [
+    "Defence Force Retirement and Death Benefits Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-07-01",
+   "acts": [
+    "Companies (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-07-01",
+   "acts": [
+    "Defence Legislation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1983-09-30",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Defence Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1986-10-10",
+   "acts": [
+    "Superannuation and Other Benefits Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-06-05",
+   "acts": [
+    "Defence Legislation Amendment Act 1987",
+    "Defence Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Defence Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-06",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-30",
+   "acts": [
+    "Defence Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1989-10-20",
+   "acts": [
+    "Superannuation and Other Benefits Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 1990",
+    "Defence Force Superannuation Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-02-05",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-09-01",
+   "acts": [
+    "Military Superannuation and Benefits Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-09-02",
+   "acts": [
+    "Defence Force Superannuation Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-10-01",
+   "acts": [
+    "Military Superannuation and Benefits Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Defence Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Superannuation Guarantee (Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-06-25",
+   "acts": [
+    "Commonwealth Superannuation Schemes Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Life Insurance (Consequential Amendments and Repeals) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-07",
+   "acts": [
+    "Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-04-19",
+   "acts": [
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Superannuation Legislation Amendment (Indexation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-12-15",
+   "acts": [
+    "Defence Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Superannuation (Surcharge Rate Reduction) Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-05-18",
+   "acts": [
+    "Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-30",
+   "acts": [
+    "Superannuation Budget Measures Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2005-08-12",
+   "acts": [
+    "Superannuation Laws Amendment (Abolition of Surcharge) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-09-25",
+   "acts": [
+    "Superannuation Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Superannuation Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Superannuation Laws Amendment (MySuper Capital Gains Tax Relief and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-04-10",
+   "acts": [
+    "Defence Force Retirement Benefits Legislation Amendment (Fair Indexation) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Governance of Australian Government Superannuation Schemes Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-09-11",
+   "acts": [
+    "Defence Legislation Amendment (Superannuation and ADF Cover) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (Superannuation and ADF Cover) Act 2015",
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2022-09-28",
+   "acts": [
+    "Family Law Amendment (Western Australia De Facto Superannuation Splitting and Bankruptcy) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

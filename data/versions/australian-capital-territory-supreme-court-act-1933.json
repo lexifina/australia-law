@@ -1,0 +1,261 @@
+{
+ "title_id": "C1933A00034",
+ "name": "Australian Capital Territory Supreme Court Act 1933",
+ "folder": "australian-capital-territory-supreme-court-act-1933",
+ "compilations": [
+  {
+   "in_force": "1989-05-11",
+   "register_id": "C2004C02023",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1933A00034',start=1989-05-11,retrospectivestart=1989-05-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1933A00034/1989-05-11/text",
+   "sha256": "6f9579ac79093b1e6748e5e9d777698490d041f162c3c10d24b720b7c7fe5cac"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1933-12-09",
+   "acts": []
+  },
+  {
+   "in_force": "1934-01-01",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1935-04-13",
+   "acts": [
+    "Seat of Government Supreme Court Act 1935"
+   ]
+  },
+  {
+   "in_force": "1945-10-19",
+   "acts": [
+    "Seat of Government Supreme Court Act 1945"
+   ]
+  },
+  {
+   "in_force": "1947-11-01",
+   "acts": [
+    "Salaries (Statutory Offices) Adjustment Act 1947"
+   ]
+  },
+  {
+   "in_force": "1948-12-09",
+   "acts": [
+    "Judges' Pensions Act 1948"
+   ]
+  },
+  {
+   "in_force": "1950-07-01",
+   "acts": [
+    "Salaries (Statutory Offices) Adjustment Act 1950"
+   ]
+  },
+  {
+   "in_force": "1950-12-31",
+   "acts": [
+    "Statute Law Revision Act 1950",
+    "Statute Law Revision Act 1950"
+   ]
+  },
+  {
+   "in_force": "1955-01-01",
+   "acts": [
+    "Judges' Remuneration Act 1955"
+   ]
+  },
+  {
+   "in_force": "1955-07-14",
+   "acts": [
+    "Australian Capital Territory Supreme Court Act 1955"
+   ]
+  },
+  {
+   "in_force": "1956-08-14",
+   "acts": [
+    "Australian Capital Territory Supreme Court Act 1956"
+   ]
+  },
+  {
+   "in_force": "1957-07-05",
+   "acts": [
+    "Australian Capital Territory Supreme Court Act 1957"
+   ]
+  },
+  {
+   "in_force": "1958-09-29",
+   "acts": [
+    "Australian Capital Territory Supreme Court Act 1958"
+   ]
+  },
+  {
+   "in_force": "1959-05-22",
+   "acts": [
+    "Australian Capital Territory Supreme Court Act 1959"
+   ]
+  },
+  {
+   "in_force": "1960-10-01",
+   "acts": [
+    "Judges' Remuneration Act 1960"
+   ]
+  },
+  {
+   "in_force": "1960-10-27",
+   "acts": [
+    "Australian Capital Territory Supreme Court Act 1964"
+   ]
+  },
+  {
+   "in_force": "1964-11-20",
+   "acts": [
+    "Australian Capital Territory Supreme Court Act 1964"
+   ]
+  },
+  {
+   "in_force": "1965-07-01",
+   "acts": [
+    "Judges' Remuneration Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-05-31",
+   "acts": [
+    "Australian Capital Territory Supreme Court Act 1966"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1968-12-10",
+   "acts": [
+    "Australian Capital Territory Supreme Court Act 1968"
+   ]
+  },
+  {
+   "in_force": "1969-06-14",
+   "acts": [
+    "Judges' Remuneration Act 1969"
+   ]
+  },
+  {
+   "in_force": "1971-04-05",
+   "acts": [
+    "Australian Capital Territory Supreme Court Act 1971"
+   ]
+  },
+  {
+   "in_force": "1971-11-17",
+   "acts": [
+    "Australian Capital Territory Supreme Court Act (No. 2) 1971"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-12-09",
+   "acts": [
+    "Australian Capital Territory Supreme Court Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-02-01",
+   "acts": [
+    "Australian Capital Territory Supreme Court Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1980-04-01",
+   "acts": [
+    "Australian Capital Territory Supreme Court Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-12-30",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-05-07",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1982-07-01",
+   "acts": [
+    "Companies (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1984-03-05",
+   "acts": [
+    "Director of Public Prosecutions (Consequential Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-12-21",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-10-10",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "A.C.T. Supreme Court (Transfer) Act 1992"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

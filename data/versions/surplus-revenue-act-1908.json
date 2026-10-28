@@ -1,0 +1,38 @@
+{
+ "title_id": "C1908A00015",
+ "name": "Surplus Revenue Act 1908",
+ "folder": "surplus-revenue-act-1908",
+ "compilations": [
+  {
+   "in_force": "1998-01-01",
+   "register_id": "C2004C00639",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1908A00015',start=1998-01-01,retrospectivestart=1998-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1908A00015/1998-01-01/text",
+   "sha256": "7cfe81f4c352aeb1d9d1b29f6a135639b2a371ccb9f3226dd27662417280975d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1908-06-10",
+   "acts": []
+  },
+  {
+   "in_force": "1910-09-02",
+   "acts": [
+    "Surplus Revenue Act 1910"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

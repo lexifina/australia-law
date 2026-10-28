@@ -1,0 +1,313 @@
+{
+ "title_id": "C1959A00004",
+ "name": "Reserve Bank Act 1959",
+ "folder": "reserve-bank-act-1959",
+ "compilations": [
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00375",
+   "compilation": "33",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00004',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00004/2026-08-27/text",
+   "sha256": "381d2fb9328a89cb20cd8f401d81537b5d47b8678557f00bfeaa270916b86f89"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1959-04-23",
+   "acts": []
+  },
+  {
+   "in_force": "1966-02-14",
+   "acts": [
+    "Reserve Bank Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1971-03-22",
+   "acts": [
+    "Reserve Bank Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-10-26",
+   "acts": [
+    "Reserve Bank Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-05-28",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1980"
+   ]
+  },
+  {
+   "in_force": "1984-06-29",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-11-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Crimes (Currency) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1987-01-15",
+   "acts": [
+    "Banking Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-11-30",
+   "acts": [
+    "Banking Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1989-01-01",
+   "acts": [
+    "Government Business Enterprises (Miscellaneous Reforms) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-12-28",
+   "acts": [
+    "Banking Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-04-17",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990"
+   ]
+  },
+  {
+   "in_force": "1992-12-21",
+   "acts": [
+    "Banking Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-06-09",
+   "acts": [
+    "Banking (State Bank of South Australia and Other Matters) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1996-07-19",
+   "acts": [
+    "Commonwealth Bank Sale Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-30",
+   "acts": [
+    "Financial Laws Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-04-03",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-01-18",
+   "acts": [
+    "Financial Sector Legislation Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-03-11",
+   "acts": [
+    "Financial Services Reform Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-06-27",
+   "acts": [
+    "Financial Sector Legislation Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Australian Prudential Regulation Authority Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-18",
+   "acts": [
+    "Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-20",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-07-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-01-03",
+   "acts": [
+    "Corporations Legislation Amendment (Derivative Transactions) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-07-19",
+   "acts": [
+    "Corporations and Financial Sector Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2024-09-24",
+   "acts": [
+    "Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Act 2024",
+    "Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Act 2024",
+    "Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-03-01",
+   "acts": [
+    "Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Act 2024",
+    "Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Act 2024",
+    "Treasury Laws Amendment (Reserve Bank Reforms) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

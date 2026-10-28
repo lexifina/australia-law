@@ -1,0 +1,170 @@
+{
+ "title_id": "C1953A00031",
+ "name": "Atomic Energy Act 1953",
+ "folder": "atomic-energy-act-1953",
+ "compilations": [
+  {
+   "in_force": "2022-11-30",
+   "register_id": "C2022C00333",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00031',start=2022-11-30,retrospectivestart=2022-11-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00031/2022-11-30/text",
+   "sha256": "f0648339803c678c2d15a5ede933053ff42e106a04d113c749ed5b3b210651c1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1953-04-15",
+   "acts": []
+  },
+  {
+   "in_force": "1958-04-01",
+   "acts": [
+    "Atomic Energy Act 1958"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-11-13",
+   "acts": [
+    "Atomic Energy Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1978-06-09",
+   "acts": [
+    "Atomic Energy Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-12-04",
+   "acts": [
+    "Atomic Energy Amendment Act (No. 2) 1978"
+   ]
+  },
+  {
+   "in_force": "1979-01-15",
+   "acts": [
+    "Atomic Energy Amendment Act (No. 2) 1978"
+   ]
+  },
+  {
+   "in_force": "1979-06-14",
+   "acts": [
+    "Atomic Energy Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-03-29",
+   "acts": [
+    "Atomic Energy Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-05-28",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-09-11",
+   "acts": [
+    "Atomic Energy Amendment Act (No. 2) 1980"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-20",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1987-04-27",
+   "acts": [
+    "Atomic Energy Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

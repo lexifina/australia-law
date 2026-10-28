@@ -1,0 +1,44 @@
+{
+ "title_id": "C1953A00021",
+ "name": "Loan (Temporary Revenue Deficits) Act 1953",
+ "folder": "loan-temporary-revenue-deficits-act-1953",
+ "compilations": [
+  {
+   "in_force": "2005-02-22",
+   "register_id": "C2005C00101",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00021',start=2005-02-22,retrospectivestart=2005-02-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00021/2005-02-22/text",
+   "sha256": "8fac7151f021585bdce828049a49cae24fbe3c198b691be84a0fc904120c46ef"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1950-07-01",
+   "acts": []
+  },
+  {
+   "in_force": "1966-07-01",
+   "acts": [
+    "National Debt Sinking Fund Act 1966"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,245 @@
+{
+ "title_id": "C1960A00064",
+ "name": "National Measurement Act 1960",
+ "folder": "national-measurement-act-1960",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00648",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1960A00064',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1960A00064/2024-10-14/text",
+   "sha256": "0f47ea46a73fbb0431f06414de007f8f90bae823b3496c0150ef96c34ad866fb"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1960-11-30",
+   "acts": []
+  },
+  {
+   "in_force": "1964-05-04",
+   "acts": [
+    "Weights and Measures (National Standards) Act 1964"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1978-11-28",
+   "acts": [
+    "Weights and Measures (National Standards) Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1979-10-23",
+   "acts": [
+    "Weights and Measures (National Standards) Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1984-09-07",
+   "acts": [
+    "Weights and Measures (National Standards) Amendment Act 1984",
+    "Weights and Measures (National Standards) Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1989-11-30",
+   "acts": [
+    "Industry, Technology and Commerce Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-06-15",
+   "acts": [
+    "Industry, Technology and Commerce Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Industry, Technology and Commerce Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-07-12",
+   "acts": [
+    "Industry, Science and Technology Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-13",
+   "acts": [
+    "Industry, Science and Technology Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-08-09",
+   "acts": [
+    "Industry, Science and Technology Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-30",
+   "acts": [
+    "Industry, Science and Tourism Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-14",
+   "acts": [
+    "National Measurement Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-03-31",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-10-01",
+   "acts": [
+    "National Measurement Amendment (Utility Meters) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-03-25",
+   "acts": [
+    "National Measurement Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "National Measurement Amendment Act 2004",
+    "National Measurement Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "National Measurement Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-12-16",
+   "acts": [
+    "National Measurement Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-12-11",
+   "acts": [
+    "Personal Liability for Corporate Fault Reform Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-02",
+   "acts": [
+    "National Measurement Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2024-03-20",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

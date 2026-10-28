@@ -1,0 +1,56 @@
+{
+ "title_id": "C2004A00316",
+ "name": "General Insurance Supervisory Levy Imposition Act 1998",
+ "folder": "general-insurance-supervisory-levy-imposition-act-1998",
+ "compilations": [
+  {
+   "in_force": "2020-06-20",
+   "register_id": "C2020C00178",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00316',start=2020-06-20,retrospectivestart=2020-06-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00316/2020-06-20/text",
+   "sha256": "4da81fa10641afb73d00edd4d434582dc9a3b091c4d8346c1c30cd8445421e7d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "General Insurance Supervisory Levy Imposition Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-05-23",
+   "acts": [
+    "General Insurance Supervisory Levy Imposition Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,62 @@
+{
+ "title_id": "C1910A00020",
+ "name": "Northern Territory Acceptance Act 1910",
+ "folder": "northern-territory-acceptance-act-1910",
+ "compilations": [
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00254",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1910A00020',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1910A00020/2011-12-27/text",
+   "sha256": "ebff16d6fc7d137d069d9c367d6708a2020c24a1a979df56a293eb370453eb56"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1910-11-16",
+   "acts": []
+  },
+  {
+   "in_force": "1920-01-01",
+   "acts": [
+    "Northern Territory Acceptance Act 1919"
+   ]
+  },
+  {
+   "in_force": "1927-03-01",
+   "acts": [
+    "Northern Australia Act 1926"
+   ]
+  },
+  {
+   "in_force": "1952-06-27",
+   "acts": [
+    "Northern Territory Acceptance Act 1952"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1975-01-24",
+   "acts": [
+    "Tarcoola to Alice Springs Railway Act 1974"
+   ]
+  },
+  {
+   "in_force": "2000-11-01",
+   "acts": [
+    "Australian National Railways Commission Sale Act 1997"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

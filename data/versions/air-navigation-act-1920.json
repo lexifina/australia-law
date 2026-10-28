@@ -1,0 +1,411 @@
+{
+ "title_id": "C1920A00050",
+ "name": "Air Navigation Act 1920",
+ "folder": "air-navigation-act-1920",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00427",
+   "compilation": "45",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1920A00050',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1920A00050/2024-10-14/text",
+   "sha256": "daa97ab2337d7f67946171f76428c4c3f6632c243e3578a979b9ec899ab2dabb"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1920-12-02",
+   "acts": []
+  },
+  {
+   "in_force": "1936-12-07",
+   "acts": [
+    "Air Navigation Act 1936"
+   ]
+  },
+  {
+   "in_force": "1947-04-30",
+   "acts": [
+    "Air Navigation Act 1947"
+   ]
+  },
+  {
+   "in_force": "1947-12-11",
+   "acts": [
+    "Air Navigation Act (No. 2) 1947"
+   ]
+  },
+  {
+   "in_force": "1950-12-31",
+   "acts": [
+    "Statute Law Revision Act 1950"
+   ]
+  },
+  {
+   "in_force": "1960-08-19",
+   "acts": [
+    "Air Navigation Act 1960"
+   ]
+  },
+  {
+   "in_force": "1961-11-24",
+   "acts": [
+    "Air Navigation Act 1961"
+   ]
+  },
+  {
+   "in_force": "1963-06-17",
+   "acts": [
+    "Air Navigation Act 1963"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1971-11-04",
+   "acts": [
+    "Air Navigation Act 1971"
+   ]
+  },
+  {
+   "in_force": "1973-11-13",
+   "acts": [
+    "Air Navigation Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-12-03",
+   "acts": [
+    "Air Navigation Act 1974"
+   ]
+  },
+  {
+   "in_force": "1975-03-01",
+   "acts": [
+    "Air Navigation Act 1974"
+   ]
+  },
+  {
+   "in_force": "1976-04-01",
+   "acts": [
+    "Air Navigation Act 1974"
+   ]
+  },
+  {
+   "in_force": "1977-09-12",
+   "acts": [
+    "Air Navigation Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-06-01",
+   "acts": [
+    "Air Navigation Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1982-09-22",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-25",
+   "acts": [
+    "Air Navigation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-11-14",
+   "acts": [
+    "Air Navigation Amendment Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Air Navigation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-08-05",
+   "acts": [
+    "Air Navigation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Civil Aviation Act 1988",
+    "Transport and Communications Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1989-06-08",
+   "acts": [
+    "Air Navigation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-17",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1991-01-21",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1992-06-26",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-30",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1994-05-30",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-06",
+   "acts": [
+    "Civil Aviation Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-20",
+   "acts": [
+    "Transport Legislation Amendment Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-27",
+   "acts": [
+    "Transport Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-11-16",
+   "acts": [
+    "Transport Legislation Amendment Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Transport Legislation Amendment Act (No. 3) 1995"
+   ]
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Aviation Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-23",
+   "acts": [
+    "Aviation Legislation Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-06-04",
+   "acts": [
+    "Aviation Legislation Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Statute Law Revision Act 2002"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-05-03",
+   "acts": [
+    "Aviation Legislation Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-04-05",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-19",
+   "acts": [
+    "Aviation Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Transport Safety Investigation (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-09-06",
+   "acts": [
+    "Civil Aviation Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Australian Federal Police and Other Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-09-06",
+   "acts": [
+    "Civil Aviation Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-03-10",
+   "acts": [
+    "Aviation Transport Security (Consequential Amendments and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Australian Citizenship (Transitionals and Consequentials) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-03-20",
+   "acts": [
+    "Aviation Legislation Amendment (International Airline Licences and Carriers' Liability Insurance) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

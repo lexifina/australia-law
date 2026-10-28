@@ -1,0 +1,559 @@
+{
+ "title_id": "C1959A00006",
+ "name": "Banking Act 1959",
+ "folder": "banking-act-1959",
+ "compilations": [
+  {
+   "in_force": "2026-03-31",
+   "register_id": "C2026C00104",
+   "compilation": "69",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00006',start=2026-03-31,retrospectivestart=2026-03-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00006/2026-03-31/text",
+   "sha256": "fdf145ed2eaba8b555db1088740595d63f814cd077ab28103166c0f73a24338b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1959-04-23",
+   "acts": []
+  },
+  {
+   "in_force": "1962-10-11",
+   "acts": [
+    "Banking (Statistics) Regulations"
+   ]
+  },
+  {
+   "in_force": "1966-02-14",
+   "acts": [
+    "Banking Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1967-11-08",
+   "acts": [
+    "Banking Act 1967"
+   ]
+  },
+  {
+   "in_force": "1973-10-26",
+   "acts": [
+    "Banking Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-11-01",
+   "acts": [
+    "Banking Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-17",
+   "acts": [
+    "Banking Act (No. 2) 1973"
+   ]
+  },
+  {
+   "in_force": "1974-12-23",
+   "acts": [
+    "Banking Act 1974"
+   ]
+  },
+  {
+   "in_force": "1978-09-22",
+   "acts": [
+    "Primary Industry Bank Act 1977"
+   ]
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1982-10-01",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1984-06-29",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1987-11-10",
+   "acts": [
+    "Primary Industry Bank Repeal Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-11-30",
+   "acts": [
+    "Banking Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1989-05-04",
+   "acts": [
+    "Banking Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-11-07",
+   "acts": [
+    "Banking Legislation Amendment Act 1989",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1989-12-28",
+   "acts": [
+    "Banking Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-12-31",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-12-24",
+   "acts": [
+    "Bank Integration Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-12-21",
+   "acts": [
+    "Banking Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-02-05",
+   "acts": [
+    "Banking Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-06-09",
+   "acts": [
+    "Banking (State Bank of South Australia and Other Matters) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Banking Legislation Amendment Act 1992",
+    "Banking (State Bank of South Australia and Other Matters) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-06-22",
+   "acts": [
+    "Banking (State Bank of South Australia and Other Matters) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-09-15",
+   "acts": [
+    "Banking (Queensland Industry Development Corporation) Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-07-19",
+   "acts": [
+    "Commonwealth Bank Sale Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-06-02",
+   "acts": [
+    "Retirement Savings Accounts (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-06-30",
+   "acts": [
+    "Financial Laws Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Statute Law Revision Act 2006",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998"
+   ]
+  },
+  {
+   "in_force": "2000-04-03",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Financial Sector Legislation Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-01-18",
+   "acts": [
+    "Financial Sector Legislation Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Australian Prudential Regulation Authority Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-11-28",
+   "acts": [
+    "Financial Sector Legislation Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2006-12-06",
+   "acts": [
+    "Financial Sector Legislation Amendment (Trans-Tasman Banking Supervision) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-05-26",
+   "acts": [
+    "Financial Sector Legislation Amendment (Review of Prudential Decisions) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-26",
+   "acts": [
+    "First Home Saver Accounts (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-01",
+   "acts": [
+    "First Home Saver Accounts (Further Provisions) Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-18",
+   "acts": [
+    "Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008",
+    "Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-06-23",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 2) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-08-28",
+   "acts": [
+    "Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-18",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 4) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010",
+    "Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-10-17",
+   "acts": [
+    "Banking Amendment (Covered Bonds) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-11-29",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 7) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Treasury Legislation Amendment (Unclaimed Money and Other Measures) Act 2012",
+    "Banking Amendment (Unclaimed Money) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-05-30",
+   "acts": [
+    "Tax Laws Amendment (2014 Measures No. 1) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-31",
+   "acts": [
+    "Banking Laws Amendment (Unclaimed Money) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-06-01",
+   "acts": [
+    "Financial System Legislation Amendment (Resilience and Collateral Protection) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Insolvency Law Reform Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-03-05",
+   "acts": [
+    "Treasury Laws Amendment (Banking Measures No. 1) Act 2018",
+    "Financial Sector Legislation Amendment (Crisis Resolution Powers and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-05",
+   "acts": [
+    "Treasury Laws Amendment (Banking Measures No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Banking Executive Accountability and Related Measures) Act 2018",
+    "Treasury Laws Amendment (Banking Executive Accountability and Related Measures) Act 2018",
+    "Treasury Laws Amendment (Banking Executive Accountability and Related Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-11-30",
+   "acts": [
+    "Treasury Laws Amendment (Financial Sector Regulation) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 1) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Enhancing Whistleblower Protections) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-18",
+   "acts": [
+    "Treasury Laws Amendment (Combating Illegal Phoenixing) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Corporations Amendment (Corporate Insolvency Reforms) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Financial Regulator Assessment Authority (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-08",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 5) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Banking Executive Accountability and Related Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2023-09-15",
+   "acts": [
+    "Financial Accountability Regime (Consequential Amendments) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-20",
+   "acts": [
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-03-15",
+   "acts": [
+    "Financial Accountability Regime (Consequential Amendments) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-03-20",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-09-24",
+   "acts": [
+    "Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-21",
+   "acts": [
+    "Administrative Review Tribunal (Miscellaneous Measures) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

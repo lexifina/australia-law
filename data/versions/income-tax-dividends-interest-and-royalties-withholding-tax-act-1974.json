@@ -1,0 +1,33 @@
+{
+ "title_id": "C2004A00086",
+ "name": "Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974",
+ "folder": "income-tax-dividends-interest-and-royalties-withholding-tax-act-1974",
+ "compilations": [
+  {
+   "in_force": "2007-09-24",
+   "register_id": "C2007C00596",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00086',start=2007-09-24,retrospectivestart=2007-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00086/2007-09-24/text",
+   "sha256": "a3ad07b44e5aacb50e612184d45ec6a2319e4ecde479a410b989b3f9c452d11b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1974-08-01",
+   "acts": []
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Income Tax (Dividends and Interest Withholding Tax) Amendment Act 1992",
+    "Income Tax (Dividends and Interest Withholding Tax) Amendment Act 1992"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

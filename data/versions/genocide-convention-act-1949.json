@@ -1,0 +1,21 @@
+{
+ "title_id": "C1949A00027",
+ "name": "Genocide Convention Act 1949",
+ "folder": "genocide-convention-act-1949",
+ "compilations": [
+  {
+   "in_force": "1949-07-12",
+   "register_id": "C1949A00027",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1949A00027',start=1949-07-12,retrospectivestart=1949-07-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1949A00027/1949-07-12/text",
+   "sha256": "d5166384251aa9056f924c21cda45c205220fb4d0ba1760c1834cd8aac435ca7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

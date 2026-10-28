@@ -1,0 +1,32 @@
+{
+ "title_id": "C1961A00086",
+ "name": "Superannuation (Pension Increases) Act 1961",
+ "folder": "superannuation-pension-increases-act-1961",
+ "compilations": [
+  {
+   "in_force": "2012-09-25",
+   "register_id": "C2012C00783",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1961A00086',start=2012-09-25,retrospectivestart=2012-09-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1961A00086/2012-09-25/text",
+   "sha256": "124b16cef355e3241d4ae3f98514c55b7c8ee899876a0675529ec4c6a303aa9b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1961-10-27",
+   "acts": []
+  },
+  {
+   "in_force": "1963-11-01",
+   "acts": [
+    "Superannuation Act 1963"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

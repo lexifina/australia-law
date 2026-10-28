@@ -1,0 +1,56 @@
+{
+ "title_id": "C1945A00016",
+ "name": "War Gratuity Act 1945",
+ "folder": "war-gratuity-act-1945",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00964",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1945A00016',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1945A00016/2016-10-21/text",
+   "sha256": "204c90f87235fbe221c62ef2281d3ea1b6e79c903a4253497b32b7ca1c02de4c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1945-08-03",
+   "acts": []
+  },
+  {
+   "in_force": "1947-07-10",
+   "acts": [
+    "War Gratuity Act 1947"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1986-05-22",
+   "acts": [
+    "Veterans' Entitlements (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Social Security (Rewrite) Transition Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-08-01",
+   "acts": [
+    "Sex Discrimination Amendment Act 1991"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

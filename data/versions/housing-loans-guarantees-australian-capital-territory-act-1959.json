@@ -1,0 +1,21 @@
+{
+ "title_id": "C1959A00046",
+ "name": "Housing Loans Guarantees (Australian Capital Territory) Act 1959",
+ "folder": "housing-loans-guarantees-australian-capital-territory-act-1959",
+ "compilations": [
+  {
+   "in_force": "1959-05-22",
+   "register_id": "C1959A00046",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00046',start=1959-05-22,retrospectivestart=1959-05-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00046/1959-05-22/text",
+   "sha256": "8f5c488ac8e7a77d344b1e003dd6bd20d0edbb00a893687856c72b65860d8fb8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}
