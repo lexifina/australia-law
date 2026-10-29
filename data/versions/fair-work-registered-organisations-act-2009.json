@@ -1,0 +1,791 @@
+{
+ "title_id": "C2004A03679",
+ "name": "Fair Work (Registered Organisations) Act 2009",
+ "folder": "fair-work-registered-organisations-act-2009",
+ "compilations": [
+  {
+   "in_force": "2024-07-10",
+   "register_id": "C2024C00277",
+   "compilation": "87",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03679',start=2024-07-10,retrospectivestart=2024-07-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03679/2024-07-10/text",
+   "sha256": "e744248545421f7dc8c1e5a4664fc0ffb99a3839b32906d463647e2364006c85"
+  },
+  {
+   "in_force": "2024-08-23",
+   "register_id": "C2024C00345",
+   "compilation": "88",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03679',start=2024-08-23,retrospectivestart=2024-08-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03679/2024-08-23/text",
+   "sha256": "7b940558d6c4ef45611e2f7a58b355b6270ce94fc898d1ace994008e0a01b8b4"
+  },
+  {
+   "in_force": "2026-07-07",
+   "register_id": "C2026C00356",
+   "compilation": "89",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03679',start=2026-07-07,retrospectivestart=2026-07-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03679/2026-07-07/text",
+   "sha256": "17221bdbe844b0fb043e9e39f2ee483457992285f95e7f2b216aa33a1650c088"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-11-08",
+   "acts": []
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-06-20",
+   "acts": [
+    "Remuneration and Allowances Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1990-12-18",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-02-01",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1990",
+    "Industrial Relations Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-02-18",
+   "acts": [
+    "Petroleum (Australia-Indonesia Zone of Cooperation) (Consequential Provisions) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-06-27",
+   "acts": [
+    "Remuneration and Allowances Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-11-30",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Superannuation Guarantee (Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-23",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-08-20",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-11-26",
+   "acts": [
+    "Human Rights and Equal Opportunity Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-13",
+   "acts": [
+    "Sex Discrimination and other Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-21",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-02-04",
+   "acts": [
+    "Coal Industry Legislation Amendment Act 1992",
+    "Coal Industry Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-12-22",
+   "acts": [
+    "Industrial Relations Reform Act 1993",
+    "Industrial Relations Court (Judges' Remuneration) Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-02",
+   "acts": [
+    "Industrial Relations Reform Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-19",
+   "acts": [
+    "Industrial Relations and Other Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-03-24",
+   "acts": [
+    "Industrial Relations Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-03-30",
+   "acts": [
+    "Industrial Relations Reform Act 1993",
+    "Industrial Relations Reform Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-06-22",
+   "acts": [
+    "Industrial Relations Reform Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-06-30",
+   "acts": [
+    "Industrial Relations Amendment Act (No. 2) 1994",
+    "Industrial Relations Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-08-18",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-30",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-01-15",
+   "acts": [
+    "Industrial Relations and other Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-11-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-12-05",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-12-19",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act (No. 2) 1996"
+   ]
+  },
+  {
+   "in_force": "1996-12-31",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996",
+    "Workplace Relations and Other Legislation Amendment Act 1996",
+    "Workplace Relations and Other Legislation Amendment Act (No. 2) 1996"
+   ]
+  },
+  {
+   "in_force": "1997-01-01",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996",
+    "Workplace Relations and Other Legislation Amendment Act (No. 2) 1996"
+   ]
+  },
+  {
+   "in_force": "1997-01-17",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-03-12",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-03-13",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act (No. 2) 1996"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-12-11",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-06-11",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-10-20",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Youth Employment) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-26",
+   "acts": [
+    "Timor Gap Treaty (Transitional Arrangements) Act 2000"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-04-13",
+   "acts": [
+    "Human Rights Legislation Amendment Act (No. 1) 1999",
+    null
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Jurisdiction of Courts Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-03-22",
+   "acts": [
+    "Workplace Relations Amendment (Tallies) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-08-30",
+   "acts": [
+    "Workplace Relations Amendment (Termination of Employment) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-03-23",
+   "acts": [
+    "Workplace Relations Amendment (Tallies) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-05-12",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-05-20",
+   "acts": [
+    "Petroleum (Timor Sea Treaty) (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2002-12-11",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002",
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-12",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002",
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-02-07",
+   "acts": [
+    "Workplace Relations Amendment (Genuine Bargaining) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-02-14",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-05-09",
+   "acts": [
+    "Workplace Relations Amendment (Prohibition of Compulsory Union Fees) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-05-12",
+   "acts": [
+    "Workplace Relations Amendment (Registration and Accountability of Organisations) Act 2002",
+    "Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-05-29",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-06-11",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002",
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-06-14",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Superannuation Legislation (Commonwealth Employment) Repeal and Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-07-15",
+   "acts": [
+    "Workplace Relations Amendment (Protection for Emergency Management Volunteers) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-07-16",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2003-11-27",
+   "acts": [
+    "Workplace Relations Amendment (Fair Termination) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-01-01",
+   "acts": [
+    "Workplace Relations Amendment (Improved Protection for Victorian Workers) Act 2003",
+    "Workplace Relations Amendment (Improved Protection for Victorian Workers) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-04-30",
+   "acts": [
+    "Workplace Relations Amendment (Transmission of Business) Act 2004",
+    "Workplace Relations Amendment (Improved Remedies for Unprotected Action) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-23",
+   "acts": [
+    "Age Discrimination (Consequential Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-13",
+   "acts": [
+    "Workplace Relations Amendment (Codifying Contempt Offences) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-08-10",
+   "acts": [
+    "Workplace Relations Amendment (Codifying Contempt Offences) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-11-27",
+   "acts": [
+    "Statute Law Revision Act 2005"
+   ]
+  },
+  {
+   "in_force": "2004-12-15",
+   "acts": [
+    "Workplace Relations Amendment (Agreement Validation) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-13",
+   "acts": [
+    "Workplace Relations Amendment (Codifying Contempt Offences) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-09",
+   "acts": [
+    "Building and Construction Industry Improvement (Consequential and Transitional) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-09-12",
+   "acts": [
+    "Building and Construction Industry Improvement (Consequential and Transitional) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-14",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) Act 2005",
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)",
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)",
+    "Workplace Relations Regulations 2006",
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2006-03-31",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2006-12-11",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Independent Contractors) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-12",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2007-03-01",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Independent Contractors) Act 2006",
+    "Workplace Relations Legislation Amendment (Independent Contractors) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-28",
+   "acts": [
+    "Workplace Relations Amendment (A Stronger Safety Net) Act 2007",
+    "Workplace Relations Amendment (A Stronger Safety Net) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Workplace Relations Amendment (A Stronger Safety Net) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-03-28",
+   "acts": [
+    "Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Statute Law Revision Act 2010",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-04",
+   "acts": [
+    "Evidence Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-01",
+   "acts": [
+    "Building and Construction Industry Improvement Amendment (Transition to Fair Work) Regulation 2012"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Fair Work (Registered Organisations) Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-05",
+   "acts": [
+    "Fair Work Amendment (Transfer of Business) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012",
+    "Fair Work Amendment Act 2012",
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Fair Work Amendment Act 2012",
+    "Fair Work (Registered Organisations) Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-08-01",
+   "acts": [
+    "Sex Discrimination Amendment (Sexual Orientation, Gender Identity and Intersex Status) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012",
+    "Fair Work (Registered Organisations) Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-12-02",
+   "acts": [
+    "Building and Construction Industry (Consequential and Transitional Provisions) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-05-01",
+   "acts": [
+    "Fair Work (Registered Organisations) Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-05-02",
+   "acts": [
+    "Fair Work (Registered Organisations) Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "Fair Work (Registered Organisations) Amendment (Withdrawal from Amalgamations) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-02-06",
+   "acts": [
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-03-06",
+   "acts": [
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022",
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-02-27",
+   "acts": [
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2026-12-01",
+   "acts": [
+    "Treasury Laws Amendment (Financial Reporting System Reform) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

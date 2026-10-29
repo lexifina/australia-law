@@ -1,0 +1,34 @@
+{
+ "title_id": "C2004A04353",
+ "name": "Coal Mining Industry (Long Service Leave) Payroll Levy Act 1992",
+ "folder": "coal-mining-industry-long-service-leave-payroll-levy-act-1992",
+ "compilations": [
+  {
+   "in_force": "1999-09-22",
+   "register_id": "C2004C00764",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04353',start=1999-09-22,retrospectivestart=1999-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04353/1999-09-22/text",
+   "sha256": "be32e88ec34f7c7526fd2e06998672e370dce9ddb60cbe58cf3c599f87fb2585"
+  },
+  {
+   "in_force": "2012-01-01",
+   "register_id": "C2012C00097",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04353',start=2012-01-01,retrospectivestart=2012-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04353/2012-01-01/text",
+   "sha256": "a83ca476eaf402ea98faa925b12817562800110044de3285c301dc526ac3566f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1992-06-26"
+ ],
+ "repeal": null
+}

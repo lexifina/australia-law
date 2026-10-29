@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A03042",
+ "name": "Trust Recoupment Tax Act 1985",
+ "folder": "trust-recoupment-tax-act-1985",
+ "compilations": [
+  {
+   "in_force": "1989-06-21",
+   "register_id": "C2004C00174",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03042',start=1989-06-21,retrospectivestart=1989-06-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03042/1989-06-21/text",
+   "sha256": "b30da874c581b23f4da2efdc01aa4e822ee5b3e6f4e18f975b459e6dfac0f57c"
+  },
+  {
+   "in_force": "2006-07-01",
+   "register_id": "C2006C00322",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03042',start=2006-07-01,retrospectivestart=2006-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03042/2006-07-01/text",
+   "sha256": "314f451789d31397a92e8bb386162ee0856d2f22ffdd8981cb4186b3aea34c12"
+  },
+  {
+   "in_force": "2014-06-25",
+   "register_id": "C2014C00331",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03042',start=2014-06-25,retrospectivestart=2014-06-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03042/2014-06-25/text",
+   "sha256": "b33381cbe8f2ad2398839ad7762472c0197f4a00edde83d56701922f7b177b71"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1985-03-29",
+   "acts": []
+  },
+  {
+   "in_force": "1986-11-04",
+   "acts": [
+    "Taxation Laws (Miscellaneous Provisions) Act 1986"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

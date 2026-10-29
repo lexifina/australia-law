@@ -1,0 +1,132 @@
+{
+ "title_id": "C2005A00005",
+ "name": "Australian Passports Act 2005",
+ "folder": "australian-passports-act-2005",
+ "compilations": [
+  {
+   "in_force": "2024-06-14",
+   "register_id": "C2024C00231",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00005',start=2024-06-14,retrospectivestart=2024-06-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00005/2024-06-14/text",
+   "sha256": "d53da6e816b256d9fedb6376e3a1506076384bc9015e8db7df16a2ff3d513a8c"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00528",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00005',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00005/2024-10-14/text",
+   "sha256": "1e70e2b97cc149ce6afc029ea9e2118e0cd7e659cbf19dff650249428fa07ba4"
+  },
+  {
+   "in_force": "2025-11-08",
+   "register_id": "C2025C00643",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00005',start=2025-11-08,retrospectivestart=2025-11-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00005/2025-11-08/text",
+   "sha256": "bb5e999d07f0f23b97c5be327ccc2e8b27ff3646eacfc2be61d52c6000435807"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2005-02-18",
+   "acts": []
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Statute Law Revision Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Family Law Amendment (Shared Parental Responsibility) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Australian Citizenship (Transitionals and Consequentials) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-10-08",
+   "acts": [
+    "Passports Legislation Amendment (Integrity) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-12-13",
+   "acts": [
+    "Passports Legislation Amendment (Overseas Travel by Child Sex Offenders) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-04-02",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 1) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

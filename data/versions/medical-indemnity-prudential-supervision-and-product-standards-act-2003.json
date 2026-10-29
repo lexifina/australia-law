@@ -1,0 +1,92 @@
+{
+ "title_id": "C2004A01121",
+ "name": "Medical Indemnity (Prudential Supervision and Product Standards) Act 2003",
+ "folder": "medical-indemnity-prudential-supervision-and-product-standards-act-2003",
+ "compilations": [
+  {
+   "in_force": "2011-07-01",
+   "register_id": "C2011C00468",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01121',start=2011-07-01,retrospectivestart=2011-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01121/2011-07-01/text",
+   "sha256": "943a0a19a7d75a0f9bd9b1b0ca9077d5b08846ff88e28ef28ca5ae25034ddc3f"
+  },
+  {
+   "in_force": "2020-07-01",
+   "register_id": "C2020C00234",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01121',start=2020-07-01,retrospectivestart=2020-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01121/2020-07-01/text",
+   "sha256": "b35f66dcd697900e3371af3fc023d9155fc4160f1684445c385420a5404faebb"
+  },
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00421",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01121',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01121/2023-10-20/text",
+   "sha256": "45ae25f24d73165fb7b0a166a01257b8cf65ad28c307d8277352a94a44ed0945"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-05-02",
+   "acts": []
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-23",
+   "acts": [
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004",
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004",
+    "Medical Indemnity Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2005-03-21",
+   "acts": [
+    "Medical Indemnity Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-22",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-11-04",
+   "acts": [
+    "Medical Indemnity Legislation Amendment Act 2006"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00046",
+ "name": "Public and Educational Lending Rights (Better Income for Authors) Consequential Amendments and Transitional Provisions Act 2026",
+ "folder": "public-and-educational-lending-rights-better-income-for-authors",
+ "compilations": [
+  {
+   "in_force": "2026-05-20",
+   "register_id": "C2026A00046",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00046',start=2026-05-20,retrospectivestart=2026-05-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00046/2026-05-20/text",
+   "sha256": "47a814b0af63ad9319fd47f5bdbce858520f5e6a4aac591192a3b68782a38fc5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

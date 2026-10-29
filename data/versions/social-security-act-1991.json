@@ -1,0 +1,2752 @@
+{
+ "title_id": "C2004A04121",
+ "name": "Social Security Act 1991",
+ "folder": "social-security-act-1991",
+ "compilations": [
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00336",
+   "compilation": "232",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04121',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04121/2026-07-01/text",
+   "sha256": "cd8816b57c0309b15d3a7183d3e03e5e151094e38df58a2636572d7566733a87"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00427",
+   "compilation": "233",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04121',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04121/2026-09-19/text",
+   "sha256": "d9d2876abd8852d06c7c8cc7eeb116a4ea471cd29857c6bc951668a86607fcf1"
+  },
+  {
+   "in_force": "2026-09-20",
+   "register_id": "C2026C00449",
+   "compilation": "234",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04121',start=2026-09-20,retrospectivestart=2026-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04121/2026-09-20/text",
+   "sha256": "d16d6df392b2c0d38ab6a02aa7eb5e3776721ff40632f76b3f65153c95758bc2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-01-01",
+   "acts": []
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Social Security (Job Search and Newstart) Amendment Act 1991",
+    "Social Security Legislation Amendment Act 1991",
+    "Social Security Legislation Amendment Act 1991",
+    "Social Security (Rewrite) Transition Act 1991",
+    "Veterans' Entitlements (Rewrite) Transition Act 1991",
+    "Veterans' Affairs Legislation Amendment Act 1991",
+    "Social Security Legislation Amendment Act (No. 2) 1991",
+    "Social Security (Rewrite) Amendment Act 1991",
+    "Social Security Legislation Amendment Act (No. 4) 1991",
+    "Social Security Legislation Amendment Act 1992",
+    "Social Security Legislation Amendment Act 1992",
+    "Veterans' Affairs Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1991-07-24",
+   "acts": [
+    "Social Security Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-08-17",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-11-12",
+   "acts": [
+    "Social Security (Disability and Sickness Support) Amendment Act 1991",
+    "Social Security Legislation Amendment Act (No. 3) 1991",
+    "Social Security Legislation Amendment Act (No. 3) 1991",
+    "Social Security Legislation Amendment Act (No. 4) 1991",
+    "Social Security Legislation Amendment Act 1992",
+    "Social Security Legislation Amendment Act 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act (No. 2) 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1991",
+    "Social Security Legislation Amendment Act (No. 4) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-13",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 4) 1991",
+    "Social Security Legislation Amendment Act 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-01-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1991",
+    "Social Security Legislation Amendment Act (No. 4) 1991",
+    "Social Security Legislation Amendment Act (No. 4) 1991",
+    "Social Security Legislation Amendment Act (No. 4) 1991",
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1992-01-02",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act (No. 2) 1991",
+    "Social Security Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-03-12",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 4) 1991",
+    "Social Security Legislation Amendment Act 1992",
+    "Social Security Legislation Amendment Act 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act 1994",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1992-03-20",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1991",
+    "Social Security Legislation Amendment Act (No. 4) 1991",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-03-24",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-03-26",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-04-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-04-02",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-06-29",
+   "acts": [
+    "Social Security Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Social Security Legislation Amendment Act 1992",
+    "Social Security Legislation Amendment Act 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1991",
+    "Social Security Legislation Amendment Act (No. 4) 1991",
+    "Social Security Legislation Amendment Act 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1992-10-27",
+   "acts": [
+    "Sales Tax Amendment (Transitional) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-11-02",
+   "acts": [
+    "Social Security Amendment Act 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act (No. 3) 1992",
+    "Social Security Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-01-01",
+   "acts": [
+    "Social Security (Family Payment) Amendment Act 1992",
+    "Social Security Amendment Act (No. 2) 1992",
+    "Student Assistance Amendment Act 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act (No. 3) 1992",
+    "Social Security Legislation Amendment Act (No. 3) 1992",
+    "Social Security Legislation Amendment Act (No. 3) 1992",
+    "Seafarers Rehabilitation and Compensation (Transitional Provisions and Consequential Amendments) Act 1992",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1994",
+    "Social Security Legislation Amendment Act (No. 1) 1996"
+   ]
+  },
+  {
+   "in_force": "1993-01-28",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1992",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1993-03-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1992",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1993-03-20",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1992",
+    "Social Security Legislation Amendment Act (No. 3) 1992",
+    "Farm Household Support Act 1992",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1993-03-25",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1992",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1994",
+    "Social Security Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1993-04-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1992",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act (No. 1) 1995",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1993-06-09",
+   "acts": [
+    "Social Security Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1992",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1993-09-19",
+   "acts": [
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1993-09-20",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1992",
+    "Social Security Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act (No. 2) 1994",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1993-10-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-11-03",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1993-11-29",
+   "acts": [
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1993-12-24",
+   "acts": [
+    "Social Security Amendment Act (No. 2) 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1994-01-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 4) 1991",
+    "Social Security Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act (No. 2) 1993",
+    "Social Security Legislation Amendment Act (No. 2) 1993",
+    "Social Security Amendment Act (No. 2) 1993",
+    "Social Security Amendment Act (No. 2) 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act (No. 1) 1995",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1994-03-20",
+   "acts": [
+    "Social Security Amendment Act (No. 2) 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-05-19",
+   "acts": [
+    "Social Security Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-06-21",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993",
+    "Social Security Legislation Amendment Act 1994",
+    "Social Security Legislation Amendment Act 1994",
+    "Commonwealth Reciprocal Recovery Legislation Amendment Act 1994",
+    "Social Security Legislation Amendment Act (No. 2) 1994",
+    "Social Security (1994 Budget and White Paper) Amendment Act 1994",
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1994-07-04",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-12",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-09-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1994",
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-09-20",
+   "acts": [
+    "Social Security (Home Child Care and Partner Allowances) Legislation Amendment Act 1994",
+    "Social Security Legislation Amendment Act (No. 2) 1994",
+    "Statute Law Revision Act 1996",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1994-09-29",
+   "acts": [
+    "Social Security (Home Child Care and Partner Allowances) Legislation Amendment Act 1994",
+    "Social Security Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-10-18",
+   "acts": [
+    "Drought Relief Payment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-01",
+   "acts": [
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-09",
+   "acts": [
+    "Social Security (1994 Budget and White Paper) Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-13",
+   "acts": [
+    "Social Security (New Zealand Agreement) Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-16",
+   "acts": [
+    "Social Security (1994 Budget and White Paper) Amendment Act 1994",
+    "Veterans' Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-19",
+   "acts": [
+    "Employment Services (Consequential Amendments) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-01-01",
+   "acts": [
+    "Student Assistance (Youth Training Allowance—Transitional Provisions and Consequential Amendments) Act 1994",
+    "Social Security Legislation Amendment Act (No. 2) 1994",
+    "Social Security (New Zealand Agreement) Amendment Act 1994",
+    "Social Security (1994 Budget and White Paper) Amendment Act 1994",
+    "Social Security (1994 Budget and White Paper) Amendment Act 1994",
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994",
+    "Employment Services (Consequential Amendments) Act 1994",
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995",
+    "Social Security Legislation Amendment Act (No. 1) 1995",
+    "Social Security Legislation Amendment Act (No. 1) 1995",
+    "Social Security Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-01-09",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-01-13",
+   "acts": [
+    "Social Security (1994 Budget and White Paper) Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-03-20",
+   "acts": [
+    "Social Security (1994 Budget and White Paper) Amendment Act 1994",
+    "Social Security (1994 Budget and White Paper) Amendment Act 1994",
+    "Social Security (1994 Budget and White Paper) Amendment Act 1994",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-03-30",
+   "acts": [
+    "Veterans' Affairs (1994-95 Budget Measures) Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-05-29",
+   "acts": [
+    "Child Support Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-06-30",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994",
+    "Life Insurance (Consequential Amendments and Repeals) Act 1995",
+    "Superannuation Laws Amendment (Small Accounts and Other Measures) Act 1995",
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Social Security Legislation Amendment (Newly Arrived Resident's Waiting Periods and Other Measures) Act 1997",
+    "Statute Law Revision Act 1996",
+    "Social Security Legislation Amendment Act (No. 1) 1995",
+    "Social Security Legislation Amendment Act (No. 1) 1995",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-09-29",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 1) 1995",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-10-01",
+   "acts": [
+    "Veterans' Affairs (1995-96 Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-11-20",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 1) 1996"
+   ]
+  },
+  {
+   "in_force": "1995-12-12",
+   "acts": [
+    "Family Law Reform (Consequential Amendments) Act 1995",
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Employment Services Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-01-01",
+   "acts": [
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997",
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997",
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997",
+    "Social Security Legislation Amendment Act (No. 1) 1996",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995",
+    "Social Security Legislation Amendment (Family Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-01-09",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-02-01",
+   "acts": [
+    "Social Security Legislation Amendment (Family Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-03-01",
+   "acts": [
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-03-19",
+   "acts": [
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Veterans' Affairs Legislation Amendment (1995-96 Budget Measures) Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-03-20",
+   "acts": [
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-03-21",
+   "acts": [
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-07-01",
+   "acts": [
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-07-09",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995",
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-09-01",
+   "acts": [
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-09-20",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-12-23",
+   "acts": [
+    "Social Security Legislation Amendment (Further Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-01-01",
+   "acts": [
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995",
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997",
+    "Family (Tax Initiative) Act 1996",
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-03-04",
+   "acts": [
+    "Social Security Legislation Amendment (Newly Arrived Resident's Waiting Periods and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-03-20",
+   "acts": [
+    "Social Security Legislation Amendment (Activity Test Penalty Periods) Act 1997",
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996",
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-18",
+   "acts": [
+    "Hearing Services and AGHS Reform Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-06-30",
+   "acts": [
+    "Aged Care Income Testing Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997",
+    "Commonwealth Services Delivery Agency (Consequential Amendments) Act 1997",
+    "Aged Care (Consequential Provisions) Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Social Security Legislation Amendment (Further Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-07",
+   "acts": [
+    "Social Security Legislation Amendment (Work for the Dole) Act 1997",
+    "Aged Care (Consequential Provisions) Act 1997",
+    "Aged Care (Consequential Provisions) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-10",
+   "acts": [
+    "Social Security Legislation Amendment (Activity Test Penalty Periods) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-09-15",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Retirement Assistance for Farmers) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1997-09-20",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Male Total Average Weekly Earnings Benchmark) Act 1997",
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997",
+    "Social Security Amendment (2007 Measures No. 1) Act 2007",
+    "Social Security Legislation Amendment (Further Budget and Other Measures) Act 1996",
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-10-01",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 2) 1997",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-10-20",
+   "acts": [
+    "Social Security Legislation Amendment (Activity Test Penalty Periods) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-03",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-25",
+   "acts": [
+    "Farm Household Support Amendment (Restart and Exceptional Circumstances) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-08",
+   "acts": [
+    "Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-15",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-16",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998",
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-17",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1997-12-31",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997",
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-02-01",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-03-01",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-03-20",
+   "acts": [
+    "Family and Community Services Legislation Amendment Act 2003",
+    "Social Security Legislation Amendment (Parenting and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-04-01",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997",
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997",
+    "Social Security Legislation Amendment (Parenting and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-06-17",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Social Security Amendment (2007 Measures No. 1) Act 2007"
+   ]
+  },
+  {
+   "in_force": "1998-06-30",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Pension Bonus Scheme) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Financial Sector Reform (Consequential Amendments) Act 1998",
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998",
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998",
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998",
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998",
+    "Family and Community Services Legislation Amendment Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Social Security Legislation Amendment (Parenting and Other Measures) Act 1997",
+    "Social Security Legislation Amendment (Parenting and Other Measures) Act 1997",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Social Security Legislation Amendment (Youth Allowance) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-15",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-09-20",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998",
+    "Youth Allowance Consolidation Act 2000",
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "1998-12-15",
+   "acts": [
+    "Child Support Legislation Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-12-24",
+   "acts": [
+    "Payment Processing Legislation Amendment (Social Security and Veterans' Entitlements) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-01-01",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Youth Allowance Consolidation Act 2000",
+    "1998 Budget Measures Legislation Amendment (Social Security and Veterans' Entitlements) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-04-09",
+   "acts": [
+    "Assistance for Carers Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998",
+    "Assistance for Carers Legislation Amendment Act 1999",
+    "Assistance for Carers Legislation Amendment Act 1999",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999",
+    "Youth Allowance Consolidation Act 2000",
+    "Social Security Legislation Amendment (Parenting and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-07-08",
+   "acts": [
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-09-01",
+   "acts": [
+    "1998 Budget Measures Legislation Amendment (Social Security and Veterans' Entitlements) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-10-01",
+   "acts": [
+    "Social Security (Family Allowance and Related Matters) Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-21",
+   "acts": [
+    "Aged Care Amendment (Omnibus) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-11-11",
+   "acts": [
+    "Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999",
+    "Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Family and Community Services Legislation Amendment (1999 Budget and Other Measures) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-01-01",
+   "acts": [
+    "Youth Allowance Consolidation Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-02-01",
+   "acts": [
+    "Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-01",
+   "acts": [
+    "Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999",
+    "Family and Community Services Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-03-20",
+   "acts": [
+    "Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999",
+    "Social Security (Administration and International Agreements) (Consequential Amendments) Act 1999",
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2004 Budget Measures) Act 2004",
+    "Social Security Amendment (Extension of Youth Allowance and Austudy Eligibility to New Apprentices) Act 2005",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Social Security Amendment (2007 Measures No. 2) Act 2007",
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2000-04-01",
+   "acts": [
+    "Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-04-03",
+   "acts": [
+    "Dairy Industry Adjustment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-06-27",
+   "acts": [
+    "Family and Community Services Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Compensation Measures Legislation Amendment) Act 1999",
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999",
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999",
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999",
+    "A New Tax System (Family Assistance and Related Measures) Act 2000",
+    "A New Tax System (Family Assistance and Related Measures) Act 2000",
+    "A New Tax System (Family Assistance and Related Measures) Act 2000",
+    "A New Tax System (Family Assistance and Related Measures) Act 2000",
+    "Family and Community Services Legislation Amendment Act 2000",
+    "Social Security and Veterans' Entitlements Legislation Amendment (Miscellaneous Matters) Act 2000",
+    "Family and Community Services Legislation (Simplification and Other Measures) Act 2001",
+    "Family and Community Services Legislation Amendment Act 2003",
+    "A New Tax System (Tax Administration) Act 1999",
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-06",
+   "acts": [
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999",
+    "Family and Community Services Legislation Amendment (1999 Budget and Other Measures) Act 1999",
+    "A New Tax System (Tax Administration) Act (No. 1) 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Youth Allowance Consolidation Act 2000",
+    "Family and Community Services Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2000-08-01",
+   "acts": [
+    "Further 1998 Budget Measures Legislation Amendment (Social Security) Act 1999",
+    "Social Security and Veterans' Entitlements Legislation Amendment (Miscellaneous Matters) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-09-07",
+   "acts": [
+    "Retirement Assistance for Farmers Scheme Extension Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-09-20",
+   "acts": [
+    "Social Security and Veterans' Entitlements Legislation Amendment (Miscellaneous Matters) Act 2000",
+    "Social Security and Veterans' Entitlements Legislation Amendment (Miscellaneous Matters) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-11-13",
+   "acts": [
+    "Social Security and Veterans' Entitlements Legislation Amendment (Private Trusts and Private Companies—Integrity of Means Testing) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-11-24",
+   "acts": [
+    "Family and Community Services (2000 Budget and Related Measures) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-12-18",
+   "acts": [
+    "Farm Household Support Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-01-01",
+   "acts": [
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999",
+    "Family and Community Services (2000 Budget and Related Measures) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-03-30",
+   "acts": [
+    "Family and Community Services Legislation Amendment (New Zealand Citizens) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-04-19",
+   "acts": [
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-05-25",
+   "acts": [
+    "Family and Community Services Legislation Amendment (One-off Payment to the Aged) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-06-12",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (Debt Recovery) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-06-30",
+   "acts": [
+    "New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "Family and Community Services Legislation Amendment (New Zealand Citizens) Act 2001",
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (Further Assistance for Older Australians) Act 2001",
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (Debt Recovery) Act 2001",
+    "Social Security Legislation Amendment (Concession Cards) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-09-01",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (Further Assistance for Older Australians) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-09-20",
+   "acts": [
+    "Family and Community Services Legislation (Simplification and Other Measures) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Social Security and Veterans' Entitlements Legislation Amendment (Retirement Assistance for Farmers) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Social Security and Veterans' Entitlements Legislation Amendment (Disposal of Assets Integrity of Means Testing) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-09-06",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-11-10",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Budget Initiatives and Other Measures) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-28",
+   "acts": [
+    "Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Special Benefit Activity Test) Act 2002",
+    "Social Security (Fares Allowance for Private Transport) Determination 2002 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2003-04-15",
+   "acts": [
+    "Family and Community Services Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-05-22",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Australians Working Together and other 2001 Budget Measures) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-09-20",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Special Benefit Activity Test) Act 2002",
+    "Family and Community Services Legislation Amendment (Australians Working Together and other 2001 Budget Measures) Act 2003",
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003",
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003",
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003",
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003",
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003",
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-11-27",
+   "acts": [
+    "Farm Household Support Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-12-05",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-01-01",
+   "acts": [
+    "Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-03-25",
+   "acts": [
+    "Social Security Amendment (Further Simplification) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-05-26",
+   "acts": [
+    "Family Assistance Legislation Amendment (More Help for Families—One-off Payments) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003",
+    "Social Security Amendment (Further Simplification) Act 2004",
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-13",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (Sugar Reform) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-08-31",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2004 Budget Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-09-01",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2004 Budget Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-09-20",
+   "acts": [
+    "Veterans' Entitlements (Clarke Review) Act 2004",
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (Income Streams) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-01",
+   "acts": [
+    "Bankruptcy Legislation Amendment Act 2004",
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2004 Election Commitments) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-03-21",
+   "acts": [
+    "Family and Community Services and Veterans’ Affairs Legislation Amendment (Further 2004 Election Commitments and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-24",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Commission Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-04-01",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2004 Election Commitments) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-05-25",
+   "acts": [
+    "Social Security Legislation Amendment (One-off Payments for Carers) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Family Assistance and Related Measures) Act 2005",
+    "Social Security Amendment (Extension of Youth Allowance and Austudy Eligibility to New Apprentices) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-06",
+   "acts": [
+    "Statute Law Revision Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-14",
+   "acts": [
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-01-01",
+   "acts": [
+    "Family Assistance, Social Security and Veterans' Affairs Legislation Amendment (2005 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) Act 2005",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-05-04",
+   "acts": [
+    "Family Assistance, Social Security and Veterans' Affairs Legislation Amendment (2005 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-05-22",
+   "acts": [
+    "Social Security and Veterans' Entitlements Legislation Amendment (One-off Payments to Increase Assistance for Older Australians and Carers and Other Measures) Act 2006",
+    "Student Assistance Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-30",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) Act 2005",
+    "Student Assistance Legislation Amendment Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-20",
+   "acts": [
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) Act 2005",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006",
+    "Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Social Security and Family Assistance Legislation Amendment (Miscellaneous Measures) Act 2006",
+    "Social Security and Family Assistance Legislation Amendment (Miscellaneous Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-01",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006",
+    "Australian Participants in British Nuclear Tests (Treatment) (Consequential Amendments and Transitional Provisions) Act 2006",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2006-12-08",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs and Veterans' Affairs Legislation Amendment (2006 Budget Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs and Veterans' Affairs Legislation Amendment (2006 Budget Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-14",
+   "acts": [
+    "OHS and SRC Legislation Amendment Act 2006",
+    "OHS and SRC Legislation Amendment Act 2006",
+    "OHS and SRC Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-15",
+   "acts": [
+    "Farm Household Support Amendment Act 2007",
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Vocational Rehabilitation Services) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-05-11",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (One-off Payments and Other 2007 Budget Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-21",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-28",
+   "acts": [
+    "Corporations Legislation Amendment (Simpler Regulatory System) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Tax Laws Amendment (Simplified Superannuation) Act 2007",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Social Security Amendment (Apprenticeship Wage Top-Up for Australian Apprentices) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-08-18",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Welfare Payment Reform) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-20",
+   "acts": [
+    "Tax Laws Amendment (Simplified Superannuation) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-28",
+   "acts": [
+    "Social Security Legislation Amendment (2007 Budget Measures for Students) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-29",
+   "acts": [
+    "Social Security Amendment (2007 Measures No. 1) Act 2007",
+    "Social Security Amendment (2007 Measures No. 2) Act 2007",
+    "Social Security Amendment (2007 Measures No. 2) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-10-01",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Care and Other 2007 Budget Measures) Act 2007",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Disability Assistance) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-12-08",
+   "acts": [
+    "Social Security Amendment (2007 Measures No. 1) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Social Security Amendment (2007 Measures No. 1) Act 2007",
+    "Social Security Amendment (2007 Measures No. 2) Act 2007",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Further 2007 Budget Measures) Act 2007",
+    "Social Security Legislation Amendment (2007 Budget Measures for Students) Act 2007",
+    "Employment and Workplace Relations Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2008-03-20",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Enhanced Allowances) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-05-26",
+   "acts": [
+    "Social Security and Veterans' Entitlements Legislation Amendment (One-off Payments and Other Budget Measures) Act 2008",
+    "Social Security and Veterans' Entitlements Legislation Amendment (One-off Payments and Other Budget Measures) Act 2008",
+    "Social Security and Veterans' Entitlements Legislation Amendment (One-off Payments and Other Budget Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-24",
+   "acts": [
+    "Farm Household Support Amendment (Additional Drought Assistance Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-26",
+   "acts": [
+    "First Home Saver Accounts (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-30",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2008 Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Social Security and Veterans' Entitlements Legislation Amendment (One-off Payments and Other Budget Measures) Act 2008",
+    "Veterans' Entitlements Legislation Amendment (2007 Election Commitments) Act 2008",
+    "Social Security and Other Legislation Amendment (Employment Entry Payment) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-09-01",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2008 Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-26",
+   "acts": [
+    "Dairy Adjustment Levy Termination Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Economic Security Strategy) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Household Stimulus Package Act (No. 2) 2009"
+   ]
+  },
+  {
+   "in_force": "2009-02-18",
+   "acts": [
+    "Household Stimulus Package Act (No. 2) 2009",
+    "Tax Bonus for Working Australians (Consequential Amendments) Act (No. 2) 2009",
+    "Social Security Amendment (Liquid Assets Waiting Period) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-03-01",
+   "acts": [
+    "Family Law Amendment (De Facto Financial Matters and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-27",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-04-01",
+   "acts": [
+    "Social Security Amendment (Liquid Assets Waiting Period) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-05-27",
+   "acts": [
+    "Social Security and Family Assistance Legislation Amendment (2009 Budget Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-06-04",
+   "acts": [
+    "Employment and Workplace Relations Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-06-29",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Pension Reform and Other 2009 Budget Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008",
+    "Household Stimulus Package Act (No. 2) 2009",
+    "Social Security Legislation Amendment (Employment Services Reform) Act 2009",
+    "Social Security Legislation Amendment (Employment Services Reform) Act 2009",
+    "Employment and Workplace Relations Amendment Act 2009",
+    "Social Security Amendment (Training Incentives) Act 2009",
+    "Social Security Legislation Amendment (Improved Support for Carers) Act 2009",
+    "Social Security Legislation Amendment (Improved Support for Carers) (Consequential and Transitional) Act 2009",
+    "Family Assistance and Other Legislation Amendment (2008 Budget and Other Measures) Act 2009",
+    "Social Security and Other Legislation Amendment (Australian Apprentices) Act 2009",
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Social Security and Other Legislation Amendment (Pension Reform and Other 2009 Budget Measures) Act 2009",
+    "Social Security and Other Legislation Amendment (Income Support for Students) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2009-09-20",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Pension Reform and Other 2009 Budget Measures) Act 2009",
+    "Veterans' Affairs and Other Legislation Amendment (Pension Reform) Act 2009",
+    "Veterans' Affairs and Other Legislation Amendment (Pension Reform) Act 2009",
+    "Veterans' Affairs and Other Legislation Amendment (Pension Reform) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-21",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Pension Reform and Other 2009 Budget Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-04",
+   "acts": [
+    "Social Security Amendment (National Green Jobs Corps Supplement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Pension Reform and Other 2009 Budget Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-02-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010",
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-25",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Income Support for Students) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Income Support for Students) Act 2010",
+    "Social Security and Other Legislation Amendment (Income Support for Students) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-13",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-14",
+   "acts": [
+    "Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-30",
+   "acts": [
+    "Social Security and Indigenous Legislation Amendment (Budget and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Pension Reform and Other 2009 Budget Measures) Act 2009",
+    "Social Security and Other Legislation Amendment (Income Support for Students) Act 2010",
+    "Tax Laws Amendment (Transfer of Provisions) Act 2010",
+    "Social Security Amendment (Flexible Participation Requirements for Principal Carers) Act 2010",
+    "Social Security and Indigenous Legislation Amendment (Budget and Other Measures) Act 2010",
+    "Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-10-01",
+   "acts": [
+    "Paid Parental Leave (Consequential Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-17",
+   "acts": [
+    "Veterans' Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Budget and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-05-26",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Budget and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-06-27",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Election Commitments and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-06-28",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Election Commitments and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Budget and Other Measures) Act 2011",
+    "Social Security Amendment (Parenting Payment Transitional Arrangement) Act 2011",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Election Commitments and Other Measures) Act 2011",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Election Commitments and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-08-22",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-09-03",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-09-20",
+   "acts": [
+    "Veterans' Entitlements Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-11-30",
+   "acts": [
+    "Social Security and Other Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Election Commitments and Other Measures) Act 2011",
+    "Social Security and Other Legislation Amendment Act 2011",
+    "Work Health and Safety (Transitional and Consequential Provisions) Act 2011",
+    "Social Security Legislation Amendment (Family Participation Measures) Act 2011",
+    "Social Security Amendment (Student Income Support Reforms) Act 2011",
+    "Social Security Amendment (Student Income Support Reforms) Act 2011",
+    "Family Assistance and Other Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2012-05-14",
+   "acts": [
+    "Clean Energy (Household Assistance Amendments) Act 2011",
+    "Clean Energy (Household Assistance Amendments) Act 2011",
+    "Clean Energy (Household Assistance Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-05-26",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment Act 2012",
+    "Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012",
+    "Social Security and Other Legislation Amendment (Income Support and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-05-27",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment (Schoolkids Bonus Budget Measures) Act 2012",
+    "Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Income Support for Students) Act 2010",
+    "Social Security and Other Legislation Amendment (Income Support for Students) Act 2010",
+    "Family Assistance and Other Legislation Amendment Act 2012",
+    "Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012",
+    "Social Security and Other Legislation Amendment (Income Support and Other Measures) Act 2012",
+    "Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-27",
+   "acts": [
+    "Social Security Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-10-01",
+   "acts": [
+    "Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-10-25",
+   "acts": [
+    "Social Security Legislation Amendment (Fair Incentives to Work) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-17",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-28",
+   "acts": [
+    "Higher Education Support Amendment (Streamlining and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Income Support and Other Measures) Act 2012",
+    "Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012",
+    "Social Security Legislation Amendment (Fair Incentives to Work) Act 2012",
+    "Fair Work Amendment Act 2012",
+    "Family Assistance and Other Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-01-22",
+   "acts": [
+    "Social Security Amendment (Supporting Australian Victims of Terrorism Overseas) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-05",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Income Support Bonus) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-03-20",
+   "acts": [
+    "Clean Energy (Household Assistance Amendments) Act 2011",
+    "Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012",
+    "Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012",
+    "Family Assistance and Other Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-05-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Military Compensation Review and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Social Security Legislation Amendment (Fair Incentives to Work) Act 2012",
+    "National Disability Insurance Scheme Legislation Amendment Act 2013",
+    "Veterans’ Affairs Legislation Amendment (Military Compensation Review and Other Measures) Act 2013",
+    "Social Security Amendment (Supporting More Australians into Work) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-10-01",
+   "acts": [
+    "Social Security Legislation Amendment (Disaster Recovery Allowance) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-01-01",
+   "acts": [
+    "Clean Energy (Household Assistance Amendments) Act 2011",
+    "Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012",
+    "Charities (Consequential Amendments and Transitional Provisions) Act 2013",
+    "Social Security Amendment (Supporting More Australians into Work) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-02-26",
+   "acts": [
+    "Farm Household Support (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-02-28",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Miscellaneous Measures) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-03-20",
+   "acts": [
+    "Social Security Amendment (Supporting More Australians into Work) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-04-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Aged Care (Living Longer Living Better) Act 2013",
+    "Farm Household Support (Consequential and Transitional Provisions) Act 2014",
+    "Farm Household Support (Consequential and Transitional Provisions) Act 2014",
+    "Social Services and Other Legislation Amendment Act 2014",
+    "Social Security Legislation Amendment (Increased Employment Participation) Act 2014",
+    "Social Security Legislation Amendment (Green Army Programme) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-11",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Seniors Health Card and Other Measures) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-12",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Seniors Health Card and Other Measures) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-20",
+   "acts": [
+    "Social Services and Other Legislation Amendment (2014 Budget Measures No. 6) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-01",
+   "acts": [
+    "Farm Household Support (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-11-26",
+   "acts": [
+    "Social Services and Other Legislation Amendment (2014 Budget Measures No. 6) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-11-27",
+   "acts": [
+    "Social Services and Other Legislation Amendment (2014 Budget Measures No. 6) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-01-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment Act 2014",
+    "Social Services and Other Legislation Amendment (2014 Budget Measures No. 6) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-20",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Seniors Supplement Cessation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment (2014 Budget Measures No. 6) Act 2014",
+    "Tribunals Amalgamation Act 2015",
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015",
+    "Business Services Wage Assessment Tool Payment Scheme (Consequential Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-09-17",
+   "acts": [
+    "Social Services Legislation Amendment (No. 2) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-08",
+   "acts": [
+    "Passports Legislation Amendment (Integrity) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-12",
+   "acts": [
+    "Social Services Legislation Amendment (Cost of Living Concession) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-13",
+   "acts": [
+    "Social Security Legislation Amendment (Debit Card Trial) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Social Services Legislation Amendment (Defined Benefit Income Streams) Act 2015",
+    "Social Services Legislation Amendment (More Generous Means Testing for Youth Payments) Act 2015",
+    "Labor 2013-14 Budget Savings (Measures No. 2) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-06",
+   "acts": [
+    "Social Services Legislation Amendment (Miscellaneous Measures) Act 2016",
+    "Omnibus Repeal Day (Autumn 2015) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-06-02",
+   "acts": [
+    "Social Services Legislation Amendment (Miscellaneous Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Tax Bonus for Working Australians Repeal Act 2014",
+    "Norfolk Island Legislation Amendment Act 2015",
+    "Social Services Legislation Amendment (More Generous Means Testing for Youth Payments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-12-31",
+   "acts": [
+    "Minerals Resource Rent Tax Repeal and Other Measures Act 2014"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Social Services Legislation Amendment (Fair and Sustainable Pensions) Act 2015",
+    "Social Services Legislation Amendment (More Generous Means Testing for Youth Payments) Act 2015",
+    "Budget Savings (Omnibus) Act 2016",
+    "Budget Savings (Omnibus) Act 2016",
+    "Budget Savings (Omnibus) Act 2016",
+    "Budget Savings (Omnibus) Act 2016",
+    "Higher Education Support Legislation Amendment (2016 Measures No. 1) Act 2016",
+    "Higher Education Support Legislation Amendment (2016 Measures No. 1) Act 2016",
+    "Social Services Legislation Amendment (Family Assistance Alignment and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-03-20",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-04-12",
+   "acts": [
+    "Social Services Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-05-19",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Jobs Path: Prepare, Trial, Hire) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-06-19",
+   "acts": [
+    "Social Services Legislation Amendment (Energy Assistance Payment and Pensioner Concession Card) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Social Services Legislation Amendment (Low Income Supplement) Act 2015",
+    "Budget Savings (Omnibus) Act 2016",
+    "Social Services Legislation Amendment (Simplifying Student Payments) Act 2017",
+    "Social Services Legislation Amendment (Simplifying Student Payments) Act 2017",
+    "Social Services Legislation Amendment Act 2017",
+    "Social Services Legislation Amendment (Seasonal Worker Incentives for Jobseekers) Act 2017",
+    "Veterans' Affairs Legislation Amendment (Budget Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-08-24",
+   "acts": [
+    "Education and Training Legislation Repeal Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-10-09",
+   "acts": [
+    "Social Services Legislation Amendment (Energy Assistance Payment and Pensioner Concession Card) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-12-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Omnibus) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Social Services Legislation Amendment (Simplifying Student Payments) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-05-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016",
+    "Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Act 2017",
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "National Redress Scheme for Institutional Child Sexual Abuse (Consequential Amendments) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-09-20",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "Social Services Legislation Amendment (Payments for Carers) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-09-22",
+   "acts": [
+    "Social Services Legislation Amendment (Student Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-01-01",
+   "acts": [
+    "Social Services Legislation Amendment (Simplifying Student Payments) Act 2017",
+    "Social Services Legislation Amendment (Student Reform) Act 2018",
+    "Social Services and Other Legislation Amendment (Promoting Sustainable Welfare) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-03-02",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Supporting Retirement Incomes) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Social Services Legislation Amendment (Energy Assistance Payment) Act 2019",
+    "Treatment Benefits (Special Access) (Consequential Amendments and Transitional Provisions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Higher Education Support Legislation Amendment (Student Loan Sustainability) Act 2018",
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018",
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018",
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018",
+    "Social Services and Other Legislation Amendment (Supporting Retirement Incomes) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-20",
+   "acts": [
+    "Social Services Legislation Amendment (Overseas Welfare Recipients Integrity Program) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Aged Care Legislation Amendment (New Commissioner Functions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-01",
+   "acts": [
+    "Services Australia Governance Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-03-20",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "Social Services and Other Legislation Amendment (Supporting Retirement Incomes) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-03-24",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-03-25",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-04-09",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus (Measures No. 2) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Social Services Legislation Amendment (Seasonal Worker Incentives for Jobseekers) Act 2017",
+    "Social Services Legislation Amendment (Seasonal Worker Incentives for Jobseekers) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2020-09-20",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-11-14",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Coronavirus and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-11-20",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2020-11-27",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Omnibus) Act 2020",
+    "Social Services and Other Legislation Amendment (Omnibus) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-07",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Simplifying Income Reporting and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Extension of Coronavirus Support) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Higher Education Support Amendment (Job-Ready Graduates and Supporting Regional and Remote Students) Act 2020",
+    "Social Services and Other Legislation Amendment (Coronavirus and Other Measures) Act 2020",
+    "Social Services and Other Legislation Amendment (Extension of Coronavirus Support) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-04-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Extension of Coronavirus Support) Act 2020",
+    "Social Services Legislation Amendment (Strengthening Income Support) Act 2021",
+    "Social Services Legislation Amendment (Strengthening Income Support) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-05-28",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Student Assistance and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-06-30",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 3) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Social Services Legislation Amendment (Portability Extensions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-03",
+   "acts": [
+    "Social Security Legislation Amendment (Remote Engagement Program) Act 2021",
+    "Social Security Legislation Amendment (Remote Engagement Program) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-01",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018",
+    "Social Services and Other Legislation Amendment (Omnibus) Act 2020",
+    "Veterans’ Affairs Legislation Amendment (Exempting Disability Payments from Income Testing and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-03-01",
+   "acts": [
+    "Territories Stolen Generations Redress Scheme (Consequential Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-04-01",
+   "acts": [
+    "Treasury Laws Amendment (Cost of Living Support and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-04-02",
+   "acts": [
+    "Social Security Amendment (Improved Child to Adult Transfer for Carer Payment and Carer Allowance) Act 2022",
+    "Social Security Legislation Amendment (Streamlined Participation Requirements and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-04-05",
+   "acts": [
+    "Treasury Laws Amendment (2022 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-04-08",
+   "acts": [
+    "Social Security Legislation Amendment (Streamlined Participation Requirements and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-06-02",
+   "acts": [
+    "Social Security Legislation Amendment (Remote Engagement Program) Act 2021",
+    "Social Security Legislation Amendment (Remote Engagement Program) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-07-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Pension Loans Scheme Enhancements) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-09-28",
+   "acts": [
+    "Family Law Amendment (Western Australia De Facto Superannuation Splitting and Bankruptcy) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2022-10-01",
+   "acts": [
+    "Social Security (Administration) Amendment (Repeal of Cashless Debit Card and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-10-07",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Self-Employment Programs and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-10-14",
+   "acts": [
+    "Defence, Veterans’ and Families’ Acute Support Package Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-11-04",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Lifting the Income Limit for the Commonwealth Seniors Health Card) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-12-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Workforce Incentive) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-01-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Workforce Incentive) Act 2022",
+    "Social Services and Other Legislation Amendment (Incentivising Pensioners to Downsize) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-03-26",
+   "acts": [
+    "Paid Parental Leave Amendment (Improvements for Families and Gender Equality) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-03-30",
+   "acts": [
+    "Social Security (Administration) Amendment (Repeal of Cashless Debit Card and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-06-28",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Miscellaneous Measures No. 2) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-06-29",
+   "acts": [
+    "Education Legislation Amendment (Startup Year and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-08-10",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Strengthening the Safety Net) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-29",
+   "acts": [
+    "Social Security Amendment (Australian Government Disaster Recovery Payment) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-11-28",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-11-29",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-12-05",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Disability Services and Inclusion (Consequential Amendments and Transitional Provisions) Act 2023",
+    "Social Security and Other Legislation Amendment (Supporting the Transition to Work) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-03-29",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Australia’s Engagement in the Pacific) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-05-31",
+   "acts": [
+    "Financial Framework (Supplementary Powers) Amendment Act 2024",
+    "Social Services and Other Legislation Amendment (Military Invalidity Payments Means Testing) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-07-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Supporting the Transition to Work) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-07-09",
+   "acts": [
+    "Social Services and Other Legislation Amendment (More Support in the Safety Net) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-05",
+   "acts": [
+    "Universities Accord (Student Support and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-15",
+   "acts": [
+    "Social Security Legislation Amendment (Technical Changes) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-06-01",
+   "acts": [
+    "Universities Accord (Student Support and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-08-03",
+   "acts": [
+    "Universities Accord (Cutting Student Debt by 20 Per Cent) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-11-01",
+   "acts": [
+    "Aged Care and Other Legislation Amendment Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-11-08",
+   "acts": [
+    "Criminal Code Amendment (State Sponsors of Terrorism) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-12-05",
+   "acts": [
+    "Regulatory Reform Omnibus Act 2025",
+    "Social Security and Other Legislation Amendment (Technical Changes No. 2) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-03-20",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Technical Changes No. 2) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-04-02",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Technical Changes No. 1) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2026-12-18",
+   "acts": [
+    "Regulatory Reform Omnibus Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

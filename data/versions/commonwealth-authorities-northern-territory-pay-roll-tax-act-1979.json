@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A02012",
+ "name": "Commonwealth Authorities (Northern Territory Pay-roll Tax) Act 1979",
+ "folder": "commonwealth-authorities-northern-territory-pay-roll-tax-act-1979",
+ "compilations": [
+  {
+   "in_force": "2007-03-15",
+   "register_id": "C2007C00136",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02012',start=2007-03-15,retrospectivestart=2007-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02012/2007-03-15/text",
+   "sha256": "386522e59a6db1be8847f44807dfa3d5c53fe385f5d67070fab49d508d0765cd"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1978-07-01"
+ ],
+ "repeal": null
+}

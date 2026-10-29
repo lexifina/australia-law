@@ -1,0 +1,66 @@
+{
+ "title_id": "C2004A00756",
+ "name": "Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000",
+ "folder": "horticulture-marketing-and-research-and-development-services-repeals",
+ "compilations": [
+  {
+   "in_force": "2009-11-17",
+   "register_id": "C2009C00529",
+   "compilation": "4",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00756',start=2009-11-17,retrospectivestart=2009-11-17,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00756/2009-11-17/text",
+   "sha256": "92ec2f2ff1c3b0f504bceb3567766ec8282ad1edecfcbe6f56382e4d097ba319"
+  },
+  {
+   "in_force": "2013-06-29",
+   "register_id": "C2013C00418",
+   "compilation": "5",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00756',start=2013-06-29,retrospectivestart=2013-06-29,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00756/2013-06-29/text",
+   "sha256": "7bccfec03c34814b8063f2857d74f4e3b518f8cfd422c4dc5328c534f4c589e9"
+  },
+  {
+   "in_force": "2025-01-01",
+   "register_id": "C2025C00025",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00756',start=2025-01-01,retrospectivestart=2025-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00756/2025-01-01/text",
+   "sha256": "7d13c6d60b60125d0ad72bbaeb5f9acecc4b84f5b9b8ce248605b646511b89a4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2000-12-21",
+   "acts": []
+  },
+  {
+   "in_force": "2001-10-16",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

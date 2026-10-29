@@ -1,0 +1,48 @@
+{
+ "title_id": "C2012A00029",
+ "name": "National Radioactive Waste Management Act 2012",
+ "folder": "national-radioactive-waste-management-act-2012",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00626",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00029',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00029/2014-07-01/text",
+   "sha256": "e430df6992bc82a14777e6c72a5e4f25a576f4cbf6eafda67ab14c56a29c924a"
+  },
+  {
+   "in_force": "2021-06-30",
+   "register_id": "C2021C00271",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00029',start=2021-06-30,retrospectivestart=2021-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00029/2021-06-30/text",
+   "sha256": "a00ca560b820a99d0faad39397287ccceebcae5c50a18a0402130145c50e0b86"
+  },
+  {
+   "in_force": "2025-11-08",
+   "register_id": "C2025C00629",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00029',start=2025-11-08,retrospectivestart=2025-11-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00029/2025-11-08/text",
+   "sha256": "898f6344b84c4ed480361e89ea2be0baf70aed29d5deb44d81ebb37277394756"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-04-04",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

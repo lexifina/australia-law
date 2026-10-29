@@ -1,0 +1,66 @@
+{
+ "title_id": "C2011A00013",
+ "name": "National Vocational Education and Training Regulator (Transitional Provisions) Act 2011",
+ "folder": "national-vocational-education-and-training-regulator-transitional",
+ "compilations": [
+  {
+   "in_force": "2020-09-04",
+   "register_id": "C2020C00266",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00013',start=2020-09-04,retrospectivestart=2020-09-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00013/2020-09-04/text",
+   "sha256": "280d34674744b6e5799cb1a5890b7001bc3e29dcc2df9870208dcc7418d2a62d"
+  },
+  {
+   "in_force": "2023-07-04",
+   "register_id": "C2023C00193",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00013',start=2023-07-04,retrospectivestart=2023-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00013/2023-07-04/text",
+   "sha256": "7e594fd3d85ebf38a4762650a1b4b8ac190e06e2be1ee5e7257f5979f5385f2d"
+  },
+  {
+   "in_force": "2024-03-29",
+   "register_id": "C2024C00123",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00013',start=2024-03-29,retrospectivestart=2024-03-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00013/2024-03-29/text",
+   "sha256": "8a062337733d09e1b80d3b96bfbacd6996148bef50774632a8c8c2877fb6cf3f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-04-12",
+   "acts": []
+  },
+  {
+   "in_force": "2015-04-03",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment (Annual Registration Charge) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2020-02-27",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

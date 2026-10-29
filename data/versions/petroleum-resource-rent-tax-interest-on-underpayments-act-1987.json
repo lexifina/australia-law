@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A03553",
+ "name": "Petroleum Resource Rent Tax (Interest on Underpayments) Act 1987",
+ "folder": "petroleum-resource-rent-tax-interest-on-underpayments-act-1987",
+ "compilations": [
+  {
+   "in_force": "1987-12-18",
+   "register_id": "C2004A03553",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03553',start=1987-12-18,retrospectivestart=1987-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03553/1987-12-18/text",
+   "sha256": "9e1685c64caaaebb46d1b01a89da7e454da6ba72a251fd01a14ef107f24b9046"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

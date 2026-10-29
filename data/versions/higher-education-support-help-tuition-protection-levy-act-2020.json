@@ -1,0 +1,32 @@
+{
+ "title_id": "C2020A00004",
+ "name": "Higher Education Support (HELP Tuition Protection Levy) Act 2020",
+ "folder": "higher-education-support-help-tuition-protection-levy-act-2020",
+ "compilations": [
+  {
+   "in_force": "2020-01-01",
+   "register_id": "C2020A00004",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00004',start=2020-01-01,retrospectivestart=2020-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00004/2020-01-01/text",
+   "sha256": "ffc1503a232394b354e8bf4e9190db8486c9230b549b1bec0f34f38715d1e9bc"
+  },
+  {
+   "in_force": "2021-01-01",
+   "register_id": "C2021C00116",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00004',start=2021-01-01,retrospectivestart=2021-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00004/2021-01-01/text",
+   "sha256": "ca782515dae354310633f6acb3e791a02f0a03e8703ba79af7b718a06b9e6ba0"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

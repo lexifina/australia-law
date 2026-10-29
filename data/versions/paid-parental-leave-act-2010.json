@@ -1,0 +1,335 @@
+{
+ "title_id": "C2010A00104",
+ "name": "Paid Parental Leave Act 2010",
+ "folder": "paid-parental-leave-act-2010",
+ "compilations": [
+  {
+   "in_force": "2026-03-20",
+   "register_id": "C2026C00096",
+   "compilation": "47",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00104',start=2026-03-20,retrospectivestart=2026-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00104/2026-03-20/text",
+   "sha256": "bc12e39f777fb6d217eea315e0f338be38c24cbe6ea420b54953b3a5ca36e786"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00294",
+   "compilation": "48",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00104',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00104/2026-07-01/text",
+   "sha256": "56afcce89868f74d0068854295913105fd288f632ff0daff905002e64fe65c7d"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00425",
+   "compilation": "49",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00104',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00104/2026-09-19/text",
+   "sha256": "18c07a4af816a104b5d0a8062b25e9a0af6152ff5cf090408c51594f188f516c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2010-07-14",
+   "acts": []
+  },
+  {
+   "in_force": "2010-10-01",
+   "acts": [
+    "Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-06-30",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-23",
+   "acts": [
+    "Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-10-01",
+   "acts": [
+    "Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-15",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012",
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-01",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-03-31",
+   "acts": [
+    "Social Services and Other Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment Act 2014",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-08",
+   "acts": [
+    "Passports Legislation Amendment (Integrity) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-14",
+   "acts": [
+    "Civil Law and Justice (Omnibus Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-05-06",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2015) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-09-16",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016",
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Insolvency Law Reform Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-05-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-11-06",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-01-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Promoting Sustainable Welfare) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Promoting Sustainable Welfare) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Paid Parental Leave Amendment (Work Test) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-01",
+   "acts": [
+    "Services Australia Governance Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-04-09",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus (Measures No. 2) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Paid Parental Leave Amendment (Flexibility Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-11-14",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Coronavirus and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-11-20",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-04",
+   "acts": [
+    "Paid Parental Leave Amendment (COVID-19 Work Test) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-08-17",
+   "acts": [
+    "Courts and Tribunals Legislation Amendment (2021 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-03-26",
+   "acts": [
+    "Paid Parental Leave Amendment (Improvements for Families and Gender Equality) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-03-26",
+   "acts": [
+    "Paid Parental Leave Amendment (More Support for Working Families) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-02",
+   "acts": [
+    "Paid Parental Leave Amendment (Adding Superannuation for a More Secure Retirement) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-12-05",
+   "acts": [
+    "Regulatory Reform Omnibus Act 2025",
+    "Social Security and Other Legislation Amendment (Technical Changes No. 2) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

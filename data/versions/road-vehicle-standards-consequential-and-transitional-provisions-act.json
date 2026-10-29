@@ -1,0 +1,43 @@
+{
+ "title_id": "C2018A00164",
+ "name": "Road Vehicle Standards (Consequential and Transitional Provisions) Act 2018",
+ "folder": "road-vehicle-standards-consequential-and-transitional-provisions-act",
+ "compilations": [
+  {
+   "in_force": "2018-12-10",
+   "register_id": "C2018A00164",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00164',start=2018-12-10,retrospectivestart=2018-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00164/2018-12-10/text",
+   "sha256": "dd848410bc5ee1d223d18804d8496009f5e7db11c4c5c20c6defaf8f9237c855"
+  },
+  {
+   "in_force": "2019-09-14",
+   "register_id": "C2019C00277",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00164',start=2019-09-14,retrospectivestart=2019-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00164/2019-09-14/text",
+   "sha256": "64245d7fe1480c0cb6aa19f4f5afcfe980a2fca1c989486e8aa812ba7ec6038d"
+  },
+  {
+   "in_force": "2022-04-01",
+   "register_id": "C2022C00138",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00164',start=2022-04-01,retrospectivestart=2022-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00164/2022-04-01/text",
+   "sha256": "7049587a80d4a9c0385a147dd41f7c57ca8a374e688fc700c0c2ef98dd6cd8aa"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

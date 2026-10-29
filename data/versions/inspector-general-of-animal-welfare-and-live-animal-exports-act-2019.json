@@ -1,0 +1,48 @@
+{
+ "title_id": "C2019A00081",
+ "name": "Inspector-General of Animal Welfare and Live Animal Exports Act 2019",
+ "folder": "inspector-general-of-animal-welfare-and-live-animal-exports-act-2019",
+ "compilations": [
+  {
+   "in_force": "2021-03-28",
+   "register_id": "C2021C00176",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00081',start=2021-03-28,retrospectivestart=2021-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00081/2021-03-28/text",
+   "sha256": "5c18dafcc781cd070b0999912321f0a7a38da84c3c70bcf0e4bf9626ce7eca2f"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00506",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00081',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00081/2021-09-01/text",
+   "sha256": "228ecc986855d1e8a888d2ff820a6881ede53bcb469ed363a015a5b46ae45eea"
+  },
+  {
+   "in_force": "2023-12-05",
+   "register_id": "C2023C00465",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00081',start=2023-12-05,retrospectivestart=2023-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00081/2023-12-05/text",
+   "sha256": "d849e49c85aee3776ed194c70cd0d3341d38919d89a24b961ec63e5c84bb98ab"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2019-10-02",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

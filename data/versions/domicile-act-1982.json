@@ -1,0 +1,48 @@
+{
+ "title_id": "C2004A02560",
+ "name": "Domicile Act 1982",
+ "folder": "domicile-act-1982",
+ "compilations": [
+  {
+   "in_force": "1982-07-01",
+   "register_id": "C2004C00466",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02560',start=1982-07-01,retrospectivestart=1982-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02560/1982-07-01/text",
+   "sha256": "330f46c55a84b240c0103015ecbc316821e5cac2af046cdd1969f12a456973e7"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00386",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02560',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02560/2008-07-04/text",
+   "sha256": "bab15aa6bce55c4957cd0ce5c322196b196372d5d48fcf8d144ac7949a9a9a2b"
+  },
+  {
+   "in_force": "2019-01-25",
+   "register_id": "C2019C00077",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02560',start=2019-01-25,retrospectivestart=2019-01-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02560/2019-01-25/text",
+   "sha256": "984512e650e1d2e015d981a1abf36343f845839bcb68226f42044188691c65a4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1982-03-04",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

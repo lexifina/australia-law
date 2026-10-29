@@ -1,0 +1,83 @@
+{
+ "title_id": "C1918A00028",
+ "name": "Control of Naval Waters Act 1918",
+ "folder": "control-of-naval-waters-act-1918",
+ "compilations": [
+  {
+   "in_force": "2001-10-02",
+   "register_id": "C2004C03020",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1918A00028',start=2001-10-02,retrospectivestart=2001-10-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1918A00028/2001-10-02/text",
+   "sha256": "eec55fa3699435680d5cba7fca90d7582fd519a71f9c4fbf9b5bb009052d7ab9"
+  },
+  {
+   "in_force": "2001-12-15",
+   "register_id": "C2004C00175",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1918A00028',start=2001-12-15,retrospectivestart=2001-12-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1918A00028/2001-12-15/text",
+   "sha256": "99d5f5b84fd705250dc9a8ce2d5e2fe05d36fdcc707c1cedc05f4eeaebade554"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00510",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1918A00028',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1918A00028/2016-03-10/text",
+   "sha256": "f03ff594ddbcbebd6380c2b55543593d4ef73e04655436d434f9e2d5a7e6b1f5"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01077",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1918A00028',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1918A00028/2016-10-21/text",
+   "sha256": "2d64c081bc43f04c4bcf4629fb8c46efd40193f3de533fa43ab292212efdd9ce"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1918-11-27",
+   "acts": []
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1990-08-01",
+   "acts": [
+    "Control of Naval Waters Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1991-02-05",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 1990"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

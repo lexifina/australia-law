@@ -1,0 +1,54 @@
+{
+ "title_id": "C2017A00002",
+ "name": "Independent Parliamentary Expenses Authority Act 2017",
+ "folder": "independent-parliamentary-expenses-authority-act-2017",
+ "compilations": [
+  {
+   "in_force": "2023-10-17",
+   "register_id": "C2023C00314",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00002',start=2023-10-17,retrospectivestart=2023-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00002/2023-10-17/text",
+   "sha256": "fafc66331bce16816f20ef92cb8eb3a451de76217aa12b4eda5c669ccf68faed"
+  },
+  {
+   "in_force": "2024-05-31",
+   "register_id": "C2024C00208",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00002',start=2024-05-31,retrospectivestart=2024-05-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00002/2024-05-31/text",
+   "sha256": "b73b1556fa6be663b4ae65011ee0d35a6e8765a096f7caf5972ae7a0ec6b436b"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00246",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00002',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00002/2026-07-01/text",
+   "sha256": "3cfa67d0c9917451b95c577bbf90c972159ac5e6d6f3cbc92c5424278011dce6"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2017-02-22",
+   "acts": []
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Parliamentary Business Resources (Consequential and Transitional Provisions) Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,126 @@
+{
+ "title_id": "C2004A05248",
+ "name": "Auditor-General Act 1997",
+ "folder": "auditor-general-act-1997",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00685",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05248',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05248/2016-07-01/text",
+   "sha256": "f0dc0ce54735191539f96c28ad86bff16c86d0d7348a0498d19ebc3d5a000c59"
+  },
+  {
+   "in_force": "2018-02-21",
+   "register_id": "C2018C00036",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05248',start=2018-02-21,retrospectivestart=2018-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05248/2018-02-21/text",
+   "sha256": "cf4dba9f7bb1b0e43c90bbd802da0851e400990d2cd655ef51b898c43bcacc1a"
+  },
+  {
+   "in_force": "2023-10-17",
+   "register_id": "C2023C00356",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05248',start=2023-10-17,retrospectivestart=2023-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05248/2023-10-17/text",
+   "sha256": "c4d492e78d8e6fd5499b2e1243a5b3238e2a3ec1a931a9eca17cdeb3637b842c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-10-24",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-02-25",
+   "acts": [
+    "Auditor-General Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-08",
+   "acts": [
+    "Auditor-General Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-10-04",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

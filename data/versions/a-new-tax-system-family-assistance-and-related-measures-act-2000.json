@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00637",
+ "name": "A New Tax System (Family Assistance and Related Measures) Act 2000",
+ "folder": "a-new-tax-system-family-assistance-and-related-measures-act-2000",
+ "compilations": [
+  {
+   "in_force": "2000-05-03",
+   "register_id": "C2004A00637",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00637',start=2000-05-03,retrospectivestart=2000-05-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00637/2000-05-03/text",
+   "sha256": "2fdd4c6d8f2039196e3ff428173e4167a95c83e5d8122e8e52f9ef66cd9a3b4b"
+  },
+  {
+   "in_force": "2000-07-01",
+   "register_id": "C2004C01310",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00637',start=2000-07-01,retrospectivestart=2000-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00637/2000-07-01/text",
+   "sha256": "af69bb00cef5c22fcefe5b6d58525471e8e9787968a1e4fc307f607165d5492b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

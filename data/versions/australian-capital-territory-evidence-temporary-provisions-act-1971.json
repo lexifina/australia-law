@@ -1,0 +1,36 @@
+{
+ "title_id": "C1971A00066",
+ "name": "Australian Capital Territory Evidence (Temporary Provisions) Act 1971",
+ "folder": "australian-capital-territory-evidence-temporary-provisions-act-1971",
+ "compilations": [
+  {
+   "in_force": "1981-12-30",
+   "register_id": "C2004C02014",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00066',start=1981-12-30,retrospectivestart=1981-12-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00066/1981-12-30/text",
+   "sha256": "57033e4c607d58d9cdbec1319a35aafad28c0716829f6d863010d11cf6f3ea16"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1972-03-30",
+   "acts": [
+    "Australian Capital Territory Evidence (Temporary Provisions) Act 1972"
+   ]
+  },
+  {
+   "in_force": "1973-03-31",
+   "acts": [
+    "Australian Capital Territory Evidence (Temporary Provisions) Act 1973"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1971-08-19"
+ ],
+ "repeal": null
+}

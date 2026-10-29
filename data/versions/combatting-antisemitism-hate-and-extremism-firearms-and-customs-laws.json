@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00001",
+ "name": "Combatting Antisemitism, Hate and Extremism (Firearms and Customs Laws) Act 2026",
+ "folder": "combatting-antisemitism-hate-and-extremism-firearms-and-customs-laws",
+ "compilations": [
+  {
+   "in_force": "2026-01-21",
+   "register_id": "C2026A00001",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00001',start=2026-01-21,retrospectivestart=2026-01-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00001/2026-01-21/text",
+   "sha256": "0a4e155a627dd65047a933b3ef04da03dfb65e654e96e2e452b08d3a89faef22"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

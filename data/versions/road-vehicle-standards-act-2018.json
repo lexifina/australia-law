@@ -1,0 +1,48 @@
+{
+ "title_id": "C2018A00163",
+ "name": "Road Vehicle Standards Act 2018",
+ "folder": "road-vehicle-standards-act-2018",
+ "compilations": [
+  {
+   "in_force": "2019-09-14",
+   "register_id": "C2019C00274",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00163',start=2019-09-14,retrospectivestart=2019-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00163/2019-09-14/text",
+   "sha256": "e69dcbd8e654ac5a4beab42b44ef2ea1c0c68860f1d486a1f8bc35cf6c62a0a4"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00555",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00163',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00163/2021-09-01/text",
+   "sha256": "579ce6367bd241d1ebbda948d0ce4af6fd962ed39de1b9d5a91ef11cf0ad4124"
+  },
+  {
+   "in_force": "2025-01-01",
+   "register_id": "C2025C00016",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00163',start=2025-01-01,retrospectivestart=2025-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00163/2025-01-01/text",
+   "sha256": "871cf7dabc1543cfa2a745c23a798b811cb4e7882e3e8b2ae712028ecd917608"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2018-12-10",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

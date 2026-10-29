@@ -1,0 +1,157 @@
+{
+ "title_id": "C1905A00015",
+ "name": "Census and Statistics Act 1905",
+ "folder": "census-and-statistics-act-1905",
+ "compilations": [
+  {
+   "in_force": "2000-04-19",
+   "register_id": "C2004C02662",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00015',start=2000-04-19,retrospectivestart=2000-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00015/2000-04-19/text",
+   "sha256": "1ec588da5444971aa53bd2474f810cddc0e65009c157443c1bdf843cff428a4b"
+  },
+  {
+   "in_force": "2003-10-21",
+   "register_id": "C2004C00426",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00015',start=2003-10-21,retrospectivestart=2003-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00015/2003-10-21/text",
+   "sha256": "5b5a25a2fdd37802c9a16faa7985a6a16bc8c1449f5bfc3e4e260e291beb9c6d"
+  },
+  {
+   "in_force": "2006-04-20",
+   "register_id": "C2006C00178",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00015',start=2006-04-20,retrospectivestart=2006-04-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00015/2006-04-20/text",
+   "sha256": "99e087265448f846e6ed2593817d4cf475712a043d7e1a02b044a04c82396cff"
+  },
+  {
+   "in_force": "2015-05-27",
+   "register_id": "C2015C00247",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00015',start=2015-05-27,retrospectivestart=2015-05-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00015/2015-05-27/text",
+   "sha256": "a38cc97f856d901fc1595c8b7e374764ada13cde53325fd51f3605d96723b28d"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01005",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00015',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00015/2016-10-21/text",
+   "sha256": "259a2e628c61902f3868a2922a9b41cd59fb73a70841e14c10d6c774f4928798"
+  },
+  {
+   "in_force": "2020-10-01",
+   "register_id": "C2020C00296",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00015',start=2020-10-01,retrospectivestart=2020-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00015/2020-10-01/text",
+   "sha256": "3e7cdb25689c203426ac0c819a3960106fafa848858fae3765c7c68b0e9fa21e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1920-10-11",
+   "acts": [
+    "Census and Statistics Act 1920"
+   ]
+  },
+  {
+   "in_force": "1930-07-21",
+   "acts": [
+    "Census and Statistics Act 1930"
+   ]
+  },
+  {
+   "in_force": "1938-07-05",
+   "acts": [
+    "Census and Statistics Act 1938"
+   ]
+  },
+  {
+   "in_force": "1947-01-11",
+   "acts": [
+    "Census and Statistics Act 1946"
+   ]
+  },
+  {
+   "in_force": "1949-07-12",
+   "acts": [
+    "Census and Statistics Act 1949"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1977-02-28",
+   "acts": [
+    "Census and Statistics Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1981-05-25",
+   "acts": [
+    "Census and Statistics Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-06-30",
+   "acts": [
+    "Census and Statistics Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-03-01",
+   "acts": [
+    "Census and Statistics Amendment Act (No. 2) 1981"
+   ]
+  },
+  {
+   "in_force": "1986-01-13",
+   "acts": [
+    "Census and Statistics Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1905-12-08"
+ ],
+ "repeal": null
+}

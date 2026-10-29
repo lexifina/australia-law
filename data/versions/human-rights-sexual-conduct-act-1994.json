@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A04852",
+ "name": "Human Rights (Sexual Conduct) Act 1994",
+ "folder": "human-rights-sexual-conduct-act-1994",
+ "compilations": [
+  {
+   "in_force": "1994-12-19",
+   "register_id": "C2004A04852",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04852',start=1994-12-19,retrospectivestart=1994-12-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04852/1994-12-19/text",
+   "sha256": "8885467c1dea673215e71c417c7eab7815eaff38fb12dbbf67476928eec77df2"
+  },
+  {
+   "in_force": "2009-08-05",
+   "register_id": "C2009C00395",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04852',start=2009-08-05,retrospectivestart=2009-08-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04852/2009-08-05/text",
+   "sha256": "ddd3b4f2fe22daf6dc597f2d8dde62727f17d6f82a04b234ec3c0d299540130f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

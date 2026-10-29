@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A01243",
+ "name": "Aviation Transport Security (Consequential Amendments and Transitional Provisions) Act 2004",
+ "folder": "aviation-transport-security-consequential-amendments-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2004-03-10",
+   "register_id": "C2004A01243",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01243',start=2004-03-10,retrospectivestart=2004-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01243/2004-03-10/text",
+   "sha256": "52481ad83fed75ea36ca75f3c5b752d34336261bd93bfbb27a9c643e8c1e123d"
+  },
+  {
+   "in_force": "2005-03-10",
+   "register_id": "C2005C00207",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01243',start=2005-03-10,retrospectivestart=2005-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01243/2005-03-10/text",
+   "sha256": "029f99226408d9de6baf6541afc5f828c85b45583e13e92a8318597d9fc2c6c8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

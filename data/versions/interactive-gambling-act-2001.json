@@ -1,0 +1,172 @@
+{
+ "title_id": "C2004A00851",
+ "name": "Interactive Gambling Act 2001",
+ "folder": "interactive-gambling-act-2001",
+ "compilations": [
+  {
+   "in_force": "2023-12-12",
+   "register_id": "C2023C00490",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00851',start=2023-12-12,retrospectivestart=2023-12-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00851/2023-12-12/text",
+   "sha256": "ed1fed10a0ef906c38ff901351d723ac2d0f274087a2f2b5542dc97d86301e24"
+  },
+  {
+   "in_force": "2024-06-11",
+   "register_id": "C2024C00210",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00851',start=2024-06-11,retrospectivestart=2024-06-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00851/2024-06-11/text",
+   "sha256": "ea317679f6f7134e08fb7fb2df6ca160ec2c1ef4bb6d0968d6202c4064aa4fad"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00646",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00851',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00851/2024-10-14/text",
+   "sha256": "17ef5e8b35bb48901e3351ac176b8f04e1459287e576859e3a76018bc5189742"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2001-07-11",
+   "acts": []
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Interactive Gambling Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-03-11",
+   "acts": [
+    "Financial Services Reform (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005",
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2008-01-20",
+   "acts": [
+    "Communications Legislation Amendment (Content Services) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010",
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015",
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2017-09-13",
+   "acts": [
+    "Interactive Gambling Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-02-17",
+   "acts": [
+    "Interactive Gambling Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-01-09",
+   "acts": [
+    "Interactive Gambling Amendment (Lottery Betting) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-12-13",
+   "acts": [
+    "Interactive Gambling Amendment (National Self-exclusion Register) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021",
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-23",
+   "acts": [
+    "Online Safety (Transitional Provisions and Consequential Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-10-20",
+   "acts": [
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Interactive Gambling Amendment (Gambling Reform) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

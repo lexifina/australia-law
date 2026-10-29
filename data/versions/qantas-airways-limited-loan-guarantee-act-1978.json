@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A01818",
+ "name": "Qantas Airways Limited (Loan Guarantee) Act 1978",
+ "folder": "qantas-airways-limited-loan-guarantee-act-1978",
+ "compilations": [
+  {
+   "in_force": "1978-12-04",
+   "register_id": "C2004C00596",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01818',start=1978-12-04,retrospectivestart=1978-12-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01818/1978-12-04/text",
+   "sha256": "939dcb2293dfe9212ebdf70c091116b7e771c35a931ac86a7607106e0b744c74"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1978-05-16"
+ ],
+ "repeal": null
+}

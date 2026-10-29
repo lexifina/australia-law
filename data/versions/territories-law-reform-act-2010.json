@@ -1,0 +1,32 @@
+{
+ "title_id": "C2010A00139",
+ "name": "Territories Law Reform Act 2010",
+ "folder": "territories-law-reform-act-2010",
+ "compilations": [
+  {
+   "in_force": "2010-01-01",
+   "register_id": "C2010A00139",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00139',start=2010-01-01,retrospectivestart=2010-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00139/2010-01-01/text",
+   "sha256": "4b5cb6629c050fbce914f59fe511dce6bd206c0244a6c937b7ace31b40f24711"
+  },
+  {
+   "in_force": "2011-01-01",
+   "register_id": "C2012C00707",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00139',start=2011-01-01,retrospectivestart=2011-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00139/2011-01-01/text",
+   "sha256": "71203058e224474dae48a1cdd0a885004a617ab58654bbd0aa50dc4547f1bcc3"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

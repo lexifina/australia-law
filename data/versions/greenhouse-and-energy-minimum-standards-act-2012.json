@@ -1,0 +1,78 @@
+{
+ "title_id": "C2012A00132",
+ "name": "Greenhouse and Energy Minimum Standards Act 2012",
+ "folder": "greenhouse-and-energy-minimum-standards-act-2012",
+ "compilations": [
+  {
+   "in_force": "2023-09-21",
+   "register_id": "C2023C00277",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00132',start=2023-09-21,retrospectivestart=2023-09-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00132/2023-09-21/text",
+   "sha256": "80b5271b3039ea84f76bac4c8224b15da2a16e55bd233c89144a87aa8165b0b4"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00480",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00132',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00132/2024-10-14/text",
+   "sha256": "151e5466cb0ec25f715141145cb7737dc1758818b1a60462757797608586e585"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00666",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00132',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00132/2025-12-05/text",
+   "sha256": "e58cb6b99f8552a7e74fe9dba716197d3c4eb8fed5922e554cf73dfc3536fef7"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-09-21",
+   "acts": []
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2018-11-06",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-09-14",
+   "acts": [
+    "Climate Change (Consequential Amendments) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

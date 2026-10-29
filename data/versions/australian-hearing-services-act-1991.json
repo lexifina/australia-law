@@ -1,0 +1,192 @@
+{
+ "title_id": "C2004A04244",
+ "name": "Australian Hearing Services Act 1991",
+ "folder": "australian-hearing-services-act-1991",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00997",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04244',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04244/2016-10-21/text",
+   "sha256": "d07d48c2fd81a4bc10a27dc2c100b4c8c93ea357f5e95611be114ebfbd29cdc3"
+  },
+  {
+   "in_force": "2024-01-01",
+   "register_id": "C2024C00036",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04244',start=2024-01-01,retrospectivestart=2024-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04244/2024-01-01/text",
+   "sha256": "e7548481bc791f12bbb19e6e0d21a74391ec1c624d83cea5fdd9c2bfd12ce163"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00568",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04244',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04244/2024-10-14/text",
+   "sha256": "df9effd0fdcc1c963f8af2dcc8fbf7327d05072ccfb14fa92026aa8a9510e7c5"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-11-20",
+   "acts": []
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Health, Housing and Community Services Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-10-27",
+   "acts": [
+    "Sales Tax Amendment (Transitional) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-11-11",
+   "acts": [
+    "Health and Community Services Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-11-03",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1993-11-25",
+   "acts": [
+    "Health and Community Services Legislation Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1994-06-21",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-09-16",
+   "acts": [
+    "Human Services and Health Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1997-03-20",
+   "acts": [
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-18",
+   "acts": [
+    "Hearing Services and AGHS Reform Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Hearing Services and AGHS Reform Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-09-17",
+   "acts": [
+    "Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-06-17",
+   "acts": [
+    "Designs (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

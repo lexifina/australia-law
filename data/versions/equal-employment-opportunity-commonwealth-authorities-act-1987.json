@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A03429",
+ "name": "Equal Employment Opportunity (Commonwealth Authorities) Act 1987",
+ "folder": "equal-employment-opportunity-commonwealth-authorities-act-1987",
+ "compilations": [
+  {
+   "in_force": "2012-12-06",
+   "register_id": "C2012C00896",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03429',start=2012-12-06,retrospectivestart=2012-12-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03429/2012-12-06/text",
+   "sha256": "3b8d667e7f95fa3e0381a5475eaad47a6de8fcb9594decda3cedcafb69e56839"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00775",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03429',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03429/2016-07-01/text",
+   "sha256": "4a130870033f3e355df5b349c36ac53da902902188c34ba210844ec386175f8f"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00220",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03429',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03429/2018-06-19/text",
+   "sha256": "1561455d2042f5071fd5651c2a2af658a2f291b9726730312da651d8f7d8856a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-05-18",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-01-01",
+   "acts": [
+    "Equal Opportunity for Women in the Workplace Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-01-01",
+   "acts": [
+    "Wool Services Privatisation Act 2000"
+   ]
+  },
+  {
+   "in_force": "2003-02-14",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Dairy Industry Service Reform Act 2003"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

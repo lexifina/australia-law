@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00122",
+ "name": "Marine Safety (Domestic Commercial Vessel) National Law (Consequential Amendments) Act 2012",
+ "folder": "marine-safety-domestic-commercial-vessel-national-law-consequential",
+ "compilations": [
+  {
+   "in_force": "2012-09-12",
+   "register_id": "C2012A00122",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00122',start=2012-09-12,retrospectivestart=2012-09-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00122/2012-09-12/text",
+   "sha256": "079728dd8f285d34bdfa42eefebafdda81e12e7d991b7c05fb03db6a730fbb89"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

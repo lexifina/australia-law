@@ -1,0 +1,267 @@
+{
+ "title_id": "C1959A00002",
+ "name": "Civil Aviation (Carriers' Liability) Act 1959",
+ "folder": "civil-aviation-carriers-liability-act-1959",
+ "compilations": [
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00502",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00002',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00002/2016-03-10/text",
+   "sha256": "47d58e541146adc5e59d33a881320d9162f4d2d1c7e1250168416db9d6f0c951"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00737",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00002',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00002/2016-07-01/text",
+   "sha256": "06bd5ba31d0e83234276606f4c740728b88219eb48c7541bc43a912446ccc8ea"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01045",
+   "compilation": "29",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00002',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00002/2016-10-21/text",
+   "sha256": "d4a518500775949b8415a896867b39c92125c71fb2a939fec0e3b4f7675ccd55"
+  },
+  {
+   "in_force": "2021-06-17",
+   "register_id": "C2021C00236",
+   "compilation": "30",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00002',start=2021-06-17,retrospectivestart=2021-06-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00002/2021-06-17/text",
+   "sha256": "a39251b89bd7b183dce74276eec060c7fa020e9bcee66dba633fc97055867b6c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1959-01-21",
+   "acts": []
+  },
+  {
+   "in_force": "1962-05-28",
+   "acts": [
+    "Civil Aviation (Carriers' Liability) Act 1962"
+   ]
+  },
+  {
+   "in_force": "1964-05-01",
+   "acts": [
+    "Civil Aviation (Carriers' Liability) Act 1962"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1970-08-01",
+   "acts": [
+    "Civil Aviation (Carriers' Liability) Act 1970"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-11-24",
+   "acts": [
+    "Civil Aviation (Carriers' Liability) Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1982-09-24",
+   "acts": [
+    "Civil Aviation (Carriers' Liability) Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1983-02-01",
+   "acts": [
+    "Civil Aviation (Carriers' Liability) Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1988-03-09",
+   "acts": [
+    "Australian Airlines (Conversion to Public Company) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Civil Aviation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-12-11",
+   "acts": [
+    "Civil Aviation (Carriers' Liability) Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1995-07-27",
+   "acts": [
+    "Transport Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-01-20",
+   "acts": [
+    "Transport Legislation Amendment Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1998-03-24",
+   "acts": [
+    "Civil Aviation Legislation Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-06-22",
+   "acts": [
+    "Civil Aviation (Carriers' Liability) Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1998-07-23",
+   "acts": [
+    "Aviation Legislation Amendment Act (No. 1) 1998",
+    "Insurance and Aviation Liability Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2007-03-30",
+   "acts": [
+    "Civil Aviation Legislation Amendment (Mutual Recognition with New Zealand) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Australian Citizenship (Transitionals and Consequentials) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2009-01-24",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008",
+    "Civil Aviation Legislation Amendment (1999 Montreal Convention and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-20",
+   "acts": [
+    "Aviation Legislation Amendment (International Airline Licences and Carriers' Liability Insurance) Act 2008",
+    "Aviation Legislation Amendment (International Airline Licences and Carriers' Liability Insurance) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-11-17",
+   "acts": [
+    "Statute Stocktake (Regulatory and Other Laws) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011",
+    null
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-31",
+   "acts": [
+    "Aviation Legislation Amendment (Liability and Insurance) Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

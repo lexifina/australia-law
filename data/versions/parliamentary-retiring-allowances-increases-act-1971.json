@@ -1,0 +1,21 @@
+{
+ "title_id": "C1971A00075",
+ "name": "Parliamentary Retiring Allowances (Increases) Act 1971",
+ "folder": "parliamentary-retiring-allowances-increases-act-1971",
+ "compilations": [
+  {
+   "in_force": "1971-10-01",
+   "register_id": "C1971A00075",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00075',start=1971-10-01,retrospectivestart=1971-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00075/1971-10-01/text",
+   "sha256": "f95d6e0cc859aa4cbc6b93c8a3c4c941fe2c2d933a54556b9f38ae2bea5d16fe"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2005A00006",
+ "name": "Australian Passports (Application Fees) Act 2005",
+ "folder": "australian-passports-application-fees-act-2005",
+ "compilations": [
+  {
+   "in_force": "2005-02-18",
+   "register_id": "C2005A00006",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00006',start=2005-02-18,retrospectivestart=2005-02-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00006/2005-02-18/text",
+   "sha256": "341e1187a29bdf7a57393f936704e0af52771afc9aaf036178e030ac6bc5084c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

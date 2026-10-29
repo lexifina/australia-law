@@ -1,0 +1,38 @@
+{
+ "title_id": "C1948A00020",
+ "name": "Transferred Officers' Allowances Act 1948",
+ "folder": "transferred-officers-allowances-act-1948",
+ "compilations": [
+  {
+   "in_force": "1955-11-12",
+   "register_id": "C2004C00643",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1948A00020',start=1955-11-12,retrospectivestart=1955-11-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1948A00020/1955-11-12/text",
+   "sha256": "37cc77ebcc8753ecf803ad6cc3857f93df2e2ab58e32465c90237582b3d41a09"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1948-02-01",
+   "acts": []
+  },
+  {
+   "in_force": "1951-10-01",
+   "acts": [
+    "Transferred Officers' Allowances Act 1951"
+   ]
+  },
+  {
+   "in_force": "1953-10-31",
+   "acts": [
+    "Transferred Officers' Allowances Act 1954"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

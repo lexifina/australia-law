@@ -1,0 +1,102 @@
+{
+ "title_id": "C2004A00093",
+ "name": "Canberra Water Supply (Googong Dam) Act 1974",
+ "folder": "canberra-water-supply-googong-dam-act-1974",
+ "compilations": [
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00317",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00093',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00093/2008-07-04/text",
+   "sha256": "60d014c07e250a33fb9b18913dd89f6002c6ff30fe91bcf4a0bdd30d84c2a34b"
+  },
+  {
+   "in_force": "2014-12-17",
+   "register_id": "C2014C00818",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00093',start=2014-12-17,retrospectivestart=2014-12-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00093/2014-12-17/text",
+   "sha256": "371b674d3b73ed4f42c043f765083270b2b0d08fc024a13dce77cdba476f41af"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00490",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00093',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00093/2016-03-10/text",
+   "sha256": "d1fb279f2640dfadcc075e31d4455c855ed784af447a4557fd99b96aeda5f117"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00961",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00093',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00093/2016-10-21/text",
+   "sha256": "ae7eec6854b998cbcb44d3a76f6d681e6eb5b91928cc244998779fb3695a5ab7"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1974-08-02",
+   "acts": []
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-05-28",
+   "acts": [
+    "Statute Law Revision Act 1981",
+    "Australian Federal Police (Consequential Amendments) Act 1980"
+   ]
+  },
+  {
+   "in_force": "1988-12-06",
+   "acts": [
+    "Australian Capital Territory (Planning and Land Management) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-09",
+   "acts": [
+    "Lands Acquisition (Repeal and Consequential Provisions) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-03-04",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

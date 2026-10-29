@@ -1,0 +1,21 @@
+{
+ "title_id": "C2018A00150",
+ "name": "Aged Care Quality and Safety Commission (Consequential Amendments and Transitional Provisions) Act 2018",
+ "folder": "aged-care-quality-and-safety-commission-consequential-amendments-and",
+ "compilations": [
+  {
+   "in_force": "2018-12-10",
+   "register_id": "C2018A00150",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00150',start=2018-12-10,retrospectivestart=2018-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00150/2018-12-10/text",
+   "sha256": "7e1f5f6e43f48fe2a6a24345dea9e85bd558668b8cceb8627bb869f46240e3a9"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

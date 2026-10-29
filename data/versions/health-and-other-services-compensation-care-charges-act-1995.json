@@ -1,0 +1,72 @@
+{
+ "title_id": "C2004A04981",
+ "name": "Health and Other Services (Compensation) Care Charges Act 1995",
+ "folder": "health-and-other-services-compensation-care-charges-act-1995",
+ "compilations": [
+  {
+   "in_force": "2011-07-01",
+   "register_id": "C2011C00460",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04981',start=2011-07-01,retrospectivestart=2011-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04981/2011-07-01/text",
+   "sha256": "03f98fa319d75b9ae10e03c50f5eb39c9a67ff388526d96c06e494b24eabe7c3"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00379",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04981',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04981/2015-07-01/text",
+   "sha256": "0d0f7fab5df86afc4fdc6379cd9d748c40720270d61e6b2aab567fd3257b81a6"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00789",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04981',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04981/2016-07-01/text",
+   "sha256": "ed5d63f922cd643945aee3b55eda56099581b7fc14ec82de5fcee2596051670e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-11-14",
+   "acts": []
+  },
+  {
+   "in_force": "1997-10-01",
+   "acts": [
+    "Aged Care (Compensation Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "2002-01-01",
+   "acts": [
+    "Health and Other Services (Compensation) Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-09-23",
+   "acts": [
+    "Health Legislation Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

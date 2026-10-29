@@ -1,0 +1,43 @@
+{
+ "title_id": "C2014A00083",
+ "name": "Clean Energy Legislation (Carbon Tax Repeal) Act 2014",
+ "folder": "clean-energy-legislation-carbon-tax-repeal-act-2014",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014A00083",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00083',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00083/2014-07-01/text",
+   "sha256": "f2880a256513fb969d6153ae7fef419d8f749415106be6693933dd43b8ca8747"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00166",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00083',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00083/2016-03-05/text",
+   "sha256": "205c92a5ea6450003372a9df991a48e3841ecb448750ab908dcc7d8f18542490"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00464",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00083',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00083/2024-10-14/text",
+   "sha256": "913c5d939a53eae5795bd81be8a3279b09414a20441b95f5df53c21e48089f04"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

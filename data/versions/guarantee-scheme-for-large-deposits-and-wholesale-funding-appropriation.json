@@ -1,0 +1,21 @@
+{
+ "title_id": "C2008A00129",
+ "name": "Guarantee Scheme for Large Deposits and Wholesale Funding Appropriation Act 2008",
+ "folder": "guarantee-scheme-for-large-deposits-and-wholesale-funding-appropriation",
+ "compilations": [
+  {
+   "in_force": "2008-11-27",
+   "register_id": "C2008A00129",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00129',start=2008-11-27,retrospectivestart=2008-11-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00129/2008-11-27/text",
+   "sha256": "013ec02c7f26db320a19e42ca67b5a96ba652bc010c9417e0699854ba039d6fe"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,32 @@
+{
+ "title_id": "C2012A00161",
+ "name": "Superannuation Auditor Registration Imposition Act 2012",
+ "folder": "superannuation-auditor-registration-imposition-act-2012",
+ "compilations": [
+  {
+   "in_force": "2012-11-28",
+   "register_id": "C2012A00161",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00161',start=2012-11-28,retrospectivestart=2012-11-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00161/2012-11-28/text",
+   "sha256": "81d7bfaa645f576c833504e3a0206f0da3c6ba0de7f5588ce0f51981ce5b17ef"
+  },
+  {
+   "in_force": "2018-06-29",
+   "register_id": "C2018C00249",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00161',start=2018-06-29,retrospectivestart=2018-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00161/2018-06-29/text",
+   "sha256": "b12c53597eed4865dd672b77d393b7ab171dc60d493ed256c934e71a8745dd74"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,67 @@
+{
+ "title_id": "C2006A00107",
+ "name": "Protection of the Sea (Harmful Anti-fouling Systems) Act 2006",
+ "folder": "protection-of-the-sea-harmful-anti-fouling-systems-act-2006",
+ "compilations": [
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00326",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00107',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00107/2013-07-01/text",
+   "sha256": "b71e417c5f3254e150f17873193c43e3500fa720c288718b5120f2bad3a737e8"
+  },
+  {
+   "in_force": "2022-12-06",
+   "register_id": "C2022C00353",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00107',start=2022-12-06,retrospectivestart=2022-12-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00107/2022-12-06/text",
+   "sha256": "9b5d85c4ae1d9c5fa3595853d08921f125986f3c66f4f304ef357d5c10af5b8c"
+  },
+  {
+   "in_force": "2023-01-01",
+   "register_id": "C2023C00019",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00107',start=2023-01-01,retrospectivestart=2023-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00107/2023-01-01/text",
+   "sha256": "545bdaeb2ee357af9afa7485fb121c5c5dfa93ac59e957eb8b8d6163cdf0fb95"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-09-27",
+   "acts": []
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

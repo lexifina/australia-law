@@ -1,0 +1,341 @@
+{
+ "title_id": "C2004A03342",
+ "name": "Inspector-General of Intelligence and Security Act 1986",
+ "folder": "inspector-general-of-intelligence-and-security-act-1986",
+ "compilations": [
+  {
+   "in_force": "2026-03-28",
+   "register_id": "C2026C00139",
+   "compilation": "45",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03342',start=2026-03-28,retrospectivestart=2026-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03342/2026-03-28/text",
+   "sha256": "a03614a614014b0c5be6382464c0c59b499a8c09100be300b7115994c2b5ef45"
+  },
+  {
+   "in_force": "2026-06-01",
+   "register_id": "C2026C00228",
+   "compilation": "46",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03342',start=2026-06-01,retrospectivestart=2026-06-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03342/2026-06-01/text",
+   "sha256": "d8778d376e218ff7eb47f00b243774cc3ec61763aa7f56534eafaf2b678f1b64"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00233",
+   "compilation": "47",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03342',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03342/2026-06-04/text",
+   "sha256": "765dca2be71efd1d19417dfa3deb95d0f6d4f76b959321bfe181392bf4d6a3fa"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1986-10-17",
+   "acts": []
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Migration Legislation Amendment (Consequential Amendments) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-10-22",
+   "acts": [
+    "Defence Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1994-04-07",
+   "acts": [
+    "Inspector-General of Intelligence and Security Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999",
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-19",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Intelligence Services (Consequential Provisions) Act 2001",
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-06-23",
+   "acts": [
+    "Age Discrimination (Consequential Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-12-02",
+   "acts": [
+    "Intelligence Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-12-13",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-04-13",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-10-07",
+   "acts": [
+    "Freedom of Information (Removal of Conclusive Certificates and Other Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-25",
+   "acts": [
+    "National Security Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-10-15",
+   "acts": [
+    "Inspector-General of Intelligence and Security Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-01-15",
+   "acts": [
+    "Public Interest Disclosure (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-03",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-30",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Law and Justice Legislation Amendment (Northern Territory Local Court) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Intelligence Services Amendment (Establishment of the Australian Signals Directorate) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-20",
+   "acts": [
+    "Office of National Intelligence (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-09-07",
+   "acts": [
+    "Australian Security Intelligence Organisation Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-06-17",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing and Other Legislation Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-07-24",
+   "acts": [
+    "Telecommunications Legislation Amendment (International Production Orders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-04",
+   "acts": [
+    "Surveillance Legislation Amendment (Identify and Disrupt) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-10-01",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 1) Act 2022",
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Australian Security Intelligence Organisation Amendment Act 2023",
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-08-12",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 2) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-21",
+   "acts": [
+    "Inspector-General of Intelligence and Security and Other Legislation Amendment (Modernisation) Act 2023",
+    "Inspector-General of Intelligence and Security and Other Legislation Amendment (Modernisation) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-12-12",
+   "acts": [
+    "Anti-Discrimination and Human Rights Legislation Amendment (Respect at Work) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-15",
+   "acts": [
+    "Oversight Legislation Amendment (Robodebt Royal Commission Response and Other Measures) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

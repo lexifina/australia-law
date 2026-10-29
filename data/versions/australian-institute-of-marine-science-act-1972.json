@@ -1,0 +1,167 @@
+{
+ "title_id": "C1972A00055",
+ "name": "Australian Institute of Marine Science Act 1972",
+ "folder": "australian-institute-of-marine-science-act-1972",
+ "compilations": [
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00037",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1972A00055',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1972A00055/2011-12-27/text",
+   "sha256": "1dc48fc659f0083eda3528f5e10df418c9e4a39ecbf00201610c4d3b526dfb80"
+  },
+  {
+   "in_force": "2013-06-29",
+   "register_id": "C2013C00434",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1972A00055',start=2013-06-29,retrospectivestart=2013-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1972A00055/2013-06-29/text",
+   "sha256": "579dd362ec83e1552f30b1ace3f7dbcd33c80cdfd4bda68408092e9ac4ca9578"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00374",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1972A00055',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1972A00055/2014-07-01/text",
+   "sha256": "cbdf5320a671a1c63fb0fe84b97b7599512d3ac6cc06d3382d414d808ecd26fe"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01009",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1972A00055',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1972A00055/2016-10-21/text",
+   "sha256": "05dd6c6cbd96a01da5a1dce2cffac0b1c257ada93333ca3ba0cb1309d5a599cc"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1972-06-09",
+   "acts": []
+  },
+  {
+   "in_force": "1973-06-18",
+   "acts": [
+    "Australian Institute of Marine Science Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Industry, Technology and Commerce Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-11-10",
+   "acts": [
+    "Research Agencies Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2005-05-25",
+   "acts": [
+    "Australian Institute of Marine Science Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-04-07",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2007-09-10",
+   "acts": [
+    "Governance Review Implementation (Science Research Agencies) Act 2007"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

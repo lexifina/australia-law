@@ -1,0 +1,169 @@
+{
+ "title_id": "C2004A04351",
+ "name": "Coal Mining Industry (Long Service Leave) Administration Act 1992",
+ "folder": "coal-mining-industry-long-service-leave-administration-act-1992",
+ "compilations": [
+  {
+   "in_force": "2024-02-27",
+   "register_id": "C2024C00162",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04351',start=2024-02-27,retrospectivestart=2024-02-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04351/2024-02-27/text",
+   "sha256": "899b87c655c8a14fa7dd9870cb49cdfc13bd4d07ccf2335d945594b7ce7b09d7"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00635",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04351',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04351/2024-10-14/text",
+   "sha256": "ca0ad17502e534f374398cca6b04409707ca8b3ad872ddd2b932b5916901188e"
+  },
+  {
+   "in_force": "2026-09-01",
+   "register_id": "C2026C00370",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04351',start=2026-09-01,retrospectivestart=2026-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04351/2026-09-01/text",
+   "sha256": "9f4902455338ee355e09aa8d316b7af4af319b2d726217f2cf079fe34db2ae53"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-06-26",
+   "acts": []
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Coal Mining Legislation Amendment (Oakdale Collieries and others) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Workplace Relations Amendment (A Stronger Safety Net) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-03-28",
+   "acts": [
+    "Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Coal Mining Industry (Long Service Leave Funding) Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Coal Mining Industry (Long Service Leave) Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-11-06",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Fair Work Legislation Amendment (Protecting Worker Entitlements) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

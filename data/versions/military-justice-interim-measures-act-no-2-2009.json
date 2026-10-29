@@ -1,0 +1,21 @@
+{
+ "title_id": "C2009A00092",
+ "name": "Military Justice (Interim Measures) Act (No. 2) 2009",
+ "folder": "military-justice-interim-measures-act-no-2-2009",
+ "compilations": [
+  {
+   "in_force": "2009-09-22",
+   "register_id": "C2009A00092",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00092',start=2009-09-22,retrospectivestart=2009-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00092/2009-09-22/text",
+   "sha256": "f7b4d65aff4207fa036c302cdf9298dcf0a6553f86d1cde93cc5ab48a5c3233d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2022A00081",
+ "name": "High Speed Rail Authority Act 2022",
+ "folder": "high-speed-rail-authority-act-2022",
+ "compilations": [
+  {
+   "in_force": "2022-12-12",
+   "register_id": "C2022A00081",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00081',start=2022-12-12,retrospectivestart=2022-12-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00081/2022-12-12/text",
+   "sha256": "ca30414c6ae59281b2f82fd603970394a405b68e1216eac9b6883875f376f6f2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,255 @@
+{
+ "title_id": "C2005A00044",
+ "name": "Australian Communications and Media Authority Act 2005",
+ "folder": "australian-communications-and-media-authority-act-2005",
+ "compilations": [
+  {
+   "in_force": "2024-07-10",
+   "register_id": "C2024C00310",
+   "compilation": "37",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00044',start=2024-07-10,retrospectivestart=2024-07-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00044/2024-07-10/text",
+   "sha256": "b384f2f67cf8de5fb2f1a91423d3b06415dcf4315f17cd073de059da9c4eccc8"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00177",
+   "compilation": "38",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00044',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00044/2025-02-21/text",
+   "sha256": "2ffdd2ee225a96a4d3cc10b8d3445ff1c0fa24033c8680a660fefed5844a6e77"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00667",
+   "compilation": "39",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00044',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00044/2025-12-05/text",
+   "sha256": "8b92995a1bc84c1efb75af2aed2a1c9a9a5d1c1961c72e0f0992b88f60aac90b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2005-04-01",
+   "acts": []
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Broadcasting Services Amendment (Collection of Datacasting Transmitter Licence Fees) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-05-31",
+   "acts": [
+    "Do Not Call Register (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-09-29",
+   "acts": [
+    "Communications Legislation Amendment (Information Sharing and Datacasting) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-11-01",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-01-20",
+   "acts": [
+    "Communications Legislation Amendment (Content Services) Act 2007",
+    "Communications Legislation Amendment (Information Sharing and Datacasting) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-05-27",
+   "acts": [
+    "Broadcasting Legislation Amendment (Digital Dividend and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Telecommunications Legislation Amendment (Universal Service Reform) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-19",
+   "acts": [
+    "Broadcasting and Other Legislation Amendment (Deregulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-03-20",
+   "acts": [
+    "Broadcasting and Other Legislation Amendment (Deregulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Telecommunications Legislation Amendment (Deregulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Enhancing Online Safety for Children (Consequential Amendments) Act 2015",
+    "Telecommunications Legislation Amendment (Deregulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-06-23",
+   "acts": [
+    "Enhancing Online Safety for Children Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-13",
+   "acts": [
+    "Interactive Gambling Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-20",
+   "acts": [
+    "Statute Update (Winter 2017) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-10-17",
+   "acts": [
+    "Broadcasting Legislation Amendment (Broadcasting Reform) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-04-12",
+   "acts": [
+    "Communications Legislation Amendment (Online Content Services and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Intelligence Services Amendment (Establishment of the Australian Signals Directorate) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-09-01",
+   "acts": [
+    "Broadcasting Legislation Amendment (Foreign Media Ownership, Community Radio and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-12-13",
+   "acts": [
+    "Interactive Gambling Amendment (National Self-exclusion Register) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Broadcasting Services Amendment (Regional Commercial Radio and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-06-17",
+   "acts": [
+    "Radiocommunications Legislation Amendment (Reform and Modernisation) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2022-12-13",
+   "acts": [
+    "Privacy Legislation Amendment (Enforcement and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-06-01",
+   "acts": [
+    "Telecommunications Legislation Amendment (Enhancing Consumer Safeguards and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Interactive Gambling Amendment (Gambling Reform) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

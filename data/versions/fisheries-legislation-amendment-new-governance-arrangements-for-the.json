@@ -1,0 +1,21 @@
+{
+ "title_id": "C2008A00036",
+ "name": "Fisheries Legislation Amendment (New Governance Arrangements for the Australian Fisheries Management Authority and Other Matters) Act 2008",
+ "folder": "fisheries-legislation-amendment-new-governance-arrangements-for-the",
+ "compilations": [
+  {
+   "in_force": "2008-06-24",
+   "register_id": "C2008A00036",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00036',start=2008-06-24,retrospectivestart=2008-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00036/2008-06-24/text",
+   "sha256": "3631ef5c63a90251ff8745e45058c9e73bd30a5964a6acb8bab9e93a19b2081d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

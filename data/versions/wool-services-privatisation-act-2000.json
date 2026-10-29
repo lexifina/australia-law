@@ -1,0 +1,89 @@
+{
+ "title_id": "C2004A00738",
+ "name": "Wool Services Privatisation Act 2000",
+ "folder": "wool-services-privatisation-act-2000",
+ "compilations": [
+  {
+   "in_force": "2013-06-29",
+   "register_id": "C2013C00413",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00738',start=2013-06-29,retrospectivestart=2013-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00738/2013-06-29/text",
+   "sha256": "4b5cf33ce5dbddca0a39f1116bb6fd4b19125d68c67e38fe20bf3fb812a82888"
+  },
+  {
+   "in_force": "2013-12-13",
+   "register_id": "C2014C00034",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00738',start=2013-12-13,retrospectivestart=2013-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00738/2013-12-13/text",
+   "sha256": "378d0e2001dd5c10523464304a3ddc181dc2245d5dd634132ade8753b2aeaea4"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00448",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00738',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00738/2016-03-05/text",
+   "sha256": "6afeda38c79eff3890bdf1b8e28b7b1b536d820f77e4951c9a768fea99b34db9"
+  },
+  {
+   "in_force": "2025-01-01",
+   "register_id": "C2025C00024",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00738',start=2025-01-01,retrospectivestart=2025-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00738/2025-01-01/text",
+   "sha256": "17787860cc6a143e08c3fc036227f37fc4a70dad1c9c34d1a58b9707fd19cbae"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2000-12-07",
+   "acts": []
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-10-24",
+   "acts": [
+    "New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2004-04-27",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2004"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

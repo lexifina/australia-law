@@ -1,0 +1,343 @@
+{
+ "title_id": "C2004A00928",
+ "name": "Intelligence Services Act 2001",
+ "folder": "intelligence-services-act-2001",
+ "compilations": [
+  {
+   "in_force": "2026-01-22",
+   "register_id": "C2026C00072",
+   "compilation": "52",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00928',start=2026-01-22,retrospectivestart=2026-01-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00928/2026-01-22/text",
+   "sha256": "09ee03210bd6e546cf7fed751cbc5807cc7c0d17611d43f1c96b1c61ea2616da"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00210",
+   "compilation": "53",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00928',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00928/2026-06-04/text",
+   "sha256": "3fbeec3d253f8cc8a0d8e81f913869f0454f17da8f8eca2cc45092813f61efe3"
+  },
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00377",
+   "compilation": "54",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00928',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00928/2026-08-27/text",
+   "sha256": "4fa552e0616a50dc38771cde1edf2c651f39656ea7c87776830dce7540a84857"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2001-10-01",
+   "acts": []
+  },
+  {
+   "in_force": "2002-07-06",
+   "acts": [
+    "Security Legislation Amendment (Terrorism) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-07-23",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment (Terrorism) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-12-18",
+   "acts": [
+    "ASIO Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-04-27",
+   "acts": [
+    "Intelligence Services Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-12-02",
+   "acts": [
+    "Intelligence Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-13",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-20",
+   "acts": [
+    "ASIO Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-11-01",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-03-23",
+   "acts": [
+    "Telecommunications Interception and Intelligence Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-26",
+   "acts": [
+    "Intelligence Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-05-28",
+   "acts": [
+    "Foreign Affairs Portfolio Miscellaneous Measures Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-03",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-30",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-13",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-10-13",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-12",
+   "acts": [
+    "Australian Citizenship Amendment (Allegiance to Australia) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2017-06-07",
+   "acts": [
+    "Criminal Code Amendment (High Risk Terrorist Offenders) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-10-31",
+   "acts": [
+    "Defence Legislation Amendment (2017 Measures No. 1) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Intelligence Services Amendment (Establishment of the Australian Signals Directorate) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment Act (No. 1) 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-11",
+   "acts": [
+    "Intelligence Services Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-20",
+   "acts": [
+    "Office of National Intelligence (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-30",
+   "acts": [
+    "Counter-Terrorism (Temporary Exclusion Orders) (Consequential Amendments) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-13",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment (Assistance and Access Amendments Review) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-09-07",
+   "acts": [
+    "Australian Security Intelligence Organisation Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-18",
+   "acts": [
+    "Australian Citizenship Amendment (Citizenship Cessation) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-17",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2021-05-25",
+   "acts": [
+    "Migration Amendment (Clarifying International Obligations for Removal) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-07-24",
+   "acts": [
+    "Telecommunications Legislation Amendment (International Production Orders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-03",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Sunsetting Review and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-04",
+   "acts": [
+    "Surveillance Legislation Amendment (Identify and Disrupt) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-09",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (High Risk Terrorist Offenders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-04-02",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-10-01",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 1) Act 2022",
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-08-12",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 2) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-21",
+   "acts": [
+    "Inspector-General of Intelligence and Security and Other Legislation Amendment (Modernisation) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-12-08",
+   "acts": [
+    "Australian Citizenship Amendment (Citizenship Repudiation) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-05-22",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 3) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-09-03",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Declared Areas) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-11-30",
+   "acts": [
+    "Intelligence Services and Other Legislation Amendment (Cyber Security) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-11-08",
+   "acts": [
+    "Criminal Code Amendment (State Sponsors of Terrorism) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

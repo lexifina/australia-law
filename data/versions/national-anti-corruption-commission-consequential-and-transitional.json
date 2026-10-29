@@ -1,0 +1,32 @@
+{
+ "title_id": "C2022A00089",
+ "name": "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022",
+ "folder": "national-anti-corruption-commission-consequential-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2022-12-12",
+   "register_id": "C2022A00089",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00089',start=2022-12-12,retrospectivestart=2022-12-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00089/2022-12-12/text",
+   "sha256": "3a3895b7be656f1aceee0eaffcd31bb7e7a72d800ca45011eb939ba7ebd159dc"
+  },
+  {
+   "in_force": "2023-07-01",
+   "register_id": "C2023C00174",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00089',start=2023-07-01,retrospectivestart=2023-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00089/2023-07-01/text",
+   "sha256": "c00d44d232632809ab4c7be11987e6b15102aab2fd0e69182eedcdc93e69d8bf"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

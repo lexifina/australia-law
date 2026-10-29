@@ -1,0 +1,43 @@
+{
+ "title_id": "C2009A00112",
+ "name": "National Consumer Credit Protection (Fees) Act 2009",
+ "folder": "national-consumer-credit-protection-fees-act-2009",
+ "compilations": [
+  {
+   "in_force": "2009-11-16",
+   "register_id": "C2009A00112",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00112',start=2009-11-16,retrospectivestart=2009-11-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00112/2009-11-16/text",
+   "sha256": "99ea28ca00808392c748da0a8e39f3f4a9a634858c579f18aca71ca02e371744"
+  },
+  {
+   "in_force": "2018-06-29",
+   "register_id": "C2018C00250",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00112',start=2018-06-29,retrospectivestart=2018-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00112/2018-06-29/text",
+   "sha256": "f88c8c96670c9407f185d9c03dcf66ba05ca9af91864241579cd66439ab3529f"
+  },
+  {
+   "in_force": "2022-06-22",
+   "register_id": "C2022C00182",
+   "compilation": "2",
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00112',start=2022-06-22,retrospectivestart=2022-06-22,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00112/2022-06-22/text",
+   "sha256": "3da03b1eb6471016092cb14036acf2ce13b07ac2ebfaac435e15aeb4570dcad7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

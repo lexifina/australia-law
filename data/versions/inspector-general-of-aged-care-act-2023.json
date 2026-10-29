@@ -1,0 +1,32 @@
+{
+ "title_id": "C2023A00055",
+ "name": "Inspector-General of Aged Care Act 2023",
+ "folder": "inspector-general-of-aged-care-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-08-17",
+   "register_id": "C2023A00055",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00055',start=2023-08-17,retrospectivestart=2023-08-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00055/2023-08-17/text",
+   "sha256": "1f9b33489413e1291895c6056a21b92e96516f96bf64a9440656c800e56e8f93"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00582",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00055',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00055/2025-11-01/text",
+   "sha256": "8d41292645e102786124e847b37d7ca859be391e56ce8e42f9c7056285e2efc0"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A05333",
+ "name": "Charter of Budget Honesty Act 1998",
+ "folder": "charter-of-budget-honesty-act-1998",
+ "compilations": [
+  {
+   "in_force": "2013-12-10",
+   "register_id": "C2013C00690",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05333',start=2013-12-10,retrospectivestart=2013-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05333/2013-12-10/text",
+   "sha256": "724842426a685e9e4bef9a6f7e9a92d88c5affb1a139216155274c9a498410eb"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00438",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05333',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05333/2014-07-01/text",
+   "sha256": "928b75c5da75ad11bfdb61e91eb2e9e6c128ebdeda9364642915625ad8834add"
+  },
+  {
+   "in_force": "2020-03-25",
+   "register_id": "C2020C00126",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05333',start=2020-03-25,retrospectivestart=2020-03-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05333/2020-03-25/text",
+   "sha256": "e674b79dc76af536a87386506558fea21a8e57dd63dcf32799013a48a23066bc"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-04-17",
+   "acts": []
+  },
+  {
+   "in_force": "2012-02-15",
+   "acts": [
+    "Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,258 @@
+{
+ "title_id": "C2007A00031",
+ "name": "Private Health Insurance Act 2007",
+ "folder": "private-health-insurance-act-2007",
+ "compilations": [
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00686",
+   "compilation": "40",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00031',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00031/2025-12-05/text",
+   "sha256": "b1976b18797a17135d4feb0badc090dc48a0116ddbe3c4847c929ae6ee9cb12f"
+  },
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026C00134",
+   "compilation": "41",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00031',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00031/2026-04-01/text",
+   "sha256": "572991722a2a86862ef437c68976f83fed2a1a5b2ef5eaeefa7fe2273dbde1c2"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00412",
+   "compilation": "42",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00031',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00031/2026-09-19/text",
+   "sha256": "4a062f0b98f547db1e097241d44ac57d67cec36a6d7b4b2b9d7200b367254de5"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2007-03-30",
+   "acts": []
+  },
+  {
+   "in_force": "2007-04-01",
+   "acts": [
+    "Health Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-29",
+   "acts": [
+    "Health Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-25",
+   "acts": [
+    "Private Health Insurance Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Private Health Insurance Legislation Amendment Act 2009",
+    "Private Health Insurance Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-13",
+   "acts": [
+    "Private Health Insurance Legislation Amendment Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Health Legislation Amendment (Australian Community Pharmacy Authority and Private Health Insurance) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Fairer Private Health Insurance Incentives Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Private Health Insurance Legislation Amendment (Base Premium) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Private Health Insurance Amendment (Lifetime Health Cover Loading and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-04-01",
+   "acts": [
+    "Private Health Insurance Legislation Amendment (Base Premium) Act 2013",
+    "Private Health Insurance Legislation Amendment (Base Premium) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-04-09",
+   "acts": [
+    "Private Health Insurance Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-11-26",
+   "acts": [
+    "Private Health Insurance Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Private Health Insurance Amendment Act 2015",
+    "Private Health Insurance (Prudential Supervision) (Consequential Amendments and Transitional Provisions) Act 2015",
+    "Private Health Insurance (Prudential Supervision) (Consequential Amendments and Transitional Provisions) Act 2015",
+    "Private Health Insurance (Prudential Supervision) (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-09-17",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-09-22",
+   "acts": [
+    "Private Health Insurance Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-01-01",
+   "acts": [
+    "Private Health Insurance Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-01",
+   "acts": [
+    "Private Health Insurance Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-12-13",
+   "acts": [
+    "Health Legislation Amendment (Data-matching and Other Matters) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-04-01",
+   "acts": [
+    "Private Health Insurance Legislation Amendment (Age of Dependants) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Private Health Insurance Amendment (Income Thresholds) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Private Health Insurance Legislation Amendment (Medical Device and Human Tissue Product List and Cost Recovery) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-15",
+   "acts": [
+    "Health Legislation Amendment (Modernising My Health Record—Sharing by Default) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-11-01",
+   "acts": [
+    "Aged Care and Other Legislation Amendment Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

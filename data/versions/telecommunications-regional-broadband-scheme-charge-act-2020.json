@@ -1,0 +1,21 @@
+{
+ "title_id": "C2020A00048",
+ "name": "Telecommunications (Regional Broadband Scheme) Charge Act 2020",
+ "folder": "telecommunications-regional-broadband-scheme-charge-act-2020",
+ "compilations": [
+  {
+   "in_force": "2020-05-25",
+   "register_id": "C2020A00048",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00048',start=2020-05-25,retrospectivestart=2020-05-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00048/2020-05-25/text",
+   "sha256": "9aceb8309fad26b38d1282f6adadbdc18e7550e6bd970708a7ba479b818304b7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

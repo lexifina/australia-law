@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A02724",
+ "name": "Australian Broadcasting Corporation (Transitional Provisions and Consequential Amendments) Act 1983",
+ "folder": "australian-broadcasting-corporation-transitional-provisions-and",
+ "compilations": [
+  {
+   "in_force": "2014-10-17",
+   "register_id": "C2014C00762",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02724',start=2014-10-17,retrospectivestart=2014-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02724/2014-10-17/text",
+   "sha256": "dfe7fd2b83fd585d07b8f92100d2cac3ec08be521385ef9b23ee2d4c2fa48d5a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1983-06-01"
+ ],
+ "repeal": null
+}

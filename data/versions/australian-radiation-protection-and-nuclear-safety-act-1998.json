@@ -1,0 +1,131 @@
+{
+ "title_id": "C2004A00383",
+ "name": "Australian Radiation Protection and Nuclear Safety Act 1998",
+ "folder": "australian-radiation-protection-and-nuclear-safety-act-1998",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00977",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00383',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00383/2016-10-21/text",
+   "sha256": "0cc2b674aa5b7ce11a289842afe2557afe952ae046b4d9c97f5f41d352a57bd2"
+  },
+  {
+   "in_force": "2023-07-04",
+   "register_id": "C2023C00187",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00383',start=2023-07-04,retrospectivestart=2023-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00383/2023-07-04/text",
+   "sha256": "dbdd9a142c2abffc43495003c2e8c448d354aa2326266d7d181490794714bf11"
+  },
+  {
+   "in_force": "2024-03-20",
+   "register_id": "C2024C00083",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00383',start=2024-03-20,retrospectivestart=2024-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00383/2024-03-20/text",
+   "sha256": "d4cfb222c3f49657fffe44f8dfe399315c408a001c390dbfdb182a3855db1c10"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00716",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00383',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00383/2024-10-14/text",
+   "sha256": "2a43e26e596cc1fde47ee1a0a8b9327e2151ff0fe11eba7c9105f32f807b8566"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-12-24",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2003-12-13",
+   "acts": [
+    "Non-Proliferation Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-15",
+   "acts": [
+    "Commonwealth Radioactive Waste Management (Related Amendments) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-10-08",
+   "acts": [
+    "Australian Radiation Protection and Nuclear Safety Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

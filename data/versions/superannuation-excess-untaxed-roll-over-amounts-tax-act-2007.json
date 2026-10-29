@@ -1,0 +1,43 @@
+{
+ "title_id": "C2007A00012",
+ "name": "Superannuation (Excess Untaxed Roll-over Amounts Tax) Act 2007",
+ "folder": "superannuation-excess-untaxed-roll-over-amounts-tax-act-2007",
+ "compilations": [
+  {
+   "in_force": "2007-03-15",
+   "register_id": "C2007A00012",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00012',start=2007-03-15,retrospectivestart=2007-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00012/2007-03-15/text",
+   "sha256": "569cef0eeb4856a43ab8cf5286f57497d43737a652a9f9c6b3059892c9806d19"
+  },
+  {
+   "in_force": "2013-05-28",
+   "register_id": "C2013C00292",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00012',start=2013-05-28,retrospectivestart=2013-05-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00012/2013-05-28/text",
+   "sha256": "f5719cf70ad37ea4a025a6b7bff6b0d63d8eac3b8febe90234820e856f0027c2"
+  },
+  {
+   "in_force": "2014-06-25",
+   "register_id": "C2014C00322",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00012',start=2014-06-25,retrospectivestart=2014-06-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00012/2014-06-25/text",
+   "sha256": "4fca028637521460b48481cfa4368b752098f9dd933068c6093091ba11b3f845"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,59 @@
+{
+ "title_id": "C1971A00073",
+ "name": "Superannuation (Pension Increases) Act 1971",
+ "folder": "superannuation-pension-increases-act-1971",
+ "compilations": [
+  {
+   "in_force": "1978-06-12",
+   "register_id": "C2004C00634",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00073',start=1978-06-12,retrospectivestart=1978-06-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00073/1978-06-12/text",
+   "sha256": "fdfe5ac7ef9ebe31be2826ce227a034559795ed48e552236e7b02c6133a00900"
+  },
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00271",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00073',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00073/2011-04-19/text",
+   "sha256": "2493a51cc54d08c3b72cee45f7b054cbbce69da8fc9ab23fca0d62310491865e"
+  },
+  {
+   "in_force": "2011-09-16",
+   "register_id": "C2011C00771",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00073',start=2011-09-16,retrospectivestart=2011-09-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00073/2011-09-16/text",
+   "sha256": "6e547fbce473df9dd6dd21256b262018be3818a26965dbe3d62333a99d219837"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00569",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00073',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00073/2014-07-01/text",
+   "sha256": "d65e05123ed70c692dd38db7635d2139593eecf0300e07cddaa7a9e64e5aedcb"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1971-10-01",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

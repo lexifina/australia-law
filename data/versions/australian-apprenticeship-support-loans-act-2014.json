@@ -1,0 +1,93 @@
+{
+ "title_id": "C2014A00081",
+ "name": "Australian Apprenticeship Support Loans Act 2014",
+ "folder": "australian-apprenticeship-support-loans-act-2014",
+ "compilations": [
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00136",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00081',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00081/2025-02-21/text",
+   "sha256": "2be45aa09ccb2f4edf8d3fa5102c495283b234d67f368c20eb9c6a02ed44cbba"
+  },
+  {
+   "in_force": "2025-06-01",
+   "register_id": "C2025C00372",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00081',start=2025-06-01,retrospectivestart=2025-06-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00081/2025-06-01/text",
+   "sha256": "de8f2eb66bf87edaf061d174ba39c6f7a7af0078cfc3bd3f1d75d02a2771b74b"
+  },
+  {
+   "in_force": "2025-08-03",
+   "register_id": "C2025C00477",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00081',start=2025-08-03,retrospectivestart=2025-08-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00081/2025-08-03/text",
+   "sha256": "bd6020c68d1935e6ae597896a5c6b5831b29674a8a9915f7921240b87a00a439"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2014-07-17",
+   "acts": []
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Education Legislation Amendment (Overseas Debt Recovery) Act 2015",
+    "Education Legislation Amendment (Overseas Debt Recovery) Act 2015",
+    "Labor 2013-14 Budget Savings (Measures No. 2) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Statute Update (Autumn 2018) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Higher Education Support Legislation Amendment (Student Loan Sustainability) Act 2018",
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-03-07",
+   "acts": [
+    "Trade Support Loans Amendment (Improving Administration) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Trade Support Loans Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-05",
+   "acts": [
+    "Universities Accord (Student Support and Other Measures) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

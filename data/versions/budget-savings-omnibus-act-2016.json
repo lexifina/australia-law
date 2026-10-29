@@ -1,0 +1,32 @@
+{
+ "title_id": "C2016A00055",
+ "name": "Budget Savings (Omnibus) Act 2016",
+ "folder": "budget-savings-omnibus-act-2016",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016A00055",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00055',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00055/2016-07-01/text",
+   "sha256": "064859f1890f3f53b0175422e24e770143e1e390ff767d4d10ea71684ffddc68"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00522",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00055',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00055/2021-09-01/text",
+   "sha256": "a397b2efa26062a0bb0927dae19b3bd254250ae02e31b2d1a3e15d3363d4d124"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

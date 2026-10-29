@@ -1,0 +1,21 @@
+{
+ "title_id": "C2010A00065",
+ "name": "Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010",
+ "folder": "child-support-and-family-assistance-legislation-amendment-budget-and",
+ "compilations": [
+  {
+   "in_force": "2010-06-28",
+   "register_id": "C2010A00065",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00065',start=2010-06-28,retrospectivestart=2010-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00065/2010-06-28/text",
+   "sha256": "f9b8a7c1a5737f220a801d284d4f1afdcb8e3288e4cd1fe282c4ea758fa560e1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

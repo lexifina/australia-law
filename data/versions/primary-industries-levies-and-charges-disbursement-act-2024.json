@@ -1,0 +1,32 @@
+{
+ "title_id": "C2024A00059",
+ "name": "Primary Industries Levies and Charges Disbursement Act 2024",
+ "folder": "primary-industries-levies-and-charges-disbursement-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-07-09",
+   "register_id": "C2024A00059",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00059',start=2024-07-09,retrospectivestart=2024-07-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00059/2024-07-09/text",
+   "sha256": "685448d1472af3698329ac3fa3f8059e0afbcdd784e5d68829f43e0424b0d428"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00181",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00059',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00059/2025-02-21/text",
+   "sha256": "9b322262152c9187caa6479ec27ee1235375eccaa3988252bfd498bb102a60dc"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,150 @@
+{
+ "title_id": "C1988A00156",
+ "name": "Safety, Rehabilitation and Compensation (Defence-related Claims) Act 1988",
+ "folder": "safety-rehabilitation-and-compensation-defence-related-claims-act-1988",
+ "compilations": [
+  {
+   "in_force": "2025-04-21",
+   "register_id": "C2025C00325",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1988A00156',start=2025-04-21,retrospectivestart=2025-04-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1988A00156/2025-04-21/text",
+   "sha256": "d61bc5ed49a84118205077019e1154e8280d3fa61a9737e3d209f557000589c2"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00592",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1988A00156',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1988A00156/2025-11-01/text",
+   "sha256": "2d1f527b1997ac655cc9f42c8f52b3ce43ffd10f3df5c3a4a3773fd933354490"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00670",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1988A00156',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1988A00156/2025-12-05/text",
+   "sha256": "1d299639a14027bbdba67cfd5a723e24f895a8dcf4e0f81459a326b3b6ac1464"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00265",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1988A00156',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1988A00156/2026-07-01/text",
+   "sha256": "ea893d7a9474a7fd581f7521fd71286f8784475801320d4fc9df5f25b1a4a60f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2017-10-12",
+   "acts": []
+  },
+  {
+   "in_force": "2017-12-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Omnibus) Act 2017",
+    "Veterans’ Affairs Legislation Amendment (Omnibus) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-03-29",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-10-26",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Omnibus) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-11-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 2) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Treatment Benefits (Special Access) (Consequential Amendments and Transitional Provisions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-01",
+   "acts": [
+    "Services Australia Governance Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2022-08-06",
+   "acts": [
+    "Aged Care and Other Legislation Amendment (Royal Commission Response) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-10-07",
+   "acts": [
+    "Military Rehabilitation and Compensation and Other Legislation Amendment (Incapacity Payments) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-10-14",
+   "acts": [
+    "Defence, Veterans’ and Families’ Acute Support Package Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-06-28",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Miscellaneous Measures No. 2) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-06-29",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Miscellaneous Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Disability Services and Inclusion (Consequential Amendments and Transitional Provisions) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-21",
+   "acts": [
+    "Administrative Review Tribunal (Miscellaneous Measures) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

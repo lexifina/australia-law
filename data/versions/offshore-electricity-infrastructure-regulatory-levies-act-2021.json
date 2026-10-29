@@ -1,0 +1,21 @@
+{
+ "title_id": "C2021A00122",
+ "name": "Offshore Electricity Infrastructure (Regulatory Levies) Act 2021",
+ "folder": "offshore-electricity-infrastructure-regulatory-levies-act-2021",
+ "compilations": [
+  {
+   "in_force": "2021-12-02",
+   "register_id": "C2021A00122",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00122',start=2021-12-02,retrospectivestart=2021-12-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00122/2021-12-02/text",
+   "sha256": "f1fa8a74997e1cda73f68f2e3992fd2eff0eed84739920bb9479923a84aff59f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

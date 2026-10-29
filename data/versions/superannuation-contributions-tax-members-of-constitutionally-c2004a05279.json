@@ -1,0 +1,159 @@
+{
+ "title_id": "C2004A05279",
+ "name": "Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997",
+ "folder": "superannuation-contributions-tax-members-of-constitutionally-c2004a05279",
+ "compilations": [
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00348",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05279',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05279/2015-07-01/text",
+   "sha256": "4adc84a00839c22a6687db7d1ad35fe8fe931e4c27f1a5c8bc5e005cf9878bfc"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00699",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05279',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05279/2016-07-01/text",
+   "sha256": "277eb90d338509521bbe403691e8417f95a68c73e6621d3e81dfea855289d0bb"
+  },
+  {
+   "in_force": "2022-09-28",
+   "register_id": "C2022C00279",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05279',start=2022-09-28,retrospectivestart=2022-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05279/2022-09-28/text",
+   "sha256": "9ef677d54deb2452869d36cc09b54146f527fac1718f2bc539904143d4c9481d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-12-07",
+   "acts": []
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-04-19",
+   "acts": [
+    "A New Tax System (Fringe Benefits Reporting) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1999",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "A New Tax System (Tax Administration) Act 1999",
+    "A New Tax System (Tax Administration) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Tax Administration) Act (No. 1) 2000",
+    "Taxation Laws Amendment Act (No. 5) 2001"
+   ]
+  },
+  {
+   "in_force": "2002-06-29",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-28",
+   "acts": [
+    "Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Superannuation (Surcharge Rate Reduction) Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-11-12",
+   "acts": [
+    "Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-12-17",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 2003"
+   ]
+  },
+  {
+   "in_force": "2004-06-30",
+   "acts": [
+    "Superannuation Budget Measures Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-08-12",
+   "acts": [
+    "Superannuation Laws Amendment (Abolition of Surcharge) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C1947A00091",
+ "name": "International Labour Organisation Act 1947",
+ "folder": "international-labour-organisation-act-1947",
+ "compilations": [
+  {
+   "in_force": "1947-12-11",
+   "register_id": "C1947A00091",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1947A00091',start=1947-12-11,retrospectivestart=1947-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1947A00091/1947-12-11/text",
+   "sha256": "7217cbf8b27ba82f4ed22ab25c97ff6215935d782d6e38bfb39587efe0655515"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

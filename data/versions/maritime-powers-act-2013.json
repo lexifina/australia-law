@@ -1,0 +1,72 @@
+{
+ "title_id": "C2013A00015",
+ "name": "Maritime Powers Act 2013",
+ "folder": "maritime-powers-act-2013",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00967",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00015',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00015/2016-10-21/text",
+   "sha256": "b331841a4399b32e30ca088b57d3ca8f3af1299febf1dfb148e460e0a223e286"
+  },
+  {
+   "in_force": "2017-04-05",
+   "register_id": "C2017C00123",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00015',start=2017-04-05,retrospectivestart=2017-04-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00015/2017-04-05/text",
+   "sha256": "f746b51a5fc611f568ea969e4a0019706ff718b8441fd0a1281b4dfe8e434994"
+  },
+  {
+   "in_force": "2025-11-08",
+   "register_id": "C2025C00632",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00015',start=2025-11-08,retrospectivestart=2025-11-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00015/2025-11-08/text",
+   "sha256": "8ce8e9f0ff5084f3c00ad2575d5d7b5625948c214953fd3095cbacdf6be3ccc2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2013-03-27",
+   "acts": []
+  },
+  {
+   "in_force": "2014-12-16",
+   "acts": [
+    "Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

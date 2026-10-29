@@ -1,0 +1,97 @@
+{
+ "title_id": "C2004A02968",
+ "name": "Judicial and Statutory Officers (Remuneration and Allowances) Act 1984",
+ "folder": "judicial-and-statutory-officers-remuneration-and-allowances-act-1984",
+ "compilations": [
+  {
+   "in_force": "2008-12-10",
+   "register_id": "C2008C00669",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02968',start=2008-12-10,retrospectivestart=2008-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02968/2008-12-10/text",
+   "sha256": "6ef9a29dfb6a48db92ac23c7f8b0bdcadc62846b3d99ec3379750afa380e67aa"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00848",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02968',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02968/2016-07-01/text",
+   "sha256": "da18dde065b8b269454ad8ec4fe73b856dbc15e022a4acd4fbe51019dc4045b6"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00464",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02968',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02968/2021-09-01/text",
+   "sha256": "46ea91aec43f81d81b8e46f55d2452b67818e2912b9761caa7421638e3cd7fd1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1984-07-01",
+   "acts": []
+  },
+  {
+   "in_force": "1985-07-01",
+   "acts": [
+    "Judicial and Statutory Officers (Remuneration and Allowances) Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-07-01",
+   "acts": [
+    "Remuneration and Allowances Alteration Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-12-02",
+   "acts": [
+    "Judicial and Statutory Officers (Remuneration and Allowances) Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-05-25",
+   "acts": [
+    "Judicial and Statutory Officers Remuneration Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988",
+    "Judicial and Statutory Officers Remuneration Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-05",
+   "acts": [
+    "Judicial and Statutory Officers Remuneration Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

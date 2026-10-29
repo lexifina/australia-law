@@ -1,0 +1,21 @@
+{
+ "title_id": "C2010A00123",
+ "name": "Carer Recognition Act 2010",
+ "folder": "carer-recognition-act-2010",
+ "compilations": [
+  {
+   "in_force": "2010-11-18",
+   "register_id": "C2010A00123",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00123',start=2010-11-18,retrospectivestart=2010-11-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00123/2010-11-18/text",
+   "sha256": "e43e61b644a1a95f357c2d66055ed5161340aabc7427c2873ebdfe6506a01214"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

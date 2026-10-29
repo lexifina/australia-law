@@ -1,0 +1,43 @@
+{
+ "title_id": "C2012A00014",
+ "name": "Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012",
+ "folder": "minerals-resource-rent-tax-consequential-amendments-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2012-03-29",
+   "register_id": "C2012A00014",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00014',start=2012-03-29,retrospectivestart=2012-03-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00014/2012-03-29/text",
+   "sha256": "bab44e9b80b3bb67dd1193f0e301b1677bdd9b40f8dd3d09b26a6cb798a32c79"
+  },
+  {
+   "in_force": "2012-07-01",
+   "register_id": "C2013C00607",
+   "compilation": "2",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00014',start=2012-07-01,retrospectivestart=2012-07-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00014/2012-07-01/text",
+   "sha256": "a83c20826b5a80f850c464288c3027797a9ec8402f226379f8f8f5f915968aea"
+  },
+  {
+   "in_force": "2014-09-30",
+   "register_id": "C2014C00671",
+   "compilation": "3",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00014',start=2014-09-30,retrospectivestart=2014-09-30,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00014/2014-09-30/text",
+   "sha256": "8a4203532401299c8306e3ad98f00d0cd9370a16eec9ab15ec161421fd4d9e33"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

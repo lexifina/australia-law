@@ -1,0 +1,43 @@
+{
+ "title_id": "C2018A00153",
+ "name": "Modern Slavery Act 2018",
+ "folder": "modern-slavery-act-2018",
+ "compilations": [
+  {
+   "in_force": "2018-12-10",
+   "register_id": "C2018A00153",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00153',start=2018-12-10,retrospectivestart=2018-12-10,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00153/2018-12-10/text",
+   "sha256": "5ee34c71d0556e28192180353359d4f24e56e249d1bd4f4586f33094a7953e6c"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00647",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00153',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00153/2024-10-14/text",
+   "sha256": "5b410a463aaa7fc7b19cbe1860d717c60d17db0f102d996147f7aa97f91ade47"
+  },
+  {
+   "in_force": "2024-11-07",
+   "register_id": "C2024C00747",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00153',start=2024-11-07,retrospectivestart=2024-11-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00153/2024-11-07/text",
+   "sha256": "7f62f77b8500e13740bb63160847a18bfec649b0ad9c59a9caff59c8feff59e7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

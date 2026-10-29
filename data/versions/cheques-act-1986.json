@@ -1,0 +1,117 @@
+{
+ "title_id": "C2004A03386",
+ "name": "Cheques Act 1986",
+ "folder": "cheques-act-1986",
+ "compilations": [
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00492",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03386',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03386/2016-03-10/text",
+   "sha256": "dbd49d7ea042ca922564d29cca05e420a91f80cf306fc9b61aedbd8c7443c7df"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01064",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03386',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03386/2016-10-21/text",
+   "sha256": "8d384186d5e1104b6bd5f06ae5020d6ec9b81b2c6d904de46b1db9f66295eee1"
+  },
+  {
+   "in_force": "2017-03-01",
+   "register_id": "C2017C00074",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03386',start=2017-03-01,retrospectivestart=2017-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03386/2017-03-01/text",
+   "sha256": "9de0f52e452c33e87a58d1bc7b49bdb9c200087c18b6d9a0a0d05d44fb51be6c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1986-12-11",
+   "acts": []
+  },
+  {
+   "in_force": "1987-06-05",
+   "acts": [
+    "Proceeds of Crime (Miscellaneous Amendments) Act 1987",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1994-12-16",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1998-07-22",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1998-12-01",
+   "acts": [
+    "Cheques and Payment Orders Amendment Act 1998",
+    "Cheques and Payment Orders Amendment Act 1998",
+    "Cheques and Payment Orders Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

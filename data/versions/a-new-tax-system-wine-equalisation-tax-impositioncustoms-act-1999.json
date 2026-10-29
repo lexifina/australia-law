@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00454",
+ "name": "A New Tax System (Wine Equalisation Tax Imposition—Customs) Act 1999",
+ "folder": "a-new-tax-system-wine-equalisation-tax-impositioncustoms-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-07-08",
+   "register_id": "C2004A00454",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00454',start=1999-07-08,retrospectivestart=1999-07-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00454/1999-07-08/text",
+   "sha256": "21d8efdae1cbb022965ac059524dc8dc0784ad8407b4b33e3e3c632cb1e44b33"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

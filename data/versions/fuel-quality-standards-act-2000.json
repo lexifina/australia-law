@@ -1,0 +1,91 @@
+{
+ "title_id": "C2004A00744",
+ "name": "Fuel Quality Standards Act 2000",
+ "folder": "fuel-quality-standards-act-2000",
+ "compilations": [
+  {
+   "in_force": "2021-06-30",
+   "register_id": "C2021C00266",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00744',start=2021-06-30,retrospectivestart=2021-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00744/2021-06-30/text",
+   "sha256": "6688b844fdecb91ceea11d442e079c13f3ab58e6ac4a18af3206087773abfacd"
+  },
+  {
+   "in_force": "2024-03-20",
+   "register_id": "C2024C00105",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00744',start=2024-03-20,retrospectivestart=2024-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00744/2024-03-20/text",
+   "sha256": "46661e049efab784ee8c5b02ca4215acd996aa9bc890e3754b169a91c5903d5e"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00627",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00744',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00744/2024-10-14/text",
+   "sha256": "404dedfc133dbb0a180a92ce3f75d7ff34f48c06fea20c274f46847bed987a2c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2000-12-21",
+   "acts": []
+  },
+  {
+   "in_force": "2001-09-18",
+   "acts": [
+    "Environmental Legislation Amendment Act 2001",
+    "Environmental Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-12-05",
+   "acts": [
+    "Fuel Quality Standards Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-04-21",
+   "acts": [
+    "Energy Grants (Cleaner Fuels) Scheme (Consequential Amendments) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2009-11-07",
+   "acts": [
+    "Fuel Quality Standards Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

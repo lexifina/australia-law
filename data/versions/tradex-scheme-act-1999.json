@@ -1,0 +1,96 @@
+{
+ "title_id": "C2004A00574",
+ "name": "Tradex Scheme Act 1999",
+ "folder": "tradex-scheme-act-1999",
+ "compilations": [
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00622",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00574',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00574/2016-03-10/text",
+   "sha256": "415049c0d8af5c093c465483ef0cf20d939946c8f30547939c0a84d152b4a20e"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01066",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00574',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00574/2016-10-21/text",
+   "sha256": "3aa5cc265a34d89383407b0a28817b0cd9b0741930e629aeac5fb0ec4e6e84d8"
+  },
+  {
+   "in_force": "2017-03-01",
+   "register_id": "C2017C00053",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00574',start=2017-03-01,retrospectivestart=2017-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00574/2017-03-01/text",
+   "sha256": "c4a0cb48021d5f3e5157af25cce44920efbef4bc3f3b6be131ac048abdd5e74d"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00499",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00574',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00574/2024-10-14/text",
+   "sha256": "cc57ab0dbaab0f354ceac42ef3bdf8093ddd5d6dce8fbbabe3a290b25053d7ab"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-12-23",
+   "acts": []
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-12-01",
+   "acts": [
+    "Bankruptcy Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2008-10-08",
+   "acts": [
+    "Tradex Scheme Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-05-13",
+   "acts": [
+    "Tradex Scheme Amendment Act 2010",
+    "Tradex Scheme Amendment Act 2010"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2021A00029",
+ "name": "Industrial Chemicals Environmental Management (Register) Charge (Excise) Act 2021",
+ "folder": "industrial-chemicals-environmental-management-register-charge-excise",
+ "compilations": [
+  {
+   "in_force": "2021-03-26",
+   "register_id": "C2021A00029",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00029',start=2021-03-26,retrospectivestart=2021-03-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00029/2021-03-26/text",
+   "sha256": "191d63568bd7806c55ba8287baee2f1ed863616425d945e712b08e01c77597db"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

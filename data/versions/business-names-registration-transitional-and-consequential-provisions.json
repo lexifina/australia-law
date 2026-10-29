@@ -1,0 +1,72 @@
+{
+ "title_id": "C2011A00127",
+ "name": "Business Names Registration (Transitional and Consequential Provisions) Act 2011",
+ "folder": "business-names-registration-transitional-and-consequential-provisions",
+ "compilations": [
+  {
+   "in_force": "2022-08-10",
+   "register_id": "C2022C00244",
+   "compilation": "5",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00127',start=2022-08-10,retrospectivestart=2022-08-10,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00127/2022-08-10/text",
+   "sha256": "ef4bdad73bc39f635c21b6208412f8c336ddf2ea5723ffea6c3bfcdb2562027a"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00518",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00127',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00127/2024-10-14/text",
+   "sha256": "ba0177e9d5074ac3f1488ab69f3567e6d0ae16a6c45e745b0c059273478dd8ff"
+  },
+  {
+   "in_force": "2026-06-30",
+   "register_id": "C2026C00271",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00127',start=2026-06-30,retrospectivestart=2026-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00127/2026-06-30/text",
+   "sha256": "4d7ca4478df5903f379f0c131ad9a4a94264d75b6959c37bb179701a76795e0a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-11-03",
+   "acts": []
+  },
+  {
+   "in_force": "2012-04-20",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-04-04",
+   "acts": [
+    "Treasury Laws Amendment (Registries Modernisation and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2022-06-22",
+   "acts": [
+    null
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

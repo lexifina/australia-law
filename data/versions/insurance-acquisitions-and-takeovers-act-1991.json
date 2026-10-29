@@ -1,0 +1,163 @@
+{
+ "title_id": "C2004A04297",
+ "name": "Insurance Acquisitions and Takeovers Act 1991",
+ "folder": "insurance-acquisitions-and-takeovers-act-1991",
+ "compilations": [
+  {
+   "in_force": "2024-03-01",
+   "register_id": "C2024C00067",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04297',start=2024-03-01,retrospectivestart=2024-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04297/2024-03-01/text",
+   "sha256": "ebe1c58765ef5390a3f739bbb014477627ea7548d251df5440a04f2780916c3e"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00597",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04297',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04297/2024-10-14/text",
+   "sha256": "d41753e3ed43fe405454da766bb239dd0642270f13acde2e5eb7e322cb952d73"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00115",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04297',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04297/2025-02-21/text",
+   "sha256": "4000cba7f8bbf1c668b2f61bba5626c4080a2fddc87c0d2d6be54eda0181c84c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-01-06",
+   "acts": []
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Life Insurance (Consequential Amendments and Repeals) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-06-30",
+   "acts": [
+    "Financial Laws Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-12-15",
+   "acts": [
+    "Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2002-06-27",
+   "acts": [
+    "Financial Sector Legislation Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "General Insurance Reform Act 2001",
+    "Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Australian Prudential Regulation Authority Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-05-16",
+   "acts": [
+    "Administrative Appeals Tribunal Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Treasury Laws Amendment (Mutual Reforms) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

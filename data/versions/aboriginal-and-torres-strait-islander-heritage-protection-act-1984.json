@@ -1,0 +1,145 @@
+{
+ "title_id": "C2004A02943",
+ "name": "Aboriginal and Torres Strait Islander Heritage Protection Act 1984",
+ "folder": "aboriginal-and-torres-strait-islander-heritage-protection-act-1984",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00194",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02943',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02943/2016-03-05/text",
+   "sha256": "5e4dc75ed0564e5fc2d13ee55ee8d1d4d41789c24f8444d8b941cb1804a3b1eb"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00456",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02943',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02943/2016-03-10/text",
+   "sha256": "b3be2fc51ab7b8d041ad70e62a27f9cc6a48511154fe8ee5e5be8d86b50651df"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00937",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02943',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02943/2016-10-21/text",
+   "sha256": "65c7917451ee0da45bf4cd0919e2de04342664d32d052636a52d348dbe46287d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1984-06-25",
+   "acts": []
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Heritage (Interim Protection) Amendment Act 1986",
+    "Aboriginal and Torres Strait Islander Heritage (Interim Protection) Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-07-10",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Heritage Protection Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-03-05",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Act 2005"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-03-24",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Commission Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-12-07",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Heritage Protection Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-08",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Heritage Protection Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-05-28",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Heritage Protection Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-03",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-12-11",
+   "acts": [
+    "Territories Law Reform Act 2010"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

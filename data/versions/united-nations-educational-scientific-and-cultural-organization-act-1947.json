@@ -1,0 +1,21 @@
+{
+ "title_id": "C1947A00024",
+ "name": "United Nations Educational, Scientific and Cultural Organization Act 1947",
+ "folder": "united-nations-educational-scientific-and-cultural-organization-act-1947",
+ "compilations": [
+  {
+   "in_force": "1947-06-10",
+   "register_id": "C1947A00024",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1947A00024',start=1947-06-10,retrospectivestart=1947-06-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1947A00024/1947-06-10/text",
+   "sha256": "3819943d048dac0ddb08e94d0d6e29063101453ff43914675c06a6a8ce8fcbfe"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

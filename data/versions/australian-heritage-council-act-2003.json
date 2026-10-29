@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A01169",
+ "name": "Australian Heritage Council Act 2003",
+ "folder": "australian-heritage-council-act-2003",
+ "compilations": [
+  {
+   "in_force": "2007-02-19",
+   "register_id": "C2007C00073",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01169',start=2007-02-19,retrospectivestart=2007-02-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01169/2007-02-19/text",
+   "sha256": "838e90a879d863bc466f5c3a719e9dfc9328a562d319ef34859627c2860a23dc"
+  },
+  {
+   "in_force": "2012-02-19",
+   "register_id": "C2012C00249",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01169',start=2012-02-19,retrospectivestart=2012-02-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01169/2012-02-19/text",
+   "sha256": "ef111d41ea33190109508fec1787c25cee50ac06ba13e0bc79fdb4c29cc2f838"
+  },
+  {
+   "in_force": "2019-07-01",
+   "register_id": "C2019C00196",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01169',start=2019-07-01,retrospectivestart=2019-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01169/2019-07-01/text",
+   "sha256": "b0e67a916062489201e676cc836126302d3e42671f0127db1ab1a4dcaac1be46"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-09-23",
+   "acts": []
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act (No. 1) 2006"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2017A00038",
+ "name": "Parliamentary Business Resources (Consequential and Transitional Provisions) Act 2017",
+ "folder": "parliamentary-business-resources-consequential-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2017-05-19",
+   "register_id": "C2017A00038",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00038',start=2017-05-19,retrospectivestart=2017-05-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00038/2017-05-19/text",
+   "sha256": "a5a5c693b380ce23f447544c78a7508bcacbefdd27bb1924f63f7d77e218f284"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2021A00013",
+ "name": "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021",
+ "folder": "federal-circuit-and-family-court-of-australia-consequential-amendments",
+ "compilations": [
+  {
+   "in_force": "2021-03-01",
+   "register_id": "C2021A00013",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00013',start=2021-03-01,retrospectivestart=2021-03-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00013/2021-03-01/text",
+   "sha256": "533cae139c93821b2f951f888cfa60f899d992e88d1256bf72f4bdd082ca5778"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

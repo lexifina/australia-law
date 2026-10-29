@@ -1,0 +1,32 @@
+{
+ "title_id": "C2012A00009",
+ "name": "Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012",
+ "folder": "education-services-for-overseas-students-legislation-amendment-tuition",
+ "compilations": [
+  {
+   "in_force": "2012-03-20",
+   "register_id": "C2012A00009",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00009',start=2012-03-20,retrospectivestart=2012-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00009/2012-03-20/text",
+   "sha256": "83d5cd0666433beef7714a3ca87a19155fdde29a2baf856f7fb7ebfa3c24c064"
+  },
+  {
+   "in_force": "2012-07-01",
+   "register_id": "C2014C00181",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00009',start=2012-07-01,retrospectivestart=2012-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00009/2012-07-01/text",
+   "sha256": "aaf659163b36cfc9b2aba8648e5851c7b3211651bc31689914ce47ea1b999c71"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

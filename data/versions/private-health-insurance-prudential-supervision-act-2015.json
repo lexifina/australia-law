@@ -1,0 +1,85 @@
+{
+ "title_id": "C2015A00085",
+ "name": "Private Health Insurance (Prudential Supervision) Act 2015",
+ "folder": "private-health-insurance-prudential-supervision-act-2015",
+ "compilations": [
+  {
+   "in_force": "2024-01-01",
+   "register_id": "C2024C00040",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00085',start=2024-01-01,retrospectivestart=2024-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00085/2024-01-01/text",
+   "sha256": "c828a441052d9a83b1c1269f1411dda56e618ab7862ee14c869965c4be2ab84b"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00643",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00085',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00085/2024-10-14/text",
+   "sha256": "fc380c78b277e7188310b8c656f6f1a3e71a6db891a03c5a78842c7949328308"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00173",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00085',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00085/2025-02-21/text",
+   "sha256": "c14f7c715a8370c07db86365e8eb9d32b32d2bc5d668e6abc6f2aff85febca5d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2015-06-26",
+   "acts": []
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Private Health Insurance (Prudential Supervision) (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-06-01",
+   "acts": [
+    "Financial System Legislation Amendment (Resilience and Collateral Protection) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Private Health Insurance (Prudential Supervision) (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Insolvency Law Reform Act 2016",
+    "Insolvency Law Reform Act 2016"
+   ]
+  },
+  {
+   "in_force": "2021-04-01",
+   "acts": [
+    "Private Health Insurance Legislation Amendment (Age of Dependants) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-09-15",
+   "acts": [
+    "Financial Accountability Regime (Consequential Amendments) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

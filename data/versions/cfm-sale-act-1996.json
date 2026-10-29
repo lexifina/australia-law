@@ -1,0 +1,60 @@
+{
+ "title_id": "C2004A05102",
+ "name": "CFM Sale Act 1996",
+ "folder": "cfm-sale-act-1996",
+ "compilations": [
+  {
+   "in_force": "2010-12-18",
+   "register_id": "C2010C00834",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05102',start=2010-12-18,retrospectivestart=2010-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05102/2010-12-18/text",
+   "sha256": "426cc6384f143cb94a42b6404b98499910f31275515acd66ad1ccaaf2ab5b8e7"
+  },
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00787",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05102',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05102/2012-09-22/text",
+   "sha256": "ab5a81c85645e9ef466cb006bfaa1f3cc2c8b46b572b3208270e72ee78a84cff"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00440",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05102',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05102/2026-09-19/text",
+   "sha256": "2d92a147317825b0022abc692df4d93ec617ac5dbdb8e947752b5af0a3844c82"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-03-01",
+   "acts": []
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

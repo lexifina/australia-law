@@ -1,0 +1,66 @@
+{
+ "title_id": "C2015A00119",
+ "name": "Australian Defence Force Superannuation Act 2015",
+ "folder": "australian-defence-force-superannuation-act-2015",
+ "compilations": [
+  {
+   "in_force": "2020-12-18",
+   "register_id": "C2021C00013",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00119',start=2020-12-18,retrospectivestart=2020-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00119/2020-12-18/text",
+   "sha256": "2d4fcccfbd62314d50ec8771a2c38e4476aecd6b591b6f0827f895229f01cca0"
+  },
+  {
+   "in_force": "2022-03-05",
+   "register_id": "C2022C00100",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00119',start=2022-03-05,retrospectivestart=2022-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00119/2022-03-05/text",
+   "sha256": "cce925d7bbd3f01dc48c14d85af1198701bf23922c11a114b3c1da268f1b151c"
+  },
+  {
+   "in_force": "2022-09-28",
+   "register_id": "C2022C00274",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00119',start=2022-09-28,retrospectivestart=2022-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00119/2022-09-28/text",
+   "sha256": "b049d06a5614082a48bfc870cfc52b94cb362c08dbf6bb4fd38d39567356013d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2015-09-10",
+   "acts": []
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Defence Legislation Amendment (Superannuation and ADF Cover) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2020-05-26",
+   "acts": [
+    "Defence Legislation Amendment (Miscellaneous Measures) Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

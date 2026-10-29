@@ -1,0 +1,109 @@
+{
+ "title_id": "C2004A05252",
+ "name": "Health Insurance Commission (Reform and Separation of Functions) Act 1997",
+ "folder": "health-insurance-commission-reform-and-separation-of-functions-act-1997",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00797",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05252',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05252/2016-07-01/text",
+   "sha256": "10b8499a86fefaa4a561dcb2474a21961a9923b151031bea4656167b79d5636b"
+  },
+  {
+   "in_force": "2017-08-23",
+   "register_id": "C2017C00277",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05252',start=2017-08-23,retrospectivestart=2017-08-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05252/2017-08-23/text",
+   "sha256": "7edf002ae0bb6238cca50b20f3645a069c4e47a079f676fa5010ba95ea56e66f"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00374",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05252',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05252/2023-10-18/text",
+   "sha256": "6b4d7cc32bf97522861059efa1f866dd252b34f928d805f39b43ef7474857d89"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-11-11",
+   "acts": []
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-12-12",
+   "acts": [
+    "Medibank Private Sale Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-03-28",
+   "acts": [
+    "Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Medibank Private Sale Act 2006"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

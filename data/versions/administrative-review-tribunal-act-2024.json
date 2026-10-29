@@ -1,0 +1,61 @@
+{
+ "title_id": "C2024A00040",
+ "name": "Administrative Review Tribunal Act 2024",
+ "folder": "administrative-review-tribunal-act-2024",
+ "compilations": [
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00675",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00040',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00040/2025-12-05/text",
+   "sha256": "5837bdc1a5c3fe9f0de50c3640e9c11e5e32173d530ccd69be6b72193df1003d"
+  },
+  {
+   "in_force": "2026-01-22",
+   "register_id": "C2026C00073",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00040',start=2026-01-22,retrospectivestart=2026-01-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00040/2026-01-22/text",
+   "sha256": "107d3971e42170156bcdb1f2f9d5b6038e3dfb2ab72492e1aaf751f61553ec94"
+  },
+  {
+   "in_force": "2026-05-18",
+   "register_id": "C2026C00202",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00040',start=2026-05-18,retrospectivestart=2026-05-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00040/2026-05-18/text",
+   "sha256": "65f229d0bb639399a185a34a644fd0097bd22154029edbf8a5476d8c15103ee2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2024-06-03",
+   "acts": []
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Financial Framework (Supplementary Powers) Amendment Act 2024",
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-21",
+   "acts": [
+    "Administrative Review Tribunal (Miscellaneous Measures) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

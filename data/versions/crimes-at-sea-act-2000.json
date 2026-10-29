@@ -1,0 +1,83 @@
+{
+ "title_id": "C2004A00605",
+ "name": "Crimes at Sea Act 2000",
+ "folder": "crimes-at-sea-act-2000",
+ "compilations": [
+  {
+   "in_force": "2008-11-22",
+   "register_id": "C2008C00601",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00605',start=2008-11-22,retrospectivestart=2008-11-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00605/2008-11-22/text",
+   "sha256": "cb2ed5cadd585d9903ef9dbcb65ec0f54d883ee0bf2330f38da7350f9cd6ceb4"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00054",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00605',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00605/2011-12-27/text",
+   "sha256": "3a76ec40e412e0d9d5fd5dcda6d077e27bbb3117443827d1555b042e395f8a62"
+  },
+  {
+   "in_force": "2014-06-24",
+   "register_id": "C2014C00290",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00605',start=2014-06-24,retrospectivestart=2014-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00605/2014-06-24/text",
+   "sha256": "ad05ed96da73a069d82bac782df312c83bce517f7e0df16d2af8a2a205886886"
+  },
+  {
+   "in_force": "2019-08-30",
+   "register_id": "C2019C00248",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00605',start=2019-08-30,retrospectivestart=2019-08-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00605/2019-08-30/text",
+   "sha256": "ac4609942632643a61da939b8c5e8bca3f1b55e3187ff02c7fb72f3fdc4f786c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2000-03-31",
+   "acts": []
+  },
+  {
+   "in_force": "2001-03-31",
+   "acts": [
+    "Timor Gap Treaty (Transitional Arrangements) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2002-05-20",
+   "acts": [
+    "Petroleum (Timor Sea Treaty) (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-06-03",
+   "acts": [
+    "Crimes Legislation Enhancement Act 2003"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

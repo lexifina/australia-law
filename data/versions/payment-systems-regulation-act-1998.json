@@ -1,0 +1,72 @@
+{
+ "title_id": "C2004A00318",
+ "name": "Payment Systems (Regulation) Act 1998",
+ "folder": "payment-systems-regulation-act-1998",
+ "compilations": [
+  {
+   "in_force": "2011-04-13",
+   "register_id": "C2011C00182",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00318',start=2011-04-13,retrospectivestart=2011-04-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00318/2011-04-13/text",
+   "sha256": "e5936d20af11165e7a596f3ea22019523d0c4ae6aa6410020b1f41f6f9e9c863"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00591",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00318',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00318/2016-03-10/text",
+   "sha256": "bb7bdb82f3c3e37b99cc14dc4497f61c959ad21c5ce55ed3d611a55d107b549a"
+  },
+  {
+   "in_force": "2020-10-01",
+   "register_id": "C2020C00336",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00318',start=2020-10-01,retrospectivestart=2020-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00318/2020-10-01/text",
+   "sha256": "e1268f2c1ef1f70fe474b45d62884d211dfaa3dad893255afba395bca86f59ce"
+  },
+  {
+   "in_force": "2025-12-19",
+   "register_id": "C2025C00677",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00318',start=2025-12-19,retrospectivestart=2025-12-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00318/2025-12-19/text",
+   "sha256": "3769134d88731b3c896b44d707c6a1c5a9b7e60d6bbb49ee028594aa5e52a144"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Payment Systems (Regulation) Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

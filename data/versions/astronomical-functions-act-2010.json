@@ -1,0 +1,43 @@
+{
+ "title_id": "C2010A00011",
+ "name": "Astronomical Functions Act 2010",
+ "folder": "astronomical-functions-act-2010",
+ "compilations": [
+  {
+   "in_force": "2010-03-11",
+   "register_id": "C2010A00011",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00011',start=2010-03-11,retrospectivestart=2010-03-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00011/2010-03-11/text",
+   "sha256": "5c4055de8cc0acb0204074ac7bcdaa300e4077f3a4c2bddbe8550f9a94f97a64"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00020",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00011',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00011/2011-12-27/text",
+   "sha256": "5563dde42e320b32b063b9119cb7b8b6983d957a36f58193cb2e775ca62dd83f"
+  },
+  {
+   "in_force": "2018-07-01",
+   "register_id": "C2018C00307",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00011',start=2018-07-01,retrospectivestart=2018-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00011/2018-07-01/text",
+   "sha256": "063b115794483da326c21b023b0e6b97b55c85a9dc7e4ff8ed401103bfce06a4"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

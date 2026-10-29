@@ -1,0 +1,134 @@
+{
+ "title_id": "C2004A03558",
+ "name": "Petroleum Excise (Prices) Act 1987",
+ "folder": "petroleum-excise-prices-act-1987",
+ "compilations": [
+  {
+   "in_force": "2020-10-01",
+   "register_id": "C2020C00325",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03558',start=2020-10-01,retrospectivestart=2020-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03558/2020-10-01/text",
+   "sha256": "9293d7dfb528c0516c2eeb79a4f5e5f591ef1358e5e7940d861adc4de9bfaca9"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00589",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03558',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03558/2024-10-14/text",
+   "sha256": "c437a6b0fd1b4ed07f60382d47025c8610d38a5215f631f5342749b8cf5e85c6"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00166",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03558',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03558/2025-02-21/text",
+   "sha256": "474212a6c1323d4763a4af53d22b1afe2358ce2e116b9214ca0dc47915b74a75"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-02-26",
+   "acts": []
+  },
+  {
+   "in_force": "1987-12-26",
+   "acts": [
+    "Petroleum Excise (Prices) Amendment Act 1990",
+    "Petroleum Excise (Prices) Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1988-12-12",
+   "acts": [
+    "Petroleum Excise (Prices) Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Petroleum Excise (Prices) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Excise Laws Amendment (Fuel Tax Reform and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-10-18",
+   "acts": [
+    "Excise Legislation Amendment (Condensate) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008",
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-11-29",
+   "acts": [
+    "Excise Legislation Amendment (Condensate) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

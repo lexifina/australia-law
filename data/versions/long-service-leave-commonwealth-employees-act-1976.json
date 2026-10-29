@@ -1,0 +1,255 @@
+{
+ "title_id": "C2004A01621",
+ "name": "Long Service Leave (Commonwealth Employees) Act 1976",
+ "folder": "long-service-leave-commonwealth-employees-act-1976",
+ "compilations": [
+  {
+   "in_force": "2017-09-20",
+   "register_id": "C2017C00310",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01621',start=2017-09-20,retrospectivestart=2017-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01621/2017-09-20/text",
+   "sha256": "db0414adee1382c89b012053939faeb302c1a56f443ec8bcf03042e25acd31e9"
+  },
+  {
+   "in_force": "2018-03-30",
+   "register_id": "C2018C00097",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01621',start=2018-03-30,retrospectivestart=2018-03-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01621/2018-03-30/text",
+   "sha256": "b59782567d06dfa386d27fb09add4570a751e69fd25a64059f778b7182138a0c"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00339",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01621',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01621/2023-10-18/text",
+   "sha256": "e78537b4a6441ac58b24a78129bf33f38c1b68ab1cb5dd8476b1a3ee0f498d8e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1976-12-20",
+   "acts": []
+  },
+  {
+   "in_force": "1978-03-01",
+   "acts": [
+    "Australian National Railways Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1981-02-06",
+   "acts": [
+    "Commonwealth Employees (Redeployment and Retirement) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1981-03-13",
+   "acts": [
+    "Long Service Leave (Commonwealth Employees) Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-09-30",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1984-02-17",
+   "acts": [
+    "Australian National Railways Commission (Transitional Provisions and Consequential Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-10-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1986-04-01",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1988-03-09",
+   "acts": [
+    "Australian Airlines (Conversion to Public Company) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-07",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Government Business Enterprises (Miscellaneous Reforms) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988",
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-12-18",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1992-01-15",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1993-01-21",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1992",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-11-25",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Parliamentary Service (Consequential Amendments) Act 1997",
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-11-01",
+   "acts": [
+    "Australian National Railways Commission Sale Act 1997"
+   ]
+  },
+  {
+   "in_force": "2001-04-19",
+   "acts": [
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-04-01",
+   "acts": [
+    "Parliamentary Service Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-11-05",
+   "acts": [
+    "Long Service Leave (Commonwealth Employees) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-03-28",
+   "acts": [
+    "Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-25",
+   "acts": [
+    "Law Officers Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-11-23",
+   "acts": [
+    "Long Service Leave Legislation Amendment (Telstra) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2012-02-15",
+   "acts": [
+    "Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

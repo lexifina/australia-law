@@ -1,0 +1,218 @@
+{
+ "title_id": "C2004A03506",
+ "name": "Superannuation (Self Managed Superannuation Funds) Taxation Act 1987",
+ "folder": "superannuation-self-managed-superannuation-funds-taxation-act-1987",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00734",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03506',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03506/2016-07-01/text",
+   "sha256": "c155ccfdca71a63dada7d728faf8ed05ddfb2552c3028bc02fcb5865b7f6c7b5"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00584",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03506',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03506/2024-10-14/text",
+   "sha256": "7c05f82271a35cd6c73516363ee14d6ba662f981ebc9287740e09e57e0b71807"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00124",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03506',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03506/2025-02-21/text",
+   "sha256": "850b64aca5457f8b0ff98511c5c0af0ae277c0c5a2afd5033015e0df0e8bef4c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-11-05",
+   "acts": []
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1987-12-21",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1987"
+   ]
+  },
+  {
+   "in_force": "1989-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1989",
+    "Occupational Superannuation (Reasonable Benefit Limits) Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Occupational Superannuation (Reasonable Benefit Limits) Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-25",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-24",
+   "acts": [
+    "Occupational Superannuation Laws Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Superannuation Guarantee (Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-22",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-05-27",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-07-30",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-12-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1993"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act 1992",
+    "Occupational Superannuation Standards Amendment Act 1993",
+    "Occupational Superannuation Standards Amendment Act 1993",
+    "Occupational Superannuation Standards Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Superannuation Laws Amendment (Small Accounts and Other Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Superannuation Industry (Supervision) Legislation Amendment Act 1995",
+    "Taxation Laws Amendment Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-02",
+   "acts": [
+    "Retirement Savings Accounts (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-08",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 3) 1999",
+    "Superannuation Legislation Amendment Act (No. 3) 1999"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Tax Laws Amendment (Simplified Superannuation) Act 2007",
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Superannuation Legislation Amendment (Reform of Self Managed Superannuation Funds Supervisory Levy Arrangements) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

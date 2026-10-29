@@ -1,0 +1,677 @@
+{
+ "title_id": "C2004A00446",
+ "name": "A New Tax System (Goods and Services Tax) Act 1999",
+ "folder": "a-new-tax-system-goods-and-services-tax-act-1999",
+ "compilations": [
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00848",
+   "compilation": "93",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00446',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00446/2024-12-11/text",
+   "sha256": "830c83d46f8daed039fa02915b974abdfc4af06b5b4b4ffd2f20dd02c4a9f592"
+  },
+  {
+   "in_force": "2025-02-15",
+   "register_id": "C2025C00126",
+   "compilation": "94",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00446',start=2025-02-15,retrospectivestart=2025-02-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00446/2025-02-15/text",
+   "sha256": "4694c8bdbfdc36929ee9eea4399f1b999179010e3c74d426c4b5935495fa65a9"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00620",
+   "compilation": "95",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00446',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00446/2025-11-01/text",
+   "sha256": "62cdad9025753c0960bd6b2deba72e22a16ef40e17add924e801b43a5913c705"
+  },
+  {
+   "in_force": "2026-01-01",
+   "register_id": "C2026C00081",
+   "compilation": "96",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00446',start=2026-01-01,retrospectivestart=2026-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00446/2026-01-01/text",
+   "sha256": "a7e144d6139becf287ec49b86dbc9f7d07eb2de69a72b1e7ab3ad07deca52cb5"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-07-08",
+   "acts": []
+  },
+  {
+   "in_force": "1999-11-11",
+   "acts": [
+    "Appropriation (Supplementary Measures) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "A New Tax System (Pay As You Go) Act 1999",
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-05-30",
+   "acts": [
+    "A New Tax System (Fringe Benefits) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999",
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999",
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999",
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999",
+    "Indirect Tax Legislation Amendment Act 2000",
+    "Taxation Laws Amendment Act (No. 8) 2000",
+    "Taxation Laws Amendment Act (No. 3) 2003",
+    "Tax Laws Amendment (2009 Measures No. 5) Act 2009",
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 8) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 2001",
+    "New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 2001",
+    "Taxation Laws Amendment Act (No. 6) 2001",
+    "Taxation Laws Amendment Act (No. 6) 2001"
+   ]
+  },
+  {
+   "in_force": "2002-11-10",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 2002"
+   ]
+  },
+  {
+   "in_force": "2003-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 6) 2003"
+   ]
+  },
+  {
+   "in_force": "2004-03-23",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-25",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 2) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-13",
+   "acts": [
+    "Tax Laws Amendment (Small Business Measures) Act 2004",
+    "Tax Laws Amendment (Small Business Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-14",
+   "acts": [
+    "Tax Laws Amendment (Retirement Villages) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-03-21",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 6) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-04-01",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 7) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-06-29",
+   "acts": [
+    "Tax Laws Amendment (2005 Measures No. 1) Act 2005",
+    "Tax Laws Amendment (2005 Measures No. 2) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 1) Act 2004",
+    "Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005",
+    "Tax Laws Amendment (2006 Measures No. 3) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2005-07-19",
+   "acts": [
+    "Customs Legislation Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2006-04-06",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 1) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-30",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 3) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006",
+    "Tax Laws Amendment (2007 Measures No. 4) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-10-23",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 5) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-02-19",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 6) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-03-30",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-12",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 1) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-21",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 2) Act 2007",
+    "Tax Laws Amendment (Small Business) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-28",
+   "acts": [
+    "Tax Laws Amendment (Simplified GST Accounting) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 4) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-10-03",
+   "acts": [
+    "Tax Laws Amendment (2008 Measures No. 4) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-09",
+   "acts": [
+    "Tax Laws Amendment (2008 Measures No. 5) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-26",
+   "acts": [
+    "Tax Laws Amendment (2008 Measures No. 6) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-04",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 5) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-14",
+   "acts": [
+    "Tax Laws Amendment (2009 Budget Measures No. 2) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Tax Agent Services (Transitional Provisions and Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-24",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 6) Act 2010",
+    "Tax Laws Amendment (2009 GST Administration Measures) Act 2010",
+    "Tax Laws Amendment (2010 GST Administration Measures No. 1) Act 2010",
+    "Tax Laws Amendment (2010 GST Administration Measures No. 1) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-03",
+   "acts": [
+    "Tax Laws Amendment (2010 Measures No. 1) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-28",
+   "acts": [
+    "Tax Laws Amendment (2010 GST Administration Measures No. 2) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-29",
+   "acts": [
+    "Tax Laws Amendment (2010 GST Administration Measures No. 3) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Tax Laws Amendment (2009 GST Administration Measures) Act 2010",
+    "Tax Laws Amendment (2009 GST Administration Measures) Act 2010",
+    "Tax Laws Amendment (2010 GST Administration Measures No. 2) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-07",
+   "acts": [
+    "Tax Laws Amendment (2010 Measures No. 4) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-06-27",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 2) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-06-30",
+   "acts": [
+    "Tax Laws Amendment (2010 Measures No. 5) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 3) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-21",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 9) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-03-22",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 9) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-04-15",
+   "acts": [
+    "Indirect Tax Laws Amendment (Assessment) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-05-10",
+   "acts": [
+    "Clean Energy (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-27",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2012 Measures No. 1) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 9) Act 2012",
+    "Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012",
+    "Indirect Tax Laws Amendment (Assessment) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-28",
+   "acts": [
+    "Tax Laws Amendment (2012 Measures No. 4) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-01",
+   "acts": [
+    "Customs Tariff Amendment (Schedule 4) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Tax Laws Amendment (2012 Measures No. 6) Act 2013",
+    "Tax and Superannuation Laws Amendment (2013 Measures No. 2) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Tax Laws Amendment (2013 Measures No. 2) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-08-01",
+   "acts": [
+    "Aged Care (Living Longer Living Better) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-01-01",
+   "acts": [
+    "Charities (Consequential Amendments and Transitional Provisions) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-05-30",
+   "acts": [
+    "Tax Laws Amendment (2014 Measures No. 1) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Aged Care (Living Longer Living Better) Act 2013",
+    "Clean Energy Legislation (Carbon Tax Repeal) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-30",
+   "acts": [
+    "Minerals Resource Rent Tax Repeal and Other Measures Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-16",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 4) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-02-25",
+   "acts": [
+    "Treasury Legislation Amendment (Repeal Day) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-03-20",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 7) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-25",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Treasury Legislation Amendment (Repeal Day) Act 2015",
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Indirect Tax Laws Amendment (Assessment) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2017-04-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2016 Measures No. 2) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-04-05",
+   "acts": [
+    "Family Assistance Legislation Amendment (Jobs for Families Child Care Package) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-06-20",
+   "acts": [
+    "Therapeutic Goods Amendment (2016 Measures No. 1) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-06-27",
+   "acts": [
+    "Treasury Laws Amendment (GST Integrity) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Treasury Laws Amendment (GST Low Value Goods) Act 2017",
+    "Treasury Laws Amendment (2017 Measures No. 6) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-10-30",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2018-04-01",
+   "acts": [
+    "Treasury Laws Amendment (2018 Measures No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-02",
+   "acts": [
+    "Family Assistance Legislation Amendment (Jobs for Families Child Care Package) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-04-01",
+   "acts": [
+    "Treasury Laws Amendment (2018 Measures No. 4) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Treasury Laws Amendment (Timor Sea Maritime Boundaries Treaty) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-10-01",
+   "acts": [
+    "Treasury Laws Amendment (Making Sure Multinationals Pay Their Fair Share of Tax in Australia and Other Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Aged Care Legislation Amendment (New Commissioner Functions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-04-01",
+   "acts": [
+    "Treasury Laws Amendment (Combating Illegal Phoenixing) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-06",
+   "acts": [
+    "Statute Update (Regulations References) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Treasury Laws Amendment (A Tax Plan for the COVID-19 Economic Recovery) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Aged Care Legislation Amendment (Improved Home Care Payment Administration No. 2) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-01",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 5) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-23",
+   "acts": [
+    "Online Safety (Transitional Provisions and Consequential Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-06-22",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Treasury Laws Amendment (2022 Measures No. 4) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-01",
+   "acts": [
+    "Treasury Laws Amendment (Modernising Business Communications and Other Measures) Act 2023",
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-01",
+   "acts": [
+    "Treasury Laws Amendment (Delivering Better Financial Outcomes and Other Measures) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

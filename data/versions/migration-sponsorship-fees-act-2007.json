@@ -1,0 +1,21 @@
+{
+ "title_id": "C2007A00110",
+ "name": "Migration (Sponsorship Fees) Act 2007",
+ "folder": "migration-sponsorship-fees-act-2007",
+ "compilations": [
+  {
+   "in_force": "2007-06-28",
+   "register_id": "C2007A00110",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00110',start=2007-06-28,retrospectivestart=2007-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00110/2007-06-28/text",
+   "sha256": "9eeb3e651e5f12427db83d5d234e78ef222d6f31e9ff38c227456762d5e36da5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

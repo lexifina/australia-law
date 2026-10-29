@@ -1,0 +1,66 @@
+{
+ "title_id": "C2004A01047",
+ "name": "Parliamentary Retirement Travel Act 2002",
+ "folder": "parliamentary-retirement-travel-act-2002",
+ "compilations": [
+  {
+   "in_force": "2014-05-14",
+   "register_id": "C2017C00083",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01047',start=2014-05-14,retrospectivestart=2014-05-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01047/2014-05-14/text",
+   "sha256": "180cefebae6af80d9f12f610315e05be78ec864d6f971948f0f4da4e27cde77a"
+  },
+  {
+   "in_force": "2017-02-23",
+   "register_id": "C2017C00084",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01047',start=2017-02-23,retrospectivestart=2017-02-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01047/2017-02-23/text",
+   "sha256": "6ab3f5515ddcdb0398f469504ac2acbc9446658b6a915e67510ea0f47e889dc4"
+  },
+  {
+   "in_force": "2018-01-01",
+   "register_id": "C2018C00008",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01047',start=2018-01-01,retrospectivestart=2018-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01047/2018-01-01/text",
+   "sha256": "587d4940938317b61a2661eabdf8184b382252ecf1335d83ef67a5ebafea4747"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2002-12-02",
+   "acts": []
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2012-03-06",
+   "acts": [
+    "Members of Parliament (Life Gold Pass) and Other Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Members of Parliament (Life Gold Pass) and Other Legislation Amendment Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

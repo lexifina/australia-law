@@ -1,0 +1,32 @@
+{
+ "title_id": "C2014A00117",
+ "name": "Albury-Wodonga Development Corporation (Abolition) Act 2014",
+ "folder": "albury-wodonga-development-corporation-abolition-act-2014",
+ "compilations": [
+  {
+   "in_force": "2014-11-11",
+   "register_id": "C2014A00117",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00117',start=2014-11-11,retrospectivestart=2014-11-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00117/2014-11-11/text",
+   "sha256": "a1ed9ba5409cae2cc8b6ba5b02d134493920b24f73806a8c949c4e24dbd6d9e1"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00156",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00117',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00117/2016-03-05/text",
+   "sha256": "1daf432b5937ba20d2735590839b81d81229482c5a47b502f83a17f06c1bc932"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

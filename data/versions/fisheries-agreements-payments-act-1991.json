@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04226",
+ "name": "Fisheries Agreements (Payments) Act 1991",
+ "folder": "fisheries-agreements-payments-act-1991",
+ "compilations": [
+  {
+   "in_force": "1991-10-21",
+   "register_id": "C2004A04226",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04226',start=1991-10-21,retrospectivestart=1991-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04226/1991-10-21/text",
+   "sha256": "076288ecb98783b7d9392aefeecd139fee50ef8a835b51c4522993bd5f24ea65"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

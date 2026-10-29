@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A03248",
+ "name": "Builders Labourers' Federation (Cancellation of Registration—Consequential Provisions) Act 1986",
+ "folder": "builders-labourers-federation-cancellation-of-registrationconsequential",
+ "compilations": [
+  {
+   "in_force": "2003-05-12",
+   "register_id": "C2004C00709",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03248',start=2003-05-12,retrospectivestart=2003-05-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03248/2003-05-12/text",
+   "sha256": "c3e6bd1b26e8d8cf6f392e37877145c8e529dfa4af98bcbe8ba862a94c1bdca9"
+  },
+  {
+   "in_force": "2006-03-27",
+   "register_id": "C2006C00075",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03248',start=2006-03-27,retrospectivestart=2006-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03248/2006-03-27/text",
+   "sha256": "7c710096dbfe534ad28671d6d593389efaa5eb706bdc1d4e247cbbbe615cc333"
+  },
+  {
+   "in_force": "2009-07-01",
+   "register_id": "C2009C00283",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03248',start=2009-07-01,retrospectivestart=2009-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03248/2009-07-01/text",
+   "sha256": "fff1653f0af847e5f63290fa594821497d98560cca9bad1ef884cb6f46e62714"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1986-04-14",
+   "acts": []
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-12-28",
+   "acts": [
+    "Builders Labourers' Federation Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-02-01",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "1991-06-27",
+   "acts": [
+    "Builders Labourers' Federation Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1996-11-25",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "2002-11-14",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

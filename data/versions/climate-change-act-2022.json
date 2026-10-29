@@ -1,0 +1,43 @@
+{
+ "title_id": "C2022A00037",
+ "name": "Climate Change Act 2022",
+ "folder": "climate-change-act-2022",
+ "compilations": [
+  {
+   "in_force": "2022-09-13",
+   "register_id": "C2022A00037",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00037',start=2022-09-13,retrospectivestart=2022-09-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00037/2022-09-13/text",
+   "sha256": "9b4d67d645aaaf9f42d60236b4e71c230794b3622bcf395a35c66b741e5e35a3"
+  },
+  {
+   "in_force": "2023-04-12",
+   "register_id": "C2023C00092",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00037',start=2023-04-12,retrospectivestart=2023-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00037/2023-04-12/text",
+   "sha256": "d63768ad04b7e82510793a0802624708657264e9ae822d1ec271aa8958703e34"
+  },
+  {
+   "in_force": "2025-02-20",
+   "register_id": "C2025C00153",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00037',start=2025-02-20,retrospectivestart=2025-02-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00037/2025-02-20/text",
+   "sha256": "0ad93100ef4d9902a1e0020da190b95b469f42595ecc4c6882c70166788655fb"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

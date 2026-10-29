@@ -1,0 +1,48 @@
+{
+ "title_id": "C2021A00027",
+ "name": "Industrial Chemicals Environmental Management (Register) Act 2021",
+ "folder": "industrial-chemicals-environmental-management-register-act-2021",
+ "compilations": [
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00521",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00027',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00027/2021-09-01/text",
+   "sha256": "41c0f5a857d2500efe457536f70990b60207b2a58ddbd3e01eefaf22b695f498"
+  },
+  {
+   "in_force": "2023-10-17",
+   "register_id": "C2023C00307",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00027',start=2023-10-17,retrospectivestart=2023-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00027/2023-10-17/text",
+   "sha256": "4c5818dea1edf02878375d7727a84a3cdd26f9bea01a5d309961f6cf262612ca"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00527",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00027',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00027/2024-10-14/text",
+   "sha256": "f208368e6faf26450fa0eabda7fecfe73bdd0a3b4644c6370c5bdc477c5be975"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2021-03-26",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

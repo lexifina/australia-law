@@ -1,0 +1,88 @@
+{
+ "title_id": "C2004A01335",
+ "name": "Australian Energy Market Act 2004",
+ "folder": "australian-energy-market-act-2004",
+ "compilations": [
+  {
+   "in_force": "2013-04-12",
+   "register_id": "C2013C00249",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01335',start=2013-04-12,retrospectivestart=2013-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01335/2013-04-12/text",
+   "sha256": "7ad1513da3025ed98c30360bc5942abb4933b154c7979c8f54fdeb42f4b8b7e1"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00157",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01335',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01335/2016-03-05/text",
+   "sha256": "0abedc157f8027cc2896194c058d7ad65274fdfe9665810c4a11d590a64c9c03"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00399",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01335',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01335/2021-09-01/text",
+   "sha256": "22a72bae93f3b2ed317b3e3785f54a063e29ba51f4af6703e17a849d00231f34"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2004-06-30",
+   "acts": []
+  },
+  {
+   "in_force": "2005-06-30",
+   "acts": [
+    "Energy Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006",
+    "Australian Energy Market Amendment (Gas Legislation) Act 2007",
+    "Australian Energy Market Amendment (Gas Legislation) Act 2007",
+    "Australian Energy Market Amendment (Minor Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-27",
+   "acts": [
+    "Australian Energy Market Amendment (AEMO and Other Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Australian Energy Market Amendment (National Energy Retail Law) Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

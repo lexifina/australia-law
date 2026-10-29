@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A00896",
+ "name": "Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001",
+ "folder": "financial-sector-collection-of-dataconsequential-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2001-09-24",
+   "register_id": "C2004A00896",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00896',start=2001-09-24,retrospectivestart=2001-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00896/2001-09-24/text",
+   "sha256": "75e1cddfe62badff15972f44cf4b59a979e1821dad8a55c86a43d3af7ef2fe0d"
+  },
+  {
+   "in_force": "2002-03-11",
+   "register_id": "C2004C01203",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00896',start=2002-03-11,retrospectivestart=2002-03-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00896/2002-03-11/text",
+   "sha256": "3a16537c20a8bbe568cc94131e1203783d10e13d5060ce7e048f46410292894c"
+  },
+  {
+   "in_force": "2007-09-24",
+   "register_id": "C2007C00597",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00896',start=2007-09-24,retrospectivestart=2007-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00896/2007-09-24/text",
+   "sha256": "6e90de6a1f1524f63d88f6454287ae420f648aae7c813d3b479d6fac7bd7e30c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

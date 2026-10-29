@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A00460",
+ "name": "A New Tax System (Goods and Services Tax Imposition—Customs) Act 1999",
+ "folder": "a-new-tax-system-goods-and-services-tax-impositioncustoms-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-07-08",
+   "register_id": "C2004A00460",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00460',start=1999-07-08,retrospectivestart=1999-07-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00460/1999-07-08/text",
+   "sha256": "361628c7d1304f72715f233fec950f4c2aebe677ed996a92af71779080d1f50d"
+  },
+  {
+   "in_force": "2005-02-22",
+   "register_id": "C2005C00085",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00460',start=2005-02-22,retrospectivestart=2005-02-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00460/2005-02-22/text",
+   "sha256": "7c3e2d83e1cfefa40647c0bb120b5e3e92a1d702866a1e45f6fa855c5b074df0"
+  },
+  {
+   "in_force": "2005-07-01",
+   "register_id": "C2005C00389",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00460',start=2005-07-01,retrospectivestart=2005-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00460/2005-07-01/text",
+   "sha256": "96aaa62a1c3ad2377d530c29df60797827971e16134443183eff8254464953dd"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

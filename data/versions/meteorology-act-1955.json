@@ -1,0 +1,65 @@
+{
+ "title_id": "C1955A00006",
+ "name": "Meteorology Act 1955",
+ "folder": "meteorology-act-1955",
+ "compilations": [
+  {
+   "in_force": "1973-12-31",
+   "register_id": "C2004C00552",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00006',start=1973-12-31,retrospectivestart=1973-12-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00006/1973-12-31/text",
+   "sha256": "9d3893e37fb904b6defa23c512cd109c5677354c10e4c4c52837f095621790bc"
+  },
+  {
+   "in_force": "2008-03-03",
+   "register_id": "C2008C00066",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00006',start=2008-03-03,retrospectivestart=2008-03-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00006/2008-03-03/text",
+   "sha256": "a75a487d695236ac14b286ac8be8710ecd41e2bf6eeca3ac4081257310fff1a6"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00548",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00006',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00006/2014-07-01/text",
+   "sha256": "44dba92062f066c4f35c724f245bfb7dec93ec5f5530da12a70420ad53dc5a8b"
+  },
+  {
+   "in_force": "2014-09-11",
+   "register_id": "C2014C00652",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00006',start=2014-09-11,retrospectivestart=2014-09-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00006/2014-09-11/text",
+   "sha256": "fd29fe4cca9e96d5faa053328d88ea06b1ced4825e90c58764b83a28f60a4f0a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1955-05-23",
+   "acts": []
+  },
+  {
+   "in_force": "1973-10-30",
+   "acts": [
+    "Meteorology Act 1973"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

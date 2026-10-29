@@ -1,0 +1,21 @@
+{
+ "title_id": "C2023A00056",
+ "name": "Inspector-General of Aged Care (Consequential and Transitional Provisions) Act 2023",
+ "folder": "inspector-general-of-aged-care-consequential-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2023-08-17",
+   "register_id": "C2023A00056",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00056',start=2023-08-17,retrospectivestart=2023-08-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00056/2023-08-17/text",
+   "sha256": "ee17149b2e2606a1a304d3abd5f3ef27a5b3198df554663bacf0a015f584c08a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

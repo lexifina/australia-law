@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00042",
+ "name": "High Seas Biodiversity Act 2026",
+ "folder": "high-seas-biodiversity-act-2026",
+ "compilations": [
+  {
+   "in_force": "2026-04-08",
+   "register_id": "C2026A00042",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00042',start=2026-04-08,retrospectivestart=2026-04-08,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00042/2026-04-08/text",
+   "sha256": "5cf5d6e271c395a029446e24af4e1f07b239e13e94f781c6201741e7c0c61d32"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

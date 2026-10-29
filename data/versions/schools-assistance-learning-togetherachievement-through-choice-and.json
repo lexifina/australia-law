@@ -1,0 +1,97 @@
+{
+ "title_id": "C2004A01370",
+ "name": "Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Act 2004",
+ "folder": "schools-assistance-learning-togetherachievement-through-choice-and",
+ "compilations": [
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00334",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01370',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01370/2011-04-19/text",
+   "sha256": "1def68839284e5c9ee1950c762378fe41bd12a70175e628c34a246808c4f34f5"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00628",
+   "compilation": "8A",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01370',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01370/2014-07-01/text",
+   "sha256": "4da741564567c056d08df3df103ccbe1ad0140c9f878d746a1521c61d04c37e8"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00429",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01370',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01370/2016-03-05/text",
+   "sha256": "77faccaf1a27882b2d900f71e4a9fdc25ee25a66043974ca375c2c0f666b881a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2004-12-13",
+   "acts": []
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-04-06",
+   "acts": [
+    "Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-10-06",
+   "acts": [
+    "Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment Act 2006",
+    "Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-11-04",
+   "acts": [
+    "Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment Act (No. 2) 2006"
+   ]
+  },
+  {
+   "in_force": "2007-04-10",
+   "acts": [
+    "Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-28",
+   "acts": [
+    "Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment (2007 Budget Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-12-09",
+   "acts": [
+    "Education Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Education Legislation Amendment Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A03909",
+ "name": "Marine Navigation Levy Act 1989",
+ "folder": "marine-navigation-levy-act-1989",
+ "compilations": [
+  {
+   "in_force": "1989-12-18",
+   "register_id": "C2004A03909",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03909',start=1989-12-18,retrospectivestart=1989-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03909/1989-12-18/text",
+   "sha256": "f4f27dbfc59fb91de9f5bf3a519c54c756a830889c8ad1ece7c23ec4c8b5f782"
+  },
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00350",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03909',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03909/2013-07-01/text",
+   "sha256": "a515b84f181e076d859b285e6c8f292174aba05a384f75e45b816b95171f30b1"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00231",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03909',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03909/2018-06-19/text",
+   "sha256": "43186556449ff45ca0570e5046552ba07ec15ebc39f93e98d391bf704906cf06"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

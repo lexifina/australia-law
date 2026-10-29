@@ -1,0 +1,222 @@
+{
+ "title_id": "C2004A04858",
+ "name": "Evidence Act 1995",
+ "folder": "evidence-act-1995",
+ "compilations": [
+  {
+   "in_force": "2018-10-26",
+   "register_id": "C2018C00433",
+   "compilation": "33",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04858',start=2018-10-26,retrospectivestart=2018-10-26,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04858/2018-10-26/text",
+   "sha256": "85659b039b2d622dac036dfd1e262b3f4140166de37af61b74f905465804c5fc"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00472",
+   "compilation": "34",
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04858',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04858/2021-09-01/text",
+   "sha256": "58a486041a3b238c02da55072c85ca3701c24bce585272e9d168da1f19ab909a"
+  },
+  {
+   "in_force": "2025-06-10",
+   "register_id": "C2025C00340",
+   "compilation": "35",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04858',start=2025-06-10,retrospectivestart=2025-06-10,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04858/2025-06-10/text",
+   "sha256": "9064554bc4fe9f90d1a071840eef2f2e13899a91790ce54e147d101f0855203e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-02-23",
+   "acts": []
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1995-12-26",
+   "acts": [
+    "Family Law Reform (Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-11-24",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-01-05",
+   "acts": [
+    "Border Security Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-12-05",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-07-06",
+   "acts": [
+    "Statute Law Revision Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Family Law Amendment (Shared Parental Responsibility) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-07-26",
+   "acts": [
+    "Evidence Amendment (Journalists' Privilege) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Evidence Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-13",
+   "acts": [
+    "Evidence Amendment (Journalists' Privilege) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Clean Energy (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-08-18",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-14",
+   "acts": [
+    "Civil Law and Justice (Omnibus Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Trade Legislation Amendment Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas Management Legislation Amendment Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

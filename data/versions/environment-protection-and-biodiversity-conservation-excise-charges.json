@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00065",
+ "name": "Environment Protection and Biodiversity Conservation (Excise Charges Imposition) Act 2025",
+ "folder": "environment-protection-and-biodiversity-conservation-excise-charges",
+ "compilations": [
+  {
+   "in_force": "2025-12-01",
+   "register_id": "C2025A00065",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00065',start=2025-12-01,retrospectivestart=2025-12-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00065/2025-12-01/text",
+   "sha256": "57eb290aefc1564ea6af82d8373db01da51233105af88f90a5d306ef7aee5285"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

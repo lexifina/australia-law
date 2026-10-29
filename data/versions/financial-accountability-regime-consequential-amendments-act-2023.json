@@ -1,0 +1,21 @@
+{
+ "title_id": "C2023A00068",
+ "name": "Financial Accountability Regime (Consequential Amendments) Act 2023",
+ "folder": "financial-accountability-regime-consequential-amendments-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-09-14",
+   "register_id": "C2023A00068",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00068',start=2023-09-14,retrospectivestart=2023-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00068/2023-09-14/text",
+   "sha256": "aa505f6926769c73d596c8d3f080ad3b3c22edbf9768b64cf61aafbe6adaadd9"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

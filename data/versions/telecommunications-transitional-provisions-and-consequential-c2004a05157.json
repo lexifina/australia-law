@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A05157",
+ "name": "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997",
+ "folder": "telecommunications-transitional-provisions-and-consequential-c2004a05157",
+ "compilations": [
+  {
+   "in_force": "1999-12-05",
+   "register_id": "C2004C00895",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05157',start=1999-12-05,retrospectivestart=1999-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05157/1999-12-05/text",
+   "sha256": "6c0d2a9bf8d7c35609308db86df72c474a6db2151e63c5025c32620d6675143c"
+  },
+  {
+   "in_force": "2011-09-16",
+   "register_id": "C2011C00801",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05157',start=2011-09-16,retrospectivestart=2011-09-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05157/2011-09-16/text",
+   "sha256": "35fb319e823fd968445f83458ca1109f47eade358e2cd30f3a4ab6841798598a"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00900",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05157',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05157/2016-07-01/text",
+   "sha256": "35a5fce38db4cf75c96275236547e0a0a61a5ae36c803b8c04f254bc391d1308"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-05-03",
+   "acts": []
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Telecommunications Legislation Amendment Act 1997"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

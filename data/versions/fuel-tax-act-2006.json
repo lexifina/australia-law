@@ -1,0 +1,190 @@
+{
+ "title_id": "C2006A00072",
+ "name": "Fuel Tax Act 2006",
+ "folder": "fuel-tax-act-2006",
+ "compilations": [
+  {
+   "in_force": "2021-07-01",
+   "register_id": "C2021C00299",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00072',start=2021-07-01,retrospectivestart=2021-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00072/2021-07-01/text",
+   "sha256": "c53e7cb29ea1b068f1221932bc86eaf96dc3a7dc82f688455f0ed09d244cadf2"
+  },
+  {
+   "in_force": "2026-01-01",
+   "register_id": "C2026C00018",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00072',start=2026-01-01,retrospectivestart=2026-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00072/2026-01-01/text",
+   "sha256": "638cd669570f9a6cec9f0b3545ef7cf86af1dfed36649687fb09e4b89c3605b0"
+  },
+  {
+   "in_force": "2026-04-02",
+   "register_id": "C2026C00140",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00072',start=2026-04-02,retrospectivestart=2026-04-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00072/2026-04-02/text",
+   "sha256": "d5e09f17280d935c73545e0029e538b14cdc70711f2ba7f13f6cf009070f5015"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-06-26",
+   "acts": []
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006",
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006",
+    "Excise Laws Amendment (Fuel Tax Reform and Other Measures) Act 2006",
+    "Tax Laws Amendment (2009 Measures No. 5) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Road Charges Legislation Repeal and Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 2) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-04",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 5) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-24",
+   "acts": [
+    "Tax Laws Amendment (2009 GST Administration Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2011-12-01",
+   "acts": [
+    "Taxation of Alternative Fuels Legislation Amendment Act 2011",
+    "Tax Laws Amendment (2011 Measures No. 8) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-15",
+   "acts": [
+    "Indirect Tax Laws Amendment (Assessment) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006",
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006",
+    "Clean Energy (Fuel Tax Legislation Amendment) Act 2011",
+    "Indirect Tax Laws Amendment (Assessment) Act 2012",
+    "Clean Energy Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-14",
+   "acts": [
+    "Clean Energy Amendment (International Emissions Trading and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2013 Measures No. 1) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006",
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Clean Energy Legislation (Carbon Tax Repeal) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-16",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 4) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-11-10",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 6) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-06-25",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-30",
+   "acts": [
+    "Fuel Indexation (Road Funding) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Treasury Legislation Amendment (Repeal Day) Act 2015",
+    "Energy Grants and Other Legislation Amendment (Ethanol and Biodiesel) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Indirect Tax Laws Amendment (Assessment) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2019-03-02",
+   "acts": [
+    "Treasury Laws Amendment (2018 Measures No. 4) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-04-01",
+   "acts": [
+    "Treasury Laws Amendment (2018 Measures No. 4) Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

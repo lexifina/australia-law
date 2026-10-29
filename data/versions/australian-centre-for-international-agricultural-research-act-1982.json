@@ -1,0 +1,132 @@
+{
+ "title_id": "C2004A02568",
+ "name": "Australian Centre for International Agricultural Research Act 1982",
+ "folder": "australian-centre-for-international-agricultural-research-act-1982",
+ "compilations": [
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00015",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02568',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02568/2011-12-27/text",
+   "sha256": "a7e6ba05a5cfd99192903ffedbd36bb2faeba1fef54214ceb80251200f2b9c81"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00533",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02568',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02568/2014-07-01/text",
+   "sha256": "8272b4246dbf28e54f4493e716acd7d14b6acd5e14114e35475a3711545b0455"
+  },
+  {
+   "in_force": "2026-03-27",
+   "register_id": "C2026C00143",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02568',start=2026-03-27,retrospectivestart=2026-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02568/2026-03-27/text",
+   "sha256": "6e6542918b6193fabb0e7ee60256725094419428f267782fe722e3ada395d5b7"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1982-03-30",
+   "acts": []
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-12-20",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1986-01-08",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Australian Centre For International Agricultural Research Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Australian Centre for International Agricultural Research Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

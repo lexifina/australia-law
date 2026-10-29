@@ -1,0 +1,170 @@
+{
+ "title_id": "C2014A00012",
+ "name": "Farm Household Support Act 2014",
+ "folder": "farm-household-support-act-2014",
+ "compilations": [
+  {
+   "in_force": "2021-07-24",
+   "register_id": "C2021C00316",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00012',start=2021-07-24,retrospectivestart=2021-07-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00012/2021-07-24/text",
+   "sha256": "5117be31c648f0f7117a1396f81f0c597de0d322b8ead54c449f46eade4597ce"
+  },
+  {
+   "in_force": "2022-01-01",
+   "register_id": "C2022C00040",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00012',start=2022-01-01,retrospectivestart=2022-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00012/2022-01-01/text",
+   "sha256": "3b0bc8633aff2021d3e7848dc0e84399662997b9bcb4b0c185de84260fa2b2ec"
+  },
+  {
+   "in_force": "2022-04-08",
+   "register_id": "C2022C00163",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00012',start=2022-04-08,retrospectivestart=2022-04-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00012/2022-04-08/text",
+   "sha256": "96ae87b351bd432730941619d2eb136612fe900811eadf41b8d12683a81c04c8"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2014-03-28",
+   "acts": []
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Farm Household Support (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-20",
+   "acts": [
+    "Social Services and Other Legislation Amendment (2014 Budget Measures No. 6) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment (2014 Budget Measures No. 6) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016",
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-04-05",
+   "acts": [
+    "Farm Household Support Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Social Services Legislation Amendment (Seasonal Worker Incentives for Jobseekers) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-05-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-08-01",
+   "acts": [
+    "Farm Household Support Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Farm Household Support Amendment (Temporary Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-01-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Promoting Sustainable Welfare) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-08-08",
+   "acts": [
+    "Farm Household Support Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-16",
+   "acts": [
+    "Farm Household Support Amendment (Relief Measures) Act (No. 1) 2019"
+   ]
+  },
+  {
+   "in_force": "2020-03-20",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-03-25",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-03-27",
+   "acts": [
+    "Farm Household Support Amendment (Relief Measures) Act (No. 1) 2020"
+   ]
+  },
+  {
+   "in_force": "2020-06-11",
+   "acts": [
+    "Farm Household Support Amendment (Relief Measures) Act (No. 2) 2019"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Social Services Legislation Amendment (Seasonal Worker Incentives for Jobseekers) Act 2017",
+    "Farm Household Support Amendment (Relief Measures) Act (No. 1) 2020"
+   ]
+  },
+  {
+   "in_force": "2021-04-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Extension of Coronavirus Support) Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

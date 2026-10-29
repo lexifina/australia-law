@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A05237",
+ "name": "Radiocommunications (Spectrum Licence Tax) Act 1997",
+ "folder": "radiocommunications-spectrum-licence-tax-act-1997",
+ "compilations": [
+  {
+   "in_force": "1997-10-09",
+   "register_id": "C2004A05237",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05237',start=1997-10-09,retrospectivestart=1997-10-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05237/1997-10-09/text",
+   "sha256": "8db04c1977814d5426b34da6c14ad558f1dc3ee16a5463720767b1d6a885bbfa"
+  },
+  {
+   "in_force": "2005-07-01",
+   "register_id": "C2005C00377",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05237',start=2005-07-01,retrospectivestart=2005-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05237/2005-07-01/text",
+   "sha256": "970f9014f9b95688f00b765a4f0c81cb2b11af14826fc26cb109f0a3abe1fef3"
+  },
+  {
+   "in_force": "2013-06-29",
+   "register_id": "C2013C00543",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05237',start=2013-06-29,retrospectivestart=2013-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05237/2013-06-29/text",
+   "sha256": "2860e197817a053bb88b04f1b17ff72987977e65358bc0e73f2596adf6e6ab52"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

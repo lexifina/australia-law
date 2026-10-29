@@ -1,0 +1,83 @@
+{
+ "title_id": "C2004A00317",
+ "name": "Life Insurance Supervisory Levy Imposition Act 1998",
+ "folder": "life-insurance-supervisory-levy-imposition-act-1998",
+ "compilations": [
+  {
+   "in_force": "2010-02-27",
+   "register_id": "C2010C00090",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00317',start=2010-02-27,retrospectivestart=2010-02-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00317/2010-02-27/text",
+   "sha256": "288ea5dfc84a4f1b39cc93719ff35648dfddd2fdb297bf8d9ebf897cd9778870"
+  },
+  {
+   "in_force": "2010-07-01",
+   "register_id": "C2010C00465",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00317',start=2010-07-01,retrospectivestart=2010-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00317/2010-07-01/text",
+   "sha256": "f937433b7d5eb71b093090dd5a695d6258919ac2d4aede99150310319f9e3396"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00055",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00317',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00317/2015-12-10/text",
+   "sha256": "623ae455c7fb34872db3b47ac8b08d84fecebcc4e2d7fc19a42704691605fbfd"
+  },
+  {
+   "in_force": "2020-06-20",
+   "register_id": "C2020C00186",
+   "compilation": "10",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00317',start=2020-06-20,retrospectivestart=2020-06-20,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00317/2020-06-20/text",
+   "sha256": "37cfef501e77d92031754798fa76a1affc9fcf450c4cf4710bb2f6f26e5234fc"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Life Insurance Supervisory Levy Imposition Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "First Home Saver Accounts (Further Provisions) Amendment Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

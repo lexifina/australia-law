@@ -1,0 +1,188 @@
+{
+ "title_id": "C2004A00463",
+ "name": "A New Tax System (Luxury Car Tax) Act 1999",
+ "folder": "a-new-tax-system-luxury-car-tax-act-1999",
+ "compilations": [
+  {
+   "in_force": "2020-01-01",
+   "register_id": "C2020C00048",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00463',start=2020-01-01,retrospectivestart=2020-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00463/2020-01-01/text",
+   "sha256": "f7215b00f44b30d2b1a19a7fa4ab459f54c0f1272c366d1d362b0412897e6f0f"
+  },
+  {
+   "in_force": "2021-07-01",
+   "register_id": "C2021C00288",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00463',start=2021-07-01,retrospectivestart=2021-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00463/2021-07-01/text",
+   "sha256": "5cb9f0f4b54a82e8407698820ae3642db026876fc4f226833feb4947797ee26e"
+  },
+  {
+   "in_force": "2022-01-01",
+   "register_id": "C2022C00033",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00463',start=2022-01-01,retrospectivestart=2022-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00463/2022-01-01/text",
+   "sha256": "38ef9f849cae89b4bb5e13bfe7db99da8afd246c29ccf2b3eed882da7e0ba45c"
+  },
+  {
+   "in_force": "2025-04-01",
+   "register_id": "C2025C00298",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00463',start=2025-04-01,retrospectivestart=2025-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00463/2025-04-01/text",
+   "sha256": "a3d010d55654e4c15f09e70198872c282d89875e5bfcde74f9165087ba48598f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-07-08",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "A New Tax System (Tax Administration) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999",
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999",
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999",
+    "Indirect Tax Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 8) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-30",
+   "acts": [
+    "New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-10-03",
+   "acts": [
+    "Tax Laws Amendment (Luxury Car Tax) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-11",
+   "acts": [
+    "Tax Laws Amendment (Luxury Car Tax—Minor Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-03-24",
+   "acts": [
+    "Tax Laws Amendment (2009 GST Administration Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-03",
+   "acts": [
+    "Tax Laws Amendment (2010 Measures No. 1) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-06-27",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 2) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Indirect Tax Laws Amendment (Assessment) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-01",
+   "acts": [
+    "Customs Tariff Amendment (Schedule 4) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-02-25",
+   "acts": [
+    "Treasury Legislation Amendment (Repeal Day) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-02-28",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2016 Measures No. 2) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-10-01",
+   "acts": [
+    "Treasury Laws Amendment (Making Sure Multinationals Pay Their Fair Share of Tax in Australia and Other Measures) Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

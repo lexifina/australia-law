@@ -1,0 +1,277 @@
+{
+ "title_id": "C2004A03857",
+ "name": "Corporations Act 1989",
+ "folder": "corporations-act-1989",
+ "compilations": [
+  {
+   "in_force": "2000-11-24",
+   "register_id": "C2024C00367",
+   "compilation": "36",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03857',start=2000-11-24,retrospectivestart=2000-11-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03857/2000-11-24/text",
+   "sha256": "cd31cfc11f22119386c142f7dcb14e70b5a12cf114952a78bc1e9efc15ba9c44"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1989-07-14",
+   "acts": []
+  },
+  {
+   "in_force": "1990-12-18",
+   "acts": [
+    "Corporations Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-01",
+   "acts": [
+    "Corporations Legislation Amendment Act 1990",
+    "Corporations Legislation Amendment Act 1991",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1991-04-08",
+   "acts": [
+    "Corporations Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-06-27",
+   "acts": [
+    "Corporations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-08-01",
+   "acts": [
+    "Corporations Legislation Amendment Act 1991",
+    "Corporations Legislation Amendment Act 1991",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Corporations (Unlisted Property Trusts) Amendment Act 1991",
+    "Corporations Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-05-14",
+   "acts": [
+    "Corporations Legislation (Evidence) Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-31",
+   "acts": [
+    "Corporations Legislation Amendment Act 1991",
+    "Corporations Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1993-02-01",
+   "acts": [
+    "Corporate Law Reform Act 1992",
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "1993-06-23",
+   "acts": [
+    "Corporate Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Insolvency (Tax Priorities) Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-02-01",
+   "acts": [
+    "Corporate Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-03-04",
+   "acts": [
+    "Corporate Law Reform Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-04-15",
+   "acts": [
+    "Corporate Law Reform Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-06-09",
+   "acts": [
+    "Banking (State Bank of South Australia and Other Matters) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Superannuation Industry (Supervision) Consequential Amendments Act 1993",
+    "Corporate Law Reform Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-05",
+   "acts": [
+    "Corporations Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-15",
+   "acts": [
+    "Corporations Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-09-04",
+   "acts": [
+    "Corporate Law Reform Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-01-01",
+   "acts": [
+    "Corporations Legislation Amendment Act 1994",
+    "Corporations Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-04-12",
+   "acts": [
+    "Corporations Law (Securities And Futures) Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Life Insurance (Consequential Amendments and Repeals) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-10-16",
+   "acts": [
+    "Corporations Legislation Amendment Act 1994",
+    "Corporations Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-12-09",
+   "acts": [
+    "First Corporate Law Simplification Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-04-22",
+   "acts": [
+    "Corporations Law Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-16",
+   "acts": [
+    "Corporations Law Amendment (ASX) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998",
+    "Company Law Review Act 1998",
+    "Company Law Review Act 1998",
+    "Managed Investments Act 1998",
+    "Financial Sector Reform (Consequential Amendments) Act 1998",
+    "Financial Sector Reform (Consequential Amendments) Act 1998",
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-01-01",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999",
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-05-30",
+   "acts": [
+    "Jurisdiction of Courts Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-06-30",
+   "acts": [
+    "Corporations Law Amendment (Employee Entitlements) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Jurisdiction of Courts Legislation Amendment Act 2000",
+    "Jurisdiction of Courts Legislation Amendment Act 2000",
+    "A New Tax System (Tax Administration) Act (No. 2) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": {
+  "day": "2001-07-15",
+  "status": "Repealed",
+  "acts": [
+   [
+    55,
+    2001
+   ]
+  ],
+  "markdown": [
+   "sch 1 (item 2) of the [Corporations (Repeals, Consequentials and Transitionals) Act 2001](/C2004A00823)"
+  ]
+ }
+}

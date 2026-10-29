@@ -1,0 +1,40 @@
+{
+ "title_id": "C2026A00056",
+ "name": "Appropriation (Parliamentary Departments) Act (No. 1) 2026-2027",
+ "folder": "appropriation-parliamentary-departments-act-no-1-2026-2027",
+ "compilations": [
+  {
+   "in_force": "2026-06-30",
+   "register_id": "C2026A00056",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00056',start=2026-06-30,retrospectivestart=2026-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00056/2026-06-30/text",
+   "sha256": "40138a2defff709f7208c4931b093b0e7fa3863c2c33ff73c3ca9fe863a8406d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2029-07-01",
+   "acts": [
+    "Appropriation (Parliamentary Departments) Act (No. 1) 2026-2027"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": {
+  "day": "2029-07-01",
+  "status": "Repealed",
+  "acts": [
+   [
+    56,
+    2026
+   ]
+  ],
+  "markdown": [
+   "s 14 of the [Appropriation (Parliamentary Departments) Act (No. 1) 2026-2027](/C2026A00056)"
+  ]
+ }
+}

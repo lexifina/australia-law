@@ -1,0 +1,21 @@
+{
+ "title_id": "C2016A00066",
+ "name": "National Cancer Screening Register (Consequential and Transitional Provisions) Act 2016",
+ "folder": "national-cancer-screening-register-consequential-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2016-10-20",
+   "register_id": "C2016A00066",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00066',start=2016-10-20,retrospectivestart=2016-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00066/2016-10-20/text",
+   "sha256": "8876d0c604837b715365051c2080fcbe57fe60cc4fd0334b1dd1b9a3f23ebcff"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

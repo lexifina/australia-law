@@ -1,0 +1,60 @@
+{
+ "title_id": "C2004A05179",
+ "name": "Hearing Services and AGHS Reform Act 1997",
+ "folder": "hearing-services-and-aghs-reform-act-1997",
+ "compilations": [
+  {
+   "in_force": "2010-12-18",
+   "register_id": "C2010C00845",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05179',start=2010-12-18,retrospectivestart=2010-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05179/2010-12-18/text",
+   "sha256": "81d1bc887e1d0ec9dfbba7715977b81bd7a2950a54ef16459384df3b275ea132"
+  },
+  {
+   "in_force": "2014-06-24",
+   "register_id": "C2014C00235",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05179',start=2014-06-24,retrospectivestart=2014-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05179/2014-06-24/text",
+   "sha256": "5efe546f38a75144d3fef9e998db0815317abb485326bdae945fb03c46bf1c9f"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00804",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05179',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05179/2016-07-01/text",
+   "sha256": "89395eaa3078dfecfd14ae5823c48278a380fcfd516b04cdcda699daa9d41648"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-06-18",
+   "acts": []
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2009-11-17",
+   "acts": [
+    "Statute Stocktake (Regulatory and Other Laws) Act 2009"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

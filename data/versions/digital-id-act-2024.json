@@ -1,0 +1,43 @@
+{
+ "title_id": "C2024A00025",
+ "name": "Digital ID Act 2024",
+ "folder": "digital-id-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-05-30",
+   "register_id": "C2024A00025",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00025',start=2024-05-30,retrospectivestart=2024-05-30,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00025/2024-05-30/text",
+   "sha256": "dd653e8b3f96ca4503bcd163cb7e7765f5dad11352ea6445a207589f226673d1"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00847",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00025',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00025/2024-12-11/text",
+   "sha256": "ad89bf7829f62eff27ac15724bd9f85873f82f6007b23da4593843f7d2b30aee"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00160",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00025',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00025/2025-02-21/text",
+   "sha256": "1cf39619d3e6518ce1d9ee920c4c672da50681f4b1294137a8b08af61472e064"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

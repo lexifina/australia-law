@@ -1,0 +1,32 @@
+{
+ "title_id": "C2010A00031",
+ "name": "Midwife Professional Indemnity (Run-off Cover Support Payment) Act 2010",
+ "folder": "midwife-professional-indemnity-run-off-cover-support-payment-act-2010",
+ "compilations": [
+  {
+   "in_force": "2010-04-12",
+   "register_id": "C2010A00031",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00031',start=2010-04-12,retrospectivestart=2010-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00031/2010-04-12/text",
+   "sha256": "1362d5e98882cad0de29114686c72387f67f8e1cc4b21de0d8cfcd6f71e783b2"
+  },
+  {
+   "in_force": "2011-06-27",
+   "register_id": "C2011C00495",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00031',start=2011-06-27,retrospectivestart=2011-06-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00031/2011-06-27/text",
+   "sha256": "7870aa90c6227a92c03a0a7271b9465f51b413c5dcf888cdacf28e77d87e82f8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

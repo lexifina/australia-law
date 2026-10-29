@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00707",
+ "name": "Excise Amendment (Compliance Improvement) Act 2000",
+ "folder": "excise-amendment-compliance-improvement-act-2000",
+ "compilations": [
+  {
+   "in_force": "2000-09-05",
+   "register_id": "C2004A00707",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00707',start=2000-09-05,retrospectivestart=2000-09-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00707/2000-09-05/text",
+   "sha256": "a70d68bfddfc780bed17dec9154c2dd4451f7612632b4e6288170c23a94cba3c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

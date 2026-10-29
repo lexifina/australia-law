@@ -1,0 +1,437 @@
+{
+ "title_id": "C2004A00485",
+ "name": "Environment Protection and Biodiversity Conservation Act 1999",
+ "folder": "environment-protection-and-biodiversity-conservation-act-1999",
+ "compilations": [
+  {
+   "in_force": "2026-02-20",
+   "register_id": "C2026C00087",
+   "compilation": "67",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00485',start=2026-02-20,retrospectivestart=2026-02-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00485/2026-02-20/text",
+   "sha256": "75c16cf1d68879a7acb8b4a39279f17fbeb197edc38a0d640fd5a7ae45a583e9"
+  },
+  {
+   "in_force": "2026-03-28",
+   "register_id": "C2026C00116",
+   "compilation": "68",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00485',start=2026-03-28,retrospectivestart=2026-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00485/2026-03-28/text",
+   "sha256": "190f1ac2edc9158e1343921cc7d94b20934c489308e46d566ba1952080c72232"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00292",
+   "compilation": "69",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00485',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00485/2026-07-01/text",
+   "sha256": "fe8b15719ec469e7512f302c8d99089a6b95b136ef07a5675530fb5614a49758"
+  },
+  {
+   "in_force": "2026-08-24",
+   "register_id": "C2026C00369",
+   "compilation": "70",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00485',start=2026-08-24,retrospectivestart=2026-08-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00485/2026-08-24/text",
+   "sha256": "603ad41f62b3f51c88f5c6e4cdd152ad72aa9b083122873c6022778c152b410f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-07-16",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999",
+    "Statute Law Revision Act 2002",
+    "Statute Law Revision Act 2002",
+    "Statute Law Revision Act 2002",
+    "Crimes Legislation Enhancement Act 2003",
+    "Statute Law Revision Act 2006"
+   ]
+  },
+  {
+   "in_force": "2001-07-11",
+   "acts": [
+    "Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-01-11",
+   "acts": [
+    "Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001",
+    "Statute Law Revision Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-05-03",
+   "acts": [
+    "Regional Forest Agreements Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-09-23",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2004-01-01",
+   "acts": [
+    "Australian Heritage Council (Consequential and Transitional Provisions) Act 2003",
+    "Environment and Heritage Legislation Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2005-03-24",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Commission Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-05-16",
+   "acts": [
+    "Administrative Appeals Tribunal Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2007-01-15",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2007-02-19",
+   "acts": [
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Environment and Heritage Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2007-05-01",
+   "acts": [
+    "Migration Legislation Amendment (Information and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Corporations (Aboriginal and Torres Strait Islander) Consequential, Transitional and Other Measures Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-26",
+   "acts": [
+    "Great Barrier Reef Marine Park and Other Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-11-25",
+   "acts": [
+    "Great Barrier Reef Marine Park and Other Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010",
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-15",
+   "acts": [
+    "Environment Protection and Biodiversity Conservation Amendment (Recreational Fishing for Mako and Porbeagle Sharks) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-11",
+   "acts": [
+    "Territories Law Reform Act 2010",
+    "Territories Law Reform Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-02-19",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2012-09-19",
+   "acts": [
+    "Environment Protection and Biodiversity Conservation Amendment (Declared Commercial Fishing Activities) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-09",
+   "acts": [
+    "Environment Protection and Biodiversity Conservation Amendment (Independent Expert Scientific Committee on Coal Seam Gas and Large Coal Mining Development) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-15",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-22",
+   "acts": [
+    "Environment Protection and Biodiversity Conservation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Aboriginal Land Rights and Other Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-27",
+   "acts": [
+    "Maritime Powers (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014",
+    "Environment Protection and Biodiversity Conservation Amendment (Cost Recovery) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-06",
+   "acts": [
+    "Environment Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015",
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Law and Justice Legislation Amendment (Northern Territory Local Court) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-06",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2015) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-10-29",
+   "acts": [
+    "Great Barrier Reef Marine Park Amendment (Authority Governance and Other Matters) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-09-18",
+   "acts": [
+    "Aboriginal Land Rights (Northern Territory) Amendment (Jabiru) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-28",
+   "acts": [
+    "Export Control (Consequential Amendments and Transitional Provisions) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-12-30",
+   "acts": [
+    "Hazardous Waste (Regulation of Exports and Imports) Amendment Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-06-02",
+   "acts": [
+    "Offshore Electricity Infrastructure (Consequential Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-07-01",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2023-07-04",
+   "acts": [
+    "Defence Legislation Amendment (Naval Nuclear Propulsion) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-08-22",
+   "acts": [
+    "Aboriginal Land Grant (Jervis Bay Territory) Amendment (Strengthening Land and Governance Provisions) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-12-15",
+   "acts": [
+    "Nature Repair (Consequential Amendments) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-03-28",
+   "acts": [
+    "Environment Protection and Biodiversity Conservation Amendment (Reconsiderations) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-10-31",
+   "acts": [
+    "Environment Protection and Biodiversity Conservation Amendment (Board of Management Functions) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-12-02",
+   "acts": [
+    "Environment Protection Reform Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,84 @@
+{
+ "title_id": "C2004A02638",
+ "name": "Special Prosecutors Act 1982",
+ "folder": "special-prosecutors-act-1982",
+ "compilations": [
+  {
+   "in_force": "2001-10-29",
+   "register_id": "C2004C00618",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02638',start=2001-10-29,retrospectivestart=2001-10-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02638/2001-10-29/text",
+   "sha256": "0f2d18063f5c50be44ede8c0324e673346c7706064d9a2e23623a901ab40f1f8"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00371",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02638',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02638/2008-07-04/text",
+   "sha256": "10361ec20330f25d93b1fbdb9984d0095157d9f21be475324dd6bae7ad9c56de"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00358",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02638',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02638/2011-12-27/text",
+   "sha256": "5d1e5a51ccf7aa3ab6d2bd6a63ce29f2ef1ae6c480337d998271a2896da08290"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1982-09-21",
+   "acts": []
+  },
+  {
+   "in_force": "1984-03-05",
+   "acts": [
+    "Director of Public Prosecutions (Consequential Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1986-01-08",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-11-11",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

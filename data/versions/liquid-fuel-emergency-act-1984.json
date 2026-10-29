@@ -1,0 +1,115 @@
+{
+ "title_id": "C2004A02869",
+ "name": "Liquid Fuel Emergency Act 1984",
+ "folder": "liquid-fuel-emergency-act-1984",
+ "compilations": [
+  {
+   "in_force": "2020-12-16",
+   "register_id": "C2021C00069",
+   "compilation": "15",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02869',start=2020-12-16,retrospectivestart=2020-12-16,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02869/2020-12-16/text",
+   "sha256": "d1e48c94078ee8da4a754d8e9435e7746aadeba49cf9b9def5295b9e60448f13"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00640",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02869',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02869/2024-10-14/text",
+   "sha256": "23f221f42efdd7f8e8fb189642af3ac9e1c3169de5bda9ffd2aca41ecb81ce32"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00687",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02869',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02869/2025-12-05/text",
+   "sha256": "c701b2e3d9acab247705855f2ccfe8c5a96f95d9fe577c6a1a9a58f81983d65e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1984-03-27",
+   "acts": []
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1987-03-25",
+   "acts": [
+    "Liquid Fuel Emergency Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2007-12-21",
+   "acts": [
+    "Liquid Fuel Emergency Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Liquid Fuel Emergency Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-12-29",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

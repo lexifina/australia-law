@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A04511",
+ "name": "International Labour Organisation (Compliance with Conventions) Act 1992",
+ "folder": "international-labour-organisation-compliance-with-conventions-act-1992",
+ "compilations": [
+  {
+   "in_force": "2016-11-17",
+   "register_id": "C2016C01096",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04511',start=2016-11-17,retrospectivestart=2016-11-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04511/2016-11-17/text",
+   "sha256": "d13702b1d111c1a56547b36ad895bf8657f674bbeaaaed9b86b971210b90acd9"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1992-12-24"
+ ],
+ "repeal": null
+}

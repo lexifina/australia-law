@@ -1,0 +1,248 @@
+{
+ "title_id": "C2004A05061",
+ "name": "Airports Act 1996",
+ "folder": "airports-act-1996",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00680",
+   "compilation": "37",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05061',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05061/2024-10-14/text",
+   "sha256": "d2869783196ae5d2def3a155ff5f335df0582d3d730bf2f4f79624b722fc9d97"
+  },
+  {
+   "in_force": "2025-07-01",
+   "register_id": "C2025C00406",
+   "compilation": "38",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05061',start=2025-07-01,retrospectivestart=2025-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05061/2025-07-01/text",
+   "sha256": "314524e449bee9d9c012aad5d3efd0fb4fe53bdda94a9c7dbcbfcab0a4723691"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00617",
+   "compilation": "39",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05061',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05061/2025-11-01/text",
+   "sha256": "f410b89893debc49f6ee1685c37f26f4c4ba144d447f8c4d23c9951ef3ff1b02"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1996-10-09",
+   "acts": []
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Aviation Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-17",
+   "acts": [
+    "Sydney Airport Demand Management Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-23",
+   "acts": [
+    "Aviation Legislation Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-04-19",
+   "acts": [
+    "Airports Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-04-05",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-09-06",
+   "acts": [
+    "Civil Aviation Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-03-01",
+   "acts": [
+    "Trade Practices Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-05-13",
+   "acts": [
+    "Airports Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-18",
+   "acts": [
+    "Airports Amendment Act 2010",
+    "Airports Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Airports Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-09-28",
+   "acts": [
+    "Airports Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-09-06",
+   "acts": [
+    "Statute Update (Regulations References) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-03-20",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2026-12-01",
+   "acts": [
+    "Treasury Laws Amendment (Financial Reporting System Reform) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

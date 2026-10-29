@@ -1,0 +1,48 @@
+{
+ "title_id": "C2023A00072",
+ "name": "Parliamentary Workplace Support Service Act 2023",
+ "folder": "parliamentary-workplace-support-service-act-2023",
+ "compilations": [
+  {
+   "in_force": "2024-09-18",
+   "register_id": "C2024C00375",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00072',start=2024-09-18,retrospectivestart=2024-09-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00072/2024-09-18/text",
+   "sha256": "8e38085bd329d98205c8c09dd0d24fd58c716432ae8b5da2441e25361a85add7"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00724",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00072',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00072/2024-10-14/text",
+   "sha256": "41a1e303bee654a20c2b432d75974319ddf6355283c8c60e9cb475eb4852fbc3"
+  },
+  {
+   "in_force": "2026-03-14",
+   "register_id": "C2026C00097",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00072',start=2026-03-14,retrospectivestart=2026-03-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00072/2026-03-14/text",
+   "sha256": "177513d6bd01080f176dcf0c55a22209226afee52c227bafb47571f684d0a2ff"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2023-09-20",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,34 @@
+{
+ "title_id": "C2004A02277",
+ "name": "Coastal Waters (Northern Territory Powers) Act 1980",
+ "folder": "coastal-waters-northern-territory-powers-act-1980",
+ "compilations": [
+  {
+   "in_force": "1982-01-01",
+   "register_id": "C2006C00149",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02277',start=1982-01-01,retrospectivestart=1982-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02277/1982-01-01/text",
+   "sha256": "235e8ea1904f01f73791e0c12b7a953780504e867d6a6fec6d11ffa32781b1da"
+  },
+  {
+   "in_force": "2008-07-01",
+   "register_id": "C2008C00194",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02277',start=2008-07-01,retrospectivestart=2008-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02277/2008-07-01/text",
+   "sha256": "01448add171cf5705ee609f8f10c5ca01a12982b0bd7f317682f0ba7555a40ae"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1980-05-29"
+ ],
+ "repeal": null
+}

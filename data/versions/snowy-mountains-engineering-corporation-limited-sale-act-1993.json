@@ -1,0 +1,109 @@
+{
+ "title_id": "C2004A04609",
+ "name": "Snowy Mountains Engineering Corporation Limited Sale Act 1993",
+ "folder": "snowy-mountains-engineering-corporation-limited-sale-act-1993",
+ "compilations": [
+  {
+   "in_force": "2015-03-25",
+   "register_id": "C2015C00160",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04609',start=2015-03-25,retrospectivestart=2015-03-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04609/2015-03-25/text",
+   "sha256": "e5446bdedab44dcf84684fd26bef82bd99dff78cba1accc43b74aa09a4ff031a"
+  },
+  {
+   "in_force": "2018-03-30",
+   "register_id": "C2018C00103",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04609',start=2018-03-30,retrospectivestart=2018-03-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04609/2018-03-30/text",
+   "sha256": "d541411da09dda0809345c563d2b79c94c9536d314c0e41927fffdc105e6dbf0"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00445",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04609',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04609/2026-09-19/text",
+   "sha256": "5969317e4c1db6c2cd7e2debc0059511b3d26fc98c04c67b8c6b027407c0a48a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1993-10-27",
+   "acts": []
+  },
+  {
+   "in_force": "1993-11-09",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-12-18",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2010",
+    "Financial Framework Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

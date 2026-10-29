@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A01379",
+ "name": "James Hardie (Investigations and Proceedings) Act 2004",
+ "folder": "james-hardie-investigations-and-proceedings-act-2004",
+ "compilations": [
+  {
+   "in_force": "2004-12-14",
+   "register_id": "C2004A01379",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01379',start=2004-12-14,retrospectivestart=2004-12-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01379/2004-12-14/text",
+   "sha256": "b0b5f44a41ca3e890832d2c1c1bd1948bfddce713f40bd58265d39ca3dd62d53"
+  },
+  {
+   "in_force": "2007-07-26",
+   "register_id": "C2007C00482",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01379',start=2007-07-26,retrospectivestart=2007-07-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01379/2007-07-26/text",
+   "sha256": "0b3f98534f6dbbc9778823073d86c38f23cce8d6f72d553ad90b50c78a383e44"
+  },
+  {
+   "in_force": "2015-10-14",
+   "register_id": "C2015C00555",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01379',start=2015-10-14,retrospectivestart=2015-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01379/2015-10-14/text",
+   "sha256": "8d94900fa7d6d98ca03e5d89d6db177440ff0a742c3af0adf2859e8944c855d5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

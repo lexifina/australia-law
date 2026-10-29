@@ -1,0 +1,584 @@
+{
+ "title_id": "C2004A03596",
+ "name": "Child Support (Registration and Collection) Act 1988",
+ "folder": "child-support-registration-and-collection-act-1988",
+ "compilations": [
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00591",
+   "compilation": "75",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03596',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03596/2025-11-01/text",
+   "sha256": "57f63118485c2b7b4635329c363a94fce36a2389c0690d070114df436f35af9d"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00692",
+   "compilation": "76",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03596',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03596/2025-12-05/text",
+   "sha256": "595f91133aef9520d4d05e10b0a3baf0d037b56d6c324da0a0a8587fb126b525"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00287",
+   "compilation": "77",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03596',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03596/2026-07-01/text",
+   "sha256": "520324d58ae4f32c205728007724b426ea4af590553e746d2d7ce3aa8a6580f5"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-03-09",
+   "acts": []
+  },
+  {
+   "in_force": "1988-06-01",
+   "acts": [
+    "Child Support Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1988-12-22",
+   "acts": [
+    "Child Support Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-10-01",
+   "acts": [
+    "Child Support (Assessment) Act 1989",
+    "Child Support (Assessment) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act (No. 3) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-12-28",
+   "acts": [
+    "Child Support Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-12-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-04-06",
+   "acts": [
+    "Child Support Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Child Support Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-01",
+   "acts": [
+    "Child Support Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-06-16",
+   "acts": [
+    "Insolvency (Tax Priorities) Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-06-23",
+   "acts": [
+    "Corporate Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-05-29",
+   "acts": [
+    "Child Support Legislation Amendment Act 1995",
+    "Child Support Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-12",
+   "acts": [
+    "Family Law Reform (Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1995"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Commonwealth Services Delivery Agency (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-21",
+   "acts": [
+    "Child Support Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-06-23",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1998"
+   ]
+  },
+  {
+   "in_force": "1998-12-15",
+   "acts": [
+    "Child Support Legislation Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Child Support Legislation Amendment Act 1998",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999",
+    "Child Support Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-05-03",
+   "acts": [
+    "Child Support Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "New Business Tax System (Alienation of Personal Services Income) Act 2000",
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-12-27",
+   "acts": [
+    "Family Law Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-30",
+   "acts": [
+    "Child Support Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-19",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Child Support Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-04-07",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2006-05-04",
+   "acts": [
+    "Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-15",
+   "acts": [
+    "Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Jurisdiction of Courts (Family Law) Act 2006",
+    "Family Law Amendment (Shared Parental Responsibility) Act 2006",
+    "Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-08",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs and Veterans' Affairs Legislation Amendment (2006 Budget Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006",
+    "Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Superannuation Legislation Amendment (Simplification) Act 2007",
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-21",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-22",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-19",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006",
+    "Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006",
+    "Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2008 Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-06",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-01",
+   "acts": [
+    "Family Law Amendment (De Facto Financial Matters and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-05-11",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-03",
+   "acts": [
+    "Tax Laws Amendment (2010 Measures No. 1) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010",
+    "Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-10-01",
+   "acts": [
+    "Paid Parental Leave (Consequential Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-08-05",
+   "acts": [
+    "Child Support (Registration and Collection) Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-30",
+   "acts": [
+    "Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-17",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-11",
+   "acts": [
+    "Personal Liability for Corporate Fault Reform Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-15",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-04-07",
+   "acts": [
+    "Social Services and Other Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-02-25",
+   "acts": [
+    "Treasury Legislation Amendment (Repeal Day) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-14",
+   "acts": [
+    "Civil Law and Justice (Omnibus Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Australian Immunisation Register (Consequential and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015",
+    "Statute Law Revision Act (No. 1) 2016",
+    "Courts Administration Legislation Amendment Act 2016",
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-11-17",
+   "acts": [
+    "Statute Law Revision (Spring 2016) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-05-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Family Assistance and Child Support Legislation Amendment (Protecting Children) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-02-01",
+   "acts": [
+    "Services Australia Governance Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 2) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-11-20",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2020-11-21",
+   "acts": [
+    "Services Australia Governance Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Exempting Disability Payments from Income Testing and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-02-18",
+   "acts": [
+    "Courts and Tribunals Legislation Amendment (2021 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-08-17",
+   "acts": [
+    "Courts and Tribunals Legislation Amendment (2021 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Social Services Legislation Amendment (Child Support Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Disability Services and Inclusion (Consequential Amendments and Transitional Provisions) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-11",
+   "acts": [
+    "Family Law Amendment Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

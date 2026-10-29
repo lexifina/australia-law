@@ -1,0 +1,32 @@
+{
+ "title_id": "C2015A00094",
+ "name": "Export Charges (Imposition—Excise) Act 2015",
+ "folder": "export-charges-impositionexcise-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-06-29",
+   "register_id": "C2015A00094",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00094',start=2015-06-29,retrospectivestart=2015-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00094/2015-06-29/text",
+   "sha256": "8a7833f0f56061fb9f1b868f76e1b7da7a086b5f12b55737fc3642e1cc42962f"
+  },
+  {
+   "in_force": "2021-03-28",
+   "register_id": "C2021C00173",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00094',start=2021-03-28,retrospectivestart=2021-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00094/2021-03-28/text",
+   "sha256": "48b0f15971a46751288bab5801566b01d3c25c1b84ae627d2ff40c14290435c2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

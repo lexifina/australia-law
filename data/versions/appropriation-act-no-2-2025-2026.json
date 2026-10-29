@@ -1,0 +1,40 @@
+{
+ "title_id": "C2025A00048",
+ "name": "Appropriation Act (No. 2) 2025-2026",
+ "folder": "appropriation-act-no-2-2025-2026",
+ "compilations": [
+  {
+   "in_force": "2025-10-29",
+   "register_id": "C2025A00048",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00048',start=2025-10-29,retrospectivestart=2025-10-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00048/2025-10-29/text",
+   "sha256": "90f8cc18181d4dccc6e8416b97835985d5dc1524c18724776ffc57e249d70230"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2028-07-01",
+   "acts": [
+    "Appropriation Act (No. 2) 2025-2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": {
+  "day": "2028-07-01",
+  "status": "Repealed",
+  "acts": [
+   [
+    48,
+    2025
+   ]
+  ],
+  "markdown": [
+   "s 16 of the [Appropriation Act (No. 2) 2025-2026](/C2025A00048)"
+  ]
+ }
+}

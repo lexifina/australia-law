@@ -1,0 +1,93 @@
+{
+ "title_id": "C2018A00045",
+ "name": "National Redress Scheme for Institutional Child Sexual Abuse Act 2018",
+ "folder": "national-redress-scheme-for-institutional-child-sexual-abuse-act-2018",
+ "compilations": [
+  {
+   "in_force": "2021-12-03",
+   "register_id": "C2021C00567",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00045',start=2021-12-03,retrospectivestart=2021-12-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00045/2021-12-03/text",
+   "sha256": "733199dd5fc5e99ce743b96f282d78448f15a596708358929aea5516fe3dff0a"
+  },
+  {
+   "in_force": "2024-04-04",
+   "register_id": "C2024C00135",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00045',start=2024-04-04,retrospectivestart=2024-04-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00045/2024-04-04/text",
+   "sha256": "a92ac5008165aa21e6920bcdb98059b274b5591a838d12c21a8a237895224e71"
+  },
+  {
+   "in_force": "2024-09-28",
+   "register_id": "C2024C00613",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00045',start=2024-09-28,retrospectivestart=2024-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00045/2024-09-28/text",
+   "sha256": "d644003490d4b9b40c478ccdf9c198dd9e274854cfb2834accd616481202989e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2018-06-21",
+   "acts": []
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "National Redress Scheme for Institutional Child Sexual Abuse Amendment (Technical Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2020-02-01",
+   "acts": [
+    "Services Australia Governance Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2021-03-02",
+   "acts": [
+    "National Redress Scheme for Institutional Child Sexual Abuse Amendment (Technical Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-14",
+   "acts": [
+    "National Redress Scheme for Institutional Child Sexual Abuse Amendment Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-17",
+   "acts": [
+    "National Redress Scheme for Institutional Child Sexual Abuse Amendment Act 2021",
+    "National Redress Scheme for Institutional Child Sexual Abuse Amendment Act 2021",
+    "National Redress Scheme for Institutional Child Sexual Abuse Amendment Act 2021",
+    "National Redress Scheme for Institutional Child Sexual Abuse Amendment Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

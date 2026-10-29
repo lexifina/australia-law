@@ -1,0 +1,54 @@
+{
+ "title_id": "C2019A00068",
+ "name": "National Sports Tribunal Act 2019",
+ "folder": "national-sports-tribunal-act-2019",
+ "compilations": [
+  {
+   "in_force": "2020-07-01",
+   "register_id": "C2020C00224",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00068',start=2020-07-01,retrospectivestart=2020-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00068/2020-07-01/text",
+   "sha256": "9de1dd96dec9805fdbef8401f95d58c2e0dfca84e236d57086dbe2b626a47758"
+  },
+  {
+   "in_force": "2021-01-01",
+   "register_id": "C2021C00107",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00068',start=2021-01-01,retrospectivestart=2021-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00068/2021-01-01/text",
+   "sha256": "807ef6325c71e1a1b34e51b680361d944e6acfbbd84c4484fd4a4ffe55f31bab"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00550",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00068',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00068/2021-09-01/text",
+   "sha256": "f2ea03d0cbda319b750845f1c062084dca1fa9f32fa97ed3e5049ee61c2b90cc"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2019-09-19",
+   "acts": []
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Sport Legislation Amendment (World Anti-Doping Code Implementation) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

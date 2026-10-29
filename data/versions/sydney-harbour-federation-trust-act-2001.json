@@ -1,0 +1,96 @@
+{
+ "title_id": "C2004A00779",
+ "name": "Sydney Harbour Federation Trust Act 2001",
+ "folder": "sydney-harbour-federation-trust-act-2001",
+ "compilations": [
+  {
+   "in_force": "2021-06-24",
+   "register_id": "C2021C00262",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00779',start=2021-06-24,retrospectivestart=2021-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00779/2021-06-24/text",
+   "sha256": "c1aa69eab6e5031861072e8d1646288e8013541a9b087e41823eda7f0b4bc4c4"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00477",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00779',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00779/2021-09-01/text",
+   "sha256": "f948e244f0f9685a9a26ae8ec629a252eaf5f5bf43c41d231b268955ed6fa127"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00642",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00779',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00779/2024-10-14/text",
+   "sha256": "caa1c1c61360615cb3015c37e2104e4c5da9c3255b4ed6a101710d8b8c68e299"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2001-03-20",
+   "acts": []
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-06",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Sydney Harbour Federation Trust Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,334 @@
+{
+ "title_id": "C2004A04014",
+ "name": "Patents Act 1990",
+ "folder": "patents-act-1990",
+ "compilations": [
+  {
+   "in_force": "2023-11-18",
+   "register_id": "C2023C00457",
+   "compilation": "51",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04014',start=2023-11-18,retrospectivestart=2023-11-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04014/2023-11-18/text",
+   "sha256": "c82263a219afc14fe9da2a62f48d9da8678fe0afa052e2e327fcfa3b7319aae0"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00455",
+   "compilation": "52",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04014',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04014/2024-10-14/text",
+   "sha256": "053f651db7153e17f2037f09a0105006c43f4a8366e737cb9b0cfa2fd409c6d1"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00446",
+   "compilation": "53",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04014',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04014/2026-09-19/text",
+   "sha256": "25fb6e21f3427bd93f7a7d66c6fbde33c457d7869a5c70d3ca470a7d6ef5286e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-10-30",
+   "acts": []
+  },
+  {
+   "in_force": "1991-06-15",
+   "acts": [
+    "Industry, Technology and Commerce Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1994-06-29",
+   "acts": [
+    "Industry, Technology and Regional Development Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-12",
+   "acts": [
+    "Industry, Science and Technology Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-01-10",
+   "acts": [
+    "Patents (World Trade Organization Amendments) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Patents (World Trade Organization Amendments) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1998-07-27",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-01-27",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 1998",
+    "Intellectual Property Laws Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Patents Amendment Act 2001",
+    "Statute Law Revision Act 2005",
+    "Patents Amendment (Innovation Patents) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-04-01",
+   "acts": [
+    "Patents Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-10-04",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2003-07-24",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-08-26",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-08-16",
+   "acts": [
+    "US Free Trade Agreement Implementation Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-09-28",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-10-25",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-27",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010",
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2012-04-16",
+   "acts": [
+    "Intellectual Property Laws Amendment (Raising the Bar) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-15",
+   "acts": [
+    "Intellectual Property Laws Amendment (Raising the Bar) Act 2012",
+    "Intellectual Property Laws Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-02-26",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-08-25",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 2015",
+    "Intellectual Property Laws Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-01-23",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-02-24",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 2015",
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-02-24",
+   "acts": [
+    "Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-02-27",
+   "acts": [
+    "Intellectual Property Laws Amendment (Productivity Commission Response Part 2 and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-06-26",
+   "acts": [
+    "Therapeutic Goods Amendment (2020 Measures No. 1) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-08-26",
+   "acts": [
+    "Intellectual Property Laws Amendment (Productivity Commission Response Part 2 and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Territories Legislation Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-08-26",
+   "acts": [
+    "Intellectual Property Laws Amendment (Productivity Commission Response Part 2 and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

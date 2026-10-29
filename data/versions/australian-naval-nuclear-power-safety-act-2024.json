@@ -1,0 +1,32 @@
+{
+ "title_id": "C2024A00091",
+ "name": "Australian Naval Nuclear Power Safety Act 2024",
+ "folder": "australian-naval-nuclear-power-safety-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-10-24",
+   "register_id": "C2024A00091",
+   "compilation": "0",
+   "rectification": 3,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00091',start=2024-10-24,retrospectivestart=2024-10-24,rectificationversionnumber=3,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00091/2024-10-24/text",
+   "sha256": "45eaf0e19812e56c066ecc3bf9ec2d9c53b1dbf7d7d3ddeaf5b2ab327153e4e8"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2026C00088",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00091',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00091/2025-11-01/text",
+   "sha256": "3c61e9f928acbd9f6294996799eed4a04f9ccc311a400f1048edb83d93624dc1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

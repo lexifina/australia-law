@@ -1,0 +1,66 @@
+{
+ "title_id": "C2004A04060",
+ "name": "European Bank for Reconstruction and Development Act 1990",
+ "folder": "european-bank-for-reconstruction-and-development-act-1990",
+ "compilations": [
+  {
+   "in_force": "2013-09-12",
+   "register_id": "C2013C00667",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04060',start=2013-09-12,retrospectivestart=2013-09-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04060/2013-09-12/text",
+   "sha256": "a76023ac833e2273e521ea4cbea710f2b43653563a7bfabeed93cb37bd677f78"
+  },
+  {
+   "in_force": "2024-07-10",
+   "register_id": "C2024C00301",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04060',start=2024-07-10,retrospectivestart=2024-07-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04060/2024-07-10/text",
+   "sha256": "f0335587d93bb98efc9e9eb9aec18e92cf10e968abba4631bb65d78ddb463ce4"
+  },
+  {
+   "in_force": "2026-04-09",
+   "register_id": "C2026C00169",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04060',start=2026-04-09,retrospectivestart=2026-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04060/2026-04-09/text",
+   "sha256": "7d52e18b57fc3c702747d0c4bc50d7fa5db2b4e70c61b04eff63d36733818432"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-12-28",
+   "acts": []
+  },
+  {
+   "in_force": "2005-12-19",
+   "acts": [
+    "European Bank for Reconstruction and Development Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-10-14",
+   "acts": [
+    "European Bank for Reconstruction and Development Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2012-08-22",
+   "acts": [
+    "European Bank for Reconstruction and Development Regulation 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

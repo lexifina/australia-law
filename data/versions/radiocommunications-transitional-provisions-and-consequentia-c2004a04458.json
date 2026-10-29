@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A04458",
+ "name": "Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992",
+ "folder": "radiocommunications-transitional-provisions-and-consequentia-c2004a04458",
+ "compilations": [
+  {
+   "in_force": "1992-12-11",
+   "register_id": "C2004A04458",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04458',start=1992-12-11,retrospectivestart=1992-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04458/1992-12-11/text",
+   "sha256": "e6c1190649bc382b934ffc441f0114df2b805001f3e9194e6fa712ac6bc00812"
+  },
+  {
+   "in_force": "2014-10-17",
+   "register_id": "C2014C00746",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04458',start=2014-10-17,retrospectivestart=2014-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04458/2014-10-17/text",
+   "sha256": "a6ad3970ae740ed5b20dbe2076f8fee1a447e424ed40d03cd709689ac286e713"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

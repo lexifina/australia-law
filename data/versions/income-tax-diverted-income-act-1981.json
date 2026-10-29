@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A02489",
+ "name": "Income Tax (Diverted Income) Act 1981",
+ "folder": "income-tax-diverted-income-act-1981",
+ "compilations": [
+  {
+   "in_force": "1981-06-24",
+   "register_id": "C2004A02489",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02489',start=1981-06-24,retrospectivestart=1981-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02489/1981-06-24/text",
+   "sha256": "5173da3f3d5bd8b010af278f209f3be0ffa50cbe9b94093f61c5d9828bc1d7d3"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

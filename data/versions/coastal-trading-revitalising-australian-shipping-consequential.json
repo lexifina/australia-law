@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00056",
+ "name": "Coastal Trading (Revitalising Australian Shipping) (Consequential Amendments and Transitional Provisions) Act 2012",
+ "folder": "coastal-trading-revitalising-australian-shipping-consequential",
+ "compilations": [
+  {
+   "in_force": "2012-06-21",
+   "register_id": "C2012A00056",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00056',start=2012-06-21,retrospectivestart=2012-06-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00056/2012-06-21/text",
+   "sha256": "d4879d99faa2596791b47942f909647e7560e1bebd7fe4ae0bf5bd599a5595d5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

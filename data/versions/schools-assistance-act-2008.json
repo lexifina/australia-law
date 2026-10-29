@@ -1,0 +1,60 @@
+{
+ "title_id": "C2008A00153",
+ "name": "Schools Assistance Act 2008",
+ "folder": "schools-assistance-act-2008",
+ "compilations": [
+  {
+   "in_force": "2011-10-15",
+   "register_id": "C2011C00862",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00153',start=2011-10-15,retrospectivestart=2011-10-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00153/2011-10-15/text",
+   "sha256": "11c9e38e3379a855c1a50117ef9ff215a26a8c4eff18ce5e303cf0743b6a4607"
+  },
+  {
+   "in_force": "2014-01-01",
+   "register_id": "C2014C00004",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00153',start=2014-01-01,retrospectivestart=2014-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00153/2014-01-01/text",
+   "sha256": "092e24bf534035f6501ce5a1582f84b4044b8ccc2d672620cf0c2cae6901ece2"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00447",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00153',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00153/2016-03-05/text",
+   "sha256": "3dae3f02078704b70b364330ecef5d9e4eac3650a6dd4a205b98ad4425d36ba9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2008-12-11",
+   "acts": []
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-22",
+   "acts": [
+    "Schools Assistance Amendment (Financial Assistance) Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

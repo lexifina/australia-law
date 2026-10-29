@@ -1,0 +1,34 @@
+{
+ "title_id": "C2004A02099",
+ "name": "High Court Justices (Long Leave Payments) Act 1979",
+ "folder": "high-court-justices-long-leave-payments-act-1979",
+ "compilations": [
+  {
+   "in_force": "1985-03-14",
+   "register_id": "C2004C00500",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02099',start=1985-03-14,retrospectivestart=1985-03-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02099/1985-03-14/text",
+   "sha256": "84cba3ce64baaa23532f65f9a0eb5986385e951170814c3b0108201a0321a7d4"
+  },
+  {
+   "in_force": "2008-12-10",
+   "register_id": "C2008C00651",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02099',start=2008-12-10,retrospectivestart=2008-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02099/2008-12-10/text",
+   "sha256": "e78f85d7bef67da631fbcdcff4cf2173d66525fcb66caa725913bc0860ec77f2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1979-08-31"
+ ],
+ "repeal": null
+}

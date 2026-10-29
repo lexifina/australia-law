@@ -1,0 +1,72 @@
+{
+ "title_id": "C2017A00090",
+ "name": "Petroleum and Other Fuels Reporting Act 2017",
+ "folder": "petroleum-and-other-fuels-reporting-act-2017",
+ "compilations": [
+  {
+   "in_force": "2023-10-17",
+   "register_id": "C2023C00325",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00090',start=2023-10-17,retrospectivestart=2023-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00090/2023-10-17/text",
+   "sha256": "2cf556d69d51173b4dba7d47d9629c09bd529ef673a8f44b66e169100ddf1d00"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00673",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00090',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00090/2025-12-05/text",
+   "sha256": "bb262b9b4e285ff7cfc2e372c0c7a3ae40b41242c68504305b8ec984dc98960b"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00310",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00090',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00090/2026-07-01/text",
+   "sha256": "41f457ca97da1c134cc79f1a4d3c6420d85b1bb6c07499072a66cbfa630bf675"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2017-08-23",
+   "acts": []
+  },
+  {
+   "in_force": "2017-10-31",
+   "acts": [
+    "Australian Border Force Amendment (Protected Information) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-06-30",
+   "acts": [
+    "Fuel Security (Consequential and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

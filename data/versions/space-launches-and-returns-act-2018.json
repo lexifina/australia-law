@@ -1,0 +1,95 @@
+{
+ "title_id": "C2004A00391",
+ "name": "Space (Launches and Returns) Act 2018",
+ "folder": "space-launches-and-returns-act-2018",
+ "compilations": [
+  {
+   "in_force": "2019-08-31",
+   "register_id": "C2019C00246",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00391',start=2019-08-31,retrospectivestart=2019-08-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00391/2019-08-31/text",
+   "sha256": "423fe4745e705d927fb50a458ed28520734ae67746c7c369568fa0df61990872"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00394",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00391',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00391/2021-09-01/text",
+   "sha256": "c357de8b20dee4e494063016edce7354d51b94b5fc4c5712cac866bb18583652"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00335",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00391',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00391/2023-10-18/text",
+   "sha256": "4e01c5a7985d28b5be01c44d082cb985565f4b585a342e114106b0051f89fa93"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00604",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00391',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00391/2024-10-14/text",
+   "sha256": "5bfc89e67b20df7693179fe11c0d8e558253af46d1b14e06dcc4d1978569dfe5"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-12-21",
+   "acts": []
+  },
+  {
+   "in_force": "2001-09-04",
+   "acts": [
+    "Space Activities Amendment (Bilateral Agreement) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-12-01",
+   "acts": [
+    "Space Activities Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

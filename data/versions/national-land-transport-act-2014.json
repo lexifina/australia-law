@@ -1,0 +1,73 @@
+{
+ "title_id": "C2005A00093",
+ "name": "National Land Transport Act 2014",
+ "folder": "national-land-transport-act-2014",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00392",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00093',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00093/2016-03-05/text",
+   "sha256": "12d2a45a5a3d63edc0dfcafd212d66b2e47877658afcd74dcd71029feda35711"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00862",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00093',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00093/2016-07-01/text",
+   "sha256": "cff2ed5f86dfa8d134bf18011872af296ea84897ef39e8bea358632fa15a863a"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00226",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00093',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00093/2018-06-19/text",
+   "sha256": "cf44e0859967dff4a954a41137d57be7343417a100fcbeec5113be996d2b5353"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2005-07-06",
+   "acts": []
+  },
+  {
+   "in_force": "2008-10-19",
+   "acts": [
+    "AusLink (National Land Transport) Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-06-27",
+   "acts": [
+    "Nation Building Program (National Land Transport) Amendment Act 2009",
+    "Nation Building Program (National Land Transport) Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2014-10-10",
+   "acts": [
+    "Land Transport Infrastructure Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

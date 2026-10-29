@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A02525",
+ "name": "Epidemiological Studies (Confidentiality) Act 1981",
+ "folder": "epidemiological-studies-confidentiality-act-1981",
+ "compilations": [
+  {
+   "in_force": "2001-09-17",
+   "register_id": "C2004C00187",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02525',start=2001-09-17,retrospectivestart=2001-09-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02525/2001-09-17/text",
+   "sha256": "8e79be7c97b6ef13a1b5874df7ca28a1b3fd30314a0be8b9334df7dff61c3f2a"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00344",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02525',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02525/2008-07-04/text",
+   "sha256": "6089e0c57a8874616f613ae858298a5645b663be36e552126163ec3ae6ddd5d8"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01092",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02525',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02525/2016-10-21/text",
+   "sha256": "b7ba1f7be3322de2560951caba45d6cb584be6158cdffd93f50bec46dd53c206"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1981-10-26",
+   "acts": []
+  },
+  {
+   "in_force": "1984-10-25",
+   "acts": [
+    "Health Legislation Amendment Act 1984"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

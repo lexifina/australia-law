@@ -1,0 +1,21 @@
+{
+ "title_id": "C2024A00086",
+ "name": "Parliamentary Workplace Support Service Amendment (Independent Parliamentary Standards Commission) Act 2024",
+ "folder": "parliamentary-workplace-support-service-amendment-independent",
+ "compilations": [
+  {
+   "in_force": "2024-09-17",
+   "register_id": "C2024A00086",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00086',start=2024-09-17,retrospectivestart=2024-09-17,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00086/2024-09-17/text",
+   "sha256": "55d5403fdc9d2269b2ecb651f0fac7128473ff7006dd0de97a6daa206bf980e5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

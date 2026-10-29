@@ -1,0 +1,45 @@
+{
+ "title_id": "C1967A00091",
+ "name": "Defence Forces Retirement Benefits (Pension Increases) Act 1967",
+ "folder": "defence-forces-retirement-benefits-pension-increases-act-1967",
+ "compilations": [
+  {
+   "in_force": "1978-06-12",
+   "register_id": "C2004C00482",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1967A00091',start=1978-06-12,retrospectivestart=1978-06-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1967A00091/1978-06-12/text",
+   "sha256": "59127637f3d5ac342b12ca1297538865c1c3b6f31c185ec0e33b1799aead7198"
+  },
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00294",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1967A00091',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1967A00091/2011-04-19/text",
+   "sha256": "18f4fa0c7e11ea67b764aa23e9b5a95629503855971c4f4b25c39255dfa3ed25"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00579",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1967A00091',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1967A00091/2014-07-01/text",
+   "sha256": "86557b3184a8698cc2c5ea7989464bef2bac20fa4b02b1a2026359e8b16a5e08"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1967-11-08"
+ ],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00616",
+ "name": "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000",
+ "folder": "financial-sector-reform-amendments-and-transitional-provisio-c2004a00616",
+ "compilations": [
+  {
+   "in_force": "1997-06-30",
+   "register_id": "C2004A00616",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00616',start=1997-06-30,retrospectivestart=1997-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00616/1997-06-30/text",
+   "sha256": "424c1952f7f6d1d1700023dba9d74b09f701fd0eea8c9e5c58a87f51ee5b7fe2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

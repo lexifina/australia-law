@@ -1,0 +1,21 @@
+{
+ "title_id": "C2018A00086",
+ "name": "Underwater Cultural Heritage (Consequential and Transitional Provisions) Act 2018",
+ "folder": "underwater-cultural-heritage-consequential-and-transitional-provisions",
+ "compilations": [
+  {
+   "in_force": "2018-08-24",
+   "register_id": "C2018A00086",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00086',start=2018-08-24,retrospectivestart=2018-08-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00086/2018-08-24/text",
+   "sha256": "1f31a0cd9b0504fa5c85d5d5c89eb9a4b6cea0f3b16516d9f6e329f083f6f13c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00519",
+ "name": "Superannuation (Unclaimed Money and Lost Members) Consequential and Transitional Act 1999",
+ "folder": "superannuation-unclaimed-money-and-lost-members-consequential-and",
+ "compilations": [
+  {
+   "in_force": "1997-06-02",
+   "register_id": "C2004A00519",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00519',start=1997-06-02,retrospectivestart=1997-06-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00519/1997-06-02/text",
+   "sha256": "2ba62304eca8480310ee974e1d62eed741e0cd5a8528f9c19bed8b6dbbe83dcb"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,34 @@
+{
+ "title_id": "C2004A04947",
+ "name": "Aircraft Noise Levy Act 1995",
+ "folder": "aircraft-noise-levy-act-1995",
+ "compilations": [
+  {
+   "in_force": "2010-03-01",
+   "register_id": "C2010C00174",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04947',start=2010-03-01,retrospectivestart=2010-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04947/2010-03-01/text",
+   "sha256": "1a416dfcdf872cb7e61aaa18bc9fa06a57b8cd5ef3ca547ebc1fc826bfbef15f"
+  },
+  {
+   "in_force": "2012-12-03",
+   "register_id": "C2012C00908",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04947',start=2012-12-03,retrospectivestart=2012-12-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04947/2012-12-03/text",
+   "sha256": "b4578fdde028b908061f678d31896d85f9dcaad36d37f137c6f635b58710ebc4"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1995-09-05"
+ ],
+ "repeal": null
+}

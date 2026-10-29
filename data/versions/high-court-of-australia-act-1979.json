@@ -1,0 +1,168 @@
+{
+ "title_id": "C2004A02147",
+ "name": "High Court of Australia Act 1979",
+ "folder": "high-court-of-australia-act-1979",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00966",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02147',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02147/2016-10-21/text",
+   "sha256": "c4ce9b89c19448b9e326d6503a98699969e60dea71d182db859f1d01d2a545a6"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2025C00002",
+   "compilation": "16",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02147',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02147/2024-12-11/text",
+   "sha256": "c23e24657b13b213f50a0a8e20756ebce53cae2ac04de52c6f846e505fbbb6e1"
+  },
+  {
+   "in_force": "2026-03-28",
+   "register_id": "C2026C00135",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02147',start=2026-03-28,retrospectivestart=2026-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02147/2026-03-28/text",
+   "sha256": "2e2f0a4844f7d83cf79869f94229c321408a38dddec88295c781f3cbd9e9db37"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1979-11-23",
+   "acts": []
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-09",
+   "acts": [
+    "Lands Acquisition (Repeal and Consequential Provisions) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-05",
+   "acts": [
+    "Courts and Tribunals Administration Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Law and Justice Legislation Amendment (Northern Territory Local Court) Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

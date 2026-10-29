@@ -1,0 +1,60 @@
+{
+ "title_id": "C2018A00155",
+ "name": "Office of National Intelligence Act 2018",
+ "folder": "office-of-national-intelligence-act-2018",
+ "compilations": [
+  {
+   "in_force": "2023-07-01",
+   "register_id": "C2023C00169",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00155',start=2023-07-01,retrospectivestart=2023-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00155/2023-07-01/text",
+   "sha256": "ee564683a7028a3e0ae5ccb00c0bbc2e92997295bedca14a710e3b515cd262c0"
+  },
+  {
+   "in_force": "2023-09-21",
+   "register_id": "C2023C00273",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00155',start=2023-09-21,retrospectivestart=2023-09-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00155/2023-09-21/text",
+   "sha256": "6a45b8caf0e091fb172a801d92e7883a06e7d6a9567ac556a8778bb7c4bb9dd9"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00229",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00155',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00155/2026-06-04/text",
+   "sha256": "a7d3c4dfb1593723633f19efd8de6cd103e755abf01c9c3f32d6f9cedc529647"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2018-12-10",
+   "acts": []
+  },
+  {
+   "in_force": "2022-04-02",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-10-01",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 1) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

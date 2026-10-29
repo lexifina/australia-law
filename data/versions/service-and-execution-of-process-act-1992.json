@@ -1,0 +1,133 @@
+{
+ "title_id": "C2004A04463",
+ "name": "Service and Execution of Process Act 1992",
+ "folder": "service-and-execution-of-process-act-1992",
+ "compilations": [
+  {
+   "in_force": "2013-10-11",
+   "register_id": "C2013C00641",
+   "compilation": "17",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04463',start=2013-10-11,retrospectivestart=2013-10-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04463/2013-10-11/text",
+   "sha256": "5ac3bc891f7ae55f64a79d873412b4eb51ad6326f393d94318a7d7a9f5439101"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01000",
+   "compilation": "18",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04463',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04463/2016-10-21/text",
+   "sha256": "0f5e0d6209bdf709e36e308e0d24de4ae70964e05280aa677c1cd2651f818dcb"
+  },
+  {
+   "in_force": "2018-05-11",
+   "register_id": "C2018C00175",
+   "compilation": "19",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04463',start=2018-05-11,retrospectivestart=2018-05-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04463/2018-05-11/text",
+   "sha256": "9d8d398a12e9199a31f75d73178185f97d44b9433ce78e3e5e5ce13699388f22"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-12-11",
+   "acts": []
+  },
+  {
+   "in_force": "1994-11-28",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-26",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-10-17",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Company Law Review Act 1998"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-12-03",
+   "acts": [
+    "Crimes Legislation Enhancement Act 2003"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-09-07",
+   "acts": [
+    "Law and Justice (Cross Border and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-06-15",
+   "acts": [
+    "Service and Execution of Process Amendment (Interstate Fine Enforcement) Act 2010",
+    "Service and Execution of Process Amendment (Interstate Fine Enforcement) Act 2010"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

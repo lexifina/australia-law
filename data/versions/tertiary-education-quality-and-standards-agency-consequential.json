@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00074",
+ "name": "Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011",
+ "folder": "tertiary-education-quality-and-standards-agency-consequential",
+ "compilations": [
+  {
+   "in_force": "2011-06-29",
+   "register_id": "C2011A00074",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00074',start=2011-06-29,retrospectivestart=2011-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00074/2011-06-29/text",
+   "sha256": "8280f5f5eca61e4af950617132094629b60930248fb2a7704eb3a8dc953ce2d1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

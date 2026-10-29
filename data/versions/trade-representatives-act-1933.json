@@ -1,0 +1,95 @@
+{
+ "title_id": "C1933A00074",
+ "name": "Trade Representatives Act 1933",
+ "folder": "trade-representatives-act-1933",
+ "compilations": [
+  {
+   "in_force": "1999-12-05",
+   "register_id": "C2004C00642",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1933A00074',start=1999-12-05,retrospectivestart=1999-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1933A00074/1999-12-05/text",
+   "sha256": "8e68bd6641a208ad094621c430a729deb45d5c5c023c913259fa3e8cc998346d"
+  },
+  {
+   "in_force": "2008-12-10",
+   "register_id": "C2008C00693",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1933A00074',start=2008-12-10,retrospectivestart=2008-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1933A00074/2008-12-10/text",
+   "sha256": "ffa568ee46f431e96cd90024bade6cc4d35c86809cc508d316caaa90dc247a05"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00299",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1933A00074',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1933A00074/2016-03-05/text",
+   "sha256": "a395b22ae70a11f87fab29af89f7322b0ad53c1a22688facce944a6522d58e66"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00392",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1933A00074',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1933A00074/2023-10-18/text",
+   "sha256": "01ec71d49071e1bc3b64a7509640a4c818831484ae1a931c0264668864c02c31"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1933-12-15",
+   "acts": []
+  },
+  {
+   "in_force": "1936-12-01",
+   "acts": [
+    "Trade Commissioners Act 1936"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1981-03-15",
+   "acts": [
+    "Public Service Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-01-06",
+   "acts": [
+    "Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

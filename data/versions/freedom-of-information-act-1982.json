@@ -1,0 +1,978 @@
+{
+ "title_id": "C2004A02562",
+ "name": "Freedom of Information Act 1982",
+ "folder": "freedom-of-information-act-1982",
+ "compilations": [
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00600",
+   "compilation": "120",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02562',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02562/2025-11-01/text",
+   "sha256": "e00d4465a8660776c974fd0fcf4fa71a216e14f72dcaa598d8ae852bfd7a8a88"
+  },
+  {
+   "in_force": "2026-01-01",
+   "register_id": "C2026C00020",
+   "compilation": "121",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02562',start=2026-01-01,retrospectivestart=2026-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02562/2026-01-01/text",
+   "sha256": "45dc060f595915f66875d024e076e3d4ff6d5f606be75e72be2f6e849830434f"
+  },
+  {
+   "in_force": "2026-09-29",
+   "register_id": "C2026C00433",
+   "compilation": "122",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02562',start=2026-09-29,retrospectivestart=2026-09-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02562/2026-09-29/text",
+   "sha256": "0048e3b66d60bb380191bd714eb8dfa5c92aa31b894f35f0ec782b4497e4f32e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1982-03-09",
+   "acts": []
+  },
+  {
+   "in_force": "1983-07-01",
+   "acts": [
+    "Australian Broadcasting Corporation (Transitional Provisions and Consequential Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-01-01",
+   "acts": [
+    "Freedom of Information Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-12-24",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-11-18",
+   "acts": [
+    "Freedom of Information Laws Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-02-01",
+   "acts": [
+    "Intelligence and Security (Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-04-30",
+   "acts": [
+    "Australian Airlines (Conversion to Public Company) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "ANL (Conversion into Public Company) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-01-01",
+   "acts": [
+    "Postal Services Amendment Act 1988",
+    "Privacy Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-04-01",
+   "acts": [
+    "OTC (Conversion into Public Company) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-19",
+   "acts": [
+    "Snowy Mountains Engineering Corporation (Conversion into Public Company) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-06-30",
+   "acts": [
+    "Telecommunications Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-03-05",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Act 2005"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Federal Airports Corporation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-10-22",
+   "acts": [
+    "Defence Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-01",
+   "acts": [
+    "Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-17",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-10-25",
+   "acts": [
+    "Freedom of Information Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-11-01",
+   "acts": [
+    "Export Finance and Insurance Corporation (Transitional Provisions and Consequential Amendments) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-23",
+   "acts": [
+    "Special Broadcasting Service Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-02-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-10-27",
+   "acts": [
+    "Sales Tax Amendment (Transitional) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-07",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 4) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Electoral and Referendum Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-03-15",
+   "acts": [
+    "Prime Minister and Cabinet (Miscellaneous Provisions) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-05-30",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-06-23",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-19",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1994"
+   ]
+  },
+  {
+   "in_force": "1995-01-01",
+   "acts": [
+    "Employment Services (Consequential Amendments) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-08-30",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Transport Legislation Amendment Act (No. 3) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-07-19",
+   "acts": [
+    "Commonwealth Bank Sale Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Aged Care (Consequential Provisions) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-10-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-09-01",
+   "acts": [
+    "Judiciary Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Statute Stocktake Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-10",
+   "acts": [
+    "Ministers of State and Other Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-11-01",
+   "acts": [
+    "Australian National Railways Commission Sale Act 1997"
+   ]
+  },
+  {
+   "in_force": "2001-01-01",
+   "acts": [
+    "Broadcasting Services Amendment (Digital Television and Datacasting) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-02-01",
+   "acts": [
+    "Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-21",
+   "acts": [
+    "Gene Technology (Consequential Amendments) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "Pig Industry Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Intelligence Services (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-12-11",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-03-27",
+   "acts": [
+    "Communications Legislation Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-04-16",
+   "acts": [
+    "Inspector-General of Taxation Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Transport Safety Investigation (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-07-16",
+   "acts": [
+    "Migration Legislation Amendment (Protected Information) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-17",
+   "acts": [
+    "Defence Legislation Amendment Act 2003",
+    "Designs (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-05-16",
+   "acts": [
+    "Administrative Appeals Tribunal Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-11-08",
+   "acts": [
+    "Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-11-09",
+   "acts": [
+    "Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-02",
+   "acts": [
+    "Intelligence Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-06-13",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "National Health and Medical Research Council Amendment Act 2006",
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-11-24",
+   "acts": [
+    "Telstra (Transition to Full Private Ownership) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-12-13",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-12",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 1) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-07",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Classification (Publications, Films and Computer Games) Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Quarantine Amendment (Commission of Inquiry) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-12-07",
+   "acts": [
+    "Inspector of Transport Security (Consequential Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-01-20",
+   "acts": [
+    "Communications Legislation Amendment (Content Services) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Wheat Export Marketing (Repeal and Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-01",
+   "acts": [
+    "Archives Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-10-07",
+   "acts": [
+    "Freedom of Information (Removal of Conclusive Certificates and Other Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-10-09",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Territories Law Reform Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010",
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-11",
+   "acts": [
+    "Territories Law Reform Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010",
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-18",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2010",
+    "Financial Framework Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-22",
+   "acts": [
+    "AIDC Sale Act 1997",
+    "AIDC Sale Act 1997"
+   ]
+  },
+  {
+   "in_force": "2011-05-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010",
+    "Freedom of Information Amendment (Reform) Act 2010",
+    "Territories Law Reform Act 2010",
+    "Territories Law Reform Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-06-11",
+   "acts": [
+    "Telecommunications Legislation Amendment (National Broadband Network Measures—Access Arrangements) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Screen Australia (Transfer of Assets) Act 2011",
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-02-15",
+   "acts": [
+    "Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-04",
+   "acts": [
+    "Freedom of Information Amendment (Parliamentary Budget Office) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-28",
+   "acts": [
+    "Royal Commissions Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Courts Legislation Amendment (Judicial Complaints) Act 2012",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-12-13",
+   "acts": [
+    "Rural Research and Development Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Grape and Wine Legislation Amendment (Australian Grape and Wine Authority) Act 2013",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-03",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-01-01",
+   "acts": [
+    "Albury-Wodonga Development Corporation (Abolition) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Enhancing Online Safety for Children (Consequential Amendments) Act 2015",
+    "Tribunals Amalgamation Act 2015",
+    "Tribunals Amalgamation Act 2015",
+    "Judiciary Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-14",
+   "acts": [
+    "Civil Law and Justice (Omnibus Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-31",
+   "acts": [
+    "Banking Laws Amendment (Unclaimed Money) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Australian Immunisation Register (Consequential and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Trade Legislation Amendment Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015",
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "National Cancer Screening Register (Consequential and Transitional Provisions) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-03-22",
+   "acts": [
+    "Statute Update (A.C.T. Self-Government (Consequential Provisions) Regulations) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-06-23",
+   "acts": [
+    "Enhancing Online Safety for Children Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Independent Parliamentary Expenses Authority (Consequential Amendments) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-11-07",
+   "acts": [
+    "Australian Grape and Wine Authority Amendment (Wine Australia) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Parliamentary Business Resources (Consequential and Transitional Provisions) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "National Housing Finance and Investment Corporation (Consequential Amendments and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Intelligence Services Amendment (Establishment of the Australian Signals Directorate) Act 2018",
+    "National Redress Scheme for Institutional Child Sexual Abuse (Consequential Amendments) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-20",
+   "acts": [
+    "Office of National Intelligence (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-29",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Aged Care (Single Quality Framework) Reform Act 2018",
+    "Aged Care Quality and Safety Commission (Consequential Amendments and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-09-14",
+   "acts": [
+    "Royal Commissions Amendment (Private Sessions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-01",
+   "acts": [
+    "Services Australia Governance Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-03-19",
+   "acts": [
+    "National Sports Tribunal (Consequential Amendments and Transitional Provisions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Australian Sports Anti-Doping Authority Amendment (Sport Integrity Australia) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-11-20",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2021-05-17",
+   "acts": [
+    "Archives and Other Legislation Amendment Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-06-17",
+   "acts": [
+    "Territories Legislation Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-07-24",
+   "acts": [
+    "Telecommunications Legislation Amendment (International Production Orders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-11",
+   "acts": [
+    "Royal Commissions Amendment (Protection of Information) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-01",
+   "acts": [
+    "Financial Sector Reform (Hayne Royal Commission Response—Better Advice) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-23",
+   "acts": [
+    "Online Safety (Transitional Provisions and Consequential Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-04-01",
+   "acts": [
+    "Data Availability and Transparency (Consequential Amendments) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-10-01",
+   "acts": [
+    "Mitochondrial Donation Law Reform (Maeve’s Law) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-04-12",
+   "acts": [
+    "Royal Commissions Amendment (Enhancing Engagement) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-08-12",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 2) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-01",
+   "acts": [
+    "Parliamentary Workplace Support Service (Consequential Amendments and Transitional Provisions) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-12",
+   "acts": [
+    "Treasury Laws Amendment (Housing Measures No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Disability Services and Inclusion (Consequential Amendments and Transitional Provisions) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-04-04",
+   "acts": [
+    "National Redress Scheme for Institutional Child Sexual Abuse Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-05-22",
+   "acts": [
+    "National Occupational Respiratory Disease Registry (Consequential Amendments) Act 2023",
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 3) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024",
+    "Parliamentary Workplace Support Service Amendment (Independent Parliamentary Standards Commission) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-11-30",
+   "acts": [
+    "Intelligence Services and Other Legislation Amendment (Cyber Security) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-01-01",
+   "acts": [
+    "Primary Industries (Consequential Amendments and Transitional Provisions) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-01-07",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024",
+    "Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-21",
+   "acts": [
+    "Administrative Review Tribunal (Miscellaneous Measures) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

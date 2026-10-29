@@ -1,0 +1,138 @@
+{
+ "title_id": "C2005A00080",
+ "name": "Superannuation Act 2005",
+ "folder": "superannuation-act-2005",
+ "compilations": [
+  {
+   "in_force": "2022-09-28",
+   "register_id": "C2022C00286",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00080',start=2022-09-28,retrospectivestart=2022-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00080/2022-09-28/text",
+   "sha256": "ffcb8b6d79abbc5705ebc1923efd45c2d571d9e29a9a162b2a234faaa2e9147a"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00320",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00080',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00080/2026-07-01/text",
+   "sha256": "39d30b16097ecb361309303e34ec60936fb26b6aaa2dcc2f0e1cc72a7b8a064a"
+  },
+  {
+   "in_force": "2026-10-16",
+   "register_id": "C2026C00464",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00080',start=2026-10-16,retrospectivestart=2026-10-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00080/2026-10-16/text",
+   "sha256": "4dc25f943b8b773acedafc963e93c6b232227507b1c8d213350cab0fc9724d41"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2005-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-10-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Superannuation Safety and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Superannuation Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-20",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 7) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Governance of Australian Government Superannuation Schemes Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-09-11",
+   "acts": [
+    "Defence Legislation Amendment (Superannuation and ADF Cover) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-12-04",
+   "acts": [
+    "Superannuation Amendment (PSSAP Membership) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2021-03-07",
+   "acts": [
+    "Superannuation Amendment (PSSAP Membership) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-06-23",
+   "acts": [
+    "Treasury Laws Amendment (Your Future, Your Super) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-03-05",
+   "acts": [
+    "Treasury Laws Amendment (Putting Consumers First—Establishment of the Australian Financial Complaints Authority) Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

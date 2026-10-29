@@ -1,0 +1,150 @@
+{
+ "title_id": "C1972A00121",
+ "name": "Child Care Act 1972",
+ "folder": "child-care-act-1972",
+ "compilations": [
+  {
+   "in_force": "2010-11-01",
+   "register_id": "C2010C00719",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1972A00121',start=2010-11-01,retrospectivestart=2010-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1972A00121/2010-11-01/text",
+   "sha256": "2548113af123ba12394c33ed61fb13a007cc1570bb598e4a8f1893c81ea08b90"
+  },
+  {
+   "in_force": "2011-08-22",
+   "register_id": "C2011C00654",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1972A00121',start=2011-08-22,retrospectivestart=2011-08-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1972A00121/2011-08-22/text",
+   "sha256": "ff7382ac7590f01928cc2d72e112e591a82bb9f55ea4fc0aa4159cc2f702ee85"
+  },
+  {
+   "in_force": "2012-12-03",
+   "register_id": "C2012C00930",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1972A00121',start=2012-12-03,retrospectivestart=2012-12-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1972A00121/2012-12-03/text",
+   "sha256": "d59656453cddd7584bec3a589ff658edb1e38a4cf0ef7bfaf69f7310112550f6"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00512",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1972A00121',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1972A00121/2016-03-10/text",
+   "sha256": "d22598cf1605c1115104675a60c662fd9722dd8f48f88d953bff3c60c24ff861"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1972-11-02",
+   "acts": []
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-09-05",
+   "acts": [
+    "Social Security and Repatriation Legislation Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-10-03",
+   "acts": [
+    "Social Security and Repatriation Legislation Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-04-01",
+   "acts": [
+    "Child Care Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1988-12-26",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1990-12-18",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-01",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1996-01-01",
+   "acts": [
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Child Care Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-04-27",
+   "acts": [
+    "Child Care Legislation Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "2000-06-18",
+   "acts": [
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999",
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Social Security and Family Assistance Legislation Amendment (Miscellaneous Measures) Act 2006"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00069",
+ "name": "Cash Distribution Framework (Consequential Amendments and Transitional Provisions) Act 2026",
+ "folder": "cash-distribution-framework-consequential-amendments-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2026-08-26",
+   "register_id": "C2026A00069",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00069',start=2026-08-26,retrospectivestart=2026-08-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00069/2026-08-26/text",
+   "sha256": "66e04aed22c5c6a8d781a4a0af5a80ec8aad4a93cbd8de6f50f9cc79cd251b98"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

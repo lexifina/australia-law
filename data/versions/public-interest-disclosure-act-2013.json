@@ -1,0 +1,153 @@
+{
+ "title_id": "C2013A00133",
+ "name": "Public Interest Disclosure Act 2013",
+ "folder": "public-interest-disclosure-act-2013",
+ "compilations": [
+  {
+   "in_force": "2023-10-17",
+   "register_id": "C2023C00354",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00133',start=2023-10-17,retrospectivestart=2023-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00133/2023-10-17/text",
+   "sha256": "63ffd481db842d3a2fbbc4588d2775593d024ce8ed9b1d9431c92ba797595cf6"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00616",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00133',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00133/2024-10-14/text",
+   "sha256": "c8b6d0826afe7abe28e2c06fd748f340c6a09dd3f246b25660ca8d62f55f7dc7"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00225",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00133',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00133/2026-06-04/text",
+   "sha256": "4b2996c0c74bb93aa227c12dbcc8e7a95bdc0ec9bb7c5ab14be3344dcf59913c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2013-07-15",
+   "acts": []
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-03",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-30",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-28",
+   "acts": [
+    "Law Enforcement Legislation Amendment (Powers) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-14",
+   "acts": [
+    "Civil Law and Justice (Omnibus Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015",
+    "Courts Administration Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-11-30",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Courts Administration Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-12-20",
+   "acts": [
+    "Office of National Intelligence (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-04",
+   "acts": [
+    "Surveillance Legislation Amendment (Identify and Disrupt) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022",
+    "Public Interest Disclosure Amendment (Review) Act 2023",
+    "Public Interest Disclosure Amendment (Review) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-08-12",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 2) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-21",
+   "acts": [
+    "Inspector-General of Intelligence and Security and Other Legislation Amendment (Modernisation) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

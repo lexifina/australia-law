@@ -1,0 +1,399 @@
+{
+ "title_id": "C2004A02758",
+ "name": "Protection of the Sea (Prevention of Pollution from Ships) Act 1983",
+ "folder": "protection-of-the-sea-prevention-of-pollution-from-ships-act-1983",
+ "compilations": [
+  {
+   "in_force": "2020-03-01",
+   "register_id": "C2020C00098",
+   "compilation": "42",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02758',start=2020-03-01,retrospectivestart=2020-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02758/2020-03-01/text",
+   "sha256": "5a73f73c35da43271d732f8f270891f392f92fba9dc8c351b4a8d745b34964df"
+  },
+  {
+   "in_force": "2022-12-06",
+   "register_id": "C2022C00356",
+   "compilation": "43",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02758',start=2022-12-06,retrospectivestart=2022-12-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02758/2022-12-06/text",
+   "sha256": "2b1f8ebe34290935eb33c57265bb37aacfea6e2551c888376eb292e197fce192"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00540",
+   "compilation": "44",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02758',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02758/2024-10-14/text",
+   "sha256": "620c735519b78e0001ebd9f16365cac07bba5c49407dd90f729c95a23bc267c3"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1983-06-20",
+   "acts": []
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-01-14",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 1986",
+    "Protection of the Sea Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Transport Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-09-23",
+   "acts": [
+    "Protection of the Sea (Prevention of Pollution from Ships) Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-16",
+   "acts": [
+    "Transport Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-17",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-11-14",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1991-01-01",
+   "acts": [
+    "Australian Maritime Safety Authority Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-21",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-06-27",
+   "acts": [
+    "Transport Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-26",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-04-04",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1994-05-30",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-01-10",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1992",
+    "Protection of the Sea Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "2000-12-29",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "International Maritime Conventions Legislation Amendment Act 2001",
+    "International Maritime Conventions Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-04-05",
+   "acts": [
+    "Protection of the Sea (Prevention of Pollution from Ships) Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-03-19",
+   "acts": [
+    "Maritime Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-03-20",
+   "acts": [
+    "Maritime Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Protection of the Sea (Prevention of Pollution from Ships) Amendment Act 2002",
+    "Maritime Legislation Amendment (Prevention of Pollution from Ships) Act 2003",
+    "Maritime Legislation Amendment (Prevention of Pollution from Ships) Act 2003",
+    "Maritime Legislation Amendment (Prevention of Pollution from Ships) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-05-28",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-10-06",
+   "acts": [
+    "Maritime Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Maritime Legislation Amendment (Prevention of Pollution from Ships) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-16",
+   "acts": [
+    "Maritime Legislation Amendment (Prevention of Air Pollution from Ships) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-11-10",
+   "acts": [
+    "Maritime Legislation Amendment (Prevention of Air Pollution from Ships) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-10-03",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-01",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-10",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-08-05",
+   "acts": [
+    "Protection of the Sea (Prevention of Pollution from Ships) Amendment (Oil Transfers) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-05",
+   "acts": [
+    "Maritime Legislation Amendment Act 2011",
+    "Maritime Legislation Amendment Act 2011",
+    "Maritime Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-06",
+   "acts": [
+    "Protection of the Sea (Prevention of Pollution from Ships) Amendment (Oils in the Antarctic Area) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2012-09-26",
+   "acts": [
+    "Maritime Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Maritime Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-08",
+   "acts": [
+    "Maritime Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-01",
+   "acts": [
+    "Maritime Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2017-06-16",
+   "acts": [
+    "Protection of the Sea (Prevention of Pollution from Ships) Amendment (Polar Code) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-05-23",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-12-13",
+   "acts": [
+    "Protection of the Sea (Prevention of Pollution from Ships) Amendment (Air Pollution) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Protection of the Sea (Prevention of Pollution from Ships) Amendment (Air Pollution) Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

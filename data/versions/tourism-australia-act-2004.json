@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A01307",
+ "name": "Tourism Australia Act 2004",
+ "folder": "tourism-australia-act-2004",
+ "compilations": [
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00363",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01307',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01307/2011-12-27/text",
+   "sha256": "f0600ad8eedd66bfad5ef7aafaa9412db767f6090b08aaaaa4b17240f5a1e98e"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00461",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01307',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01307/2014-07-01/text",
+   "sha256": "a95690eea1ca5a973544e1d256825ea5a6618e97445598d67906c04c030de80a"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00443",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01307',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01307/2016-03-05/text",
+   "sha256": "28736632252a0e78117c864b3094683fb6e8829a5ee7ee9f6f759781bedc32db"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2004-06-23",
+   "acts": []
+  },
+  {
+   "in_force": "2007-04-11",
+   "acts": [
+    "Tourism Australia Amendment Act 2007"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

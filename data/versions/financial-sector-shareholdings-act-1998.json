@@ -1,0 +1,113 @@
+{
+ "title_id": "C2004A00315",
+ "name": "Financial Sector (Shareholdings) Act 1998",
+ "folder": "financial-sector-shareholdings-act-1998",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00788",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00315',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00315/2016-07-01/text",
+   "sha256": "9b6934e24a7fc7fee5588ee0f2d4634a2f1a12afd03dcc61ebfa7d5984b15b86"
+  },
+  {
+   "in_force": "2019-04-01",
+   "register_id": "C2019C00127",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00315',start=2019-04-01,retrospectivestart=2019-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00315/2019-04-01/text",
+   "sha256": "b5d74f19e1813e34913387ae242be31457b693cfe8ce57c16d4da18a9869bc75"
+  },
+  {
+   "in_force": "2019-04-06",
+   "register_id": "C2019C00163",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00315',start=2019-04-06,retrospectivestart=2019-04-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00315/2019-04-06/text",
+   "sha256": "c31015b0e50f19bf80dc4624948f1d5413e55b5c4f6a0b270fe9bc56c71c68a2"
+  },
+  {
+   "in_force": "2020-10-01",
+   "register_id": "C2020C00315",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00315',start=2020-10-01,retrospectivestart=2020-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00315/2020-10-01/text",
+   "sha256": "b5cc973a374c84c66f1257365ed1cab8fefd4316e6076dce815eafddaf3bc451"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2001-04-28",
+   "acts": [
+    "Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-09-19",
+   "acts": [
+    "Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Australian Prudential Regulation Authority Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2015-02-25",
+   "acts": [
+    "Treasury Legislation Amendment (Repeal Day) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

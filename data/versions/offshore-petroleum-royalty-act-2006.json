@@ -1,0 +1,56 @@
+{
+ "title_id": "C2006A00018",
+ "name": "Offshore Petroleum (Royalty) Act 2006",
+ "folder": "offshore-petroleum-royalty-act-2006",
+ "compilations": [
+  {
+   "in_force": "2009-10-09",
+   "register_id": "C2009C00489",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00018',start=2009-10-09,retrospectivestart=2009-10-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00018/2009-10-09/text",
+   "sha256": "dfe80e0cea8f8f9ac9818af46b4bd482f09a97a43bb96d8c1ef28fccfe76932d"
+  },
+  {
+   "in_force": "2012-01-01",
+   "register_id": "C2012C00850",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00018',start=2012-01-01,retrospectivestart=2012-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00018/2012-01-01/text",
+   "sha256": "ed39730663b351ce446a7d43b6b24252b07dc0edb9c108562ff8acbdf1a38929"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00402",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00018',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00018/2016-03-05/text",
+   "sha256": "9c24f0b3701912ae776f429130d167e446ea39f7c0233410e019e44d50ff44bb"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-03-29",
+   "acts": []
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008",
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008",
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

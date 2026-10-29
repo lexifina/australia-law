@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A02850",
+ "name": "Radiocommunications Taxes Collection Act 1983",
+ "folder": "radiocommunications-taxes-collection-act-1983",
+ "compilations": [
+  {
+   "in_force": "2013-06-29",
+   "register_id": "C2013C00541",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02850',start=2013-06-29,retrospectivestart=2013-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02850/2013-06-29/text",
+   "sha256": "a3241953d0fbc5e59faa89313e9874d88ceb0b14753750195ca7fbe499cfc5d8"
+  },
+  {
+   "in_force": "2017-10-17",
+   "register_id": "C2017C00352",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02850',start=2017-10-17,retrospectivestart=2017-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02850/2017-10-17/text",
+   "sha256": "6f5b0746e90f0a86377cb709f2e4a2b29019633c17eb35397eb14a32066374bf"
+  },
+  {
+   "in_force": "2019-03-02",
+   "register_id": "C2019C00099",
+   "compilation": "11",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02850',start=2019-03-02,retrospectivestart=2019-03-02,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02850/2019-03-02/text",
+   "sha256": "f740076a2eba1e37a7fabfda0313cd23cec6b84890c995ffbb2d17b20ab1d0f0"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1983-12-22",
+   "acts": []
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Radiocommunications Taxes Collection Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-03-29",
+   "acts": [
+    "Radiocommunications Taxes Collection Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-10-09",
+   "acts": [
+    "Radiocommunications Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2000-05-31",
+   "acts": [
+    "Radiocommunications Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2005-04-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

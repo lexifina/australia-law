@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00183",
+ "name": "Defence Legislation Amendment Act 2011",
+ "folder": "defence-legislation-amendment-act-2011",
+ "compilations": [
+  {
+   "in_force": "2011-12-06",
+   "register_id": "C2011A00183",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00183',start=2011-12-06,retrospectivestart=2011-12-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00183/2011-12-06/text",
+   "sha256": "8dbd04fdcc26295f368765c55b826a0f53ee00c97c4229bc140ce0e04ee653d7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

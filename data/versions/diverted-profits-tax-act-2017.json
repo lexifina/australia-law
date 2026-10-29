@@ -1,0 +1,21 @@
+{
+ "title_id": "C2017A00021",
+ "name": "Diverted Profits Tax Act 2017",
+ "folder": "diverted-profits-tax-act-2017",
+ "compilations": [
+  {
+   "in_force": "2017-04-04",
+   "register_id": "C2017A00021",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00021',start=2017-04-04,retrospectivestart=2017-04-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00021/2017-04-04/text",
+   "sha256": "ee0126b54b394bd8abe4dd22ae810f563f39029dafab37924bd20b8fea2a9018"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

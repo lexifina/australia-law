@@ -1,0 +1,21 @@
+{
+ "title_id": "C2015A00017",
+ "name": "Excess Exploration Credit Tax Act 2015",
+ "folder": "excess-exploration-credit-tax-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-03-19",
+   "register_id": "C2015A00017",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00017',start=2015-03-19,retrospectivestart=2015-03-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00017/2015-03-19/text",
+   "sha256": "7776dede8f0835b76577d0d40c7bdb59e473ae216f592f344844fe5f45e937d6"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,108 @@
+{
+ "title_id": "C2004A04704",
+ "name": "Offshore Minerals Act 1994",
+ "folder": "offshore-minerals-act-1994",
+ "compilations": [
+  {
+   "in_force": "2018-12-29",
+   "register_id": "C2019C00073",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04704',start=2018-12-29,retrospectivestart=2018-12-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04704/2018-12-29/text",
+   "sha256": "baed04764905fae54bb2f8a53c894672ba85f89a495bff98f2356058dfe49e28"
+  },
+  {
+   "in_force": "2019-08-30",
+   "register_id": "C2019C00252",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04704',start=2019-08-30,retrospectivestart=2019-08-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04704/2019-08-30/text",
+   "sha256": "84322d0880ae9c89282fdf3d655c594c2fe603a31fa42ce629950261f8c21ea6"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00638",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04704',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04704/2024-10-14/text",
+   "sha256": "248e67fda57242cfd4a660c8410aa50169bef2a57a861f14359ab6a8fc880fd7"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1994-02-25",
+   "acts": []
+  },
+  {
+   "in_force": "2001-03-31",
+   "acts": [
+    "Crimes at Sea Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Offshore Resources Legislation Amendment (Personal Property Securities) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

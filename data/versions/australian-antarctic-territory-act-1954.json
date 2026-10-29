@@ -1,0 +1,107 @@
+{
+ "title_id": "C1954A00042",
+ "name": "Australian Antarctic Territory Act 1954",
+ "folder": "australian-antarctic-territory-act-1954",
+ "compilations": [
+  {
+   "in_force": "1991-03-04",
+   "register_id": "C2004C01970",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1954A00042',start=1991-03-04,retrospectivestart=1991-03-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1954A00042/1991-03-04/text",
+   "sha256": "669a9fa9e35d1411000d2d06ef566138ba40fb1ef8a0ff700838cc337a1ad921"
+  },
+  {
+   "in_force": "2001-10-02",
+   "register_id": "C2004C00099",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1954A00042',start=2001-10-02,retrospectivestart=2001-10-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1954A00042/2001-10-02/text",
+   "sha256": "374a350a9494e06f22bbb0a27d60797189d6701aeedb9abc689b18cfaa2923c9"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00311",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1954A00042',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1954A00042/2008-07-04/text",
+   "sha256": "e7c8b9fadf6a10a127e84e7b58d4491ab015a9cc06953b9220d1e2fbcd244364"
+  },
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00725",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1954A00042',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1954A00042/2012-09-22/text",
+   "sha256": "da2153b5c761be886d4fd4278275cd4cd934ce3f7618fcaef6adb7f213e87ba2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1954-11-01",
+   "acts": []
+  },
+  {
+   "in_force": "1957-07-05",
+   "acts": [
+    "Australian Antarctic Territory Act 1957"
+   ]
+  },
+  {
+   "in_force": "1963-06-25",
+   "acts": [
+    "Australian Antarctic Territory Act 1963"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

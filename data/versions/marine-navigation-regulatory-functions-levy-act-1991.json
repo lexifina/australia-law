@@ -1,0 +1,50 @@
+{
+ "title_id": "C2004A04115",
+ "name": "Marine Navigation (Regulatory Functions) Levy Act 1991",
+ "folder": "marine-navigation-regulatory-functions-levy-act-1991",
+ "compilations": [
+  {
+   "in_force": "1991-03-27",
+   "register_id": "C2004A04115",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04115',start=1991-03-27,retrospectivestart=1991-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04115/1991-03-27/text",
+   "sha256": "6a85a3864c31ae5d200e538403a7b2ba1c4c729da7a3e52ab058d05512603483"
+  },
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00337",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04115',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04115/2013-07-01/text",
+   "sha256": "9840657bffd727c9fb63bf34922833d3162edbb59f3cdb4a4467566ff5bf2321"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00239",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04115',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04115/2018-06-19/text",
+   "sha256": "c78e93bbffc7413b38f95748e45bb2bf9cdc10246b4e60366f9d6b8e06a3699f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Marine Navigation (Regulatory Functions) Levy Regulations (Amendment)"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

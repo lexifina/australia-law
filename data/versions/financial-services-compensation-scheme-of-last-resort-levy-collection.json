@@ -1,0 +1,43 @@
+{
+ "title_id": "C2023A00045",
+ "name": "Financial Services Compensation Scheme of Last Resort Levy (Collection) Act 2023",
+ "folder": "financial-services-compensation-scheme-of-last-resort-levy-collection",
+ "compilations": [
+  {
+   "in_force": "2023-07-03",
+   "register_id": "C2023A00045",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00045',start=2023-07-03,retrospectivestart=2023-07-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00045/2023-07-03/text",
+   "sha256": "29b5197251dd74b551d108f2dabb61a753ef0a658f4952ae426cec6fba33e8bc"
+  },
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00419",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00045',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00045/2023-10-20/text",
+   "sha256": "3a29f521e4d24fa7c426cb680cd84c4cb113e3d981fec7140d64f30b602a0bba"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00112",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00045',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00045/2025-02-21/text",
+   "sha256": "3632d210ecfd2c83e13434f0e3abb6b0b03923559b36211eb0a754f68dce2cdc"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

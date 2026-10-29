@@ -1,0 +1,84 @@
+{
+ "title_id": "C2004A04533",
+ "name": "Natural Resources Management (Financial Assistance) Act 1992",
+ "folder": "natural-resources-management-financial-assistance-act-1992",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00584",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04533',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04533/2014-07-01/text",
+   "sha256": "7e57aa3cb9234c579951de5d49dc586e442ad1e5a0ba78db1de11b6e16d2b33e"
+  },
+  {
+   "in_force": "2016-05-06",
+   "register_id": "C2016C00642",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04533',start=2016-05-06,retrospectivestart=2016-05-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04533/2016-05-06/text",
+   "sha256": "76a1bbb7e8fb607e155a3cd6b14f7f0040da9d5fe1501124612f96c79b1d2420"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00235",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04533',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04533/2018-06-19/text",
+   "sha256": "fb78438c13b4dae6ece4cf1a7941e1b3463c50594d0434b60298d92d318b6991"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-12-24",
+   "acts": []
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-04-07",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

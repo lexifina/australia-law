@@ -1,0 +1,96 @@
+{
+ "title_id": "C2012A00168",
+ "name": "Australian Charities and Not-for-profits Commission Act 2012",
+ "folder": "australian-charities-and-not-for-profits-commission-act-2012",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00721",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00168',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00168/2024-10-14/text",
+   "sha256": "3e064817c6c0b61ca07aa60326a20072e32ddeb494dc6632df7ce281ff3569b5"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00139",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00168',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00168/2025-02-21/text",
+   "sha256": "e18cc9baa14ac786508af7151353dbac9dd6d606f5f07738bc50ca7baa53b446"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00665",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00168',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00168/2025-12-05/text",
+   "sha256": "161f3db0063558793198d1f72b48acf75d278065379ad78fb3a522de17efa345"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-12-03",
+   "acts": []
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-01-01",
+   "acts": [
+    "Charities (Consequential Amendments and Transitional Provisions) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 6) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-17",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 6) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

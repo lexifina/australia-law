@@ -1,0 +1,21 @@
+{
+ "title_id": "C2008A00103",
+ "name": "Financial Claims Scheme (ADIs) Levy Act 2008",
+ "folder": "financial-claims-scheme-adis-levy-act-2008",
+ "compilations": [
+  {
+   "in_force": "2008-10-17",
+   "register_id": "C2008A00103",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00103',start=2008-10-17,retrospectivestart=2008-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00103/2008-10-17/text",
+   "sha256": "e5ae38f65747b110be31422ae8e43b46df9950b3d8668459c587e7a162bc78d6"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

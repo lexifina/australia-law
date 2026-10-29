@@ -1,0 +1,21 @@
+{
+ "title_id": "C2013A00056",
+ "name": "Not-for-profit Sector Freedom to Advocate Act 2013",
+ "folder": "not-for-profit-sector-freedom-to-advocate-act-2013",
+ "compilations": [
+  {
+   "in_force": "2013-06-13",
+   "register_id": "C2013A00056",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00056',start=2013-06-13,retrospectivestart=2013-06-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00056/2013-06-13/text",
+   "sha256": "4af13d5c4f83f6de131d1662187dac626992db7715d8e4fe7f51f38b41aeec2c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

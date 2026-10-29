@@ -1,0 +1,110 @@
+{
+ "title_id": "C2021A00012",
+ "name": "Federal Circuit and Family Court of Australia Act 2021",
+ "folder": "federal-circuit-and-family-court-of-australia-act-2021",
+ "compilations": [
+  {
+   "in_force": "2024-06-12",
+   "register_id": "C2024C00219",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00012',start=2024-06-12,retrospectivestart=2024-06-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00012/2024-06-12/text",
+   "sha256": "fd27e61e011538e1cc1f9a986a39da0d82516b20d1be46bd80305ab1ecb783e3"
+  },
+  {
+   "in_force": "2024-10-02",
+   "register_id": "C2024C00443",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00012',start=2024-10-02,retrospectivestart=2024-10-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00012/2024-10-02/text",
+   "sha256": "971404e858ef49b6f1cb5e95b4437295fccec1092100454f38b24a4ac19440a3"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00723",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00012',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00012/2024-10-14/text",
+   "sha256": "7307ca0a268478f0bf5f661c52bb1d8aa7692cba9bfaf08af855a1390cddd6f4"
+  },
+  {
+   "in_force": "2025-06-10",
+   "register_id": "C2025C00376",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00012',start=2025-06-10,retrospectivestart=2025-06-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00012/2025-06-10/text",
+   "sha256": "ee6c14ec37ecf7d951112b8236ecc3bb034d03025b50fa6a949a7ad6bab12b40"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2021-03-01",
+   "acts": []
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-02-18",
+   "acts": [
+    "Courts and Tribunals Legislation Amendment (2021 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-09-28",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-03-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2023-11-07",
+   "acts": [
+    "Family Law Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-11-28",
+   "acts": [
+    "Federal Courts Legislation Amendment (Judicial Immunity) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-05-06",
+   "acts": [
+    "Family Law Amendment Act 2023",
+    "Family Law Amendment Act 2023",
+    "Family Law Amendment Act 2023",
+    "Family Law Amendment Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

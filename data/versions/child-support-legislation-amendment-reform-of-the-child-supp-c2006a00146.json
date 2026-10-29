@@ -1,0 +1,48 @@
+{
+ "title_id": "C2006A00146",
+ "name": "Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006",
+ "folder": "child-support-legislation-amendment-reform-of-the-child-supp-c2006a00146",
+ "compilations": [
+  {
+   "in_force": "2007-06-22",
+   "register_id": "C2007C00417",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00146',start=2007-06-22,retrospectivestart=2007-06-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00146/2007-06-22/text",
+   "sha256": "ecd28d7768abcabd71908cd7fffe235bcdef51b07b77b344fcad24cf0d3f9a51"
+  },
+  {
+   "in_force": "2008-01-01",
+   "register_id": "C2008C00030",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00146',start=2008-01-01,retrospectivestart=2008-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00146/2008-01-01/text",
+   "sha256": "bc911971895a56e762ce760452a1a43278c5cd9140c6a598e721083064fdb307"
+  },
+  {
+   "in_force": "2008-07-01",
+   "register_id": "C2010C00151",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00146',start=2008-07-01,retrospectivestart=2008-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00146/2008-07-01/text",
+   "sha256": "02a6d13a3cf95628d0d2ffb250d633e34099a5397924347b65a0f2df2cec0fc0"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-12-06",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

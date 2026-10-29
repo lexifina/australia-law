@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A01309",
+ "name": "Medical Indemnity (Run-off Cover Support Payment) Act 2004",
+ "folder": "medical-indemnity-run-off-cover-support-payment-act-2004",
+ "compilations": [
+  {
+   "in_force": "2004-06-23",
+   "register_id": "C2004A01309",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01309',start=2004-06-23,retrospectivestart=2004-06-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01309/2004-06-23/text",
+   "sha256": "3240e2a00f088df34da3dd26e98be567d4b5ecf4c69f9a0430e66b6bd573079c"
+  },
+  {
+   "in_force": "2005-07-01",
+   "register_id": "C2005C00373",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01309',start=2005-07-01,retrospectivestart=2005-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01309/2005-07-01/text",
+   "sha256": "ec9ce050d36bd73e9086b2475b385a7c54d3e323557391f4edf99c6b9365aa9f"
+  },
+  {
+   "in_force": "2020-07-01",
+   "register_id": "C2020C00231",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01309',start=2020-07-01,retrospectivestart=2020-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01309/2020-07-01/text",
+   "sha256": "3985a537b311c8ebe7312f6a1b23be9987864f4e04607fd66b7d33a12fb581d5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

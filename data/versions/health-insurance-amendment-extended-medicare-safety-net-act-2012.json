@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00123",
+ "name": "Health Insurance Amendment (Extended Medicare Safety Net) Act 2012",
+ "folder": "health-insurance-amendment-extended-medicare-safety-net-act-2012",
+ "compilations": [
+  {
+   "in_force": "2012-09-12",
+   "register_id": "C2012A00123",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00123',start=2012-09-12,retrospectivestart=2012-09-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00123/2012-09-12/text",
+   "sha256": "073d6394b4656a7381cabfa3e7c9e8e880ff29f1d906070dc42f4d68dee43a7f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

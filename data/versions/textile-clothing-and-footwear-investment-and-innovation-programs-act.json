@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A00571",
+ "name": "Textile, Clothing and Footwear Investment and Innovation Programs Act 1999",
+ "folder": "textile-clothing-and-footwear-investment-and-innovation-programs-act",
+ "compilations": [
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00335",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00571',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00571/2011-04-19/text",
+   "sha256": "754b0f92f06583f61dab40448dbf4300ecb232e517b90d51d6be037d60cf02cb"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00362",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00571',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00571/2011-12-27/text",
+   "sha256": "b9650d5ce6a133468f801433a226c0f34496409ca9ee07d151b7aaa28c610615"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00630",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00571',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00571/2016-03-10/text",
+   "sha256": "be095beb76053c8fc84b6b9258227337adf7cc5c54d9f95519347f2050895f77"
+  },
+  {
+   "in_force": "2018-12-29",
+   "register_id": "C2019C00064",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00571',start=2018-12-29,retrospectivestart=2018-12-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00571/2018-12-29/text",
+   "sha256": "8b0c84cdfd34ea79f7558c8a2b70f1d73c27720b1ce6fdbe7d6779202f92588b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-12-05",
+   "acts": []
+  },
+  {
+   "in_force": "2004-04-20",
+   "acts": [
+    "Textile, Clothing and Footwear Strategic Investment Program Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-14",
+   "acts": [
+    "Textile, Clothing and Footwear Strategic Investment Program Amendment (Post-2005 Scheme) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2010-04-14",
+   "acts": [
+    "Textile, Clothing and Footwear Strategic Investment Program Amendment (Building Innovative Capability) Act 2010",
+    "Textile, Clothing and Footwear Strategic Investment Program Amendment (Building Innovative Capability) Act 2010"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

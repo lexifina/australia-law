@@ -1,0 +1,32 @@
+{
+ "title_id": "C2010A00071",
+ "name": "Renewable Energy (Electricity) (Small-scale Technology Shortfall Charge) Act 2010",
+ "folder": "renewable-energy-electricity-small-scale-technology-shortfall-charge",
+ "compilations": [
+  {
+   "in_force": "2010-06-28",
+   "register_id": "C2010A00071",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00071',start=2010-06-28,retrospectivestart=2010-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00071/2010-06-28/text",
+   "sha256": "b8db797b4de5ec417b00919799361fdf0eace45d426f4f7f1ed3bec316cf19d1"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00228",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00071',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00071/2018-06-19/text",
+   "sha256": "ccfe6a3234c933053b6c6529a142fefd3e34094f0e56509af79af44aad66aac5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

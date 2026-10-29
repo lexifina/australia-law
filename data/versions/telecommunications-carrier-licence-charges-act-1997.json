@@ -1,0 +1,72 @@
+{
+ "title_id": "C2004A05147",
+ "name": "Telecommunications (Carrier Licence Charges) Act 1997",
+ "folder": "telecommunications-carrier-licence-charges-act-1997",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00437",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05147',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05147/2016-03-05/text",
+   "sha256": "7012dd3e2fbc2718371c00b37d44ad467a4bb157ff13e0e4df1bea82f85a2f49"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00884",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05147',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05147/2016-07-01/text",
+   "sha256": "7ecc0897e3cf589cab0de9a7cfdc48f7a81113e62d7914a4e9160215db939740"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00218",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05147',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05147/2018-06-19/text",
+   "sha256": "43ad05b838a3903aa1cfc5ae6fb52badfe8d87ee941e307fd28fada333bc204a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-04-22",
+   "acts": []
+  },
+  {
+   "in_force": "1998-06-30",
+   "acts": [
+    "Telecommunications (Carrier Licence Charges) Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Telecommunications (Carrier Licence Charges) Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-09-24",
+   "acts": [
+    "Telecommunications (Carrier Licence Charges) Amendment (Industry Plans and Consumer Codes) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-05-31",
+   "acts": [
+    "Do Not Call Register (Consequential Amendments) Act 2006"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

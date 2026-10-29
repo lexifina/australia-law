@@ -1,0 +1,54 @@
+{
+ "title_id": "C2019A00090",
+ "name": "Disaster Ready Fund Act 2019",
+ "folder": "disaster-ready-fund-act-2019",
+ "compilations": [
+  {
+   "in_force": "2023-07-01",
+   "register_id": "C2023C00158",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00090',start=2023-07-01,retrospectivestart=2023-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00090/2023-07-01/text",
+   "sha256": "edac9df37b796f7b323a99a80d3613b2876b0fe095f470f2ce02ad155e8a5ae8"
+  },
+  {
+   "in_force": "2023-11-01",
+   "register_id": "C2023C00428",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00090',start=2023-11-01,retrospectivestart=2023-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00090/2023-11-01/text",
+   "sha256": "5aa6b09318704b9d6bd495c0d299af467c3cd2ab594432f57192b8c879edb279"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00295",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00090',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00090/2024-07-06/text",
+   "sha256": "81499a5b742dd159d1d88ea9e68d35e3f0f56573ec3ad0a402fd74422fe709db"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2019-10-28",
+   "acts": []
+  },
+  {
+   "in_force": "2023-03-01",
+   "acts": [
+    "Emergency Response Fund Amendment (Disaster Ready Fund) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

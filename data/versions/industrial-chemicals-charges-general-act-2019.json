@@ -1,0 +1,21 @@
+{
+ "title_id": "C2019A00020",
+ "name": "Industrial Chemicals Charges (General) Act 2019",
+ "folder": "industrial-chemicals-charges-general-act-2019",
+ "compilations": [
+  {
+   "in_force": "2019-04-03",
+   "register_id": "C2019A00020",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00020',start=2019-04-03,retrospectivestart=2019-04-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00020/2019-04-03/text",
+   "sha256": "009425c632c41a9e900e35b8911c6ce1813585d1ef79e816ab64da05083b30b1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

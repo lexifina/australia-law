@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A01412",
+ "name": "United States Naval Communication Station Agreement Act 1975",
+ "folder": "united-states-naval-communication-station-agreement-act-1975",
+ "compilations": [
+  {
+   "in_force": "1975-09-10",
+   "register_id": "C2004A01412",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01412',start=1975-09-10,retrospectivestart=1975-09-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01412/1975-09-10/text",
+   "sha256": "8a7f6e81953e6927df2f77c55ae2269c3b35ee697e38e913c2ecc9c7aaca6f7a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

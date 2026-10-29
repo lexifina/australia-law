@@ -1,0 +1,21 @@
+{
+ "title_id": "C2023A00089",
+ "name": "Higher Education Support Amendment (Response to the Australian Universities Accord Interim Report) Act 2023",
+ "folder": "higher-education-support-amendment-response-to-the-australian",
+ "compilations": [
+  {
+   "in_force": "2023-11-06",
+   "register_id": "C2023A00089",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00089',start=2023-11-06,retrospectivestart=2023-11-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00089/2023-11-06/text",
+   "sha256": "c327ea6f83b64791cba3a89a261223eb586f5aa8a067c2f64a45f7bcbb5cbe61"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

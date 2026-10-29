@@ -1,0 +1,21 @@
+{
+ "title_id": "C2024A00119",
+ "name": "Future Made in Australia Act 2024",
+ "folder": "future-made-in-australia-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-12-10",
+   "register_id": "C2024A00119",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00119',start=2024-12-10,retrospectivestart=2024-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00119/2024-12-10/text",
+   "sha256": "97dae76c4ec98dcd6f1c2fec8c2f447f5c8aee072d7952a3eeb4e0684d898cc0"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

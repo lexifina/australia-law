@@ -1,0 +1,66 @@
+{
+ "title_id": "C2014A00029",
+ "name": "Major Sporting Events (Indicia and Images) Protection Act 2014",
+ "folder": "major-sporting-events-indicia-and-images-protection-act-2014",
+ "compilations": [
+  {
+   "in_force": "2021-11-04",
+   "register_id": "C2021C00548",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00029',start=2021-11-04,retrospectivestart=2021-11-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00029/2021-11-04/text",
+   "sha256": "4c7b103d3576e26526a1e21dde9a18a5d0bbc0c34574efad1ef79790ebfc9479"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00655",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00029',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00029/2024-10-14/text",
+   "sha256": "588dc8dd74f394ce93edfb9f57d532e55ec7cb8465dc20f69e80bab29e29ab4c"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00423",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00029',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00029/2026-09-19/text",
+   "sha256": "006ae6929d32e52c8a62631a1a2c2b70ffee26368a54b944ab503467e164651b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2014-05-27",
+   "acts": []
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Major Sporting Events (Indicia and Images) Protection Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

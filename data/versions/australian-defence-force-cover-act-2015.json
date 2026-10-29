@@ -1,0 +1,73 @@
+{
+ "title_id": "C2015A00118",
+ "name": "Australian Defence Force Cover Act 2015",
+ "folder": "australian-defence-force-cover-act-2015",
+ "compilations": [
+  {
+   "in_force": "2020-12-18",
+   "register_id": "C2021C00026",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00118',start=2020-12-18,retrospectivestart=2020-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00118/2020-12-18/text",
+   "sha256": "c0dc4d41b49e2f45febe819e0e27b8382f33ab8d680fd11e33735edd0d42b8fe"
+  },
+  {
+   "in_force": "2022-09-28",
+   "register_id": "C2022C00276",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00118',start=2022-09-28,retrospectivestart=2022-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00118/2022-09-28/text",
+   "sha256": "e401ad6eb95fa15c5195f223fbea3caabe30d83c5b7cad7a87e2e5168f1390d8"
+  },
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00402",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00118',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00118/2023-10-20/text",
+   "sha256": "9e10d26add2f47ac6a439ada89205682183e5c8f1d738954b938962323f36bd1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2015-09-10",
+   "acts": []
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-10-31",
+   "acts": [
+    "Defence Legislation Amendment (2017 Measures No. 1) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-03-06",
+   "acts": [
+    "Treasury Laws Amendment (Putting Consumers First—Establishment of the Australian Financial Complaints Authority) Act 2018",
+    "Treasury Laws Amendment (Putting Consumers First—Establishment of the Australian Financial Complaints Authority) Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A05323",
+ "name": "Family Trust Distribution Tax (Primary Liability) Act 1998",
+ "folder": "family-trust-distribution-tax-primary-liability-act-1998",
+ "compilations": [
+  {
+   "in_force": "2011-06-27",
+   "register_id": "C2011C00491",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05323',start=2011-06-27,retrospectivestart=2011-06-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05323/2011-06-27/text",
+   "sha256": "9cbddc68837050bffe1d3ced07e8cbd64ae36092e6bef6e8f1f1ac831e53a9e5"
+  },
+  {
+   "in_force": "2013-05-28",
+   "register_id": "C2013C00281",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05323',start=2013-05-28,retrospectivestart=2013-05-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05323/2013-05-28/text",
+   "sha256": "04d96fa3190bac4f7e4cfaa8241f434584393bad13fe7fddab02fcc420cbb41f"
+  },
+  {
+   "in_force": "2014-06-25",
+   "register_id": "C2014C00345",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05323',start=2014-06-25,retrospectivestart=2014-06-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05323/2014-06-25/text",
+   "sha256": "917fb51c630bc1ba6c9611361beadf147a7f98505cf0928462e6ae05d847fd8a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-04-06",
+   "acts": []
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangements) Act 2006"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

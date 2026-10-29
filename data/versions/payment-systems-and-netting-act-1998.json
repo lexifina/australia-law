@@ -1,0 +1,143 @@
+{
+ "title_id": "C2004A00338",
+ "name": "Payment Systems and Netting Act 1998",
+ "folder": "payment-systems-and-netting-act-1998",
+ "compilations": [
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00403",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00338',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00338/2023-10-20/text",
+   "sha256": "9ead574cd1610e06adf9eedfc5d3afde5665569735389e1881e54729bc765ec2"
+  },
+  {
+   "in_force": "2024-03-20",
+   "register_id": "C2024C00102",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00338',start=2024-03-20,retrospectivestart=2024-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00338/2024-03-20/text",
+   "sha256": "c62e52e5017fe63c9e115302efa25aace64f6608278909bfd82b0814e007e9f5"
+  },
+  {
+   "in_force": "2024-09-24",
+   "register_id": "C2024C00373",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00338',start=2024-09-24,retrospectivestart=2024-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00338/2024-09-24/text",
+   "sha256": "ccf92a07db63689376ce5a4519b59fb372c311cc0e7c06c162be343ba9b54767"
+  },
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00384",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00338',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00338/2026-08-27/text",
+   "sha256": "03e6ee3d777ce245a89212f2742a2229d8888ba4e364819e9fcfa16feae5a9b2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-07-02",
+   "acts": []
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-03-11",
+   "acts": [
+    "Financial Services Reform (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-07-28",
+   "acts": [
+    "Bankruptcy Legislation Amendment (Superannuation Contributions) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-07-19",
+   "acts": [
+    "Corporations and Financial Sector Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2016-06-01",
+   "acts": [
+    "Financial System Legislation Amendment (Resilience and Collateral Protection) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Insolvency Law Reform Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-03-05",
+   "acts": [
+    "Financial Sector Legislation Amendment (Crisis Resolution Powers and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Treasury Laws Amendment (2017 Enterprise Incentives No. 2) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-09-18",
+   "acts": [
+    "Corporations Amendment (Asia Region Funds Passport) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Corporations Amendment (Corporate Insolvency Reforms) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2023-09-15",
+   "acts": [
+    "Financial Accountability Regime (Consequential Amendments) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

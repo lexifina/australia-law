@@ -1,0 +1,145 @@
+{
+ "title_id": "C2004A04735",
+ "name": "Foreign Evidence Act 1994",
+ "folder": "foreign-evidence-act-1994",
+ "compilations": [
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00388",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04735',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04735/2021-09-01/text",
+   "sha256": "112bc9d9b1e8a7440d1755487e2ce64dcf075cfa1da8efe2e927891f6536635c"
+  },
+  {
+   "in_force": "2023-09-14",
+   "register_id": "C2023C00233",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04735',start=2023-09-14,retrospectivestart=2023-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04735/2023-09-14/text",
+   "sha256": "5749a6ac78b02d095b3e5437da770feafa26200397ac119c6a979dab5c54cdc7"
+  },
+  {
+   "in_force": "2025-11-08",
+   "register_id": "C2025C00634",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04735',start=2025-11-08,retrospectivestart=2025-11-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04735/2025-11-08/text",
+   "sha256": "be82194869f36f68cc4574d80d51e72088d8955e44ab7dcb68a29d8761f694ae"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1994-04-09",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-06-03",
+   "acts": [
+    "Crimes Legislation Enhancement Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-11-16",
+   "acts": [
+    "Law and Justice Legislation Amendment (Video Link Evidence and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-20",
+   "acts": [
+    "ASIO Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-08-25",
+   "acts": [
+    "Law and Justice Legislation Amendment (Marking of Plastic Explosives) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-06-04",
+   "acts": [
+    "Foreign Evidence Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 2011"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2018-06-05",
+   "acts": [
+    "Treasury Laws Amendment (ASIC Governance) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-09-07",
+   "acts": [
+    "Australian Security Intelligence Organisation Amendment Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

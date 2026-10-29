@@ -1,0 +1,37 @@
+{
+ "title_id": "C2004A02969",
+ "name": "National Crime Authority (Status and Rights of Former Chairman) Act 1984",
+ "folder": "national-crime-authority-status-and-rights-of-former-chairman-act-1984",
+ "compilations": [
+  {
+   "in_force": "2011-09-16",
+   "register_id": "C2011C00791",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02969',start=2011-09-16,retrospectivestart=2011-09-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02969/2011-09-16/text",
+   "sha256": "07219c2aa157385bbf21d278ad53678003f7d936ba54fb7d36b10d82ba5c46fe"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-28",
+   "acts": [
+    "Resource Assessment Commission Act 1989",
+    "Resource Assessment Commission Act 1989"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1984-10-15"
+ ],
+ "repeal": null
+}

@@ -1,0 +1,40 @@
+{
+ "title_id": "C2024A00047",
+ "name": "Appropriation Act (No. 1) 2024-2025",
+ "folder": "appropriation-act-no-1-2024-2025",
+ "compilations": [
+  {
+   "in_force": "2024-06-26",
+   "register_id": "C2024A00047",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00047',start=2024-06-26,retrospectivestart=2024-06-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00047/2024-06-26/text",
+   "sha256": "2dd75afcbfcbec8359c910e246da7457f721711e665f861101b7f63d0f7d364e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2027-07-01",
+   "acts": [
+    "Appropriation Act (No. 1) 2024-2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": {
+  "day": "2027-07-01",
+  "status": "Repealed",
+  "acts": [
+   [
+    47,
+    2024
+   ]
+  ],
+  "markdown": [
+   "s 13 of the [Appropriation Act (No. 1) 2024-2025](/C2024A00047)"
+  ]
+ }
+}

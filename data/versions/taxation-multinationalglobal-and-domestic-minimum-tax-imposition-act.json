@@ -1,0 +1,21 @@
+{
+ "title_id": "C2024A00133",
+ "name": "Taxation (Multinational—Global and Domestic Minimum Tax) Imposition Act 2024",
+ "folder": "taxation-multinationalglobal-and-domestic-minimum-tax-imposition-act",
+ "compilations": [
+  {
+   "in_force": "2024-12-10",
+   "register_id": "C2024A00133",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00133',start=2024-12-10,retrospectivestart=2024-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00133/2024-12-10/text",
+   "sha256": "56b711f188f8cb1ffaa99da02749588cab854de396337bf07e8a9b9ab81fba5d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

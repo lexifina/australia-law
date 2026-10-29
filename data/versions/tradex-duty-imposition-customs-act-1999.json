@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00575",
+ "name": "Tradex Duty Imposition (Customs) Act 1999",
+ "folder": "tradex-duty-imposition-customs-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-12-23",
+   "register_id": "C2004A00575",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00575',start=1999-12-23,retrospectivestart=1999-12-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00575/1999-12-23/text",
+   "sha256": "57f9ed3a1a7521cdc3dbf32adff253ebb4bc8be31a4adae74fe739e2c8f7a907"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00893",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00575',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00575/2016-07-01/text",
+   "sha256": "8987459feb98279545b7a103a257cb09381f1b7998472211eaf90b6926db37f8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

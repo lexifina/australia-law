@@ -1,0 +1,133 @@
+{
+ "title_id": "C2004A03450",
+ "name": "Australian Institute of Health and Welfare Act 1987",
+ "folder": "australian-institute-of-health-and-welfare-act-1987",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00481",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03450',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03450/2014-07-01/text",
+   "sha256": "6b13f3a6c5dbe04cb3c6b7fe3840e0b3803380d1bcc297f6e31c2b88fcf5e702"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01008",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03450',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03450/2016-10-21/text",
+   "sha256": "e5b2970ebcd91ef94df8baff85b335df53de7275958fd45ff5c02b223aa3e76f"
+  },
+  {
+   "in_force": "2018-11-27",
+   "register_id": "C2018C00474",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03450',start=2018-11-27,retrospectivestart=2018-11-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03450/2018-11-27/text",
+   "sha256": "cbd4392744362c5bfd6093f2806a1903cbb74e79c26f26730225f9fcdaa016c3"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-06-05",
+   "acts": []
+  },
+  {
+   "in_force": "1988-06-24",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-28",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-05-04",
+   "acts": [
+    "Australian Institute of Health Amendment Act 1992",
+    "Australian Institute of Health Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-06-28",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "National Health and Medical Research Council Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

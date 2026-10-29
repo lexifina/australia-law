@@ -1,0 +1,54 @@
+{
+ "title_id": "C2019A00055",
+ "name": "Future Drought Fund Act 2019",
+ "folder": "future-drought-fund-act-2019",
+ "compilations": [
+  {
+   "in_force": "2023-03-01",
+   "register_id": "C2023C00051",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00055',start=2023-03-01,retrospectivestart=2023-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00055/2023-03-01/text",
+   "sha256": "b592781bb9f42f5c6d844a140bd19d05315eaf4b7b390b424bff83cef4681236"
+  },
+  {
+   "in_force": "2023-11-01",
+   "register_id": "C2023C00442",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00055',start=2023-11-01,retrospectivestart=2023-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00055/2023-11-01/text",
+   "sha256": "64c47f5906993f888a90167f0268cce2259d94bd83a3cec874fce4386330e08e"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00278",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00055',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00055/2024-07-06/text",
+   "sha256": "aae37dc9254385a6458fc1dbe033bc06b7e79b91afcab51100bc3dc0565d1e9d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2019-07-30",
+   "acts": []
+  },
+  {
+   "in_force": "2019-12-12",
+   "acts": [
+    "Emergency Response Fund (Consequential Amendments) Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

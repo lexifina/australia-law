@@ -1,0 +1,89 @@
+{
+ "title_id": "C2004A00320",
+ "name": "Superannuation Supervisory Levy Imposition Act 1998",
+ "folder": "superannuation-supervisory-levy-imposition-act-1998",
+ "compilations": [
+  {
+   "in_force": "2010-07-01",
+   "register_id": "C2010C00454",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00320',start=2010-07-01,retrospectivestart=2010-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00320/2010-07-01/text",
+   "sha256": "a813524ae1b5e6512d843b20b1de27126960abbcad7b2be1a9f6d6addf8dbde2"
+  },
+  {
+   "in_force": "2012-06-28",
+   "register_id": "C2012C00577",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00320',start=2012-06-28,retrospectivestart=2012-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00320/2012-06-28/text",
+   "sha256": "103167fc3f44db58048352ba3a2afd7cb23409a3bf48f3c3f4a90e615a357d2a"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2015C00613",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00320',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00320/2015-12-10/text",
+   "sha256": "c79eb81aa5fbfad2261df4815163e622304aa80b5b9ba80dda01c9be751040a8"
+  },
+  {
+   "in_force": "2020-06-20",
+   "register_id": "C2020C00187",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00320',start=2020-06-20,retrospectivestart=2020-06-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00320/2020-06-20/text",
+   "sha256": "02b35eb53371618bd9bffbb590aa24e2c51c3f3389e456ddf3e8d35a7c359524"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-06-17",
+   "acts": []
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-08",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 3) 1999"
+   ]
+  },
+  {
+   "in_force": "2002-06-27",
+   "acts": [
+    "Financial Sector Legislation Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Superannuation Supervisory Levy Imposition Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

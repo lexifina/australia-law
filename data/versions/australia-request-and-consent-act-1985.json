@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A03182",
+ "name": "Australia (Request and Consent) Act 1985",
+ "folder": "australia-request-and-consent-act-1985",
+ "compilations": [
+  {
+   "in_force": "1985-12-04",
+   "register_id": "C2004A03182",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03182',start=1985-12-04,retrospectivestart=1985-12-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03182/1985-12-04/text",
+   "sha256": "e9f87cad6579816d5d722944565275bfd486df00a24c0c835ee1d661f4121999"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

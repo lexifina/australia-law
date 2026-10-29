@@ -1,0 +1,52 @@
+{
+ "title_id": "C2004A00046",
+ "name": "Seas and Submerged Lands Act 1973",
+ "folder": "seas-and-submerged-lands-act-1973",
+ "compilations": [
+  {
+   "in_force": "1994-08-01",
+   "register_id": "C2004C00306",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00046',start=1994-08-01,retrospectivestart=1994-08-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00046/1994-08-01/text",
+   "sha256": "0e8d7b21e9539cb3964989491c83739d514b2cb15a60a96121d3c61b6d9175f6"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00399",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00046',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00046/2008-07-04/text",
+   "sha256": "9c4139f385ffb66f7cd331da8eff62c2b8b4a843236ac0ad7316e2dc73bcda4c"
+  },
+  {
+   "in_force": "2019-08-30",
+   "register_id": "C2019C00259",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00046',start=2019-08-30,retrospectivestart=2019-08-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00046/2019-08-30/text",
+   "sha256": "aefc5ed014a3efe6b34bc5292a554d0d9a55eac8927cabb5fb87e4941f1ae223"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1982-01-01",
+   "acts": [
+    "Seas and Submerged Lands Amendment Act 1980"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1973-12-04"
+ ],
+ "repeal": null
+}

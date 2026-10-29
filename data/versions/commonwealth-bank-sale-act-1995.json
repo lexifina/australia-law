@@ -1,0 +1,72 @@
+{
+ "title_id": "C2004A05008",
+ "name": "Commonwealth Bank Sale Act 1995",
+ "folder": "commonwealth-bank-sale-act-1995",
+ "compilations": [
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00295",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05008',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05008/2011-04-19/text",
+   "sha256": "1a34e7d6367c8f8b52f2d4b504289b2c8c6d7c2119b080b0f75b9b0aff75ff88"
+  },
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00721",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05008',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05008/2012-09-22/text",
+   "sha256": "1f8269ed9cbcf86a73124b81db38b45e1759f63ae2e2ff810496086263f7a6d5"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00325",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05008',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05008/2016-03-05/text",
+   "sha256": "c58d0247537c2488dc9a0b8487ad4322e4c175e7673b3cdb580cd91211ce418d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-12-16",
+   "acts": []
+  },
+  {
+   "in_force": "1998-06-22",
+   "acts": [
+    "Tax Law Improvement Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2006-07-19",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00020",
+ "name": "Screen Australia (Transfer of Assets) Act 2011",
+ "folder": "screen-australia-transfer-of-assets-act-2011",
+ "compilations": [
+  {
+   "in_force": "2011-04-12",
+   "register_id": "C2011A00020",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00020',start=2011-04-12,retrospectivestart=2011-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00020/2011-04-12/text",
+   "sha256": "7e859b65cbee3d3c8d98cd1e5258261c6cafb6669051600c69ae47cdcba44923"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

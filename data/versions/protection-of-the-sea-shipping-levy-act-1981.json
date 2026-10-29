@@ -1,0 +1,41 @@
+{
+ "title_id": "C2004A02412",
+ "name": "Protection of the Sea (Shipping Levy) Act 1981",
+ "folder": "protection-of-the-sea-shipping-levy-act-1981",
+ "compilations": [
+  {
+   "in_force": "1994-01-19",
+   "register_id": "C2004C00382",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02412',start=1994-01-19,retrospectivestart=1994-01-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02412/1994-01-19/text",
+   "sha256": "bee7e77fc20af268bddcb76bdd99cb474334365182759f9acd2619098554df97"
+  },
+  {
+   "in_force": "2005-10-05",
+   "register_id": "C2005C00614",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02412',start=2005-10-05,retrospectivestart=2005-10-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02412/2005-10-05/text",
+   "sha256": "0457dc307c1b8b07af59aa8a6214168fb6272fcf572e8cd1ed0c82259ed44b47"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1985-10-01",
+   "acts": [
+    "Protection of the Sea (Shipping Levy) Amendment Act 1984"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1981-04-14"
+ ],
+ "repeal": null
+}

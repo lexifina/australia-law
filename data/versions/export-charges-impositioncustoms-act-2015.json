@@ -1,0 +1,32 @@
+{
+ "title_id": "C2015A00093",
+ "name": "Export Charges (Imposition—Customs) Act 2015",
+ "folder": "export-charges-impositioncustoms-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-06-29",
+   "register_id": "C2015A00093",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00093',start=2015-06-29,retrospectivestart=2015-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00093/2015-06-29/text",
+   "sha256": "3eaab78de64946a8a8f557e8e01a23044d7b79226cf196fcea4be748ddb90de0"
+  },
+  {
+   "in_force": "2021-03-28",
+   "register_id": "C2021C00172",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00093',start=2021-03-28,retrospectivestart=2021-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00093/2021-03-28/text",
+   "sha256": "fcf777e4c58bd7fa9ca795a9587fccb8470808f5a7227fe9a600970bc99a3646"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

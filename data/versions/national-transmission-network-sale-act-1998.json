@@ -1,0 +1,80 @@
+{
+ "title_id": "C2004A00393",
+ "name": "National Transmission Network Sale Act 1998",
+ "folder": "national-transmission-network-sale-act-1998",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00397",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00393',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00393/2016-03-05/text",
+   "sha256": "25590960257a78fc277eb75a3c1d25d5fc6b143c46c7feb9a7b4afcf5916846c"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00855",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00393',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00393/2016-07-01/text",
+   "sha256": "f341a31f43befa7a8e3c41b531cd84727c03d4aa3744ee40c3311ef52f81940c"
+  },
+  {
+   "in_force": "2019-12-12",
+   "register_id": "C2020C00018",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00393',start=2019-12-12,retrospectivestart=2019-12-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00393/2019-12-12/text",
+   "sha256": "2206fbeecb34947524bf36c0f4c76ed98d02f8f88ba73e0cb72d86d04e504108"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00626",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00393',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00393/2024-10-14/text",
+   "sha256": "05aaae1bef5da0267bcce3581fc16ef15bdf9003d67ca802b89b3a3093692401"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-12-21",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010",
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

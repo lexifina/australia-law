@@ -1,0 +1,34 @@
+{
+ "title_id": "C2004A03605",
+ "name": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988",
+ "folder": "income-tax-offshore-banking-units-withholding-tax-recoupment-act-1988",
+ "compilations": [
+  {
+   "in_force": "1999-07-16",
+   "register_id": "C2004C00877",
+   "compilation": "",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03605',start=1999-07-16,retrospectivestart=1999-07-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03605/1999-07-16/text",
+   "sha256": "b2064115173fcb995e9e4e986c753441d1acc65b6946bbe49d35ff86606ea224"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00061",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03605',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03605/2015-12-10/text",
+   "sha256": "5cefb345f859a11378229fe8c136f52d26d8cf25dcfe283a9411969cded0747c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1988-04-26"
+ ],
+ "repeal": null
+}

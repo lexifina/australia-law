@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A03616",
+ "name": "International Bank for Reconstruction and Development (Share Increase) Act 1988",
+ "folder": "international-bank-for-reconstruction-and-development-share-increase",
+ "compilations": [
+  {
+   "in_force": "1988-05-11",
+   "register_id": "C2004A03616",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03616',start=1988-05-11,retrospectivestart=1988-05-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03616/1988-05-11/text",
+   "sha256": "3436d667ac5119d9b3edb116d7d39124bbce6042e8fd45a55762577ed9b65b40"
+  },
+  {
+   "in_force": "2024-07-10",
+   "register_id": "C2024C00321",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03616',start=2024-07-10,retrospectivestart=2024-07-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03616/2024-07-10/text",
+   "sha256": "b8aeda57e67e1672f0a7ca8511d3a183ef410b4bc20b2d425f3415b479995178"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

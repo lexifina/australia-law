@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00078",
+ "name": "News Media Bargaining Charge Act 2026",
+ "folder": "news-media-bargaining-charge-act-2026",
+ "compilations": [
+  {
+   "in_force": "2026-08-26",
+   "register_id": "C2026A00078",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00078',start=2026-08-26,retrospectivestart=2026-08-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00078/2026-08-26/text",
+   "sha256": "f4fbf90fa8ef61dc4ef31bfe0a13009e3e5878b9762f3c5502f35c4db0a97611"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

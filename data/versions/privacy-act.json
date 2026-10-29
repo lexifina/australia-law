@@ -1,0 +1,1115 @@
+{
+ "title_id": "C2004A03712",
+ "name": "Privacy Act 1988",
+ "folder": "privacy-act",
+ "compilations": [
+  {
+   "in_force": "1997-06-18",
+   "register_id": "C2004C06144",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=1997-06-18,retrospectivestart=1997-06-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/1997-06-18/text",
+   "sha256": "b0563d9e214c441dc11cb51458a2647179c296fab44271e0009036a9fcbb7205"
+  },
+  {
+   "in_force": "1998-07-01",
+   "register_id": "C2004C06145",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=1998-07-01,retrospectivestart=1998-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/1998-07-01/text",
+   "sha256": "844190de2404d08706119e5b801c27d99da48f9aafd972f3fa9ecf72150ac9ee"
+  },
+  {
+   "in_force": "1999-07-01",
+   "register_id": "C2004C06146",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=1999-07-01,retrospectivestart=1999-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/1999-07-01/text",
+   "sha256": "14df465fc8d362bba1bf0a2962fb2acdce7f1bd369718a3370d97d0d4e56b5fb"
+  },
+  {
+   "in_force": "1999-12-10",
+   "register_id": "C2004C06147",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=1999-12-10,retrospectivestart=1999-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/1999-12-10/text",
+   "sha256": "0fea29bcc51280aa0deaaf2b32dbeb2e2f6904fb9b469cc3b2966919af43001d"
+  },
+  {
+   "in_force": "2000-07-02",
+   "register_id": "C2004C06148",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2000-07-02,retrospectivestart=2000-07-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2000-07-02/text",
+   "sha256": "67e60a858958a31c7a147f0de80546ed2c3b295a966a720194a5755a089c1e66"
+  },
+  {
+   "in_force": "2000-12-21",
+   "register_id": "C2004C06149",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2000-12-21,retrospectivestart=2000-12-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2000-12-21/text",
+   "sha256": "e549acc9dde25b4ca350e8558fffd99847121dd2552c00a0b91bb059e0b6cbf2"
+  },
+  {
+   "in_force": "2001-05-24",
+   "register_id": "C2004C06150",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2001-05-24,retrospectivestart=2001-05-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2001-05-24/text",
+   "sha256": "dd709b8462e3ae7a0170f945bbd378b75a938d4fec486820ba72c9bccec0e73f"
+  },
+  {
+   "in_force": "2001-07-15",
+   "register_id": "C2004C06151",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2001-07-15,retrospectivestart=2001-07-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2001-07-15/text",
+   "sha256": "47285975499d15b488f1b10d5dc4b513dfe4e65fd40a0da920168177ec975082"
+  },
+  {
+   "in_force": "2001-10-29",
+   "register_id": "C2004C06152",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2001-10-29,retrospectivestart=2001-10-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2001-10-29/text",
+   "sha256": "a7c92443dbca50ed63312e36d2e71a73069642361f59245ede06b4b284df94bf"
+  },
+  {
+   "in_force": "2003-01-01",
+   "register_id": "C2004C06153",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2003-01-01,retrospectivestart=2003-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2003-01-01/text",
+   "sha256": "45f372568beff24e19030d1a557249ff4bcf8958c47cc6c4d4a5e02024a73b9d"
+  },
+  {
+   "in_force": "2004-04-21",
+   "register_id": "C2004C06156",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2004-04-21,retrospectivestart=2004-04-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2004-04-21/text",
+   "sha256": "083c6bebbe1ff563bb21ed0c6a34dd0f5659a05c2584e8af28ace38a7275f259"
+  },
+  {
+   "in_force": "2004-06-17",
+   "register_id": "C2004C00050",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2004-06-17,retrospectivestart=2004-06-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2004-06-17/text",
+   "sha256": "9f40fd5cea6c442b04a50302d2b97d48b97b8e9989d947466b01bafb8059b5e8"
+  },
+  {
+   "in_force": "2005-05-16",
+   "register_id": "C2005C00349",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2005-05-16,retrospectivestart=2005-05-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2005-05-16/text",
+   "sha256": "f9847d305aa3ba92abe99a2da59acad6b2b126c6500f0ba2f7e029d39df097ff"
+  },
+  {
+   "in_force": "2005-07-06",
+   "register_id": "C2005C00452",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2005-07-06,retrospectivestart=2005-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2005-07-06/text",
+   "sha256": "34ff9ebca482128ca15fb44731cb85f0b7e568dc00cc06337e38a55daad37041"
+  },
+  {
+   "in_force": "2005-12-02",
+   "register_id": "C2006C00120",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2005-12-02,retrospectivestart=2005-12-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2005-12-02/text",
+   "sha256": "92d69c4f4b64512f0c9e69b5938fe29ae58466b952c6987e281456c292eb2663"
+  },
+  {
+   "in_force": "2006-07-01",
+   "register_id": "C2006C00372",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2006-07-01,retrospectivestart=2006-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2006-07-01/text",
+   "sha256": "a7e1b8cd79fc7c9ec8419f00e0f15fe19f98b1efe4b110013ece86ef0379dbe4"
+  },
+  {
+   "in_force": "2006-09-14",
+   "register_id": "C2006C00500",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2006-09-14,retrospectivestart=2006-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2006-09-14/text",
+   "sha256": "004d8054024295b9615529b6f21d04422c86880353c3b076dae09a9772edfded"
+  },
+  {
+   "in_force": "2006-10-06",
+   "register_id": "C2006C00571",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2006-10-06,retrospectivestart=2006-10-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2006-10-06/text",
+   "sha256": "d979d9cfff74d828c7461a785f5f838794b83ea6db1b31793bb8e00a5539e6e9"
+  },
+  {
+   "in_force": "2006-12-07",
+   "register_id": "C2006C00694",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2006-12-07,retrospectivestart=2006-12-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2006-12-07/text",
+   "sha256": "0e39450650ffe1f673f7f3985d36d728e65d639c414e573d17e67f9b28d79688"
+  },
+  {
+   "in_force": "2006-12-13",
+   "register_id": "C2006C00712",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2006-12-13,retrospectivestart=2006-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2006-12-13/text",
+   "sha256": "458e68dee90cd5c77961dc444488abb27ef44127fe714b072dcf19c9bd13ceda"
+  },
+  {
+   "in_force": "2006-12-30",
+   "register_id": "C2007C00037",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2006-12-30,retrospectivestart=2006-12-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2006-12-30/text",
+   "sha256": "b732acec54ef6567191f88dc35392a4cd145e9d3cbadf4c1552f8a1703f665c8"
+  },
+  {
+   "in_force": "2007-09-24",
+   "register_id": "C2008C00418",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2007-09-24,retrospectivestart=2007-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2007-09-24/text",
+   "sha256": "5cb4c7f4a0dcb4aa487fa82a5f72fbb4ac760ee5a11a2f08b1e1c516b88a051d"
+  },
+  {
+   "in_force": "2008-11-01",
+   "register_id": "C2008C00586",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2008-11-01,retrospectivestart=2008-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2008-11-01/text",
+   "sha256": "50f2ce7f77eb64a669d67895ace4f4cfc07f5ca42b345ee69335937179c6411d"
+  },
+  {
+   "in_force": "2009-05-23",
+   "register_id": "C2009C00200",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2009-05-23,retrospectivestart=2009-05-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2009-05-23/text",
+   "sha256": "50671438ae3cb9f5f0509ae8fd4c3312e79f8317ea2cc87edfdee8c52e20289a"
+  },
+  {
+   "in_force": "2009-07-01",
+   "register_id": "C2009C00325",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2009-07-01,retrospectivestart=2009-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2009-07-01/text",
+   "sha256": "c4c82c0951d8146e8b7e4cdd382b0bd0213463b473ae5341c4af6be1c4bdc295"
+  },
+  {
+   "in_force": "2009-08-05",
+   "register_id": "C2009C00383",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2009-08-05,retrospectivestart=2009-08-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2009-08-05/text",
+   "sha256": "631674287ff33e279a961810c0b4c6678032995b99a5bd4e69137b21c6e293dd"
+  },
+  {
+   "in_force": "2009-10-09",
+   "register_id": "C2009C00490",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2009-10-09,retrospectivestart=2009-10-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2009-10-09/text",
+   "sha256": "9e80b9d013b0076613f620ded7479225d1e9e0ba2fdea05c3505771040e1ab5f"
+  },
+  {
+   "in_force": "2010-02-20",
+   "register_id": "C2010C00121",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2010-02-20,retrospectivestart=2010-02-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2010-02-20/text",
+   "sha256": "aa3c11d8df71c9b297a1fd83c2bde93615ada44a199ee3133562b0a0d4e5072c"
+  },
+  {
+   "in_force": "2010-03-01",
+   "register_id": "C2010C00217",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2010-03-01,retrospectivestart=2010-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2010-03-01/text",
+   "sha256": "0ed2050f8d1a895342bfc3b749dea2cbbfcbe67f6198f1d48e1e1be69cee1ec9"
+  },
+  {
+   "in_force": "2010-06-29",
+   "register_id": "C2010C00444",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2010-06-29,retrospectivestart=2010-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2010-06-29/text",
+   "sha256": "60269ab09b3e10e7c59f1fd5d8cde286a1862c2fbf9e9bdfb431a5507ce8f602"
+  },
+  {
+   "in_force": "2010-11-01",
+   "register_id": "C2010C00731",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2010-11-01,retrospectivestart=2010-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2010-11-01/text",
+   "sha256": "e6cc0a41aee1cc0ce4bb72175fb265274b7a9868aa71da02a66db504d02d2c76"
+  },
+  {
+   "in_force": "2011-01-01",
+   "register_id": "C2011C00074",
+   "compilation": null,
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2011-01-01,retrospectivestart=2011-01-01,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2011-01-01/text",
+   "sha256": "77309eb847e20656629cb7e2551c0834c4763baeb11a729e33aec7db5fc711ec"
+  },
+  {
+   "in_force": "2011-03-03",
+   "register_id": "C2011C00133",
+   "compilation": null,
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2011-03-03,retrospectivestart=2011-03-03,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2011-03-03/text",
+   "sha256": "1f3c00644e1d49ccf8bb48ddb23c9a8d6b69c59621a9f0f84dc9d746fb6ffe72"
+  },
+  {
+   "in_force": "2011-03-22",
+   "register_id": "C2011C00157",
+   "compilation": null,
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2011-03-22,retrospectivestart=2011-03-22,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2011-03-22/text",
+   "sha256": "df5acf08c266500cce0183f6b3075cb563c42eb4fc3fd77913c7eaf5e0eb6fa3"
+  },
+  {
+   "in_force": "2011-04-09",
+   "register_id": "C2011C00179",
+   "compilation": null,
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2011-04-09,retrospectivestart=2011-04-09,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2011-04-09/text",
+   "sha256": "c313e8620e561e212d7205aa2e7732429bdbba72e110f445a2a32ea0a17e18ea"
+  },
+  {
+   "in_force": "2011-06-28",
+   "register_id": "C2011C00503",
+   "compilation": null,
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2011-06-28,retrospectivestart=2011-06-28,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2011-06-28/text",
+   "sha256": "40818e5363e920a0ad5daef388103c1f46112eddff449a59a050b486bc37a129"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00217",
+   "compilation": null,
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2011-12-27/text",
+   "sha256": "839b4a7f2425058071aefda8d0520bee0fc56d29c2654f02d52a7f3336e57292"
+  },
+  {
+   "in_force": "2012-01-30",
+   "register_id": "C2012C00271",
+   "compilation": null,
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2012-01-30,retrospectivestart=2012-01-30,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2012-01-30/text",
+   "sha256": "c145e2bdd3184c19e9f881af43a99814e4fbfc5d5c35c913ed3b7c8fa26f5899"
+  },
+  {
+   "in_force": "2012-04-05",
+   "register_id": "C2012C00414",
+   "compilation": null,
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2012-04-05,retrospectivestart=2012-04-05,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2012-04-05/text",
+   "sha256": "9532a289f75d98b9ce2f127af42b1705ed35c1fa1c2c21216ce4f2ed60cc51c5"
+  },
+  {
+   "in_force": "2012-12-04",
+   "register_id": "C2012C00903",
+   "compilation": null,
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2012-12-04,retrospectivestart=2012-12-04,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2012-12-04/text",
+   "sha256": "2dee4ce93e785294a28b04fba700fdacf07bdad99e963b4406eaca87929e6f6f"
+  },
+  {
+   "in_force": "2013-02-10",
+   "register_id": "C2013C00125",
+   "compilation": null,
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2013-02-10,retrospectivestart=2013-02-10,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2013-02-10/text",
+   "sha256": "89bf8735fd63b3740319cee7d64b5753085f344e116d1ae67b272d9fbec2b8ce"
+  },
+  {
+   "in_force": "2013-04-12",
+   "register_id": "C2013C00231",
+   "compilation": null,
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2013-04-12,retrospectivestart=2013-04-12,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2013-04-12/text",
+   "sha256": "f7e03708fbaf5f6c20ea2c136cf3888d7cebbe13990eebb8033f8a27e280d507"
+  },
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00482",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2013-07-01/text",
+   "sha256": "e355bb7f8a000785b143a18cab6763070912a168d3ea0ee27ce701abc8f53d09"
+  },
+  {
+   "in_force": "2014-03-12",
+   "register_id": "C2014C00076",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2014-03-12,retrospectivestart=2014-03-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2014-03-12/text",
+   "sha256": "0db2b54f6a322de732b1898cefa49b68af3ef3b25747a056324870f030d0f613"
+  },
+  {
+   "in_force": "2014-10-03",
+   "register_id": "C2014C00669",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2014-10-03,retrospectivestart=2014-10-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2014-10-03/text",
+   "sha256": "f3473043ac1a0a4cbe896e977daa167354cb24e46f4ccb0202c8ea7a7b3d8485"
+  },
+  {
+   "in_force": "2014-10-30",
+   "register_id": "C2014C00757",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2014-10-30,retrospectivestart=2014-10-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2014-10-30/text",
+   "sha256": "2efd04754203012ee40c58f38cfd6b2efb2e510d6f3c62ca3e3141286f92e135"
+  },
+  {
+   "in_force": "2015-03-25",
+   "register_id": "C2015C00089",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2015-03-25,retrospectivestart=2015-03-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2015-03-25/text",
+   "sha256": "64b7ac3100c3c58ebc0e1e450a16149060f0e02f94c2ba4d6c07baf2c49ef52d"
+  },
+  {
+   "in_force": "2015-06-18",
+   "register_id": "C2015C00279",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2015-06-18,retrospectivestart=2015-06-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2015-06-18/text",
+   "sha256": "8680da88d3afbe6b8bb91de4348d7e9e378afd313b530894d1b9d30b0ea8b1a7"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00451",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2015-07-01/text",
+   "sha256": "ce11f7765e5cacbbe58f9aa8c60832fff3290116bdc68a8a9f11b63e35cb8b6a"
+  },
+  {
+   "in_force": "2015-10-13",
+   "register_id": "C2015C00534",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2015-10-13,retrospectivestart=2015-10-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2015-10-13/text",
+   "sha256": "b1ba44cbbc088878959833b07d460aedc0a6cc76b741d92913d226de57c149a5"
+  },
+  {
+   "in_force": "2015-11-27",
+   "register_id": "C2015C00598",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2015-11-27,retrospectivestart=2015-11-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2015-11-27/text",
+   "sha256": "80296c417da3c5063f5bee9a441e50b836fc55030c6436ce55a94c202decfbe8"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00278",
+   "compilation": "70",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2016-03-05/text",
+   "sha256": "e679531de4d47e2ca3da9031fe09348f09ae38c5fa80aabd2362c2609a98066c"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00548",
+   "compilation": "71",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2016-03-10/text",
+   "sha256": "bc15f84645278c223ac9a7ec703fe5d0d521ac405d5d2303d73d823f5d0a95f9"
+  },
+  {
+   "in_force": "2016-06-16",
+   "register_id": "C2016C00662",
+   "compilation": "72",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2016-06-16,retrospectivestart=2016-06-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2016-06-16/text",
+   "sha256": "a12e9de58cc2c40ada5bb51a139d1348db5c7bf817b9f98e9427134482d2fe9b"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00838",
+   "compilation": "73",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2016-07-01/text",
+   "sha256": "c4e63f2df85092141cd2380594927e4df64e9ed78fea140239f91b4e8a8f6682"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00979",
+   "compilation": "74",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2016-10-21/text",
+   "sha256": "9c96339cd1476a64433a95c0740b9b8496133869a14c39b5d595cf5817355251"
+  },
+  {
+   "in_force": "2017-07-01",
+   "register_id": "C2017C00227",
+   "compilation": "75",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2017-07-01,retrospectivestart=2017-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2017-07-01/text",
+   "sha256": "6a229e9bf6d943c69a04cd42aeef77eda1a269b36a28e93d79ca74bd1cb9a17d"
+  },
+  {
+   "in_force": "2017-08-23",
+   "register_id": "C2017C00283",
+   "compilation": "76",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2017-08-23,retrospectivestart=2017-08-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2017-08-23/text",
+   "sha256": "f0ed294e16f11f2290ed5b29a6fcb2818558817486783c772f7b90a389e0858f"
+  },
+  {
+   "in_force": "2018-02-22",
+   "register_id": "C2018C00034",
+   "compilation": "77",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2018-02-22,retrospectivestart=2018-02-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2018-02-22/text",
+   "sha256": "fb93e4a19f295d5c6c99f42c6beeca1620e2baee9d80f095cddfd2aad0bfd59f"
+  },
+  {
+   "in_force": "2018-07-01",
+   "register_id": "C2018C00292",
+   "compilation": "78",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2018-07-01,retrospectivestart=2018-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2018-07-01/text",
+   "sha256": "e5a7ae145de03ebc5b4c07b1dc75b5d5098994019bee3ec5f95487d558310835"
+  },
+  {
+   "in_force": "2018-11-06",
+   "register_id": "C2018C00456",
+   "compilation": "79",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2018-11-06,retrospectivestart=2018-11-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2018-11-06/text",
+   "sha256": "edfa47f74789509ac8c3e4c66d97fafe5a8660c34069f39fc7fc7ac3210a1d9a"
+  },
+  {
+   "in_force": "2018-12-20",
+   "register_id": "C2019C00025",
+   "compilation": "80",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2018-12-20,retrospectivestart=2018-12-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2018-12-20/text",
+   "sha256": "954d7b5da203d8ea2b70c08068f2e043699e96353a05add830155975546f2068"
+  },
+  {
+   "in_force": "2019-08-13",
+   "register_id": "C2019C00241",
+   "compilation": "81",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2019-08-13,retrospectivestart=2019-08-13,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2019-08-13/text",
+   "sha256": "b1b7cf5af3d3da4add8bc3a0ddee48d4df7db17076b1ba78f54111dafb2552c5"
+  },
+  {
+   "in_force": "2019-12-13",
+   "register_id": "C2020C00025",
+   "compilation": "82",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2019-12-13,retrospectivestart=2019-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2019-12-13/text",
+   "sha256": "6fac9d0bf9cdeb83d233f7f964ac1cfa71c7a03283b3cc1d63425d6e9c693205"
+  },
+  {
+   "in_force": "2020-05-16",
+   "register_id": "C2020C00168",
+   "compilation": "83",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2020-05-16,retrospectivestart=2020-05-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2020-05-16/text",
+   "sha256": "13891c90c52cf14298d3d69d3b38ad0f3fd278f333b6e8407ba13d15963d7230"
+  },
+  {
+   "in_force": "2020-07-01",
+   "register_id": "C2020C00237",
+   "compilation": "84",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2020-07-01,retrospectivestart=2020-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2020-07-01/text",
+   "sha256": "90bf13d21bd9406ab4ef256d57f6fec28d077c1cc54fee00301c476ec61d73f0"
+  },
+  {
+   "in_force": "2020-12-16",
+   "register_id": "C2021C00024",
+   "compilation": "85",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2020-12-16,retrospectivestart=2020-12-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2020-12-16/text",
+   "sha256": "5d058dacfb4c925a9a6c20938475ef17db4f3650c74bc3a6fc267f7336105fd7"
+  },
+  {
+   "in_force": "2021-02-17",
+   "register_id": "C2021C00139",
+   "compilation": "86",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2021-02-17,retrospectivestart=2021-02-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2021-02-17/text",
+   "sha256": "60891ac83fe5b0fa7418a568f93ce54cea4a3a34fb5bd524744a181edc248f46"
+  },
+  {
+   "in_force": "2021-06-17",
+   "register_id": "C2021C00242",
+   "compilation": "87",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2021-06-17,retrospectivestart=2021-06-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2021-06-17/text",
+   "sha256": "15ad184f1ca706765c2cba3bc17c75cec0a0b361174984b58d7b216966e72aa6"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00379",
+   "compilation": "88",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2021-09-01/text",
+   "sha256": "c3008c3db4d5d556c638efd5d70bde342953c092c28e0bb784a5e1a80c539422"
+  },
+  {
+   "in_force": "2021-09-04",
+   "register_id": "C2021C00452",
+   "compilation": "89",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2021-09-04,retrospectivestart=2021-09-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2021-09-04/text",
+   "sha256": "ff77301b295f42ffec4921fecb0dd65798b05912c4d37bbca3624ffb3fb1fe95"
+  },
+  {
+   "in_force": "2022-04-01",
+   "register_id": "C2022C00135",
+   "compilation": "90",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2022-04-01,retrospectivestart=2022-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2022-04-01/text",
+   "sha256": "ef179413e69fc19f81cff8104b51903dd2a5380f8da17b7e0dac3771b2b83f5d"
+  },
+  {
+   "in_force": "2022-07-01",
+   "register_id": "C2022C00199",
+   "compilation": "91",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2022-07-01,retrospectivestart=2022-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2022-07-01/text",
+   "sha256": "eec987eb80cdb850c5fb30abc4da97531430c56ae05f08cc3ed0fb6c1879b5f0"
+  },
+  {
+   "in_force": "2022-11-14",
+   "register_id": "C2022C00321",
+   "compilation": "92",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2022-11-14,retrospectivestart=2022-11-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2022-11-14/text",
+   "sha256": "cebb4dd4ee4a4f58a065c164205d64e51c8e1f5fe8311ee5383fd0d422224d2b"
+  },
+  {
+   "in_force": "2022-12-13",
+   "register_id": "C2022C00361",
+   "compilation": "93",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2022-12-13,retrospectivestart=2022-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2022-12-13/text",
+   "sha256": "8004610b5d92b5bfb001eb655c63e3d29ff6601b3bfbcf4e07c90a6d16cc1ff0"
+  },
+  {
+   "in_force": "2023-07-01",
+   "register_id": "C2023C00130",
+   "compilation": "94",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2023-07-01,retrospectivestart=2023-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2023-07-01/text",
+   "sha256": "e443eba47568a0773cc89029370433a0de6cb4766a1f3436e889c5d1dcf1b2f3"
+  },
+  {
+   "in_force": "2023-09-14",
+   "register_id": "C2023C00232",
+   "compilation": "95",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2023-09-14,retrospectivestart=2023-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2023-09-14/text",
+   "sha256": "740e83d25e75c2d1cd2e77345101e67fba0e8d05f4ef3c99d092b9be3193d5c6"
+  },
+  {
+   "in_force": "2023-09-21",
+   "register_id": "C2023C00294",
+   "compilation": "96",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2023-09-21,retrospectivestart=2023-09-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2023-09-21/text",
+   "sha256": "f00893b79bbaf37dc17f21dedb555b1ed6841ef66e7126fafd01dab4756e84a4"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00347",
+   "compilation": "97",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2023-10-18/text",
+   "sha256": "3d3df87579729de5b758fc54c6ac2c7da26fed16e2f249e7c2eabf8a389a1abf"
+  },
+  {
+   "in_force": "2024-05-22",
+   "register_id": "C2024C00174",
+   "compilation": "98",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2024-05-22,retrospectivestart=2024-05-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2024-05-22/text",
+   "sha256": "c9c30f87a0de38b981a0ce016dd0573dde65f149d542768b21afcd102942c228"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00581",
+   "compilation": "99",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2024-10-14/text",
+   "sha256": "305a8fbc554f5ccec21a94171b200b776ee8f334ef4e18a0fa6cf8c0e0da66f4"
+  },
+  {
+   "in_force": "2024-11-30",
+   "register_id": "C2024C00777",
+   "compilation": "100",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2024-11-30,retrospectivestart=2024-11-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2024-11-30/text",
+   "sha256": "2a01043ce52b7faf9b02631a1e0e045d3e930550902376278e957e0d9260f1a5"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00833",
+   "compilation": "101",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2024-12-11/text",
+   "sha256": "91c8f40b31bb5959d0df5ef9e4324db495c29e2e69dd476018726a7c67484747"
+  },
+  {
+   "in_force": "2025-02-01",
+   "register_id": "C2025C00055",
+   "compilation": "102",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2025-02-01,retrospectivestart=2025-02-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2025-02-01/text",
+   "sha256": "4730f0f78fc94dc8d1c1d8a5ae340a855a8c0982bda16cbb743fc03742bb69c7"
+  },
+  {
+   "in_force": "2025-06-10",
+   "register_id": "C2025C00378",
+   "compilation": "103",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2025-06-10,retrospectivestart=2025-06-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2025-06-10/text",
+   "sha256": "04475e2f23e6fbbe46e57e64a33b6e58eaa8476c22f4223760f05777aaa143c0"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00227",
+   "compilation": "104",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03712',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03712/2026-06-04/text",
+   "sha256": "a19615e93d12defb705e8b8effd3741ef18419328036b10caebd2fee2ebcac56"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-02-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-10-22",
+   "acts": [
+    "Defence Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-23",
+   "acts": [
+    "Data-matching Program (Assistance and Tax) Act 1990",
+    "Social Security Legislation Amendment Act (No. 4) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-03-04",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-09-24",
+   "acts": [
+    "Privacy Amendment Act 1990",
+    "Law and Justice Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-13",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 4) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-12-07",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 4) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-06-09",
+   "acts": [
+    "National Health Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-06-23",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Australian Capital Territory Government Service (Consequential Provisions) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-01-01",
+   "acts": [
+    "Employment Services (Consequential Amendments) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-06-28",
+   "acts": [
+    "Human Rights Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Privacy Amendment (Office of the Privacy Commissioner) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-12",
+   "acts": [
+    "National Crime Authority Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-12-21",
+   "acts": [
+    "Privacy Amendment (Private Sector) Act 2000",
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001",
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001",
+    "Statute Law Revision Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-06",
+   "acts": [
+    "Privacy Legislation Amendment (Emergencies and Disasters) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-12-11",
+   "acts": [
+    "Territories Law Reform Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010",
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2026-12-10",
+   "acts": [
+    "Privacy and Other Legislation Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Interactive Gambling Amendment (Gambling Reform) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1988-12-14"
+ ],
+ "repeal": null
+}

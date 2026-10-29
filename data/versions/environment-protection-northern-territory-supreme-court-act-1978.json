@@ -1,0 +1,41 @@
+{
+ "title_id": "C2004A01829",
+ "name": "Environment Protection (Northern Territory Supreme Court) Act 1978",
+ "folder": "environment-protection-northern-territory-supreme-court-act-1978",
+ "compilations": [
+  {
+   "in_force": "2000-07-16",
+   "register_id": "C2004C00468",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01829',start=2000-07-16,retrospectivestart=2000-07-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01829/2000-07-16/text",
+   "sha256": "d55e1607eb4d9dc8edef9888054fa8c138001c71c74119a4e6e50e0bab615a0a"
+  },
+  {
+   "in_force": "2007-02-19",
+   "register_id": "C2007C00072",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01829',start=2007-02-19,retrospectivestart=2007-02-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01829/2007-02-19/text",
+   "sha256": "270f3664fafd4daeef8841fd39125750e5dca56e6f36f345b155d642f7315ddf"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1983-12-20",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1983"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1978-06-09"
+ ],
+ "repeal": null
+}

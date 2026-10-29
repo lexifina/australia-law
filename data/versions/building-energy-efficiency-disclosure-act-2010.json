@@ -1,0 +1,78 @@
+{
+ "title_id": "C2010A00067",
+ "name": "Building Energy Efficiency Disclosure Act 2010",
+ "folder": "building-energy-efficiency-disclosure-act-2010",
+ "compilations": [
+  {
+   "in_force": "2022-09-14",
+   "register_id": "C2022C00245",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00067',start=2022-09-14,retrospectivestart=2022-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00067/2022-09-14/text",
+   "sha256": "563cadf58a5a5a0055c05df6c046ed9d08249f0ff0dd20bb2a10c9182b554fa6"
+  },
+  {
+   "in_force": "2024-03-20",
+   "register_id": "C2024C00095",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00067',start=2024-03-20,retrospectivestart=2024-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00067/2024-03-20/text",
+   "sha256": "49177c92386aaba26ec71dfc7021c0680725e55f7024804c9e4bb4ea6d71528b"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00453",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00067',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00067/2024-10-14/text",
+   "sha256": "4a7193176a3493cd8b4cbd011dd08e816fc190915332b822df499296eb5dd0f0"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2010-06-28",
+   "acts": []
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Building Energy Efficiency Disclosure Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-11-06",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

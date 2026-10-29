@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04213",
+ "name": "Senate (Quorum) Act 1991",
+ "folder": "senate-quorum-act-1991",
+ "compilations": [
+  {
+   "in_force": "1991-09-27",
+   "register_id": "C2004A04213",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04213',start=1991-09-27,retrospectivestart=1991-09-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04213/1991-09-27/text",
+   "sha256": "fee6d70ecd4986f9ac181ea677788311672b2f22c2ba54849361c87b2da6ba24"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

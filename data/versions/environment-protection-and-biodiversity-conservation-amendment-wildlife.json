@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00849",
+ "name": "Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001",
+ "folder": "environment-protection-and-biodiversity-conservation-amendment-wildlife",
+ "compilations": [
+  {
+   "in_force": "2001-07-11",
+   "register_id": "C2004A00849",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00849',start=2001-07-11,retrospectivestart=2001-07-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00849/2001-07-11/text",
+   "sha256": "01f4edc1f87733175d212e15906aca6a8673bdb6c2af53356699d63b998dd0a0"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

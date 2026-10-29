@@ -1,0 +1,108 @@
+{
+ "title_id": "C2004A05130",
+ "name": "Human Services (Centrelink) Act 1997",
+ "folder": "human-services-centrelink-act-1997",
+ "compilations": [
+  {
+   "in_force": "2020-11-21",
+   "register_id": "C2020C00379",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05130',start=2020-11-21,retrospectivestart=2020-11-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05130/2020-11-21/text",
+   "sha256": "33ba95891c4a005ce98d9fd02aee5dac1ce76c4ef2b29aba589300f93ce332b1"
+  },
+  {
+   "in_force": "2024-01-01",
+   "register_id": "C2024C00048",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05130',start=2024-01-01,retrospectivestart=2024-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05130/2024-01-01/text",
+   "sha256": "68b320280a39657e2e2bfb0c2222522773b6a293ac9abe90d4c49b088d5b935b"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00596",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05130',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05130/2025-11-01/text",
+   "sha256": "522c33610ac6ed86b1d1f66d6c0ed440624e86b2cbe93b0aa19fc46c760e3967"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-04-17",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-04-15",
+   "acts": [
+    "Family and Community Services Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-06-17",
+   "acts": [
+    "Designs (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Australian Immunisation Register (Consequential and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2020-02-01",
+   "acts": [
+    "Services Australia Governance Amendment Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

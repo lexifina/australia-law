@@ -1,0 +1,60 @@
+{
+ "title_id": "C2012A00159",
+ "name": "Fair Entitlements Guarantee Act 2012",
+ "folder": "fair-entitlements-guarantee-act-2012",
+ "compilations": [
+  {
+   "in_force": "2021-12-08",
+   "register_id": "C2022C00007",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00159',start=2021-12-08,retrospectivestart=2021-12-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00159/2021-12-08/text",
+   "sha256": "51b688e3bc15e9929ea958f718fcb59cdaebb853fce904b97c356787c19cfa48"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00522",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00159',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00159/2024-10-14/text",
+   "sha256": "b48aa66f00e9359b44d4ab46670ccb40bcd0aca6d675d41544810c37c3670f2f"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00164",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00159',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00159/2025-02-21/text",
+   "sha256": "7bf4fa00a296ff1b2b74ed988138fd5daee16c3cdcdb7b5201c3d03f6add6c7d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-11-28",
+   "acts": []
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

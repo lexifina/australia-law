@@ -1,0 +1,79 @@
+{
+ "title_id": "C2004A02413",
+ "name": "Protection of the Sea (Shipping Levy Collection) Act 1981",
+ "folder": "protection-of-the-sea-shipping-levy-collection-act-1981",
+ "compilations": [
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00610",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02413',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02413/2016-03-10/text",
+   "sha256": "cc3a0bcc66cfaa3c80da63cf2936b88e6b866153d0ac8096fb1c237b9bb15c6d"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01085",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02413',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02413/2016-10-21/text",
+   "sha256": "d2af19bcedfa9a3a10899fc2e1e05cc38495826beeeca82abdbe8b8b3f7e643c"
+  },
+  {
+   "in_force": "2018-05-23",
+   "register_id": "C2018C00189",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02413',start=2018-05-23,retrospectivestart=2018-05-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02413/2018-05-23/text",
+   "sha256": "b57672fdac6262ea4a32b286d0c177a72e8956afdb9fd36effb5fd67beaebedd"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1981-04-14",
+   "acts": []
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-10-03",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

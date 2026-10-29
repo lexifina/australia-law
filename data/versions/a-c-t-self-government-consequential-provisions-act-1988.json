@@ -1,0 +1,49 @@
+{
+ "title_id": "C2004A03702",
+ "name": "A.C.T. Self-Government (Consequential Provisions) Act 1988",
+ "folder": "a-c-t-self-government-consequential-provisions-act-1988",
+ "compilations": [
+  {
+   "in_force": "1994-07-01",
+   "register_id": "C2004C00956",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03702',start=1994-07-01,retrospectivestart=1994-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03702/1994-07-01/text",
+   "sha256": "029945341745f0fbe67cc324eb76d5fa28989cbcc9e9dfb7e4c99812658c115a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "Arts, Territories and Environment Legislation Amendment Act 1989",
+    "Arts, Environment and Territories Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1989-11-14",
+   "acts": [
+    "Arts, Environment and Territories Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "A.C.T. Supreme Court (Transfer) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Arts, Environment and Territories Legislation Amendment Act 1993"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1988-12-06"
+ ],
+ "repeal": null
+}

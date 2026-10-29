@@ -1,0 +1,66 @@
+{
+ "title_id": "C2015A00152",
+ "name": "Foreign Acquisitions and Takeovers Fees Imposition Act 2015",
+ "folder": "foreign-acquisitions-and-takeovers-fees-imposition-act-2015",
+ "compilations": [
+  {
+   "in_force": "2021-01-01",
+   "register_id": "C2021C00021",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00152',start=2021-01-01,retrospectivestart=2021-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00152/2021-01-01/text",
+   "sha256": "d050d0192532f54b829761329f4b2478327290b250b0e468e0e55b239c88f3e2"
+  },
+  {
+   "in_force": "2022-12-06",
+   "register_id": "C2022C00334",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00152',start=2022-12-06,retrospectivestart=2022-12-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00152/2022-12-06/text",
+   "sha256": "cc12b896feb7a3c474c037e597cf584a1b1aa425b54cc7b025d87be84f5028db"
+  },
+  {
+   "in_force": "2024-04-09",
+   "register_id": "C2024C00141",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00152',start=2024-04-09,retrospectivestart=2024-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00152/2024-04-09/text",
+   "sha256": "34ff6eb4c6d438939c22748473c758fec4e23cbe36770b074d0f06deaa900486"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2015-11-25",
+   "acts": []
+  },
+  {
+   "in_force": "2017-06-24",
+   "acts": [
+    "Foreign Acquisitions and Takeovers Fees Imposition Amendment (Fee Streamlining and Other Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-12-15",
+   "acts": [
+    "Foreign Acquisitions and Takeovers Fees Imposition Amendment (Vacancy Fees) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-12-13",
+   "acts": [
+    "Foreign Acquisitions and Takeovers Fees Imposition Amendment (Near-new Dwelling Interests) Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

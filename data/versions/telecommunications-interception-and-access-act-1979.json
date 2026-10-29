@@ -1,0 +1,967 @@
+{
+ "title_id": "C2004A02124",
+ "name": "Telecommunications (Interception and Access) Act 1979",
+ "folder": "telecommunications-interception-and-access-act-1979",
+ "compilations": [
+  {
+   "in_force": "2026-01-22",
+   "register_id": "C2026C00070",
+   "compilation": "132",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02124',start=2026-01-22,retrospectivestart=2026-01-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02124/2026-01-22/text",
+   "sha256": "4f081eeb735819b5dcb109fc0713843f4f2d4a6754146ea0479b02b8ae4387a3"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00209",
+   "compilation": "133",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02124',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02124/2026-06-04/text",
+   "sha256": "ef660c54aba620380609fc36750d1873333e095b6a6d35f405d131df1e8e82b7"
+  },
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00372",
+   "compilation": "134",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02124',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02124/2026-08-27/text",
+   "sha256": "8bad3265c89ec001e64467cf257a8e3d31a895e8df7026fb19a1f10ac157dd4a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1979-10-25",
+   "acts": []
+  },
+  {
+   "in_force": "1980-06-01",
+   "acts": [
+    "Crimes Legislation Amendment (Telecommunications Interception and Other Measures) Act 2005",
+    "Telecommunications (Interception) Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1983-12-16",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-03-05",
+   "acts": [
+    "Director of Public Prosecutions (Consequential Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-04-04",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-17",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-03-29",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-06-04",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1987-02-01",
+   "acts": [
+    "Intelligence and Security (Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-12-16",
+   "acts": [
+    "Crimes Legislation Amendment Act 1987",
+    "Crimes Legislation Amendment Act 1987",
+    "Telecommunications (Interception) Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Crimes Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-09-01",
+   "acts": [
+    "Crimes Legislation Amendment Act 1987",
+    "Crimes Legislation Amendment Act 1988",
+    "Crimes Legislation Amendment Act (No. 2) 1988",
+    "Crimes Legislation Amendment Act 1988",
+    "Telecommunications (Interception) Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-01",
+   "acts": [
+    "Extradition (Repeal and Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Telecommunications Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-30",
+   "acts": [
+    "Telecommunications Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-07-01",
+   "acts": [
+    "Telecommunications and Postal Services (Transitional Provisions and Consequential Amendments) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-17",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-02-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-03-04",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-04-29",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-12-22",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-02-01",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 1993",
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "1994-12-16",
+   "acts": [
+    "Royal Commission into the New South Wales Police Service (Access to Information) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-08-28",
+   "acts": [
+    "International War Crimes Tribunals (Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-12",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-06-12",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-11",
+   "acts": [
+    "Telecommunications (Interception) and Listening Device Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-02-01",
+   "acts": [
+    "Telecommunications (Interception) and Listening Device Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-07-22",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-11-11",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-06-22",
+   "acts": [
+    "Telecommunications Interception Legislation Amendment Act 2002",
+    "Telecommunications (Interception) Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Telecommunications (Interception) Legislation Amendment Act 2000",
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001",
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Royal Commissions and Other Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-12",
+   "acts": [
+    "National Crime Authority Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-12-21",
+   "acts": [
+    "Cybercrime Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-07-05",
+   "acts": [
+    "Telecommunications Interception Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-09-26",
+   "acts": [
+    "International Criminal Court (Consequential Amendments) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002",
+    "Australian Crime Commission Establishment Act 2002",
+    "Australian Crime Commission Establishment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-07-23",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment (Terrorism) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-11-12",
+   "acts": [
+    "Telecommunications Interception and Other Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-02-06",
+   "acts": [
+    "Telecommunications Interception and Other Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-04-28",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-15",
+   "acts": [
+    "Telecommunications (Interception) Amendment (Stored Communications) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-03-01",
+   "acts": [
+    "Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Act (No. 2) 2004"
+   ]
+  },
+  {
+   "in_force": "2005-07-06",
+   "acts": [
+    "Crimes Legislation Amendment (Telecommunications Interception and Other Measures) Act 2005",
+    "Crimes Legislation Amendment (Telecommunications Interception and Other Measures) Act 2005",
+    "Statute Law Revision Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-08-03",
+   "acts": [
+    "Criminal Code Amendment (Trafficking in Persons Offences) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-02",
+   "acts": [
+    "Intelligence Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-06",
+   "acts": [
+    "Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-14",
+   "acts": [
+    "Telecommunications (Interception) Amendment (Stored Communications and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-17",
+   "acts": [
+    "Crimes Legislation Amendment (Telecommunications Interception and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-05-03",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-13",
+   "acts": [
+    "Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006",
+    "Telecommunications (Interception) Amendment Act 2006",
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006",
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-10-01",
+   "acts": [
+    "Telecommunications (Interception) Amendment (Stored Communications and Other Measures) Act 2005",
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-11-03",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-30",
+   "acts": [
+    "Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-08-25",
+   "acts": [
+    "Law and Justice Legislation Amendment (Marking of Plastic Explosives) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-29",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-11-01",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-05-26",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-05-27",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment Act 2008",
+    "Telecommunications (Interception and Access) Amendment Act 2008",
+    "Telecommunications (Interception and Access) Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-03",
+   "acts": [
+    "Telecommunications Interception Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-04",
+   "acts": [
+    "Telecommunications Interception Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-05",
+   "acts": [
+    "Telecommunications Interception Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Telecommunications Interception Legislation Amendment Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2009-06-18",
+   "acts": [
+    "Telecommunications Interception Legislation Amendment Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-24",
+   "acts": [
+    "Trade Practices Amendment (Cartel Conduct and Other Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-12",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2010-02-13",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-02-19",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010",
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-15",
+   "acts": [
+    "Crimes Legislation Amendment (Sexual Offences Against Children) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-01",
+   "acts": [
+    "Anti-People Smuggling and Other Measures Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-13",
+   "acts": [
+    "Corporations Amendment (No. 1) Act 2010",
+    "Corporations Amendment (No. 1) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-02",
+   "acts": [
+    "Crimes Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-03-03",
+   "acts": [
+    "Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-03-23",
+   "acts": [
+    "Telecommunications Interception and Intelligence Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-20",
+   "acts": [
+    "Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-10-10",
+   "acts": [
+    "Cybercrime Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-13",
+   "acts": [
+    "Law Enforcement Integrity Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-20",
+   "acts": [
+    "Telecommunications Interception and Other Legislation Amendment (State Bodies) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-02-10",
+   "acts": [
+    "Telecommunications Interception and Other Legislation Amendment (State Bodies) Act 2012",
+    "Telecommunications Interception and Other Legislation Amendment (State Bodies) Act 2012",
+    "Telecommunications Interception and Other Legislation Amendment (State Bodies) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-08",
+   "acts": [
+    "Crimes Legislation Amendment (Slavery, Slavery-like Conditions and People Trafficking) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013",
+    "Crimes Legislation Amendment (Law Enforcement Integrity, Vulnerable Witness Protection and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-10-30",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015",
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-13",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015",
+    "Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2015",
+    "Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-11-30",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2017-06-07",
+   "acts": [
+    "Criminal Code Amendment (High Risk Terrorist Offenders) Act 2016",
+    "Criminal Code Amendment (High Risk Terrorist Offenders) Act 2016",
+    "Criminal Code Amendment (High Risk Terrorist Offenders) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-06-23",
+   "acts": [
+    "Criminal Code Amendment (Protecting Minors Online) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Law Enforcement Legislation Amendment (State Bodies and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-09-20",
+   "acts": [
+    "Statute Update (Winter 2017) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-22",
+   "acts": [
+    "Investigation and Prosecution Measures Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-23",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-09-18",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018",
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-09",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment (Assistance and Access) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-10",
+   "acts": [
+    "Unexplained Wealth Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-29",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-09-21",
+   "acts": [
+    "Combatting Child Sexual Exploitation Legislation Amendment Act 2019",
+    "Combatting Child Sexual Exploitation Legislation Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-10",
+   "acts": [
+    "Australian Crime Commission Amendment (Special Operations and Special Investigations) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-13",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment (Assistance and Access Amendments Review) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-18",
+   "acts": [
+    "Financial Sector Reform (Hayne Royal Commission Response—Stronger Regulators (2019 Measures)) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-06-17",
+   "acts": [
+    "Radiocommunications Legislation Amendment (Reform and Modernisation) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-07-24",
+   "acts": [
+    "Telecommunications Legislation Amendment (International Production Orders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Telecommunications Legislation Amendment (International Production Orders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-04",
+   "acts": [
+    "Surveillance Legislation Amendment (Identify and Disrupt) Act 2021",
+    "Surveillance Legislation Amendment (Identify and Disrupt) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-09",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (High Risk Terrorist Offenders) Act 2021",
+    "Counter-Terrorism Legislation Amendment (High Risk Terrorist Offenders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-21",
+   "acts": [
+    "Foreign Intelligence Legislation Amendment Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-23",
+   "acts": [
+    "Online Safety (Transitional Provisions and Consequential Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-04-02",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-12-10",
+   "acts": [
+    "Australian Crime Commission Amendment (Special Operations and Special Investigations) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-08-10",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-08-12",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 2) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-14",
+   "acts": [
+    "Crimes and Other Legislation Amendment (Omnibus) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-21",
+   "acts": [
+    "Inspector-General of Intelligence and Security and Other Legislation Amendment (Modernisation) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-12-08",
+   "acts": [
+    "Migration and Other Legislation Amendment (Bridging Visas, Serious Offenders and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-05-22",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 3) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-25",
+   "acts": [
+    "Crimes and Other Legislation Amendment (Omnibus No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-04-04",
+   "acts": [
+    "Security of Critical Infrastructure and Other Legislation Amendment (Enhanced Response and Prevention) Act 2024",
+    "Security of Critical Infrastructure and Other Legislation Amendment (Enhanced Response and Prevention) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-11-05",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-11-08",
+   "acts": [
+    "Criminal Code Amendment (State Sponsors of Terrorism) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

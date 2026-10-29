@@ -1,0 +1,40 @@
+{
+ "title_id": "C2026A00024",
+ "name": "Appropriation (Fuel Security Response) Act (No. 2) 2025-2026",
+ "folder": "appropriation-fuel-security-response-act-no-2-2025-2026",
+ "compilations": [
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026A00024",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00024',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00024/2026-04-01/text",
+   "sha256": "50253b1b71a2e66020a68feaccbf20cf1ce0985756427c201563d4e5aed0cbd4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2028-07-01",
+   "acts": [
+    "Appropriation (Fuel Security Response) Act (No. 2) 2025-2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": {
+  "day": "2028-07-01",
+  "status": "Repealed",
+  "acts": [
+   [
+    24,
+    2026
+   ]
+  ],
+  "markdown": [
+   "s 16 of the [Appropriation (Fuel Security Response) Act (No. 2) 2025-2026](/C2026A00024)"
+  ]
+ }
+}

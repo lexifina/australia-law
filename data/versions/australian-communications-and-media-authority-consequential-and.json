@@ -1,0 +1,32 @@
+{
+ "title_id": "C2005A00045",
+ "name": "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005",
+ "folder": "australian-communications-and-media-authority-consequential-and",
+ "compilations": [
+  {
+   "in_force": "2005-04-01",
+   "register_id": "C2005A00045",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00045',start=2005-04-01,retrospectivestart=2005-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00045/2005-04-01/text",
+   "sha256": "74179da311a234c32c863349b176671fa3551b5eb7356fff7e342321c0950396"
+  },
+  {
+   "in_force": "2014-10-17",
+   "register_id": "C2014C00733",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00045',start=2014-10-17,retrospectivestart=2014-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00045/2014-10-17/text",
+   "sha256": "f9d8492f9153fd4439c928c6948277042a8e2b3c9829860c1edf994ad5a89661"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

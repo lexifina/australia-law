@@ -1,0 +1,72 @@
+{
+ "title_id": "C2004A02100",
+ "name": "Judges (Long Leave Payments) Act 1979",
+ "folder": "judges-long-leave-payments-act-1979",
+ "compilations": [
+  {
+   "in_force": "2008-12-10",
+   "register_id": "C2008C00671",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02100',start=2008-12-10,retrospectivestart=2008-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02100/2008-12-10/text",
+   "sha256": "a5e3497b11fff693247d734e3fb891186e3bed24437e8a422212508552c3f421"
+  },
+  {
+   "in_force": "2013-04-12",
+   "register_id": "C2013C00181",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02100',start=2013-04-12,retrospectivestart=2013-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02100/2013-04-12/text",
+   "sha256": "bd091ebccb65c686803b0a1417814be1f9580aef55d7595c345d062815abd8e1"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00494",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02100',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02100/2021-09-01/text",
+   "sha256": "b1192a987188e5e500cbac67218646586ee764f17427619767819d231c93fa3f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1979-08-31",
+   "acts": []
+  },
+  {
+   "in_force": "1985-03-14",
+   "acts": [
+    "Justices (Long Leave Payments) Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "A.C.T. Supreme Court (Transfer) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-07",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 4) 1992"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

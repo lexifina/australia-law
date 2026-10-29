@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A04946",
+ "name": "Commonwealth Authorities (Australian Capital Territory Pay-roll Tax) Act 1995",
+ "folder": "commonwealth-authorities-australian-capital-territory-pay-roll-tax-act",
+ "compilations": [
+  {
+   "in_force": "2007-03-15",
+   "register_id": "C2007C00137",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04946',start=2007-03-15,retrospectivestart=2007-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04946/2007-03-15/text",
+   "sha256": "28c6205854c39f7d9955a989fbf3ebdf52d42b494e737261f60df1beedebcb30"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1995-09-05"
+ ],
+ "repeal": null
+}

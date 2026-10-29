@@ -1,0 +1,40 @@
+{
+ "title_id": "C2025A00020",
+ "name": "Supply Act (No. 2) 2025-2026",
+ "folder": "supply-act-no-2-2025-2026",
+ "compilations": [
+  {
+   "in_force": "2025-03-27",
+   "register_id": "C2025A00020",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00020',start=2025-03-27,retrospectivestart=2025-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00020/2025-03-27/text",
+   "sha256": "e1679c7108987d67bced3e06d6ab72e1fe18b4fc1a7a5b4a976b88848b9b9777"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2028-07-01",
+   "acts": [
+    "Supply Act (No. 2) 2025-2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": {
+  "day": "2028-07-01",
+  "status": "Repealed",
+  "acts": [
+   [
+    20,
+    2025
+   ]
+  ],
+  "markdown": [
+   "s 18 of the [Supply Act (No. 2) 2025-2026](/C2025A00020)"
+  ]
+ }
+}

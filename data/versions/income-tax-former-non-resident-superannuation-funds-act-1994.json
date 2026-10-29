@@ -1,0 +1,34 @@
+{
+ "title_id": "C2004A04845",
+ "name": "Income Tax (Former Non-resident Superannuation Funds) Act 1994",
+ "folder": "income-tax-former-non-resident-superannuation-funds-act-1994",
+ "compilations": [
+  {
+   "in_force": "2007-03-15",
+   "register_id": "C2007C00117",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04845',start=2007-03-15,retrospectivestart=2007-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04845/2007-03-15/text",
+   "sha256": "0e86b11d28555c9c2224de09fe388930d00a809cdb889a21fdca3b850960dd47"
+  },
+  {
+   "in_force": "2007-09-24",
+   "register_id": "C2007C00605",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04845',start=2007-09-24,retrospectivestart=2007-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04845/2007-09-24/text",
+   "sha256": "d2e1c20b3d2e121c0aa74a354690426cccaee58fede29a6316837d20f46f46e1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1994-12-16"
+ ],
+ "repeal": null
+}

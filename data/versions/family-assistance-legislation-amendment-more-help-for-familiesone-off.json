@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A01295",
+ "name": "Family Assistance Legislation Amendment (More Help for Families—One-off Payments) Act 2004",
+ "folder": "family-assistance-legislation-amendment-more-help-for-familiesone-off",
+ "compilations": [
+  {
+   "in_force": "2004-05-26",
+   "register_id": "C2004A01295",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01295',start=2004-05-26,retrospectivestart=2004-05-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01295/2004-05-26/text",
+   "sha256": "ed4254c9321c96aa26ae97ea39e138ca0887bc5be5f948d7373917e8399a6f50"
+  },
+  {
+   "in_force": "2006-09-27",
+   "register_id": "C2006C00617",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01295',start=2006-09-27,retrospectivestart=2006-09-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01295/2006-09-27/text",
+   "sha256": "ab9d63ba8eab39c6839d145ddca9d17362300fc4a076ef004e6f60ee5f2b97e7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

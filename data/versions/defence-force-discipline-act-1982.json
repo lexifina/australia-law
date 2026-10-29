@@ -1,0 +1,325 @@
+{
+ "title_id": "C2004A02711",
+ "name": "Defence Force Discipline Act 1982",
+ "folder": "defence-force-discipline-act-1982",
+ "compilations": [
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00861",
+   "compilation": "37",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02711',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02711/2024-12-11/text",
+   "sha256": "918a1bb318e01fc51c1213c2d3e8ac76a64113c823c76879ff73691e638333f7"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00286",
+   "compilation": "38",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02711',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02711/2026-07-01/text",
+   "sha256": "bd25c80c12a04af222b7b7fa35396ab4191e60e974f3f13031509301dcd5777d"
+  },
+  {
+   "in_force": "2026-09-29",
+   "register_id": "C2026C00467",
+   "compilation": "39",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02711',start=2026-09-29,retrospectivestart=2026-09-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02711/2026-09-29/text",
+   "sha256": "e6b8cad544c971c6ff02c6b2c926da4c3bc3932807fd71c956cd2b30bc49af3f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1982-12-31",
+   "acts": []
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Defence Legislation Amendment Act 1984",
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-05-22",
+   "acts": [
+    "Veterans' Entitlements (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-06-05",
+   "acts": [
+    "Defence Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Defence Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-06",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1990-07-17",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-10-22",
+   "acts": [
+    "Defence Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-03-04",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-05-28",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1996"
+   ]
+  },
+  {
+   "in_force": "1995-06-15",
+   "acts": [
+    "Defence Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-11-01",
+   "acts": [
+    "Defence Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-04-19",
+   "acts": [
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001",
+    "Defence Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-12-15",
+   "acts": [
+    "Defence Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-01-14",
+   "acts": [
+    "Defence Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-06",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-12",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-12",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 2005",
+    "Defence Legislation Amendment Act (No. 2) 2005"
+   ]
+  },
+  {
+   "in_force": "2006-12-11",
+   "acts": [
+    "Defence Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-10-01",
+   "acts": [
+    "Defence Legislation Amendment Act 2006",
+    "Defence Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-03-20",
+   "acts": [
+    "Defence Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-09-20",
+   "acts": [
+    "Defence Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-09-22",
+   "acts": [
+    "Military Justice (Interim Measures) Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-05",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-10-11",
+   "acts": [
+    "Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010",
+    "Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Defence Legislation (Enhancement of Military Justice) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2019-03-02",
+   "acts": [
+    "Defence Legislation Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-09-26",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2021",
+    "Regulatory Powers (Standardisation Reform) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-12-13",
+   "acts": [
+    "Defence Legislation Amendment (Discipline Reform) Act 2021",
+    "Defence Legislation Amendment (Discipline Reform) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-11-28",
+   "acts": [
+    "Crimes and Other Legislation Amendment (Omnibus No. 2) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Defence Force Discipline Amendment (RCDVS Implementation and Related Measures No. 1) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

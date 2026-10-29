@@ -1,0 +1,32 @@
+{
+ "title_id": "C2014A00018",
+ "name": "Biosecurity Charges Imposition (General) Act 2015",
+ "folder": "biosecurity-charges-imposition-general-act-2015",
+ "compilations": [
+  {
+   "in_force": "2014-03-31",
+   "register_id": "C2014A00018",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00018',start=2014-03-31,retrospectivestart=2014-03-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00018/2014-03-31/text",
+   "sha256": "40504a5e62a27ee42e8d5bb98b31e9a5bd385f2639ffcea25880fd18107f8085"
+  },
+  {
+   "in_force": "2016-06-16",
+   "register_id": "C2016C00676",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00018',start=2016-06-16,retrospectivestart=2016-06-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00018/2016-06-16/text",
+   "sha256": "a20c2b386eca980ebd7c78527d3e0cf3dadf363a3f53c12a7d6dd8b6926bc742"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

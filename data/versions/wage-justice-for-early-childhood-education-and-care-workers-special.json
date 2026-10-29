@@ -1,0 +1,51 @@
+{
+ "title_id": "C2024A00140",
+ "name": "Wage Justice for Early Childhood Education and Care Workers (Special Account) Act 2024",
+ "folder": "wage-justice-for-early-childhood-education-and-care-workers-special",
+ "compilations": [
+  {
+   "in_force": "2024-12-10",
+   "register_id": "C2024A00140",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00140',start=2024-12-10,retrospectivestart=2024-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00140/2024-12-10/text",
+   "sha256": "3b52029f62ec34659866ecb0c7ca652f812ed388c1ccf8e3403a90bfc16df727"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00404",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00140',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00140/2026-09-19/text",
+   "sha256": "5d922487353256d74af7735ee6eb87cf8ff4faf6538439be2a25a6f2ded9b539"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2029-12-31",
+   "acts": [
+    "Wage Justice for Early Childhood Education and Care Workers (Special Account) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": {
+  "day": "2029-12-31",
+  "status": "Ceased",
+  "acts": [
+   [
+    140,
+    2024
+   ]
+  ],
+  "markdown": [
+   "s 17 of the [Wage Justice for Early Childhood Education and Care Workers (Special Account) Act 2024](/C2024A00140)"
+  ]
+ }
+}

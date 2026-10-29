@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A02459",
+ "name": "Offshore Minerals (Royalty) Act 1981",
+ "folder": "offshore-minerals-royalty-act-1981",
+ "compilations": [
+  {
+   "in_force": "1994-02-25",
+   "register_id": "C2004C00368",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02459',start=1994-02-25,retrospectivestart=1994-02-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02459/1994-02-25/text",
+   "sha256": "29d325f93f61d42be0ddfc0f28636d1d5526afea2d462fbe4080632796f7ad98"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1981-06-18"
+ ],
+ "repeal": null
+}

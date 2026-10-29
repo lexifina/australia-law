@@ -1,0 +1,194 @@
+{
+ "title_id": "C2004A00773",
+ "name": "Australian Research Council Act 2001",
+ "folder": "australian-research-council-act-2001",
+ "compilations": [
+  {
+   "in_force": "2022-04-02",
+   "register_id": "C2022C00142",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00773',start=2022-04-02,retrospectivestart=2022-04-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00773/2022-04-02/text",
+   "sha256": "0300302615c59a5e1ca4fbba01c9870cdef07b839191c1869b5c75e8d5447077"
+  },
+  {
+   "in_force": "2023-06-29",
+   "register_id": "C2023C00129",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00773',start=2023-06-29,retrospectivestart=2023-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00773/2023-06-29/text",
+   "sha256": "845d9c9824db91e5a8c349950ed4aac05e3fcbcdc17f1d0b10599d6bf38fd8ea"
+  },
+  {
+   "in_force": "2024-07-01",
+   "register_id": "C2024C00245",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00773',start=2024-07-01,retrospectivestart=2024-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00773/2024-07-01/text",
+   "sha256": "b656471f3a69b9914338d7dd87cc7dfe367a43c3f6d3e16af2b306d290ea8544"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2001-03-22",
+   "acts": []
+  },
+  {
+   "in_force": "2001-07-18",
+   "acts": [
+    "Higher Education Funding Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-10-08",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-10-21",
+   "acts": [
+    "Higher Education Funding Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-09-23",
+   "acts": [
+    "Higher Education Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-12-17",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 3) 2004"
+   ]
+  },
+  {
+   "in_force": "2006-04-07",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Australian Research Council Amendment Act 2006",
+    "Australian Research Council Amendment Act 2006",
+    "Australian Research Council Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-11-04",
+   "acts": [
+    "Higher Education Legislation Amendment (2006 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-06-28",
+   "acts": [
+    "Higher Education Legislation Amendment (2007 Budget Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-10-18",
+   "acts": [
+    "Australian Research Council Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-05-31",
+   "acts": [
+    "Australian Research Council Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-05-25",
+   "acts": [
+    "Australian Research Council Amendment Act (No. 1) 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-15",
+   "acts": [
+    "Australian Research Council Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-18",
+   "acts": [
+    "Higher Education Support Amendment (Maximum Payment Amounts and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-03-01",
+   "acts": [
+    "Australian Research Council Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-12-01",
+   "acts": [
+    "Higher Education Legislation Amendment (Miscellaneous Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-04-13",
+   "acts": [
+    "Education and Other Legislation Amendment Act (No. 1) 2017"
+   ]
+  },
+  {
+   "in_force": "2018-06-19",
+   "acts": [
+    "Statute Update (Autumn 2018) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-06-29",
+   "acts": [
+    "Australian Research Council Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-02-27",
+   "acts": [
+    "Australian Research Council Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-05-28",
+   "acts": [
+    "Education Legislation Amendment (2021 Measures No. 1) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

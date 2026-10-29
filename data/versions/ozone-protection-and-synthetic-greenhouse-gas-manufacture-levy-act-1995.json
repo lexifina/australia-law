@@ -1,0 +1,85 @@
+{
+ "title_id": "C2004A04975",
+ "name": "Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995",
+ "folder": "ozone-protection-and-synthetic-greenhouse-gas-manufacture-levy-act-1995",
+ "compilations": [
+  {
+   "in_force": "2018-01-01",
+   "register_id": "C2018C00014",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04975',start=2018-01-01,retrospectivestart=2018-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04975/2018-01-01/text",
+   "sha256": "c4f2aecbc3ec411450daa131b70d8697d7fa48cbd94e3eb1fb00a9defbe5ad58"
+  },
+  {
+   "in_force": "2023-06-13",
+   "register_id": "C2023C00100",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04975',start=2023-06-13,retrospectivestart=2023-06-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04975/2023-06-13/text",
+   "sha256": "733d3ec23a2cd17383df8e5a0612b8142e2391886d4393b320dd39ccd8794e51"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00312",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04975',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04975/2026-07-01/text",
+   "sha256": "01fe1e373eefaa96b1ef81f9adae0f2ac8a0db7fcd315a19e0347cdd74148149"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-11-02",
+   "acts": []
+  },
+  {
+   "in_force": "2003-12-05",
+   "acts": [
+    "Ozone Protection (Licence Fees—Manufacture) Amendment Act 2003",
+    "Ozone Protection (Licence Fees—Manufacture) Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-12-14",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment (Per-tonne Carbon Price Equivalent) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Amendment (Carbon Tax Repeal) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2017-08-01",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas Management Legislation Amendment Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

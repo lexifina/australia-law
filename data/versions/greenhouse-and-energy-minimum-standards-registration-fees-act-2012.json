@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00133",
+ "name": "Greenhouse and Energy Minimum Standards (Registration Fees) Act 2012",
+ "folder": "greenhouse-and-energy-minimum-standards-registration-fees-act-2012",
+ "compilations": [
+  {
+   "in_force": "2012-09-21",
+   "register_id": "C2012A00133",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00133',start=2012-09-21,retrospectivestart=2012-09-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00133/2012-09-21/text",
+   "sha256": "96958bf2a9650a356e57921c7bc11fec866d5114a930e3f8c0b9d9294ba9b150"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

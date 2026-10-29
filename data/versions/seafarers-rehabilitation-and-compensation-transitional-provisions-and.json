@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04524",
+ "name": "Seafarers Rehabilitation and Compensation (Transitional Provisions and Consequential Amendments) Act 1992",
+ "folder": "seafarers-rehabilitation-and-compensation-transitional-provisions-and",
+ "compilations": [
+  {
+   "in_force": "1992-12-24",
+   "register_id": "C2004A04524",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04524',start=1992-12-24,retrospectivestart=1992-12-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04524/1992-12-24/text",
+   "sha256": "ebe32166f0e6926c3e57706f4db8386c942b8544d64c785c5b8f9ec776bfd91e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2013A00063",
+ "name": "Water Efficiency Labelling and Standards (Registration Fees) Act 2013",
+ "folder": "water-efficiency-labelling-and-standards-registration-fees-act-2013",
+ "compilations": [
+  {
+   "in_force": "2013-06-26",
+   "register_id": "C2013A00063",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00063',start=2013-06-26,retrospectivestart=2013-06-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00063/2013-06-26/text",
+   "sha256": "4dd02fd026a42d91562bba0cd54466ba94873a61ef01f8910e6de7f0382d1dcc"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

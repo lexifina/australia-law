@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00014",
+ "name": "National Commission for Aboriginal and Torres Strait Islander Children and Young People Act 2026",
+ "folder": "national-commission-for-aboriginal-and-torres-strait-islander-children",
+ "compilations": [
+  {
+   "in_force": "2026-03-26",
+   "register_id": "C2026A00014",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00014',start=2026-03-26,retrospectivestart=2026-03-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00014/2026-03-26/text",
+   "sha256": "86cc6be0a45d888082f7a2a6dfb728db1273326757f586a8b65436e0a7a11636"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

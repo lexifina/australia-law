@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A02275",
+ "name": "Northern Territory (Commonwealth Lands) Act 1980",
+ "folder": "northern-territory-commonwealth-lands-act-1980",
+ "compilations": [
+  {
+   "in_force": "1980-05-29",
+   "register_id": "C2004A02275",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02275',start=1980-05-29,retrospectivestart=1980-05-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02275/1980-05-29/text",
+   "sha256": "3385b79b787a4dd471663f005393644fa1863f2f26ce8fb19eeb3ba64a4dd179"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

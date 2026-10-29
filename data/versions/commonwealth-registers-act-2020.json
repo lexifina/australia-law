@@ -1,0 +1,54 @@
+{
+ "title_id": "C2020A00065",
+ "name": "Commonwealth Registers Act 2020",
+ "folder": "commonwealth-registers-act-2020",
+ "compilations": [
+  {
+   "in_force": "2024-05-22",
+   "register_id": "C2024C00172",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00065',start=2024-05-22,retrospectivestart=2024-05-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00065/2024-05-22/text",
+   "sha256": "f99c9fca4e7cac5f58ee206ed1ac0664bac7dc7ed7a449d4a8f0eba16e03433a"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00634",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00065',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00065/2024-10-14/text",
+   "sha256": "4fd47096c073508e317c82d75a856d4ed693709609e7162ded81872e15e7a4b2"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00304",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00065',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00065/2026-07-01/text",
+   "sha256": "20b9f7ca2ae926c42ebab5a485e5b2d57f04ba248b34efe7b8ff0f1eb4b6c817"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2020-06-22",
+   "acts": []
+  },
+  {
+   "in_force": "2023-09-15",
+   "acts": [
+    "Treasury Laws Amendment (Modernising Business Communications and Other Measures) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

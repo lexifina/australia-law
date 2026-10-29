@@ -1,0 +1,231 @@
+{
+ "title_id": "C2004A03755",
+ "name": "Ozone Protection and Synthetic Greenhouse Gas Management Act 1989",
+ "folder": "ozone-protection-and-synthetic-greenhouse-gas-management-act-1989",
+ "compilations": [
+  {
+   "in_force": "2023-06-13",
+   "register_id": "C2023C00125",
+   "compilation": "34",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03755',start=2023-06-13,retrospectivestart=2023-06-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03755/2023-06-13/text",
+   "sha256": "93fa375ef0f5e7491a50c5bfabcd03acadc3e960a096db8a5ab87fb72f8a901a"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00535",
+   "compilation": "35",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03755',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03755/2024-10-14/text",
+   "sha256": "e79625971b28212ca09ae4d4b69371b4656a0212060f7f73ce7c2b8fc373ab50"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00241",
+   "compilation": "36",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03755',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03755/2026-07-01/text",
+   "sha256": "d2f0ee9d90363d34ba94441dbeb99906e937763a543d9eb0e872818823010e76"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1989-03-16",
+   "acts": []
+  },
+  {
+   "in_force": "1992-11-09",
+   "acts": [
+    "Ozone Protection Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-01-01",
+   "acts": [
+    "Ozone Protection Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-07-07",
+   "acts": [
+    "Environment, Sport and Territories Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-05-31",
+   "acts": [
+    "Ozone Protection Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-09-18",
+   "acts": [
+    "Environmental Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-12-05",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003",
+    "Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-08-03",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-05-18",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas Management Amendment Act 2010",
+    "Ozone Protection and Synthetic Greenhouse Gas Management Amendment Act 2010",
+    "Ozone Protection and Synthetic Greenhouse Gas Management Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-04-02",
+   "acts": [
+    "Clean Energy (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Clean Energy (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-03-15",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2013"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Clean Energy Legislation (Carbon Tax Repeal) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-08-01",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas Management Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas Management Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas Management Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

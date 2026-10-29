@@ -1,0 +1,34 @@
+{
+ "title_id": "C2004A04595",
+ "name": "Protection of the Sea (Imposition of Contributions to Oil Pollution Compensation Funds—General) Act 1993",
+ "folder": "protection-of-the-sea-imposition-of-contributions-to-oil-pol-c2004a04595",
+ "compilations": [
+  {
+   "in_force": "1995-01-08",
+   "register_id": "C2008C00552",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04595',start=1995-01-08,retrospectivestart=1995-01-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04595/1995-01-08/text",
+   "sha256": "8ddbe5d6840b6171a0333b5a514ad70698cf987dc38e4209959baf2c30cd0dde"
+  },
+  {
+   "in_force": "2009-10-13",
+   "register_id": "C2009C00474",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04595',start=2009-10-13,retrospectivestart=2009-10-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04595/2009-10-13/text",
+   "sha256": "4c987510800811e513763e6dbd09d1db36ae6b39b061399d6828b74292e7d080"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1993-10-15"
+ ],
+ "repeal": null
+}

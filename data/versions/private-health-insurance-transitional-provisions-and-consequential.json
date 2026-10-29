@@ -1,0 +1,43 @@
+{
+ "title_id": "C2007A00032",
+ "name": "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007",
+ "folder": "private-health-insurance-transitional-provisions-and-consequential",
+ "compilations": [
+  {
+   "in_force": "2007-03-30",
+   "register_id": "C2007A00032",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00032',start=2007-03-30,retrospectivestart=2007-03-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00032/2007-03-30/text",
+   "sha256": "7a89b479953123ddd76fa425e48568acd02133968165c0468e8671960bf0f01a"
+  },
+  {
+   "in_force": "2011-07-01",
+   "register_id": "C2011C00456",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00032',start=2011-07-01,retrospectivestart=2011-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00032/2011-07-01/text",
+   "sha256": "d99c5f615964d36fb67185e41325bab100ba8550be3599de0241105c083098cf"
+  },
+  {
+   "in_force": "2023-07-01",
+   "register_id": "C2023C00183",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00032',start=2023-07-01,retrospectivestart=2023-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00032/2023-07-01/text",
+   "sha256": "661471dd5aa90bbec8282e126d18bc3526dbd704016b1c800e954a9e94a513f7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

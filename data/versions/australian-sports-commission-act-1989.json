@@ -1,0 +1,156 @@
+{
+ "title_id": "C2004A03760",
+ "name": "Australian Sports Commission Act 1989",
+ "folder": "australian-sports-commission-act-1989",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01020",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03760',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03760/2016-10-21/text",
+   "sha256": "b564a14d3d3c47c90149a7c04a634d8088cbce9da8c1bd7bc02ffb629fd3dae6"
+  },
+  {
+   "in_force": "2020-07-01",
+   "register_id": "C2020C00230",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03760',start=2020-07-01,retrospectivestart=2020-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03760/2020-07-01/text",
+   "sha256": "07fa0f27b2f18dca07f2901bacaf0b48979a24af35e6a69c401fb4093b2c0489"
+  },
+  {
+   "in_force": "2020-08-10",
+   "register_id": "C2020C00256",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03760',start=2020-08-10,retrospectivestart=2020-08-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03760/2020-08-10/text",
+   "sha256": "1f4604f0b276a38971846daf819fbf343cde3358c69461f3fce2b839ed421310"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1989-03-16",
+   "acts": []
+  },
+  {
+   "in_force": "1991-03-21",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-10-27",
+   "acts": [
+    "Sales Tax Amendment (Transitional) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-04-06",
+   "acts": [
+    "Environment, Sport and Territories Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-11-03",
+   "acts": [
+    "Australian Sports Commission Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-04-01",
+   "acts": [
+    "Australian Sports Commission Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-13",
+   "acts": [
+    "Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Australian Sports Anti-Doping Authority Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-01-01",
+   "acts": [
+    "Australian Sports Anti-Doping Authority Amendment Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

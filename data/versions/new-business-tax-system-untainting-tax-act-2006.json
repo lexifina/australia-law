@@ -1,0 +1,21 @@
+{
+ "title_id": "C2006A00081",
+ "name": "New Business Tax System (Untainting Tax) Act 2006",
+ "folder": "new-business-tax-system-untainting-tax-act-2006",
+ "compilations": [
+  {
+   "in_force": "2006-06-30",
+   "register_id": "C2006A00081",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00081',start=2006-06-30,retrospectivestart=2006-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00081/2006-06-30/text",
+   "sha256": "85b46068ed38692d8d1d404ae0df0f3c793a7781ff09d85dd7a1f8d76d0b3491"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

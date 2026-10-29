@@ -1,0 +1,43 @@
+{
+ "title_id": "C2006A00053",
+ "name": "Child Support Legislation Amendment (Reform of the Child Support Scheme—Initial Measures) Act 2006",
+ "folder": "child-support-legislation-amendment-reform-of-the-child-support",
+ "compilations": [
+  {
+   "in_force": "2006-06-15",
+   "register_id": "C2006A00053",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00053',start=2006-06-15,retrospectivestart=2006-06-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00053/2006-06-15/text",
+   "sha256": "8bfe822edae9739bb16b1f232c853d6c7b0755d7f6423bb3a3caaaa3f0e0e012"
+  },
+  {
+   "in_force": "2006-07-01",
+   "register_id": "C2007C00163",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00053',start=2006-07-01,retrospectivestart=2006-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00053/2006-07-01/text",
+   "sha256": "92136a29ce7aaee1c02777cf0d02ea74ccd50e9121a99eacf43c1982d4c22cf9"
+  },
+  {
+   "in_force": "2011-09-16",
+   "register_id": "C2011C00779",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00053',start=2011-09-16,retrospectivestart=2011-09-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00053/2011-09-16/text",
+   "sha256": "6224b5c4a0f195a660c907d4ed2385e6a705936d8206a735af688be8367da9ce"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

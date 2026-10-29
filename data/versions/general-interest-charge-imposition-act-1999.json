@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00400",
+ "name": "General Interest Charge (Imposition) Act 1999",
+ "folder": "general-interest-charge-imposition-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-03-31",
+   "register_id": "C2004A00400",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00400',start=1999-03-31,retrospectivestart=1999-03-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00400/1999-03-31/text",
+   "sha256": "8adfc31a8601bc8c572ccac6b22b2c44a175e9ecff9ba38f7eeb7bd8a3a0515f"
+  },
+  {
+   "in_force": "2006-09-14",
+   "register_id": "C2006C00582",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00400',start=2006-09-14,retrospectivestart=2006-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00400/2006-09-14/text",
+   "sha256": "10bb85d41c9b7607e5c82853d692201eef99c4c8ec7eeee3a757ec9e9dc2da47"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,78 @@
+{
+ "title_id": "C2010A00052",
+ "name": "Australian Information Commissioner Act 2010",
+ "folder": "australian-information-commissioner-act-2010",
+ "compilations": [
+  {
+   "in_force": "2022-12-13",
+   "register_id": "C2023C00007",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00052',start=2022-12-13,retrospectivestart=2022-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00052/2022-12-13/text",
+   "sha256": "a805273359bb6af2b29bd1da4a1cbaaa2b7c73aba932105a5ff642bc6f93772c"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00439",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00052',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00052/2024-10-14/text",
+   "sha256": "cde12eec10a5f3830d3d3a5f9e256f3a5532cc12bac1e5c16daf693c8909a270"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00822",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00052',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00052/2024-12-11/text",
+   "sha256": "ba9dbde1c85f67529ad4e3a0629d4c84de7694fa320658b5383ce1c6723cb737"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2010-05-31",
+   "acts": []
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2019-08-13",
+   "acts": [
+    "Treasury Laws Amendment (Consumer Data Right) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-09-04",
+   "acts": [
+    "Surveillance Legislation Amendment (Identify and Disrupt) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

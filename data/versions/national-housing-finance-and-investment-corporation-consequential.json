@@ -1,0 +1,21 @@
+{
+ "title_id": "C2018A00066",
+ "name": "National Housing Finance and Investment Corporation (Consequential Amendments and Transitional Provisions) Act 2018",
+ "folder": "national-housing-finance-and-investment-corporation-consequential",
+ "compilations": [
+  {
+   "in_force": "2018-06-29",
+   "register_id": "C2018A00066",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00066',start=2018-06-29,retrospectivestart=2018-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00066/2018-06-29/text",
+   "sha256": "69a4a4c6367433609ab2d8a808fb97722413c2fbff1de582bbc078b9a0e5e29a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

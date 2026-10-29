@@ -1,0 +1,84 @@
+{
+ "title_id": "C2004A02867",
+ "name": "Foreign Proceedings (Excess of Jurisdiction) Act 1984",
+ "folder": "foreign-proceedings-excess-of-jurisdiction-act-1984",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00270",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02867',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02867/2016-03-05/text",
+   "sha256": "bb41c72cc8dd818cf5b15843091b8746dd941fdce040d488555cc1c79558d9c3"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00546",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02867',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02867/2016-03-10/text",
+   "sha256": "6217d6245b3062520a2c86a14fe7549738d96c6c77f98a233f1e9fa7d08f8588"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01084",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02867',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02867/2016-10-21/text",
+   "sha256": "3b4f385c1174068481ea3b478b9fb1f3ba6e4b555847965988cd2a3091874216"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1984-03-21",
+   "acts": []
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-10-27",
+   "acts": [
+    "Foreign Judgments Act 1991"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

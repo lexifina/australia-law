@@ -1,0 +1,21 @@
+{
+ "title_id": "C2019A00085",
+ "name": "Higher Education Support (Charges) Act 2019",
+ "folder": "higher-education-support-charges-act-2019",
+ "compilations": [
+  {
+   "in_force": "2019-10-28",
+   "register_id": "C2019A00085",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00085',start=2019-10-28,retrospectivestart=2019-10-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00085/2019-10-28/text",
+   "sha256": "179e406fab6aad61ecab66a2b097966e8e43ff437a34523badd185dc4e70ddad"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

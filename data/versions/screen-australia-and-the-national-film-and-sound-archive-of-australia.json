@@ -1,0 +1,43 @@
+{
+ "title_id": "C2008A00013",
+ "name": "Screen Australia and the National Film and Sound Archive of Australia (Consequential and Transitional Provisions) Act 2008",
+ "folder": "screen-australia-and-the-national-film-and-sound-archive-of-australia",
+ "compilations": [
+  {
+   "in_force": "2008-03-20",
+   "register_id": "C2008A00013",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00013',start=2008-03-20,retrospectivestart=2008-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00013/2008-03-20/text",
+   "sha256": "6e02c265049f30e845aef9aee5014724edcc62fefce015bd84e333cfa6c37feb"
+  },
+  {
+   "in_force": "2011-07-01",
+   "register_id": "C2011C00494",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00013',start=2011-07-01,retrospectivestart=2011-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00013/2011-07-01/text",
+   "sha256": "38c26e90241f345ab20e93a9cb4a9d5d4ac2e987a41e3523530a53614217e68a"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00432",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00013',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00013/2016-03-05/text",
+   "sha256": "38693771985910682fddfefdee73dd36217f740da5e3f5723db4f669100cf2a1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

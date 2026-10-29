@@ -1,0 +1,32 @@
+{
+ "title_id": "C2016A00075",
+ "name": "Narcotic Drugs (Licence Charges) Act 2016",
+ "folder": "narcotic-drugs-licence-charges-act-2016",
+ "compilations": [
+  {
+   "in_force": "2016-11-23",
+   "register_id": "C2016A00075",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00075',start=2016-11-23,retrospectivestart=2016-11-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00075/2016-11-23/text",
+   "sha256": "c3252050951e614d2594fdc215d4e6933c723bcb3c76b8460020d37808e60729"
+  },
+  {
+   "in_force": "2022-12-01",
+   "register_id": "C2022C00329",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00075',start=2022-12-01,retrospectivestart=2022-12-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00075/2022-12-01/text",
+   "sha256": "f7f28e448c1f95b35dd0eecd5e3d66f4c7c40a6fcf606f75ff3b9040b055e359"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

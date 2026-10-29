@@ -1,0 +1,32 @@
+{
+ "title_id": "C2022A00051",
+ "name": "Jobs and Skills Australia Act 2022",
+ "folder": "jobs-and-skills-australia-act-2022",
+ "compilations": [
+  {
+   "in_force": "2022-11-09",
+   "register_id": "C2022A00051",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00051',start=2022-11-09,retrospectivestart=2022-11-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00051/2022-11-09/text",
+   "sha256": "4b09c18f6299f92bdf651157fb1b9145b24b7f7c647aaf8db82b7dcde4f534ce"
+  },
+  {
+   "in_force": "2023-08-18",
+   "register_id": "C2023C00214",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00051',start=2023-08-18,retrospectivestart=2023-08-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00051/2023-08-18/text",
+   "sha256": "9c3a2b21dd290ccfc94b86978cacd205d9f5fac55db837e9efb0d155722ec39b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,90 @@
+{
+ "title_id": "C2011A00022",
+ "name": "National Broadband Network Companies Act 2011",
+ "folder": "national-broadband-network-companies-act-2011",
+ "compilations": [
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00417",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00022',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00022/2023-10-20/text",
+   "sha256": "2ff01e6e8a8141cc7517129f234c41f933239cd1977873972cc40e39b2a68871"
+  },
+  {
+   "in_force": "2025-03-28",
+   "register_id": "C2025C00285",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00022',start=2025-03-28,retrospectivestart=2025-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00022/2025-03-28/text",
+   "sha256": "ec297d0d5763b5f54c2a6989bf20ff0c8522d5d2980def0f1daf597343d707f5"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00661",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00022',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00022/2025-12-05/text",
+   "sha256": "036bec66eb0208a83375e25e022e1f845b9f4dfb204f6b7530bbe80bc83b4348"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-03-22",
+   "acts": []
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2019-03-02",
+   "acts": [
+    "Telecommunications Legislation Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-12",
+   "acts": [
+    "Communications Legislation Amendment (Deregulation and Other Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-05-26",
+   "acts": [
+    "Telecommunications Legislation Amendment (Competition and Consumer) Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

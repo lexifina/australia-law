@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A04936",
+ "name": "Local Government (Financial Assistance) Act 1995",
+ "folder": "local-government-financial-assistance-act-1995",
+ "compilations": [
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00094",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04936',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04936/2015-12-10/text",
+   "sha256": "7adb42a4adf9b050eec99ade7ecbe68700a46ae60c5b4b8f9896cd42c68651d0"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00339",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04936',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04936/2016-03-05/text",
+   "sha256": "6acc2066ac65d8c91f5547a67f4822487455db455ca3a7bcb56f67c63fdb3c8f"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00566",
+   "compilation": "8",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04936',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04936/2016-03-10/text",
+   "sha256": "d80ffed61be11193fe0cb4f610374b71a11a4dd398acbda74f3477439e8b9a5a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-07-01",
+   "acts": []
+  },
+  {
+   "in_force": "2000-06-27",
+   "acts": [
+    "Local Government (Financial Assistance) Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2009-05-27",
+   "acts": [
+    "Financial Assistance Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2007A00074",
+ "name": "Governance Review Implementation (Treasury Portfolio Agencies) Act 2007",
+ "folder": "governance-review-implementation-treasury-portfolio-agencies-act-2007",
+ "compilations": [
+  {
+   "in_force": "2007-06-05",
+   "register_id": "C2007A00074",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00074',start=2007-06-05,retrospectivestart=2007-06-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00074/2007-06-05/text",
+   "sha256": "1d0bab4d22ec2a92d9e6e5d181c0281aca85146934ad3ed5199ef9a77fa24d72"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

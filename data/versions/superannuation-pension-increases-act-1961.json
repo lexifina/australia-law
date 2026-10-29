@@ -1,0 +1,34 @@
+{
+ "title_id": "C1961A00086",
+ "name": "Superannuation (Pension Increases) Act 1961",
+ "folder": "superannuation-pension-increases-act-1961",
+ "compilations": [
+  {
+   "in_force": "1963-11-01",
+   "register_id": "C2004C00637",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1961A00086',start=1963-11-01,retrospectivestart=1963-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1961A00086/1963-11-01/text",
+   "sha256": "a6a39e914fa56da5f42b39d075cc3094cca366fd30eb54a0ed06428b4e336d30"
+  },
+  {
+   "in_force": "2012-09-25",
+   "register_id": "C2012C00783",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1961A00086',start=2012-09-25,retrospectivestart=2012-09-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1961A00086/2012-09-25/text",
+   "sha256": "124b16cef355e3241d4ae3f98514c55b7c8ee899876a0675529ec4c6a303aa9b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1961-10-27"
+ ],
+ "repeal": null
+}

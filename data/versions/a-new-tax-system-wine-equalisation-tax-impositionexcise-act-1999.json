@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00455",
+ "name": "A New Tax System (Wine Equalisation Tax Imposition—Excise) Act 1999",
+ "folder": "a-new-tax-system-wine-equalisation-tax-impositionexcise-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-07-08",
+   "register_id": "C2004A00455",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00455',start=1999-07-08,retrospectivestart=1999-07-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00455/1999-07-08/text",
+   "sha256": "9d77a517d7d2f989455865143c4fb68d878233670d8ebb94330b7dc9e5857cc9"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

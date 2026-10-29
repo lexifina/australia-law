@@ -1,0 +1,21 @@
+{
+ "title_id": "C2023A00080",
+ "name": "National Housing Supply and Affordability Council Act 2023",
+ "folder": "national-housing-supply-and-affordability-council-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-09-28",
+   "register_id": "C2023A00080",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00080',start=2023-09-28,retrospectivestart=2023-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00080/2023-09-28/text",
+   "sha256": "524e630b958204fd7cc80693f934ff7f6fce248633cd530c9ca1eab81606dce0"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

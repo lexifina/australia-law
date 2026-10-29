@@ -1,0 +1,34 @@
+{
+ "title_id": "C2004A00004",
+ "name": "Death Penalty Abolition Act 1973",
+ "folder": "death-penalty-abolition-act-1973",
+ "compilations": [
+  {
+   "in_force": "1997-04-17",
+   "register_id": "C2004C00477",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00004',start=1997-04-17,retrospectivestart=1997-04-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00004/1997-04-17/text",
+   "sha256": "2ec2c89b09102420b1346c42429ecd45417d932999f2b1e80fbb8e4860900cb4"
+  },
+  {
+   "in_force": "2010-04-14",
+   "register_id": "C2010C00307",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00004',start=2010-04-14,retrospectivestart=2010-04-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00004/2010-04-14/text",
+   "sha256": "ddebdafaf6c0b9c7fd2ef5c482fa9915ea37284ef5f5926aaa55042d1d52e8db"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1973-09-18"
+ ],
+ "repeal": null
+}

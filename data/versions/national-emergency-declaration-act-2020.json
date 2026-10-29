@@ -1,0 +1,79 @@
+{
+ "title_id": "C2020A00128",
+ "name": "National Emergency Declaration Act 2020",
+ "folder": "national-emergency-declaration-act-2020",
+ "compilations": [
+  {
+   "in_force": "2023-03-30",
+   "register_id": "C2023C00077",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00128',start=2023-03-30,retrospectivestart=2023-03-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00128/2023-03-30/text",
+   "sha256": "c66526a8a2ca0c1c7144cca59b0107b4b3746015edcf03d7af9902691831bb35"
+  },
+  {
+   "in_force": "2023-07-01",
+   "register_id": "C2023C00157",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00128',start=2023-07-01,retrospectivestart=2023-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00128/2023-07-01/text",
+   "sha256": "dfc049ea5f08ef4d5f93044f1bd8aa8abfc61c0193fe2e6e44c41ae55f17ec01"
+  },
+  {
+   "in_force": "2026-05-27",
+   "register_id": "C2026C00205",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00128',start=2026-05-27,retrospectivestart=2026-05-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00128/2026-05-27/text",
+   "sha256": "3eb0a7186a02f8040cbdda8d5e1b034a77117dcbe30405f0f558180452f4c430"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2020-12-15",
+   "acts": []
+  },
+  {
+   "in_force": "2021-06-17",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-04",
+   "acts": [
+    "Surveillance Legislation Amendment (Identify and Disrupt) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-03",
+   "acts": [
+    "Security Legislation Amendment (Critical Infrastructure) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-10-01",
+   "acts": [
+    "Social Security (Administration) Amendment (Repeal of Cashless Debit Card and Other Measures) Act 2022",
+    "Social Security (Administration) Amendment (Repeal of Cashless Debit Card and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-12-06",
+   "acts": [
+    "Treasury Laws Amendment (2022 Measures No. 3) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

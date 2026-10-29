@@ -1,0 +1,72 @@
+{
+ "title_id": "C2004A03774",
+ "name": "Crimes (Hostages) Act 1989",
+ "folder": "crimes-hostages-act-1989",
+ "compilations": [
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00284",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03774',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03774/2011-04-19/text",
+   "sha256": "b8cfba4541714b35866639bc08d65985ce4104c3739f6e3def4e577f2c7f71a5"
+  },
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00742",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03774',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03774/2012-09-22/text",
+   "sha256": "85250dfcdd761f6af96d9c8f612eca0ca4d4152bf709c56e2b265c1f505438e6"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00517",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03774',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03774/2016-03-10/text",
+   "sha256": "8c25989ec6290109274b413e98b1a1ec1f25879443dcc47f228784e71a9f6380"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1989-05-15",
+   "acts": []
+  },
+  {
+   "in_force": "1990-06-20",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-01-16",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

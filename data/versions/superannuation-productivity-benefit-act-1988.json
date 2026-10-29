@@ -1,0 +1,154 @@
+{
+ "title_id": "C2004A03663",
+ "name": "Superannuation (Productivity Benefit) Act 1988",
+ "folder": "superannuation-productivity-benefit-act-1988",
+ "compilations": [
+  {
+   "in_force": "2017-03-22",
+   "register_id": "C2017C00101",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03663',start=2017-03-22,retrospectivestart=2017-03-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03663/2017-03-22/text",
+   "sha256": "a09cab7d8a5eb5b7a531efaf844dca9da7270c1465277db1263b9390b3e81392"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00319",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03663',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03663/2026-07-01/text",
+   "sha256": "dce02e8ba658a4074bfcddb5aa320017ed6859021618c9b4989465d69ce7d32b"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00428",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03663',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03663/2026-09-19/text",
+   "sha256": "5b24180fbc58dc13b25715f822725113e26fd19e75a9d369fa82e3b359fffc55"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-01-01",
+   "acts": []
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Superannuation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation Amendment Act 1990",
+    "Superannuation Legislation Amendment Act 1990",
+    "Superannuation Legislation Amendment Act 1990",
+    "Superannuation Legislation Amendment Act 1991",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1991-09-02",
+   "acts": [
+    "Superannuation Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-12-18",
+   "acts": [
+    "Superannuation Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-12-01",
+   "acts": [
+    "Superannuation Industry (Supervision) Consequential Amendments Act 1993"
+   ]
+  },
+  {
+   "in_force": "1997-06-02",
+   "acts": [
+    "Retirement Savings Accounts (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Superannuation (Consequential Amendments) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-20",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 7) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00002",
+ "name": "Combatting Antisemitism, Hate and Extremism (Criminal and Migration Laws) Act 2026",
+ "folder": "combatting-antisemitism-hate-and-extremism-criminal-and-migration-laws",
+ "compilations": [
+  {
+   "in_force": "2026-01-21",
+   "register_id": "C2026A00002",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00002',start=2026-01-21,retrospectivestart=2026-01-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00002/2026-01-21/text",
+   "sha256": "5ff1c515ef52126e4b940ede536e293cf5418f4395cc1dfc8c72d130dcb64c3d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

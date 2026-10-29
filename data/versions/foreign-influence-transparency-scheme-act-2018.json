@@ -1,0 +1,61 @@
+{
+ "title_id": "C2018A00063",
+ "name": "Foreign Influence Transparency Scheme Act 2018",
+ "folder": "foreign-influence-transparency-scheme-act-2018",
+ "compilations": [
+  {
+   "in_force": "2023-10-17",
+   "register_id": "C2023C00338",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00063',start=2023-10-17,retrospectivestart=2023-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00063/2023-10-17/text",
+   "sha256": "8fccc7e1c4c3cc1815cdaf6238f251970bf836239ac4d7dfa5b7c3eeecc5f020"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00391",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00063',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00063/2023-10-18/text",
+   "sha256": "79b2687ac2416a253e1512f0b8cb433ddbdc37194e693256dc80fcff8a528e4f"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00466",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00063',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00063/2024-10-14/text",
+   "sha256": "583d3686dc0d3bc6701cf510fd6163e1f063555ba93b392b7f141cc76f0aa265"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2018-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "2018-12-10",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018",
+    "Foreign Influence Transparency Scheme Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Foreign Influence Transparency Scheme Amendment Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

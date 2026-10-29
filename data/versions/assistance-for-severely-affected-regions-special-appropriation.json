@@ -1,0 +1,21 @@
+{
+ "title_id": "C2020A00024",
+ "name": "Assistance for Severely Affected Regions (Special Appropriation) (Coronavirus Economic Response Package) Act 2020",
+ "folder": "assistance-for-severely-affected-regions-special-appropriation",
+ "compilations": [
+  {
+   "in_force": "2020-03-24",
+   "register_id": "C2020A00024",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00024',start=2020-03-24,retrospectivestart=2020-03-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00024/2020-03-24/text",
+   "sha256": "3eea267a87035d010fd0221d8987c0dd2b3e0730242014e50212e152760bbd17"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

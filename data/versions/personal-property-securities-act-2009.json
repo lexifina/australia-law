@@ -1,0 +1,172 @@
+{
+ "title_id": "C2009A00130",
+ "name": "Personal Property Securities Act 2009",
+ "folder": "personal-property-securities-act-2009",
+ "compilations": [
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00396",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00130',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00130/2023-10-20/text",
+   "sha256": "b089484cccde41686f6bac1104cc17df6f5af64a2fc21744f04ca4f9166cc74c"
+  },
+  {
+   "in_force": "2024-09-24",
+   "register_id": "C2024C00374",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00130',start=2024-09-24,retrospectivestart=2024-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00130/2024-09-24/text",
+   "sha256": "0475522094cc28e2a465c141f38028bf45a89f024931bef4f998eebaca401384"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00719",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00130',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00130/2024-10-14/text",
+   "sha256": "0b844b6252e2de5296158331c97946825e9a6b1b3a7cc1bf76f40a3cd83eaefa"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2009-12-14",
+   "acts": []
+  },
+  {
+   "in_force": "2009-12-15",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-04-01",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-07-06",
+   "acts": [
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-05-26",
+   "acts": [
+    "Personal Property Securities (Corporations and Other Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-11-29",
+   "acts": [
+    "Personal Property Securities Amendment (Registration Commencement) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010",
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-11-18",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-09-01",
+   "acts": [
+    "International Interests in Mobile Equipment (Cape Town Convention) (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2015-10-01",
+   "acts": [
+    "Personal Property Securities Amendment (Deregulatory Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-05-20",
+   "acts": [
+    "Personal Property Securities Amendment (PPS Leases) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-03-31",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Corporations Amendment (Corporate Insolvency Reforms) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-07-01",
+   "acts": [
+    "Corporate Collective Investment Vehicle Framework and Other Measures Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

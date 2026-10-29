@@ -1,0 +1,40 @@
+{
+ "title_id": "C2026A00018",
+ "name": "Appropriation Act (No. 4) 2025-2026",
+ "folder": "appropriation-act-no-4-2025-2026",
+ "compilations": [
+  {
+   "in_force": "2026-03-27",
+   "register_id": "C2026A00018",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00018',start=2026-03-27,retrospectivestart=2026-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00018/2026-03-27/text",
+   "sha256": "21a6381dd7cfcc549e15206533aec23212b59d14bc5ec098c6a4251c6a6d697e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2028-07-01",
+   "acts": [
+    "Appropriation Act (No. 4) 2025-2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": {
+  "day": "2028-07-01",
+  "status": "Repealed",
+  "acts": [
+   [
+    18,
+    2026
+   ]
+  ],
+  "markdown": [
+   "s 16 of the [Appropriation Act (No. 4) 2025-2026](/C2026A00018)"
+  ]
+ }
+}

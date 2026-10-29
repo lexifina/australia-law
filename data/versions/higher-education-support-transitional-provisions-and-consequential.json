@@ -1,0 +1,73 @@
+{
+ "title_id": "C2004A01235",
+ "name": "Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003",
+ "folder": "higher-education-support-transitional-provisions-and-consequential",
+ "compilations": [
+  {
+   "in_force": "2005-01-01",
+   "register_id": "C2005C00444",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01235',start=2005-01-01,retrospectivestart=2005-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01235/2005-01-01/text",
+   "sha256": "797dc795e0c87ddb88dc68d0b99eb22ce07f2b862a3e76d8b8c16bd0a66a0986"
+  },
+  {
+   "in_force": "2005-12-20",
+   "register_id": "C2006C00009",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01235',start=2005-12-20,retrospectivestart=2005-12-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01235/2005-12-20/text",
+   "sha256": "61e9247698fcb3397298df49116c9e52aeae151fa04b2952def8301ce62bf23e"
+  },
+  {
+   "in_force": "2008-01-01",
+   "register_id": "C2008C00021",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01235',start=2008-01-01,retrospectivestart=2008-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01235/2008-01-01/text",
+   "sha256": "52166c5c7dcf1fbdc5be9365b153577a27ac69b60877b22ea24a38b76af54c3d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2001-09-18",
+   "acts": []
+  },
+  {
+   "in_force": "2004-01-01",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 3) 2004",
+    "Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2004-04-21",
+   "acts": [
+    "Higher Education Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-13",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 2) 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-17",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 3) 2004"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

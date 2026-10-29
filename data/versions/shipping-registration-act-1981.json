@@ -1,0 +1,211 @@
+{
+ "title_id": "C2004A02386",
+ "name": "Shipping Registration Act 1981",
+ "folder": "shipping-registration-act-1981",
+ "compilations": [
+  {
+   "in_force": "2019-04-01",
+   "register_id": "C2019C00131",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02386',start=2019-04-01,retrospectivestart=2019-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02386/2019-04-01/text",
+   "sha256": "b31317e9378dc4d2517e6f8eeb0569c6bea3ac4b2c203dc4a1c1340281d79da1"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00553",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02386',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02386/2021-09-01/text",
+   "sha256": "90a6db02a4e0d3b66015c682615472d6741593c994808341f36297d566373d11"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00673",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02386',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02386/2024-10-14/text",
+   "sha256": "8e3c76cd063be96d63b1e0ed86aff9d132d8ead8fab51c9de9bf4efcad9d7e28"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1981-03-25",
+   "acts": []
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-10-01",
+   "acts": [
+    "Shipping Registration Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-10-01",
+   "acts": [
+    "Shipping Registration Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-05-22",
+   "acts": [
+    "Admiralty Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Transport Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Transport Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "ANL (Conversion into Public Company) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-01-01",
+   "acts": [
+    "Australian Maritime Safety Authority Act 1990"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-04-07",
+   "acts": [
+    "Maritime Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-10-06",
+   "acts": [
+    "Maritime Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Shipping Registration Amendment (Australian International Shipping Register) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

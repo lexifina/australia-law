@@ -1,0 +1,589 @@
+{
+ "title_id": "C1953A00082",
+ "name": "International Tax Agreements Act 1953",
+ "folder": "international-tax-agreements-act-1953",
+ "compilations": [
+  {
+   "in_force": "2024-04-08",
+   "register_id": "C2024C00140",
+   "compilation": "44",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00082',start=2024-04-08,retrospectivestart=2024-04-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00082/2024-04-08/text",
+   "sha256": "1389f6a81ab31e9e4ca4c957cdc4c7e64d15f7eba62c63c2b4bb849fda3482db"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00814",
+   "compilation": "45",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00082',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00082/2024-12-11/text",
+   "sha256": "086f06eeb716105c4a6c82702bf18f44feb42f3ae0a1899f3587949b37e3f384"
+  },
+  {
+   "in_force": "2026-03-27",
+   "register_id": "C2026C00124",
+   "compilation": "46",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00082',start=2026-03-27,retrospectivestart=2026-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00082/2026-03-27/text",
+   "sha256": "dbdb9dc071df49c7558ae7618349cbbd6dee17aa47e9074c28137c5c314c2cf0"
+  },
+  {
+   "in_force": "2026-10-01",
+   "register_id": "C2026C00460",
+   "compilation": "47",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00082',start=2026-10-01,retrospectivestart=2026-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00082/2026-10-01/text",
+   "sha256": "e256ef616e1759a3f5970fff0e7786595f4ea0056b58789c47705a84432a7f8a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1953-12-11",
+   "acts": []
+  },
+  {
+   "in_force": "1958-05-21",
+   "acts": [
+    "Income Tax (International Agreements) Act 1958"
+   ]
+  },
+  {
+   "in_force": "1959-12-02",
+   "acts": [
+    "Income Tax (International Agreements) Act 1959"
+   ]
+  },
+  {
+   "in_force": "1960-06-17",
+   "acts": [
+    "Income Tax (International Agreements) Act 1960"
+   ]
+  },
+  {
+   "in_force": "1960-06-23",
+   "acts": [
+    "Income Tax (International Agreements) Act (No. 2) 1960"
+   ]
+  },
+  {
+   "in_force": "1963-05-09",
+   "acts": [
+    "Income Tax (International Agreements) Act 1963"
+   ]
+  },
+  {
+   "in_force": "1964-11-23",
+   "acts": [
+    "Income Tax (International Agreements) Act 1964"
+   ]
+  },
+  {
+   "in_force": "1965-12-14",
+   "acts": [
+    "Income Tax (International Agreements) Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-02-14",
+   "acts": [
+    "Income Tax (International Agreements) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1967-05-25",
+   "acts": [
+    "Income Tax (International Agreements) Act 1967"
+   ]
+  },
+  {
+   "in_force": "1968-01-01",
+   "acts": [
+    "Income Tax (International Agreements) Act (No. 2) 1967"
+   ]
+  },
+  {
+   "in_force": "1968-05-08",
+   "acts": [
+    "Income Tax (International Agreements) Act 1968"
+   ]
+  },
+  {
+   "in_force": "1969-06-04",
+   "acts": [
+    "Income Tax (International Agreements) Act 1969"
+   ]
+  },
+  {
+   "in_force": "1972-06-07",
+   "acts": [
+    "Income Tax (International Agreements) Act 1972"
+   ]
+  },
+  {
+   "in_force": "1973-03-31",
+   "acts": [
+    "Income Tax (International Agreements) Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-12-06",
+   "acts": [
+    "Income Tax (International Agreements) Act 1974"
+   ]
+  },
+  {
+   "in_force": "1975-11-11",
+   "acts": [
+    "Income Tax (International Agreements) Act 1975"
+   ]
+  },
+  {
+   "in_force": "1976-06-04",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act 1976",
+    "Income Tax (International Agreements) Amendment Act (No. 2) 1976"
+   ]
+  },
+  {
+   "in_force": "1976-12-06",
+   "acts": [
+    "Income Tax Laws Amendment (Royalties) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-11-10",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1978-06-22",
+   "acts": [
+    "Income Tax (Arrangements with the States) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1980-05-01",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-09-17",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act (No. 2) 1980"
+   ]
+  },
+  {
+   "in_force": "1981-04-14",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-06-24",
+   "acts": [
+    "Income Tax Laws Amendment Act (No. 2) 1981"
+   ]
+  },
+  {
+   "in_force": "1981-10-21",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act (No. 2) 1981"
+   ]
+  },
+  {
+   "in_force": "1981-10-26",
+   "acts": [
+    "Income Tax Laws Amendment Act (No. 3) 1981"
+   ]
+  },
+  {
+   "in_force": "1983-10-01",
+   "acts": [
+    "Income Tax Laws Amendment (Medicare Levy) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-10-07",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-10-19",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-12-14",
+   "acts": [
+    "Taxation Laws Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1985",
+    "Taxation Laws Amendment Act (No. 3) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Taxation Laws Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-07-22",
+   "acts": [
+    "Taxation Laws Amendment (Foreign Tax Credits) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-11-04",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1986",
+    "Taxation Laws Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act (No. 2) 1989",
+    "Taxation Laws Amendment (International Agreements) Act 1990",
+    "Taxation Laws Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "1990-12-28",
+   "acts": [
+    "Taxation Laws Amendment (International Agreements) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-08",
+   "acts": [
+    "Taxation Laws Amendment (Foreign Income) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-06-26",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act 1991",
+    "Taxation Laws Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "1991-12-24",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-05-25",
+   "acts": [
+    "Taxation Laws Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-11-23",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 2002",
+    "Income Tax (International Agreements) Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-12-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1993"
+   ]
+  },
+  {
+   "in_force": "1995-03-29",
+   "acts": [
+    "Income Tax (International Agreements) Amendment Act 1995",
+    "Income Tax (International Agreements) Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-11-14",
+   "acts": [
+    "International Tax Agreements Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-09",
+   "acts": [
+    "Taxation Laws Amendment (International Tax Agreements) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-18",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-05",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-07-05",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 6) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-11-11",
+   "acts": [
+    "International Tax Agreements Amendment Act 1999",
+    "International Tax Agreements Amendment Act 1999",
+    "International Tax Agreements Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-06",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 2) 2002",
+    "International Tax Agreements Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-09-05",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 2000"
+   ]
+  },
+  {
+   "in_force": "2002-07-03",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 1) 2002",
+    "International Tax Agreements Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-11",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2003-12-05",
+   "acts": [
+    "International Tax Agreements Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-03-18",
+   "acts": [
+    "New International Tax Arrangements (Managed Funds and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2007-08-20",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 1) 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 4) Act 2007",
+    "International Tax Agreements Amendment Act (No. 2) 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-03",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 1) 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-31",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 2) 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-09-18",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 4) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-10-08",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-11",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-09",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-06-27",
+   "acts": [
+    "International Tax Agreements Amendment Act (No. 1) 2011",
+    "International Tax Agreements Amendment Act (No. 1) 2011"
+   ]
+  },
+  {
+   "in_force": "2013-03-27",
+   "acts": [
+    "International Tax Agreements Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-09-24",
+   "acts": [
+    "International Tax Agreements Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-05-05",
+   "acts": [
+    "Tax Laws Amendment (New Tax System for Managed Investment Trusts) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-20",
+   "acts": [
+    "International Tax Agreements Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-08-24",
+   "acts": [
+    "Treasury Laws Amendment (OECD Multilateral Instrument) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-11-29",
+   "acts": [
+    "Treasury Laws Amendment (International Tax Agreements) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Treasury Laws Amendment (International Tax Agreements) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 4) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-07-01",
+   "acts": [
+    "Corporate Collective Investment Vehicle Framework and Other Measures Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-12-29",
+   "acts": [
+    "Treasury Laws Amendment (Australia-India Economic Cooperation and Trade Agreement Implementation) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-06-29",
+   "acts": [
+    "Treasury Laws Amendment (Refining and Improving Our Tax System) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04224",
+ "name": "Export Finance and Insurance Corporation (Transitional Provisions and Consequential Amendments) Act 1991",
+ "folder": "export-finance-and-insurance-corporation-transitional-provisions-and",
+ "compilations": [
+  {
+   "in_force": "1991-10-21",
+   "register_id": "C2004A04224",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04224',start=1991-10-21,retrospectivestart=1991-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04224/1991-10-21/text",
+   "sha256": "220534786962a7be86e73267552e294aa95f87c019eb21f0e799edab9c04867e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

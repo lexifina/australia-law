@@ -1,0 +1,60 @@
+{
+ "title_id": "C2012A00055",
+ "name": "Coastal Trading (Revitalising Australian Shipping) Act 2012",
+ "folder": "coastal-trading-revitalising-australian-shipping-act-2012",
+ "compilations": [
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00410",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00055',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00055/2015-07-01/text",
+   "sha256": "6b485c7dcb685c31b5bd0df7c4b4b9fdc94a20f62b08b272a993d5cb71f3de19"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00432",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00055',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00055/2021-09-01/text",
+   "sha256": "0011ff6e15ca796652561a77dc6bfb81a8c0dee6a4ecc23522499874dae09f55"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00440",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00055',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00055/2024-10-14/text",
+   "sha256": "f0a3225b686d1f1e85016bcec9f13f8b469fe6a20d7becb893e0561c53fbb745"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-06-21",
+   "acts": []
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,66 @@
+{
+ "title_id": "C2004A03953",
+ "name": "Therapeutic Goods (Charges) Act 1989",
+ "folder": "therapeutic-goods-charges-act-1989",
+ "compilations": [
+  {
+   "in_force": "2009-01-01",
+   "register_id": "C2009C00016",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03953',start=2009-01-01,retrospectivestart=2009-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03953/2009-01-01/text",
+   "sha256": "aa4ede5ec7a4aff0b2e8dbd146dba7a5dca24825a51d1c82270deeff8ea66a85"
+  },
+  {
+   "in_force": "2011-05-31",
+   "register_id": "C2011C00380",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03953',start=2011-05-31,retrospectivestart=2011-05-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03953/2011-05-31/text",
+   "sha256": "b014617dfcc916918bcc0cc4e7234205f5b84ceba19e1b14e6d6005bbbfb108a"
+  },
+  {
+   "in_force": "2018-03-06",
+   "register_id": "C2018C00066",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03953',start=2018-03-06,retrospectivestart=2018-03-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03953/2018-03-06/text",
+   "sha256": "d875fcc2e055f497175a3b88d075a00f56b1dee2ab33b19c7decf7ac075dadb3"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-01-17",
+   "acts": []
+  },
+  {
+   "in_force": "1991-06-26",
+   "acts": [
+    "Therapeutic Goods (Charges) Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-11-03",
+   "acts": [
+    "Therapeutic Goods (Charges) Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "2002-10-04",
+   "acts": [
+    "Therapeutic Goods (Charges) Amendment Act 2002"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

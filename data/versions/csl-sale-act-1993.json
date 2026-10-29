@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A04643",
+ "name": "CSL Sale Act 1993",
+ "folder": "csl-sale-act-1993",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00433",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04643',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04643/2014-07-01/text",
+   "sha256": "b9175f86b671a85173ac264ffe8e3c0a333d3a7f82b8b7f9d89b233f08bcb72f"
+  },
+  {
+   "in_force": "2018-03-30",
+   "register_id": "C2018C00099",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04643',start=2018-03-30,retrospectivestart=2018-03-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04643/2018-03-30/text",
+   "sha256": "54bf1727cf080c03fbedbbd73cde85aeffdfccb0703962bec1bfd34ffaf917e3"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00435",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04643',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04643/2026-09-19/text",
+   "sha256": "23c4a066c5264622ab9109e660d3a645d38ea38c91d978e05f2d97aef0cacd75"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-02-22",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2010-12-18",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

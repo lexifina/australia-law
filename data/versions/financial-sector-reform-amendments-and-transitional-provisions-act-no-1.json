@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A00435",
+ "name": "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999",
+ "folder": "financial-sector-reform-amendments-and-transitional-provisions-act-no-1",
+ "compilations": [
+  {
+   "in_force": "1997-06-30",
+   "register_id": "C2004A00435",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00435',start=1997-06-30,retrospectivestart=1997-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00435/1997-06-30/text",
+   "sha256": "bca641db83f3867b1d638cb22f4399cb7ff714151cd1c7d4bb5e5d67b9b21f35"
+  },
+  {
+   "in_force": "1999-06-17",
+   "register_id": "C2004C04102",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00435',start=1999-06-17,retrospectivestart=1999-06-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00435/1999-06-17/text",
+   "sha256": "98cc6c08bbb4aecc930f198ff8ece794012fa2924b86c49fe0bcc27819ecd7ee"
+  },
+  {
+   "in_force": "2001-01-18",
+   "register_id": "C2004C01110",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00435',start=2001-01-18,retrospectivestart=2001-01-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00435/2001-01-18/text",
+   "sha256": "5590342561451099f3ab83fb28c0d507550abd7885f18b12df87091e68bcf5b9"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

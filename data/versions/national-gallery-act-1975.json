@@ -1,0 +1,156 @@
+{
+ "title_id": "C2004A00283",
+ "name": "National Gallery Act 1975",
+ "folder": "national-gallery-act-1975",
+ "compilations": [
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00300",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00283',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00283/2011-12-27/text",
+   "sha256": "f88d3642b12da7ebf3fb109f9469f29db0b406dd6492aaaf99629da595087f5c"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00525",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00283',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00283/2014-07-01/text",
+   "sha256": "8f38b100c93e2726641a42c8f814af05d8a8b5cf0e8f38cd94a2352a5e7fb3ad"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01078",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00283',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00283/2016-10-21/text",
+   "sha256": "393d68d17fe2ec5e730da29ac1976990802844263d28d5a8307ef6addf29b986"
+  },
+  {
+   "in_force": "2021-05-01",
+   "register_id": "C2021C00216",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00283',start=2021-05-01,retrospectivestart=2021-05-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00283/2021-05-01/text",
+   "sha256": "aa0c125f5ce986cab3bb433a9376ad3f4e4eff49e44601b9a6e56e3cca16dd52"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1975-06-19",
+   "acts": []
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1989-06-09",
+   "acts": [
+    "Lands Acquisition (Repeal and Consequential Provisions) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-06-19",
+   "acts": [
+    "Arts, Territories and Environment Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-11-20",
+   "acts": [
+    "Arts, Environment, Tourism and Territories Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-10-24",
+   "acts": [
+    "Arts, Environment and Territories Legislation Amendment Act 1992",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Arts, Environment and Territories Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-04-12",
+   "acts": [
+    "National Gallery Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

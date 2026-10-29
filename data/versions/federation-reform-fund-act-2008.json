@@ -1,0 +1,115 @@
+{
+ "title_id": "C2008A00156",
+ "name": "Federation Reform Fund Act 2008",
+ "folder": "federation-reform-fund-act-2008",
+ "compilations": [
+  {
+   "in_force": "2023-03-01",
+   "register_id": "C2023C00060",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00156',start=2023-03-01,retrospectivestart=2023-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00156/2023-03-01/text",
+   "sha256": "9bcdeb71760818fcedf4940176e852352f006887f0864eecc62e7c99974b399d"
+  },
+  {
+   "in_force": "2023-11-01",
+   "register_id": "C2023C00444",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00156',start=2023-11-01,retrospectivestart=2023-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00156/2023-11-01/text",
+   "sha256": "d80d292543a1469ca98a80a37df3e50760a47febc9772dcf6d839fc1b695e580"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00272",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00156',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00156/2024-07-06/text",
+   "sha256": "da1e5621275a748c2262f06fc2405f38aa60bd8a201b00cb04088f32e3559522"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2008-12-18",
+   "acts": []
+  },
+  {
+   "in_force": "2009-04-01",
+   "acts": [
+    "Federal Financial Relations (Consequential Amendments and Transitional Provisions) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-11-08",
+   "acts": [
+    "Social and Community Services Pay Equity Special Account (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "DisabilityCare Australia Fund (Consequential Amendments) Act 2013",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-06-30",
+   "acts": [
+    "Fuel Indexation (Road Funding) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-08-27",
+   "acts": [
+    "Medical Research Future Fund (Consequential Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-29",
+   "acts": [
+    "Medical Research Future Fund (Consequential Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Interstate Road Transport Legislation (Repeal) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-09-01",
+   "acts": [
+    "Future Drought Fund (Consequential Amendments) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-12",
+   "acts": [
+    "Emergency Response Fund (Consequential Amendments) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-02-17",
+   "acts": [
+    "Crimes Legislation Amendment (Economic Disruption) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

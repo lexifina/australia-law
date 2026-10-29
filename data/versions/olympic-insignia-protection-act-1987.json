@@ -1,0 +1,128 @@
+{
+ "title_id": "C2004A03436",
+ "name": "Olympic Insignia Protection Act 1987",
+ "folder": "olympic-insignia-protection-act-1987",
+ "compilations": [
+  {
+   "in_force": "2020-07-01",
+   "register_id": "C2020C00209",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03436',start=2020-07-01,retrospectivestart=2020-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03436/2020-07-01/text",
+   "sha256": "970b332752ee764ea4ecb1d58c063e542ea40c0316f95f41a91504204308e6e3"
+  },
+  {
+   "in_force": "2020-12-18",
+   "register_id": "C2021C00072",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03436',start=2020-12-18,retrospectivestart=2020-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03436/2020-12-18/text",
+   "sha256": "ac07483703ab175f29c1df1178777320aaff4a5c52a65f096326d81bc3e8d088"
+  },
+  {
+   "in_force": "2023-11-18",
+   "register_id": "C2023C00446",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03436',start=2023-11-18,retrospectivestart=2023-11-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03436/2023-11-18/text",
+   "sha256": "ae1afa1c4872b5c3d6417f32f634dfded39763e16b268168770ada4428b42359"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-05-26",
+   "acts": []
+  },
+  {
+   "in_force": "1994-03-15",
+   "acts": [
+    "Olympic Insignia Protection Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Olympic Insignia Protection Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-03-13",
+   "acts": [
+    "Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-27",
+   "acts": [
+    "Intellectual Property Laws Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010",
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-20",
+   "acts": [
+    "Business Names Registration (Transitional and Consequential Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-02-24",
+   "acts": [
+    "Intellectual Property Laws Amendment (Productivity Commission Response Part 1 and Other Measures) Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

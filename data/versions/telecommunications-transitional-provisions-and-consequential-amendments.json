@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A04174",
+ "name": "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991",
+ "folder": "telecommunications-transitional-provisions-and-consequential-amendments",
+ "compilations": [
+  {
+   "in_force": "1991-10-21",
+   "register_id": "C2016C00799",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04174',start=1991-10-21,retrospectivestart=1991-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04174/1991-10-21/text",
+   "sha256": "9c4d70e07fd150e30aece2144a5b93f696a828399d2d94dba9eb3a188d672154"
+  },
+  {
+   "in_force": "1992-12-24",
+   "register_id": "C2016C00803",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04174',start=1992-12-24,retrospectivestart=1992-12-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04174/1992-12-24/text",
+   "sha256": "049888c07abcd5b7d10d307e313e02ccb01723e81e1e29c083e7166fa4185ffd"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00833",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04174',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04174/2016-07-01/text",
+   "sha256": "072bc01cd48aa8bd0dd401bb5b36214e16e50920836ed2a471106ac2d8ccd4c1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-06-27",
+   "acts": []
+  },
+  {
+   "in_force": "1992-02-01",
+   "acts": [
+    "AUSSAT Repeal Act 1991"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

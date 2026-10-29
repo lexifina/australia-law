@@ -1,0 +1,43 @@
+{
+ "title_id": "C2007A00011",
+ "name": "Superannuation (Excess Non-concessional Contributions Tax) Act 2007",
+ "folder": "superannuation-excess-non-concessional-contributions-tax-act-2007",
+ "compilations": [
+  {
+   "in_force": "2007-03-15",
+   "register_id": "C2007A00011",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00011',start=2007-03-15,retrospectivestart=2007-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00011/2007-03-15/text",
+   "sha256": "81b4e3c8a9215210a7d2c7629af1f1ecae268c08827632bb3ac3e07d1f17457c"
+  },
+  {
+   "in_force": "2013-05-28",
+   "register_id": "C2013C00293",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00011',start=2013-05-28,retrospectivestart=2013-05-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00011/2013-05-28/text",
+   "sha256": "a2089b60626fde3869eacacd908e8654bc77fab751211a0197b88e988e6c7da5"
+  },
+  {
+   "in_force": "2014-06-25",
+   "register_id": "C2014C00330",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00011',start=2014-06-25,retrospectivestart=2014-06-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00011/2014-06-25/text",
+   "sha256": "57eb37eaf578b0789e7cc9844adbcab62e1006e00bad4c7ca449a4bbbd25cac7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

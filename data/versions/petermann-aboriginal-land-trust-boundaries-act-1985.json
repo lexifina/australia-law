@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A03148",
+ "name": "Petermann Aboriginal Land Trust (Boundaries) Act 1985",
+ "folder": "petermann-aboriginal-land-trust-boundaries-act-1985",
+ "compilations": [
+  {
+   "in_force": "1985-10-16",
+   "register_id": "C2004A03148",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03148',start=1985-10-16,retrospectivestart=1985-10-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03148/1985-10-16/text",
+   "sha256": "486104801f09790ae660c43d8ac493942489cdc3a5afd2cdb2929d9483c12d03"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

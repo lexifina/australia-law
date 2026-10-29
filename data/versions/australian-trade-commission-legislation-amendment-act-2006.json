@@ -1,0 +1,32 @@
+{
+ "title_id": "C2006A00056",
+ "name": "Australian Trade Commission Legislation Amendment Act 2006",
+ "folder": "australian-trade-commission-legislation-amendment-act-2006",
+ "compilations": [
+  {
+   "in_force": "2006-06-21",
+   "register_id": "C2006A00056",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00056',start=2006-06-21,retrospectivestart=2006-06-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00056/2006-06-21/text",
+   "sha256": "2e436c3510273d0376b12d59a0ba7012dc9ae47d89eaa013ec8c9450fbaa4a66"
+  },
+  {
+   "in_force": "2011-09-16",
+   "register_id": "C2011C00785",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00056',start=2011-09-16,retrospectivestart=2011-09-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00056/2011-09-16/text",
+   "sha256": "a627a400b4e7046dff0c7627808c236579bb7dc58fe24c0cb459e3af08307c94"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

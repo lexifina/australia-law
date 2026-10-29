@@ -1,0 +1,32 @@
+{
+ "title_id": "C2024A00124",
+ "name": "Help to Buy Act 2024",
+ "folder": "help-to-buy-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-12-10",
+   "register_id": "C2024A00124",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00124',start=2024-12-10,retrospectivestart=2024-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00124/2024-12-10/text",
+   "sha256": "b1e5b13ac945154e1df4d949de2117b52dcd374cdf1a133108ad12d5a73d383b"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00127",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00124',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00124/2025-02-21/text",
+   "sha256": "5a74f7c3b4e655ab79349cf4a75020945eff312ff105f16ad96312955ecf521a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

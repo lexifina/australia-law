@@ -1,0 +1,138 @@
+{
+ "title_id": "C2004A03897",
+ "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989",
+ "folder": "australian-institute-of-aboriginal-and-torres-strait-islander-studies",
+ "compilations": [
+  {
+   "in_force": "2015-03-25",
+   "register_id": "C2015C00108",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03897',start=2015-03-25,retrospectivestart=2015-03-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03897/2015-03-25/text",
+   "sha256": "12223affd876fa12076195e7f28b88f7d443cb2dbb1fc32bc9796504f9066e08"
+  },
+  {
+   "in_force": "2016-02-12",
+   "register_id": "C2016C00144",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03897',start=2016-02-12,retrospectivestart=2016-02-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03897/2016-02-12/text",
+   "sha256": "78ff8b46cc4d1a8a289eddde220fc868326ee4cd7799a36b842ee8f54fbb401c"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00164",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03897',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03897/2016-03-05/text",
+   "sha256": "d4074814165c4b8b0e6ddc7e0eee5cb99a92682bdc4268b89e2b0207e47dffc8"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1989-11-27",
+   "acts": []
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1994-01-14",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-15",
+   "acts": [
+    "Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-03-24",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Commission Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

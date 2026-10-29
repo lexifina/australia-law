@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00095",
+ "name": "Pay As You Go Withholding Non-compliance Tax Act 2012",
+ "folder": "pay-as-you-go-withholding-non-compliance-tax-act-2012",
+ "compilations": [
+  {
+   "in_force": "2012-06-29",
+   "register_id": "C2012A00095",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00095',start=2012-06-29,retrospectivestart=2012-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00095/2012-06-29/text",
+   "sha256": "c2786ef2b406e02b0c1ce1801720ef3f4a4ae74e00f346895b352d944eb38164"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

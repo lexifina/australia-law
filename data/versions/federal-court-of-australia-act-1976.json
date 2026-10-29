@@ -1,0 +1,504 @@
+{
+ "title_id": "C2004A01586",
+ "name": "Federal Court of Australia Act 1976",
+ "folder": "federal-court-of-australia-act-1976",
+ "compilations": [
+  {
+   "in_force": "2024-06-12",
+   "register_id": "C2024C00234",
+   "compilation": "57",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01586',start=2024-06-12,retrospectivestart=2024-06-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01586/2024-06-12/text",
+   "sha256": "74c32d957ffa4ad71c1c04d84632a89b3e20bfd02132e25aafac393d22441731"
+  },
+  {
+   "in_force": "2024-10-02",
+   "register_id": "C2024C00663",
+   "compilation": "58",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01586',start=2024-10-02,retrospectivestart=2024-10-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01586/2024-10-02/text",
+   "sha256": "bb4b826f753441a6b8d618566480645ad254642bc7539c7a02b1be73f03f5210"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00819",
+   "compilation": "59",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01586',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01586/2024-12-11/text",
+   "sha256": "6d8854bc869bec483a050f8dfb6c96f7aab2ad75bafcb18a38b8abce2656b1da"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1976-12-09",
+   "acts": []
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-10-01",
+   "acts": [
+    "Federal Court of Australia Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-12-20",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-01",
+   "acts": [
+    "Federal Court Of Australia Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-11-22",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-04-05",
+   "acts": [
+    "Family Court of Australia (Additional Jurisdiction and Exercise of Powers) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "Courts and Tribunals Administration Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-02-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Trade Practices (Misuse of Trans-Tasman Market Power) Act 1990",
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1990-12-21",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-06-27",
+   "acts": [
+    "Foreign Judgments Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-10-10",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-27",
+   "acts": [
+    "Courts (Mediation and Arbitration) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-02-04",
+   "acts": [
+    "Federal Court of Australia Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "A.C.T. Supreme Court (Transfer) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-07",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 4) 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-01",
+   "acts": [
+    "Native Title Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-06-23",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-04-01",
+   "acts": [
+    "Evidence and Procedure (New Zealand) (Transitional Provisions and Consequential Amendments) Act 1994",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995",
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1997",
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-09-30",
+   "acts": [
+    "Native Title Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-04-13",
+   "acts": [
+    "Human Rights Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-10-14",
+   "acts": [
+    "Jurisdiction of Courts Legislation Amendment Act 2002",
+    "Jurisdiction of Courts Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-12-01",
+   "acts": [
+    "Migration Litigation Reform Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-05-04",
+   "acts": [
+    "Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-04",
+   "acts": [
+    "Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009",
+    "Access to Justice (Civil Litigation Reforms) Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-07",
+   "acts": [
+    "Federal Justice System Amendment (Efficiency Measures) Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Access to Justice (Civil Litigation Reforms) Amendment Act 2009",
+    "Access to Justice (Civil Litigation Reforms) Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-03",
+   "acts": [
+    "Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-10-01",
+   "acts": [
+    "Parliamentary Counsel and Other Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-12",
+   "acts": [
+    "Access to Justice (Federal Jurisdiction) Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Courts Legislation Amendment (Judicial Complaints) Act 2012",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-11",
+   "acts": [
+    "Access to Justice (Federal Jurisdiction) Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-10-11",
+   "acts": [
+    "Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010",
+    "Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-02-26",
+   "acts": [
+    "Federal Courts Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-08",
+   "acts": [
+    "Passports Legislation Amendment (Integrity) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-14",
+   "acts": [
+    "Civil Law and Justice (Omnibus Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Trade Legislation Amendment Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Courts Administration Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Courts Administration Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Legislation Amendment (Sunsetting Review and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-02-18",
+   "acts": [
+    "Courts and Tribunals Legislation Amendment (2021 Measures No. 1) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

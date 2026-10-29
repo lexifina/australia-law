@@ -1,0 +1,21 @@
+{
+ "title_id": "C2020A00102",
+ "name": "Higher Education (Up-front Payments Tuition Protection Levy) Act 2020",
+ "folder": "higher-education-up-front-payments-tuition-protection-levy-act-2020",
+ "compilations": [
+  {
+   "in_force": "2020-11-20",
+   "register_id": "C2020A00102",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00102',start=2020-11-20,retrospectivestart=2020-11-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00102/2020-11-20/text",
+   "sha256": "efc21e3d96434d1d463aad0d53bbe05c8fb88352abc4f85022e4e5575c4bad85"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

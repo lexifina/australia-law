@@ -1,0 +1,761 @@
+{
+ "title_id": "C2004A05145",
+ "name": "Telecommunications Act 1997",
+ "folder": "telecommunications-act-1997",
+ "compilations": [
+  {
+   "in_force": "2025-04-04",
+   "register_id": "C2025C00300",
+   "compilation": "115",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05145',start=2025-04-04,retrospectivestart=2025-04-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05145/2025-04-04/text",
+   "sha256": "b466e7ed1ce4257899269360b850f4876d7e7253a49eb96a144068ec97be88ab"
+  },
+  {
+   "in_force": "2025-10-31",
+   "register_id": "C2025C00624",
+   "compilation": "116",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05145',start=2025-10-31,retrospectivestart=2025-10-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05145/2025-10-31/text",
+   "sha256": "9324d5cafa4c468a9c46f7896afa8781432c3d91ac6badd837955b03829a5fe0"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00224",
+   "compilation": "117",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05145',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05145/2026-06-04/text",
+   "sha256": "e236f9df9cc33706fa456dd8119573c3760fbd0630a111c81c376df6e9044ec5"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-04-22",
+   "acts": []
+  },
+  {
+   "in_force": "1997-12-16",
+   "acts": [
+    "Telecommunications Legislation Amendment Act 1997",
+    "Telecommunications Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-03-26",
+   "acts": [
+    "Telecommunications Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-04-23",
+   "acts": [
+    "Telecommunications Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998",
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-12-11",
+   "acts": [
+    "Telecommunications Amendment Act (No. 2) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-06-11",
+   "acts": [
+    "Telecommunications Laws Amendment (Universal Service Cap) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Telecommunications Legislation Amendment Act 1999",
+    "Statute Law Revision Act 2002"
+   ]
+  },
+  {
+   "in_force": "1999-07-05",
+   "acts": [
+    "Telecommunications Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-08-02",
+   "acts": [
+    "Telecommunications Legislation Amendment Act 1999",
+    "Telecommunications Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Telecommunications (Consumer Protection and Service Standards) Amendment Act (No. 2) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-11-01",
+   "acts": [
+    "Australian National Railways Commission Sale Act 1997"
+   ]
+  },
+  {
+   "in_force": "2000-11-29",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Telecommunications Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-03-04",
+   "acts": [
+    "Broadcasting Services Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-06-05",
+   "acts": [
+    "Communications and the Arts Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-12-21",
+   "acts": [
+    "Privacy Amendment (Private Sector) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2002-12-19",
+   "acts": [
+    "Telecommunications Competition Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Australian Crime Commission Establishment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-11-21",
+   "acts": [
+    "Communications Legislation Amendment Act (No. 3) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-11-28",
+   "acts": [
+    "Communications Legislation Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-12-12",
+   "acts": [
+    "Spam (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-01-01",
+   "acts": [
+    "Australian Heritage Council (Consequential and Transitional Provisions) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-04-10",
+   "acts": [
+    "Spam (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-04-21",
+   "acts": [
+    "Communications Legislation Amendment Act (No. 1) 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-17",
+   "acts": [
+    "Designs (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "US Free Trade Agreement Implementation Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005",
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-08-24",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment (Protection of Submarine Cables and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-09-20",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment (Protection of Submarine Cables and Other Measures) Act 2005",
+    "Telecommunications and Other Legislation Amendment (Protection of Submarine Cables and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-09-24",
+   "acts": [
+    "Telecommunications Legislation Amendment (Competition and Consumer Issues) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-21",
+   "acts": [
+    "Telecommunications Legislation Amendment (Competition and Consumer Issues) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-01-01",
+   "acts": [
+    "Telecommunications Legislation Amendment (Competition and Consumer Issues) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-23",
+   "acts": [
+    "Telecommunications Legislation Amendment (Future Proofing and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-13",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-30",
+   "acts": [
+    "Do Not Call Register (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-30",
+   "acts": [
+    "Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-05-15",
+   "acts": [
+    "Telecommunications Amendment (Integrated Public Number Database) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-05-31",
+   "acts": [
+    "Do Not Call Register (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-11-01",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-01-20",
+   "acts": [
+    "Communications Legislation Amendment (Content Services) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-05-27",
+   "acts": [
+    "Telecommunications Legislation Amendment (National Broadband Network) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-20",
+   "acts": [
+    "Communications Legislation Amendment (Content Services) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-27",
+   "acts": [
+    "Telecommunications Amendment (Integrated Public Number Database) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-11-17",
+   "acts": [
+    "Statute Stocktake (Regulatory and Other Laws) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010",
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-05-30",
+   "acts": [
+    "Do Not Call Register Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-16",
+   "acts": [
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010",
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010",
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-15",
+   "acts": [
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010",
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-13",
+   "acts": [
+    "Telecommunications Legislation Amendment (National Broadband Network Measures—Access Arrangements) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-09-27",
+   "acts": [
+    "Telecommunications Legislation Amendment (Fibre Deployment) Act 2011",
+    "Telecommunications Legislation Amendment (Fibre Deployment) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-06",
+   "acts": [
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010",
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-04-12",
+   "acts": [
+    "Telecommunications Legislation Amendment (National Broadband Network Measures—Access Arrangements) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Telecommunications Legislation Amendment (Universal Service Reform) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-10-10",
+   "acts": [
+    "Cybercrime Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-01",
+   "acts": [
+    "Telecommunications Legislation Amendment (Consumer Protection) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012",
+    "Telecommunications Legislation Amendment (Consumer Protection) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-05-28",
+   "acts": [
+    "Telecommunications Legislation Amendment (Submarine Cable Protection) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Telecommunications Legislation Amendment (Deregulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Enhancing Online Safety for Children (Consequential Amendments) Act 2015",
+    "Enhancing Online Safety for Children (Consequential Amendments) Act 2015",
+    "Telecommunications Legislation Amendment (Deregulation) Act 2015",
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-13",
+   "acts": [
+    "Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015",
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015",
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-06-23",
+   "acts": [
+    "Enhancing Online Safety for Children Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-10-31",
+   "acts": [
+    "Defence Legislation Amendment (2017 Measures No. 1) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Intelligence Services Amendment (Establishment of the Australian Signals Directorate) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-09-18",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment Act 2017",
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-09",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment (Assistance and Access) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-03-02",
+   "acts": [
+    "Telecommunications Legislation Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-12",
+   "acts": [
+    "Communications Legislation Amendment (Deregulation and Other Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-05-26",
+   "acts": [
+    "Telecommunications Legislation Amendment (Competition and Consumer) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Telecommunications Legislation Amendment (Competition and Consumer) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-08-25",
+   "acts": [
+    "Telecommunications Legislation Amendment (Competition and Consumer) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-02-17",
+   "acts": [
+    "Telecommunications Amendment (Infrastructure in New Developments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-06-17",
+   "acts": [
+    "Radiocommunications Legislation Amendment (Reform and Modernisation) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment (Assistance and Access) Act 2018",
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-14",
+   "acts": [
+    "Telstra Corporation and Other Legislation Amendment Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-23",
+   "acts": [
+    "Online Safety (Transitional Provisions and Consequential Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-06-02",
+   "acts": [
+    "Offshore Electricity Infrastructure (Consequential Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-01-01",
+   "acts": [
+    "Telstra Corporation and Other Legislation Amendment Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-04-12",
+   "acts": [
+    "Telecommunications Legislation Amendment (Information Disclosure, National Interest and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-09-21",
+   "acts": [
+    "Inspector-General of Intelligence and Security and Other Legislation Amendment (Modernisation) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-11",
+   "acts": [
+    "Telecommunications Legislation Amendment (Information Disclosure, National Interest and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-06-01",
+   "acts": [
+    "Telecommunications Legislation Amendment (Enhancing Consumer Safeguards and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-25",
+   "acts": [
+    "Crimes and Other Legislation Amendment (Omnibus No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-03-05",
+   "acts": [
+    "Telecommunications Amendment (SMS Sender ID Register) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-03-28",
+   "acts": [
+    "National Broadband Network Companies Amendment (Commitment to Public Ownership) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-10-27",
+   "acts": [
+    "Telecommunications Amendment (Enhancing Consumer Safeguards) Act 2026",
+    "Telecommunications Legislation Amendment (Universal Outdoor Mobile Obligation) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

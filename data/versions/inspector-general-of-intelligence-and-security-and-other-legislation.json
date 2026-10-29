@@ -1,0 +1,21 @@
+{
+ "title_id": "C2023A00073",
+ "name": "Inspector-General of Intelligence and Security and Other Legislation Amendment (Modernisation) Act 2023",
+ "folder": "inspector-general-of-intelligence-and-security-and-other-legislation",
+ "compilations": [
+  {
+   "in_force": "2023-09-20",
+   "register_id": "C2023A00073",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00073',start=2023-09-20,retrospectivestart=2023-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00073/2023-09-20/text",
+   "sha256": "500887e7f5c6df392312eddb802ce2536ebc07c943f3ace069fb9b1448aee10f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,191 @@
+{
+ "title_id": "C2004A01069",
+ "name": "Medical Indemnity Act 2002",
+ "folder": "medical-indemnity-act-2002",
+ "compilations": [
+  {
+   "in_force": "2021-06-23",
+   "register_id": "C2021C00259",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01069',start=2021-06-23,retrospectivestart=2021-06-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01069/2021-06-23/text",
+   "sha256": "1ff18da44bccde937ac31378b33526c9adede5049733aa196e25d356c9c8c35f"
+  },
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00411",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01069',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01069/2023-10-20/text",
+   "sha256": "d357b94fc455ad1391483cd6e73ad974f4e7999f3f8e664953f0662f909b40ab"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00534",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01069',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01069/2024-10-14/text",
+   "sha256": "bec73cf3c7c27da64c4a3a673e18508df247600cf95d2cb91249e5b82b211ec1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2002-12-19",
+   "acts": []
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004",
+    "Medical Indemnity Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Medical Indemnity Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-12-05",
+   "acts": [
+    "Medical Indemnity Amendment Act 2003",
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004",
+    "Medical Indemnity Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2004-01-07",
+   "acts": [
+    "Medical Indemnity Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2004-03-24",
+   "acts": [
+    "Medical Indemnity Amendment Act 2004",
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-23",
+   "acts": [
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-24",
+   "acts": [
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004",
+    "Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004",
+    "Medical Indemnity Legislation Amendment Act 2005",
+    "Medical Indemnity Legislation Amendment (Competitive Neutrality) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Medical Indemnity Legislation Amendment Act 2005",
+    "Medical Indemnity Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-21",
+   "acts": [
+    "Medical Indemnity Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-22",
+   "acts": [
+    "Medical Indemnity Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Medical Indemnity Legislation Amendment (Competitive Neutrality) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Health Legislation Amendment Act 2005",
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-11-04",
+   "acts": [
+    "Medical Indemnity Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-04-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Health Legislation Amendment (Midwives and Nurse Practitioners) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Insolvency Law Reform Act 2016"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Medical and Midwife Indemnity Legislation Amendment Act 2019",
+    "Medical and Midwife Indemnity Legislation Amendment Act 2019",
+    "Medical and Midwife Indemnity Legislation Amendment Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

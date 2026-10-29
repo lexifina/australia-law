@@ -1,0 +1,60 @@
+{
+ "title_id": "C2004A03680",
+ "name": "Industrial Relations (Consequential Provisions) Act 1988",
+ "folder": "industrial-relations-consequential-provisions-act-1988",
+ "compilations": [
+  {
+   "in_force": "1995-07-01",
+   "register_id": "C2004C04785",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03680',start=1995-07-01,retrospectivestart=1995-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03680/1995-07-01/text",
+   "sha256": "1fc8a3a59708e992402a47ac55e12642acf450c50674b376ad6af8ac37deb55e"
+  },
+  {
+   "in_force": "1998-08-31",
+   "register_id": "C2004C00497",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03680',start=1998-08-31,retrospectivestart=1998-08-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03680/1998-08-31/text",
+   "sha256": "906b22faf794654854fedf317387f3b47ee8abc7591ff6733f07644d2f52a337"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1990-12-18",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-02-01",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1990",
+    "Industrial Relations Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-11-30",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1991"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1988-11-08"
+ ],
+ "repeal": null
+}

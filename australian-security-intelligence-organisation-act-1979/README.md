@@ -1,0 +1,245 @@
+# Australian Security Intelligence Organisation Act 1979
+
+Register title C2004A02123 · <https://www.legislation.gov.au/C2004A02123/latest/versions>
+
+3 compilations, 2025-11-08 to 2026-08-27.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| long title and preamble | [intro.md](intro.md) | 0 |  |
+| s 1 | [s-001.md](s-001.md) | 0 |  |
+| s 2 | [s-002.md](s-002.md) | 0 |  |
+| s 3 | [s-003.md](s-003.md) | 0 |  |
+| s 4 | [s-004.md](s-004.md) | 1 | 2026-01-22 |
+| s 4AA | [s-004AA.md](s-004AA.md) | 0 |  |
+| s 4A | [s-004A.md](s-004A.md) | 0 |  |
+| s 5 | [s-005.md](s-005.md) | 0 |  |
+| s 5A | [s-005A.md](s-005A.md) | 0 |  |
+| s 5B | [s-005B.md](s-005B.md) | 0 |  |
+| s 6 | [s-006.md](s-006.md) | 0 |  |
+| s 7 | [s-007.md](s-007.md) | 0 |  |
+| s 8 | [s-008.md](s-008.md) | 0 |  |
+| s 8A | [s-008A.md](s-008A.md) | 0 |  |
+| s 9 | [s-009.md](s-009.md) | 0 |  |
+| s 10 | [s-010.md](s-010.md) | 0 |  |
+| s 11 | [s-011.md](s-011.md) | 0 |  |
+| s 12 | [s-012.md](s-012.md) | 0 |  |
+| s 13 | [s-013.md](s-013.md) | 0 |  |
+| s 14 | [s-014.md](s-014.md) | 0 |  |
+| s 15 | [s-015.md](s-015.md) | 0 |  |
+| s 16 | [s-016.md](s-016.md) | 0 |  |
+| s 17 | [s-017.md](s-017.md) | 0 |  |
+| s 17AA | [s-017AA.md](s-017AA.md) | 0 |  |
+| s 17A | [s-017A.md](s-017A.md) | 0 |  |
+| s 18 | [s-018.md](s-018.md) | 0 |  |
+| s 18A | [s-018A.md](s-018A.md) | 0 |  |
+| s 18B | [s-018B.md](s-018B.md) | 0 |  |
+| s 18C | [s-018C.md](s-018C.md) | 0 |  |
+| s 18D | [s-018D.md](s-018D.md) | 0 |  |
+| s 19 | [s-019.md](s-019.md) | 0 |  |
+| s 19A | [s-019A.md](s-019A.md) | 0 |  |
+| s 20 | [s-020.md](s-020.md) | 0 |  |
+| s 21 | [s-021.md](s-021.md) | 0 |  |
+| s 21A | [s-021A.md](s-021A.md) | 0 |  |
+| s 22 | [s-022.md](s-022.md) | 0 |  |
+| s 23 | [s-023.md](s-023.md) | 0 |  |
+| s 24 | [s-024.md](s-024.md) | 0 |  |
+| s 25 | [s-025.md](s-025.md) | 0 |  |
+| s 25AA | [s-025AA.md](s-025AA.md) | 0 |  |
+| s 25A | [s-025A.md](s-025A.md) | 0 |  |
+| s 26 | [s-026.md](s-026.md) | 0 |  |
+| s 26A | [s-026A.md](s-026A.md) | 0 |  |
+| s 26B | [s-026B.md](s-026B.md) | 0 |  |
+| s 26C | [s-026C.md](s-026C.md) | 0 |  |
+| s 26D | [s-026D.md](s-026D.md) | 0 |  |
+| s 26E | [s-026E.md](s-026E.md) | 0 |  |
+| s 26F | [s-026F.md](s-026F.md) | 0 |  |
+| s 26G | [s-026G.md](s-026G.md) | 0 |  |
+| s 26H | [s-026H.md](s-026H.md) | 0 |  |
+| s 26J | [s-026J.md](s-026J.md) | 0 |  |
+| s 26K | [s-026K.md](s-026K.md) | 0 |  |
+| s 26L | [s-026L.md](s-026L.md) | 0 |  |
+| s 26M | [s-026M.md](s-026M.md) | 0 |  |
+| s 26N | [s-026N.md](s-026N.md) | 0 |  |
+| s 26P | [s-026P.md](s-026P.md) | 0 |  |
+| s 26Q | [s-026Q.md](s-026Q.md) | 0 |  |
+| s 26R | [s-026R.md](s-026R.md) | 0 |  |
+| s 27 | [s-027.md](s-027.md) | 0 |  |
+| s 27AA | [s-027AA.md](s-027AA.md) | 0 |  |
+| s 27A | [s-027A.md](s-027A.md) | 0 |  |
+| s 27B | [s-027B.md](s-027B.md) | 0 |  |
+| s 27C | [s-027C.md](s-027C.md) | 0 |  |
+| s 27D | [s-027D.md](s-027D.md) | 0 |  |
+| s 27E | [s-027E.md](s-027E.md) | 0 |  |
+| s 27F | [s-027F.md](s-027F.md) | 0 |  |
+| s 27G | [s-027G.md](s-027G.md) | 0 |  |
+| s 27H | [s-027H.md](s-027H.md) | 0 |  |
+| s 27J | [s-027J.md](s-027J.md) | 0 |  |
+| s 28 | [s-028.md](s-028.md) | 0 |  |
+| s 29 | [s-029.md](s-029.md) | 0 |  |
+| s 29A | [s-029A.md](s-029A.md) | 0 |  |
+| s 30 | [s-030.md](s-030.md) | 0 |  |
+| s 31 | [s-031.md](s-031.md) | 0 |  |
+| s 31A | [s-031A.md](s-031A.md) | 0 |  |
+| s 32 | [s-032.md](s-032.md) | 0 |  |
+| s 33 | [s-033.md](s-033.md) | 0 |  |
+| s 34 | [s-034.md](s-034.md) | 0 |  |
+| s 34AAA | [s-034AAA.md](s-034AAA.md) | 0 |  |
+| s 34AAB | [s-034AAB.md](s-034AAB.md) | 0 |  |
+| s 34AAC | [s-034AAC.md](s-034AAC.md) | 0 |  |
+| s 34AAD | [s-034AAD.md](s-034AAD.md) | 0 |  |
+| s 34A | [s-034A.md](s-034A.md) | 1 | 2026-08-27 |
+| s 34AA | [s-034AA.md](s-034AA.md) | 0 |  |
+| s 34AB | [s-034AB.md](s-034AB.md) | 0 |  |
+| s 34AC | [s-034AC.md](s-034AC.md) | 0 |  |
+| s 34AD | [s-034AD.md](s-034AD.md) | 1 | 2026-08-27 |
+| s 34AE | [s-034AE.md](s-034AE.md) | 0 |  |
+| s 34AF | [s-034AF.md](s-034AF.md) | 0 |  |
+| s 34AG | [s-034AG.md](s-034AG.md) | 0 |  |
+| s 34B | [s-034B.md](s-034B.md) | 0 |  |
+| s 34BA | [s-034BA.md](s-034BA.md) | 0 |  |
+| s 34BB | [s-034BB.md](s-034BB.md) | 0 |  |
+| s 34BC | [s-034BC.md](s-034BC.md) | 0 |  |
+| s 34BD | [s-034BD.md](s-034BD.md) | 1 | 2026-08-27 |
+| s 34BE | [s-034BE.md](s-034BE.md) | 1 | 2026-08-27 |
+| s 34BF | [s-034BF.md](s-034BF.md) | 0 |  |
+| s 34BG | [s-034BG.md](s-034BG.md) | 0 |  |
+| s 34BH | [s-034BH.md](s-034BH.md) | 0 |  |
+| s 34C | [s-034C.md](s-034C.md) | 0 |  |
+| s 34CA | [s-034CA.md](s-034CA.md) | 0 |  |
+| s 34CB | [s-034CB.md](s-034CB.md) | 0 |  |
+| s 34CC | [s-034CC.md](s-034CC.md) | 0 |  |
+| s 34CD | [s-034CD.md](s-034CD.md) | 0 |  |
+| s 34CE | [s-034CE.md](s-034CE.md) | 0 |  |
+| s 34D | [s-034D.md](s-034D.md) | 0 |  |
+| s 34DA | [s-034DA.md](s-034DA.md) | 0 |  |
+| s 34DB | [s-034DB.md](s-034DB.md) | 0 |  |
+| s 34DC | [s-034DC.md](s-034DC.md) | 0 |  |
+| s 34DD | [s-034DD.md](s-034DD.md) | 0 |  |
+| s 34DE | [s-034DE.md](s-034DE.md) | 1 | 2026-08-27 |
+| s 34DF | [s-034DF.md](s-034DF.md) | 0 |  |
+| s 34DG | [s-034DG.md](s-034DG.md) | 0 |  |
+| s 34DH | [s-034DH.md](s-034DH.md) | 0 |  |
+| s 34DI | [s-034DI.md](s-034DI.md) | 0 |  |
+| s 34DJ | [s-034DJ.md](s-034DJ.md) | 0 |  |
+| s 34DK | [s-034DK.md](s-034DK.md) | 0 |  |
+| s 34DL | [s-034DL.md](s-034DL.md) | 0 |  |
+| s 34DM | [s-034DM.md](s-034DM.md) | 0 |  |
+| s 34DN | [s-034DN.md](s-034DN.md) | 0 |  |
+| s 34DO | [s-034DO.md](s-034DO.md) | 0 |  |
+| s 34DP | [s-034DP.md](s-034DP.md) | 0 |  |
+| s 34E | [s-034E.md](s-034E.md) | 0 |  |
+| s 34EA | [s-034EA.md](s-034EA.md) | 0 |  |
+| s 34EB | [s-034EB.md](s-034EB.md) | 0 |  |
+| s 34EC | [s-034EC.md](s-034EC.md) | 0 |  |
+| s 34ED | [s-034ED.md](s-034ED.md) | 0 |  |
+| s 34EE | [s-034EE.md](s-034EE.md) | 0 |  |
+| s 34EF | [s-034EF.md](s-034EF.md) | 0 |  |
+| s 34F | [s-034F.md](s-034F.md) | 0 |  |
+| s 34FA | [s-034FA.md](s-034FA.md) | 0 |  |
+| s 34FB | [s-034FB.md](s-034FB.md) | 0 |  |
+| s 34FC | [s-034FC.md](s-034FC.md) | 0 |  |
+| s 34FD | [s-034FD.md](s-034FD.md) | 0 |  |
+| s 34FE | [s-034FE.md](s-034FE.md) | 0 |  |
+| s 34FF | [s-034FF.md](s-034FF.md) | 0 |  |
+| s 34FG | [s-034FG.md](s-034FG.md) | 0 |  |
+| s 34FH | [s-034FH.md](s-034FH.md) | 0 |  |
+| s 34FI | [s-034FI.md](s-034FI.md) | 0 |  |
+| s 34G | [s-034G.md](s-034G.md) | 0 |  |
+| s 34GA | [s-034GA.md](s-034GA.md) | 0 |  |
+| s 34GB | [s-034GB.md](s-034GB.md) | 0 |  |
+| s 34GC | [s-034GC.md](s-034GC.md) | 0 |  |
+| s 34GD | [s-034GD.md](s-034GD.md) | 0 |  |
+| s 34GE | [s-034GE.md](s-034GE.md) | 0 |  |
+| s 34GF | [s-034GF.md](s-034GF.md) | 0 |  |
+| s 34H | [s-034H.md](s-034H.md) | 0 |  |
+| s 34HA | [s-034HA.md](s-034HA.md) | 1 | 2026-08-27 |
+| s 34HB | [s-034HB.md](s-034HB.md) | 0 |  |
+| s 34HC | [s-034HC.md](s-034HC.md) | 0 |  |
+| s 34J | [s-034J.md](s-034J.md) | 0 |  |
+| s 34JA | [s-034JA.md](s-034JA.md) | 0 |  |
+| s 34JB | [s-034JB.md](s-034JB.md) | 0 |  |
+| s 34JC | [s-034JC.md](s-034JC.md) | 0 |  |
+| s 34JD | [s-034JD.md](s-034JD.md) | 0 |  |
+| s 34JE | [s-034JE.md](s-034JE.md) | 0 |  |
+| s 34JF | [s-034JF.md](s-034JF.md) | 1 | 2026-08-27 |
+| s 35A | [s-035A.md](s-035A.md) | 0 |  |
+| s 35B | [s-035B.md](s-035B.md) | 0 |  |
+| s 35C | [s-035C.md](s-035C.md) | 0 |  |
+| s 35D | [s-035D.md](s-035D.md) | 0 |  |
+| s 35E | [s-035E.md](s-035E.md) | 0 |  |
+| s 35F | [s-035F.md](s-035F.md) | 0 |  |
+| s 35G | [s-035G.md](s-035G.md) | 0 |  |
+| s 35H | [s-035H.md](s-035H.md) | 0 |  |
+| s 35J | [s-035J.md](s-035J.md) | 0 |  |
+| s 35K | [s-035K.md](s-035K.md) | 0 |  |
+| s 35L | [s-035L.md](s-035L.md) | 0 |  |
+| s 35M | [s-035M.md](s-035M.md) | 0 |  |
+| s 35N | [s-035N.md](s-035N.md) | 0 |  |
+| s 35P | [s-035P.md](s-035P.md) | 0 |  |
+| s 35PA | [s-035PA.md](s-035PA.md) | 0 |  |
+| s 35Q | [s-035Q.md](s-035Q.md) | 0 |  |
+| s 35R | [s-035R.md](s-035R.md) | 0 |  |
+| s 35 | [s-035.md](s-035.md) | 1 | 2026-01-22 |
+| s 36AA | [s-036AA.md](s-036AA.md) | 0 |  |
+| s 36 | [s-036.md](s-036.md) | 1 | 2026-01-22 |
+| s 36A | [s-036A.md](s-036A.md) | 0 |  |
+| s 37 | [s-037.md](s-037.md) | 0 |  |
+| s 38 | [s-038.md](s-038.md) | 0 |  |
+| s 39 | [s-039.md](s-039.md) | 1 | 2026-01-22 |
+| s 40 | [s-040.md](s-040.md) | 0 |  |
+| s 41 | [s-041.md](s-041.md) | 0 |  |
+| s 42 | [s-042.md](s-042.md) | 0 |  |
+| s 54 | [s-054.md](s-054.md) | 0 |  |
+| s 61 | [s-061.md](s-061.md) | 0 |  |
+| s 64 | [s-064.md](s-064.md) | 0 |  |
+| s 65 | [s-065.md](s-065.md) | 0 |  |
+| s 81 | [s-081.md](s-081.md) | 0 |  |
+| s 82 | [s-082.md](s-082.md) | 0 |  |
+| s 82A | [s-082A.md](s-082A.md) | 0 |  |
+| s 82B | [s-082B.md](s-082B.md) | 0 |  |
+| s 82C | [s-082C.md](s-082C.md) | 0 |  |
+| s 82D | [s-082D.md](s-082D.md) | 0 |  |
+| s 82E | [s-082E.md](s-082E.md) | 0 |  |
+| s 82F | [s-082F.md](s-082F.md) | 0 |  |
+| s 82G | [s-082G.md](s-082G.md) | 0 |  |
+| s 82GA | [s-082GA.md](s-082GA.md) | 0 |  |
+| s 82GB | [s-082GB.md](s-082GB.md) | 0 |  |
+| s 82H | [s-082H.md](s-082H.md) | 0 |  |
+| s 82J | [s-082J.md](s-082J.md) | 0 |  |
+| s 82K | [s-082K.md](s-082K.md) | 0 |  |
+| s 82L | [s-082L.md](s-082L.md) | 0 |  |
+| s 83 | [s-083.md](s-083.md) | 0 |  |
+| s 83A | [s-083A.md](s-083A.md) | 0 |  |
+| s 83B | [s-083B.md](s-083B.md) | 0 |  |
+| s 83C | [s-083C.md](s-083C.md) | 0 |  |
+| s 83CA | [s-083CA.md](s-083CA.md) | 0 |  |
+| s 83D | [s-083D.md](s-083D.md) | 0 |  |
+| s 83E | [s-083E.md](s-083E.md) | 0 |  |
+| s 83EA | [s-083EA.md](s-083EA.md) | 0 |  |
+| s 83EB | [s-083EB.md](s-083EB.md) | 0 |  |
+| s 83EC | [s-083EC.md](s-083EC.md) | 0 |  |
+| s 83ED | [s-083ED.md](s-083ED.md) | 0 |  |
+| s 83EE | [s-083EE.md](s-083EE.md) | 0 |  |
+| s 83EF | [s-083EF.md](s-083EF.md) | 0 |  |
+| s 83F | [s-083F.md](s-083F.md) | 0 |  |
+| s 84 | [s-084.md](s-084.md) | 0 |  |
+| s 85 | [s-085.md](s-085.md) | 0 |  |
+| s 86 | [s-086.md](s-086.md) | 0 |  |
+| s 87 | [s-087.md](s-087.md) | 0 |  |
+| s 88 | [s-088.md](s-088.md) | 0 |  |
+| s 89 | [s-089.md](s-089.md) | 0 |  |
+| s 90 | [s-090.md](s-090.md) | 0 |  |
+| s 91 | [s-091.md](s-091.md) | 0 |  |
+| s 92 | [s-092.md](s-092.md) | 0 |  |
+| s 92A | [s-092A.md](s-092A.md) | 0 |  |
+| s 92B | [s-092B.md](s-092B.md) | 0 |  |
+| s 92C | [s-092C.md](s-092C.md) | 0 |  |
+| s 92D | [s-092D.md](s-092D.md) | 0 |  |
+| s 92E | [s-092E.md](s-092E.md) | 1 | 2026-01-22 |
+| s 92F | [s-092F.md](s-092F.md) | 1 | 2026-01-22 |
+| s 92G | [s-092G.md](s-092G.md) | 1 | 2026-01-22 |
+| s 93A | [s-093A.md](s-093A.md) | 1 | 2026-01-22 |
+| s 93 | [s-093.md](s-093.md) | 0 |  |
+| s 94 | [s-094.md](s-094.md) | 0 |  |
+| s 95 | [s-095.md](s-095.md) | 0 |  |

@@ -1,0 +1,273 @@
+{
+ "title_id": "C2004A02723",
+ "name": "Australian Broadcasting Corporation Act 1983",
+ "folder": "australian-broadcasting-corporation-act-1983",
+ "compilations": [
+  {
+   "in_force": "2018-03-14",
+   "register_id": "C2018C00079",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02723',start=2018-03-14,retrospectivestart=2018-03-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02723/2018-03-14/text",
+   "sha256": "553ca6385666e7531c2ac93638b3020eca200508df1c913633b931198a873aa0"
+  },
+  {
+   "in_force": "2019-12-12",
+   "register_id": "C2020C00015",
+   "compilation": "29",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02723',start=2019-12-12,retrospectivestart=2019-12-12,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02723/2019-12-12/text",
+   "sha256": "c7c53a7f858b7aa6650f7cc4dc539d9c3582b599fd3b53d191ac4bafcb46397e"
+  },
+  {
+   "in_force": "2022-02-18",
+   "register_id": "C2022C00075",
+   "compilation": "30",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02723',start=2022-02-18,retrospectivestart=2022-02-18,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02723/2022-02-18/text",
+   "sha256": "d0a16def961592c2036b72daad7d68eca4615bb2de2f2f560d408e0fd1d8507e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1983-06-01",
+   "acts": []
+  },
+  {
+   "in_force": "1983-12-20",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-01-01",
+   "acts": [
+    "Broadcasting and Television (Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-02-19",
+   "acts": [
+    "Broadcasting and Television Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-01-01",
+   "acts": [
+    "Telecommunications Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-01-23",
+   "acts": [
+    "Broadcasting Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-07-01",
+   "acts": [
+    "Telecommunications and Postal Services (Transitional Provisions and Consequential Amendments) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-23",
+   "acts": [
+    "Special Broadcasting Service Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-10-05",
+   "acts": [
+    "Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Australian Broadcasting Corporation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-05-04",
+   "acts": [
+    "Broadcasting Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1994-06-15",
+   "acts": [
+    "Broadcasting Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1995-04-12",
+   "acts": [
+    "Communications and the Arts Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-12-21",
+   "acts": [
+    "National Transmission Network Sale (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-04-06",
+   "acts": [
+    "Broadcasting Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005",
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-15",
+   "acts": [
+    "Australian Broadcasting Corporation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Commonwealth Authorities and Companies Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-24",
+   "acts": [
+    "National Broadcasting Legislation Amendment Act 2012",
+    "National Broadcasting Legislation Amendment Act 2012",
+    "National Broadcasting Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-31",
+   "acts": [
+    "Broadcasting Legislation Amendment (Convergence Review and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

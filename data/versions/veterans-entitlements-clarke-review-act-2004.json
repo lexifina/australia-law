@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A01336",
+ "name": "Veterans' Entitlements (Clarke Review) Act 2004",
+ "folder": "veterans-entitlements-clarke-review-act-2004",
+ "compilations": [
+  {
+   "in_force": "2004-03-20",
+   "register_id": "C2004A01336",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01336',start=2004-03-20,retrospectivestart=2004-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01336/2004-03-20/text",
+   "sha256": "8f40801747d02b8c1018f0b895dd29c3b71e39be3bba6a27947e1b77fe1fe2c5"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00574",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01336',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01336/2024-10-14/text",
+   "sha256": "d4aeaeff5152e92dc9d621c9341c9aa18faadde2b1f442bfb878c0e7043069dd"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00321",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01336',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01336/2026-07-01/text",
+   "sha256": "c08bc75d4ea46ae66be7a230651f7dfb036627ab641709fb78c23155a6cdb404"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

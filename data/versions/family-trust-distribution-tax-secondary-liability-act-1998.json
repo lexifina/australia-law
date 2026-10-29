@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A05324",
+ "name": "Family Trust Distribution Tax (Secondary Liability) Act 1998",
+ "folder": "family-trust-distribution-tax-secondary-liability-act-1998",
+ "compilations": [
+  {
+   "in_force": "1998-04-06",
+   "register_id": "C2004A05324",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05324',start=1998-04-06,retrospectivestart=1998-04-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05324/1998-04-06/text",
+   "sha256": "b8af89f4ce065eac2cfb9eb10a4e792a0387863e8badd7473160bfd6717eb14e"
+  },
+  {
+   "in_force": "2011-06-27",
+   "register_id": "C2011C00492",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05324',start=2011-06-27,retrospectivestart=2011-06-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05324/2011-06-27/text",
+   "sha256": "bb6b4ac561e918cd8dfe9a65c1c9597d3f83ff90d693bba33d9e768e510f87e8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

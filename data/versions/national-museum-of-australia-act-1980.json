@@ -1,0 +1,151 @@
+{
+ "title_id": "C2004A02316",
+ "name": "National Museum of Australia Act 1980",
+ "folder": "national-museum-of-australia-act-1980",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00536",
+   "compilation": null,
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02316',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02316/2014-07-01/text",
+   "sha256": "2a8b0a12961de4647218197e392237a343653408cb4cbca80638bf6eae4e5170"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01081",
+   "compilation": "12",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02316',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02316/2016-10-21/text",
+   "sha256": "b436aaace731eba8d927662ce97be84568f7254c3eafe11a3aab5ef612c6640a"
+  },
+  {
+   "in_force": "2021-05-01",
+   "register_id": "C2021C00206",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02316',start=2021-05-01,retrospectivestart=2021-05-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02316/2021-05-01/text",
+   "sha256": "a4b802c4a0dc7fc862a0d4ad18cbddecf4776e90a9f4552307b46c396070a711"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1980-09-08",
+   "acts": []
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985",
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-01-08",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1989-06-19",
+   "acts": [
+    "Arts, Territories and Environment Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1994-08-01",
+   "acts": [
+    "Maritime Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-03-20",
+   "acts": [
+    "National Museum of Australia Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

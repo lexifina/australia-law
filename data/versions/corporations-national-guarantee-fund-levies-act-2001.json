@@ -1,0 +1,48 @@
+{
+ "title_id": "C2004A00822",
+ "name": "Corporations (National Guarantee Fund Levies) Act 2001",
+ "folder": "corporations-national-guarantee-fund-levies-act-2001",
+ "compilations": [
+  {
+   "in_force": "2002-03-11",
+   "register_id": "C2004C01180",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00822',start=2002-03-11,retrospectivestart=2002-03-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00822/2002-03-11/text",
+   "sha256": "4f0af8b30cb4d701894dda3ecf263109bf46f1e205c2c592756bb2935e034398"
+  },
+  {
+   "in_force": "2007-10-22",
+   "register_id": "C2007C00671",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00822',start=2007-10-22,retrospectivestart=2007-10-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00822/2007-10-22/text",
+   "sha256": "33fda29ad2dea240b6cc5f3bf4757e6f79782fd5ed34caaff0ef4b0ccd65a0b1"
+  },
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00432",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00822',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00822/2023-10-20/text",
+   "sha256": "b5813f03725a7a2c22462b781dec965dca7a0847f29e6b0cd1c54971a2ea9af3"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2001-06-28",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

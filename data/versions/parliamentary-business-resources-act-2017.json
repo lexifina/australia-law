@@ -1,0 +1,66 @@
+{
+ "title_id": "C2017A00037",
+ "name": "Parliamentary Business Resources Act 2017",
+ "folder": "parliamentary-business-resources-act-2017",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00469",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00037',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00037/2024-10-14/text",
+   "sha256": "91eb9b0e75e246af9891efa4ab78261321cb310b34a7ec43efc606d6a6be3043"
+  },
+  {
+   "in_force": "2026-03-14",
+   "register_id": "C2026C00091",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00037',start=2026-03-14,retrospectivestart=2026-03-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00037/2026-03-14/text",
+   "sha256": "f1c55019113c55e64f75402d634c88abed2744f93cda0ccb544cac620fb6803d"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00248",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00037',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00037/2026-07-01/text",
+   "sha256": "8925b420594556f54ef3648ba3944adab9d64c801071c1cd0d2d067f0ced9915"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2017-05-19",
+   "acts": []
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2024-05-31",
+   "acts": [
+    "Parliamentary Business Resources Legislation Amendment (Review Implementation and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-07-01",
+   "acts": [
+    "Parliamentary Business Resources Legislation Amendment (Review Implementation and Other Measures) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

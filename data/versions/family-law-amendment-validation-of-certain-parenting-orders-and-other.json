@@ -1,0 +1,32 @@
+{
+ "title_id": "C2010A00147",
+ "name": "Family Law Amendment (Validation of Certain Parenting Orders and Other Measures) Act 2010",
+ "folder": "family-law-amendment-validation-of-certain-parenting-orders-and-other",
+ "compilations": [
+  {
+   "in_force": "2010-12-16",
+   "register_id": "C2010A00147",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00147',start=2010-12-16,retrospectivestart=2010-12-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00147/2010-12-16/text",
+   "sha256": "01116994bffd98641624b90034d9d7183d7790ba34fe8b2940018e352df2597c"
+  },
+  {
+   "in_force": "2013-04-12",
+   "register_id": "C2013C00161",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00147',start=2013-04-12,retrospectivestart=2013-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00147/2013-04-12/text",
+   "sha256": "aa6d5a64b7cb6b00f25c9e2e24a97c277bf809eae741cdfd20a0caa39d292c78"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

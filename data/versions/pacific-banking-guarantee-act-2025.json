@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00044",
+ "name": "Pacific Banking Guarantee Act 2025",
+ "folder": "pacific-banking-guarantee-act-2025",
+ "compilations": [
+  {
+   "in_force": "2025-09-05",
+   "register_id": "C2025A00044",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00044',start=2025-09-05,retrospectivestart=2025-09-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00044/2025-09-05/text",
+   "sha256": "1ec3cc952ab1bfa46d096b20ba2994d8054bda0153d677169ede73f3a05028ee"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

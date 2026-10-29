@@ -1,0 +1,270 @@
+{
+ "title_id": "C2004A02830",
+ "name": "Director of Public Prosecutions Act 1983",
+ "folder": "director-of-public-prosecutions-act-1983",
+ "compilations": [
+  {
+   "in_force": "2018-05-23",
+   "register_id": "C2018C00187",
+   "compilation": "31",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02830',start=2018-05-23,retrospectivestart=2018-05-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02830/2018-05-23/text",
+   "sha256": "40a3131ee719f56ccbc52ab6d624443ae56b160f6018f0267b26a9f51fd8f5ea"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00809",
+   "compilation": "32",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02830',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02830/2024-12-11/text",
+   "sha256": "7e6afd01cb5479fbb731bad9f5dcb1c4b3bb085a07c9d9a4949cda85a0356f9b"
+  },
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00395",
+   "compilation": "33",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02830',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02830/2026-08-27/text",
+   "sha256": "a978a4a94d663a83d27e81870ab6b5f4186d594fa6d512200f402c9c28575f66"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1983-12-14",
+   "acts": []
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Australian Government Solicitor (Consequential Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-11-22",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-01",
+   "acts": [
+    "Director of Public Prosecutions Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-01-08",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-07-18",
+   "acts": [
+    "Director of Public Prosecutions Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-08-01",
+   "acts": [
+    "Mutual Assistance in Criminal Matters (Consequential Amendments) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-01",
+   "acts": [
+    "Extradition (Repeal and Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-01-11",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-07-27",
+   "acts": [
+    "Crimes Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-03-04",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-04-01",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-01-08",
+   "acts": [
+    "Crimes Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-01-16",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-08-28",
+   "acts": [
+    "International War Crimes Tribunals (Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-08-30",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-09-01",
+   "acts": [
+    "Judiciary Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-05-30",
+   "acts": [
+    "Jurisdiction of Courts Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-09-26",
+   "acts": [
+    "International Criminal Court (Consequential Amendments) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-12-04",
+   "acts": [
+    "Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-03-03",
+   "acts": [
+    "Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-05",
+   "acts": [
+    "Crimes Legislation Amendment (Powers and Offences) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Judiciary Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-22",
+   "acts": [
+    "Statute Update (A.C.T. Self-Government (Consequential Provisions) Regulations) Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

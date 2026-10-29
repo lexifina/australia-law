@@ -1,0 +1,32 @@
+{
+ "title_id": "C2012A00032",
+ "name": "Family Law Amendment (Validation of Certain Orders and Other Measures) Act 2012",
+ "folder": "family-law-amendment-validation-of-certain-orders-and-other-measures",
+ "compilations": [
+  {
+   "in_force": "2012-04-10",
+   "register_id": "C2012A00032",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00032',start=2012-04-10,retrospectivestart=2012-04-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00032/2012-04-10/text",
+   "sha256": "5082a2ef6514cf05ef5f51543ea7e9a9de7bfa53331f7155748d8a2d2e7e5417"
+  },
+  {
+   "in_force": "2013-04-12",
+   "register_id": "C2013C00166",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00032',start=2013-04-12,retrospectivestart=2013-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00032/2013-04-12/text",
+   "sha256": "2094fc0b368f4e9c28e5f657e446732279df247c07782c1e993d000f4af322fb"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

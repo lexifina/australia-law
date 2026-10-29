@@ -1,0 +1,21 @@
+{
+ "title_id": "C2008A00030",
+ "name": "Income Tax (Managed Investment Trust Transitional) Act 2008",
+ "folder": "income-tax-managed-investment-trust-transitional-act-2008",
+ "compilations": [
+  {
+   "in_force": "2008-06-23",
+   "register_id": "C2008A00030",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00030',start=2008-06-23,retrospectivestart=2008-06-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00030/2008-06-23/text",
+   "sha256": "1672a2f4475c0eb00caf10945db61fa61696fbf25c25740dafa8384d7bb32bf0"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

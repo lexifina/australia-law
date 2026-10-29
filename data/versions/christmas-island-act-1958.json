@@ -1,0 +1,200 @@
+{
+ "title_id": "C1958A00041",
+ "name": "Christmas Island Act 1958",
+ "folder": "christmas-island-act-1958",
+ "compilations": [
+  {
+   "in_force": "2010-12-11",
+   "register_id": "C2010C00814",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1958A00041',start=2010-12-11,retrospectivestart=2010-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1958A00041/2010-12-11/text",
+   "sha256": "2d5cb908610456e34d3eccf58783c1c5fca275cde194e8e3394d21b43e0cdc05"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00503",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1958A00041',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1958A00041/2016-03-10/text",
+   "sha256": "0e5902b379a0dbd2ba912b6ff4bbb53a9bf69943bd708440f5ab425a0bc4e3ac"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01091",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1958A00041',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1958A00041/2016-10-21/text",
+   "sha256": "f981c7d46de72a51894ca415a9aeefa88608d47332d8c368e8701916ef11d1ff"
+  },
+  {
+   "in_force": "2020-12-18",
+   "register_id": "C2021C00068",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1958A00041',start=2020-12-18,retrospectivestart=2020-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1958A00041/2020-12-18/text",
+   "sha256": "8518077547cde7a79f3f31628750a6cb9d1feffec674ba4705c12f029f1b9a96"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1958-09-02",
+   "acts": []
+  },
+  {
+   "in_force": "1960-01-14",
+   "acts": [
+    "Christmas Island Act 1959"
+   ]
+  },
+  {
+   "in_force": "1963-06-25",
+   "acts": [
+    "Christmas Island Act 1963"
+   ]
+  },
+  {
+   "in_force": "1966-02-14",
+   "acts": [
+    "Christmas Island Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1980-12-23",
+   "acts": [
+    "Christmas Island Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-18",
+   "acts": [
+    "Christmas Island Administration (Miscellaneous Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-12-16",
+   "acts": [
+    "Crimes Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-09",
+   "acts": [
+    "Lands Acquisition (Repeal and Consequential Provisions) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Territories Law Reform Act 1992",
+    "Territories Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-06-29",
+   "acts": [
+    "Territories Legislation Amendment Act 1992",
+    "Territories Legislation Amendment Act 1992",
+    "Territories Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-09-16",
+   "acts": [
+    "Environment, Sport and Territories Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-07",
+   "acts": [
+    "Environment, Sport and Territories Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

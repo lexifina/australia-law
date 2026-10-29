@@ -1,0 +1,128 @@
+{
+ "title_id": "C2004A02401",
+ "name": "Federal Proceedings (Costs) Act 1981",
+ "folder": "federal-proceedings-costs-act-1981",
+ "compilations": [
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00431",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02401',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02401/2021-09-01/text",
+   "sha256": "3ca21f78c6340b41432973fef9128c290ba1cd7838a750bdde0dea597ed6c368"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00496",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02401',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02401/2024-10-14/text",
+   "sha256": "5470ac9f3927b32ae2572ea2b566a6282bbff4fb60478f7a329e65c149f15ffe"
+  },
+  {
+   "in_force": "2025-06-10",
+   "register_id": "C2025C00377",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02401',start=2025-06-10,retrospectivestart=2025-06-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02401/2025-06-10/text",
+   "sha256": "7e982e8c73e748c73e0a19bb845b20e646c8f8193cdb4ef4110877c485268160"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1981-04-14",
+   "acts": []
+  },
+  {
+   "in_force": "1982-07-01",
+   "acts": [
+    "Companies and Securities Legislation (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-12-20",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1993-06-29",
+   "acts": [
+    "Territories Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 1) 1995",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-05-16",
+   "acts": [
+    "Administrative Appeals Tribunal Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A04125",
+ "name": "Trusts (Hague Convention) Act 1991",
+ "folder": "trusts-hague-convention-act-1991",
+ "compilations": [
+  {
+   "in_force": "1991-04-24",
+   "register_id": "C2004A04125",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04125',start=1991-04-24,retrospectivestart=1991-04-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04125/1991-04-24/text",
+   "sha256": "38544ba35eb0ea025c08ea0f9710e7fd1ea5e661ef8548d2bfc6bf50818672f8"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00898",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04125',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04125/2016-07-01/text",
+   "sha256": "50259fd96b86a5c3085beeb39bdcfc2a000d7ec9f322f77f129754a56729049e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

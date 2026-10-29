@@ -1,0 +1,43 @@
+{
+ "title_id": "C2012A00105",
+ "name": "National Vocational Education and Training Regulator (Charges) Act 2012",
+ "folder": "national-vocational-education-and-training-regulator-charges-act-2012",
+ "compilations": [
+  {
+   "in_force": "2012-07-22",
+   "register_id": "C2012A00105",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00105',start=2012-07-22,retrospectivestart=2012-07-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00105/2012-07-22/text",
+   "sha256": "235204fcb71af1e89cbba592019de75b35122ec67497a373e63ed694e7a35036"
+  },
+  {
+   "in_force": "2017-07-01",
+   "register_id": "C2017C00217",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00105',start=2017-07-01,retrospectivestart=2017-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00105/2017-07-01/text",
+   "sha256": "3014e8d8cfe09f3afaa22151c97de712708be1836808765235d020260a51aaab"
+  },
+  {
+   "in_force": "2021-01-01",
+   "register_id": "C2021C00093",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00105',start=2021-01-01,retrospectivestart=2021-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00105/2021-01-01/text",
+   "sha256": "8db36c4c4ba42a9b6c435441832747192a7eeb1e08abc713f98b56efcc1ca1ac"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

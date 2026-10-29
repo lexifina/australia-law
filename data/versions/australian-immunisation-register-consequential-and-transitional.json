@@ -1,0 +1,21 @@
+{
+ "title_id": "C2015A00139",
+ "name": "Australian Immunisation Register (Consequential and Transitional Provisions) Act 2015",
+ "folder": "australian-immunisation-register-consequential-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2015-11-12",
+   "register_id": "C2015A00139",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00139',start=2015-11-12,retrospectivestart=2015-11-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00139/2015-11-12/text",
+   "sha256": "bc9be0c492d634c66c34ecdd68ada7b7a3eec9f46ae99ad62cd1019dc176ceaa"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,207 @@
+{
+ "title_id": "C2011A00073",
+ "name": "Tertiary Education Quality and Standards Agency Act 2011",
+ "folder": "tertiary-education-quality-and-standards-agency-act-2011",
+ "compilations": [
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00688",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00073',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00073/2025-12-05/text",
+   "sha256": "2ea01ba1ee631391e012cab96f0e262ce6e88de04226d63ca42c6ed0d07af2f7"
+  },
+  {
+   "in_force": "2026-04-29",
+   "register_id": "C2026C00171",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00073',start=2026-04-29,retrospectivestart=2026-04-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00073/2026-04-29/text",
+   "sha256": "334306b34ea937e514b8310bd9d15ac9b1d709582e28fdf461dbe7be33d24c49"
+  },
+  {
+   "in_force": "2026-10-17",
+   "register_id": "C2026C00476",
+   "compilation": "29",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00073',start=2026-10-17,retrospectivestart=2026-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00073/2026-10-17/text",
+   "sha256": "baa13824e57dd57882047ae7ff73854396c401f75ca9f5faa914ccc008cdeb67"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "2011-07-29",
+   "acts": [
+    "Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-13",
+   "acts": [
+    "Tertiary Education Quality and Standards Agency Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-12-01",
+   "acts": [
+    "Higher Education Legislation Amendment (Miscellaneous Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Education Services for Overseas Students Amendment (Streamlining Regulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-08-17",
+   "acts": [
+    "Education Legislation Amendment (Provider Integrity and Other Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-08-23",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2017"
+   ]
+  },
+  {
+   "in_force": "2019-10-31",
+   "acts": [
+    "Tertiary Education Quality and Standards Agency Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-09-04",
+   "acts": [
+    "Tertiary Education Quality and Standards Agency Amendment (Prohibiting Academic Cheating Services) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Education Legislation Amendment (Up-front Payments Tuition Protection) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-02",
+   "acts": [
+    "Higher Education Legislation Amendment (Provider Category Standards and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-03-08",
+   "acts": [
+    "Higher Education Legislation Amendment (Provider Category Standards and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Higher Education Legislation Amendment (Provider Category Standards and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-26",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2021",
+    "Regulatory Powers (Standardisation Reform) Act 2021",
+    "Regulatory Powers (Standardisation Reform) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-01",
+   "acts": [
+    "Tertiary Education Quality and Standards Agency Amendment (Cost Recovery) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-11-30",
+   "acts": [
+    "Education Legislation Amendment (2022 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-10-17",
+   "acts": [
+    "Members of Parliament (Staff) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-01",
+   "acts": [
+    "Universities Accord (National Student Ombudsman) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Tertiary Education Quality and Standards Agency Amendment (National Student Ombudsman Levy) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

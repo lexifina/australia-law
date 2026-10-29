@@ -1,0 +1,54 @@
+{
+ "title_id": "C2016A00041",
+ "name": "Northern Australia Infrastructure Facility Act 2016",
+ "folder": "northern-australia-infrastructure-facility-act-2016",
+ "compilations": [
+  {
+   "in_force": "2022-09-14",
+   "register_id": "C2022C00251",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00041',start=2022-09-14,retrospectivestart=2022-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00041/2022-09-14/text",
+   "sha256": "c2e5dbb5e6489cbc5aaa5d4635283257f4e2dd1b99eaed4ce844cd3d8ce132d1"
+  },
+  {
+   "in_force": "2023-07-04",
+   "register_id": "C2023C00186",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00041',start=2023-07-04,retrospectivestart=2023-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00041/2023-07-04/text",
+   "sha256": "cfa70acff5e53ef2461132ded27553f0052fefd1e5ce4be69e0393df4c2fa8f6"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00281",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00041',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00041/2026-07-01/text",
+   "sha256": "4cf0b41212156acecbe0af6b60edb695aa19ff57c059a456b4f6b010d8fad00d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2016-05-04",
+   "acts": []
+  },
+  {
+   "in_force": "2021-05-28",
+   "acts": [
+    "Northern Australia Infrastructure Facility Amendment (Extension and Other Measures) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

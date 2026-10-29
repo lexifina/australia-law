@@ -1,0 +1,557 @@
+{
+ "title_id": "C2004A00043",
+ "name": "Remuneration Tribunal Act 1973",
+ "folder": "remuneration-tribunal-act-1973",
+ "compilations": [
+  {
+   "in_force": "2017-03-22",
+   "register_id": "C2017C00108",
+   "compilation": "58",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00043',start=2017-03-22,retrospectivestart=2017-03-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00043/2017-03-22/text",
+   "sha256": "de50869ae6a3738f996aa07ada0d06a6ac3e6323d24498ec05f4565848e9cc4c"
+  },
+  {
+   "in_force": "2017-08-23",
+   "register_id": "C2017C00287",
+   "compilation": "59",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00043',start=2017-08-23,retrospectivestart=2017-08-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00043/2017-08-23/text",
+   "sha256": "8e4eb9e80a03332375fb67380bdbf270a8481376ba8521b0a77187eedc6d663c"
+  },
+  {
+   "in_force": "2018-01-01",
+   "register_id": "C2018C00028",
+   "compilation": "60",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00043',start=2018-01-01,retrospectivestart=2018-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00043/2018-01-01/text",
+   "sha256": "cb16a52cb59a37497076e2540259c1f5d03c03a7bc5440a751b7943aa126bb55"
+  },
+  {
+   "in_force": "2019-02-01",
+   "register_id": "C2019C00081",
+   "compilation": "61",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00043',start=2019-02-01,retrospectivestart=2019-02-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00043/2019-02-01/text",
+   "sha256": "9ebdff05d65a816b0644b13fd470f1f28792bb72783a64dd9a8e3ff88339ded8"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1973-12-19",
+   "acts": []
+  },
+  {
+   "in_force": "1974-10-16",
+   "acts": [
+    "Remuneration Tribunals Act 1974",
+    "Remuneration Tribunals Act 1974",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1975-10-28",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1976-02-09",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1978-07-01",
+   "acts": [
+    "Remuneration Tribunals Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1979-01-31",
+   "acts": [
+    "Remuneration Tribunals Amendment Act (No. 2) 1978"
+   ]
+  },
+  {
+   "in_force": "1979-06-02",
+   "acts": [
+    "Remuneration Tribunals Amendment Act (No. 2) 1979"
+   ]
+  },
+  {
+   "in_force": "1979-08-07",
+   "acts": [
+    "Remuneration Tribunals Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-11-23",
+   "acts": [
+    "Remuneration Tribunals Amendment Act (No. 3) 1979"
+   ]
+  },
+  {
+   "in_force": "1980-12-10",
+   "acts": [
+    "Parliamentary Secretaries Act 1980",
+    "Parliamentary Secretaries Act 1980"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-06-18",
+   "acts": [
+    "Commonwealth Functions (Statutes Review) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-12-30",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-09-19",
+   "acts": [
+    "Remuneration and Allowances Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-12-22",
+   "acts": [
+    "Remuneration and Allowances Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-25",
+   "acts": [
+    "Remuneration and Allowances Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-06-30",
+   "acts": [
+    "Public Service Acts Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-20",
+   "acts": [
+    "Public Service Reform Act 1984",
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-25",
+   "acts": [
+    "Defence Legislation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1988-12-07",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Government Business Enterprises (Miscellaneous Reforms) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-28",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-05",
+   "acts": [
+    "Judicial and Statutory Officers Remuneration Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "University of Canberra Act 1989",
+    "Remuneration and Allowances Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1990-03-05",
+   "acts": [
+    "Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989",
+    "Aboriginal and Torres Strait Islander Act 2005"
+   ]
+  },
+  {
+   "in_force": "1990-05-24",
+   "acts": [
+    "Parliamentary Entitlements Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-06-27",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-22",
+   "acts": [
+    "Remuneration and Allowances Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Territories Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-21",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-14",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-19",
+   "acts": [
+    "Industrial Relations and Other Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-06-01",
+   "acts": [
+    "Land Fund and Indigenous Land Corporation (ATSIC Amendment) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Industrial Relations and other Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-07",
+   "acts": [
+    "Fisheries Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-30",
+   "acts": [
+    "Education Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-10",
+   "acts": [
+    "Ministers of State and Other Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-04-03",
+   "acts": [
+    "Dairy Industry Adjustment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-04-13",
+   "acts": [
+    "Human Rights Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2001-01-01",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-04",
+   "acts": [
+    "Remuneration Tribunal Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-05-29",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2005-03-24",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Commission Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-04-01",
+   "acts": [
+    "Parliamentary Service Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-06-05",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2007-04-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Corporations (Aboriginal and Torres Strait Islander) Consequential, Transitional and Other Measures Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Maritime Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-31",
+   "acts": [
+    "Dairy Adjustment Levy Termination Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-12-11",
+   "acts": [
+    "Territories Law Reform Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-08-05",
+   "acts": [
+    "Remuneration and Other Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-02-15",
+   "acts": [
+    "Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-06",
+   "acts": [
+    "Members of Parliament (Life Gold Pass) and Other Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-05-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Public Service Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Medibank Private Sale Act 2006"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

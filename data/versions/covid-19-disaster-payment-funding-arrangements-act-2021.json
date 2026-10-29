@@ -1,0 +1,21 @@
+{
+ "title_id": "C2021A00070",
+ "name": "COVID-19 Disaster Payment (Funding Arrangements) Act 2021",
+ "folder": "covid-19-disaster-payment-funding-arrangements-act-2021",
+ "compilations": [
+  {
+   "in_force": "2021-06-30",
+   "register_id": "C2021A00070",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00070',start=2021-06-30,retrospectivestart=2021-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00070/2021-06-30/text",
+   "sha256": "4039946908420bd7ee86c686f714529d5156902effbaafdef36018c6189d5c5e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

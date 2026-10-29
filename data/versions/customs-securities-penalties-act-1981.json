@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A02424",
+ "name": "Customs Securities (Penalties) Act 1981",
+ "folder": "customs-securities-penalties-act-1981",
+ "compilations": [
+  {
+   "in_force": "1995-07-01",
+   "register_id": "C2004C00225",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02424',start=1995-07-01,retrospectivestart=1995-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02424/1995-07-01/text",
+   "sha256": "efa55a8e040a8731d6b00d1462d5ab67e767f6cf877cc137de93af9478063fb0"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00384",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02424',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02424/2015-07-01/text",
+   "sha256": "30e997b74fba61c293273446c8f40976478edb009a7e9fde55f49ba1a998995b"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00718",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02424',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02424/2016-07-01/text",
+   "sha256": "c379010329b8d8066c463f931332495897a9e3b97ceb86462bd7e27318f67cd3"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1981-05-14",
+   "acts": []
+  },
+  {
+   "in_force": "1985-06-10",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

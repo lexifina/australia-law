@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A03181",
+ "name": "Australia Act 1986",
+ "folder": "australia-act-1986",
+ "compilations": [
+  {
+   "in_force": "1985-12-04",
+   "register_id": "C2004A03181",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03181',start=1985-12-04,retrospectivestart=1985-12-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03181/1985-12-04/text",
+   "sha256": "78bf76f5807ac8bc2c08683def404bb2cd9832ce14431e4789bff13622137b5f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

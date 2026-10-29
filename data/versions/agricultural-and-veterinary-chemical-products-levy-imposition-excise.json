@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04714",
+ "name": "Agricultural and Veterinary Chemical Products Levy Imposition (Excise) Act 1994",
+ "folder": "agricultural-and-veterinary-chemical-products-levy-imposition-excise",
+ "compilations": [
+  {
+   "in_force": "1994-03-15",
+   "register_id": "C2004A04714",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04714',start=1994-03-15,retrospectivestart=1994-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04714/1994-03-15/text",
+   "sha256": "629166fec77293dd75488ddb3124fbc75158b0acc6c13ac9fffaaf6b3b7b1598"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

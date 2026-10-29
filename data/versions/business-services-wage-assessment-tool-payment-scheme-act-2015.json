@@ -1,0 +1,48 @@
+{
+ "title_id": "C2015A00111",
+ "name": "Business Services Wage Assessment Tool Payment Scheme Act 2015",
+ "folder": "business-services-wage-assessment-tool-payment-scheme-act-2015",
+ "compilations": [
+  {
+   "in_force": "2016-04-01",
+   "register_id": "C2016C00550",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00111',start=2016-04-01,retrospectivestart=2016-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00111/2016-04-01/text",
+   "sha256": "67ebe2b9c3271f6d509b8d66831a580c782d93813b54b92f4eb2af2be5e99ac4"
+  },
+  {
+   "in_force": "2020-02-01",
+   "register_id": "C2020C00360",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00111',start=2020-02-01,retrospectivestart=2020-02-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00111/2020-02-01/text",
+   "sha256": "0118020e5980d9fbc161a210ef8de5f4154677d902893bbada9b58a76dae2773"
+  },
+  {
+   "in_force": "2020-11-27",
+   "register_id": "C2020C00377",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00111',start=2020-11-27,retrospectivestart=2020-11-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00111/2020-11-27/text",
+   "sha256": "c33cc1e25a9c6851e8f3acc9a1f3142d0a9ebbca929159b9807389d071933eb1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2015-06-30",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

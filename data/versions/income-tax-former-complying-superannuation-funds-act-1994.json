@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A04844",
+ "name": "Income Tax (Former Complying Superannuation Funds) Act 1994",
+ "folder": "income-tax-former-complying-superannuation-funds-act-1994",
+ "compilations": [
+  {
+   "in_force": "2007-03-15",
+   "register_id": "C2007C00118",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04844',start=2007-03-15,retrospectivestart=2007-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04844/2007-03-15/text",
+   "sha256": "2af4b2d4c4d7493d51162c95e2a1db4ea58172e5d298693368134d47b1c3a86a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1994-12-16"
+ ],
+ "repeal": null
+}

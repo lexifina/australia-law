@@ -1,0 +1,54 @@
+{
+ "title_id": "C2020A00119",
+ "name": "Recycling and Waste Reduction Act 2020",
+ "folder": "recycling-and-waste-reduction-act-2020",
+ "compilations": [
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00501",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00119',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00119/2021-09-01/text",
+   "sha256": "f3c10a6bd1dcfb1fbb9a36b84405dd6302ca25b50899a112b1025415c1abd465"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00639",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00119',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00119/2024-10-14/text",
+   "sha256": "879dd8eed12e1a3eeb459b4667577a745f8fe6b58ddda172750d44f86406a58a"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00317",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00119',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00119/2026-07-01/text",
+   "sha256": "47ef0debfa7e6be9e2f4f04cf6324371b62880baea970d950c070909d9c335a6"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2020-12-15",
+   "acts": []
+  },
+  {
+   "in_force": "2026-12-01",
+   "acts": [
+    "Treasury Laws Amendment (Financial Reporting System Reform) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

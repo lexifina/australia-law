@@ -1,0 +1,110 @@
+{
+ "title_id": "C2004A04797",
+ "name": "Witness Protection Act 1994",
+ "folder": "witness-protection-act-1994",
+ "compilations": [
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00732",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04797',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04797/2012-09-22/text",
+   "sha256": "6da7bfbf5053b1e82f111d622c93c1e1baa96c2d4d48dd7d0581235e7ad66a9a"
+  },
+  {
+   "in_force": "2023-07-01",
+   "register_id": "C2023C00166",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04797',start=2023-07-01,retrospectivestart=2023-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04797/2023-07-01/text",
+   "sha256": "118e3c3912783ba7c7075af5f650941e64fbc3b66a7ae8522e3997c36090909a"
+  },
+  {
+   "in_force": "2024-03-13",
+   "register_id": "C2024C00075",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04797',start=2024-03-13,retrospectivestart=2024-03-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04797/2024-03-13/text",
+   "sha256": "55a919a08acb40c16ad0fe9a45e00dcb223bd7d509afc8cbf824fa1a3a2ae22e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1994-10-18",
+   "acts": []
+  },
+  {
+   "in_force": "1997-04-07",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-12",
+   "acts": [
+    "National Crime Authority Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-09-26",
+   "acts": [
+    "International Criminal Court (Consequential Amendments) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002",
+    "Australian Crime Commission Establishment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-12-01",
+   "acts": [
+    "Bankruptcy Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-12-30",
+   "acts": [
+    "Law Enforcement (AFP Professional Standards and Related Measures) Act 2006",
+    "Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A03602",
+ "name": "Parliamentary Precincts Act 1988",
+ "folder": "parliamentary-precincts-act-1988",
+ "compilations": [
+  {
+   "in_force": "2004-07-01",
+   "register_id": "C2004C00719",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03602',start=2004-07-01,retrospectivestart=2004-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03602/2004-07-01/text",
+   "sha256": "707f4cd2819e1a88619b04db0492a841ebdb5c9a952958449b79be7d495999e8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1988-04-05"
+ ],
+ "repeal": null
+}

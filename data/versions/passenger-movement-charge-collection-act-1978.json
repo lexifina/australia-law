@@ -1,0 +1,165 @@
+{
+ "title_id": "C2004A01918",
+ "name": "Passenger Movement Charge Collection Act 1978",
+ "folder": "passenger-movement-charge-collection-act-1978",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00866",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01918',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01918/2016-07-01/text",
+   "sha256": "a28371314b7a8a68bb1fbf5c80eb9446eb86e607e22d4b6c270a038785d4a8d3"
+  },
+  {
+   "in_force": "2019-08-30",
+   "register_id": "C2019C00247",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01918',start=2019-08-30,retrospectivestart=2019-08-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01918/2019-08-30/text",
+   "sha256": "19cbc61fd99e391d0ae7eb9f3369dd6b1a00174ca3a68d7f7d95b81b58e69f17"
+  },
+  {
+   "in_force": "2019-09-01",
+   "register_id": "C2019C00286",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01918',start=2019-09-01,retrospectivestart=2019-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01918/2019-09-01/text",
+   "sha256": "9ac301685dc2d0a743ddabfddd7923e9de54b78c2c253f7d97f170888e0b3828"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1978-09-29",
+   "acts": []
+  },
+  {
+   "in_force": "1981-10-01",
+   "acts": [
+    "Departure Tax Collection Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Departure Tax Collection Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-07-01",
+   "acts": [
+    "Departure Tax Collection Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Civil Aviation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Departure Tax Collection Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Migration Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Territories Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-12-16",
+   "acts": [
+    "Departure Tax Collection Amendment Act 1994",
+    "Departure Tax Collection Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Passenger Movement Charge Collection Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1999-10-26",
+   "acts": [
+    "Timor Gap Treaty (Transitional Arrangements) Act 2000",
+    null
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000",
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-05-20",
+   "acts": [
+    "Petroleum (Timor Sea Treaty) (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2002-10-10",
+   "acts": [
+    "Customs Legislation Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-01",
+   "acts": [
+    "Customs Legislation Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Australian Federal Police and Other Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

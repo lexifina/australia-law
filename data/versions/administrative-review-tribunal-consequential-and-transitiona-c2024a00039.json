@@ -1,0 +1,21 @@
+{
+ "title_id": "C2024A00039",
+ "name": "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024",
+ "folder": "administrative-review-tribunal-consequential-and-transitiona-c2024a00039",
+ "compilations": [
+  {
+   "in_force": "2024-05-31",
+   "register_id": "C2024A00039",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00039',start=2024-05-31,retrospectivestart=2024-05-31,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00039/2024-05-31/text",
+   "sha256": "a763491617dd197c5cd018cd26cad31524ce7e9fbe162f52f8b7257b47ff0206"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,174 @@
+{
+ "title_id": "C2004A02478",
+ "name": "Environment Protection (Sea Dumping) Act 1981",
+ "folder": "environment-protection-sea-dumping-act-1981",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00697",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02478',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02478/2024-10-14/text",
+   "sha256": "ab73316da6dae40cefed6b217d28a2874999f7a78b5f8b90ddc008f6fc8d59d9"
+  },
+  {
+   "in_force": "2024-11-07",
+   "register_id": "C2024C00748",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02478',start=2024-11-07,retrospectivestart=2024-11-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02478/2024-11-07/text",
+   "sha256": "3e38e2b1e264980b9229a1d2936771bb07016beead4d3ab951dfeeac15714b57"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00316",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02478',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02478/2026-07-01/text",
+   "sha256": "01fa97e1bc26e4c315e701c86f7c5895cf2aadcf37b01789dc1fe0aee3e87a4d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1981-06-24",
+   "acts": []
+  },
+  {
+   "in_force": "1987-01-06",
+   "acts": [
+    "Environment Protection (Sea Dumping) Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1989-06-19",
+   "acts": [
+    "Arts, Territories and Environment Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1992-05-07",
+   "acts": [
+    "Arts, Sport, Environment and Territories Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-01-19",
+   "acts": [
+    "Environment Protection (Sea Dumping) Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1997-07-07",
+   "acts": [
+    "Environment, Sport and Territories Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-08-16",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-09-18",
+   "acts": [
+    "Environmental Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Territories Legislation Amendment Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

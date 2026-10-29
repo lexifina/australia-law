@@ -1,0 +1,43 @@
+{
+ "title_id": "C2005A00055",
+ "name": "Social Security Legislation Amendment (One-off Payments for Carers) Act 2005",
+ "folder": "social-security-legislation-amendment-one-off-payments-for-carers-act",
+ "compilations": [
+  {
+   "in_force": "2005-05-25",
+   "register_id": "C2005A00055",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00055',start=2005-05-25,retrospectivestart=2005-05-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00055/2005-05-25/text",
+   "sha256": "064e3b9a3f2c371d9152bba40e73edf4e8fe852e73985c9d9dce8550d00d008d"
+  },
+  {
+   "in_force": "2008-05-26",
+   "register_id": "C2010C00288",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00055',start=2008-05-26,retrospectivestart=2008-05-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00055/2008-05-26/text",
+   "sha256": "4a624a3321ea3451a96281a1c028fc2f76e0462cbde6e0878cb8b347474ca7fb"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00229",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00055',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00055/2018-06-19/text",
+   "sha256": "d31e6859119998f47b3a6c01940e3c9239192296c937d4bd16beddc9d88f5ec5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

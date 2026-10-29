@@ -1,0 +1,60 @@
+{
+ "title_id": "C2006A00027",
+ "name": "Aged Care (Accommodation Payment Security) Levy Act 2006",
+ "folder": "aged-care-accommodation-payment-security-levy-act-2006",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00761",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00027',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00027/2016-07-01/text",
+   "sha256": "2cdba71964a3303eff17c1b78cd335fd57f6fe6e570b6cfa0b9ebc7245085e85"
+  },
+  {
+   "in_force": "2020-01-01",
+   "register_id": "C2020C00051",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00027',start=2020-01-01,retrospectivestart=2020-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00027/2020-01-01/text",
+   "sha256": "7568f506e421a1c0b5ba89265af4cb8ed229be6d111fbffb2fcb82eea90fd2fd"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00586",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00027',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00027/2025-11-01/text",
+   "sha256": "29d025cb0b29dc6f9427e69f7842db2dfdbd68d36a80877005bcdcdf54dc4233"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-04-06",
+   "acts": []
+  },
+  {
+   "in_force": "2008-03-20",
+   "acts": [
+    "Aged Care Amendment (2008 Measures No. 1) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Aged Care (Bond Security) Levy Amendment Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

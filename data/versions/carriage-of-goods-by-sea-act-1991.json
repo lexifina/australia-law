@@ -1,0 +1,91 @@
+{
+ "title_id": "C2004A04235",
+ "name": "Carriage of Goods by Sea Act 1991",
+ "folder": "carriage-of-goods-by-sea-act-1991",
+ "compilations": [
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00662",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04235',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04235/2013-07-01/text",
+   "sha256": "7a88e850f203f4cb8af3ee341e419c1cd613966060f4a2734405079b35afbfa8"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00320",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04235',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04235/2016-03-05/text",
+   "sha256": "fdac370b23113f63f1314296158306c25174f4ce93edc3f0f50160766a9dd0a7"
+  },
+  {
+   "in_force": "2017-08-23",
+   "register_id": "C2017C00280",
+   "compilation": "11",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04235',start=2017-08-23,retrospectivestart=2017-08-23,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04235/2017-08-23/text",
+   "sha256": "c180f4880bb26c49a9e8b46246a6c6a796038822caf95ac03e5c8453b8fbd42c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-10-31",
+   "acts": []
+  },
+  {
+   "in_force": "1997-09-15",
+   "acts": [
+    "Carriage of Goods by Sea Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Carriage of Goods by Sea Regulations 1998"
+   ]
+  },
+  {
+   "in_force": "1998-12-10",
+   "acts": [
+    "Carriage of Goods by Sea Regulations 1998 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2009-12-04",
+   "acts": [
+    "Evidence Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Statute Update (Winter 2017) Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,120 @@
+{
+ "title_id": "C2004A04021",
+ "name": "Australian National Maritime Museum Act 1990",
+ "folder": "australian-national-maritime-museum-act-1990",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00684",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04021',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04021/2016-07-01/text",
+   "sha256": "2f37e7bcc54b680175d084c0afeb1c6feaa5c8c5c35c49c938a640d33b67ca80"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01010",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04021',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04021/2016-10-21/text",
+   "sha256": "4b43a2c864b1e4cab829cfbfea63291dd31ef1ed7c8d38dd8c6c1733045e64e7"
+  },
+  {
+   "in_force": "2021-05-01",
+   "register_id": "C2021C00215",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04021',start=2021-05-01,retrospectivestart=2021-05-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04021/2021-05-01/text",
+   "sha256": "9c276cd542edbd6c82acb64bc95ccd9e6f6508f94e7515a1404d699ac17e6019"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-11-20",
+   "acts": []
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-10-27",
+   "acts": [
+    "Sales Tax Amendment (Transitional) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-08-31",
+   "acts": [
+    "Arts Legislation Amendment (Maritime Museum and Film, Television and Radio School) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

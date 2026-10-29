@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A03227",
+ "name": "Petroleum Revenue Act 1985",
+ "folder": "petroleum-revenue-act-1985",
+ "compilations": [
+  {
+   "in_force": "2008-10-18",
+   "register_id": "C2008C00563",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03227',start=2008-10-18,retrospectivestart=2008-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03227/2008-10-18/text",
+   "sha256": "3459ffcca0f1732883c523cb54aec7071b727fe1fa656e7c6a108202f7a82710"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1985-12-16"
+ ],
+ "repeal": null
+}

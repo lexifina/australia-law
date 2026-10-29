@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00139",
+ "name": "National Health Reform Amendment (Independent Hospital Pricing Authority) Act 2011",
+ "folder": "national-health-reform-amendment-independent-hospital-pricing-authority",
+ "compilations": [
+  {
+   "in_force": "2011-11-29",
+   "register_id": "C2011A00139",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00139',start=2011-11-29,retrospectivestart=2011-11-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00139/2011-11-29/text",
+   "sha256": "6a0699d5cdad77ca10d4b47c2a2b24a02febbf46ec199d8edd42bcff886970bf"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

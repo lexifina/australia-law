@@ -1,0 +1,60 @@
+{
+ "title_id": "C2011A00038",
+ "name": "Autonomous Sanctions Act 2011",
+ "folder": "autonomous-sanctions-act-2011",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00247",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00038',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00038/2016-03-05/text",
+   "sha256": "40e05f1405ae39749758a8e302f0eda1960730337b755469cc6ca22607fff91e"
+  },
+  {
+   "in_force": "2021-12-08",
+   "register_id": "C2021C00581",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00038',start=2021-12-08,retrospectivestart=2021-12-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00038/2021-12-08/text",
+   "sha256": "728826c6801662cd2485b7e7e02971ec1b1d328e1fc6f9630c85c89e61f82b99"
+  },
+  {
+   "in_force": "2024-04-09",
+   "register_id": "C2024C00138",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00038',start=2024-04-09,retrospectivestart=2024-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00038/2024-04-09/text",
+   "sha256": "8aba13be591c4aa20aea4ad31335bb19db55fe1631abeb022dd2aebb36cfd976"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-05-26",
+   "acts": []
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2026-10-30",
+   "acts": [
+    "Autonomous Sanctions Amendment (Iran and Syria) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

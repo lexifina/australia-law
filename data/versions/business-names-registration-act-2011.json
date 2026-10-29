@@ -1,0 +1,90 @@
+{
+ "title_id": "C2011A00126",
+ "name": "Business Names Registration Act 2011",
+ "folder": "business-names-registration-act-2011",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00631",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00126',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00126/2024-10-14/text",
+   "sha256": "3ecd7ec768c84a1333f5726748be73a0a04f7a289ae96da0904c4a92faf3331d"
+  },
+  {
+   "in_force": "2026-06-30",
+   "register_id": "C2026C00314",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00126',start=2026-06-30,retrospectivestart=2026-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00126/2026-06-30/text",
+   "sha256": "884c4aaaee92f9abbd6dcbd0a6a450741a920e61a769522f125242b748bccee5"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00334",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00126',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00126/2026-07-01/text",
+   "sha256": "173be1b65ace409259636361ca01183bdcdb9dfb0d4595ca33836b0152ce21e3"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-11-03",
+   "acts": []
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Enhancing ASIC’s Capabilities) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 6) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-04-04",
+   "acts": [
+    "Treasury Laws Amendment (Registries Modernisation and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2022-06-22",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2024-05-22",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 3) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

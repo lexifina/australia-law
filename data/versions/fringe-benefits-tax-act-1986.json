@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A03281",
+ "name": "Fringe Benefits Tax Act 1986",
+ "folder": "fringe-benefits-tax-act-1986",
+ "compilations": [
+  {
+   "in_force": "2014-06-25",
+   "register_id": "C2014C00338",
+   "compilation": "7A",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03281',start=2014-06-25,retrospectivestart=2014-06-25,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03281/2014-06-25/text",
+   "sha256": "a1a571b918d884b54bd8df7e77f3816b535b0e1f3d765a77e690e05584505174"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2015C00611",
+   "compilation": "8",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03281',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03281/2015-12-10/text",
+   "sha256": "c0d1eb91b7afaf79d22f922eaec89a47a61dcf38e7bc59dc0bb0b5995e01d58a"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00240",
+   "compilation": "9",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03281',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03281/2018-06-19/text",
+   "sha256": "9f88990de493b6cbe70efb7288f5db29b44bc5365c7ecc64a8f13d8bb5c7d005"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1986-06-24",
+   "acts": []
+  },
+  {
+   "in_force": "1989-06-21",
+   "acts": [
+    "Taxation Laws Amendment (Rates and Rebates) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-12-24",
+   "acts": [
+    "Fringe Benefits Tax Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-10-27",
+   "acts": [
+    "Taxation (Deficit Reduction) Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1995-06-28",
+   "acts": [
+    "Fringe Benefits Tax Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-04-01",
+   "acts": [
+    "Fringe Benefits Tax Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "2006-06-19",
+   "acts": [
+    "Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangements) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2013-05-28",
+   "acts": [
+    "Fringe Benefits Tax Amendment (DisabilityCare Australia) Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

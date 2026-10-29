@@ -1,0 +1,32 @@
+{
+ "title_id": "C2023A00070",
+ "name": "Parliamentary Workplace Support Service (Consequential Amendments and Transitional Provisions) Act 2023",
+ "folder": "parliamentary-workplace-support-service-consequential-amendments-and",
+ "compilations": [
+  {
+   "in_force": "2023-09-19",
+   "register_id": "C2023A00070",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00070',start=2023-09-19,retrospectivestart=2023-09-19,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00070/2023-09-19/text",
+   "sha256": "e6e52ac5dfddab3b5fd1b4790537980665fd5bc0548bb879123c908cf5de53e5"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00702",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00070',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00070/2024-10-14/text",
+   "sha256": "c4f2a47eca76fd4aca932cea34544b9bbf1b3db271c76a513d35cd96b5a0a98e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

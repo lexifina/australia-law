@@ -1,0 +1,166 @@
+{
+ "title_id": "C2004A02304",
+ "name": "Antarctic Treaty (Environment Protection) Act 1980",
+ "folder": "antarctic-treaty-environment-protection-act-1980",
+ "compilations": [
+  {
+   "in_force": "2017-09-20",
+   "register_id": "C2017C00324",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02304',start=2017-09-20,retrospectivestart=2017-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02304/2017-09-20/text",
+   "sha256": "564d53d7aeee3c22804c52fb593279c7c4018226a064c8c3fea38cf5d6ede753"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00351",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02304',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02304/2021-09-01/text",
+   "sha256": "5d17c6cf6ef62fcb2c2b08b40b05d8e3fc59f2a0c5e20d9c19a9bd493483a29b"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00551",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02304',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02304/2024-10-14/text",
+   "sha256": "80bb7d01b1015fef856d5aa581df75ff8fd8960c6cc96fecb33f4e933211cc9d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1980-06-06",
+   "acts": []
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Civil Aviation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1993-05-11",
+   "acts": [
+    "Antarctic (Environment Protection) Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-04-01",
+   "acts": [
+    "Antarctic (Environment Protection) Legislation Amendment Act 1992",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-03-01",
+   "acts": [
+    "Antarctic (Environment Protection) Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000",
+    "Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-11-24",
+   "acts": [
+    "Antarctic (Environment Protection) Legislation Amendment Act 1992",
+    "Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2007-06-11",
+   "acts": [
+    "Environment and Heritage Legislation Amendment (Antarctic Seals and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Antarctic Treaty (Environment Protection) Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-12-08",
+   "acts": [
+    "Antarctic Treaty (Environment Protection) Amendment Act 2010",
+    "Antarctic Treaty (Environment Protection) Amendment Act 2010"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

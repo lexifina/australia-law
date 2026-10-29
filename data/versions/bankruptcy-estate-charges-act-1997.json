@@ -1,0 +1,85 @@
+{
+ "title_id": "C2004A05113",
+ "name": "Bankruptcy (Estate Charges) Act 1997",
+ "folder": "bankruptcy-estate-charges-act-1997",
+ "compilations": [
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00223",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05113',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05113/2018-06-19/text",
+   "sha256": "e5fd821e4952ff454028e6b5bec8af8f8dcc610a8e1782965ddec6766488b537"
+  },
+  {
+   "in_force": "2019-06-27",
+   "register_id": "C2019C00194",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05113',start=2019-06-27,retrospectivestart=2019-06-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05113/2019-06-27/text",
+   "sha256": "802180ddef88115ad1748e96273d10c073aefc24e10bf10494c5161b26cbebdd"
+  },
+  {
+   "in_force": "2021-08-02",
+   "register_id": "C2021C00322",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05113',start=2021-08-02,retrospectivestart=2021-08-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05113/2021-08-02/text",
+   "sha256": "ae2f014f7e3ec81ab73c6954dbd6b930f2362abb1c7e381a1948237f6e705653"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-03-13",
+   "acts": []
+  },
+  {
+   "in_force": "2002-07-03",
+   "acts": [
+    "Bankruptcy (Estate Charges) Amendment Act 2001",
+    "Bankruptcy (Estate Charges) Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-12-01",
+   "acts": [
+    "Bankruptcy (Estate Charges) Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Bankruptcy Legislation Amendment (Fees and Charges) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Bankruptcy (Estate Charges) Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Insolvency Law Reform Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,48 @@
+{
+ "title_id": "C2012A00104",
+ "name": "Clean Energy Finance Corporation Act 2012",
+ "folder": "clean-energy-finance-corporation-act-2012",
+ "compilations": [
+  {
+   "in_force": "2017-08-23",
+   "register_id": "C2017C00265",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00104',start=2017-08-23,retrospectivestart=2017-08-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00104/2017-08-23/text",
+   "sha256": "73f31fc7b598dfb5a15c2f6c54a44d3709f3202450cd056d6237f91bfea69a7f"
+  },
+  {
+   "in_force": "2022-09-14",
+   "register_id": "C2022C00249",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00104',start=2022-09-14,retrospectivestart=2022-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00104/2022-09-14/text",
+   "sha256": "902f5fc6ca56ec9b627500881513def007a5c56f238ef187c2887f797f922b06"
+  },
+  {
+   "in_force": "2023-06-24",
+   "register_id": "C2023C00105",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00104',start=2023-06-24,retrospectivestart=2023-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00104/2023-06-24/text",
+   "sha256": "c07a2281f7deabf93e5ce30571a9c5377580b4cfe2767a1d04d6631cc0088304"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-07-22",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

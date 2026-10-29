@@ -1,0 +1,102 @@
+{
+ "title_id": "C2006A00135",
+ "name": "Australian Participants in British Nuclear Tests and British Commonwealth Occupation Force (Treatment) Act 2006",
+ "folder": "australian-participants-in-british-nuclear-tests-and-british",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00484",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00135',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00135/2024-10-14/text",
+   "sha256": "53d5d0dd2d23705180b7ae89314cd35a5b8dd9af325f340381d223d6f6a7853d"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00594",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00135',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00135/2025-11-01/text",
+   "sha256": "9a12ca7c0db84753ad87dd609f412497f5791bb479aea3eb01f272f6e6902772"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00268",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00135',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00135/2026-07-01/text",
+   "sha256": "ddd4a11f35354a29ede8b4cf64e6c4de8f21a9e729826c797cc58bf73351d7d6"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-11-30",
+   "acts": []
+  },
+  {
+   "in_force": "2008-07-13",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (International Agreements and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-11-17",
+   "acts": [
+    "Veterans' Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-04",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Participants in British Nuclear Tests) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-07-26",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Military Compensation Review and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-02-28",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Miscellaneous Measures) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Budget Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-12-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Omnibus) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-03-29",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 1) Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

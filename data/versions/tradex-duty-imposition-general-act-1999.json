@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00577",
+ "name": "Tradex Duty Imposition (General) Act 1999",
+ "folder": "tradex-duty-imposition-general-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-12-23",
+   "register_id": "C2004A00577",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00577',start=1999-12-23,retrospectivestart=1999-12-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00577/1999-12-23/text",
+   "sha256": "86bd1a4a366a0ad65db037bf8e9822c84c43db9da393f352987a56ab9b97eb73"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00891",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00577',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00577/2016-07-01/text",
+   "sha256": "497d0a9044c1243c80b2200b20ea19cc85d13058254260e5a7beb22b0bbd9642"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,48 @@
+{
+ "title_id": "C2004A03776",
+ "name": "Circuit Layouts Act 1989",
+ "folder": "circuit-layouts-act-1989",
+ "compilations": [
+  {
+   "in_force": "1990-12-21",
+   "register_id": "C2004C00431",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03776',start=1990-12-21,retrospectivestart=1990-12-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03776/1990-12-21/text",
+   "sha256": "890ff9f05da21ccd6379ce104cebcd7d0233af72e30297af450c5121bd33e03d"
+  },
+  {
+   "in_force": "2007-07-01",
+   "register_id": "C2007C00355",
+   "compilation": null,
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03776',start=2007-07-01,retrospectivestart=2007-07-01,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03776/2007-07-01/text",
+   "sha256": "da9e6f85765e6aa626bff4f5a15c6ca45aa17df6f1afca2da90238747014bddb"
+  },
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00729",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03776',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03776/2012-09-22/text",
+   "sha256": "c881fda1772b154b0c319c409ed76b3b6c4b592056ad5c38c45bbae697b38160"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1989-05-22",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

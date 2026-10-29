@@ -1,0 +1,32 @@
+{
+ "title_id": "C2021A00081",
+ "name": "Tertiary Education Quality and Standards Agency (Charges) Act 2021",
+ "folder": "tertiary-education-quality-and-standards-agency-charges-act-2021",
+ "compilations": [
+  {
+   "in_force": "2021-08-13",
+   "register_id": "C2021A00081",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00081',start=2021-08-13,retrospectivestart=2021-08-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00081/2021-08-13/text",
+   "sha256": "a0de7b86d05da447aea99bdec215fde2edb7925747119c144496cd2b81a247fb"
+  },
+  {
+   "in_force": "2022-01-01",
+   "register_id": "C2022C00003",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00081',start=2022-01-01,retrospectivestart=2022-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00081/2022-01-01/text",
+   "sha256": "1319451266c6fe7d325b2d9508d8e99168c06b2a25ad14ea36f0bcd2e658aa31"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

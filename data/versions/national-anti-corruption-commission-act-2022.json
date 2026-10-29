@@ -1,0 +1,114 @@
+{
+ "title_id": "C2022A00088",
+ "name": "National Anti-Corruption Commission Act 2022",
+ "folder": "national-anti-corruption-commission-act-2022",
+ "compilations": [
+  {
+   "in_force": "2025-02-01",
+   "register_id": "C2025C00049",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00088',start=2025-02-01,retrospectivestart=2025-02-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00088/2025-02-01/text",
+   "sha256": "e7834988c9781e47aeb78cb71f5389ab8307a0d65ac60289bdddb00827bb31a7"
+  },
+  {
+   "in_force": "2026-03-28",
+   "register_id": "C2026C00144",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00088',start=2026-03-28,retrospectivestart=2026-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00088/2026-03-28/text",
+   "sha256": "d7754d46c9d386b4a791431a4feb6b37f1ec1dc45a04d6e7a3c64c50dad24532"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00231",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00088',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00088/2026-06-04/text",
+   "sha256": "40ce108d019c9a0cb57d7d74444162a0b1d34cc981526cda43ff7dda76739077"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00278",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00088',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00088/2026-07-01/text",
+   "sha256": "21d25ca69c1db45843f52afaa334bf831a747419e40b9add86903f41338247ac"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2022-12-12",
+   "acts": []
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Public Interest Disclosure Amendment (Review) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-21",
+   "acts": [
+    "Inspector-General of Intelligence and Security and Other Legislation Amendment (Modernisation) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-16",
+   "acts": [
+    "Inspector-General of Aged Care (Consequential and Transitional Provisions) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-17",
+   "acts": [
+    "Members of Parliament (Staff) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-12-05",
+   "acts": [
+    "Inspector-General of Live Animal Exports Amendment (Animal Welfare) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-05-31",
+   "acts": [
+    "Parliamentary Business Resources Legislation Amendment (Review Implementation and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024",
+    "Parliamentary Workplace Support Service Amendment (Independent Parliamentary Standards Commission) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-11-24",
+   "acts": [
+    "Crimes and Other Legislation Amendment (Omnibus No. 1) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

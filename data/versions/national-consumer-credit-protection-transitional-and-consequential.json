@@ -1,0 +1,130 @@
+{
+ "title_id": "C2009A00135",
+ "name": "National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009",
+ "folder": "national-consumer-credit-protection-transitional-and-consequential",
+ "compilations": [
+  {
+   "in_force": "2022-08-10",
+   "register_id": "C2022C00241",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00135',start=2022-08-10,retrospectivestart=2022-08-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00135/2022-08-10/text",
+   "sha256": "2f13cf7163932af0ccc5b69a7bc02ca24700b7b87ba7b99ea5e760d7771c76a3"
+  },
+  {
+   "in_force": "2022-12-13",
+   "register_id": "C2022C00358",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00135',start=2022-12-13,retrospectivestart=2022-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00135/2022-12-13/text",
+   "sha256": "c129af7dc099c95c849d44c13c1f7600dc9f73797e1d1c5a91078169b73401d6"
+  },
+  {
+   "in_force": "2023-09-15",
+   "register_id": "C2023C00275",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00135',start=2023-09-15,retrospectivestart=2023-09-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00135/2023-09-15/text",
+   "sha256": "ad54aee9516e4b7010f63d8bb73766e5bdeccdf82f24aaeab9dae186d829e741"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2009-12-15",
+   "acts": []
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-18",
+   "acts": [
+    "Consumer Credit Legislation Amendment (Enhancements) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2018-03-06",
+   "acts": [
+    "Treasury Laws Amendment (Putting Consumers First—Establishment of the Australian Financial Complaints Authority) Act 2018",
+    "Treasury Laws Amendment (Putting Consumers First—Establishment of the Australian Financial Complaints Authority) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Banking Measures No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-01-01",
+   "acts": [
+    "Treasury Laws Amendment (Banking Measures No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-03-13",
+   "acts": [
+    "Treasury Laws Amendment (Strengthening Corporate and Financial Sector Penalties) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-18",
+   "acts": [
+    "Financial Sector Reform (Hayne Royal Commission Response—Protecting Consumers (2019 Measures)) Act 2020",
+    "Financial Sector Reform (Hayne Royal Commission Response—Stronger Regulators (2019 Measures)) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-06-23",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 6) Act 2020",
+    "Territories Legislation Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-10-01",
+   "acts": [
+    "Financial Sector Reform (Hayne Royal Commission Response) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2022-02-23",
+   "acts": [
+    "Corporate Collective Investment Vehicle Framework and Other Measures Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-06-22",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2022-07-01",
+   "acts": [
+    "National Consumer Credit Protection Amendment (Mandatory Credit Reporting and Other Measures) Act 2021",
+    "Corporate Collective Investment Vehicle Framework and Other Measures Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

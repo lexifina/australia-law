@@ -1,0 +1,60 @@
+{
+ "title_id": "C2018A00145",
+ "name": "Aboriginal and Torres Strait Islander Land and Sea Future Fund Act 2018",
+ "folder": "aboriginal-and-torres-strait-islander-land-and-sea-future-fund-act-2018",
+ "compilations": [
+  {
+   "in_force": "2019-12-12",
+   "register_id": "C2019C00329",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00145',start=2019-12-12,retrospectivestart=2019-12-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00145/2019-12-12/text",
+   "sha256": "e69ae1e56c3c15da2860f349f767fc11e9d0ea2eefab83f32a67ebe7610371e1"
+  },
+  {
+   "in_force": "2023-03-01",
+   "register_id": "C2023C00045",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00145',start=2023-03-01,retrospectivestart=2023-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00145/2023-03-01/text",
+   "sha256": "3ac32f04a8089d26b03bcb494e4baf4397a14a15014f33dac4dec69a29a484f4"
+  },
+  {
+   "in_force": "2023-11-01",
+   "register_id": "C2023C00407",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00145',start=2023-11-01,retrospectivestart=2023-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00145/2023-11-01/text",
+   "sha256": "f21e5bc6bb97e41372549f64f8c9c7c2534ce144d7444437d042885e744aa08d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2018-11-30",
+   "acts": []
+  },
+  {
+   "in_force": "2019-02-01",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Land and Sea Future Fund (Consequential Amendments) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-09-01",
+   "acts": [
+    "Future Drought Fund (Consequential Amendments) Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

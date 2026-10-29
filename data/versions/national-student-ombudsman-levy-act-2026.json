@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00102",
+ "name": "National Student Ombudsman Levy Act 2026",
+ "folder": "national-student-ombudsman-levy-act-2026",
+ "compilations": [
+  {
+   "in_force": "2026-10-26",
+   "register_id": "C2026A00102",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00102',start=2026-10-26,retrospectivestart=2026-10-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00102/2026-10-26/text",
+   "sha256": "b39478f528dc0edeb5acdc3978132af3580b15f218c4c64e7976931eb0d8c7cf"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

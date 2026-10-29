@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A05241",
+ "name": "Family Court of Western Australia (Orders of Registrars) Act 1997",
+ "folder": "family-court-of-western-australia-orders-of-registrars-act-1997",
+ "compilations": [
+  {
+   "in_force": "1997-10-17",
+   "register_id": "C2004A05241",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05241',start=1997-10-17,retrospectivestart=1997-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05241/1997-10-17/text",
+   "sha256": "7bbb0deaa35e79bbc9b955a92e55cc13c04c398f1e961b6d4204ddd1617e43d3"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00513",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05241',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05241/2021-09-01/text",
+   "sha256": "33dd30055b94eac0fda69c415c2a36a3a4c352bafa730879250630aa67bfd131"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

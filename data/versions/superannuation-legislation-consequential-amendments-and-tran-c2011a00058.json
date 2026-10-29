@@ -1,0 +1,32 @@
+{
+ "title_id": "C2011A00058",
+ "name": "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011",
+ "folder": "superannuation-legislation-consequential-amendments-and-tran-c2011a00058",
+ "compilations": [
+  {
+   "in_force": "2011-06-28",
+   "register_id": "C2011A00058",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00058',start=2011-06-28,retrospectivestart=2011-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00058/2011-06-28/text",
+   "sha256": "48398c58e595404e1af67f25a84f26ed1af616b09325c0cc4a26fa7296d9f410"
+  },
+  {
+   "in_force": "2011-07-01",
+   "register_id": "C2012C00824",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00058',start=2011-07-01,retrospectivestart=2011-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00058/2011-07-01/text",
+   "sha256": "83b2145f83e4b7453d7632b012182cfa7feeadf34bc66e122c7d1a3d6734d0a2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

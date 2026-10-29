@@ -1,0 +1,144 @@
+{
+ "title_id": "C2004A00745",
+ "name": "Indigenous Education (Targeted Assistance) Act 2000",
+ "folder": "indigenous-education-targeted-assistance-act-2000",
+ "compilations": [
+  {
+   "in_force": "2013-12-18",
+   "register_id": "C2014C00025",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00745',start=2013-12-18,retrospectivestart=2013-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00745/2013-12-18/text",
+   "sha256": "02f790581f21b018ee3720454df3d6989b744d47123151a9e37009ec0a584ce8"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00590",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00745',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00745/2014-07-01/text",
+   "sha256": "5cf06cfb43ee3f88415e932f28e78887b5c9c978b51e8ab229c289ed7572e113"
+  },
+  {
+   "in_force": "2014-10-17",
+   "register_id": "C2014C00732",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00745',start=2014-10-17,retrospectivestart=2014-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00745/2014-10-17/text",
+   "sha256": "6b168e83f29e47bf58230ad2cd7e4d8137c2f4c683926d54ad65ddd151393cab"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2000-12-19",
+   "acts": []
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-12-14",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-12-14",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-12-06",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-06-21",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment (2007 Budget Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-28",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment (Cape York Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-03-20",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment (2008 Measures No. 1) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-25",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment (2008 Budget Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-09",
+   "acts": [
+    "Education Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Education Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "National Vocational Education and Training Regulator (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-09-08",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-05-26",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Income Support and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-17",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-27",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,126 @@
+{
+ "title_id": "C2011A00163",
+ "name": "Clean Energy Regulator Act 2011",
+ "folder": "clean-energy-regulator-act-2011",
+ "compilations": [
+  {
+   "in_force": "2023-12-15",
+   "register_id": "C2023C00489",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00163',start=2023-12-15,retrospectivestart=2023-12-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00163/2023-12-15/text",
+   "sha256": "e061ca9cf243b0edce3119c7cad10a3b439575f8963ae90dba0299ec7e0ae03b"
+  },
+  {
+   "in_force": "2025-01-01",
+   "register_id": "C2025C00033",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00163',start=2025-01-01,retrospectivestart=2025-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00163/2025-01-01/text",
+   "sha256": "8a383856d09cf1b021a3bf80fb768a8d0d35f3780f010a88df577ecd8b601108"
+  },
+  {
+   "in_force": "2025-11-03",
+   "register_id": "C2025C00606",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00163',start=2025-11-03,retrospectivestart=2025-11-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00163/2025-11-03/text",
+   "sha256": "bfca31c8dfbca3ba4a9d00a34d1aaba1eaf04404b256c1bac0e96d2abbc7b3bf"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-12-04",
+   "acts": []
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-08-03",
+   "acts": [
+    "Clean Energy Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-07-19",
+   "acts": [
+    "Corporations and Financial Sector Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Clean Energy Legislation (Carbon Tax Repeal) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-13",
+   "acts": [
+    "Carbon Farming Initiative Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  },
+  {
+   "in_force": "2022-09-14",
+   "acts": [
+    "Climate Change (Consequential Amendments) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-04-12",
+   "acts": [
+    "Safeguard Mechanism (Crediting) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-17",
+   "acts": [
+    "Members of Parliament (Staff) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-20",
+   "acts": [
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

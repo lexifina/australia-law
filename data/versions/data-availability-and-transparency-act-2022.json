@@ -1,0 +1,67 @@
+{
+ "title_id": "C2022A00011",
+ "name": "Data Availability and Transparency Act 2022",
+ "folder": "data-availability-and-transparency-act-2022",
+ "compilations": [
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00328",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00011',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00011/2023-10-18/text",
+   "sha256": "62e7db4231f314f82a2509354e8ec0193316b95950941c0f67f2f9b2e316ce06"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00520",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00011',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00011/2024-10-14/text",
+   "sha256": "0e3dbe14ae09827e478faef0c165a8bc33135376a71d4e871c0fbb600c913ea9"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00820",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00011',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00011/2024-12-11/text",
+   "sha256": "be79fbfb5f0420b44144c4ba3fa74eef46fabd2135cfa19605ee908f80249921"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2022-03-31",
+   "acts": []
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2027-04-01",
+   "acts": [
+    null
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": {
+  "day": "2027-04-01",
+  "status": "Ceased",
+  "acts": [],
+  "markdown": [
+   "Self Ceasing"
+  ]
+ }
+}

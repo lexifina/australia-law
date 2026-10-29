@@ -1,0 +1,1182 @@
+{
+ "title_id": "C1903A00020",
+ "name": "Defence Act 1903",
+ "folder": "defence-act-1903",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00722",
+   "compilation": "67",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2016-07-01/text",
+   "sha256": "cb8b25e52f43a5fda6255c6852415013334849bde72c4f5f0cd8b4a8c302768c"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00955",
+   "compilation": "68",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2016-10-21/text",
+   "sha256": "8d3713893160c70638f786678d5c4b63a6620cd314eddc8c48fb5a49611baad0"
+  },
+  {
+   "in_force": "2017-09-20",
+   "register_id": "C2017C00330",
+   "compilation": "69",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2017-09-20,retrospectivestart=2017-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2017-09-20/text",
+   "sha256": "4b086ae16fe57cfac0403c610f970fe354837f2a9b763dba28ad8253f89b1b63"
+  },
+  {
+   "in_force": "2017-10-12",
+   "register_id": "C2017C00342",
+   "compilation": "70",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2017-10-12,retrospectivestart=2017-10-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2017-10-12/text",
+   "sha256": "f6aa9f3f88829f3e1a043e3b11c0e73a890cc7ac92c384d391ed5244bd92c072"
+  },
+  {
+   "in_force": "2018-03-26",
+   "register_id": "C2018C00092",
+   "compilation": "71",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2018-03-26,retrospectivestart=2018-03-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2018-03-26/text",
+   "sha256": "686d9c5f495c67238feabd12bf3fa8c287ba7b486c94b4f5c0eaf2805e1ff1ac"
+  },
+  {
+   "in_force": "2018-04-30",
+   "register_id": "C2018C00149",
+   "compilation": "72",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2018-04-30,retrospectivestart=2018-04-30,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2018-04-30/text",
+   "sha256": "c6e818422c69deaf6cbfac5ce70cd07415f7019b07d76101944bb0d4ee806f7e"
+  },
+  {
+   "in_force": "2018-07-01",
+   "register_id": "C2018C00323",
+   "compilation": "73",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2018-07-01,retrospectivestart=2018-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2018-07-01/text",
+   "sha256": "5c48b251fde19192e2267640a68243a54154c15393d5edd81cc9f5e27e1a49a8"
+  },
+  {
+   "in_force": "2018-11-06",
+   "register_id": "C2018C00444",
+   "compilation": "74",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2018-11-06,retrospectivestart=2018-11-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2018-11-06/text",
+   "sha256": "501c3fead8e965deb4b5d20a214d08d0e6960222be71a3f138b02f8992068f1d"
+  },
+  {
+   "in_force": "2018-12-20",
+   "register_id": "C2019C00031",
+   "compilation": "75",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2018-12-20,retrospectivestart=2018-12-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2018-12-20/text",
+   "sha256": "5b2b6ac3c89379d83a8bec416ba5286b69aea76331fd1439be73e6b65c8d13bd"
+  },
+  {
+   "in_force": "2019-06-10",
+   "register_id": "C2019C00188",
+   "compilation": "76",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2019-06-10,retrospectivestart=2019-06-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2019-06-10/text",
+   "sha256": "cdcf6eaceefe4f54a8b13039691c57aff2c98333cb5543dc582b081d6d08f5d5"
+  },
+  {
+   "in_force": "2020-12-18",
+   "register_id": "C2021C00033",
+   "compilation": "77",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2020-12-18,retrospectivestart=2020-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2020-12-18/text",
+   "sha256": "87334142733821107f4125e43a6e133bb5e3e9849042e44f8b329f26b4c8e919"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00371",
+   "compilation": "78",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2021-09-01/text",
+   "sha256": "6a6552b50122b98bb2c53136c57c63f9ac79101e71a71cd6f11ce2994ba23133"
+  },
+  {
+   "in_force": "2024-05-06",
+   "register_id": "C2024C00154",
+   "compilation": "79",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2024-05-06,retrospectivestart=2024-05-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2024-05-06/text",
+   "sha256": "ad660d05073c8915cb44d84b2fe0f9bfd9076225d0b2b8aa14ca06cac6d70774"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00671",
+   "compilation": "80",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2024-10-14/text",
+   "sha256": "2b96f9ac398250f650b5dada33d3d5ad54e7c54005baba75b5f2d78d9d4c1edf"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00849",
+   "compilation": "81",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2024-12-11/text",
+   "sha256": "19f178a40c072097fc8c02c0d0268fc62978c45a19db73ddb16ff5f799631c90"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00176",
+   "compilation": "82",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2025-02-21/text",
+   "sha256": "2dd868882a72674b03708ffb08db557ffd10546b05acbfd07fb7c68acd9b1332"
+  },
+  {
+   "in_force": "2025-09-29",
+   "register_id": "C2025C00541",
+   "compilation": "83",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2025-09-29,retrospectivestart=2025-09-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2025-09-29/text",
+   "sha256": "8058b84836161e950cd957ecea128ae1313be1e60d7852b8696ca9062f98752f"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00691",
+   "compilation": "84",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2025-12-05/text",
+   "sha256": "794fc38279cca11c152b9096972040219a3d421ff69387b412e7bc4c23b13c09"
+  },
+  {
+   "in_force": "2026-03-14",
+   "register_id": "C2026C00103",
+   "compilation": "85",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2026-03-14,retrospectivestart=2026-03-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2026-03-14/text",
+   "sha256": "f4f45b1ea1e9d9b9e0f8f18150429b441d1ab85bc2d900a051f336ceb823c8b8"
+  },
+  {
+   "in_force": "2026-06-01",
+   "register_id": "C2026C00226",
+   "compilation": "86",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2026-06-01,retrospectivestart=2026-06-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2026-06-01/text",
+   "sha256": "f5daa69daee3ac10748d9773025a51587ed52b3f0eb0d42c0cb9768765ac216b"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00299",
+   "compilation": "87",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2026-07-01/text",
+   "sha256": "0e633d0be3f4ed76e6a3019264bd9ad82def0ffbe3caaec58decf09482142002"
+  },
+  {
+   "in_force": "2026-09-29",
+   "register_id": "C2026C00436",
+   "compilation": "88",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00020',start=2026-09-29,retrospectivestart=2026-09-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00020/2026-09-29/text",
+   "sha256": "52c5ffab4d14a0c2263a5704a77569437188fa72066458e785dcd25cc63698b5"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1903-10-22",
+   "acts": []
+  },
+  {
+   "in_force": "1904-12-09",
+   "acts": [
+    "Defence Act 1904"
+   ]
+  },
+  {
+   "in_force": "1910-11-25",
+   "acts": [
+    "Naval Defence Act 1910"
+   ]
+  },
+  {
+   "in_force": "1910-12-01",
+   "acts": [
+    "Defence Act 1910"
+   ]
+  },
+  {
+   "in_force": "1911-01-01",
+   "acts": [
+    "Defence Act 1909"
+   ]
+  },
+  {
+   "in_force": "1911-12-22",
+   "acts": [
+    "Defence Act 1911"
+   ]
+  },
+  {
+   "in_force": "1912-09-04",
+   "acts": [
+    "Defence Act 1912"
+   ]
+  },
+  {
+   "in_force": "1914-08-01",
+   "acts": [
+    "Defence Act 1915",
+    "Defence Act 1918"
+   ]
+  },
+  {
+   "in_force": "1914-12-21",
+   "acts": [
+    "Defence Act 1914"
+   ]
+  },
+  {
+   "in_force": "1915-04-30",
+   "acts": [
+    "Defence Act 1915"
+   ]
+  },
+  {
+   "in_force": "1917-09-25",
+   "acts": [
+    "Defence Act 1917"
+   ]
+  },
+  {
+   "in_force": "1918-06-19",
+   "acts": [
+    "Defence Act 1918"
+   ]
+  },
+  {
+   "in_force": "1918-12-25",
+   "acts": [
+    "Defence Act (No. 2) 1918"
+   ]
+  },
+  {
+   "in_force": "1927-04-08",
+   "acts": [
+    "Defence Act 1927"
+   ]
+  },
+  {
+   "in_force": "1932-11-21",
+   "acts": [
+    "Defence Act 1932"
+   ]
+  },
+  {
+   "in_force": "1934-08-06",
+   "acts": [
+    "Statute Law Revision Act 1934"
+   ]
+  },
+  {
+   "in_force": "1939-07-06",
+   "acts": [
+    "Defence Act 1939"
+   ]
+  },
+  {
+   "in_force": "1939-09-03",
+   "acts": [
+    "Defence Act 1941"
+   ]
+  },
+  {
+   "in_force": "1939-09-26",
+   "acts": [
+    "Defence Act (No. 2) 1939"
+   ]
+  },
+  {
+   "in_force": "1939-12-15",
+   "acts": [
+    "Defence Act (No. 3) 1939",
+    "Air Force Act 1939"
+   ]
+  },
+  {
+   "in_force": "1945-08-27",
+   "acts": [
+    "Re-establishment and Employment Act 1945"
+   ]
+  },
+  {
+   "in_force": "1948-01-01",
+   "acts": [
+    "Defence (Transitional Provisions) Act 1947"
+   ]
+  },
+  {
+   "in_force": "1948-09-01",
+   "acts": [
+    "Commonwealth Public Service Act 1948"
+   ]
+  },
+  {
+   "in_force": "1950-01-01",
+   "acts": [
+    "Defence Act 1949",
+    "Defence Act (No. 2) 1951"
+   ]
+  },
+  {
+   "in_force": "1950-12-31",
+   "acts": [
+    "Statute Law Revision Act 1950"
+   ]
+  },
+  {
+   "in_force": "1951-07-19",
+   "acts": [
+    "Defence Act 1951"
+   ]
+  },
+  {
+   "in_force": "1951-12-11",
+   "acts": [
+    "Defence Act (No. 2) 1951"
+   ]
+  },
+  {
+   "in_force": "1952-12-16",
+   "acts": [
+    "Defence Act 1952"
+   ]
+  },
+  {
+   "in_force": "1953-04-09",
+   "acts": [
+    "Defence Act 1953"
+   ]
+  },
+  {
+   "in_force": "1956-10-29",
+   "acts": [
+    "Defence Act 1956"
+   ]
+  },
+  {
+   "in_force": "1964-11-06",
+   "acts": [
+    "Defence Act 1964"
+   ]
+  },
+  {
+   "in_force": "1965-06-07",
+   "acts": [
+    "Defence Act 1965"
+   ]
+  },
+  {
+   "in_force": "1965-11-05",
+   "acts": [
+    "Defence Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1970-09-17",
+   "acts": [
+    "Defence Act 1965"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1975-10-28",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1976-02-09",
+   "acts": [
+    "Defence Force Re-organization Act 1975",
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1976-09-24",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1977-02-28",
+   "acts": [
+    "Defence Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-04-14",
+   "acts": [
+    "Defence Amendment Act (No. 2) 1977"
+   ]
+  },
+  {
+   "in_force": "1977-07-29",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-11-23",
+   "acts": [
+    "Defence Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-05-28",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-09-08",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-12-08",
+   "acts": [
+    "Defence Acts Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-10-20",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-08-15",
+   "acts": [
+    "Defence Acts Amendment Act 1981",
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-09-30",
+   "acts": [
+    "Statute Law Revision Act 1981",
+    "Defence Acts Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1984-10-25",
+   "acts": [
+    "Defence Legislation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-11-22",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-11-23",
+   "acts": [
+    "Defence Legislation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-01-01",
+   "acts": [
+    "Defence Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1985-07-01",
+   "acts": [
+    "Defence Force Re-organization Act 1975",
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Defence Force Re-organization Act 1975",
+    "Defence Acts Amendment Act 1981",
+    "Defence Force (Miscellaneous Provisions) Act 1982",
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-01-15",
+   "acts": [
+    "Sex Discrimination (Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-06-05",
+   "acts": [
+    "Defence Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Defence (Superannuation Interim Arrangement) Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Defence Legislation Amendment Act 1987",
+    "Defence Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-01",
+   "acts": [
+    "Safety, Rehabilitation and Compensation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988",
+    "Defence Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-06",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-02",
+   "acts": [
+    "Defence Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-06-02",
+   "acts": [
+    "Defence Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-09-01",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1990-10-22",
+   "acts": [
+    "Defence Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-12-18",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-02-05",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-07-02",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-11-30",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Defence Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Superannuation Guarantee (Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-12-22",
+   "acts": [
+    "Defence Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-19",
+   "acts": [
+    "Industrial Relations and Other Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-06-15",
+   "acts": [
+    "Defence Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-11-01",
+   "acts": [
+    "Defence Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-01-15",
+   "acts": [
+    "Industrial Relations and other Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-04-30",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-12-07",
+   "acts": [
+    "Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-06-22",
+   "acts": [
+    "Tax Law Improvement Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-22",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-04-13",
+   "acts": [
+    "Human Rights Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-09-12",
+   "acts": [
+    "Defence Legislation Amendment (Aid to Civilian Authorities) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-03-05",
+   "acts": [
+    "Defence Legislation Amendment (Flexible Career Practices) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-03-22",
+   "acts": [
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-04-19",
+   "acts": [
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001",
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-30",
+   "acts": [
+    "New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2001-12-15",
+   "acts": [
+    "Defence Legislation Amendment (Application of Criminal Code) Act 2001",
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2002-03-22",
+   "acts": [
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-12-11",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2003-12-17",
+   "acts": [
+    "Defence Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-01-14",
+   "acts": [
+    "Defence Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-05-18",
+   "acts": [
+    "Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-17",
+   "acts": [
+    "Defence Legislation Amendment Act 2003",
+    "Defence Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-01",
+   "acts": [
+    "Bankruptcy Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-21",
+   "acts": [
+    "Defence Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-06",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-12",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-02",
+   "acts": [
+    "Defence Legislation Amendment (Aid to Civilian Authorities) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-06-12",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 2005"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-11",
+   "acts": [
+    "Defence Legislation Amendment Act 2006",
+    "Defence Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2007-10-01",
+   "acts": [
+    "Defence Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-03-20",
+   "acts": [
+    "Defence Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2009",
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-22",
+   "acts": [
+    "Military Justice (Interim Measures) Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-26",
+   "acts": [
+    "Defence Legislation (Miscellaneous Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-05",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-08-02",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-05",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2010",
+    "Defence Legislation Amendment Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-10-12",
+   "acts": [
+    "Defence Legislation Amendment (Security of Defence Premises) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-01",
+   "acts": [
+    "Defence Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-08-09",
+   "acts": [
+    "Defence Legislation Amendment (Woomera Prohibited Area) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-17",
+   "acts": [
+    "Defence Legislation Amendment (Military Justice Enhancements—Inspector-General ADF) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015",
+    "Defence Legislation (Enhancement of Military Justice) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-09-11",
+   "acts": [
+    "Defence Legislation Amendment (Superannuation and ADF Cover) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-12",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (2015 Budget Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Defence Force Discipline Amendment (RCDVS Implementation and Related Measures No. 1) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

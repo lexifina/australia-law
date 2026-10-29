@@ -1,0 +1,67 @@
+{
+ "title_id": "C1908A00016",
+ "name": "Parliamentary Papers Act 1908",
+ "folder": "parliamentary-papers-act-1908",
+ "compilations": [
+  {
+   "in_force": "1935-12-09",
+   "register_id": "C2024C00420",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1908A00016',start=1935-12-09,retrospectivestart=1935-12-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1908A00016/1935-12-09/text",
+   "sha256": "a2ae5668245d179853964d3af3b834b7debfcc40742de4101ea69b38cd796a55"
+  },
+  {
+   "in_force": "1946-08-14",
+   "register_id": "C2024C00421",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1908A00016',start=1946-08-14,retrospectivestart=1946-08-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1908A00016/1946-08-14/text",
+   "sha256": "6ec8689714ef29e70b37d63e07486103697db288bd22e145309519d41bad73e8"
+  },
+  {
+   "in_force": "1963-06-27",
+   "register_id": "C2024C00422",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1908A00016',start=1963-06-27,retrospectivestart=1963-06-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1908A00016/1963-06-27/text",
+   "sha256": "672e3553a81442d8c2f9aab5df71ec702a87d4918745796c3a5fda615d3f640f"
+  },
+  {
+   "in_force": "1974-08-01",
+   "register_id": "C2024C00423",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1908A00016',start=1974-08-01,retrospectivestart=1974-08-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1908A00016/1974-08-01/text",
+   "sha256": "b969d029d5c6c323c16bedb20be0e18a81e80be78af363eec4b1d828bb7f59c0"
+  },
+  {
+   "in_force": "1981-05-01",
+   "register_id": "C2004C00582",
+   "compilation": "5",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1908A00016',start=1981-05-01,retrospectivestart=1981-05-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1908A00016/1981-05-01/text",
+   "sha256": "3df53b13247daac42a27a1ebbe1489b5cc9010e4ec0b60480d84b9b0e948b9c9"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1908-06-10"
+ ],
+ "repeal": null
+}

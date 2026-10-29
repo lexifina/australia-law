@@ -1,0 +1,21 @@
+{
+ "title_id": "C2017A00106",
+ "name": "Product Emissions Standards (Excise) Charges Act 2017",
+ "folder": "product-emissions-standards-excise-charges-act-2017",
+ "compilations": [
+  {
+   "in_force": "2017-09-14",
+   "register_id": "C2017A00106",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00106',start=2017-09-14,retrospectivestart=2017-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00106/2017-09-14/text",
+   "sha256": "6e7b996f426d131f2ea8ce8de3e94dc55c617ddff09d94c5a7b439bded590890"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

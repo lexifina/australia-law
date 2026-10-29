@@ -1,0 +1,21 @@
+{
+ "title_id": "C2024A00112",
+ "name": "Capital Works (Build to Rent Misuse Tax) Act 2024",
+ "folder": "capital-works-build-to-rent-misuse-tax-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-12-10",
+   "register_id": "C2024A00112",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00112',start=2024-12-10,retrospectivestart=2024-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00112/2024-12-10/text",
+   "sha256": "d57980c1588572c34de00864cc860f514d6526240afa99031735938b054c14f6"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

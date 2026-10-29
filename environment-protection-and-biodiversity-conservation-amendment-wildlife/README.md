@@ -1,0 +1,140 @@
+# Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001
+
+Register title C2004A00849 · <https://www.legislation.gov.au/C2004A00849/latest/versions>
+
+1 compilations, 2001-07-11 to 2001-07-11.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| long title and preamble | [intro.md](intro.md) | 0 |  |
+| s 1 | [s-001.md](s-001.md) | 0 |  |
+| s 2 | [s-002.md](s-002.md) | 0 |  |
+| s 3 | [s-003.md](s-003.md) | 0 |  |
+| Sch 1 | [sch-1.md](sch-1.md) | 0 |  |
+| Sch 1 cl 232A | [sch-1/cl-232A.md](sch-1/cl-232A.md) | 0 |  |
+| Sch 1 cl 232B | [sch-1/cl-232B.md](sch-1/cl-232B.md) | 0 |  |
+| Sch 1 cl 303BA | [sch-1/cl-303BA.md](sch-1/cl-303BA.md) | 0 |  |
+| Sch 1 cl 303BAA | [sch-1/cl-303BAA.md](sch-1/cl-303BAA.md) | 0 |  |
+| Sch 1 cl 303BB | [sch-1/cl-303BB.md](sch-1/cl-303BB.md) | 0 |  |
+| Sch 1 cl 303BC | [sch-1/cl-303BC.md](sch-1/cl-303BC.md) | 0 |  |
+| Sch 1 cl 303CA | [sch-1/cl-303CA.md](sch-1/cl-303CA.md) | 0 |  |
+| Sch 1 cl 303CB | [sch-1/cl-303CB.md](sch-1/cl-303CB.md) | 0 |  |
+| Sch 1 cl 303CC | [sch-1/cl-303CC.md](sch-1/cl-303CC.md) | 0 |  |
+| Sch 1 cl 303CD | [sch-1/cl-303CD.md](sch-1/cl-303CD.md) | 0 |  |
+| Sch 1 cl 303CE | [sch-1/cl-303CE.md](sch-1/cl-303CE.md) | 0 |  |
+| Sch 1 cl 303CF | [sch-1/cl-303CF.md](sch-1/cl-303CF.md) | 0 |  |
+| Sch 1 cl 303CG | [sch-1/cl-303CG.md](sch-1/cl-303CG.md) | 0 |  |
+| Sch 1 cl 303CH | [sch-1/cl-303CH.md](sch-1/cl-303CH.md) | 0 |  |
+| Sch 1 cl 303CI | [sch-1/cl-303CI.md](sch-1/cl-303CI.md) | 0 |  |
+| Sch 1 cl 303CJ | [sch-1/cl-303CJ.md](sch-1/cl-303CJ.md) | 0 |  |
+| Sch 1 cl 303CK | [sch-1/cl-303CK.md](sch-1/cl-303CK.md) | 0 |  |
+| Sch 1 cl 303CL | [sch-1/cl-303CL.md](sch-1/cl-303CL.md) | 0 |  |
+| Sch 1 cl 303CM | [sch-1/cl-303CM.md](sch-1/cl-303CM.md) | 0 |  |
+| Sch 1 cl 303CN | [sch-1/cl-303CN.md](sch-1/cl-303CN.md) | 0 |  |
+| Sch 1 cl 303DA | [sch-1/cl-303DA.md](sch-1/cl-303DA.md) | 0 |  |
+| Sch 1 cl 303DB | [sch-1/cl-303DB.md](sch-1/cl-303DB.md) | 0 |  |
+| Sch 1 cl 303DC | [sch-1/cl-303DC.md](sch-1/cl-303DC.md) | 0 |  |
+| Sch 1 cl 303DD | [sch-1/cl-303DD.md](sch-1/cl-303DD.md) | 0 |  |
+| Sch 1 cl 303DE | [sch-1/cl-303DE.md](sch-1/cl-303DE.md) | 0 |  |
+| Sch 1 cl 303DF | [sch-1/cl-303DF.md](sch-1/cl-303DF.md) | 0 |  |
+| Sch 1 cl 303DG | [sch-1/cl-303DG.md](sch-1/cl-303DG.md) | 0 |  |
+| Sch 1 cl 303DH | [sch-1/cl-303DH.md](sch-1/cl-303DH.md) | 0 |  |
+| Sch 1 cl 303DI | [sch-1/cl-303DI.md](sch-1/cl-303DI.md) | 0 |  |
+| Sch 1 cl 303DJ | [sch-1/cl-303DJ.md](sch-1/cl-303DJ.md) | 0 |  |
+| Sch 1 cl 303EA | [sch-1/cl-303EA.md](sch-1/cl-303EA.md) | 0 |  |
+| Sch 1 cl 303EB | [sch-1/cl-303EB.md](sch-1/cl-303EB.md) | 0 |  |
+| Sch 1 cl 303EC | [sch-1/cl-303EC.md](sch-1/cl-303EC.md) | 0 |  |
+| Sch 1 cl 303ED | [sch-1/cl-303ED.md](sch-1/cl-303ED.md) | 0 |  |
+| Sch 1 cl 303EE | [sch-1/cl-303EE.md](sch-1/cl-303EE.md) | 0 |  |
+| Sch 1 cl 303EF | [sch-1/cl-303EF.md](sch-1/cl-303EF.md) | 0 |  |
+| Sch 1 cl 303EG | [sch-1/cl-303EG.md](sch-1/cl-303EG.md) | 0 |  |
+| Sch 1 cl 303EH | [sch-1/cl-303EH.md](sch-1/cl-303EH.md) | 0 |  |
+| Sch 1 cl 303EI | [sch-1/cl-303EI.md](sch-1/cl-303EI.md) | 0 |  |
+| Sch 1 cl 303EJ | [sch-1/cl-303EJ.md](sch-1/cl-303EJ.md) | 0 |  |
+| Sch 1 cl 303EK | [sch-1/cl-303EK.md](sch-1/cl-303EK.md) | 0 |  |
+| Sch 1 cl 303EL | [sch-1/cl-303EL.md](sch-1/cl-303EL.md) | 0 |  |
+| Sch 1 cl 303EM | [sch-1/cl-303EM.md](sch-1/cl-303EM.md) | 0 |  |
+| Sch 1 cl 303EN | [sch-1/cl-303EN.md](sch-1/cl-303EN.md) | 0 |  |
+| Sch 1 cl 303EO | [sch-1/cl-303EO.md](sch-1/cl-303EO.md) | 0 |  |
+| Sch 1 cl 303EP | [sch-1/cl-303EP.md](sch-1/cl-303EP.md) | 0 |  |
+| Sch 1 cl 303EQ | [sch-1/cl-303EQ.md](sch-1/cl-303EQ.md) | 0 |  |
+| Sch 1 cl 303ER | [sch-1/cl-303ER.md](sch-1/cl-303ER.md) | 0 |  |
+| Sch 1 cl 303ES | [sch-1/cl-303ES.md](sch-1/cl-303ES.md) | 0 |  |
+| Sch 1 cl 303ET | [sch-1/cl-303ET.md](sch-1/cl-303ET.md) | 0 |  |
+| Sch 1 cl 303EU | [sch-1/cl-303EU.md](sch-1/cl-303EU.md) | 0 |  |
+| Sch 1 cl 303EV | [sch-1/cl-303EV.md](sch-1/cl-303EV.md) | 0 |  |
+| Sch 1 cl 303EW | [sch-1/cl-303EW.md](sch-1/cl-303EW.md) | 0 |  |
+| Sch 1 cl 303FA | [sch-1/cl-303FA.md](sch-1/cl-303FA.md) | 0 |  |
+| Sch 1 cl 303FB | [sch-1/cl-303FB.md](sch-1/cl-303FB.md) | 0 |  |
+| Sch 1 cl 303FC | [sch-1/cl-303FC.md](sch-1/cl-303FC.md) | 0 |  |
+| Sch 1 cl 303FD | [sch-1/cl-303FD.md](sch-1/cl-303FD.md) | 0 |  |
+| Sch 1 cl 303FE | [sch-1/cl-303FE.md](sch-1/cl-303FE.md) | 0 |  |
+| Sch 1 cl 303FF | [sch-1/cl-303FF.md](sch-1/cl-303FF.md) | 0 |  |
+| Sch 1 cl 303FG | [sch-1/cl-303FG.md](sch-1/cl-303FG.md) | 0 |  |
+| Sch 1 cl 303FH | [sch-1/cl-303FH.md](sch-1/cl-303FH.md) | 0 |  |
+| Sch 1 cl 303FI | [sch-1/cl-303FI.md](sch-1/cl-303FI.md) | 0 |  |
+| Sch 1 cl 303FJ | [sch-1/cl-303FJ.md](sch-1/cl-303FJ.md) | 0 |  |
+| Sch 1 cl 303FK | [sch-1/cl-303FK.md](sch-1/cl-303FK.md) | 0 |  |
+| Sch 1 cl 303FL | [sch-1/cl-303FL.md](sch-1/cl-303FL.md) | 0 |  |
+| Sch 1 cl 303FM | [sch-1/cl-303FM.md](sch-1/cl-303FM.md) | 0 |  |
+| Sch 1 cl 303FN | [sch-1/cl-303FN.md](sch-1/cl-303FN.md) | 0 |  |
+| Sch 1 cl 303FO | [sch-1/cl-303FO.md](sch-1/cl-303FO.md) | 0 |  |
+| Sch 1 cl 303FP | [sch-1/cl-303FP.md](sch-1/cl-303FP.md) | 0 |  |
+| Sch 1 cl 303FQ | [sch-1/cl-303FQ.md](sch-1/cl-303FQ.md) | 0 |  |
+| Sch 1 cl 303FR | [sch-1/cl-303FR.md](sch-1/cl-303FR.md) | 0 |  |
+| Sch 1 cl 303FRA | [sch-1/cl-303FRA.md](sch-1/cl-303FRA.md) | 0 |  |
+| Sch 1 cl 303FS | [sch-1/cl-303FS.md](sch-1/cl-303FS.md) | 0 |  |
+| Sch 1 cl 303FT | [sch-1/cl-303FT.md](sch-1/cl-303FT.md) | 0 |  |
+| Sch 1 cl 303FU | [sch-1/cl-303FU.md](sch-1/cl-303FU.md) | 0 |  |
+| Sch 1 cl 303GA | [sch-1/cl-303GA.md](sch-1/cl-303GA.md) | 0 |  |
+| Sch 1 cl 303GB | [sch-1/cl-303GB.md](sch-1/cl-303GB.md) | 0 |  |
+| Sch 1 cl 303GC | [sch-1/cl-303GC.md](sch-1/cl-303GC.md) | 0 |  |
+| Sch 1 cl 303GD | [sch-1/cl-303GD.md](sch-1/cl-303GD.md) | 0 |  |
+| Sch 1 cl 303GE | [sch-1/cl-303GE.md](sch-1/cl-303GE.md) | 0 |  |
+| Sch 1 cl 303GF | [sch-1/cl-303GF.md](sch-1/cl-303GF.md) | 0 |  |
+| Sch 1 cl 303GG | [sch-1/cl-303GG.md](sch-1/cl-303GG.md) | 0 |  |
+| Sch 1 cl 303GH | [sch-1/cl-303GH.md](sch-1/cl-303GH.md) | 0 |  |
+| Sch 1 cl 303GI | [sch-1/cl-303GI.md](sch-1/cl-303GI.md) | 0 |  |
+| Sch 1 cl 303GJ | [sch-1/cl-303GJ.md](sch-1/cl-303GJ.md) | 0 |  |
+| Sch 1 cl 303GK | [sch-1/cl-303GK.md](sch-1/cl-303GK.md) | 0 |  |
+| Sch 1 cl 303GL | [sch-1/cl-303GL.md](sch-1/cl-303GL.md) | 0 |  |
+| Sch 1 cl 303GM | [sch-1/cl-303GM.md](sch-1/cl-303GM.md) | 0 |  |
+| Sch 1 cl 303GN | [sch-1/cl-303GN.md](sch-1/cl-303GN.md) | 0 |  |
+| Sch 1 cl 303GO | [sch-1/cl-303GO.md](sch-1/cl-303GO.md) | 0 |  |
+| Sch 1 cl 303GP | [sch-1/cl-303GP.md](sch-1/cl-303GP.md) | 0 |  |
+| Sch 1 cl 303GQ | [sch-1/cl-303GQ.md](sch-1/cl-303GQ.md) | 0 |  |
+| Sch 1 cl 303GR | [sch-1/cl-303GR.md](sch-1/cl-303GR.md) | 0 |  |
+| Sch 1 cl 303GS | [sch-1/cl-303GS.md](sch-1/cl-303GS.md) | 0 |  |
+| Sch 1 cl 303GT | [sch-1/cl-303GT.md](sch-1/cl-303GT.md) | 0 |  |
+| Sch 1 cl 303GU | [sch-1/cl-303GU.md](sch-1/cl-303GU.md) | 0 |  |
+| Sch 1 cl 303GV | [sch-1/cl-303GV.md](sch-1/cl-303GV.md) | 0 |  |
+| Sch 1 cl 303GW | [sch-1/cl-303GW.md](sch-1/cl-303GW.md) | 0 |  |
+| Sch 1 cl 303GX | [sch-1/cl-303GX.md](sch-1/cl-303GX.md) | 0 |  |
+| Sch 1 cl 303GY | [sch-1/cl-303GY.md](sch-1/cl-303GY.md) | 0 |  |
+| Sch 1 cl 443A | [sch-1/cl-443A.md](sch-1/cl-443A.md) | 0 |  |
+| Sch 1 cl 444A | [sch-1/cl-444A.md](sch-1/cl-444A.md) | 0 |  |
+| Sch 1 cl 444B | [sch-1/cl-444B.md](sch-1/cl-444B.md) | 0 |  |
+| Sch 1 cl 444C | [sch-1/cl-444C.md](sch-1/cl-444C.md) | 0 |  |
+| Sch 1 cl 444D | [sch-1/cl-444D.md](sch-1/cl-444D.md) | 0 |  |
+| Sch 1 cl 444E | [sch-1/cl-444E.md](sch-1/cl-444E.md) | 0 |  |
+| Sch 1 cl 444F | [sch-1/cl-444F.md](sch-1/cl-444F.md) | 0 |  |
+| Sch 1 cl 444G | [sch-1/cl-444G.md](sch-1/cl-444G.md) | 0 |  |
+| Sch 1 cl 444H | [sch-1/cl-444H.md](sch-1/cl-444H.md) | 0 |  |
+| Sch 1 cl 444J | [sch-1/cl-444J.md](sch-1/cl-444J.md) | 0 |  |
+| Sch 1 cl 444K | [sch-1/cl-444K.md](sch-1/cl-444K.md) | 0 |  |
+| Sch 1 cl 527A | [sch-1/cl-527A.md](sch-1/cl-527A.md) | 0 |  |
+| Sch 1 cl 527B | [sch-1/cl-527B.md](sch-1/cl-527B.md) | 0 |  |
+| Sch 1 cl 527C | [sch-1/cl-527C.md](sch-1/cl-527C.md) | 0 |  |
+| Sch 1 cl 527D | [sch-1/cl-527D.md](sch-1/cl-527D.md) | 0 |  |
+| Sch 1 cl 25A | [sch-1/cl-25A.md](sch-1/cl-25A.md) | 0 |  |
+| Sch 1 cl 25B | [sch-1/cl-25B.md](sch-1/cl-25B.md) | 0 |  |
+| Sch 1 cl 25C | [sch-1/cl-25C.md](sch-1/cl-25C.md) | 0 |  |
+| Sch 1 cl 25D | [sch-1/cl-25D.md](sch-1/cl-25D.md) | 0 |  |
+| Sch 1 cl 25E | [sch-1/cl-25E.md](sch-1/cl-25E.md) | 0 |  |
+| Sch 1 cl 25F | [sch-1/cl-25F.md](sch-1/cl-25F.md) | 0 |  |
+| Sch 1 cl 43A | [sch-1/cl-43A.md](sch-1/cl-43A.md) | 0 |  |
+| Sch 1 cl 43B | [sch-1/cl-43B.md](sch-1/cl-43B.md) | 0 |  |
+| Sch 1 cl 208A | [sch-1/cl-208A.md](sch-1/cl-208A.md) | 0 |  |
+| Sch 1 cl 222A | [sch-1/cl-222A.md](sch-1/cl-222A.md) | 0 |  |
+| Sch 2 | [sch-2.md](sch-2.md) | 0 |  |
+| Sch 3 | [sch-3.md](sch-3.md) | 0 |  |

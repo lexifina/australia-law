@@ -1,0 +1,48 @@
+{
+ "title_id": "C2019A00041",
+ "name": "Treatment Benefits (Special Access) Act 2019",
+ "folder": "treatment-benefits-special-access-act-2019",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00501",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00041',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00041/2024-10-14/text",
+   "sha256": "71824004cfb2bb2971f193fb1bd911a9a5378f3c05f791363401ff8492018fc5"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00618",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00041',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00041/2025-11-01/text",
+   "sha256": "48421e9599b8d26a3d531ccdbf523de669cfc8071733e1ec2050f0a0ca7ba5a1"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00325",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00041',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00041/2026-07-01/text",
+   "sha256": "31a9f686da4d278f479b44c393947456f9b97c746a672f567fe064016264c889"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2019-04-05",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

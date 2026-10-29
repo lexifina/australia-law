@@ -1,0 +1,729 @@
+{
+ "title_id": "C2004A01234",
+ "name": "Higher Education Support Act 2003",
+ "folder": "higher-education-support-act-2003",
+ "compilations": [
+  {
+   "in_force": "2026-04-29",
+   "register_id": "C2026C00182",
+   "compilation": "103",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01234',start=2026-04-29,retrospectivestart=2026-04-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01234/2026-04-29/text",
+   "sha256": "14011c98f7af8021e8d8a41b5243bbf6021e462e1eae33e12ee9322134d43b43"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00297",
+   "compilation": "104",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01234',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01234/2026-07-01/text",
+   "sha256": "1c2a4a59fe3533353d97be61a3c341b6c41908dc4e3b5c72e8856d9cf094dd4d"
+  },
+  {
+   "in_force": "2026-10-17",
+   "register_id": "C2026C00478",
+   "compilation": "105",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01234',start=2026-10-17,retrospectivestart=2026-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01234/2026-10-17/text",
+   "sha256": "dcdbf7f7952a002ed61a103b65f040c540fc53d0585d9e20bc69c98aef9c971a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-12-19",
+   "acts": []
+  },
+  {
+   "in_force": "2004-01-01",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005",
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005",
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005",
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2004-04-21",
+   "acts": [
+    "Higher Education Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-13",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 2) 2004",
+    "Higher Education Legislation Amendment Act (No. 3) 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-14",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 2) 2004"
+   ]
+  },
+  {
+   "in_force": "2004-11-23",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005",
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005",
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2004-12-17",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 3) 2004"
+   ]
+  },
+  {
+   "in_force": "2005-05-25",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 1) Act 2005",
+    "Higher Education Legislation Amendment (2005 Measures No. 1) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-06",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005",
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005",
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005",
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005",
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005",
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005",
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-08-03",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 2) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-11-19",
+   "acts": [
+    "Higher Education Legislation Amendment (Workplace Relations Requirements) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-14",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-19",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Budget Measures) Act 2005",
+    "Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-20",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 4) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-28",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-01-01",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005",
+    "Higher Education Support Amendment (Abolition of Compulsory Up-front Student Union Fees) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-11-04",
+   "acts": [
+    "Higher Education Legislation Amendment (2006 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Higher Education Legislation Amendment (2006 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-05-28",
+   "acts": [
+    "Higher Education Legislation Amendment (2007 Measures No. 1) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-28",
+   "acts": [
+    "Higher Education Legislation Amendment (2007 Budget Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-12-31",
+   "acts": [
+    "Higher Education Legislation Amendment (2007 Measures No. 1) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Higher Education Legislation Amendment (2007 Measures No. 1) Act 2007",
+    "Higher Education Legislation Amendment (2007 Budget Measures) Act 2007",
+    "Maritime Legislation Amendment Act 2007",
+    "Higher Education Support Amendment (Extending FEE-HELP for VET Diploma, Advanced Diploma, Graduate Diploma and Graduate Certificate Courses) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-03-20",
+   "acts": [
+    "Higher Education Support Amendment (VET FEE-HELP Assistance) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-25",
+   "acts": [
+    "Higher Education Support Amendment (2008 Budget Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-09-20",
+   "acts": [
+    "Higher Education Support Amendment (Removal of the Higher Education Workplace Relations Requirements and National Governance Protocols Requirements and Other Matters) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-27",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-06-24",
+   "acts": [
+    "Higher Education Support Amendment (VET FEE-HELP and Providers) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-18",
+   "acts": [
+    "Higher Education Support Amendment (2009 Budget Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-08",
+   "acts": [
+    "Higher Education Support Amendment (VET FEE-HELP and Tertiary Admission Centres) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Higher Education Support Amendment (2009 Budget Measures) Act 2009",
+    "Higher Education Support Amendment (University College London) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-02-19",
+   "acts": [
+    "Higher Education Support Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Income Support for Students) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Tax Laws Amendment (Transfer of Provisions) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-24",
+   "acts": [
+    "Higher Education Support Amendment (FEE-HELP Loan Fee) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-01",
+   "acts": [
+    "Higher Education Support Amendment (2010 Budget Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Higher Education Support Amendment (Indexation) Act 2010",
+    "Higher Education Support Amendment (Indexation) Act 2010",
+    "Higher Education Support Amendment Act (No. 1) 2012"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-06-30",
+   "acts": [
+    "National Vocational Education and Training Regulator (Consequential Amendments) Act 2011",
+    "Higher Education Support Amendment (No. 1) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "National Vocational Education and Training Regulator (Consequential Amendments) Act 2011",
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-09-08",
+   "acts": [
+    "Indigenous Education (Targeted Assistance) Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-09-26",
+   "acts": [
+    "Higher Education Support Amendment (Demand Driven Funding System and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-05",
+   "acts": [
+    "Higher Education Support Amendment Act (No. 2) 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Higher Education Support Amendment (Demand Driven Funding System and Other Measures) Act 2011",
+    "Higher Education Legislation Amendment (Student Services and Amenities) Act 2011",
+    "Higher Education Support Amendment Act (No. 2) 2011",
+    "Higher Education Support Amendment Act (No. 1) 2012"
+   ]
+  },
+  {
+   "in_force": "2012-01-29",
+   "acts": [
+    "Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-07",
+   "acts": [
+    "Higher Education Support Amendment (VET FEE-HELP and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-04-16",
+   "acts": [
+    "Higher Education Support Amendment Act (No. 1) 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-06",
+   "acts": [
+    "Higher Education Support Amendment (VET FEE-HELP and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-13",
+   "acts": [
+    "Higher Education Support Amendment (Student Contribution Amounts and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-18",
+   "acts": [
+    "Higher Education Support Amendment (Maximum Payment Amounts and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-29",
+   "acts": [
+    "Higher Education Support Amendment (Streamlining and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Higher Education Support Amendment Act (No. 1) 2012",
+    "Higher Education Support Amendment (Student Contribution Amounts and Other Measures) Act 2012",
+    "Higher Education Support Amendment (Streamlining and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-29",
+   "acts": [
+    "Higher Education Support Amendment (Further Streamlining and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-30",
+   "acts": [
+    "Higher Education Support Amendment (Asian Century) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-12-01",
+   "acts": [
+    "Higher Education Legislation Amendment (Miscellaneous Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-12",
+   "acts": [
+    "Labor 2013-14 Budget Savings (Measures No. 2) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-31",
+   "acts": [
+    "Higher Education Support Amendment (VET FEE-HELP Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Education Legislation Amendment (Overseas Debt Recovery) Act 2015",
+    "Higher Education Legislation Amendment (Miscellaneous Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-11-24",
+   "acts": [
+    "Higher Education Support Legislation Amendment (2016 Measures No. 1) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Higher Education Support Legislation Amendment (2016 Measures No. 1) Act 2016",
+    "VET Student Loans (Consequential Amendments and Transitional Provisions) Act 2016",
+    "VET Student Loans (Consequential Amendments and Transitional Provisions) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-08-17",
+   "acts": [
+    "Education Legislation Amendment (Provider Integrity and Other Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-20",
+   "acts": [
+    "Statute Update (Winter 2017) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016",
+    "Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-01-01",
+   "acts": [
+    "Higher Education Support Legislation Amendment (Student Loan Sustainability) Act 2018",
+    "Higher Education Support Amendment (VET FEE-HELP Student Protection) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Higher Education Support Legislation Amendment (Student Loan Sustainability) Act 2018",
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-11-28",
+   "acts": [
+    "Education Legislation Amendment (2019 Measures No. 1) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Higher Education Support Legislation Amendment (Student Loan Sustainability) Act 2018",
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018",
+    "Higher Education Support Amendment (VET FEE-HELP Student Protection) Act 2018",
+    "Higher Education Support Amendment (Cost Recovery) Act 2019",
+    "Higher Education Support Amendment (Cost Recovery) Act 2019",
+    "Education Legislation Amendment (2019 Measures No. 1) Act 2019",
+    "Education Legislation Amendment (Tuition Protection and Other Measures) Act 2019",
+    "Education Legislation Amendment (Tuition Protection and Other Measures) Act 2019",
+    "Education Legislation Amendment (2020 Measures No. 1) Act 2020",
+    "Higher Education Support Amendment (Job-Ready Graduates and Supporting Regional and Remote Students) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-06-19",
+   "acts": [
+    "Education Legislation Amendment (2020 Measures No. 1) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-10-27",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2020-10-28",
+   "acts": [
+    "Higher Education Support Amendment (Job-Ready Graduates and Supporting Regional and Remote Students) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Education Legislation Amendment (2020 Measures No. 1) Act 2020",
+    "National Vocational Education and Training Regulator Amendment (Governance and Other Matters) Act 2020",
+    "Higher Education Support Amendment (Job-Ready Graduates and Supporting Regional and Remote Students) Act 2020",
+    "Education Legislation Amendment (Up-front Payments Tuition Protection) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-02",
+   "acts": [
+    "Higher Education Legislation Amendment (Provider Category Standards and Other Measures) Act 2021",
+    "VET Student Payment Arrangements (Miscellaneous Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-03-23",
+   "acts": [
+    "Higher Education Support Amendment (Freedom of Speech) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-05-28",
+   "acts": [
+    "Education Legislation Amendment (2021 Measures No. 1) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-06-24",
+   "acts": [
+    "Higher Education Support Amendment (Extending the Student Loan Fee Exemption) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-06-25",
+   "acts": [
+    "Education Legislation Amendment (2021 Measures No. 2) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "VET Student Payment Arrangements (Miscellaneous Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-01",
+   "acts": [
+    "Higher Education Support Amendment (Job-Ready Graduates and Supporting Regional and Remote Students) Act 2020",
+    "Education Legislation Amendment (2021 Measures No. 2) Act 2021",
+    "Education Legislation Amendment (2022 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-11-30",
+   "acts": [
+    "Education Legislation Amendment (2022 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-01-01",
+   "acts": [
+    "Education Legislation Amendment (2022 Measures No. 1) Act 2022",
+    "Education Legislation Amendment (2022 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-02-21",
+   "acts": [
+    "Higher Education Support Amendment (2022 Measures No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-03-15",
+   "acts": [
+    "Higher Education Support Amendment (Australia’s Economic Accelerator) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-06-29",
+   "acts": [
+    "Education Legislation Amendment (Startup Year and Other Measures) Act 2023",
+    "Education Legislation Amendment (Startup Year and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-17",
+   "acts": [
+    "Members of Parliament (Staff) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-11-06",
+   "acts": [
+    "Higher Education Support Amendment (Response to the Australian Universities Accord Interim Report) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Higher Education Support Amendment (Response to the Australian Universities Accord Interim Report) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-03-29",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Australia’s Engagement in the Pacific) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-05",
+   "acts": [
+    "Universities Accord (Student Support and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-01-01",
+   "acts": [
+    "Universities Accord (Student Support and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-21",
+   "acts": [
+    "Administrative Review Tribunal (Miscellaneous Measures) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-06-01",
+   "acts": [
+    "Universities Accord (Student Support and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-08-03",
+   "acts": [
+    "Universities Accord (Cutting Student Debt by 20 Per Cent) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-08-29",
+   "acts": [
+    "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) (Consequential Amendments) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-12-05",
+   "acts": [
+    "Education Legislation Amendment (Integrity and Other Measures) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-01-01",
+   "acts": [
+    "Universities Accord (Student Support and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Universities Accord (Opening the Doors of Opportunity) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

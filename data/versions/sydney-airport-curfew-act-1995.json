@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A04984",
+ "name": "Sydney Airport Curfew Act 1995",
+ "folder": "sydney-airport-curfew-act-1995",
+ "compilations": [
+  {
+   "in_force": "2020-12-16",
+   "register_id": "C2021C00045",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04984',start=2020-12-16,retrospectivestart=2020-12-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04984/2020-12-16/text",
+   "sha256": "feb52be16e5c9124fa9b1e9586e40323bbfdc640dc2c41dc5bd56722a455b044"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00375",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04984',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04984/2023-10-18/text",
+   "sha256": "68bb1bb344f5f034bda5afa3e393845c5e06d32c0c4d8ab350bbb015cf0f8b6d"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00497",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04984',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04984/2024-10-14/text",
+   "sha256": "83c47274e82b0637d6984991482cf24e349df3567d9111f098cca03d4377db17"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-11-22",
+   "acts": []
+  },
+  {
+   "in_force": "2000-06-30",
+   "acts": [
+    "Aviation Legislation Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

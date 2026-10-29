@@ -1,0 +1,32 @@
+{
+ "title_id": "C2011A00128",
+ "name": "Business Names Registration (Fees) Act 2011",
+ "folder": "business-names-registration-fees-act-2011",
+ "compilations": [
+  {
+   "in_force": "2011-11-03",
+   "register_id": "C2011A00128",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00128',start=2011-11-03,retrospectivestart=2011-11-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00128/2011-11-03/text",
+   "sha256": "b50d76c6f036a9bec36203cdd42f1a0f4fe03cafde643f6fa009f3780a12765c"
+  },
+  {
+   "in_force": "2022-06-22",
+   "register_id": "C2022C00183",
+   "compilation": "1",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00128',start=2022-06-22,retrospectivestart=2022-06-22,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00128/2022-06-22/text",
+   "sha256": "2c763e60967dc2d92829c32682d1db81c03772f640316e11de39423d05bfc7d0"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

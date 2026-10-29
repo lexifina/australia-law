@@ -1,0 +1,32 @@
+{
+ "title_id": "C2006A00125",
+ "name": "Corporations (Aboriginal and Torres Strait Islander) Consequential, Transitional and Other Measures Act 2006",
+ "folder": "corporations-aboriginal-and-torres-strait-islander-consequential",
+ "compilations": [
+  {
+   "in_force": "2006-11-04",
+   "register_id": "C2006A00125",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00125',start=2006-11-04,retrospectivestart=2006-11-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00125/2006-11-04/text",
+   "sha256": "5e11b6eb9bb72fa45c51332d0cd2b30acf69c2832de9e5837862bad7aca044a8"
+  },
+  {
+   "in_force": "2010-03-01",
+   "register_id": "C2010C00237",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00125',start=2010-03-01,retrospectivestart=2010-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00125/2010-03-01/text",
+   "sha256": "fa96ccff520656c4bfcfe18277fc675df5bf46884bb115073d482c6963b28985"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

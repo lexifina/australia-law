@@ -1,0 +1,32 @@
+{
+ "title_id": "C2012A00101",
+ "name": "Stronger Futures in the Northern Territory (Consequential and Transitional Provisions) Act 2012",
+ "folder": "stronger-futures-in-the-northern-territory-consequential-and",
+ "compilations": [
+  {
+   "in_force": "2012-06-29",
+   "register_id": "C2012A00101",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00101',start=2012-06-29,retrospectivestart=2012-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00101/2012-06-29/text",
+   "sha256": "432de2438950a44ad2b120324a04db3d25df56333896a90c8cffec5a0f16592b"
+  },
+  {
+   "in_force": "2012-07-16",
+   "register_id": "C2013C00553",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00101',start=2012-07-16,retrospectivestart=2012-07-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00101/2012-07-16/text",
+   "sha256": "8544991abcf32d760a9c48d68ddff114f2451568c8438fcb3bbb8b5bd7689c6d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00465",
+ "name": "A New Tax System (Luxury Car Tax Imposition—Excise) Act 1999",
+ "folder": "a-new-tax-system-luxury-car-tax-impositionexcise-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-07-08",
+   "register_id": "C2004A00465",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00465',start=1999-07-08,retrospectivestart=1999-07-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00465/1999-07-08/text",
+   "sha256": "a6dc04e2716635cde288bd8813f13e6b7509f51ed640f9d36cbfdf4c9935750f"
+  },
+  {
+   "in_force": "2008-10-03",
+   "register_id": "C2008C00522",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00465',start=2008-10-03,retrospectivestart=2008-10-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00465/2008-10-03/text",
+   "sha256": "12888cc5a432dceae5f737e3d42c75e947fb7c98ac1da06ef680d74eb056388e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

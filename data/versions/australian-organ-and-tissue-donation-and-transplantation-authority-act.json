@@ -1,0 +1,78 @@
+{
+ "title_id": "C2008A00122",
+ "name": "Australian Organ and Tissue Donation and Transplantation Authority Act 2008",
+ "folder": "australian-organ-and-tissue-donation-and-transplantation-authority-act",
+ "compilations": [
+  {
+   "in_force": "2017-07-01",
+   "register_id": "C2017C00206",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00122',start=2017-07-01,retrospectivestart=2017-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00122/2017-07-01/text",
+   "sha256": "35b484a17fcae4cd5cc751e7cca8bb07980914b9d0f8b63d1299226c93d95615"
+  },
+  {
+   "in_force": "2021-11-01",
+   "register_id": "C2021C00561",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00122',start=2021-11-01,retrospectivestart=2021-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00122/2021-11-01/text",
+   "sha256": "3760357fbe79fde5213a8e4534d21096ef797e763cc87da78a473e93ebc9a18a"
+  },
+  {
+   "in_force": "2024-02-21",
+   "register_id": "C2024C00060",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00122',start=2024-02-21,retrospectivestart=2024-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00122/2024-02-21/text",
+   "sha256": "c6025b3d8b49ca182422fa6f16e0de5d54529423176c0754eddd25ad49d026e3"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2008-11-25",
+   "acts": []
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04716",
+ "name": "Agricultural and Veterinary Chemical Products Levy Imposition (General) Act 1994",
+ "folder": "agricultural-and-veterinary-chemical-products-levy-imposition-general",
+ "compilations": [
+  {
+   "in_force": "1994-03-15",
+   "register_id": "C2004A04716",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04716',start=1994-03-15,retrospectivestart=1994-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04716/1994-03-15/text",
+   "sha256": "ec03dbd7fe612b8f117b23d6fae8678b7e72e0d14a0ee0116f36074d41651b4e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

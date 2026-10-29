@@ -1,0 +1,150 @@
+{
+ "title_id": "C2004A00536",
+ "name": "Parliamentary Service Act 1999",
+ "folder": "parliamentary-service-act-1999",
+ "compilations": [
+  {
+   "in_force": "2015-04-02",
+   "register_id": "C2015C00157",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00536',start=2015-04-02,retrospectivestart=2015-04-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00536/2015-04-02/text",
+   "sha256": "94f4ec64f8cc7095538ea39408dcce947e413ccc40bf7e1f47fcd796e4db952e"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00405",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00536',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00536/2016-03-05/text",
+   "sha256": "736a0282f7a563ee61160db31a550c95a6dc8296689b605dc067ebef5522ab9c"
+  },
+  {
+   "in_force": "2018-12-29",
+   "register_id": "C2019C00008",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00536',start=2018-12-29,retrospectivestart=2018-12-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00536/2018-12-29/text",
+   "sha256": "d40155b1046ec4a5dc5e6386a4bfeee2b3ec2dab6fe5a83d5e2a79c87062f251"
+  },
+  {
+   "in_force": "2019-03-01",
+   "register_id": "C2019C00092",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00536',start=2019-03-01,retrospectivestart=2019-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00536/2019-03-01/text",
+   "sha256": "f1581a0e10066636080f8de4b687f2df1b62cb33d49084bb770453d32fa2d5b7"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-11-11",
+   "acts": []
+  },
+  {
+   "in_force": "2001-10-17",
+   "acts": [
+    "Parliamentary Service Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-04-01",
+   "acts": [
+    "Parliamentary Service Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2008-03-28",
+   "acts": [
+    "Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-12-18",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-02-15",
+   "acts": [
+    "Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-01",
+   "acts": [
+    "Parliamentary Service Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Parliamentary Service Amendment (Freedom of Information) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-30",
+   "acts": [
+    "Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Public Service Amendment Act 2013",
+    "Parliamentary Service Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-01-15",
+   "acts": [
+    "Public Interest Disclosure (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

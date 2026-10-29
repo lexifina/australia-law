@@ -1,0 +1,48 @@
+{
+ "title_id": "C2008A00031",
+ "name": "Income Tax (Managed Investment Trust Withholding Tax) Act 2008",
+ "folder": "income-tax-managed-investment-trust-withholding-tax-act-2008",
+ "compilations": [
+  {
+   "in_force": "2012-06-29",
+   "register_id": "C2012C00606",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00031',start=2012-06-29,retrospectivestart=2012-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00031/2012-06-29/text",
+   "sha256": "e8c2a8300862c0fe99e71e41c6485bb4e0a3ac0977378dfe68c77f993918816f"
+  },
+  {
+   "in_force": "2012-12-10",
+   "register_id": "C2013C00057",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00031',start=2012-12-10,retrospectivestart=2012-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00031/2012-12-10/text",
+   "sha256": "b9b80e7ddc961fd75f9f13e97b08ed6156a9a01c6cfc9335a4ba2e98dba7c759"
+  },
+  {
+   "in_force": "2019-07-01",
+   "register_id": "C2019C00219",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00031',start=2019-07-01,retrospectivestart=2019-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00031/2019-07-01/text",
+   "sha256": "a5d7e2a497c2d304d11e9be2c33cdf4f1056277ee6e30901798f47b9f60af3a4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2008-06-23",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

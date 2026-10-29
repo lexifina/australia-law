@@ -1,0 +1,54 @@
+{
+ "title_id": "C2008A00121",
+ "name": "National Rental Affordability Scheme Act 2008",
+ "folder": "national-rental-affordability-scheme-act-2008",
+ "compilations": [
+  {
+   "in_force": "2019-10-31",
+   "register_id": "C2019C00319",
+   "compilation": "2",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00121',start=2019-10-31,retrospectivestart=2019-10-31,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00121/2019-10-31/text",
+   "sha256": "9f3c585d44cb2975b0a0967db6ba5616df1ceac06152e0cb03881929cd92f606"
+  },
+  {
+   "in_force": "2020-04-01",
+   "register_id": "C2020C00141",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00121',start=2020-04-01,retrospectivestart=2020-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00121/2020-04-01/text",
+   "sha256": "19ef2e4fb2e7dd529b7b81a2bc63c39bfaeb74c39b809b507db6879e3fd1cd92"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00679",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00121',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00121/2025-12-05/text",
+   "sha256": "6070acad71b107e0be5c32188340d1b64bb07e0bf226c018335f2e310e74225c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2008-07-01",
+   "acts": []
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

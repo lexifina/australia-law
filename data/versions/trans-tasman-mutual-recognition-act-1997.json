@@ -1,0 +1,216 @@
+{
+ "title_id": "C2004A05284",
+ "name": "Trans-Tasman Mutual Recognition Act 1997",
+ "folder": "trans-tasman-mutual-recognition-act-1997",
+ "compilations": [
+  {
+   "in_force": "2025-05-01",
+   "register_id": "C2025C00390",
+   "compilation": "30",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05284',start=2025-05-01,retrospectivestart=2025-05-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05284/2025-05-01/text",
+   "sha256": "0fddad606b75a619a24706691e34801a016c4f1bec5ef3940cf59a9643b41ac8"
+  },
+  {
+   "in_force": "2026-03-21",
+   "register_id": "C2026C00137",
+   "compilation": "31",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05284',start=2026-03-21,retrospectivestart=2026-03-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05284/2026-03-21/text",
+   "sha256": "1561d7c671ef6c26308e30f1302e353f11340b7b7cb217dcfcb97a12dfca957d"
+  },
+  {
+   "in_force": "2026-10-07",
+   "register_id": "C2026C00465",
+   "compilation": "32",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05284',start=2026-10-07,retrospectivestart=2026-10-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05284/2026-10-07/text",
+   "sha256": "04b3711a81604bb74daa3f31484ddafac3180cab3adcc9e6766554e00bde0a8f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-12-07",
+   "acts": []
+  },
+  {
+   "in_force": "1999-05-01",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Regulations 1999"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Statute Stocktake Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-04-19",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Amendment Regulations 2000 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2001-04-20",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Amendment Regulations 2001 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2001-08-23",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2002-04-18",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2003-04-28",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2003-12-05",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-05-16",
+   "acts": [
+    "Administrative Appeals Tribunal Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-04-18",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Amendment Regulations 2009 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2010-03-16",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2010 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2010-04-20",
+   "acts": [
+    "Trans-Tasman Mutual Recognition (Modification of Act) Regulations 2010 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2012-12-12",
+   "acts": [
+    "Trans-Tasman Mutual Recognition (Amendment of Act) Regulation 2012"
+   ]
+  },
+  {
+   "in_force": "2013-08-08",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Legislation Amendment (Tobacco Plain Packaging) Regulation 2013"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-12-07",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Amendment (ACT Container Deposit Scheme) Regulations 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-08",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Amendment (NSW Container Deposit Scheme) Regulations 2018"
+   ]
+  },
+  {
+   "in_force": "2019-03-20",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Amendment (Permanent Exemption for Emissions-controlled Products) Regulations 2019"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Industrial Chemicals (Consequential Amendments and Transitional Provisions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-09-18",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Amendment (WA Container Deposit Scheme) Regulations 2020"
+   ]
+  },
+  {
+   "in_force": "2021-06-17",
+   "acts": [
+    "Radiocommunications Legislation Amendment (Reform and Modernisation) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Road Vehicle Standards (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Road Vehicle Standards (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-03",
+   "acts": [
+    "Trans-Tasman Mutual Recognition Legislation Amendment (Northern Territory Container Deposit Scheme) Regulations 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

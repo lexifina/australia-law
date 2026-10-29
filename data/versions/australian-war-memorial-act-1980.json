@@ -1,0 +1,132 @@
+{
+ "title_id": "C2004A02305",
+ "name": "Australian War Memorial Act 1980",
+ "folder": "australian-war-memorial-act-1980",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00445",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02305',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02305/2014-07-01/text",
+   "sha256": "b6301d6b25ced516cdc4135c6bd8bc4da1f533c179b837d73782516c3d95c941"
+  },
+  {
+   "in_force": "2014-12-05",
+   "register_id": "C2014C00808",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02305',start=2014-12-05,retrospectivestart=2014-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02305/2014-12-05/text",
+   "sha256": "69e90b0533102e763fb59cc5bc8dc77da9eebdd1b1d53028e56dde686a7885e9"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01079",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02305',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02305/2016-10-21/text",
+   "sha256": "852e0d75c340a6e47fa9c8c76acf8db93b6e3fc2efdf948fd0c64889c3ccdeee"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1980-06-06",
+   "acts": []
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-01-08",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1989-06-27",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

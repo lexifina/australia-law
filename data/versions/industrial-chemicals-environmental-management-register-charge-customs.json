@@ -1,0 +1,21 @@
+{
+ "title_id": "C2021A00028",
+ "name": "Industrial Chemicals Environmental Management (Register) Charge (Customs) Act 2021",
+ "folder": "industrial-chemicals-environmental-management-register-charge-customs",
+ "compilations": [
+  {
+   "in_force": "2021-03-26",
+   "register_id": "C2021A00028",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00028',start=2021-03-26,retrospectivestart=2021-03-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00028/2021-03-26/text",
+   "sha256": "baf44750410e65dd0b3dc0353569112bf493c1d31baa0b198241a474cb0852ae"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A04049",
+ "name": "Commonwealth Banks Restructuring Act 1990",
+ "folder": "commonwealth-banks-restructuring-act-1990",
+ "compilations": [
+  {
+   "in_force": "2011-09-16",
+   "register_id": "C2011C00790",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04049',start=2011-09-16,retrospectivestart=2011-09-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04049/2011-09-16/text",
+   "sha256": "4201f7599c288f0ed96f3d3fd8cd9934395028d574c06d2a7ac98694bf3944eb"
+  },
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00789",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04049',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04049/2012-09-22/text",
+   "sha256": "8326251402bed2d3f44e5f8d0dd8b8eb84f229524d611a0350a700264541ff5a"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00242",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04049',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04049/2018-06-19/text",
+   "sha256": "ec18d7d3a93306e0bc271c5e0ce2fea54ade7b0774d3b0fc376722b18ee6b3f6"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-01-01",
+   "acts": []
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Statute Stocktake Act 1999"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A01106",
+ "name": "Inspector-General of Taxation Act 2003",
+ "folder": "inspector-general-of-taxation-act-2003",
+ "compilations": [
+  {
+   "in_force": "2015-05-01",
+   "register_id": "C2015C00236",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01106',start=2015-05-01,retrospectivestart=2015-05-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01106/2015-05-01/text",
+   "sha256": "a9fbf1aeb50ef93f9fff9f90e3dbf353fe971db28015e639ea8d2370961eaa2c"
+  },
+  {
+   "in_force": "2025-02-15",
+   "register_id": "C2025C00083",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01106',start=2025-02-15,retrospectivestart=2025-02-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01106/2025-02-15/text",
+   "sha256": "19dd6ac8e9f674893d5ace8faedd2a877153939752583f6b74881824d7a99cce"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00678",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01106',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01106/2025-12-05/text",
+   "sha256": "154d493c9d041812ebc884ae7e729773e9105166f19edb96aa89778f12e903f6"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-04-15",
+   "acts": []
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

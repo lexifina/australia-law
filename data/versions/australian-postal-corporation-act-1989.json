@@ -1,0 +1,341 @@
+{
+ "title_id": "C2004A03812",
+ "name": "Australian Postal Corporation Act 1989",
+ "folder": "australian-postal-corporation-act-1989",
+ "compilations": [
+  {
+   "in_force": "2020-07-01",
+   "register_id": "C2020C00210",
+   "compilation": "48",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03812',start=2020-07-01,retrospectivestart=2020-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03812/2020-07-01/text",
+   "sha256": "7c8e6c08527c94db30f7a9c5e25b6494bb566ecfd94e9f716607bb3f2807129b"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00388",
+   "compilation": "49",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03812',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03812/2023-10-18/text",
+   "sha256": "0b9f56fdbcb97de4a0985234557ae660c6ed3b32e057ffc59813c861acfb488c"
+  },
+  {
+   "in_force": "2025-01-09",
+   "register_id": "C2025C00040",
+   "compilation": "50",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03812',start=2025-01-09,retrospectivestart=2025-01-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03812/2025-01-09/text",
+   "sha256": "b88e23f4fa0d05f98ec689c6345f7734151c6dd5783bb33ebd66c8c12f184f99"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1989-06-19",
+   "acts": []
+  },
+  {
+   "in_force": "1990-01-17",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-26",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-12-05",
+   "acts": [
+    "Australian Postal Corporation Amendment Act 1994",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1995-01-01",
+   "acts": [
+    "Australian Postal Corporation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-08-17",
+   "acts": [
+    "Competition Policy Reform Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-11-06",
+   "acts": [
+    "Competition Policy Reform Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997",
+    "Tax Law Improvement Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-08",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-03-31",
+   "acts": [
+    "Customs and Excise Legislation Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-08-02",
+   "acts": [
+    "Telecommunications Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-05-26",
+   "acts": [
+    "Customs Legislation Amendment (Criminal Sanctions and Other Measures) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-03-01",
+   "acts": [
+    "Trade Practices Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-04-02",
+   "acts": [
+    "Australian Crime Commission Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-22",
+   "acts": [
+    "Postal Services Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Australian Postal Corporation Amendment (Quarantine Inspection and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-03-24",
+   "acts": [
+    "Australian Postal Corporation Amendment (Quarantine Inspection and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-12-18",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2010",
+    "Financial Framework Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-08-01",
+   "acts": [
+    "Australian Sports Anti-Doping Authority Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-30",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015",
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-12-01",
+   "acts": [
+    "Law Enforcement Legislation Amendment (State Bodies and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,66 @@
+{
+ "title_id": "C2004A03235",
+ "name": "Foreign States Immunities Act 1985",
+ "folder": "foreign-states-immunities-act-1985",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00947",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03235',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03235/2016-10-21/text",
+   "sha256": "0ea333483d07032ed06a27f738d0538b15b1579cf42dce13c088ae8ddef9a88a"
+  },
+  {
+   "in_force": "2022-02-18",
+   "register_id": "C2022C00077",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03235',start=2022-02-18,retrospectivestart=2022-02-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03235/2022-02-18/text",
+   "sha256": "8ca5020c20d8e0d24bf07430dc190f924226ad3562838797ba0e4afcdc454d76"
+  },
+  {
+   "in_force": "2025-11-08",
+   "register_id": "C2025C00636",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03235',start=2025-11-08,retrospectivestart=2025-11-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03235/2025-11-08/text",
+   "sha256": "8281ab278219a4dbd84c178a754379a87cf2df04738bbf32ac568feb73b08747"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1985-12-16",
+   "acts": []
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "2009-09-19",
+   "acts": [
+    "Foreign States Immunities Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

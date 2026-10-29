@@ -1,0 +1,489 @@
+{
+ "title_id": "C2004A04465",
+ "name": "Radiocommunications Act 1992",
+ "folder": "radiocommunications-act-1992",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00659",
+   "compilation": "80",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04465',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04465/2024-10-14/text",
+   "sha256": "5328a56e868befdc06c157c392d60ee4b35cac4b8eb078c65f8cb9d908c4246d"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00823",
+   "compilation": "81",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04465',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04465/2024-12-11/text",
+   "sha256": "e9898cf20ab5365a49660ccbe72093f9af9c40e6038c7e94f3611e93d3a09680"
+  },
+  {
+   "in_force": "2025-07-01",
+   "register_id": "C2025C00412",
+   "compilation": "82",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04465',start=2025-07-01,retrospectivestart=2025-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04465/2025-07-01/text",
+   "sha256": "574bcbac07bef1fefd7273af7e649e09bbdbb9491b35621f22e84f42c74bb0a2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-12-11",
+   "acts": []
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-04-12",
+   "acts": [
+    "Communications and the Arts Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-09-08",
+   "acts": [
+    "Communications and the Arts Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1997-04-22",
+   "acts": [
+    "Radiocommunications Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-08-04",
+   "acts": [
+    "Communications Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-10-09",
+   "acts": [
+    "Radiocommunications Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-27",
+   "acts": [
+    "Television Broadcasting Services (Digital Conversion) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-12-21",
+   "acts": [
+    "National Transmission Network Sale (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Statute Law Revision Act 2002"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-05-31",
+   "acts": [
+    "Radiocommunications Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Broadcasting Services Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-01-01",
+   "acts": [
+    "Broadcasting Services Amendment Act 2000",
+    "Broadcasting Services Amendment (Digital Television and Datacasting) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001",
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-20",
+   "acts": [
+    "Broadcasting Legislation Amendment Act (No. 2) 2001"
+   ]
+  },
+  {
+   "in_force": "2002-12-30",
+   "acts": [
+    "Broadcasting Legislation Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2003-10-24",
+   "acts": [
+    "Communications Legislation Amendment Act (No. 3) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-11-28",
+   "acts": [
+    "Australian Crime Commission Establishment Act 2002",
+    "Communications Legislation Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-12-12",
+   "acts": [
+    "Communications Legislation Amendment Act (No. 3) 2003"
+   ]
+  },
+  {
+   "in_force": "2004-06-17",
+   "acts": [
+    "Designs (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005",
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-11-05",
+   "acts": [
+    "Broadcasting Legislation Amendment (Digital Television) Act 2006",
+    "Broadcasting Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-30",
+   "acts": [
+    "Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Broadcasting Services Amendment (Collection of Datacasting Transmitter Licence Fees) Act 2006",
+    "Broadcasting Legislation Amendment (Digital Television) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-02-04",
+   "acts": [
+    "Communications Legislation Amendment (Enforcement Powers) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-02-07",
+   "acts": [
+    "Greater Sunrise Unitisation Agreement Implementation Act 2004"
+   ]
+  },
+  {
+   "in_force": "2007-05-04",
+   "acts": [
+    "Broadcasting Legislation Amendment (Digital Television) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-05-29",
+   "acts": [
+    "Broadcasting Legislation Amendment (Digital Radio) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-19",
+   "acts": [
+    "Corporations (NZ Closer Economic Relations) and Other Legislation Amendment Act 2007",
+    "Broadcasting Legislation Amendment (Digital Radio) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-29",
+   "acts": [
+    "Communications Legislation Amendment (Information Sharing and Datacasting) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006",
+    "Offshore Petroleum Amendment (Greater Sunrise) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-11-01",
+   "acts": [
+    "Broadcasting Legislation Amendment (Digital Radio) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Broadcasting Legislation Amendment (Digital Television) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010",
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-30",
+   "acts": [
+    "Broadcasting Legislation Amendment (Digital Television) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Radiocommunications Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010",
+    "Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-05-27",
+   "acts": [
+    "Broadcasting Legislation Amendment (Digital Dividend and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-10-01",
+   "acts": [
+    "Broadcasting Legislation Amendment (Digital Dividend) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-19",
+   "acts": [
+    "Broadcasting and Other Legislation Amendment (Deregulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-03-20",
+   "acts": [
+    "Broadcasting and Other Legislation Amendment (Deregulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-01",
+   "acts": [
+    "Broadcasting Legislation Amendment (Digital Radio) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Law Enforcement Legislation Amendment (State Bodies and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-10-17",
+   "acts": [
+    "Broadcasting Legislation Amendment (Broadcasting Reform) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-11-06",
+   "acts": [
+    "Competition and Consumer Amendment (Competition Policy Review) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-03-05",
+   "acts": [
+    "Broadcasting Legislation Amendment (Digital Radio) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Intelligence Services Amendment (Establishment of the Australian Signals Directorate) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-06-17",
+   "acts": [
+    "Radiocommunications Legislation Amendment (Reform and Modernisation) Act 2020",
+    "Radiocommunications Legislation Amendment (Reform and Modernisation) Act 2020",
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-06-30",
+   "acts": [
+    "Broadcasting Legislation Amendment (2021 Measures No. 1) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Radiocommunications Legislation Amendment (Reform and Modernisation) Act 2020",
+    "Radiocommunications Legislation Amendment (Reform and Modernisation) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-04-09",
+   "acts": [
+    "Broadcasting Services Amendment (Community Television) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

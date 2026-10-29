@@ -1,0 +1,108 @@
+{
+ "title_id": "C2004A03048",
+ "name": "Trust Recoupment Tax Assessment Act 1985",
+ "folder": "trust-recoupment-tax-assessment-act-1985",
+ "compilations": [
+  {
+   "in_force": "2010-12-17",
+   "register_id": "C2011C00049",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03048',start=2010-12-17,retrospectivestart=2010-12-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03048/2010-12-17/text",
+   "sha256": "5d417ff5d14cf04f69882174e6ec88f0fc2440b4627583bc481f1b27b4b01414"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00104",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03048',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03048/2015-12-10/text",
+   "sha256": "4278e8dfaec5d24dbb8ba3d5688d78fa786515f472e7cead2339f3b56a5ec734"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00969",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03048',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03048/2016-10-21/text",
+   "sha256": "75cf9656922dfb47a5f4ce177cb32185a156380b810e9e32001c8c7d555f009b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1985-04-05",
+   "acts": []
+  },
+  {
+   "in_force": "1986-11-04",
+   "acts": [
+    "Taxation Laws (Miscellaneous Provisions) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1989-06-21",
+   "acts": [
+    "Taxation Laws Amendment (Rates and Rebates) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1992-03-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "A New Tax System (Tax Administration) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Tax Administration) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangements) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

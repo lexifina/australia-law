@@ -1,0 +1,21 @@
+{
+ "title_id": "C2018A00156",
+ "name": "Office of National Intelligence (Consequential and Transitional Provisions) Act 2018",
+ "folder": "office-of-national-intelligence-consequential-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2018-12-10",
+   "register_id": "C2018A00156",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00156',start=2018-12-10,retrospectivestart=2018-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00156/2018-12-10/text",
+   "sha256": "19a5be947a776822ec0d8bfdd3b2c148ca125adb071eb0a73a53f2cbd2906e8f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,264 @@
+{
+ "title_id": "C2004A00518",
+ "name": "Superannuation (Unclaimed Money and Lost Members) Act 1999",
+ "folder": "superannuation-unclaimed-money-and-lost-members-act-1999",
+ "compilations": [
+  {
+   "in_force": "2021-12-08",
+   "register_id": "C2021C00577",
+   "compilation": "39",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00518',start=2021-12-08,retrospectivestart=2021-12-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00518/2021-12-08/text",
+   "sha256": "81c3f665e19732e4b0ed54828a52078fd69146aec1cebd257c46309ee5a211ae"
+  },
+  {
+   "in_force": "2021-12-11",
+   "register_id": "C2022C00013",
+   "compilation": "40",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00518',start=2021-12-11,retrospectivestart=2021-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00518/2021-12-11/text",
+   "sha256": "b5a75773a78839dc8c439f04a979d56dd631df310e2ce722c2b27860264eb202"
+  },
+  {
+   "in_force": "2022-03-05",
+   "register_id": "C2022C00104",
+   "compilation": "41",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00518',start=2022-03-05,retrospectivestart=2022-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00518/2022-03-05/text",
+   "sha256": "35f789ae1ee84037f03eb9dcc08122e7b54181682a70729dc9e2ce7f57ecebb1"
+  },
+  {
+   "in_force": "2022-09-28",
+   "register_id": "C2022C00273",
+   "compilation": "42",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00518',start=2022-09-28,retrospectivestart=2022-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00518/2022-09-28/text",
+   "sha256": "d9ef756f7d6bbafc18f3ff8150573487b126d6b66ecc58a973e51b865a914296"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-10-13",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Superannuation (Unclaimed Money and Lost Members) Consequential and Transitional Act 1999"
+   ]
+  },
+  {
+   "in_force": "2002-12-28",
+   "acts": [
+    "Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Australian Prudential Regulation Authority Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Tax Laws Amendment (Simplified Superannuation) Act 2007",
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-12-18",
+   "acts": [
+    "Temporary Residents' Superannuation Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-27",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-14",
+   "acts": [
+    "Tax Laws Amendment (2009 Budget Measures No. 2) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-11-17",
+   "acts": [
+    "Superannuation Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-12-05",
+   "acts": [
+    "Treasury Legislation Amendment (Unclaimed Money and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-30",
+   "acts": [
+    "Treasury Legislation Amendment (Unclaimed Money and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2013 Measures No. 1) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Tax Laws Amendment (Fairer Taxation of Excess Concessional Contributions) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Treasury Legislation Amendment (Repeal Day) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-31",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 4) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-12-31",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 4) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-04-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2016 Measures No. 2) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-04-01",
+   "acts": [
+    "Treasury Laws Amendment (2018 Measures No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-03-13",
+   "acts": [
+    "Treasury Laws Amendment (Protecting Your Superannuation Package) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-04-01",
+   "acts": [
+    "Treasury Laws Amendment (2018 Measures No. 4) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-10-03",
+   "acts": [
+    "Treasury Laws Amendment (Putting Members’ Interests First) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-10-29",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 2) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-06-23",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 6) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-23",
+   "acts": [
+    "Treasury Laws Amendment (Reuniting More Superannuation) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-03-29",
+   "acts": [
+    "Treasury Laws Amendment (Reuniting More Superannuation) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Self Managed Superannuation Funds) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,71 @@
+{
+ "title_id": "C2004A00621",
+ "name": "Adelaide Airport Curfew Act 2000",
+ "folder": "adelaide-airport-curfew-act-2000",
+ "compilations": [
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00260",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00621',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00621/2011-04-19/text",
+   "sha256": "44835abdeca26ae5a3f9fa2468398c046e8825d48aeaac481a75b4f80f530675"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00466",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00621',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00621/2016-03-10/text",
+   "sha256": "ba131a8edfcbccebc3dd21b1281b4eb2b73302f2e0aa141acc8a39a800c277d9"
+  },
+  {
+   "in_force": "2020-12-16",
+   "register_id": "C2021C00027",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00621',start=2020-12-16,retrospectivestart=2020-12-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00621/2020-12-16/text",
+   "sha256": "cd815fdbb714611e038fcba4e8746082a474c3b000f5e23c9cfcc78c69eddd84"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00472",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00621',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00621/2024-10-14/text",
+   "sha256": "82c507ea6434637cc6f8b7a9254e15f58b6133f315a2f2497764d31e9261667a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2000-04-19",
+   "acts": []
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2009-03-20",
+   "acts": [
+    "Aviation Legislation Amendment (International Airline Licences and Carriers' Liability Insurance) Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

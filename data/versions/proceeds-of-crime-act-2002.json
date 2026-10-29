@@ -1,0 +1,368 @@
+{
+ "title_id": "C2004A01022",
+ "name": "Proceeds of Crime Act 2002",
+ "folder": "proceeds-of-crime-act-2002",
+ "compilations": [
+  {
+   "in_force": "2026-03-31",
+   "register_id": "C2026C00107",
+   "compilation": "60",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01022',start=2026-03-31,retrospectivestart=2026-03-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01022/2026-03-31/text",
+   "sha256": "584aa4acf98dbc2191d726d6e6ac52fb78b540d06910b20356270d7a082c0b80"
+  },
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00385",
+   "compilation": "61",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01022',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01022/2026-08-27/text",
+   "sha256": "357bcbca71e466d1070ff0ef2ab42ac727afebca68f7da3d550e3896d6453211"
+  },
+  {
+   "in_force": "2026-09-23",
+   "register_id": "C2026C00438",
+   "compilation": "62",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01022',start=2026-09-23,retrospectivestart=2026-09-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01022/2026-09-23/text",
+   "sha256": "3ba3c10dbcf40f5ae2780e3d0dd81f59e2337c3d426e0f5e530a98cf61861c62"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2002-10-11",
+   "acts": []
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Crimes Legislation Enhancement Act 2003",
+    "Family Law Amendment (De Facto Financial Matters and Other Measures) Act 2008",
+    "Australian Crime Commission Establishment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Anti-terrorism Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-01",
+   "acts": [
+    "Bankruptcy Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-11-08",
+   "acts": [
+    "Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-11-16",
+   "acts": [
+    "Law and Justice Legislation Amendment (Video Link Evidence and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-06",
+   "acts": [
+    "Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-12-13",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-30",
+   "acts": [
+    "Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-04-16",
+   "acts": [
+    "Bankruptcy Legislation Amendment (Superannuation Contributions) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-26",
+   "acts": [
+    "Evidence Amendment (Journalists' Privilege) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-01",
+   "acts": [
+    "Family Law Amendment (De Facto Financial Matters and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-24",
+   "acts": [
+    "Trade Practices Amendment (Cartel Conduct and Other Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-04",
+   "acts": [
+    "Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-19",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act 2010",
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010",
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-05-19",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act 2010",
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-01",
+   "acts": [
+    "Anti-People Smuggling and Other Measures Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-25",
+   "acts": [
+    "National Security Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-06",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010",
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-04-05",
+   "acts": [
+    "Crimes Legislation Amendment (Powers and Offences) Act 2012",
+    "Crimes Legislation Amendment (Powers and Offences) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-08",
+   "acts": [
+    "Crimes Legislation Amendment (Slavery, Slavery-like Conditions and People Trafficking) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-02-26",
+   "acts": [
+    "Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-14",
+   "acts": [
+    "Civil Law and Justice (Omnibus Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-01",
+   "acts": [
+    "Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-12-01",
+   "acts": [
+    "Law Enforcement Legislation Amendment (State Bodies and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-03-29",
+   "acts": [
+    "Proceeds of Crime Amendment (Proceeds and Other Matters) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-10",
+   "acts": [
+    "Unexplained Wealth Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2021-02-17",
+   "acts": [
+    "Crimes Legislation Amendment (Economic Disruption) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-06-17",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing and Other Legislation Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2022-09-28",
+   "acts": [
+    "Family Law Amendment (Western Australia De Facto Superannuation Splitting and Bankruptcy) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2024-07-06",
+   "acts": [
+    "COAG Legislation Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-25",
+   "acts": [
+    "Crimes and Other Legislation Amendment (Omnibus No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-11-24",
+   "acts": [
+    "Crimes and Other Legislation Amendment (Omnibus No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-01-07",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2026-10-27",
+   "acts": [
+    "Customs and Other Legislation Amendment (Illicit Tobacco Enforcement Modernisation and Other Measures) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

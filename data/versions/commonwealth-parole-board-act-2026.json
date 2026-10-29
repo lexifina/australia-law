@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00032",
+ "name": "Commonwealth Parole Board Act 2026",
+ "folder": "commonwealth-parole-board-act-2026",
+ "compilations": [
+  {
+   "in_force": "2026-04-08",
+   "register_id": "C2026A00032",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00032',start=2026-04-08,retrospectivestart=2026-04-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00032/2026-04-08/text",
+   "sha256": "4a0c1877a6c4fd256be8eda4981600b67756ec67faecf21c6929580e38d4258a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

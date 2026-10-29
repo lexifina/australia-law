@@ -1,0 +1,145 @@
+{
+ "title_id": "C2004A05062",
+ "name": "Airports (Transitional) Act 1996",
+ "folder": "airports-transitional-act-1996",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00767",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05062',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05062/2016-07-01/text",
+   "sha256": "adaed6c6f59b539cb4bbffcd4676c457abd89a0a09c5075478e4f2c28a45f820"
+  },
+  {
+   "in_force": "2018-02-21",
+   "register_id": "C2018C00042",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05062',start=2018-02-21,retrospectivestart=2018-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05062/2018-02-21/text",
+   "sha256": "e99561c9aa2600083261313f0d08ada91f2ac336afc2fddad8eca5888b96612b"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00422",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05062',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05062/2026-09-19/text",
+   "sha256": "a0bece665fe40c57381022d8d941adaab43a08ebc32333804e49ac853dae4dbd"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1996-10-09",
+   "acts": []
+  },
+  {
+   "in_force": "1996-11-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-12-31",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Aviation Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Tax Law Improvement Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-04-16",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-05",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 6) 1999"
+   ]
+  },
+  {
+   "in_force": "2001-06-30",
+   "acts": [
+    "New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 6) Act 2007",
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-03-28",
+   "acts": [
+    "Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-09-16",
+   "acts": [
+    "Statute Stocktake Act (No. 1) 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

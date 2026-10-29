@@ -1,0 +1,59 @@
+{
+ "title_id": "C2004A00553",
+ "name": "Electronic Transactions Act 1999",
+ "folder": "electronic-transactions-act-1999",
+ "compilations": [
+  {
+   "in_force": "2000-03-15",
+   "register_id": "C2005C00484",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00553',start=2000-03-15,retrospectivestart=2000-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00553/2000-03-15/text",
+   "sha256": "c05c097e8e9013280b83ee76e30dc6c4a36d4b71d6f4ace5c93dc9afd349bc1e"
+  },
+  {
+   "in_force": "2007-07-01",
+   "register_id": "C2007C00371",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00553',start=2007-07-01,retrospectivestart=2007-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00553/2007-07-01/text",
+   "sha256": "dcfd4c592b035f6d6cbd5cbb92a986e4ee9b2be4b77b95feccc1f990d9a35748"
+  },
+  {
+   "in_force": "2011-06-22",
+   "register_id": "C2011C00445",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00553',start=2011-06-22,retrospectivestart=2011-06-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00553/2011-06-22/text",
+   "sha256": "cb2053daf2fedb8904c0577b5b23fc52e324acd93436941ffc7bbccc433d8c5d"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2026C00011",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00553',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00553/2025-12-05/text",
+   "sha256": "ee7e8a63c21d5ef3b065700a51770ab782b752abf11e76b390dc2bdf7dc012f2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-12-10",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

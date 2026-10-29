@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00066",
+ "name": "Environment Protection and Biodiversity Conservation (General Charges Imposition) Act 2025",
+ "folder": "environment-protection-and-biodiversity-conservation-general-charges",
+ "compilations": [
+  {
+   "in_force": "2025-12-01",
+   "register_id": "C2025A00066",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00066',start=2025-12-01,retrospectivestart=2025-12-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00066/2025-12-01/text",
+   "sha256": "dfe317d72248dc1cd77818b3d7e81deaff3c9dd19cfc11e54544f4476f6adfc7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

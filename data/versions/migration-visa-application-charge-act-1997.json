@@ -1,0 +1,48 @@
+{
+ "title_id": "C2004A05125",
+ "name": "Migration (Visa Application) Charge Act 1997",
+ "folder": "migration-visa-application-charge-act-1997",
+ "compilations": [
+  {
+   "in_force": "1997-05-01",
+   "register_id": "C2004C05339",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05125',start=1997-05-01,retrospectivestart=1997-05-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05125/1997-05-01/text",
+   "sha256": "3b65394d5351afad41cf67757437c832aad76bba0ce809bfc1dfda417e82a61a"
+  },
+  {
+   "in_force": "2003-03-20",
+   "register_id": "C2004C00885",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05125',start=2003-03-20,retrospectivestart=2003-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05125/2003-03-20/text",
+   "sha256": "0fc6f426aa617568a5d382e0ebc712eee2f62fa96db41d4db93cff1cbf8c952a"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00080",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05125',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05125/2015-12-10/text",
+   "sha256": "f8ee5bf59cef4f2854fbafe3bb1973e7ab62e93af95542c2eb37d544525b70fc"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-04-10",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

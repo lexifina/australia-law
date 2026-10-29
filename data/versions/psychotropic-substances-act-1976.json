@@ -1,0 +1,47 @@
+{
+ "title_id": "C2004A01518",
+ "name": "Psychotropic Substances Act 1976",
+ "folder": "psychotropic-substances-act-1976",
+ "compilations": [
+  {
+   "in_force": "1995-07-01",
+   "register_id": "C2004C00264",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01518',start=1995-07-01,retrospectivestart=1995-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01518/1995-07-01/text",
+   "sha256": "e0187b557946630f6671500c36f4994e7436fc89b2ebc8d734c11086cb951fef"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00461",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01518',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01518/2015-07-01/text",
+   "sha256": "c639f0158eec0645547211b63ca9b6b4cb981fe767bbfe8f8f697d3c7f1c5ab1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1985-06-10",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-05-13",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1976-08-25"
+ ],
+ "repeal": null
+}

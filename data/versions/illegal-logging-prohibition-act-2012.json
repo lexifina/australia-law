@@ -1,0 +1,66 @@
+{
+ "title_id": "C2012A00166",
+ "name": "Illegal Logging Prohibition Act 2012",
+ "folder": "illegal-logging-prohibition-act-2012",
+ "compilations": [
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00484",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00166',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00166/2021-09-01/text",
+   "sha256": "44062f741abc3ce40dfcb15422d5aa4fc370832e4314c492b8cfb5544c807150"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00507",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00166',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00166/2024-10-14/text",
+   "sha256": "efcdb6a6d52caf6c293e42b807d5c9ba178190de599486994dba140dce5f8f97"
+  },
+  {
+   "in_force": "2025-03-03",
+   "register_id": "C2025C00211",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00166',start=2025-03-03,retrospectivestart=2025-03-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00166/2025-03-03/text",
+   "sha256": "ec8c89d365c2d0e419d2c345305a2e094e10939b9e487df22d5e3ff4635556b0"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-11-28",
+   "acts": []
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,48 @@
+{
+ "title_id": "C2018A00085",
+ "name": "Underwater Cultural Heritage Act 2018",
+ "folder": "underwater-cultural-heritage-act-2018",
+ "compilations": [
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00538",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00085',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00085/2021-09-01/text",
+   "sha256": "959608e57bfc2c39e30a2c254a55328518f1f4ceeafcedd5bbd433ba758d588f"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00456",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00085',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00085/2024-10-14/text",
+   "sha256": "567b0352002a11ac6e9c794b5cabe046d1c5d63053fcc962a17b20599ee1cbab"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00239",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00085',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00085/2026-07-01/text",
+   "sha256": "c922db88315aad7a84b5db9e7a69992958a8f884554848b9d49bd13978a7e68b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2018-08-24",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

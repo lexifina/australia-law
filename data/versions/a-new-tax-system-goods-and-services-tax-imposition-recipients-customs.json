@@ -1,0 +1,21 @@
+{
+ "title_id": "C2005A00001",
+ "name": "A New Tax System (Goods and Services Tax Imposition (Recipients)—Customs) Act 2005",
+ "folder": "a-new-tax-system-goods-and-services-tax-imposition-recipients-customs",
+ "compilations": [
+  {
+   "in_force": "2005-02-18",
+   "register_id": "C2005A00001",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00001',start=2005-02-18,retrospectivestart=2005-02-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00001/2005-02-18/text",
+   "sha256": "d40524e6c9193b4b991514db2782a5096dd383895870611ca0a958c98ce358e0"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

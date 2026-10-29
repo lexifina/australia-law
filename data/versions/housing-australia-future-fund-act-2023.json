@@ -1,0 +1,43 @@
+{
+ "title_id": "C2023A00079",
+ "name": "Housing Australia Future Fund Act 2023",
+ "folder": "housing-australia-future-fund-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-09-28",
+   "register_id": "C2023A00079",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00079',start=2023-09-28,retrospectivestart=2023-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00079/2023-09-28/text",
+   "sha256": "ca9ccaf811ad17b240d8851a5fbc8237e44bbb24ca606a6fc6ea87866fc3527e"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00274",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00079',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00079/2024-07-06/text",
+   "sha256": "11725fbdb47e59517cfd310dbc0a03066f7d00230bb0f085235cfadbea5fc465"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00240",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00079',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00079/2026-07-01/text",
+   "sha256": "1c9a9d83bf56d82d8df5502745b33172a27a0a7fc21bc8b40359e43dc1f52350"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

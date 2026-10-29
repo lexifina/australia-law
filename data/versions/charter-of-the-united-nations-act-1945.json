@@ -1,0 +1,97 @@
+{
+ "title_id": "C1945A00032",
+ "name": "Charter of the United Nations Act 1945",
+ "folder": "charter-of-the-united-nations-act-1945",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00609",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1945A00032',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1945A00032/2014-07-01/text",
+   "sha256": "07c3189a90881f6cd9b7c2e2f1c0f2e0ec9c32fbc7a2d2838144466fa4313451"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00316",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1945A00032',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1945A00032/2016-03-05/text",
+   "sha256": "5955b78e82d752e0957a4ffd90de74ee9eb1255746327773937954efb10f194a"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00742",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1945A00032',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1945A00032/2016-07-01/text",
+   "sha256": "ded87f296417b59574b946b30d404c9a699ad354799d8676bb6f112cd6532c1f"
+  },
+  {
+   "in_force": "2021-09-14",
+   "register_id": "C2021C00518",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1945A00032',start=2021-09-14,retrospectivestart=2021-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1945A00032/2021-09-14/text",
+   "sha256": "db91d69c100f24c79cfd9c82656d8d69a74f30ac1e3ad94ecc92af05936374d8"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1945-09-24",
+   "acts": []
+  },
+  {
+   "in_force": "1993-06-09",
+   "acts": [
+    "Charter of the United Nations Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-12-13",
+   "acts": [
+    "Suppression of the Financing of Terrorism Act 2002",
+    "Charter of the United Nations Amendment Act 2002",
+    null
+   ]
+  },
+  {
+   "in_force": "2008-03-24",
+   "acts": [
+    "International Trade Integrity Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-25",
+   "acts": [
+    "National Security Legislation Amendment Act 2010"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00800",
+ "name": "Coal Industry Repeal Act 2001",
+ "folder": "coal-industry-repeal-act-2001",
+ "compilations": [
+  {
+   "in_force": "2001-04-28",
+   "register_id": "C2004A00800",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00800',start=2001-04-28,retrospectivestart=2001-04-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00800/2001-04-28/text",
+   "sha256": "0bb5fdd6e1a80d0c74c3c1aec946fd1546b5064e9323f27a22addb1e38b7143b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

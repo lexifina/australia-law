@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A04316",
+ "name": "Mutual Assistance in Business Regulation Act 1992",
+ "folder": "mutual-assistance-in-business-regulation-act-1992",
+ "compilations": [
+  {
+   "in_force": "2013-07-19",
+   "register_id": "C2013C00385",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04316',start=2013-07-19,retrospectivestart=2013-07-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04316/2013-07-19/text",
+   "sha256": "425475b9ff47a58a84bd9fc00e02ef319ea71d3fa3bedcdda762c049e2af0fe4"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01086",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04316',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04316/2016-10-21/text",
+   "sha256": "6dd3350f1faaa78bd09e65ee007e2b131cbe06f8c80e1cad697904afd82fd819"
+  },
+  {
+   "in_force": "2019-07-01",
+   "register_id": "C2019C00210",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04316',start=2019-07-01,retrospectivestart=2019-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04316/2019-07-01/text",
+   "sha256": "1d8209a8392c0aab921d564e2e97e395e9fbe6447a88890fd185484eb32c8245"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-05-12",
+   "acts": []
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-06-03",
+   "acts": [
+    "Crimes Legislation Enhancement Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-11-08",
+   "acts": [
+    "Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2013-01-03",
+   "acts": [
+    "Corporations Legislation Amendment (Derivative Transactions) Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

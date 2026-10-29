@@ -1,0 +1,21 @@
+{
+ "title_id": "C2007A00006",
+ "name": "Export Finance and Insurance Corporation Amendment Act 2007",
+ "folder": "export-finance-and-insurance-corporation-amendment-act-2007",
+ "compilations": [
+  {
+   "in_force": "2007-02-19",
+   "register_id": "C2007A00006",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00006',start=2007-02-19,retrospectivestart=2007-02-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00006/2007-02-19/text",
+   "sha256": "61627f969df38a5c35486d4aa2f12edf65bac30ee12988bd7341269b06a8851d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

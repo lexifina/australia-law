@@ -1,0 +1,43 @@
+{
+ "title_id": "C1966A00025",
+ "name": "Asian Development Bank Act 1966",
+ "folder": "asian-development-bank-act-1966",
+ "compilations": [
+  {
+   "in_force": "1966-05-24",
+   "register_id": "C1966A00025",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1966A00025',start=1966-05-24,retrospectivestart=1966-05-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1966A00025/1966-05-24/text",
+   "sha256": "516fad48032944f4c1358421b10ff3955fb286b278d5510f60f2f5fe49ff30de"
+  },
+  {
+   "in_force": "2024-07-10",
+   "register_id": "C2024C00299",
+   "compilation": "1",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1966A00025',start=2024-07-10,retrospectivestart=2024-07-10,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1966A00025/2024-07-10/text",
+   "sha256": "bcb8f05b39ea8808dfe01168d7aec25f24b89571b440a4a9b98f84c0f72ed304"
+  },
+  {
+   "in_force": "2026-04-09",
+   "register_id": "C2026C00167",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1966A00025',start=2026-04-09,retrospectivestart=2026-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1966A00025/2026-04-09/text",
+   "sha256": "c3d6f609fa079b9f42d81b011d0ab284c6eb51c0c7e9cd23743d6f5b46fbf241"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

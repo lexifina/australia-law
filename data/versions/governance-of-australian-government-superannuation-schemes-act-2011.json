@@ -1,0 +1,66 @@
+{
+ "title_id": "C2011A00059",
+ "name": "Governance of Australian Government Superannuation Schemes Act 2011",
+ "folder": "governance-of-australian-government-superannuation-schemes-act-2011",
+ "compilations": [
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00429",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00059',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00059/2015-07-01/text",
+   "sha256": "1fddb8f289a7655595bfab04567fb4438e9c8dcae29337d93e7703a000c49d8b"
+  },
+  {
+   "in_force": "2015-09-11",
+   "register_id": "C2015C00497",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00059',start=2015-09-11,retrospectivestart=2015-09-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00059/2015-09-11/text",
+   "sha256": "a30e2e1cac3cf17e2718298c11445c4471d3be86586afa28d9d5994b10d868f6"
+  },
+  {
+   "in_force": "2020-07-01",
+   "register_id": "C2020C00223",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00059',start=2020-07-01,retrospectivestart=2020-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00059/2020-07-01/text",
+   "sha256": "f4e354a7082a9083bc98cdc0341e7550e85681be3312091c71890f8ef68a0737"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-06-28",
+   "acts": []
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

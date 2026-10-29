@@ -1,0 +1,164 @@
+{
+ "title_id": "C2004A04652",
+ "name": "Financial Corporations (Transfer of Assets and Liabilities) Act 1993",
+ "folder": "financial-corporations-transfer-of-assets-and-liabilities-act-1993",
+ "compilations": [
+  {
+   "in_force": "2006-09-14",
+   "register_id": "C2006C00531",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04652',start=2006-09-14,retrospectivestart=2006-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04652/2006-09-14/text",
+   "sha256": "9f5aadcf57295d214e4ba2cf63238de2ae66c09f7aa6b8288af335b185aedfeb"
+  },
+  {
+   "in_force": "2006-12-12",
+   "register_id": "C2006C00745",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04652',start=2006-12-12,retrospectivestart=2006-12-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04652/2006-12-12/text",
+   "sha256": "f4159721acd2dd4339103b80cbfae567b1c2c1eae917931be34ffd9afdef5042"
+  },
+  {
+   "in_force": "2016-05-06",
+   "register_id": "C2016C00633",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04652',start=2016-05-06,retrospectivestart=2016-05-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04652/2016-05-06/text",
+   "sha256": "19568ef09131c8ef284e6df50dac687d3479dca1a7f7f32f88b3e9e03407b560"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1993-12-22",
+   "acts": []
+  },
+  {
+   "in_force": "1997-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1997",
+    "Financial Laws Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997",
+    "Tax Law Improvement Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-04-16",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1998-06-22",
+   "acts": [
+    "Tax Law Improvement Act (No. 1) 1998",
+    "Tax Law Improvement Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998",
+    "Financial Sector Reform (Consequential Amendments) Act 1998",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "1998-12-22",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "1999-02-22",
+   "acts": [
+    "New Business Tax System (Integrity and Other Measures) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-04-03",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "Financial Corporations (Transfer of Assets and Liabilities) Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-10-24",
+   "acts": [
+    "New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002",
+    "New Business Tax System (Consolidation and Other Measures) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Australian Prudential Regulation Authority Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-12-17",
+   "acts": [
+    "New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2004-06-25",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 2) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-03-18",
+   "acts": [
+    "New International Tax Arrangements (Managed Funds and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-21",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2005-12-19",
+   "acts": [
+    "Tax Laws Amendment (2005 Measures No. 5) Act 2005"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

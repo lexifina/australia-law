@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A01465",
+ "name": "Defence Force Retirement and Death Benefits (Pension Increases) Act 1976",
+ "folder": "defence-force-retirement-and-death-benefits-pension-increases-act-1976",
+ "compilations": [
+  {
+   "in_force": "1973-07-01",
+   "register_id": "C2004A01465",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01465',start=1973-07-01,retrospectivestart=1973-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01465/1973-07-01/text",
+   "sha256": "ced244de5103c2cd4af7bb6798b5e2f104891141bc7e138c3966f0db06dd9028"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00054",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01465',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01465/2015-12-10/text",
+   "sha256": "365717d4afd13f9550ffb47736348f9f2a22b9d22f347a2f0e96d88d9112185b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

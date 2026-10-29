@@ -1,0 +1,576 @@
+{
+ "title_id": "C1901A00002",
+ "name": "Acts Interpretation Act 1901",
+ "folder": "acts-interpretation-act-1901",
+ "compilations": [
+  {
+   "in_force": "2001-10-29",
+   "register_id": "C2004C01600",
+   "compilation": "17",
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2001-10-29,retrospectivestart=2001-10-29,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2001-10-29/text",
+   "sha256": "d6e495f20476c64992c5680d18584759300d22caf5bc475e242f43b821b9d4cf"
+  },
+  {
+   "in_force": "2003-07-07",
+   "register_id": "C2004C01601",
+   "compilation": "18",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2003-07-07,retrospectivestart=2003-07-07,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2003-07-07/text",
+   "sha256": "6d8434500be2e86d7a4a3dee4a33a1cdfa4f235e3cbff2b3e18a9fe3e07dbd9d"
+  },
+  {
+   "in_force": "2005-01-01",
+   "register_id": "C2005C00007",
+   "compilation": "19",
+   "rectification": 3,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2005-01-01,retrospectivestart=2005-01-01,rectificationversionnumber=3,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2005-01-01/text",
+   "sha256": "a631127dfc1abdd30dab8e5b8335193dc0dfe7e45cbf2f101edb49bef0f5ab9b"
+  },
+  {
+   "in_force": "2005-02-22",
+   "register_id": "C2005C00206",
+   "compilation": "20",
+   "rectification": 3,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2005-02-22,retrospectivestart=2005-02-22,rectificationversionnumber=3,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2005-02-22/text",
+   "sha256": "6425ce194540e8a885721cab8cbe029593e6329e7f1a2e7124764154480aecad"
+  },
+  {
+   "in_force": "2005-11-15",
+   "register_id": "C2008C00384",
+   "compilation": "21",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2005-11-15,retrospectivestart=2005-11-15,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2005-11-15/text",
+   "sha256": "f82790b6a4893dfeb060e9fa1de81a33088af3fbb10ec8eb62efd8254367e79f"
+  },
+  {
+   "in_force": "2008-12-04",
+   "register_id": "C2008C00640",
+   "compilation": "22",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2008-12-04,retrospectivestart=2008-12-04,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2008-12-04/text",
+   "sha256": "13de4c8733ba5568723a800380f2eab0ec093c3c13d5b3166e9c135e6a1af608"
+  },
+  {
+   "in_force": "2009-12-04",
+   "register_id": "C2009C00554",
+   "compilation": "23",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2009-12-04,retrospectivestart=2009-12-04,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2009-12-04/text",
+   "sha256": "56c8ced5bdc78e0d5150d7de6e8f996faac708ba77534abb68a41abd09cb3941"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00001",
+   "compilation": "24",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2011-12-27/text",
+   "sha256": "70169d8d6e30f717c4ddfb1eb159ce4aa7e8ae8667f517c47c090565a2d7c5fd"
+  },
+  {
+   "in_force": "2013-04-12",
+   "register_id": "C2013C00210",
+   "compilation": "25",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2013-04-12,retrospectivestart=2013-04-12,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2013-04-12/text",
+   "sha256": "3b098897e8953ede09ff6c9012d1c6120b4623ff54591c8cc2dffb74b741b4e7"
+  },
+  {
+   "in_force": "2014-01-01",
+   "register_id": "C2014C00006",
+   "compilation": "26",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2014-01-01,retrospectivestart=2014-01-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2014-01-01/text",
+   "sha256": "4aa72ecef8c2bb8645cb24e731c4ed0ca2b910b7d9ed542bfb4bf92be6f6cb21"
+  },
+  {
+   "in_force": "2014-03-12",
+   "register_id": "C2014C00077",
+   "compilation": "27",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2014-03-12,retrospectivestart=2014-03-12,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2014-03-12/text",
+   "sha256": "533e18cdc92ebc101f9d01d780523f43a49f55a7637137c2bb60622a425365a2"
+  },
+  {
+   "in_force": "2015-03-25",
+   "register_id": "C2015C00090",
+   "compilation": "28",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2015-03-25,retrospectivestart=2015-03-25,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2015-03-25/text",
+   "sha256": "e777c5b2f51889cd8d1959b5b83c68a830391c09ce1fa3433ab12a05e0646446"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00151",
+   "compilation": "29",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2016-03-05/text",
+   "sha256": "23f7fb7696b6676a0b090ba713b56bb5511afdd3fc1d10389359434e66b274db"
+  },
+  {
+   "in_force": "2016-05-01",
+   "register_id": "C2016C00531",
+   "compilation": "30",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2016-05-01,retrospectivestart=2016-05-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2016-05-01/text",
+   "sha256": "0b35f9ee5217fac0087230450735ac8406f0fb856f903366e86bccb0cb21057b"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00691",
+   "compilation": "31",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2016-07-01/text",
+   "sha256": "79ad8b4ffd2511bdb70bad7206e862a499f0d20663051428fd7923b8edc6c48b"
+  },
+  {
+   "in_force": "2017-12-09",
+   "register_id": "C2017C00387",
+   "compilation": "32",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2017-12-09,retrospectivestart=2017-12-09,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2017-12-09/text",
+   "sha256": "3f3ed17d1a232f75f8568383d4508c839adb54afbcbb0d1a1f4ecef6405f98a3"
+  },
+  {
+   "in_force": "2018-07-01",
+   "register_id": "C2018C00245",
+   "compilation": "33",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2018-07-01,retrospectivestart=2018-07-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2018-07-01/text",
+   "sha256": "3baa676de7296df77c9e21e1edf7814757615d12292d602f5343d06179adb74b"
+  },
+  {
+   "in_force": "2018-08-25",
+   "register_id": "C2018C00348",
+   "compilation": "34",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2018-08-25,retrospectivestart=2018-08-25,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2018-08-25/text",
+   "sha256": "5e90ae94e6f077e654f10b5a7e366bbb0be348405485e69779a89e17d76483a5"
+  },
+  {
+   "in_force": "2018-10-26",
+   "register_id": "C2018C00429",
+   "compilation": "35",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2018-10-26,retrospectivestart=2018-10-26,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2018-10-26/text",
+   "sha256": "b6b9380a93e110e700c52fed66080dce1fe032de32093563f1cf3811df5ed017"
+  },
+  {
+   "in_force": "2018-12-20",
+   "register_id": "C2019C00028",
+   "compilation": "36",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2018-12-20,retrospectivestart=2018-12-20,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2018-12-20/text",
+   "sha256": "4c92e0a691b7ea5cfd418f464c1e7e00e6026c8eae079b92f82c4406e08ece54"
+  },
+  {
+   "in_force": "2023-08-12",
+   "register_id": "C2023C00213",
+   "compilation": "37",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2023-08-12,retrospectivestart=2023-08-12,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2023-08-12/text",
+   "sha256": "3802e9b62e31cb92bd5342abab6a2128eb5d0bd1ad83bc73ed01544c6435f918"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00838",
+   "compilation": "38",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2024-12-11/text",
+   "sha256": "28ec6ee3a6b38051f0b7a0e67f07b3702703845ffe0d20fa2d5e4d822d8cc1a9"
+  },
+  {
+   "in_force": "2026-03-28",
+   "register_id": "C2026C00117",
+   "compilation": "39",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1901A00002',start=2026-03-28,retrospectivestart=2026-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1901A00002/2026-03-28/text",
+   "sha256": "0a539017208dede8d9607aba17e53c20ea1a80f087ba83800ee3086d82499f9d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1901-07-12",
+   "acts": []
+  },
+  {
+   "in_force": "1916-05-30",
+   "acts": [
+    "Acts Interpretation Act 1916"
+   ]
+  },
+  {
+   "in_force": "1918-06-11",
+   "acts": [
+    "Acts Interpretation Act 1918"
+   ]
+  },
+  {
+   "in_force": "1930-08-14",
+   "acts": [
+    "Acts Interpretation Act 1930"
+   ]
+  },
+  {
+   "in_force": "1930-10-27",
+   "acts": [
+    "Acts Interpretation Act 1930"
+   ]
+  },
+  {
+   "in_force": "1932-05-30",
+   "acts": [
+    "Acts Interpretation Act 1932"
+   ]
+  },
+  {
+   "in_force": "1937-10-11",
+   "acts": [
+    "Acts Interpretation Act 1937"
+   ]
+  },
+  {
+   "in_force": "1939-09-03",
+   "acts": [
+    "Acts Interpretation Act 1941"
+   ]
+  },
+  {
+   "in_force": "1941-04-04",
+   "acts": [
+    "Acts Interpretation Act 1941"
+   ]
+  },
+  {
+   "in_force": "1948-01-01",
+   "acts": [
+    "Defence (Transitional Provisions) Act 1947"
+   ]
+  },
+  {
+   "in_force": "1949-01-14",
+   "acts": [
+    "Acts Interpretation Act 1948"
+   ]
+  },
+  {
+   "in_force": "1950-12-31",
+   "acts": [
+    "Statute Law Revision Act 1950"
+   ]
+  },
+  {
+   "in_force": "1957-12-05",
+   "acts": [
+    "Acts Interpretation Act 1957"
+   ]
+  },
+  {
+   "in_force": "1963-06-25",
+   "acts": [
+    "Acts Interpretation Act 1963"
+   ]
+  },
+  {
+   "in_force": "1964-06-27",
+   "acts": [
+    "Acts Interpretation Act 1964"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-06-19",
+   "acts": [
+    "Acts Interpretation Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-07-01",
+   "acts": [
+    "Acts Interpretation Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-07-01",
+   "acts": [
+    "Acts Citation Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-12-06",
+   "acts": [
+    "Acts Interpretation Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-07-01",
+   "acts": [
+    "Acts Interpretation Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Acts Interpretation Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1980-01-01",
+   "acts": [
+    "Acts Interpretation Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1982-09-22",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-12",
+   "acts": [
+    "Acts Interpretation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1987-07-24",
+   "acts": [
+    "Administrative Arrangements Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Crimes Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1989-06-30",
+   "acts": [
+    "Crimes Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-12-21",
+   "acts": [
+    "Statute Law Revision Act 2002",
+    "Law and Justice Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-01",
+   "acts": [
+    "Corporations Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-10-10",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Territories Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-06-23",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995",
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-12-21",
+   "acts": [
+    "Acts Interpretation Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-11-24",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

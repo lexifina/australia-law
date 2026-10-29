@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00775",
+ "name": "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001",
+ "folder": "defence-legislation-amendment-enhancement-of-the-reserves-and",
+ "compilations": [
+  {
+   "in_force": "2001-03-22",
+   "register_id": "C2004A00775",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00775',start=2001-03-22,retrospectivestart=2001-03-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00775/2001-03-22/text",
+   "sha256": "b8306e97ea05b4a65dc76b7f20913fe8a4a430d0a65a720b3848111e48837f6f"
+  },
+  {
+   "in_force": "2001-04-19",
+   "register_id": "C2004C01249",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00775',start=2001-04-19,retrospectivestart=2001-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00775/2001-04-19/text",
+   "sha256": "8463a00508f1792cabd2cf8a9dda580ef4b38a6fd31c24129708cc5728024fe2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

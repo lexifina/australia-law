@@ -1,0 +1,89 @@
+{
+ "title_id": "C1959A00052",
+ "name": "Statutory Declarations Act 1959",
+ "folder": "statutory-declarations-act-1959",
+ "compilations": [
+  {
+   "in_force": "1996-10-25",
+   "register_id": "C2004C07084",
+   "compilation": "6",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00052',start=1996-10-25,retrospectivestart=1996-10-25,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00052/1996-10-25/text",
+   "sha256": "8e51c53781a8293a81819285f5729ef1395fd9a39ec48c04d9d519b4cf8fa3ce"
+  },
+  {
+   "in_force": "2001-05-24",
+   "register_id": "C2004C07085",
+   "compilation": "7",
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00052',start=2001-05-24,retrospectivestart=2001-05-24,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00052/2001-05-24/text",
+   "sha256": "1e8487329cb705cbf49a5da523a452b7f18e9621ed8dbf812779c6ea200c7f00"
+  },
+  {
+   "in_force": "2004-11-26",
+   "register_id": "C2004C00189",
+   "compilation": "7A",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00052',start=2004-11-26,retrospectivestart=2004-11-26,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00052/2004-11-26/text",
+   "sha256": "f71adcfee9bf279e0a2f463e7a6182bc5c567ae36181f4a734d4e14307406513"
+  },
+  {
+   "in_force": "2024-01-01",
+   "register_id": "C2024C00005",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00052',start=2024-01-01,retrospectivestart=2024-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00052/2024-01-01/text",
+   "sha256": "92f21ba8512e8e9e0942e5734f8143954eee2eeaffd356d7f7d0fc002fc52e84"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1959-05-22",
+   "acts": []
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1990-12-21",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-12-12",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-01-08",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 3) 1992"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2016A00048",
+ "name": "Income Tax (Attribution Managed Investment Trusts—Offsets) Act 2016",
+ "folder": "income-tax-attribution-managed-investment-trustsoffsets-act-2016",
+ "compilations": [
+  {
+   "in_force": "2016-05-05",
+   "register_id": "C2016A00048",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00048',start=2016-05-05,retrospectivestart=2016-05-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00048/2016-05-05/text",
+   "sha256": "0068c02d57dca45f1b18bfc9b1493221643ed196863293e76b3a2b03366b2349"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

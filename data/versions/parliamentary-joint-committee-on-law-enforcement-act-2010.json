@@ -1,0 +1,54 @@
+{
+ "title_id": "C2010A00128",
+ "name": "Parliamentary Joint Committee on Law Enforcement Act 2010",
+ "folder": "parliamentary-joint-committee-on-law-enforcement-act-2010",
+ "compilations": [
+  {
+   "in_force": "2019-12-10",
+   "register_id": "C2020C00060",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00128',start=2019-12-10,retrospectivestart=2019-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00128/2019-12-10/text",
+   "sha256": "72c30133ea4949f24895f6e56982eb5454873a3d25d762ddd389936f5872fe8a"
+  },
+  {
+   "in_force": "2022-12-10",
+   "register_id": "C2022C00355",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00128',start=2022-12-10,retrospectivestart=2022-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00128/2022-12-10/text",
+   "sha256": "d4a6d5da4091b36074b8adf0aec920f5bb7ed37e54ec071322760c896ff5b84d"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00211",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00128',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00128/2026-06-04/text",
+   "sha256": "b67009c7cdf9c1358a3597c6f913e740e55b56f07f6fd16170491a242c770765"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2010-11-24",
+   "acts": []
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

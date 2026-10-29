@@ -1,0 +1,30 @@
+{
+ "title_id": "C2004A00034",
+ "name": "Papua New Guinea (Transfer of Banking Business) Act 1973",
+ "folder": "papua-new-guinea-transfer-of-banking-business-act-1973",
+ "compilations": [
+  {
+   "in_force": "1996-07-19",
+   "register_id": "C2004C00235",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00034',start=1996-07-19,retrospectivestart=1996-07-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00034/1996-07-19/text",
+   "sha256": "a38562ca25793c360175aaf13401f611562586180a2e5edcc708344a6c44ab0e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-12-31",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1973-10-26"
+ ],
+ "repeal": null
+}

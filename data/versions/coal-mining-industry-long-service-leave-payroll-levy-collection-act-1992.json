@@ -1,0 +1,102 @@
+{
+ "title_id": "C2004A04352",
+ "name": "Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992",
+ "folder": "coal-mining-industry-long-service-leave-payroll-levy-collection-act-1992",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00578",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04352',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04352/2024-10-14/text",
+   "sha256": "448f6584eed5a2c7f6089259829b26f4d21c40afc9a0d15b64db91a2a9df5070"
+  },
+  {
+   "in_force": "2026-07-07",
+   "register_id": "C2026C00338",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04352',start=2026-07-07,retrospectivestart=2026-07-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04352/2026-07-07/text",
+   "sha256": "a33102b11a5a46e099675008816b5eebafac3e91607179a6dfbd0dedbe0e0a40"
+  },
+  {
+   "in_force": "2026-09-01",
+   "register_id": "C2026C00364",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04352',start=2026-09-01,retrospectivestart=2026-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04352/2026-09-01/text",
+   "sha256": "24ba7603efed860e1ead19937ac8a7e020f84c34a937248d9a3acaf35d422e87"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-06-26",
+   "acts": []
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Coal Mining Industry (Long Service Leave) Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2018-11-06",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Fair Work Legislation Amendment (Protecting Worker Entitlements) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

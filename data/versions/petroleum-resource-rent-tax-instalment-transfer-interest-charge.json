@@ -1,0 +1,21 @@
+{
+ "title_id": "C2006A00079",
+ "name": "Petroleum Resource Rent Tax (Instalment Transfer Interest Charge Imposition) Act 2006",
+ "folder": "petroleum-resource-rent-tax-instalment-transfer-interest-charge",
+ "compilations": [
+  {
+   "in_force": "2006-06-30",
+   "register_id": "C2006A00079",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00079',start=2006-06-30,retrospectivestart=2006-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00079/2006-06-30/text",
+   "sha256": "210039dcf7b8039b320778eac20b29841304d31b8db6751d74a8dfafb0060dea"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

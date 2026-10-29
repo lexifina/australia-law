@@ -1,0 +1,21 @@
+{
+ "title_id": "C2009A00029",
+ "name": "Customs Tariff Validation Act 2009",
+ "folder": "customs-tariff-validation-act-2009",
+ "compilations": [
+  {
+   "in_force": "2009-05-13",
+   "register_id": "C2009A00029",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00029',start=2009-05-13,retrospectivestart=2009-05-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00029/2009-05-13/text",
+   "sha256": "9447f87579fcbb04d07c3c70e2ee09268d867ff5ce04b91a01eff52254802f78"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

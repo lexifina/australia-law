@@ -1,0 +1,128 @@
+{
+ "title_id": "C2004A00448",
+ "name": "A New Tax System (Goods and Services Tax Transition) Act 1999",
+ "folder": "a-new-tax-system-goods-and-services-tax-transition-act-1999",
+ "compilations": [
+  {
+   "in_force": "2006-07-01",
+   "register_id": "C2006C00409",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00448',start=2006-07-01,retrospectivestart=2006-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00448/2006-07-01/text",
+   "sha256": "21f2ee66af3a39db62c916ba855293be9fecd8561b047d323c66d42f150691de"
+  },
+  {
+   "in_force": "2006-09-14",
+   "register_id": "C2006C00523",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00448',start=2006-09-14,retrospectivestart=2006-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00448/2006-09-14/text",
+   "sha256": "0efa2d7a3214c1a96ad4f2f73067678528471d826b663ad0d658af84ed648230"
+  },
+  {
+   "in_force": "2009-11-17",
+   "register_id": "C2009C00517",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00448',start=2009-11-17,retrospectivestart=2009-11-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00448/2009-11-17/text",
+   "sha256": "1465c09103c4000fda98ffcf4a7b3088c2852f9d7a0d5fa16e1aa5d52c717e06"
+  },
+  {
+   "in_force": "2017-01-01",
+   "register_id": "C2017C00021",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00448',start=2017-01-01,retrospectivestart=2017-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00448/2017-01-01/text",
+   "sha256": "adecc69a29c3b81389e0a8386263539d172928b761cc6c76445f4d389fc7d01b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-07-08",
+   "acts": []
+  },
+  {
+   "in_force": "1999-07-09",
+   "acts": [
+    "Indirect Tax Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-06-30",
+   "acts": [
+    "Indirect Tax Legislation Amendment Act 2000",
+    "Indirect Tax Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 8) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-09",
+   "acts": [
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999",
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 8) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-23",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 2001"
+   ]
+  },
+  {
+   "in_force": "2002-11-10",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 2002"
+   ]
+  },
+  {
+   "in_force": "2003-04-02",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 6) 2003"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005",
+    "Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

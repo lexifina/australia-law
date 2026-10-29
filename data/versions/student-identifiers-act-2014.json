@@ -1,0 +1,86 @@
+{
+ "title_id": "C2014A00036",
+ "name": "Student Identifiers Act 2014",
+ "folder": "student-identifiers-act-2014",
+ "compilations": [
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00535",
+   "compilation": "7",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00036',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00036/2021-09-01/text",
+   "sha256": "fe9c7d316a88478613514af698b9a5045671461c9edd950be76446a5109209ce"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00494",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00036',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00036/2024-10-14/text",
+   "sha256": "1d2406db2da3d6791ae09e0128b663a09f6f22332660dbea075a4085afa610d5"
+  },
+  {
+   "in_force": "2025-06-10",
+   "register_id": "C2025C00374",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00036',start=2025-06-10,retrospectivestart=2025-06-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00036/2025-06-10/text",
+   "sha256": "b94c854709a76220ace967ed97b1c30dcc0c43f512d3814241d771b7394db29e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2014-06-25",
+   "acts": []
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "VET Student Loans (Consequential Amendments and Transitional Provisions) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2020-03-07",
+   "acts": [
+    "Student Identifiers Amendment (Higher Education) Act 2020",
+    "Student Identifiers Amendment (Higher Education) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-05-26",
+   "acts": [
+    "Student Identifiers Amendment (Higher Education) Act 2020",
+    "Student Identifiers Amendment (Enhanced Student Permissions) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Education Legislation Amendment (Up-front Payments Tuition Protection) Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

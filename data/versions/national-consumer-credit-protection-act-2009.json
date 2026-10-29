@@ -1,0 +1,340 @@
+{
+ "title_id": "C2009A00134",
+ "name": "National Consumer Credit Protection Act 2009",
+ "folder": "national-consumer-credit-protection-act-2009",
+ "compilations": [
+  {
+   "in_force": "2025-06-10",
+   "register_id": "C2025C00373",
+   "compilation": "50",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00134',start=2025-06-10,retrospectivestart=2025-06-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00134/2025-06-10/text",
+   "sha256": "418ded308fb6757220d7a236cb1c1aa86a37daebccb09460f5bdb228cf72d485"
+  },
+  {
+   "in_force": "2026-06-30",
+   "register_id": "C2026C00296",
+   "compilation": "51",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00134',start=2026-06-30,retrospectivestart=2026-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00134/2026-06-30/text",
+   "sha256": "bf6b8ef7cf01e0821e669ac6eeb679bba7e1e0503fa191b8b59388d2ddb29ccb"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00340",
+   "compilation": "52",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00134',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00134/2026-07-01/text",
+   "sha256": "e5c797000a83bf83682e34ca67a7212e6e81619788a525272ce9355d98534587"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2009-12-15",
+   "acts": []
+  },
+  {
+   "in_force": "2010-03-03",
+   "acts": [
+    "National Consumer Credit Protection Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-18",
+   "acts": [
+    "Consumer Credit Legislation Amendment (Enhancements) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-01",
+   "acts": [
+    "Consumer Credit Legislation Amendment (Enhancements) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Consumer Credit Legislation Amendment (Enhancements) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Insolvency Law Reform Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "ASIC Supervisory Cost Recovery Levy (Consequential Amendments) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-03-06",
+   "acts": [
+    "Treasury Laws Amendment (Putting Consumers First—Establishment of the Australian Financial Complaints Authority) Act 2018",
+    "Treasury Laws Amendment (Putting Consumers First—Establishment of the Australian Financial Complaints Authority) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Banking Measures No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-01-01",
+   "acts": [
+    "Treasury Laws Amendment (Banking Measures No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-03-13",
+   "acts": [
+    "Treasury Laws Amendment (Strengthening Corporate and Financial Sector Penalties) Act 2019",
+    "Treasury Laws Amendment (Strengthening Corporate and Financial Sector Penalties) Act 2019",
+    "Treasury Laws Amendment (Strengthening Corporate and Financial Sector Penalties) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Treasury Laws Amendment (Strengthening Corporate and Financial Sector Penalties) Act 2019",
+    "Treasury Laws Amendment (2019 Measures No. 1) Act 2019",
+    "Treasury Laws Amendment (Design and Distribution Obligations and Product Intervention Powers) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-18",
+   "acts": [
+    "Financial Sector Reform (Hayne Royal Commission Response—Protecting Consumers (2019 Measures)) Act 2020",
+    "Financial Sector Reform (Hayne Royal Commission Response—Stronger Regulators (2019 Measures)) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-02-27",
+   "acts": [
+    "Treasury Laws Amendment (2018 Measures No. 2) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-06-23",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 6) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Financial Sector Reform (Hayne Royal Commission Response) Act 2020",
+    "Financial Sector Reform (Hayne Royal Commission Response) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-02-17",
+   "acts": [
+    "National Consumer Credit Protection Amendment (Mandatory Credit Reporting and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-04-04",
+   "acts": [
+    "Treasury Laws Amendment (Registries Modernisation and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 4) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-08-02",
+   "acts": [
+    "Territories Legislation Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-10-01",
+   "acts": [
+    "Financial Sector Reform (Hayne Royal Commission Response) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-12-08",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 5) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-01",
+   "acts": [
+    "Financial Sector Reform (Hayne Royal Commission Response—Better Advice) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-02-23",
+   "acts": [
+    "Corporate Collective Investment Vehicle Framework and Other Measures Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-06-22",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2022-07-01",
+   "acts": [
+    "National Consumer Credit Protection Amendment (Mandatory Credit Reporting and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-12-13",
+   "acts": [
+    "Financial Sector Reform Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-12-19",
+   "acts": [
+    "Financial Sector Reform Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-06-12",
+   "acts": [
+    "Financial Sector Reform Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-07-04",
+   "acts": [
+    "Treasury Laws Amendment (Financial Services Compensation Scheme of Last Resort) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-15",
+   "acts": [
+    "Financial Accountability Regime (Consequential Amendments) Act 2023",
+    "Treasury Laws Amendment (Modernising Business Communications and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-21",
+   "acts": [
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-20",
+   "acts": [
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023",
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Treasury Laws Amendment (Modernising Business Communications and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-05-22",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 3) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-06-12",
+   "acts": [
+    "Attorney-General’s Portfolio Miscellaneous Measures Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-11",
+   "acts": [
+    "Treasury Laws Amendment (Responsible Buy Now Pay Later and Other Measures) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

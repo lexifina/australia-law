@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00163",
+ "name": "Defence Force Retirement and Death Benefits (Pension Increases) Act 1974",
+ "folder": "defence-force-retirement-and-death-benefits-pension-increases-act-1974",
+ "compilations": [
+  {
+   "in_force": "1974-07-01",
+   "register_id": "C2004A00163",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00163',start=1974-07-01,retrospectivestart=1974-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00163/1974-07-01/text",
+   "sha256": "c3f2714cb49ed5f9f76098201669f1dbeda2678e1b82109eb47990b53d7ec1d9"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

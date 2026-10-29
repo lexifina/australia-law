@@ -1,0 +1,21 @@
+{
+ "title_id": "C2015A00083",
+ "name": "Private Health Insurance Supervisory Levy Imposition Act 2015",
+ "folder": "private-health-insurance-supervisory-levy-imposition-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-06-26",
+   "register_id": "C2015A00083",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00083',start=2015-06-26,retrospectivestart=2015-06-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00083/2015-06-26/text",
+   "sha256": "08e5f903d431520c5b15a77bbc73a261e1fe230aca01f5f8295dea2fc4e87931"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

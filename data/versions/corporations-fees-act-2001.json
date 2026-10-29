@@ -1,0 +1,102 @@
+{
+ "title_id": "C2004A00820",
+ "name": "Corporations (Fees) Act 2001",
+ "folder": "corporations-fees-act-2001",
+ "compilations": [
+  {
+   "in_force": "2021-10-05",
+   "register_id": "C2021C00455",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00820',start=2021-10-05,retrospectivestart=2021-10-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00820/2021-10-05/text",
+   "sha256": "4f8016b44db661ec55835ffa200297f7eda67cb46c8921036c1f49b6b6202e7a"
+  },
+  {
+   "in_force": "2022-06-22",
+   "register_id": "C2022C00178",
+   "compilation": "13",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00820',start=2022-06-22,retrospectivestart=2022-06-22,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00820/2022-06-22/text",
+   "sha256": "6af50b33453b02803701ca72bde3bfb8ea6273d545139ca9f2dc7e1f496bfe7b"
+  },
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00412",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00820',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00820/2023-10-20/text",
+   "sha256": "23fda37ddcdc28a3489901b741db4a5f116c56912b71fdcdb38a577c66a513de"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2001-06-28",
+   "acts": []
+  },
+  {
+   "in_force": "2002-03-11",
+   "acts": [
+    "Corporations (Fees) Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Corporations (Fees) Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Corporations (Fees) Amendment Act (No. 1) 2004"
+   ]
+  },
+  {
+   "in_force": "2007-06-28",
+   "acts": [
+    "Corporations (Fees) Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-08-01",
+   "acts": [
+    "Corporations (Fees) Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Corporations (Fees) Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-10-01",
+   "acts": [
+    "Corporations Legislation Amendment (Financial Reporting Panel) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "ASIC Supervisory Cost Recovery Levy (Consequential Amendments) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-06-29",
+   "acts": [
+    "Corporations (Fees) Amendment (ASIC Fees) Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

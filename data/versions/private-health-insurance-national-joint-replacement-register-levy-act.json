@@ -1,0 +1,48 @@
+{
+ "title_id": "C2009A00051",
+ "name": "Private Health Insurance (National Joint Replacement Register Levy) Act 2009",
+ "folder": "private-health-insurance-national-joint-replacement-register-levy-act",
+ "compilations": [
+  {
+   "in_force": "2015-06-26",
+   "register_id": "C2015C00296",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00051',start=2015-06-26,retrospectivestart=2015-06-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00051/2015-06-26/text",
+   "sha256": "10a953f7408b8b5edac7cf6254c6a08ad5d77e4fd7a89ae82ab9706844b20405"
+  },
+  {
+   "in_force": "2023-07-01",
+   "register_id": "C2023C00146",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00051',start=2023-07-01,retrospectivestart=2023-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00051/2023-07-01/text",
+   "sha256": "fcd7e4850dbb29f2f643c201a085a40c23527aaa5ebbf188755da78c8aee94f2"
+  },
+  {
+   "in_force": "2025-11-18",
+   "register_id": "C2025C00637",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00051',start=2025-11-18,retrospectivestart=2025-11-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00051/2025-11-18/text",
+   "sha256": "88e99db4c19c609d6ba8458fa053e2472d3aaae3fd9ab09bf806af6cd6e2cf17"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2009-06-24",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

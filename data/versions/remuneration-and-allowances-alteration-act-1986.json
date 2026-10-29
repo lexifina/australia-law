@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A03346",
+ "name": "Remuneration and Allowances Alteration Act 1986",
+ "folder": "remuneration-and-allowances-alteration-act-1986",
+ "compilations": [
+  {
+   "in_force": "1986-07-01",
+   "register_id": "C2004A03346",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03346',start=1986-07-01,retrospectivestart=1986-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03346/1986-07-01/text",
+   "sha256": "f6f5e2ae123cc72c977180fb97a3246e7ca361939dddb160436fce77cc8eec65"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

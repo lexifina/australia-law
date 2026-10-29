@@ -1,0 +1,307 @@
+{
+ "title_id": "C2004A03511",
+ "name": "Sea Installations Act 1987",
+ "folder": "sea-installations-act-1987",
+ "compilations": [
+  {
+   "in_force": "2019-08-30",
+   "register_id": "C2019C00269",
+   "compilation": "38",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03511',start=2019-08-30,retrospectivestart=2019-08-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03511/2019-08-30/text",
+   "sha256": "cd67fb3d4208f4f276c700cdc98c93ef80192067c761050b93695412d0950aa3"
+  },
+  {
+   "in_force": "2022-06-02",
+   "register_id": "C2022C00172",
+   "compilation": "39",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03511',start=2022-06-02,retrospectivestart=2022-06-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03511/2022-06-02/text",
+   "sha256": "cf01da4e8253c573c5556dd0652ae7fd9d568f1dc9a7ae0d2039837a4b48e41e"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00547",
+   "compilation": "40",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03511',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03511/2024-10-14/text",
+   "sha256": "ee350a43d749c8f49cbeed8d0724c91faae69b0891decde412052ebe425d23a3"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-10-15",
+   "acts": []
+  },
+  {
+   "in_force": "1987-11-06",
+   "acts": [
+    "Taxation Laws Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Civil Aviation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-19",
+   "acts": [
+    "Arts, Territories and Environment Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-07-01",
+   "acts": [
+    "Telecommunications and Postal Services (Transitional Provisions and Consequential Amendments) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-02-15",
+   "acts": [
+    "Therapeutic Goods Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-02-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1991",
+    "AUSSAT Repeal Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-02-03",
+   "acts": [
+    "Fisheries Legislation (Consequential Provisions) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-10-05",
+   "acts": [
+    "Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-05-30",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-08-01",
+   "acts": [
+    "Maritime Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-06",
+   "acts": [
+    "Civil Aviation Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-09-04",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 2) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-08-02",
+   "acts": [
+    "Telecommunications Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-08-16",
+   "acts": [
+    "Environment and Heritage Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-03-31",
+   "acts": [
+    "Crimes at Sea Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-06-23",
+   "acts": [
+    "Age Discrimination (Consequential Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-10",
+   "acts": [
+    "Aviation Transport Security (Consequential Amendments and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Excise Laws Amendment (Fuel Tax Reform and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-06-26",
+   "acts": [
+    "Dental Benefits (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-03",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Telecommunications Legislation Amendment (Universal Service Reform) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Telecommunications Legislation Amendment (Deregulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-02-21",
+   "acts": [
+    "Statute Update (Smaller Government) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Underwater Cultural Heritage (Consequential and Transitional Provisions) Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

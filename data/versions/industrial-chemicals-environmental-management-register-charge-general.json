@@ -1,0 +1,21 @@
+{
+ "title_id": "C2021A00030",
+ "name": "Industrial Chemicals Environmental Management (Register) Charge (General) Act 2021",
+ "folder": "industrial-chemicals-environmental-management-register-charge-general",
+ "compilations": [
+  {
+   "in_force": "2021-03-26",
+   "register_id": "C2021A00030",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00030',start=2021-03-26,retrospectivestart=2021-03-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00030/2021-03-26/text",
+   "sha256": "6b0d9d9f5364728f88ef4ced5ffddc60b5cdfda09507c2bf432d6cab12e5a324"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

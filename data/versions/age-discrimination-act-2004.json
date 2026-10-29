@@ -1,0 +1,358 @@
+{
+ "title_id": "C2004A01302",
+ "name": "Age Discrimination Act 2004",
+ "folder": "age-discrimination-act-2004",
+ "compilations": [
+  {
+   "in_force": "2024-11-30",
+   "register_id": "C2024C00778",
+   "compilation": "55",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01302',start=2024-11-30,retrospectivestart=2024-11-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01302/2024-11-30/text",
+   "sha256": "6120957f6f28bd8fb77c48797bce1d298248d640e422512c05bee4dcdd8a4ff1"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00840",
+   "compilation": "56",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01302',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01302/2024-12-11/text",
+   "sha256": "4800de4c1907d00acdb397bd51a12b9f8a3c1dc8c800293731d4bc27ea848f72"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00266",
+   "compilation": "57",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01302',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01302/2026-07-01/text",
+   "sha256": "6d889f2a20d4a5ca43d2d06746e6d9e7dc224fc107278d56e4c7292a3b2beb84"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2004-06-22",
+   "acts": []
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-13",
+   "acts": [
+    "Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Age Discrimination Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-04-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-15",
+   "acts": [
+    "Farm Household Support Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Corporations (Aboriginal and Torres Strait Islander) Consequential, Transitional and Other Measures Act 2006",
+    "Australian Citizenship (Transitionals and Consequentials) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-26",
+   "acts": [
+    "Dental Benefits (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-03",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Private Health Insurance Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Fair Work Amendment (State Referrals and Other Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-26",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-29",
+   "acts": [
+    "Sex and Age Discrimination Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Fairer Private Health Insurance Incentives Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-05-29",
+   "acts": [
+    "National Disability Insurance Scheme Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-01-01",
+   "acts": [
+    "Charities (Consequential Amendments and Transitional Provisions) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Farm Household Support (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-05-09",
+   "acts": [
+    "Parliamentary Entitlements Amendment (Injury Compensation Scheme) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015",
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-10-12",
+   "acts": [
+    "Safety, Rehabilitation and Compensation Legislation Amendment (Defence Force) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Parliamentary Business Resources (Consequential and Transitional Provisions) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-02-21",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment (2017 Measures No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "National Redress Scheme for Institutional Child Sexual Abuse (Consequential Amendments) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-11",
+   "acts": [
+    "Road Vehicle Standards (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-20",
+   "acts": [
+    "Office of National Intelligence (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-01",
+   "acts": [
+    "Private Health Insurance Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Medical and Midwife Indemnity Legislation Amendment Act 2019",
+    "Australian Sports Anti-Doping Authority Amendment (Sport Integrity Australia) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-06",
+   "acts": [
+    "Statute Update (Regulations References) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-04-01",
+   "acts": [
+    "Private Health Insurance Legislation Amendment (Age of Dependants) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-03",
+   "acts": [
+    "Social Security Legislation Amendment (Remote Engagement Program) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-02-23",
+   "acts": [
+    "Parliamentary Workplace Reform (Set the Standard Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-11-10",
+   "acts": [
+    "Australian Human Rights Commission Legislation Amendment (Selection and Appointment) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-12-13",
+   "acts": [
+    "Anti-Discrimination and Human Rights Legislation Amendment (Respect at Work) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Road Vehicle Standards (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2023-08-22",
+   "acts": [
+    "Aboriginal Land Grant (Jervis Bay Territory) Amendment (Strengthening Land and Governance Provisions) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-17",
+   "acts": [
+    "Members of Parliament (Staff) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Disability Services and Inclusion (Consequential Amendments and Transitional Provisions) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

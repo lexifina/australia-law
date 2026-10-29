@@ -1,0 +1,237 @@
+{
+ "title_id": "C2013A00020",
+ "name": "National Disability Insurance Scheme Act 2013",
+ "folder": "national-disability-insurance-scheme-act-2013",
+ "compilations": [
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00366",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00020',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00020/2026-08-27/text",
+   "sha256": "69634deff17588a5e7d885df29830ff0b116d3f43d56798f55cc690b4ddcfa9e"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00401",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00020',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00020/2026-09-19/text",
+   "sha256": "530f81088a7d8eaf3c952d4117c7de2abdf40f1e1c002e9a390703dc8a98f576"
+  },
+  {
+   "in_force": "2026-10-01",
+   "register_id": "C2026C00451",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00020',start=2026-10-01,retrospectivestart=2026-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00020/2026-10-01/text",
+   "sha256": "7465ec0f22e2db058ca0c349526ff528309907cadacadce9d62171418075ec3c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2013-03-28",
+   "acts": []
+  },
+  {
+   "in_force": "2013-05-29",
+   "acts": [
+    "National Disability Insurance Scheme Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "National Disability Insurance Scheme Legislation Amendment Act 2013",
+    "National Disability Insurance Scheme Legislation Amendment Act 2013",
+    "National Disability Insurance Scheme Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-08-01",
+   "acts": [
+    "Aged Care (Living Longer Living Better) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-04-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "National Disability Insurance Scheme Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Quality and Safeguards Commission and Other Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-10-03",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Worker Screening Database) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-10",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Streamlined Governance) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-11-21",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Strengthening Banning Orders) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-11-27",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Omnibus) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-10-29",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Improving Supports for At Risk Participants) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-04-08",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Participant Service Guarantee and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-07-01",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Participant Service Guarantee and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-07-06",
+   "acts": [
+    "COAG Legislation Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-03",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Getting the NDIS Back on Track No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-21",
+   "acts": [
+    "Administrative Review Tribunal (Miscellaneous Measures) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-11-01",
+   "acts": [
+    "Aged Care and Other Legislation Amendment Act 2025",
+    "Aged Care (Consequential and Transitional Provisions) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2026-04-09",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Integrity and Safeguarding) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2026-05-06",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Integrity and Safeguarding) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2026-11-20",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2026-12-01",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2027-02-01",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2027-02-20",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2027-07-01",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2028-01-01",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Securing the NDIS for Future Generations) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

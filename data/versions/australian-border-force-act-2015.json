@@ -1,0 +1,91 @@
+{
+ "title_id": "C2015A00040",
+ "name": "Australian Border Force Act 2015",
+ "folder": "australian-border-force-act-2015",
+ "compilations": [
+  {
+   "in_force": "2024-03-14",
+   "register_id": "C2024C00078",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00040',start=2024-03-14,retrospectivestart=2024-03-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00040/2024-03-14/text",
+   "sha256": "fa70fc7efbe71988346e3590ce1bb874cf88b8f38bdc459ed9f58227e5981160"
+  },
+  {
+   "in_force": "2026-01-22",
+   "register_id": "C2026C00071",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00040',start=2026-01-22,retrospectivestart=2026-01-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00040/2026-01-22/text",
+   "sha256": "97bd6eedf9e8fe4898202bc6fb4ec3179a8ac9bb9804c2f11e39c7533f015321"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00234",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00040',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00040/2026-06-04/text",
+   "sha256": "65aa2db4bd911cda2536e895ceebe766836607a007836b1c446c5fde90f7985b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2015-05-20",
+   "acts": []
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs Amendment (Australian Trusted Trader Programme) Act 2015",
+    "Australian Border Force Amendment (Protected Information) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-10-30",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2017-10-31",
+   "acts": [
+    "Australian Border Force Amendment (Protected Information) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-12-20",
+   "acts": [
+    "Office of National Intelligence (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Australian Sports Anti-Doping Authority Amendment (Sport Integrity Australia) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,312 @@
+{
+ "title_id": "C2004A00757",
+ "name": "Education Services for Overseas Students Act 2000",
+ "folder": "education-services-for-overseas-students-act-2000",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00561",
+   "compilation": "44",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00757',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00757/2024-10-14/text",
+   "sha256": "28fb4ddfe5e19ac6a0d3719860c589c4fc294ffd9071d6430a6bb0a5a5044667"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00684",
+   "compilation": "45",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00757',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00757/2025-12-05/text",
+   "sha256": "c91249b2c0d906b450afe8b7e41693e41d2433a19287272a91e994f632502e6f"
+  },
+  {
+   "in_force": "2026-10-17",
+   "register_id": "C2026C00474",
+   "compilation": "46",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00757',start=2026-10-17,retrospectivestart=2026-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00757/2026-10-17/text",
+   "sha256": "ee07964d2acae825b366ce1532475fbeb9e0c21cd1d531594da7a7117a1c9583"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2000-12-21",
+   "acts": []
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-12-21",
+   "acts": [
+    "Cybercrime Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-11-11",
+   "acts": [
+    "Education Services for Overseas Students Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2005-12-19",
+   "acts": [
+    "Education Services for Overseas Students Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-20",
+   "acts": [
+    "Education Services for Overseas Students Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Education Services for Overseas Students Legislation Amendment (2006 Measures No. 1) Act 2006",
+    "Education Services for Overseas Students Legislation Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-04-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Education Services for Overseas Students Legislation Amendment (2006 Measures No. 2) Act 2006",
+    "Education Services for Overseas Students Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-03-03",
+   "acts": [
+    "Education Services for Overseas Students Amendment (Re-registration of Providers and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-09",
+   "acts": [
+    "Education Services for Overseas Students Legislation Amendment Act 2011",
+    "National Vocational Education and Training Regulator (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "National Vocational Education and Training Regulator (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-29",
+   "acts": [
+    "Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-09-26",
+   "acts": [
+    "Education Services for Overseas Students Amendment (Registration Charges Consequentials) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-10-31",
+   "acts": [
+    "Education Services for Overseas Students Amendment (Registration Charges Consequentials) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-29",
+   "acts": [
+    "Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011",
+    "Tertiary Education Quality and Standards Agency (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-20",
+   "acts": [
+    "Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012",
+    "Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012",
+    "Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-04-13",
+   "acts": [
+    "Migration Legislation Amendment (Student Visas) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Education Services for Overseas Students Amendment Act 2014",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-12",
+   "acts": [
+    "Education Services for Overseas Students Amendment (Streamlining Regulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Education Services for Overseas Students Amendment (Streamlining Regulation) Act 2015",
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-08-17",
+   "acts": [
+    "Education Legislation Amendment (Provider Integrity and Other Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-15",
+   "acts": [
+    "Education Services for Overseas Students Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-06-19",
+   "acts": [
+    "Statute Update (Autumn 2018) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Education Legislation Amendment (Tuition Protection and Other Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Territories Legislation Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment (Governance and Other Matters) Act 2020",
+    "Education Legislation Amendment (Up-front Payments Tuition Protection) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-03",
+   "acts": [
+    "Education Services for Overseas Students Amendment (Refunds of Charges and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-06-25",
+   "acts": [
+    "Education Legislation Amendment (2021 Measures No. 2) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Education Services for Overseas Students Amendment (Refunds of Charges and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-26",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2021",
+    "Regulatory Powers (Standardisation Reform) Act 2021",
+    "Regulatory Powers (Standardisation Reform) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-08",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 5) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-01",
+   "acts": [
+    "Education Services for Overseas Students Amendment (Cost Recovery and Other Measures) Act 2021",
+    "Education Services for Overseas Students Amendment (Cost Recovery and Other Measures) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,32 @@
+{
+ "title_id": "C2023A00044",
+ "name": "Financial Services Compensation Scheme of Last Resort Levy Act 2023",
+ "folder": "financial-services-compensation-scheme-of-last-resort-levy-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-07-03",
+   "register_id": "C2023A00044",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00044',start=2023-07-03,retrospectivestart=2023-07-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00044/2023-07-03/text",
+   "sha256": "b6e8f8650e4600bfad361d979b8234bb6ed76760ba213d72dce41f25d62ead39"
+  },
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00413",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00044',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00044/2023-10-20/text",
+   "sha256": "f078a2d5c929d6312016f0a256526f66ac147168bf42dc476e5af345d264aa56"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

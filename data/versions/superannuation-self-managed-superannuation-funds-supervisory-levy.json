@@ -1,0 +1,73 @@
+{
+ "title_id": "C2004A04136",
+ "name": "Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991",
+ "folder": "superannuation-self-managed-superannuation-funds-supervisory-levy",
+ "compilations": [
+  {
+   "in_force": "2007-03-15",
+   "register_id": "C2007C00114",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04136',start=2007-03-15,retrospectivestart=2007-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04136/2007-03-15/text",
+   "sha256": "def4cf0bd8a9ac8ff0f0861c0ad6049447a0bf11f29f116053c363d1f0bc171f"
+  },
+  {
+   "in_force": "2012-03-21",
+   "register_id": "C2012C00372",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04136',start=2012-03-21,retrospectivestart=2012-03-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04136/2012-03-21/text",
+   "sha256": "4ee3a501c3d9066c623bdd1d878b77bd2521a94fd3df1555b15f17aba6c62ea3"
+  },
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00317",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04136',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04136/2013-07-01/text",
+   "sha256": "e91e06083d9b65a492c3bcd864024d74f98fb67e614c0b5687d840e045f15676"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-04-24",
+   "acts": []
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Superannuation Supervisory Levy Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-10-17",
+   "acts": [
+    "Superannuation Supervisory Levy Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-10-08",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 3) 1999",
+    "Superannuation Legislation Amendment Act (No. 3) 1999"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

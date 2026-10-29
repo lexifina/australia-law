@@ -1,0 +1,48 @@
+{
+ "title_id": "C2004A04523",
+ "name": "Seafarers Rehabilitation and Compensation Levy Collection Act 1992",
+ "folder": "seafarers-rehabilitation-and-compensation-levy-collection-act-1992",
+ "compilations": [
+  {
+   "in_force": "1999-12-05",
+   "register_id": "C2004C06644",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04523',start=1999-12-05,retrospectivestart=1999-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04523/1999-12-05/text",
+   "sha256": "8bb9307ca9e5ccce0d12ecf30bb06315759c02a18446ff7c1ce620d8e85ba7ef"
+  },
+  {
+   "in_force": "2001-10-02",
+   "register_id": "C2004C06645",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04523',start=2001-10-02,retrospectivestart=2001-10-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04523/2001-10-02/text",
+   "sha256": "e5b549b4ac0105ab9f2f3570eeae32c055b0d09690c0de86b3a4eab236943aec"
+  },
+  {
+   "in_force": "2003-06-11",
+   "register_id": "C2004C00776",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04523',start=2003-06-11,retrospectivestart=2003-06-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04523/2003-06-11/text",
+   "sha256": "363dc4666aadd0e75e6d373304361df013ad41c99daeb442f7468c566aa2419c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-12-24",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

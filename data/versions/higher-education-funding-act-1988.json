@@ -1,0 +1,460 @@
+{
+ "title_id": "C2004A03750",
+ "name": "Higher Education Funding Act 1988",
+ "folder": "higher-education-funding-act-1988",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00171",
+   "compilation": "52",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03750',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03750/2016-03-05/text",
+   "sha256": "61492175618f1c225eff0e960b2c605ced5e8dde00878d2a9291b992add5d650"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00586",
+   "compilation": "53",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03750',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03750/2024-10-14/text",
+   "sha256": "ff9598f8fb1127f75f2c29c19295d787a49702e89b90244ebe8ae491b545a29a"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00125",
+   "compilation": "54",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03750',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03750/2025-02-21/text",
+   "sha256": "dbcdce1fab31ce8d32bb9dda58ae66e0db69e5eff483cc21f5edd07cabb93a32"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-12-26",
+   "acts": []
+  },
+  {
+   "in_force": "1989-01-06",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1989-06-21",
+   "acts": [
+    "Higher Education Funding Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "University of Canberra Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-12-28",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-24",
+   "acts": [
+    "Higher Education Funding Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-01-01",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-03-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-26",
+   "acts": [
+    "Higher Education Funding Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-01",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 2) 1992",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1993-12-24",
+   "acts": [
+    "Higher Education Funding Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-01",
+   "acts": [
+    "Higher Education Funding Legislation Amendment Act 1993",
+    "Higher Education Funding Legislation Amendment Act 1993",
+    "Higher Education Funding Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1994-02-25",
+   "acts": [
+    "Higher Education Funding Amendment Act 1994",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1994-06-23",
+   "acts": [
+    "Employment, Education and Training Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Higher Education Funding Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-12-08",
+   "acts": [
+    "Higher Education Funding Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-31",
+   "acts": [
+    "Higher Education Funding (Student Organisations) Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-12-01",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-01-01",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 2) 1995",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-07-01",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 2) 1995",
+    "Education and Training Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-12-05",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 1) 1996"
+   ]
+  },
+  {
+   "in_force": "1996-12-12",
+   "acts": [
+    "Higher Education Funding Amendment Act 1999",
+    "Higher Education Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-01-01",
+   "acts": [
+    "Higher Education Legislation Amendment Act 1996",
+    "Higher Education Funding Amendment Act (No. 1) 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-09-15",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997",
+    "Higher Education Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-12-08",
+   "acts": [
+    "Higher Education Funding Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-04-19",
+   "acts": [
+    "A New Tax System (Fringe Benefits Reporting) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-08",
+   "acts": [
+    "Higher Education Funding Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "A New Tax System (Tax Administration) Act (No. 1) 2000",
+    "A New Tax System (Tax Administration) Act 1999",
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-11-13",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "Australian Research Council (Consequential and Transitional Provisions) Act 2001",
+    "Higher Education Funding Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2001-07-18",
+   "acts": [
+    "Higher Education Funding Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-09-18",
+   "acts": [
+    "Innovation and Education Legislation Amendment Act (No. 2) 2001",
+    "Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Education, Training and Youth Affairs Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-04-04",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 1) 2002",
+    "Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2002-10-08",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-10-21",
+   "acts": [
+    "Higher Education Funding Amendment Act 2002",
+    "Higher Education Funding Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-02",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 3) 2002"
+   ]
+  },
+  {
+   "in_force": "2003-09-23",
+   "acts": [
+    "Higher Education Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-01-01",
+   "acts": [
+    "Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003",
+    "Higher Education Legislation Amendment (2005 Measures No. 1) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2004-04-21",
+   "acts": [
+    "Higher Education Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-13",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 2) 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-05-25",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 1) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-19",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Budget Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-20",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 4) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-01-19",
+   "acts": [
+    "Higher Education Funding Act 1988 - Declaration under subsection 4(2) (13/01/2006)"
+   ]
+  },
+  {
+   "in_force": "2006-03-02",
+   "acts": [
+    "Higher Education Funding Act 1988 - Declaration under subsection 4(2) (10/02/2006)"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-10-20",
+   "acts": [
+    "Higher Education Funding Act 1988 - Declaration under subsection 4(2) (10/10/2006)"
+   ]
+  },
+  {
+   "in_force": "2006-11-04",
+   "acts": [
+    "Higher Education Legislation Amendment (2006 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-03-29",
+   "acts": [
+    "Higher Education Funding Act 1988 - Declaration under subsection 4(2) (21/03/2007)"
+   ]
+  },
+  {
+   "in_force": "2007-05-28",
+   "acts": [
+    "Higher Education Legislation Amendment (2007 Measures No. 1) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Australian Citizenship (Transitionals and Consequentials) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-10-04",
+   "acts": [
+    "Higher Education Funding Act 1988 - Declaration under subsection 4(2) (24/09/2007)"
+   ]
+  },
+  {
+   "in_force": "2008-11-26",
+   "acts": [
+    "Higher Education Funding Act 1988 - Declaration under subsection 4(2) (11/11/2008)"
+   ]
+  },
+  {
+   "in_force": "2009-11-17",
+   "acts": [
+    "Statute Stocktake (Regulatory and Other Laws) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-19",
+   "acts": [
+    "Higher Education Funding Act 1988 - Declaration under subsection 4(2) (14/03/2010)"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

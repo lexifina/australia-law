@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A05189",
+ "name": "Australian National Railways Commission Sale Act 1997",
+ "folder": "australian-national-railways-commission-sale-act-1997",
+ "compilations": [
+  {
+   "in_force": "1997-06-30",
+   "register_id": "C2004A05189",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05189',start=1997-06-30,retrospectivestart=1997-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05189/1997-06-30/text",
+   "sha256": "2805c10861d4367dc615916148650b75a2143b25c4ffb0f225e629ad592456a6"
+  },
+  {
+   "in_force": "2000-06-28",
+   "register_id": "C2004C00908",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05189',start=2000-06-28,retrospectivestart=2000-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05189/2000-06-28/text",
+   "sha256": "3a5bf125f1b60a32b3ac46fb47c4eb4ddaf3b310097baf9d8a8d609b7ab0f962"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

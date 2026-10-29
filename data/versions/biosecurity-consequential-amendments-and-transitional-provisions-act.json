@@ -1,0 +1,32 @@
+{
+ "title_id": "C2015A00062",
+ "name": "Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015",
+ "folder": "biosecurity-consequential-amendments-and-transitional-provisions-act",
+ "compilations": [
+  {
+   "in_force": "2015-06-16",
+   "register_id": "C2015A00062",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00062',start=2015-06-16,retrospectivestart=2015-06-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00062/2015-06-16/text",
+   "sha256": "7aae0c5daad0ae2cae88f0ff5b99b195200afc2acb0571e8901793a409d349ea"
+  },
+  {
+   "in_force": "2017-09-20",
+   "register_id": "C2017C00318",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00062',start=2017-09-20,retrospectivestart=2017-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00062/2017-09-20/text",
+   "sha256": "6e65b23980db1a6b20520f8d50c3f222f0c85561d35956f3476cb4420906611e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

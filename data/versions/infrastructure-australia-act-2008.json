@@ -1,0 +1,78 @@
+{
+ "title_id": "C2008A00017",
+ "name": "Infrastructure Australia Act 2008",
+ "folder": "infrastructure-australia-act-2008",
+ "compilations": [
+  {
+   "in_force": "2022-09-14",
+   "register_id": "C2022C00250",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00017',start=2022-09-14,retrospectivestart=2022-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00017/2022-09-14/text",
+   "sha256": "d5e77da5ee708b57370a226cea4de907dbdd6574d7bbfbd83d37f984d23f6fad"
+  },
+  {
+   "in_force": "2023-12-15",
+   "register_id": "C2023C00487",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00017',start=2023-12-15,retrospectivestart=2023-12-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00017/2023-12-15/text",
+   "sha256": "37335e534a5aefc7d8a2c4d20a4631ddb1e81bc1e08f434cb33c7254e4f8fb28"
+  },
+  {
+   "in_force": "2024-04-15",
+   "register_id": "C2024C00152",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00017',start=2024-04-15,retrospectivestart=2024-04-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00017/2024-04-15/text",
+   "sha256": "7c0d9a57736eed7c29e461e9570cb73623f8e6b73ebdb87ff84c076ba7e79e4b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2008-04-08",
+   "acts": []
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-07-11",
+   "acts": [
+    "Tax Laws Amendment (2013 Measures No. 2) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-09-01",
+   "acts": [
+    "Infrastructure Australia Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-05-06",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2015) Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

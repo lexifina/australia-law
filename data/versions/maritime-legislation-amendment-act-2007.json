@@ -1,0 +1,32 @@
+{
+ "title_id": "C2007A00150",
+ "name": "Maritime Legislation Amendment Act 2007",
+ "folder": "maritime-legislation-amendment-act-2007",
+ "compilations": [
+  {
+   "in_force": "2007-09-24",
+   "register_id": "C2007A00150",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00150',start=2007-09-24,retrospectivestart=2007-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00150/2007-09-24/text",
+   "sha256": "1c496c72d703060348c11d321ba99c0b936a24d21599c5f6569beee9156b6325"
+  },
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00356",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00150',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00150/2013-07-01/text",
+   "sha256": "4e50a732d130efb773b959dcf053199ca652f9681f2ca951cf9478c96c08344c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

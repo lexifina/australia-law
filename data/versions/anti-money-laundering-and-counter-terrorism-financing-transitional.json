@@ -1,0 +1,23 @@
+{
+ "title_id": "C2006A00170",
+ "name": "Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006",
+ "folder": "anti-money-laundering-and-counter-terrorism-financing-transitional",
+ "compilations": [
+  {
+   "in_force": "2005-12-14",
+   "register_id": "C2006A00170",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00170',start=2005-12-14,retrospectivestart=2005-12-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00170/2005-12-14/text",
+   "sha256": "6e2758c6b75b8d793a23871c986b58991dd4a72bdefc6ea493d4c419992cd3c0"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "2007-04-13"
+ ],
+ "repeal": null
+}

@@ -1,0 +1,101 @@
+{
+ "title_id": "C2004A00033",
+ "name": "Papua New Guinea (Staffing Assistance) Act 1973",
+ "folder": "papua-new-guinea-staffing-assistance-act-1973",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00621",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00033',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00033/2014-07-01/text",
+   "sha256": "257a41f9bce49530daac4d17537cc6458bd863abf264057f2aeb26d1ed956973"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00440",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00033',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00033/2015-07-01/text",
+   "sha256": "b59e72811ad47b4c39215b3e4d35c6968794ea671ec01a331e22507251ecc2c5"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01047",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00033',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00033/2016-10-21/text",
+   "sha256": "ea167d327f2ef91ff9153352e7cc31bfd6bf0fc7de931df2f6a52c201b780a14"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00470",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00033',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00033/2024-10-14/text",
+   "sha256": "5da62bc0b418f3f6e6f138f178e283fa3c9e577e1d795cdf9c1b3ad0fab0c7f0"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1973-06-18",
+   "acts": []
+  },
+  {
+   "in_force": "1975-09-09",
+   "acts": [
+    "Papua New Guinea (Staffing Assistance) Act 1975"
+   ]
+  },
+  {
+   "in_force": "1976-06-09",
+   "acts": [
+    "Papua New Guinea (Staffing Assistance) Termination Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-07-01",
+   "acts": [
+    "Papua New Guinea (Staffing Assistance) Termination Act 1976"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1990-06-07",
+   "acts": [
+    "Superannuation Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-03-15",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

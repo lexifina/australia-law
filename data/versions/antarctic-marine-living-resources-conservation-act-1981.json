@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A02408",
+ "name": "Antarctic Marine Living Resources Conservation Act 1981",
+ "folder": "antarctic-marine-living-resources-conservation-act-1981",
+ "compilations": [
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00476",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02408',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02408/2016-03-10/text",
+   "sha256": "2479e115d325f4e967a9501e9115e3e844473e1e3feedbf3cff36dafee88b79a"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01028",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02408',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02408/2016-10-21/text",
+   "sha256": "17ae3f118fce11d4069fe34b52c550bddc107714a65b9262a4c65267e37bd1f3"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00429",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02408',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02408/2024-10-14/text",
+   "sha256": "ccf37f5d232f3a13a3c1cbedafc647507b3b5d11a14cd4fd3011a19d4732d8b8"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1981-04-14",
+   "acts": []
+  },
+  {
+   "in_force": "1992-02-03",
+   "acts": [
+    "Fisheries Legislation (Consequential Provisions) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Antarctic (Environment Protection) Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

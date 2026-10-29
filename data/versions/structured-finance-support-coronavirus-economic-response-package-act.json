@@ -1,0 +1,21 @@
+{
+ "title_id": "C2020A00027",
+ "name": "Structured Finance Support (Coronavirus Economic Response Package) Act 2020",
+ "folder": "structured-finance-support-coronavirus-economic-response-package-act",
+ "compilations": [
+  {
+   "in_force": "2020-03-24",
+   "register_id": "C2020A00027",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00027',start=2020-03-24,retrospectivestart=2020-03-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00027/2020-03-24/text",
+   "sha256": "99c7d70cb1c76e3577208a110e7b3c25f539f95e00d3bc2a51f1be0b183846e1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

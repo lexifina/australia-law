@@ -1,0 +1,41 @@
+{
+ "title_id": "C2004A02884",
+ "name": "Advance Australia Logo Protection Act 1984",
+ "folder": "advance-australia-logo-protection-act-1984",
+ "compilations": [
+  {
+   "in_force": "1987-09-01",
+   "register_id": "C2004C00146",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02884',start=1987-09-01,retrospectivestart=1987-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02884/1987-09-01/text",
+   "sha256": "e0ac4b142dfdc573578e8b2c46353295b0d5715978ad5431a8df53de866ba1d5"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2015C00626",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02884',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02884/2015-12-10/text",
+   "sha256": "fe0519bb6217a6142481b495d3b540db3f2481f03f171ecd689226ac1f2b64cd"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1984-04-26"
+ ],
+ "repeal": null
+}

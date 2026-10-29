@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A02462",
+ "name": "Offshore Minerals (Works Licence Fees) Act 1981",
+ "folder": "offshore-minerals-works-licence-fees-act-1981",
+ "compilations": [
+  {
+   "in_force": "1994-02-25",
+   "register_id": "C2004C00318",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02462',start=1994-02-25,retrospectivestart=1994-02-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02462/1994-02-25/text",
+   "sha256": "4aaaee89a8d5c5c51cb38d63ac0c8e7989f66bdbafa828f2ff3ae67c6217aab8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1981-06-18"
+ ],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A01660",
+ "name": "Law Courts (Sydney) Act 1977",
+ "folder": "law-courts-sydney-act-1977",
+ "compilations": [
+  {
+   "in_force": "1977-04-14",
+   "register_id": "C2004A01660",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01660',start=1977-04-14,retrospectivestart=1977-04-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01660/1977-04-14/text",
+   "sha256": "56f5b2ef3591c7d7b0afaeef26f2c356ccda4b4762ab34314d90fc4b88e7f7f1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

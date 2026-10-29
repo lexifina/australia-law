@@ -1,0 +1,32 @@
+{
+ "title_id": "C2013A00011",
+ "name": "Offshore Petroleum and Greenhouse Gas Storage Amendment (Compliance Measures) Act 2013",
+ "folder": "offshore-petroleum-and-greenhouse-gas-storage-amendment-compliance",
+ "compilations": [
+  {
+   "in_force": "2013-03-14",
+   "register_id": "C2013A00011",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00011',start=2013-03-14,retrospectivestart=2013-03-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00011/2013-03-14/text",
+   "sha256": "edc21c7d8d51726acf605d07585dd68322b148fd73c436edf1d2ad74ea77cfbd"
+  },
+  {
+   "in_force": "2014-07-18",
+   "register_id": "C2014C00507",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00011',start=2014-07-18,retrospectivestart=2014-07-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00011/2014-07-18/text",
+   "sha256": "0f1acfe4db2c78e081c166971b87302e76bb83a57aaf1d01a128e22d66fe0d90"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

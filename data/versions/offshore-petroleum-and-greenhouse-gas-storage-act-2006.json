@@ -1,0 +1,426 @@
+{
+ "title_id": "C2006A00014",
+ "name": "Offshore Petroleum and Greenhouse Gas Storage Act 2006",
+ "folder": "offshore-petroleum-and-greenhouse-gas-storage-act-2006",
+ "compilations": [
+  {
+   "in_force": "2025-06-11",
+   "register_id": "C2025C00381",
+   "compilation": "59",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00014',start=2025-06-11,retrospectivestart=2025-06-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00014/2025-06-11/text",
+   "sha256": "2483b01c1ec082be761bcf66b452805be9a1bae8107d75cc0d85be5cf45d3259"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00690",
+   "compilation": "60",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00014',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00014/2025-12-05/text",
+   "sha256": "f5f7000a3d3434e51f7420535d4fa4b9c5210ddb1a0b1281365f9ef85848a060"
+  },
+  {
+   "in_force": "2026-08-24",
+   "register_id": "C2026C00394",
+   "compilation": "61",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00014',start=2026-08-24,retrospectivestart=2026-08-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00014/2026-08-24/text",
+   "sha256": "3257c1c33c2efa27e3b93bb94c5ec3e7f69cf99bed88c9324300fcb12caab56e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-03-29",
+   "acts": []
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum Amendment (Miscellaneous Measures) Act 2008",
+    "Offshore Petroleum Amendment (Miscellaneous Measures) Act 2008",
+    "Offshore Petroleum Amendment (Datum) Act 2008",
+    "Australian Energy Market Amendment (Gas Legislation) Act 2007",
+    "Offshore Petroleum Amendment (Greater Sunrise) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment Act 2009",
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008",
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008",
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008",
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-04-01",
+   "acts": [
+    "Federal Financial Relations (Consequential Amendments and Transitional Provisions) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-10-09",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011",
+    "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment (Miscellaneous Measures) Act 2010",
+    "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010",
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-17",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment (Miscellaneous Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-06-17",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-10-15",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-11-01",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-07",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Petroleum Pools and Other Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010",
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010",
+    "Offshore Resources Legislation Amendment (Personal Property Securities) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-07",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Significant Incident Directions) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-15",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Compliance Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-05-29",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Compliance Measures No. 2) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-11-01",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-11-28",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Compliance Measures No. 2) Act 2013",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Compliance Measures No. 2) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-12-14",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Cash Bidding) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-20",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Matters) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-18",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Regulatory Powers and Other Measures) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-01",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Regulatory Powers and Other Measures) Act 2014",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Regulatory Powers and Other Measures) Act 2014",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Compliance Measures) Act 2013",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Compliance Measures No. 2) Act 2013",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Compliance Measures No. 2) Act 2013",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Compliance Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2015-01-17",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2015-03-20",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-04-03",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Matters) Act 2015",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Matters) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-01",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-02-23",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Petroleum Pools and Other Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-26",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Cross-boundary Greenhouse Gas Titles and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Petroleum Resource Rent Tax Reforms No. 1) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-10-29",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Amendments) Act 2019",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Amendments) Act 2019",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Amendments) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-04-28",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Amendments) Act 2019",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Amendments) Act 2019",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Amendments) Act 2019",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Amendments) Act 2019",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Amendments) Act 2019",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Amendments) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-05-15",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2020-05-16",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Cross-boundary Greenhouse Gas Titles and Other Measures) Act 2020",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Cross-boundary Greenhouse Gas Titles and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Cross-boundary Greenhouse Gas Titles and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021",
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-03",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Titles Administration and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-03-02",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Titles Administration and Other Measures) Act 2021",
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Titles Administration and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-06-02",
+   "acts": [
+    "Offshore Electricity Infrastructure (Consequential Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-03-02",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Amendment (Titles Administration and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-06-12",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment (Safety and Other Measures) Act 2024",
+    "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment (Safety and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-07-06",
+   "acts": [
+    "COAG Legislation Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-11",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment (Safety and Other Measures) Act 2024",
+    "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment (Safety and Other Measures) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

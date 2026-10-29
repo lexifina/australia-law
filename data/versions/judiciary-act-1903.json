@@ -1,0 +1,748 @@
+{
+ "title_id": "C1903A00006",
+ "name": "Judiciary Act 1903",
+ "folder": "judiciary-act-1903",
+ "compilations": [
+  {
+   "in_force": "2005-12-01",
+   "register_id": "C2005C00685",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2005-12-01,retrospectivestart=2005-12-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2005-12-01/text",
+   "sha256": "ad895f0caaadfcb319a35a1d8becd739fc2e4a1c01fd8a28a0c131d7a1395a29"
+  },
+  {
+   "in_force": "2006-12-07",
+   "register_id": "C2006C00700",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2006-12-07,retrospectivestart=2006-12-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2006-12-07/text",
+   "sha256": "4d3ab8110d9bea7b2940b3dd0468e9cb04bc1ab463ac1d579999ebe010cae4cf"
+  },
+  {
+   "in_force": "2008-07-02",
+   "register_id": "C2008C00278",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2008-07-02,retrospectivestart=2008-07-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2008-07-02/text",
+   "sha256": "b5ef8b7c72d264d9979c3751b39f7c89709d77ddb31698de7cb7a485954c2012"
+  },
+  {
+   "in_force": "2009-07-01",
+   "register_id": "C2009C00301",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2009-07-01,retrospectivestart=2009-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2009-07-01/text",
+   "sha256": "1bc0c489f4a959cc3c6bb0a10f45c92af3cb8a57c99688c0e54b05d304f49e06"
+  },
+  {
+   "in_force": "2009-12-04",
+   "register_id": "C2009C00549",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2009-12-04,retrospectivestart=2009-12-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2009-12-04/text",
+   "sha256": "f6c185bc526a815ae893abee95a57b9259a044b07dab6ccef36b828cd3282d64"
+  },
+  {
+   "in_force": "2011-03-03",
+   "register_id": "C2011C00124",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2011-03-03,retrospectivestart=2011-03-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2011-03-03/text",
+   "sha256": "57c98b1f2e57265f8ae93fd85d811f8a87916ea52abeb7987780c6c42c74aead"
+  },
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00345",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2011-04-19/text",
+   "sha256": "3f9fd7b01c53bbfe8f05789c518a7585b7c22c779bd56990395763a7ae4e7461"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00176",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2011-12-27/text",
+   "sha256": "b75a03ebcd26dfadefe9354f83701c03964ca7e115c161e0afd37857f2b5b8fd"
+  },
+  {
+   "in_force": "2012-10-01",
+   "register_id": "C2012C00690",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2012-10-01,retrospectivestart=2012-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2012-10-01/text",
+   "sha256": "33f0652e9782c23288a74839ba1a01012b05747aa21a110a9e7cdc02c7862f4d"
+  },
+  {
+   "in_force": "2012-12-12",
+   "register_id": "C2013C00068",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2012-12-12,retrospectivestart=2012-12-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2012-12-12/text",
+   "sha256": "c8a5f87db4ca4715ed589d578bd0224eeddec7cf75b8844583a5d54b82e3eef6"
+  },
+  {
+   "in_force": "2013-04-12",
+   "register_id": "C2013C00260",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2013-04-12,retrospectivestart=2013-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2013-04-12/text",
+   "sha256": "0a54556938766334264b325412d0db176cf23c85df9fe884342e2369bf5f6991"
+  },
+  {
+   "in_force": "2013-06-11",
+   "register_id": "C2013C00343",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2013-06-11,retrospectivestart=2013-06-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2013-06-11/text",
+   "sha256": "309956c0e7b3d636a9e4156ec88dc366c8b6f0d8f975f5e6b934c2c719bb2f39"
+  },
+  {
+   "in_force": "2014-06-24",
+   "register_id": "C2014C00219",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2014-06-24,retrospectivestart=2014-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2014-06-24/text",
+   "sha256": "418bcebbfd44b0ab4abcf0f03ebd22083930d80befa5f17d9747ae36e03a5473"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00494",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2014-07-01/text",
+   "sha256": "2aea2448e3f429d1119a6b375e1d43dbe01c180d3f5369ee6af311490b525871"
+  },
+  {
+   "in_force": "2015-06-18",
+   "register_id": "C2015C00264",
+   "compilation": "43",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2015-06-18,retrospectivestart=2015-06-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2015-06-18/text",
+   "sha256": "687c549c2cdde2f2a8d73edd41155e60583e1554f4a04061ac649d7691d26627"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00424",
+   "compilation": "44",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2015-07-01/text",
+   "sha256": "be3163d264fb0b83970e8c0aefcb3168b31aa0c82a32f50b2389282c71431f8b"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00243",
+   "compilation": "45",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2016-03-05/text",
+   "sha256": "ad90ea12b7e7941c8c693e5944e69af4bfbd728c19f34a1cb488cc4288d18bd4"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00836",
+   "compilation": "46",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2016-07-01/text",
+   "sha256": "d5e0ad9720ce4de66e0f0fafa44fb3d832a4cfd992dbe508f8f8f8b2df6becea"
+  },
+  {
+   "in_force": "2018-08-25",
+   "register_id": "C2018C00347",
+   "compilation": "47",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2018-08-25,retrospectivestart=2018-08-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2018-08-25/text",
+   "sha256": "d948a4b5ada4568ddfe4a00dfc7b65a7423110f6ba59fd068ede3d92fee9911d"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00467",
+   "compilation": "48",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2021-09-01/text",
+   "sha256": "5cf8f21653938606bfabd2c55ed38c10d6fb37fe852b80d83643e8237f001660"
+  },
+  {
+   "in_force": "2022-02-18",
+   "register_id": "C2022C00081",
+   "compilation": "49",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2022-02-18,retrospectivestart=2022-02-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2022-02-18/text",
+   "sha256": "c77b0ff819abfa959900e804fc42a3f871cb7a2881178bf5f1d288412582503e"
+  },
+  {
+   "in_force": "2024-06-12",
+   "register_id": "C2024C00235",
+   "compilation": "50",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2024-06-12,retrospectivestart=2024-06-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2024-06-12/text",
+   "sha256": "72d99571f80db4312a9e43b27cedc109efb8ba057dfdf21ae593b27ad5ef3214"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00864",
+   "compilation": "51",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1903A00006',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1903A00006/2024-12-11/text",
+   "sha256": "3666266ad49ac589f77c93fe8d79da1ebd3858c28b0765bc7b001f86deedd163"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1903-08-25",
+   "acts": []
+  },
+  {
+   "in_force": "1906-08-28",
+   "acts": [
+    "Judiciary Act 1906"
+   ]
+  },
+  {
+   "in_force": "1907-10-14",
+   "acts": [
+    "Judiciary Act 1907"
+   ]
+  },
+  {
+   "in_force": "1910-12-01",
+   "acts": [
+    "Judiciary Act 1910"
+   ]
+  },
+  {
+   "in_force": "1912-12-24",
+   "acts": [
+    "Judiciary Act 1912"
+   ]
+  },
+  {
+   "in_force": "1914-10-29",
+   "acts": [
+    "Judiciary Act 1914"
+   ]
+  },
+  {
+   "in_force": "1915-05-01",
+   "acts": [
+    "Judiciary Act 1915"
+   ]
+  },
+  {
+   "in_force": "1920-10-30",
+   "acts": [
+    "Judiciary Act 1920"
+   ]
+  },
+  {
+   "in_force": "1926-08-11",
+   "acts": [
+    "Judiciary Act 1926"
+   ]
+  },
+  {
+   "in_force": "1929-09-02",
+   "acts": [
+    "Judiciary Act 1927"
+   ]
+  },
+  {
+   "in_force": "1932-12-05",
+   "acts": [
+    "Judiciary Act 1932"
+   ]
+  },
+  {
+   "in_force": "1933-12-15",
+   "acts": [
+    "Judiciary Act 1933"
+   ]
+  },
+  {
+   "in_force": "1934-01-01",
+   "acts": [
+    "Supreme Court Act 1933"
+   ]
+  },
+  {
+   "in_force": "1934-08-06",
+   "acts": [
+    "Statute Law Revision Act 1934"
+   ]
+  },
+  {
+   "in_force": "1937-07-03",
+   "acts": [
+    "Judiciary Act 1937"
+   ]
+  },
+  {
+   "in_force": "1939-12-21",
+   "acts": [
+    "Judiciary Act 1939"
+   ]
+  },
+  {
+   "in_force": "1940-08-22",
+   "acts": [
+    "Judiciary Act 1940"
+   ]
+  },
+  {
+   "in_force": "1946-05-16",
+   "acts": [
+    "Judiciary Act 1946"
+   ]
+  },
+  {
+   "in_force": "1947-11-01",
+   "acts": [
+    "Salaries (Statutory Offices) Adjustment Act 1947"
+   ]
+  },
+  {
+   "in_force": "1948-12-09",
+   "acts": [
+    "Judges' Pensions Act 1948"
+   ]
+  },
+  {
+   "in_force": "1950-07-01",
+   "acts": [
+    "Salaries (Statutory Offices) Adjustment Act 1950"
+   ]
+  },
+  {
+   "in_force": "1950-12-31",
+   "acts": [
+    "Statute Law Revision Act 1950"
+   ]
+  },
+  {
+   "in_force": "1955-01-01",
+   "acts": [
+    "Judges' Remuneration Act 1955"
+   ]
+  },
+  {
+   "in_force": "1955-07-14",
+   "acts": [
+    "Judiciary Act 1955"
+   ]
+  },
+  {
+   "in_force": "1959-05-22",
+   "acts": [
+    "Judiciary Act 1959"
+   ]
+  },
+  {
+   "in_force": "1960-05-26",
+   "acts": [
+    "Judiciary Act 1960"
+   ]
+  },
+  {
+   "in_force": "1960-10-01",
+   "acts": [
+    "Judiciary Act (No. 2) 1960"
+   ]
+  },
+  {
+   "in_force": "1965-07-01",
+   "acts": [
+    "Judiciary Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-11-24",
+   "acts": [
+    "Judiciary Act 1966"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1969-01-06",
+   "acts": [
+    "Judiciary Act 1968"
+   ]
+  },
+  {
+   "in_force": "1969-06-14",
+   "acts": [
+    "Judiciary Act 1969"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-12-09",
+   "acts": [
+    "Judiciary Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-02-01",
+   "acts": [
+    "Judiciary Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-10-01",
+   "acts": [
+    "Judiciary Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-04-21",
+   "acts": [
+    "Judiciary Amendment Act (No. 2) 1979"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-06-20",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-01-19",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-03-05",
+   "acts": [
+    "Director of Public Prosecutions (Consequential Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-04-04",
+   "acts": [
+    "Judiciary Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-06-01",
+   "acts": [
+    "Judiciary Amendment Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Judiciary Amendment Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-11-22",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-05-31",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-02-19",
+   "acts": [
+    "Judiciary Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-07-27",
+   "acts": [
+    "Crimes Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "Courts and Tribunals Administration Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-02-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-06-29",
+   "acts": [
+    "Territories Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-03-30",
+   "acts": [
+    "Industrial Relations Reform Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-04-11",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-06-23",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-11-28",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-09-01",
+   "acts": [
+    "Judiciary Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-05-30",
+   "acts": [
+    "Jurisdiction of Courts Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Jurisdiction of Courts Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-10-14",
+   "acts": [
+    "Jurisdiction of Courts Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-01-11",
+   "acts": [
+    "National Security Information (Criminal Proceedings) (Consequential Amendments) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-07-06",
+   "acts": [
+    "Statute Law Revision Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-08-03",
+   "acts": [
+    "National Security Information Legislation Amendment Act 2005"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

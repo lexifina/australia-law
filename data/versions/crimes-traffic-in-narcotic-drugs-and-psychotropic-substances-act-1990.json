@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A04028",
+ "name": "Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990",
+ "folder": "crimes-traffic-in-narcotic-drugs-and-psychotropic-substances-act-1990",
+ "compilations": [
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00745",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04028',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04028/2012-09-22/text",
+   "sha256": "edae572d344b2ad33a521b43bd683997077893346f938c7389db7eff3c5204f3"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00532",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04028',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04028/2016-03-10/text",
+   "sha256": "83c28e7201ab875d6d4d500dbe15773b4036da7808815ef140fa295ef386ee0c"
+  },
+  {
+   "in_force": "2018-05-11",
+   "register_id": "C2018C00153",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04028',start=2018-05-11,retrospectivestart=2018-05-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04028/2018-05-11/text",
+   "sha256": "1fb553f434a912e6d840706e73c725fb76e4722e71e1b523737cf879934edb20"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-11-29",
+   "acts": []
+  },
+  {
+   "in_force": "1993-02-14",
+   "acts": [
+    "Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-16",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1995-01-16",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-01-16",
+   "acts": [
+    "Crimes Legislation Amendment (People Smuggling, Firearms Trafficking and Other Measures) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

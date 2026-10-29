@@ -1,0 +1,96 @@
+{
+ "title_id": "C2004A04394",
+ "name": "International Air Services Commission Act 1992",
+ "folder": "international-air-services-commission-act-1992",
+ "compilations": [
+  {
+   "in_force": "2014-06-24",
+   "register_id": "C2014C00288",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04394',start=2014-06-24,retrospectivestart=2014-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04394/2014-06-24/text",
+   "sha256": "b5531bb5ee87121119a49748f892c7b7240dfc41ef186db618584d1b9aeecd09"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01055",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04394',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04394/2016-10-21/text",
+   "sha256": "ee027b90131c9cb9cbe79cbc9014edce0210dd100da47664e9c5aebf4dc4d532"
+  },
+  {
+   "in_force": "2024-03-20",
+   "register_id": "C2024C00091",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04394',start=2024-03-20,retrospectivestart=2024-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04394/2024-03-20/text",
+   "sha256": "f65c447937997cdfea5c6320dae5c331c438c9436596b808130e1835330b3e64"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-06-30",
+   "acts": []
+  },
+  {
+   "in_force": "1994-11-28",
+   "acts": [
+    "International Air Services Commission Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1999-01-24",
+   "acts": [
+    "Aviation Legislation Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-06-19",
+   "acts": [
+    "Aviation Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

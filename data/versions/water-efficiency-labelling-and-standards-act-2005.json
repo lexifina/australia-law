@@ -1,0 +1,114 @@
+{
+ "title_id": "C2005A00004",
+ "name": "Water Efficiency Labelling and Standards Act 2005",
+ "folder": "water-efficiency-labelling-and-standards-act-2005",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00901",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00004',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00004/2016-07-01/text",
+   "sha256": "05161d35b545043196eae6d6a293f3f0e888a7a7365a1064d970c2f07e45c4a5"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00503",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00004',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00004/2021-09-01/text",
+   "sha256": "d271b356e29619a7cc558e70ba0a3290a8ac509db639ab5bed5cf2dba7ce099d"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00548",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00004',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00004/2024-10-14/text",
+   "sha256": "b96a8e72563910764533c4a62e1a680842d0caa28f49dbee9dccaaa1cf5ce546"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2005-02-18",
+   "acts": []
+  },
+  {
+   "in_force": "2005-03-18",
+   "acts": [
+    "Environment and Heritage Legislation Amendment (Antarctic Seals and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-11",
+   "acts": [
+    "Environment and Heritage Legislation Amendment (Antarctic Seals and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2011-03-23",
+   "acts": [
+    "Water Efficiency Labelling and Standards Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-22",
+   "acts": [
+    "Water Efficiency Labelling and Standards Amendment (Scheme Enhancements) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-23",
+   "acts": [
+    "Water Efficiency Labelling and Standards Amendment (Scheme Enhancements) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-22",
+   "acts": [
+    "Water Efficiency Labelling and Standards Amendment (Scheme Enhancements) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-27",
+   "acts": [
+    "Water Efficiency Labelling and Standards Amendment (Registration Fees) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-11-01",
+   "acts": [
+    "Water Efficiency Labelling and Standards Amendment (Scheme Enhancements) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

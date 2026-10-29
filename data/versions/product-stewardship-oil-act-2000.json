@@ -1,0 +1,89 @@
+{
+ "title_id": "C2004A00694",
+ "name": "Product Stewardship (Oil) Act 2000",
+ "folder": "product-stewardship-oil-act-2000",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00416",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00694',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00694/2016-03-05/text",
+   "sha256": "03ae5d16f37ff7eda4b925969e4848f588b187fc57d33b3f69794b90947049a5"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00868",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00694',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00694/2016-07-01/text",
+   "sha256": "ee5f0f339e69a37d88d7363accbda0af8899d6b5a0f6996426f04c9e2df72d69"
+  },
+  {
+   "in_force": "2018-02-21",
+   "register_id": "C2018C00043",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00694',start=2018-02-21,retrospectivestart=2018-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00694/2018-02-21/text",
+   "sha256": "c893a54f92e9eb33eba27faa0fefffce1897c7603710b50e08b85cc4839acefe"
+  },
+  {
+   "in_force": "2020-09-08",
+   "register_id": "C2020C00294",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00694',start=2020-09-08,retrospectivestart=2020-09-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00694/2020-09-08/text",
+   "sha256": "d1da6a38fa7cab5fb254317a18c6f41ce0f1189ae594ffcdfd050789d7d020f8"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2000-07-06",
+   "acts": []
+  },
+  {
+   "in_force": "2001-01-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2003-12-01",
+   "acts": [
+    "Product Stewardship (Oil) Legislation Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2008-03-24",
+   "acts": [
+    "Product Stewardship (Oil) Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2015-06-25",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

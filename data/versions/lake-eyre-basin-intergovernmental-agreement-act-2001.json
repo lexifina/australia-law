@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00795",
+ "name": "Lake Eyre Basin Intergovernmental Agreement Act 2001",
+ "folder": "lake-eyre-basin-intergovernmental-agreement-act-2001",
+ "compilations": [
+  {
+   "in_force": "2000-10-21",
+   "register_id": "C2004A00795",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00795',start=2000-10-21,retrospectivestart=2000-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00795/2000-10-21/text",
+   "sha256": "3180ac2278d4f978e48798055d662872319417f3f4d284bcd719d1defbe1a740"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

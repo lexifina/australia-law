@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A01315",
+ "name": "Parliamentary Superannuation Act 2004",
+ "folder": "parliamentary-superannuation-act-2004",
+ "compilations": [
+  {
+   "in_force": "2018-01-01",
+   "register_id": "C2018C00009",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01315',start=2018-01-01,retrospectivestart=2018-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01315/2018-01-01/text",
+   "sha256": "9da5361eb559398ecf7e5a529f832f8796dbf4771395f6574d16103232afd504"
+  },
+  {
+   "in_force": "2024-07-01",
+   "register_id": "C2024C00252",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01315',start=2024-07-01,retrospectivestart=2024-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01315/2024-07-01/text",
+   "sha256": "3083ff5e72a6a500b2b8ea2235e59b81af7ff2aa66b22eadc325407f7206e9ca"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00245",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01315',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01315/2026-07-01/text",
+   "sha256": "b1343399d01041690ee5f0551cf08725b6a41a15ad4fda3ad675b172570ed0ba"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2004-06-23",
+   "acts": []
+  },
+  {
+   "in_force": "2006-10-24",
+   "acts": [
+    "Parliamentary Superannuation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2011-08-05",
+   "acts": [
+    "Remuneration and Other Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

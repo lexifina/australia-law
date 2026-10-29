@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A03847",
+ "name": "Income Tax (Fund Contributions) Act 1989",
+ "folder": "income-tax-fund-contributions-act-1989",
+ "compilations": [
+  {
+   "in_force": "1989-06-30",
+   "register_id": "C2004A03847",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03847',start=1989-06-30,retrospectivestart=1989-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03847/1989-06-30/text",
+   "sha256": "3522e82eee4b8663f27087228cd5ef2bcc9a048087aef08e1f6cbdadaa693e99"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

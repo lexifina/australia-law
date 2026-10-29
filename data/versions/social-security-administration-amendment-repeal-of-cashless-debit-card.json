@@ -1,0 +1,21 @@
+{
+ "title_id": "C2022A00039",
+ "name": "Social Security (Administration) Amendment (Repeal of Cashless Debit Card and Other Measures) Act 2022",
+ "folder": "social-security-administration-amendment-repeal-of-cashless-debit-card",
+ "compilations": [
+  {
+   "in_force": "2022-09-30",
+   "register_id": "C2022A00039",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00039',start=2022-09-30,retrospectivestart=2022-09-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00039/2022-09-30/text",
+   "sha256": "61981dca90e18e07cd25fcd4db7aeb9bcc6142e20935243bd57f5ea960aea26d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

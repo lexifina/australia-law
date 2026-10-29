@@ -1,0 +1,161 @@
+{
+ "title_id": "C1960A00069",
+ "name": "National Library Act 1960",
+ "folder": "national-library-act-1960",
+ "compilations": [
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00342",
+   "compilation": null,
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1960A00069',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1960A00069/2011-12-27/text",
+   "sha256": "b357885a844e7d5e1f2637c4f4337809cb2c9d776949d6d83631714e88dba698"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00522",
+   "compilation": null,
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1960A00069',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1960A00069/2014-07-01/text",
+   "sha256": "abc190f1cf9f34dab5eda83da55f839660f1fc048ea18e66038e2b10b3c80969"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01080",
+   "compilation": "12",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1960A00069',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1960A00069/2016-10-21/text",
+   "sha256": "6cdd648a2be1c94def6bfbe7fa51b8ba1d02abbdfe6bdb5ee5cf6efb52402fae"
+  },
+  {
+   "in_force": "2021-05-01",
+   "register_id": "C2021C00212",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1960A00069',start=2021-05-01,retrospectivestart=2021-05-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1960A00069/2021-05-01/text",
+   "sha256": "dd976634daaf7bb867e7e7cb3c3794f6caa82e7a680fb4e280336afbb8d8c764"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1960-12-07",
+   "acts": []
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1967-05-23",
+   "acts": [
+    "National Library Act 1967"
+   ]
+  },
+  {
+   "in_force": "1973-12-20",
+   "acts": [
+    "National Library Act 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-11-22",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1989-06-09",
+   "acts": [
+    "Lands Acquisition (Repeal and Consequential Provisions) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-03-21",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,32 @@
+{
+ "title_id": "C2023A00107",
+ "name": "Disability Services and Inclusion Act 2023",
+ "folder": "disability-services-and-inclusion-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-12-04",
+   "register_id": "C2023A00107",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00107',start=2023-12-04,retrospectivestart=2023-12-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00107/2023-12-04/text",
+   "sha256": "9c00d21569503523a06b2e257cf469b571af3a2f54e32cc515ddcc675aac350d"
+  },
+  {
+   "in_force": "2024-05-31",
+   "register_id": "C2024C00207",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00107',start=2024-05-31,retrospectivestart=2024-05-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00107/2024-05-31/text",
+   "sha256": "d7d789e2e3adc8e196526d77f69e80119a015f5fca6e55464747e5c980567c67"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

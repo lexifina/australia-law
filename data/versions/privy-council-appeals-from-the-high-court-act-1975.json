@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00255",
+ "name": "Privy Council (Appeals from the High Court) Act 1975",
+ "folder": "privy-council-appeals-from-the-high-court-act-1975",
+ "compilations": [
+  {
+   "in_force": "1975-04-30",
+   "register_id": "C2004A00255",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00255',start=1975-04-30,retrospectivestart=1975-04-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00255/1975-04-30/text",
+   "sha256": "c078435f50b8e426890a2d2dfb86fa7ceaf3b65fe8390619fc8de6475a6bfcd9"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

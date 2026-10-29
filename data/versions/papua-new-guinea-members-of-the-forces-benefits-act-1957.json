@@ -1,0 +1,61 @@
+{
+ "title_id": "C1957A00089",
+ "name": "Papua New Guinea (Members of the Forces Benefits) Act 1957",
+ "folder": "papua-new-guinea-members-of-the-forces-benefits-act-1957",
+ "compilations": [
+  {
+   "in_force": "1986-05-22",
+   "register_id": "C2004C00383",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1957A00089',start=1986-05-22,retrospectivestart=1986-05-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1957A00089/1986-05-22/text",
+   "sha256": "ab325de4498b956b36e2a0f08dd777628080855e6a237582626056f00b039b43"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1961-06-01",
+   "acts": [
+    "Native Members of the Forces Benefits Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1968-05-08",
+   "acts": [
+    "Native Members of the Forces Benefits Act 1968"
+   ]
+  },
+  {
+   "in_force": "1972-11-02",
+   "acts": [
+    "Native Members of the Forces Benefits Act 1972"
+   ]
+  },
+  {
+   "in_force": "1974-10-31",
+   "acts": [
+    "Repatriation Acts Amendment Act 1974",
+    "Repatriation Acts Amendment Act 1974"
+   ]
+  },
+  {
+   "in_force": "1981-10-30",
+   "acts": [
+    "Repatriation Acts Amendment Act 1981"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1957-12-12"
+ ],
+ "repeal": null
+}

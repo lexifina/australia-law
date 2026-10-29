@@ -1,0 +1,43 @@
+{
+ "title_id": "C2006A00035",
+ "name": "Cancer Australia Act 2006",
+ "folder": "cancer-australia-act-2006",
+ "compilations": [
+  {
+   "in_force": "2006-05-03",
+   "register_id": "C2006A00035",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00035',start=2006-05-03,retrospectivestart=2006-05-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00035/2006-05-03/text",
+   "sha256": "2fe75b8274a556b7bb180b1ed26a77e2a74581338f2aabcb90e092368ea6a2aa"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00121",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00035',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00035/2011-12-27/text",
+   "sha256": "13723fba854276c96b9b1ff95cf0377ae9922b0557bcd06faa8e981a6bff8031"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00376",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00035',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00035/2014-07-01/text",
+   "sha256": "2882c53964b54864e4d22197af36f69988558a37f9e1294588ce21d2364a60c2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

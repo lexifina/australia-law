@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A05172",
+ "name": "International Transfer of Prisoners Act 1997",
+ "folder": "international-transfer-of-prisoners-act-1997",
+ "compilations": [
+  {
+   "in_force": "2015-06-18",
+   "register_id": "C2015C00267",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05172',start=2015-06-18,retrospectivestart=2015-06-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05172/2015-06-18/text",
+   "sha256": "6ace78e404281e2a435a0ae7385a369b7ec827b8caf38348312f568b97b05166"
+  },
+  {
+   "in_force": "2015-09-05",
+   "register_id": "C2015C00486",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05172',start=2015-09-05,retrospectivestart=2015-09-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05172/2015-09-05/text",
+   "sha256": "1c58d85b21673c63f56ea6630bce61434eef8a624f04dbf5d872b24759b96be5"
+  },
+  {
+   "in_force": "2023-09-14",
+   "register_id": "C2023C00237",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05172',start=2023-09-14,retrospectivestart=2023-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05172/2023-09-14/text",
+   "sha256": "092a9890a6f705c9a3e3aab4eab4164cb35cbdcc4ac1d80bb2617f4409a06741"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-06-18",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2003-01-16",
+   "acts": [
+    "Crimes Legislation Amendment (People Smuggling, Firearms Trafficking and Other Measures) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-03-23",
+   "acts": [
+    "International Transfer of Prisoners Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2010-12-11",
+   "acts": [
+    "Territories Law Reform Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-03",
+   "acts": [
+    "Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Crimes Legislation Amendment (Law Enforcement Integrity, Vulnerable Witness Protection and Other Measures) Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

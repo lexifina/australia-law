@@ -1,0 +1,21 @@
+{
+ "title_id": "C2022A00018",
+ "name": "Offshore Petroleum (Laminaria and Corallina Decommissioning Cost Recovery Levy) Act 2022",
+ "folder": "offshore-petroleum-laminaria-and-corallina-decommissioning-cost",
+ "compilations": [
+  {
+   "in_force": "2022-04-01",
+   "register_id": "C2022A00018",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2022A00018',start=2022-04-01,retrospectivestart=2022-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2022A00018/2022-04-01/text",
+   "sha256": "6e4a81badb97b913f0016a2d14b94fa675f504b07e3abcf29cbfec204540aa30"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

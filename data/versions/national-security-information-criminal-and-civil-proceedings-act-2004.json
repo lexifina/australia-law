@@ -1,0 +1,80 @@
+{
+ "title_id": "C2004A01385",
+ "name": "National Security Information (Criminal and Civil Proceedings) Act 2004",
+ "folder": "national-security-information-criminal-and-civil-proceedings-act-2004",
+ "compilations": [
+  {
+   "in_force": "2016-11-30",
+   "register_id": "C2016C01137",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01385',start=2016-11-30,retrospectivestart=2016-11-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01385/2016-11-30/text",
+   "sha256": "bada51ac1242337e88970abd047b709ceab8b3312b09696a9884d30e83caa6ef"
+  },
+  {
+   "in_force": "2017-11-29",
+   "register_id": "C2017C00374",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01385',start=2017-11-29,retrospectivestart=2017-11-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01385/2017-11-29/text",
+   "sha256": "be5df9ed93b0af95325e5aa0966a4c2ca924ab92a49c2a470b25773c225cd06c"
+  },
+  {
+   "in_force": "2021-12-09",
+   "register_id": "C2022C00001",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01385',start=2021-12-09,retrospectivestart=2021-12-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01385/2021-12-09/text",
+   "sha256": "7ed662402dbe2473c7942b8dba9d50f3ae11659dd5c7171618cb2d63930375a7"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2004-12-14",
+   "acts": []
+  },
+  {
+   "in_force": "2005-03-21",
+   "acts": [
+    "National Security Information (Criminal Proceedings) Amendment (Application) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-08-03",
+   "acts": [
+    "National Security Information Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2010-12-22",
+   "acts": [
+    "National Security Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-05-24",
+   "acts": [
+    "National Security Legislation Amendment Act 2010",
+    "National Security Legislation Amendment Act 2010",
+    "National Security Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

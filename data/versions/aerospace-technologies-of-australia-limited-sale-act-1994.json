@@ -1,0 +1,60 @@
+{
+ "title_id": "C2004A04817",
+ "name": "AeroSpace Technologies of Australia Limited Sale Act 1994",
+ "folder": "aerospace-technologies-of-australia-limited-sale-act-1994",
+ "compilations": [
+  {
+   "in_force": "2005-02-22",
+   "register_id": "C2005C00111",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04817',start=2005-02-22,retrospectivestart=2005-02-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04817/2005-02-22/text",
+   "sha256": "df9c5807df47a69d41d5f03475bc48e35298d8f0a7e65d185c6aaa1436121cdd"
+  },
+  {
+   "in_force": "2018-03-30",
+   "register_id": "C2018C00098",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04817',start=2018-03-30,retrospectivestart=2018-03-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04817/2018-03-30/text",
+   "sha256": "2e06b8d8d294de6edf74c3eb7fac39f07adf742112a0457eb6d68a9057642f16"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00418",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04817',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04817/2026-09-19/text",
+   "sha256": "b62f98898a1a76483a6e8a4888d1255deb907a5e3ac52b42951d229b112553e5"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1994-10-12",
+   "acts": []
+  },
+  {
+   "in_force": "1995-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

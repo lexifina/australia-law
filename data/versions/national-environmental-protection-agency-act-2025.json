@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00069",
+ "name": "National Environmental Protection Agency Act 2025",
+ "folder": "national-environmental-protection-agency-act-2025",
+ "compilations": [
+  {
+   "in_force": "2025-12-01",
+   "register_id": "C2025A00069",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00069',start=2025-12-01,retrospectivestart=2025-12-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00069/2025-12-01/text",
+   "sha256": "63aeabe65a02a28ad53dad242668840bf5bb3c9acd9bea34e15a2e96db4a839c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

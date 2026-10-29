@@ -1,0 +1,21 @@
+{
+ "title_id": "C2013A00072",
+ "name": "Australia Council (Consequential and Transitional Provisions) Act 2013",
+ "folder": "australia-council-consequential-and-transitional-provisions-act-2013",
+ "compilations": [
+  {
+   "in_force": "2013-06-27",
+   "register_id": "C2013A00072",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00072',start=2013-06-27,retrospectivestart=2013-06-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00072/2013-06-27/text",
+   "sha256": "292388d26d75e71785ed25c35165eb0b536e80d9a17d06462001135513d4ae5d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

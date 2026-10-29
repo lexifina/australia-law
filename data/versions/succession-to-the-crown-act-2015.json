@@ -1,0 +1,21 @@
+{
+ "title_id": "C2015A00023",
+ "name": "Succession to the Crown Act 2015",
+ "folder": "succession-to-the-crown-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-03-24",
+   "register_id": "C2015A00023",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00023',start=2015-03-24,retrospectivestart=2015-03-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00023/2015-03-24/text",
+   "sha256": "1e78d527863416db006fbf0c1d01350f62be88b4178a7c86482b6519e591e27a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

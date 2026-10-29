@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A03247",
+ "name": "Builders Labourers' Federation (Cancellation of Registration) Act 1986",
+ "folder": "builders-labourers-federation-cancellation-of-registration-act-1986",
+ "compilations": [
+  {
+   "in_force": "1986-04-14",
+   "register_id": "C2004A03247",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03247',start=1986-04-14,retrospectivestart=1986-04-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03247/1986-04-14/text",
+   "sha256": "7a573f78dda3551d77f1e3d3cd8b59a0b2a9af399275402ad1faca16b9e69c6e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

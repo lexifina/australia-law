@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04706",
+ "name": "Offshore Minerals (Retention Licence Fees) Act 1994",
+ "folder": "offshore-minerals-retention-licence-fees-act-1994",
+ "compilations": [
+  {
+   "in_force": "1994-02-25",
+   "register_id": "C2004A04706",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04706',start=1994-02-25,retrospectivestart=1994-02-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04706/1994-02-25/text",
+   "sha256": "a63c6fb67290b8dfd4efdae0fcf9d69ee6836dcbc3c6de096b02672bb8d4804d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

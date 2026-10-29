@@ -1,0 +1,128 @@
+{
+ "title_id": "C2004A03269",
+ "name": "Veterans' Entitlements (Transitional Provisions and Consequential Amendments) Act 1986",
+ "folder": "veterans-entitlements-transitional-provisions-and-consequential",
+ "compilations": [
+  {
+   "in_force": "1991-07-01",
+   "register_id": "C2016C00139",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03269',start=1991-07-01,retrospectivestart=1991-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03269/1991-07-01/text",
+   "sha256": "1d606cb151dae832c8bed6714a1a85d9a110fad29438ba1d91f841cd5d224266"
+  },
+  {
+   "in_force": "1991-11-12",
+   "register_id": "C2016C00142",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03269',start=1991-11-12,retrospectivestart=1991-11-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03269/1991-11-12/text",
+   "sha256": "7e3b821d34d5c4c0d716df6eadaab1ac2863432cd55a21c2d3881a63716bd4fa"
+  },
+  {
+   "in_force": "1997-07-01",
+   "register_id": "C2016C00143",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03269',start=1997-07-01,retrospectivestart=1997-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03269/1997-07-01/text",
+   "sha256": "d95e495ffa668cb844d433d0f277076903d524019151b1df65a14704f7f77940"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1986-05-19",
+   "acts": []
+  },
+  {
+   "in_force": "1986-05-21",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1986-05-22",
+   "acts": [
+    "Veterans' Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986",
+    "Social Security and Veterans' Affairs (Miscellaneous Amendments) Act 1986",
+    "Social Security and Veterans' Affairs (Miscellaneous Amendments) Act 1986",
+    "Veterans' Affairs Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1986-10-27",
+   "acts": [
+    "Social Security and Veterans' Affairs (Miscellaneous Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-06-05",
+   "acts": [
+    "Disability Services (Transitional Provisions and Consequential Amendments) Act 1986",
+    "Disability Services (Transitional Provisions and Consequential Amendments) Act 1986",
+    "Veterans' Affairs Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-07-02",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-16",
+   "acts": [
+    "Social Security and Veterans' Entitlements Amendment Act (No. 2) 1987",
+    "Social Security and Veterans' Entitlements Amendment Act (No. 2) 1987",
+    "Veterans' Affairs Legislation Amendment Act 1988",
+    "Veterans' Affairs Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-22",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1988",
+    "Veterans' Affairs Legislation Amendment Act 1988",
+    "Veterans' Affairs Legislation Amendment Act 1989",
+    "Social Security and Veterans' Affairs Legislation Amendment Act (No. 4) 1989"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act (No. 4) 1989",
+    "Social Security and Veterans' Affairs Legislation Amendment Act (No. 4) 1989"
+   ]
+  },
+  {
+   "in_force": "1989-06-27",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act (No. 4) 1989",
+    "Social Security and Veterans' Affairs Legislation Amendment Act (No. 4) 1989"
+   ]
+  },
+  {
+   "in_force": "1991-06-25",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1991",
+    "Veterans' Affairs Legislation Amendment Act 1991"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

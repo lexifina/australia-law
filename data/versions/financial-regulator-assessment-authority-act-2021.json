@@ -1,0 +1,48 @@
+{
+ "title_id": "C2021A00063",
+ "name": "Financial Regulator Assessment Authority Act 2021",
+ "folder": "financial-regulator-assessment-authority-act-2021",
+ "compilations": [
+  {
+   "in_force": "2023-09-15",
+   "register_id": "C2023C00247",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00063',start=2023-09-15,retrospectivestart=2023-09-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00063/2023-09-15/text",
+   "sha256": "f06492bcc6795ce509ccb7f3056fb8f7d51d64d04c18a09041400af940f9d336"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00694",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00063',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00063/2024-10-14/text",
+   "sha256": "8b809dc334caa7f028006f3450b974f7517c088c894b067a0b5607b6be1cb63f"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00660",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00063',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00063/2025-12-05/text",
+   "sha256": "6cc6d55f3e85212fe46389a2bc10abd63d579d55f0c1698c257a4b4fa2613af6"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2021-06-29",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,53 @@
+{
+ "title_id": "C1959A00094",
+ "name": "Commonwealth Motor Vehicles (Liability) Act 1959",
+ "folder": "commonwealth-motor-vehicles-liability-act-1959",
+ "compilations": [
+  {
+   "in_force": "1997-07-07",
+   "register_id": "C2004C00440",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00094',start=1997-07-07,retrospectivestart=1997-07-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00094/1997-07-07/text",
+   "sha256": "00fe0638ed4a7afe4ce24e695645e1b30846c1ae7c438af3a9e36fef15a72731"
+  },
+  {
+   "in_force": "2017-03-22",
+   "register_id": "C2017C00110",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1959A00094',start=2017-03-22,retrospectivestart=2017-03-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1959A00094/2017-03-22/text",
+   "sha256": "937647ecb2cce223dcc89a672b90aa9d3038690952e13b5614bf2a0d0c93ae54"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1978-07-01",
+   "acts": [
+    "Commonwealth Motor Vehicles (Liability) Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "2026-03-22",
+   "acts": [
+    "Statute Update (A.C.T. Self-Government (Consequential Provisions) Regulations) Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1959-12-04"
+ ],
+ "repeal": null
+}

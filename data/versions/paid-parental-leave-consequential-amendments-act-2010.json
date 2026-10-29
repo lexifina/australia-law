@@ -1,0 +1,32 @@
+{
+ "title_id": "C2010A00105",
+ "name": "Paid Parental Leave (Consequential Amendments) Act 2010",
+ "folder": "paid-parental-leave-consequential-amendments-act-2010",
+ "compilations": [
+  {
+   "in_force": "2010-07-14",
+   "register_id": "C2010A00105",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00105',start=2010-07-14,retrospectivestart=2010-07-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00105/2010-07-14/text",
+   "sha256": "7295c3796f3cb75e3be094ab58a61a891aad71dc003fb6f0fcc2303ccdf92d69"
+  },
+  {
+   "in_force": "2013-06-28",
+   "register_id": "C2013C00567",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00105',start=2013-06-28,retrospectivestart=2013-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00105/2013-06-28/text",
+   "sha256": "90adc2d9a5dc51e2ebd8cbf032f70545bafea5dda5713dab8f17be084a846d28"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

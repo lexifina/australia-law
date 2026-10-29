@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A01123",
+ "name": "New Business Tax System (Venture Capital Deficit Tax) Act 2003",
+ "folder": "new-business-tax-system-venture-capital-deficit-tax-act-2003",
+ "compilations": [
+  {
+   "in_force": "2003-04-11",
+   "register_id": "C2004A01123",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01123',start=2003-04-11,retrospectivestart=2003-04-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01123/2003-04-11/text",
+   "sha256": "e18245a08f38a0936a90bb015a0f50de67e944b20d33a9ec4d917e47053c654d"
+  },
+  {
+   "in_force": "2013-06-28",
+   "register_id": "C2013C00448",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01123',start=2013-06-28,retrospectivestart=2013-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01123/2013-06-28/text",
+   "sha256": "28cf9c567973ec75e05fef63fa07fea5902c26efa4ddd7592908ea1e97d5fcaf"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

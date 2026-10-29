@@ -1,0 +1,32 @@
+{
+ "title_id": "C2023A00012",
+ "name": "National Reconstruction Fund Corporation Act 2023",
+ "folder": "national-reconstruction-fund-corporation-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-04-11",
+   "register_id": "C2023A00012",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00012',start=2023-04-11,retrospectivestart=2023-04-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00012/2023-04-11/text",
+   "sha256": "40a0ea2eb278c3a5ec20b4a0fb032bc03b62afb7e8906f7f085a972d20015c71"
+  },
+  {
+   "in_force": "2023-10-17",
+   "register_id": "C2023C00318",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00012',start=2023-10-17,retrospectivestart=2023-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00012/2023-10-17/text",
+   "sha256": "5ce56e4699623a3473d8e8a8ee3832a5145397a2c890edcaeb2f52483edff3a6"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

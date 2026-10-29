@@ -1,0 +1,126 @@
+{
+ "title_id": "C2004A03003",
+ "name": "Biological Control Act 1984",
+ "folder": "biological-control-act-1984",
+ "compilations": [
+  {
+   "in_force": "2017-01-01",
+   "register_id": "C2017C00008",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03003',start=2017-01-01,retrospectivestart=2017-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03003/2017-01-01/text",
+   "sha256": "7768716fe79419e208ad6fc7f0e528b02c72b002288bd999c6315af00c4cc861"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00288",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03003',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03003/2024-07-06/text",
+   "sha256": "1a88ceec286709572058209ee032438a0a99dcb59858b9e973e766a5d47965d2"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00487",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03003',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03003/2024-10-14/text",
+   "sha256": "9fd13a1822db164523260a7fbc6bfe38e39a9861be2ee5bb0bf7c10c47c8b4d2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1984-10-25",
+   "acts": []
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1994-10-21",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-04-16",
+   "acts": [
+    "Productivity Commission (Repeals, Transitional and Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-16",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-01-11",
+   "acts": [
+    "Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-02-11",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

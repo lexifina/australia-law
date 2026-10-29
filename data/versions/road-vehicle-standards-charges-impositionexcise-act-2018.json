@@ -1,0 +1,21 @@
+{
+ "title_id": "C2018A00166",
+ "name": "Road Vehicle Standards Charges (Imposition—Excise) Act 2018",
+ "folder": "road-vehicle-standards-charges-impositionexcise-act-2018",
+ "compilations": [
+  {
+   "in_force": "2018-12-10",
+   "register_id": "C2018A00166",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00166',start=2018-12-10,retrospectivestart=2018-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00166/2018-12-10/text",
+   "sha256": "ced76fc1291767b58daaa3d6fd311a1d967c39f4c8aab1e131d3b0ddec400446"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

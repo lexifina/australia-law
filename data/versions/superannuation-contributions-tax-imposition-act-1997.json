@@ -1,0 +1,55 @@
+{
+ "title_id": "C2004A05170",
+ "name": "Superannuation Contributions Tax Imposition Act 1997",
+ "folder": "superannuation-contributions-tax-imposition-act-1997",
+ "compilations": [
+  {
+   "in_force": "2003-11-12",
+   "register_id": "C2004C07277",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05170',start=2003-11-12,retrospectivestart=2003-11-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05170/2003-11-12/text",
+   "sha256": "71038771a9689f4bbdb41f57c81ab476da600786b518e10006a430acded4245f"
+  },
+  {
+   "in_force": "2004-06-30",
+   "register_id": "C2004C00901",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05170',start=2004-06-30,retrospectivestart=2004-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05170/2004-06-30/text",
+   "sha256": "7e4607d3917cf7970da803f68f6abaaa51bb28155f5cc8a99974831306d0bdc7"
+  },
+  {
+   "in_force": "2005-08-12",
+   "register_id": "C2005C00530",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05170',start=2005-08-12,retrospectivestart=2005-08-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05170/2005-08-12/text",
+   "sha256": "a239578290b284a0427fa0cb5ef4d602b02ffed996f9d15eee27d6927e78bdab"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-06-05",
+   "acts": []
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act (No. 2) 2002",
+    "Superannuation (Surcharge Rate Reduction) Amendment Act 2003"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

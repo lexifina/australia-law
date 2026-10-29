@@ -1,0 +1,285 @@
+{
+ "title_id": "C2004A00412",
+ "name": "A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999",
+ "folder": "a-new-tax-system-medicare-levy-surchargefringe-benefits-act-1999",
+ "compilations": [
+  {
+   "in_force": "2023-06-24",
+   "register_id": "C2023C00113",
+   "compilation": "39",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00412',start=2023-06-24,retrospectivestart=2023-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00412/2023-06-24/text",
+   "sha256": "109fbe5327770f5d5163a82a5bd49404f472d637746a5d7192dbe4d4c3682fd2"
+  },
+  {
+   "in_force": "2024-03-06",
+   "register_id": "C2024C00072",
+   "compilation": "40",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00412',start=2024-03-06,retrospectivestart=2024-03-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00412/2024-03-06/text",
+   "sha256": "84e984abd99686bcf193cda18902ca675913e926a536c9f5a2aeb9feb1042708"
+  },
+  {
+   "in_force": "2025-03-28",
+   "register_id": "C2025C00260",
+   "compilation": "41",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00412',start=2025-03-28,retrospectivestart=2025-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00412/2025-03-28/text",
+   "sha256": "4abbb249e40458113e7288fc6c0e0d44ff80213e1a7161f5f281fbcdcad6117e"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00288",
+   "compilation": "42",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00412',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00412/2026-07-01/text",
+   "sha256": "26a76e987a384e603261d98bcdb199e1e63e4ca2a7d5ca037b1fc182ac567596"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-04-19",
+   "acts": []
+  },
+  {
+   "in_force": "2000-05-30",
+   "acts": [
+    "A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Amendment Act 2000",
+    "Medicare Levy Amendment (CPI Indexation) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-06-28",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 6) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-03-22",
+   "acts": [
+    "Medicare Levy Amendment (CPI Indexation) Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2002-06-26",
+   "acts": [
+    "Taxation Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 6) 2003"
+   ]
+  },
+  {
+   "in_force": "2004-06-25",
+   "acts": [
+    "Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-06-26",
+   "acts": [
+    "Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-30",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 3) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-21",
+   "acts": [
+    "Tax Laws Amendment (2007 Budget Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-25",
+   "acts": [
+    "Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-18",
+   "acts": [
+    "Tax Laws Amendment (Medicare Levy Surcharge Thresholds) Act (No. 2) 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-31",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-27",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-06-23",
+   "acts": [
+    "Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-06-29",
+   "acts": [
+    "Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-06-27",
+   "acts": [
+    "Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-21",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 9) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-06-28",
+   "acts": [
+    "Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Clean Energy (Tax Laws Amendments) Act 2011",
+    "Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Act 2012",
+    "Tax and Superannuation Laws Amendment (2013 Measures No. 1) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2015-06-25",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-05-04",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-06-23",
+   "acts": [
+    "Treasury Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Budget Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "Treasury Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-01",
+   "acts": [
+    "A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Amendment (Excess Levels for Private Health Insurance Policies) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Treasury Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2019",
+    "Treatment Benefits (Special Access) (Consequential Amendments and Transitional Provisions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-03-25",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-20",
+   "acts": [
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2021-06-30",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 3) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-04-01",
+   "acts": [
+    "Treasury Laws Amendment (Cost of Living Support and Other Measures) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

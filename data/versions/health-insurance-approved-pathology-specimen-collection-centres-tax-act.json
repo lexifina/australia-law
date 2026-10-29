@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A00727",
+ "name": "Health Insurance (Approved Pathology Specimen Collection Centres) Tax Act 2000",
+ "folder": "health-insurance-approved-pathology-specimen-collection-centres-tax-act",
+ "compilations": [
+  {
+   "in_force": "2000-11-24",
+   "register_id": "C2004A00727",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00727',start=2000-11-24,retrospectivestart=2000-11-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00727/2000-11-24/text",
+   "sha256": "3c54b714dec5ff892859c18e8952c697125fafa8f9eeb202031ed7c6f84e96f0"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00801",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00727',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00727/2016-07-01/text",
+   "sha256": "d33b2fa5af7cbf76fcf9181c2c0294784b25d83886bc1930230594af8cd6c346"
+  },
+  {
+   "in_force": "2018-12-01",
+   "register_id": "C2018C00480",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00727',start=2018-12-01,retrospectivestart=2018-12-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00727/2018-12-01/text",
+   "sha256": "a7d513f5fb0fbd9c2b0a1f48e277e3298e7a2b2a31a13ca238d7690e125d379c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

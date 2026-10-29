@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A01703",
+ "name": "National Workplace Relations Consultative Council Act 2002",
+ "folder": "national-workplace-relations-consultative-council-act-2002",
+ "compilations": [
+  {
+   "in_force": "1999-12-05",
+   "register_id": "C2004C05559",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01703',start=1999-12-05,retrospectivestart=1999-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01703/1999-12-05/text",
+   "sha256": "5b4d4a539597b1aba47ab8a1537d30714b6e7702a3ea793ccc8da534a2688604"
+  },
+  {
+   "in_force": "2002-12-11",
+   "register_id": "C2004C00091",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01703',start=2002-12-11,retrospectivestart=2002-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01703/2002-12-11/text",
+   "sha256": "b4c13c8a203b55b6afd571319138ecc0b8e8e446c356427602f509f76b7a9f41"
+  },
+  {
+   "in_force": "2024-08-26",
+   "register_id": "C2024C00352",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01703',start=2024-08-26,retrospectivestart=2024-08-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01703/2024-08-26/text",
+   "sha256": "517255832471d709dccc0c7c19d83566cd4ebbe25223ab9e04948ce5db43488d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1977-06-16",
+   "acts": []
+  },
+  {
+   "in_force": "1979-11-06",
+   "acts": [
+    "National Labour Consultative Council Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1981-12-14",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-10-20",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1986-01-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1992-07-23",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-01-15",
+   "acts": [
+    "Industrial Relations and other Legislation Amendment Act 1995"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

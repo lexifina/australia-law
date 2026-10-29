@@ -1,0 +1,127 @@
+{
+ "title_id": "C2011A00137",
+ "name": "Work Health and Safety Act 2011",
+ "folder": "work-health-and-safety-act-2011",
+ "compilations": [
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00359",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00137',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00137/2023-10-18/text",
+   "sha256": "47ccbe691a2c226f8a96372242db1089b80662da56249db5915dfae048b10beb"
+  },
+  {
+   "in_force": "2023-12-15",
+   "register_id": "C2023C00491",
+   "compilation": "15",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00137',start=2023-12-15,retrospectivestart=2023-12-15,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00137/2023-12-15/text",
+   "sha256": "e01d8cc6533da5cde400c789d759d9e623822f4b7ef586e7a1fb0ee2fd52e296"
+  },
+  {
+   "in_force": "2024-07-01",
+   "register_id": "C2024C00243",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00137',start=2024-07-01,retrospectivestart=2024-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00137/2024-07-01/text",
+   "sha256": "7971c8c671cab8d72daa0005b96cbf7987f65a9f06964ec86e42ef29e5c2b99b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-11-29",
+   "acts": []
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-05-28",
+   "acts": [
+    "Foreign Affairs Portfolio Miscellaneous Measures Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-09-20",
+   "acts": [
+    "Statute Update (Winter 2017) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Intelligence Services Amendment (Establishment of the Australian Signals Directorate) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-10",
+   "acts": [
+    "Work Health and Safety Amendment (Norfolk Island) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-02-23",
+   "acts": [
+    "Parliamentary Workplace Reform (Set the Standard Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-09-21",
+   "acts": [
+    "Work Health and Safety Amendment Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

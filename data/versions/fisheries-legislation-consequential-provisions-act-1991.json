@@ -1,0 +1,26 @@
+{
+ "title_id": "C2004A04238",
+ "name": "Fisheries Legislation (Consequential Provisions) Act 1991",
+ "folder": "fisheries-legislation-consequential-provisions-act-1991",
+ "compilations": [
+  {
+   "in_force": "1993-12-16",
+   "register_id": "C2013C00665",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04238',start=1993-12-16,retrospectivestart=1993-12-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04238/1993-12-16/text",
+   "sha256": "ce126b95f00b261f2e6cb1cb17b98eaa6f2935e43a73379799b6968e9e139132"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-11-10",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

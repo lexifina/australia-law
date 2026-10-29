@@ -1,0 +1,75 @@
+{
+ "title_id": "C2004A01286",
+ "name": "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004",
+ "folder": "military-rehabilitation-and-compensation-consequential-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2025-04-21",
+   "register_id": "C2025C00327",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01286',start=2025-04-21,retrospectivestart=2025-04-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01286/2025-04-21/text",
+   "sha256": "35b5f02c5b435428d766fb5e2d1ccc1d17c4a3b4f553119f9b6503c271daaf9b"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00676",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01286',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01286/2025-12-05/text",
+   "sha256": "586de9c35d3e073801be47b9e2aef6e4ac2782256819a9bc523b461833b352b0"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00273",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01286',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01286/2026-07-01/text",
+   "sha256": "606c9d6c9ca879c0ec9ebff9e6d47cd7d5b19b241869f3a89eae9933724f6eca"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2004-04-27",
+   "acts": []
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Veterans' Entitlements (Clarke Review) Act 2004",
+    "Statute Law Revision Act 2005",
+    "Veterans' Affairs Legislation Amendment (2007 Measures No. 1) Act 2007",
+    "Veterans' Affairs Legislation Amendment (2007 Measures No. 1) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-03-16",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Statements of Principles and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Military Compensation Review and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2017-10-12",
+   "acts": [
+    "Safety, Rehabilitation and Compensation Legislation Amendment (Defence Force) Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

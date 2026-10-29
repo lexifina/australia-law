@@ -1,0 +1,67 @@
+{
+ "title_id": "C2004A01081",
+ "name": "Prohibition of Human Cloning for Reproduction Act 2002",
+ "folder": "prohibition-of-human-cloning-for-reproduction-act-2002",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00933",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01081',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01081/2016-10-21/text",
+   "sha256": "d18ff10456e2d8ed00d8124d49f7c5b27cb444d13ecb19b921211558e83ba1dc"
+  },
+  {
+   "in_force": "2017-09-20",
+   "register_id": "C2017C00306",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01081',start=2017-09-20,retrospectivestart=2017-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01081/2017-09-20/text",
+   "sha256": "8c00762d8f8c7027b2cc055a167c6a79e21b688c3c934aec7c1ec924e419cc00"
+  },
+  {
+   "in_force": "2022-10-01",
+   "register_id": "C2022C00295",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01081',start=2022-10-01,retrospectivestart=2022-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01081/2022-10-01/text",
+   "sha256": "9fd49b44a9a8e6658ed86ebf23a3bb7fe43d324c2061e6c6f4bd289725a10b4d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2002-12-19",
+   "acts": []
+  },
+  {
+   "in_force": "2003-01-16",
+   "acts": [
+    "Statute Law Revision Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-06-12",
+   "acts": [
+    "Prohibition of Human Cloning for Reproduction and the Regulation of Human Embryo Research Amendment Act 2006",
+    "Prohibition of Human Cloning for Reproduction and the Regulation of Human Embryo Research Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

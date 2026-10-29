@@ -1,0 +1,118 @@
+{
+ "title_id": "C2016A00098",
+ "name": "VET Student Loans Act 2016",
+ "folder": "vet-student-loans-act-2016",
+ "compilations": [
+  {
+   "in_force": "2024-12-05",
+   "register_id": "C2024C00804",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00098',start=2024-12-05,retrospectivestart=2024-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00098/2024-12-05/text",
+   "sha256": "5d5f7e9ae2c2f002fa73221d36b13dd1bd6cf240063f0514cde67c621630c442"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00168",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00098',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00098/2025-02-21/text",
+   "sha256": "982eccd7aaee2e633a7a88e1a5857bad302532d2acc86b06364b88024bd76dd2"
+  },
+  {
+   "in_force": "2025-08-03",
+   "register_id": "C2025C00474",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00098',start=2025-08-03,retrospectivestart=2025-08-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00098/2025-08-03/text",
+   "sha256": "08651d182535b29276e1fb392da74281055c062a85adb2de812b1a0f3c92fb0e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2016-12-07",
+   "acts": []
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Education and Other Legislation Amendment Act (No. 1) 2017"
+   ]
+  },
+  {
+   "in_force": "2018-09-26",
+   "acts": [
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-11-28",
+   "acts": [
+    "Education Legislation Amendment (2019 Measures No. 1) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-06",
+   "acts": [
+    "Education Legislation Amendment (Tuition Protection and Other Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Higher Education Support Legislation Amendment (Student Loan Sustainability) Act 2018",
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018",
+    "Education Legislation Amendment (Tuition Protection and Other Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Education Legislation Amendment (2020 Measures No. 1) Act 2020",
+    "National Vocational Education and Training Regulator Amendment (Governance and Other Matters) Act 2020",
+    "Education Legislation Amendment (Up-front Payments Tuition Protection) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-02",
+   "acts": [
+    "VET Student Payment Arrangements (Miscellaneous Amendments) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2024-03-29",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Australia’s Engagement in the Pacific) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00077",
+ "name": "VET Student Loans (Miscellaneous Measures) Act 2025",
+ "folder": "vet-student-loans-miscellaneous-measures-act-2025",
+ "compilations": [
+  {
+   "in_force": "2025-12-04",
+   "register_id": "C2025A00077",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00077',start=2025-12-04,retrospectivestart=2025-12-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00077/2025-12-04/text",
+   "sha256": "553af7edb2c084a666f4b0032e28cc05e0d62d5b728fae4d362a94bb9491339b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

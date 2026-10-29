@@ -1,0 +1,67 @@
+{
+ "title_id": "C2004A03910",
+ "name": "Marine Navigation Levy Collection Act 1989",
+ "folder": "marine-navigation-levy-collection-act-1989",
+ "compilations": [
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00777",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03910',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03910/2012-09-22/text",
+   "sha256": "fefeda2b6e04b6d72e27c450af132d4b48b5626e520b6c55746bcb9327527c1d"
+  },
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00338",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03910',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03910/2013-07-01/text",
+   "sha256": "6892229f64cf6ed0d3918d5843a843b768deb599651da48a014492080688d39c"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00856",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03910',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03910/2016-07-01/text",
+   "sha256": "902f72283b34285cef1f8ebec07fd65ff4a111349da9b580939633c2acc4a925"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1989-12-18",
+   "acts": []
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Marine Navigation (Regulatory Functions) Levy Collection Act 1991"
+   ]
+  },
+  {
+   "in_force": "2008-10-03",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

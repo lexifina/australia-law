@@ -1,0 +1,125 @@
+{
+ "title_id": "C1963A00081",
+ "name": "Defence (Visiting Forces) Act 1963",
+ "folder": "defence-visiting-forces-act-1963",
+ "compilations": [
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00412",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1963A00081',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1963A00081/2008-07-04/text",
+   "sha256": "ab3c3944a29d24f784d3a25b73877bb2e3aa01610218ec9817bfa81a11ccffef"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00349",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1963A00081',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1963A00081/2016-03-05/text",
+   "sha256": "fab9bcf324296a77c84c385e8ec1672b170ab3578a2e531750ddffb3b1fe4713"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00815",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1963A00081',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1963A00081/2016-07-01/text",
+   "sha256": "3b620778fb16254f8672d88556a1d3e55dede0c7537fe0bb828cc6c0a843ce4c"
+  },
+  {
+   "in_force": "2017-12-09",
+   "register_id": "C2017C00397",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1963A00081',start=2017-12-09,retrospectivestart=2017-12-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1963A00081/2017-12-09/text",
+   "sha256": "70d4232193a5afdd2a32508c740e0cbcced6c212319ea74c61ab3b82f8204836"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1963-10-31",
+   "acts": []
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-02-09",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-05-28",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1980"
+   ]
+  },
+  {
+   "in_force": "1983-08-15",
+   "acts": [
+    "Defence Acts Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Australian Government Solicitor (Consequential Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Defence Force (Miscellaneous Provisions) Act 1982"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1999-09-01",
+   "acts": [
+    "Judiciary Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Defence Force Discipline Amendment (RCDVS Implementation and Related Measures No. 1) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A00384",
+ "name": "Australian Radiation Protection and Nuclear Safety (Licence Charges) Act 1998",
+ "folder": "australian-radiation-protection-and-nuclear-safety-licence-charges-act",
+ "compilations": [
+  {
+   "in_force": "1999-02-05",
+   "register_id": "C2004C01008",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00384',start=1999-02-05,retrospectivestart=1999-02-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00384/1999-02-05/text",
+   "sha256": "d6963c08660d725c1a941654bcf2cf26e7a2dfe9c418aa89a2f77df366626152"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1998-12-24"
+ ],
+ "repeal": null
+}

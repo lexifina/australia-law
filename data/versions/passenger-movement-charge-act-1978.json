@@ -1,0 +1,133 @@
+{
+ "title_id": "C2004A01917",
+ "name": "Passenger Movement Charge Act 1978",
+ "folder": "passenger-movement-charge-act-1978",
+ "compilations": [
+  {
+   "in_force": "2017-07-01",
+   "register_id": "C2017C00244",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01917',start=2017-07-01,retrospectivestart=2017-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01917/2017-07-01/text",
+   "sha256": "478306e16d05e57750d45a09b585ee6c00cebe3b2b840ccddefa4128a1c31fd1"
+  },
+  {
+   "in_force": "2019-08-30",
+   "register_id": "C2019C00244",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01917',start=2019-08-30,retrospectivestart=2019-08-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01917/2019-08-30/text",
+   "sha256": "f7e471b99eb3a0734069375423fc59c17fa0c9f347a9c610707134942428e39a"
+  },
+  {
+   "in_force": "2024-07-01",
+   "register_id": "C2024C00239",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01917',start=2024-07-01,retrospectivestart=2024-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01917/2024-07-01/text",
+   "sha256": "973de87ed71f75fe4b62dc86654ca9ae1e9cd63d03d77d4be83a967f4b0a5f95"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1978-09-29",
+   "acts": []
+  },
+  {
+   "in_force": "1981-10-01",
+   "acts": [
+    "Departure Tax Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Departure Tax Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-08-01",
+   "acts": [
+    "Departure Tax Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1994-01-01",
+   "acts": [
+    "Departure Tax Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-09-01",
+   "acts": [
+    "Migration Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-16",
+   "acts": [
+    "Departure Tax Amendment Act 1994",
+    "Departure Tax Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Passenger Movement Charge Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1999-01-01",
+   "acts": [
+    "Passenger Movement Charge Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-10-26",
+   "acts": [
+    "Timor Gap Treaty (Transitional Arrangements) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "Passenger Movement Charge Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-05-20",
+   "acts": [
+    "Passenger Movement Charge (Timor Sea Treaty) Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Passenger Movement Charge Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Passenger Movement Charge Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Passenger Movement Charge Amendment (Norfolk Island) Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2009A00030",
+ "name": "Excise Tariff Validation Act 2009",
+ "folder": "excise-tariff-validation-act-2009",
+ "compilations": [
+  {
+   "in_force": "2009-05-13",
+   "register_id": "C2009A00030",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00030',start=2009-05-13,retrospectivestart=2009-05-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00030/2009-05-13/text",
+   "sha256": "42645bce8b759c927de35d72a6c875280d3dae152fc7f8596737a15397feaa2e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

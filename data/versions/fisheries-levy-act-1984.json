@@ -1,0 +1,61 @@
+{
+ "title_id": "C2004A03015",
+ "name": "Fisheries Levy Act 1984",
+ "folder": "fisheries-levy-act-1984",
+ "compilations": [
+  {
+   "in_force": "2008-06-28",
+   "register_id": "C2008C00171",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03015',start=2008-06-28,retrospectivestart=2008-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03015/2008-06-28/text",
+   "sha256": "7acf8e2e725022af2431266058a85e8ef8895eebce139a5c513e52bfcad3df1e"
+  },
+  {
+   "in_force": "2013-06-29",
+   "register_id": "C2013C00410",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03015',start=2013-06-29,retrospectivestart=2013-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03015/2013-06-29/text",
+   "sha256": "fcc5b2801b5ea12794be368d7523380abd6a0e6ddad4f157f708bda7e30dbe70"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00295",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03015',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03015/2016-03-05/text",
+   "sha256": "e7a570851cc8bebb1478878a3b4cf5df065feceeafba39d38e4b67d571668b48"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1984-10-25",
+   "acts": []
+  },
+  {
+   "in_force": "1985-08-31",
+   "acts": [
+    "Fisheries Levy Amendment Act 1985",
+    "Fisheries Levy Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "2007-07-26",
+   "acts": [
+    "Fisheries Levy Amendment Act 2007"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

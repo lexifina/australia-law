@@ -1,0 +1,101 @@
+{
+ "title_id": "C1920A00054",
+ "name": "Protection of Word \"Anzac\" Act 1920",
+ "folder": "protection-of-word-anzac-act-1920",
+ "compilations": [
+  {
+   "in_force": "1989-12-19",
+   "register_id": "C2004C00266",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1920A00054',start=1989-12-19,retrospectivestart=1989-12-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1920A00054/1989-12-19/text",
+   "sha256": "f9fdbe854ff9f7b49e5f5a7b1af70a68be77de2febac9aa6a2026a68fdcf4028"
+  },
+  {
+   "in_force": "2014-02-28",
+   "register_id": "C2014C00072",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1920A00054',start=2014-02-28,retrospectivestart=2014-02-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1920A00054/2014-02-28/text",
+   "sha256": "d91c245c73599a83235b75249cdfcf05198fda4f93ff18e168a0f4631eb6c983"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1921-12-15",
+   "acts": [
+    "War Precautions (Coal) Act 1921"
+   ]
+  },
+  {
+   "in_force": "1921-12-22",
+   "acts": [
+    "War Precautions Act Repeal Act 1921"
+   ]
+  },
+  {
+   "in_force": "1922-10-18",
+   "acts": [
+    "War Precautions Act Repeal Act 1922"
+   ]
+  },
+  {
+   "in_force": "1923-09-01",
+   "acts": [
+    "War Precautions Act Repeal Act 1923"
+   ]
+  },
+  {
+   "in_force": "1928-06-22",
+   "acts": [
+    "War Precautions Act Repeal Act 1928"
+   ]
+  },
+  {
+   "in_force": "1934-08-06",
+   "acts": [
+    "Statute Law Revision Act 1934"
+   ]
+  },
+  {
+   "in_force": "1955-05-31",
+   "acts": [
+    "Crimes Act 1955"
+   ]
+  },
+  {
+   "in_force": "1959-06-01",
+   "acts": [
+    "Migration Act 1958"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1920-12-02"
+ ],
+ "repeal": null
+}

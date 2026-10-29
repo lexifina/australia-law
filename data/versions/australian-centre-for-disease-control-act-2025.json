@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00061",
+ "name": "Australian Centre for Disease Control Act 2025",
+ "folder": "australian-centre-for-disease-control-act-2025",
+ "compilations": [
+  {
+   "in_force": "2025-11-10",
+   "register_id": "C2025A00061",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00061',start=2025-11-10,retrospectivestart=2025-11-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00061/2025-11-10/text",
+   "sha256": "b952917ed4f214feef947888b3ecb3c697116e0157572fa8e4e8b3fb966469df"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

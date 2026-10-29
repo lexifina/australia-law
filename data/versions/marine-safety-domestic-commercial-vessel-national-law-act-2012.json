@@ -1,0 +1,66 @@
+{
+ "title_id": "C2012A00121",
+ "name": "Marine Safety (Domestic Commercial Vessel) National Law Act 2012",
+ "folder": "marine-safety-domestic-commercial-vessel-national-law-act-2012",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00377",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00121',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00121/2016-03-05/text",
+   "sha256": "dd058bd487e2238e8436520e8d22342a2a4b337692bbd7520f73eef104a35493"
+  },
+  {
+   "in_force": "2018-11-30",
+   "register_id": "C2018C00484",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00121',start=2018-11-30,retrospectivestart=2018-11-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00121/2018-11-30/text",
+   "sha256": "971bb1d02cc8ee68ab335f9a2fe57663fc01979fcc4125d6e6c6909aeab62b66"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00559",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00121',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00121/2024-10-14/text",
+   "sha256": "7808dc4b1e80dcdeffdb0e2ca6da7dfab9acc1826b1d3fd883b86aec47cb2df9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-09-12",
+   "acts": []
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Marine Safety (Domestic Commercial Vessel) National Law Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-11-20",
+   "acts": [
+    "Marine Safety (Domestic Commercial Vessel) National Law Amendment Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

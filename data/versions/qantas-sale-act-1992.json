@@ -1,0 +1,154 @@
+{
+ "title_id": "C2004A04487",
+ "name": "Qantas Sale Act 1992",
+ "folder": "qantas-sale-act-1992",
+ "compilations": [
+  {
+   "in_force": "2017-03-01",
+   "register_id": "C2017C00080",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04487',start=2017-03-01,retrospectivestart=2017-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04487/2017-03-01/text",
+   "sha256": "4d26780161f11b6d1269199c30e162818da52a23e8a816ed3e4675f3487e3ed9"
+  },
+  {
+   "in_force": "2018-03-30",
+   "register_id": "C2018C00091",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04487',start=2018-03-30,retrospectivestart=2018-03-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04487/2018-03-30/text",
+   "sha256": "62138c4922ecbfabfb24bda646595d6aec1c74046c78923185b125b13c465b07"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00417",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04487',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04487/2026-09-19/text",
+   "sha256": "d9c3891f7ddb3c0292cb3c4b797f2ae9311773ab7e435311baf79cdb32a80dfa"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-12-21",
+   "acts": []
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1994-12-16",
+   "acts": [
+    "Qantas Sale Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-06-15",
+   "acts": [
+    "Qantas Sale Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-30",
+   "acts": [
+    "Qantas Sale Amendment Act 1994",
+    "Qantas Sale Amendment Act 1994",
+    "Qantas Sale Amendment Act 1994",
+    "Qantas Sale Amendment Act 1994",
+    "Qantas Sale Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-08-30",
+   "acts": [
+    "Qantas Sale Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Australian Citizenship (Transitionals and Consequentials) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-12-18",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-20",
+   "acts": [
+    "Business Names Registration (Transitional and Consequential Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-08-25",
+   "acts": [
+    "Qantas Sale Amendment Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

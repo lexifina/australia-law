@@ -1,0 +1,21 @@
+{
+ "title_id": "C2020A00142",
+ "name": "Civil Aviation (Unmanned Aircraft Levy) Act 2020",
+ "folder": "civil-aviation-unmanned-aircraft-levy-act-2020",
+ "compilations": [
+  {
+   "in_force": "2020-12-17",
+   "register_id": "C2020A00142",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00142',start=2020-12-17,retrospectivestart=2020-12-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00142/2020-12-17/text",
+   "sha256": "6bd338d25c2705a8284e8c5fb06d8c7ddd4b8f9b266880423db16415940ea40c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

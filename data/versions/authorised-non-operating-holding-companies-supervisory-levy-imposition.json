@@ -1,0 +1,71 @@
+{
+ "title_id": "C2004A00312",
+ "name": "Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998",
+ "folder": "authorised-non-operating-holding-companies-supervisory-levy-imposition",
+ "compilations": [
+  {
+   "in_force": "2007-09-24",
+   "register_id": "C2007C00572",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00312',start=2007-09-24,retrospectivestart=2007-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00312/2007-09-24/text",
+   "sha256": "fae386538272d697fcc6261baf01e88419aebc05948fb7dabe03f7f307af521d"
+  },
+  {
+   "in_force": "2010-02-27",
+   "register_id": "C2010C00089",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00312',start=2010-02-27,retrospectivestart=2010-02-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00312/2010-02-27/text",
+   "sha256": "98b33cd7cc6a4b8dccba826793af966253f7022e81228c54b6ddb0e19058b299"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00025",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00312',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00312/2015-12-10/text",
+   "sha256": "a3127019dda7df2006f6b5cb638d3ae6b1cf22bf895cc832547aa1a5ea900727"
+  },
+  {
+   "in_force": "2020-06-20",
+   "register_id": "C2020C00185",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00312',start=2020-06-20,retrospectivestart=2020-06-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00312/2020-06-20/text",
+   "sha256": "ae68b1665389c934f0b6f7035b601b60de91b75158d01cce6aac9eccd76daa3b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Authorised Non-operating Holding Companies Supervisory Levy Imposition Amendment Act 2005"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

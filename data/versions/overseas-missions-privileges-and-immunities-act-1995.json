@@ -1,0 +1,48 @@
+{
+ "title_id": "C2004A04910",
+ "name": "Overseas Missions (Privileges and Immunities) Act 1995",
+ "folder": "overseas-missions-privileges-and-immunities-act-1995",
+ "compilations": [
+  {
+   "in_force": "2000-07-01",
+   "register_id": "C2004C00857",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04910',start=2000-07-01,retrospectivestart=2000-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04910/2000-07-01/text",
+   "sha256": "276520aac188b5753cd5ef12b1a42e66ee10011fe91d9fbbf7cfae17cf8dca98"
+  },
+  {
+   "in_force": "2006-09-14",
+   "register_id": "C2006C00564",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04910',start=2006-09-14,retrospectivestart=2006-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04910/2006-09-14/text",
+   "sha256": "94d330d2633c7f66e28eb983c6b10c3918f73e5054caf21f3e172f03e3bfa405"
+  },
+  {
+   "in_force": "2013-06-29",
+   "register_id": "C2013C00423",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04910',start=2013-06-29,retrospectivestart=2013-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04910/2013-06-29/text",
+   "sha256": "9bb862e5a284cd9669cf84fe98312e42c337e5e42e3cc5176263c6dba4c88b43"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-06-28",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

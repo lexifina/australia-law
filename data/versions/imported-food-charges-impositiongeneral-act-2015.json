@@ -1,0 +1,32 @@
+{
+ "title_id": "C2015A00099",
+ "name": "Imported Food Charges (Imposition—General) Act 2015",
+ "folder": "imported-food-charges-impositiongeneral-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-06-29",
+   "register_id": "C2015A00099",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00099',start=2015-06-29,retrospectivestart=2015-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00099/2015-06-29/text",
+   "sha256": "44f15e7548c13f32770bfbb19ef81fbcf58c0b811abde92d92bba0ae02b27128"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00823",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00099',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00099/2016-07-01/text",
+   "sha256": "78cc06f2a6ff195fb936803bb180ae25366cc7e4696ab5ca91d5bfdd5103300b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

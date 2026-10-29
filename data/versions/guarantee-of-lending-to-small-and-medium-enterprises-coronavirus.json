@@ -1,0 +1,32 @@
+{
+ "title_id": "C2020A00029",
+ "name": "Guarantee of Lending to Small and Medium Enterprises (Coronavirus Economic Response Package) Act 2020",
+ "folder": "guarantee-of-lending-to-small-and-medium-enterprises-coronavirus",
+ "compilations": [
+  {
+   "in_force": "2020-03-24",
+   "register_id": "C2020A00029",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00029',start=2020-03-24,retrospectivestart=2020-03-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00029/2020-03-24/text",
+   "sha256": "5e9df74b23afe903a5e4d5a51f1d04ee4ed662bbd25712c54b1665db9b1ba07e"
+  },
+  {
+   "in_force": "2020-04-09",
+   "register_id": "C2020C00145",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00029',start=2020-04-09,retrospectivestart=2020-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00029/2020-04-09/text",
+   "sha256": "915fe201152c9fd63358302413b146d3d6140608c1a386f8c4e339db2a89d132"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

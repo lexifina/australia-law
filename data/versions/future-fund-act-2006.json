@@ -1,0 +1,133 @@
+{
+ "title_id": "C2006A00012",
+ "name": "Future Fund Act 2006",
+ "folder": "future-fund-act-2006",
+ "compilations": [
+  {
+   "in_force": "2023-03-01",
+   "register_id": "C2023C00044",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00012',start=2023-03-01,retrospectivestart=2023-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00012/2023-03-01/text",
+   "sha256": "68c2399633586fb76851d1d9468affad8632e0bf21ad8d059fdd3dfc28a200b2"
+  },
+  {
+   "in_force": "2023-06-29",
+   "register_id": "C2023C00110",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00012',start=2023-06-29,retrospectivestart=2023-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00012/2023-06-29/text",
+   "sha256": "359cb7021908ac48f19ad1dfc15c018bb43cc9e1e2b3417c2043617fb278fe43"
+  },
+  {
+   "in_force": "2023-11-01",
+   "register_id": "C2023C00441",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00012',start=2023-11-01,retrospectivestart=2023-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00012/2023-11-01/text",
+   "sha256": "84714672d4b38c269a0a4d14d3b839ce4de9e0b0eb037f9055ddc669756fc668"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-03-23",
+   "acts": []
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-09-25",
+   "acts": [
+    "Higher Education Endowment Fund (Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Nation-building Funds (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "DisabilityCare Australia Fund (Consequential Amendments) Act 2013",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-08-27",
+   "acts": [
+    "Medical Research Future Fund (Consequential Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-09-11",
+   "acts": [
+    "Defence Legislation Amendment (Superannuation and ADF Cover) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-29",
+   "acts": [
+    "Medical Research Future Fund (Consequential Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2019-02-01",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Land and Sea Future Fund (Consequential Amendments) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-09-01",
+   "acts": [
+    "Future Drought Fund (Consequential Amendments) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-12",
+   "acts": [
+    "Emergency Response Fund (Consequential Amendments) Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,43 @@
+{
+ "title_id": "C2013A00068",
+ "name": "Australian Education (Consequential and Transitional Provisions) Act 2013",
+ "folder": "australian-education-consequential-and-transitional-provisions-act-2013",
+ "compilations": [
+  {
+   "in_force": "2013-06-27",
+   "register_id": "C2013A00068",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00068',start=2013-06-27,retrospectivestart=2013-06-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00068/2013-06-27/text",
+   "sha256": "52185919d821251e76afe1fa74c0198af15a86171263d42b461fb1533cc46d06"
+  },
+  {
+   "in_force": "2014-11-27",
+   "register_id": "C2014C00794",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00068',start=2014-11-27,retrospectivestart=2014-11-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00068/2014-11-27/text",
+   "sha256": "c5f58106a20869bf0edab4deb46ea6f7189dca5567a6be63b3f0ddb698a01a14"
+  },
+  {
+   "in_force": "2018-01-01",
+   "register_id": "C2018C00001",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00068',start=2018-01-01,retrospectivestart=2018-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00068/2018-01-01/text",
+   "sha256": "94441d03db34eb9097b3fe8fb8aff65ff971f8130ca6bedae5f28d193d998570"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

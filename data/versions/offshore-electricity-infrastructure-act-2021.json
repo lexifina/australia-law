@@ -1,0 +1,54 @@
+{
+ "title_id": "C2021A00120",
+ "name": "Offshore Electricity Infrastructure Act 2021",
+ "folder": "offshore-electricity-infrastructure-act-2021",
+ "compilations": [
+  {
+   "in_force": "2022-12-01",
+   "register_id": "C2022C00346",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00120',start=2022-12-01,retrospectivestart=2022-12-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00120/2022-12-01/text",
+   "sha256": "d1c22fab05a45c65c732f3a09bc06a7a09ef93b0c4d78f243c81979ce00c3ec8"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00657",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00120',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00120/2024-10-14/text",
+   "sha256": "2dcb59c9f444c5ba4bed074faf5a42a9eea40f7b52a888918367e34fb328cc2e"
+  },
+  {
+   "in_force": "2025-02-20",
+   "register_id": "C2025C00179",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00120',start=2025-02-20,retrospectivestart=2025-02-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00120/2025-02-20/text",
+   "sha256": "b08aea687928112acfde317e5ef7f365cb58b8fa9a93e9f194b377764a1752bf"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2021-12-02",
+   "acts": []
+  },
+  {
+   "in_force": "2022-09-14",
+   "acts": [
+    "Climate Change (Consequential Amendments) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

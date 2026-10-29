@@ -1,0 +1,63 @@
+{
+ "title_id": "C2004A00857",
+ "name": "Import Processing Charges Act 2001",
+ "folder": "import-processing-charges-act-2001",
+ "compilations": [
+  {
+   "in_force": "2014-01-01",
+   "register_id": "C2014C00024",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00857',start=2014-01-01,retrospectivestart=2014-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00857/2014-01-01/text",
+   "sha256": "713f1cdf0ebdf166319ca69abadf5a3ee2028677529d55519926fe30a478968b"
+  },
+  {
+   "in_force": "2016-01-01",
+   "register_id": "C2016C00079",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00857',start=2016-01-01,retrospectivestart=2016-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00857/2016-01-01/text",
+   "sha256": "8eaa11e801ee7af9ee31418ce7e02217e14dd88b699a32d5410d65aab57af122"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00813",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00857',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00857/2016-07-01/text",
+   "sha256": "2b9b8b4724d98d52236538a6f6415688c89c973d02d43e0e7fe55b96a34f59eb"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2001-07-18",
+   "acts": []
+  },
+  {
+   "in_force": "2005-07-19",
+   "acts": [
+    "Import Processing Charges (Amendment and Repeal) Act 2002",
+    "Import Processing Charges Amendment Act 2005",
+    "Customs Legislation Amendment (Import Processing Charges) Act 2005",
+    "Customs Legislation Amendment (Import Processing Charges) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2013-03-31",
+   "acts": [
+    "Customs Amendment (Miscellaneous Measures) Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

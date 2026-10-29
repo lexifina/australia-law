@@ -1,0 +1,71 @@
+{
+ "title_id": "C1955A00005",
+ "name": "Consular Fees Act 1955",
+ "folder": "consular-fees-act-1955",
+ "compilations": [
+  {
+   "in_force": "1997-10-17",
+   "register_id": "C2004C00180",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00005',start=1997-10-17,retrospectivestart=1997-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00005/1997-10-17/text",
+   "sha256": "2d5b906a8dfceeee766ace0f33a3e2f3fac9b804c8806d9060485d306da76a6f"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00322",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00005',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00005/2008-07-04/text",
+   "sha256": "e23e0c1262db4eb201340702dae236f64ba3ac9b7ec46ffe54cbe7e016254be9"
+  },
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00318",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00005',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00005/2011-04-19/text",
+   "sha256": "a6a96c9f3d1ac66c79d4708a8e24590360455c81b5dc51641efc3ab8fe696f76"
+  },
+  {
+   "in_force": "2016-05-01",
+   "register_id": "C2016C00572",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00005',start=2016-05-01,retrospectivestart=2016-05-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00005/2016-05-01/text",
+   "sha256": "c0f1d0c9d521320eb6ee80791fac08a8f8a570c91c10fedde9715318fdd461d1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1955-05-23",
+   "acts": []
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

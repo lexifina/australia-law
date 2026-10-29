@@ -1,0 +1,606 @@
+{
+ "title_id": "C2004A03668",
+ "name": "Safety, Rehabilitation and Compensation Act 1988",
+ "folder": "safety-rehabilitation-and-compensation-act-1988",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00592",
+   "compilation": "80",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03668',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03668/2024-10-14/text",
+   "sha256": "bc2327fe5e6e96eef822acb09543c96c6ec616b1d73328d1867ebe4677f0ed5e"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00175",
+   "compilation": "81",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03668',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03668/2025-02-21/text",
+   "sha256": "59a4501a6e7db7984d212f2991e77003e32993af2d34f7674c8816ac8d2eff8f"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00285",
+   "compilation": "82",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03668',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03668/2026-07-01/text",
+   "sha256": "9d668dd376dc748ad96310cc0a5c91f3ecc5fa7c168ebd61e2914de98529dd1f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-06-24",
+   "acts": []
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Statute Law Revision Act 2006"
+   ]
+  },
+  {
+   "in_force": "1988-12-01",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1988",
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1988-12-07",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-22",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "Commonwealth Employees' Rehabilitation and Compensation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1990-06-16",
+   "acts": [
+    "Commonwealth Employees' Rehabilitation and Compensation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-06-27",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Social Security (Rewrite) Transition Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-22",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 3) 1991",
+    "Commonwealth Employment (Miscellaneous Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Commonwealth Employment (Miscellaneous Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Seafarers Rehabilitation and Compensation (Transitional Provisions and Consequential Amendments) Act 1992",
+    "Commonwealth Employees' Rehabilitation and Compensation Amendment Act 1992",
+    "Commonwealth Employees' Rehabilitation and Compensation Amendment Act 1992",
+    "Industrial Relations and Other Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-19",
+   "acts": [
+    "Industrial Relations and Other Legislation Amendment Act 1993",
+    "Industrial Relations and Other Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-04-07",
+   "acts": [
+    "Military Compensation Act 1994",
+    "Statute Law Revision Act 1996",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1994-05-30",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-06-15",
+   "acts": [
+    "Defence Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-01-15",
+   "acts": [
+    "Industrial Relations and other Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-11-03",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-02-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Regulations 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Assistance for Carers Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999",
+    "Parliamentary Service (Consequential and Transitional) Determination 2000/3"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-11-01",
+   "acts": [
+    "Australian National Railways Commission Sale Act 1997"
+   ]
+  },
+  {
+   "in_force": "2001-02-01",
+   "acts": [
+    "Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-04-12",
+   "acts": [
+    "Safety, Rehabilitation and Compensation Act 1988 Amendment Regulations 2001 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2001-06-12",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (Debt Recovery) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "Pig Industry Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001",
+    "Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001",
+    "Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001",
+    "Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001",
+    "Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-04-01",
+   "acts": [
+    "Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001",
+    "Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-06-28",
+   "acts": [
+    "Snowy Hydro Corporatisation (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-12-11",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-06-11",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Dairy Industry Service Reform Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-06-17",
+   "acts": [
+    "Defence Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-05-16",
+   "acts": [
+    "Administrative Appeals Tribunal Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-26",
+   "acts": [
+    "Asbestos-related Claims (Management of Commonwealth Liabilities) (Consequential and Transitional Provisions) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-01-01",
+   "acts": [
+    "National Occupational Health and Safety Commission (Repeal, Consequential and Transitional Provisions) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-23",
+   "acts": [
+    "Statute Law Revision Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-14",
+   "acts": [
+    "OHS and SRC Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-04-13",
+   "acts": [
+    "Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-27",
+   "acts": [
+    "Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2007",
+    "Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "OHS and SRC Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-05-03",
+   "acts": [
+    "Employment and Workplace Relations Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Employment and Workplace Relations Amendment Act 2009",
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-11-01",
+   "acts": [
+    "Safe Work Australia (Consequential and Transitional Provisions) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-19",
+   "acts": [
+    "Safety, Rehabilitation and Compensation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-13",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (2010 Budget Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-18",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-07",
+   "acts": [
+    "Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2011",
+    "Safety, Rehabilitation and Compensation Amendment (Fair Protection for Firefighters) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Work Health and Safety (Transitional and Consequential Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Military Compensation Review and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-12-10",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Military Compensation Review and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-02-11",
+   "acts": [
+    "Safety, Rehabilitation and Compensation Legislation Amendment (Exit Arrangements) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-09",
+   "acts": [
+    "Parliamentary Entitlements Amendment (Injury Compensation Scheme) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-06-23",
+   "acts": [
+    "Comcare and Seacare Legislation Amendment (Pension Age and Catastrophic Injury) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Comcare and Seacare Legislation Amendment (Pension Age and Catastrophic Injury) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-10-12",
+   "acts": [
+    "Safety, Rehabilitation and Compensation Legislation Amendment (Defence Force) Act 2017",
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Parliamentary Business Resources (Consequential and Transitional Provisions) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-03-28",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Treatment Benefits (Special Access) (Consequential Amendments and Transitional Provisions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2022-12-07",
+   "acts": [
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-12-15",
+   "acts": [
+    "Fair Work Legislation Amendment (Closing Loopholes) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-03-20",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-06-14",
+   "acts": [
+    "Fair Work Legislation Amendment (Closing Loopholes) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

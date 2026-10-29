@@ -1,0 +1,48 @@
+{
+ "title_id": "C2020A00037",
+ "name": "Coronavirus Economic Response Package (Payments and Benefits) Act 2020",
+ "folder": "coronavirus-economic-response-package-payments-and-benefits-act-2020",
+ "compilations": [
+  {
+   "in_force": "2020-09-03",
+   "register_id": "C2020C00275",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00037',start=2020-09-03,retrospectivestart=2020-09-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00037/2020-09-03/text",
+   "sha256": "20941e50368c738c17eaa53e5db5a337bd054be16ce6e609dc8a57b15d42c1b6"
+  },
+  {
+   "in_force": "2020-11-14",
+   "register_id": "C2020C00355",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00037',start=2020-11-14,retrospectivestart=2020-11-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00037/2020-11-14/text",
+   "sha256": "9f9b98ec1e27e4c759c575a05e946690c6782af499231b25b62c653348288d92"
+  },
+  {
+   "in_force": "2021-08-11",
+   "register_id": "C2021C00328",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00037',start=2021-08-11,retrospectivestart=2021-08-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00037/2021-08-11/text",
+   "sha256": "eb494558c673ae7ab1cb7245bd519b08b609672938d3e549bc49cdebb87a6455"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2020-04-09",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

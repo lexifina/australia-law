@@ -1,0 +1,21 @@
+{
+ "title_id": "C2006A00007",
+ "name": "Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006",
+ "folder": "australian-sports-anti-doping-authority-consequential-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2006-03-07",
+   "register_id": "C2006A00007",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00007',start=2006-03-07,retrospectivestart=2006-03-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00007/2006-03-07/text",
+   "sha256": "942a29347e6e6762747e74098633b076778c66fc3ebbf16dbb3a9114f506798b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

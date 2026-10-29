@@ -1,0 +1,72 @@
+{
+ "title_id": "C2004A05105",
+ "name": "Customs Licensing Charges Act 1997",
+ "folder": "customs-licensing-charges-act-1997",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00700",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05105',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05105/2016-07-01/text",
+   "sha256": "57dd5c024afff862d32b3e2ec5adeb0ecdcab88ac69ade6ec2715310d97ebcb2"
+  },
+  {
+   "in_force": "2024-07-01",
+   "register_id": "C2024C00256",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05105',start=2024-07-01,retrospectivestart=2024-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05105/2024-07-01/text",
+   "sha256": "815505a160be5b8644ac824e27ffd24b2c8555f9522b804144ed40ff67964815"
+  },
+  {
+   "in_force": "2025-03-05",
+   "register_id": "C2025C00192",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05105',start=2025-03-05,retrospectivestart=2025-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05105/2025-03-05/text",
+   "sha256": "4bbddcc2f45526bca0fe8abd8757fb6cbe63cc2fb801f6ecbbd97cedba89167a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-02-28",
+   "acts": []
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Customs Depot Licensing Charges Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2011-11-28",
+   "acts": [
+    "Customs Amendment (Export Controls and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Customs Depot Licensing Charges Amendment Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2017A00110",
+ "name": "Commercial Broadcasting (Tax) Act 2017",
+ "folder": "commercial-broadcasting-tax-act-2017",
+ "compilations": [
+  {
+   "in_force": "2017-07-01",
+   "register_id": "C2017A00110",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00110',start=2017-07-01,retrospectivestart=2017-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00110/2017-07-01/text",
+   "sha256": "370985919ce609f0293176e21f34a198ac4c2ee488b59a9ba7c0f3a5f0965a9d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,43 @@
+{
+ "title_id": "C2009A00095",
+ "name": "Uranium Royalty (Northern Territory) Act 2009",
+ "folder": "uranium-royalty-northern-territory-act-2009",
+ "compilations": [
+  {
+   "in_force": "2009-09-29",
+   "register_id": "C2009A00095",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00095',start=2009-09-29,retrospectivestart=2009-09-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00095/2009-09-29/text",
+   "sha256": "201a0a54b57d55972ce6c0b3d28da2551ee6c3841fe20e28250be74db877c9da"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00420",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00095',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00095/2014-07-01/text",
+   "sha256": "d91e9cec2bb157042e142e8d48d06bb1bb0aeacdf5b193d0991a547fad72c884"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00364",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00095',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00095/2023-10-18/text",
+   "sha256": "3fad5259bf969785eb12e4a180569df85f43ae621b32c9deafcac015ecbaddf9"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

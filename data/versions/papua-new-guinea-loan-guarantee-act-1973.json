@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00031",
+ "name": "Papua New Guinea Loan Guarantee Act 1973",
+ "folder": "papua-new-guinea-loan-guarantee-act-1973",
+ "compilations": [
+  {
+   "in_force": "1973-05-24",
+   "register_id": "C2004A00031",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00031',start=1973-05-24,retrospectivestart=1973-05-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00031/1973-05-24/text",
+   "sha256": "7fbfdc44c7cab01140b41a4d77193ef2815db4dd26191b28b07b1017fc2514d5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

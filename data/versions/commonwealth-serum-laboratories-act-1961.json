@@ -1,0 +1,218 @@
+{
+ "title_id": "C1961A00038",
+ "name": "Commonwealth Serum Laboratories Act 1961",
+ "folder": "commonwealth-serum-laboratories-act-1961",
+ "compilations": [
+  {
+   "in_force": "2008-03-28",
+   "register_id": "C2008C00086",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1961A00038',start=2008-03-28,retrospectivestart=2008-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1961A00038/2008-03-28/text",
+   "sha256": "6b33af53a0c854b732b107d703389ffbdae5ec6a597e9da923446e546a4b31b9"
+  },
+  {
+   "in_force": "2009-07-01",
+   "register_id": "C2009C00343",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1961A00038',start=2009-07-01,retrospectivestart=2009-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1961A00038/2009-07-01/text",
+   "sha256": "e9c920f80f94c0f931b223450f68182cc7a45d0f1fb30719e2cb5d4ee5719974"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00055",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1961A00038',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1961A00038/2011-12-27/text",
+   "sha256": "f7dfcf95019e5d49af3fc4bf37f285b4d65cb18a0352749d15294e8d25cc9cba"
+  },
+  {
+   "in_force": "2017-03-01",
+   "register_id": "C2017C00073",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1961A00038',start=2017-03-01,retrospectivestart=2017-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1961A00038/2017-03-01/text",
+   "sha256": "787d8cfec6420258e4fd69998dbadebac43344d66609de0df0764ef577938cee"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1961-06-02",
+   "acts": []
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1970-06-24",
+   "acts": [
+    "Commonwealth Serum Laboratories Act 1970"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1980-07-01",
+   "acts": [
+    "Commonwealth Serum Laboratories Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-10-13",
+   "acts": [
+    "Health Legislation Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1988-12-26",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1990-10-22",
+   "acts": [
+    "Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990",
+    "Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-02-15",
+   "acts": [
+    "Therapeutic Goods Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-02-22",
+   "acts": [
+    "Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990",
+    "CSL Sale Act 1993"
+   ]
+  },
+  {
+   "in_force": "1991-03-22",
+   "acts": [
+    "Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-01",
+   "acts": [
+    "Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990",
+    "Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1993-11-30",
+   "acts": [
+    "CSL Sale Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-06-03",
+   "acts": [
+    "CSL Sale Act 1993"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-06-22",
+   "acts": [
+    "Tax Law Improvement Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Statute Stocktake Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-03-11",
+   "acts": [
+    "Financial Services Reform (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Australian Citizenship (Transitionals and Consequentials) Act 2007"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

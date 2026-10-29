@@ -1,0 +1,79 @@
+{
+ "title_id": "C2004A02470",
+ "name": "Crown Debts (Priority) Act 1981",
+ "folder": "crown-debts-priority-act-1981",
+ "compilations": [
+  {
+   "in_force": "1995-12-16",
+   "register_id": "C2004C03238",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02470',start=1995-12-16,retrospectivestart=1995-12-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02470/1995-12-16/text",
+   "sha256": "430d6b5a1ee454770f279c5ee49e1ae266e1faf82fda6c86b7bf3189dca20f4f"
+  },
+  {
+   "in_force": "2001-07-15",
+   "register_id": "C2004C00026",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02470',start=2001-07-15,retrospectivestart=2001-07-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02470/2001-07-15/text",
+   "sha256": "20e4c78c25f225b4217b08317b380cc06bdc822a6a1ab7053603b97b9a92e833"
+  },
+  {
+   "in_force": "2006-09-14",
+   "register_id": "C2006C00538",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02470',start=2006-09-14,retrospectivestart=2006-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02470/2006-09-14/text",
+   "sha256": "0fa3ce033d8b46559631b145099e46b5ebd56a0aa6a62dce1747a6b5c810ff29"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1981-06-18",
+   "acts": []
+  },
+  {
+   "in_force": "1983-06-14",
+   "acts": [
+    "Income Tax (Payments For Work) (Consequential Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1986"
+   ]
+  },
+  {
+   "in_force": "1991-01-01",
+   "acts": [
+    "Corporations Legislation Amendment Act 1990",
+    "Corporations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-01-06",
+   "acts": [
+    "Life Insurance Policy Holders' Protection Levies Collection Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-06-16",
+   "acts": [
+    "Insolvency (Tax Priorities) Legislation Amendment Act 1993"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

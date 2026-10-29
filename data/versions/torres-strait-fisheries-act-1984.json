@@ -1,0 +1,197 @@
+{
+ "title_id": "C2004A02887",
+ "name": "Torres Strait Fisheries Act 1984",
+ "folder": "torres-strait-fisheries-act-1984",
+ "compilations": [
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00545",
+   "compilation": "30",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02887',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02887/2016-03-10/text",
+   "sha256": "02066d56225e1fb0781e88aca70e4030fc9dc44efcf2a7b40b6091396fe48f33"
+  },
+  {
+   "in_force": "2016-06-16",
+   "register_id": "C2016C00677",
+   "compilation": "31",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02887',start=2016-06-16,retrospectivestart=2016-06-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02887/2016-06-16/text",
+   "sha256": "7af5e875f22c164c3f9231335242384aa22a41ed09ab3e6b87386d261c20338c"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00644",
+   "compilation": "32",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02887',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02887/2024-10-14/text",
+   "sha256": "65596a826b47af17ffba2c2cf14e7a70d029c424fb69788c102c15aaac9182e7"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1984-04-26",
+   "acts": []
+  },
+  {
+   "in_force": "1985-08-31",
+   "acts": [
+    "Fishing Legislation Amendment Act 1985",
+    "Fishing Legislation Amendment Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1988-01-23",
+   "acts": [
+    "Fishing Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-02-25",
+   "acts": [
+    "Fishing Legislation Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1992-02-03",
+   "acts": [
+    "Fisheries Legislation (Consequential Provisions) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-07",
+   "acts": [
+    "Fisheries Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-16",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-11-11",
+   "acts": [
+    "Torres Strait Fisheries Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2005-08-24",
+   "acts": [
+    "Border Protection Legislation Amendment (Deterrence of Illegal Foreign Fishing) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-11-30",
+   "acts": [
+    "Border Protection Legislation Amendment (Deterrence of Illegal Foreign Fishing) Act 2005",
+    "Border Protection Legislation Amendment (Deterrence of Illegal Foreign Fishing) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-23",
+   "acts": [
+    "Fisheries Legislation Amendment (Foreign Fishing Offences) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-05-01",
+   "acts": [
+    "Migration Legislation Amendment (Information and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-26",
+   "acts": [
+    "Fisheries Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-28",
+   "acts": [
+    "Fisheries Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Fisheries Legislation Amendment (New Governance Arrangements for the Australian Fisheries Management Authority and Other Matters) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-22",
+   "acts": [
+    "Fisheries Legislation Amendment (New Governance Arrangements for the Australian Fisheries Management Authority and Other Matters) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-05-11",
+   "acts": [
+    "Fisheries Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010",
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2014-03-27",
+   "acts": [
+    "Maritime Powers (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

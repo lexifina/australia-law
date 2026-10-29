@@ -1,0 +1,21 @@
+{
+ "title_id": "C2019A00042",
+ "name": "Treatment Benefits (Special Access) (Consequential Amendments and Transitional Provisions) Act 2019",
+ "folder": "treatment-benefits-special-access-consequential-amendments-and",
+ "compilations": [
+  {
+   "in_force": "2019-04-05",
+   "register_id": "C2019A00042",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00042',start=2019-04-05,retrospectivestart=2019-04-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00042/2019-04-05/text",
+   "sha256": "7c49e19acb41c8b73e66cce4ffeab402d69f20a840326460f767432a2d3e29a3"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

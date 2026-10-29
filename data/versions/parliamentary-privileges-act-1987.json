@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A03430",
+ "name": "Parliamentary Privileges Act 1987",
+ "folder": "parliamentary-privileges-act-1987",
+ "compilations": [
+  {
+   "in_force": "1992-12-11",
+   "register_id": "C2004C05863",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03430',start=1992-12-11,retrospectivestart=1992-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03430/1992-12-11/text",
+   "sha256": "fdafebd9f5ebdc9e6f08e760e061afa57aaf0973d0492a7101d766ad9267af22"
+  },
+  {
+   "in_force": "2001-05-24",
+   "register_id": "C2004C00584",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03430',start=2001-05-24,retrospectivestart=2001-05-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03430/2001-05-24/text",
+   "sha256": "31f2d43d8d88656d604d9828fed08f07ca1e7e24f214eccc8c7400baefd5589b"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00951",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03430',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03430/2016-10-21/text",
+   "sha256": "d3cf608aa3c412c22665a72635320b0fcce4e00803d7443c29b045abdf5e69a8"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-05-20",
+   "acts": []
+  },
+  {
+   "in_force": "1988-04-05",
+   "acts": [
+    "Parliamentary Precincts Act 1988"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

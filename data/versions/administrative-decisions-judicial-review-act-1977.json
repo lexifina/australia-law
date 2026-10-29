@@ -1,0 +1,1087 @@
+{
+ "title_id": "C2004A01697",
+ "name": "Administrative Decisions (Judicial Review) Act 1977",
+ "folder": "administrative-decisions-judicial-review-act-1977",
+ "compilations": [
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00307",
+   "compilation": "132",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01697',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01697/2026-07-01/text",
+   "sha256": "4b2467694961d8d55752c59a6efb236f0eb468898898f0b2e4bd13b0c37400d9"
+  },
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00381",
+   "compilation": "133",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01697',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01697/2026-08-27/text",
+   "sha256": "849b37f67846f20476eda89646f503b46cd523884f4a613783459302d501f812"
+  },
+  {
+   "in_force": "2026-09-29",
+   "register_id": "C2026C00448",
+   "compilation": "134",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01697',start=2026-09-29,retrospectivestart=2026-09-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01697/2026-09-29/text",
+   "sha256": "9011e6afbe86f5d27d02473ec0f408a925185d40dac50aa08b7ac3f4a3ce3328"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1977-06-16",
+   "acts": []
+  },
+  {
+   "in_force": "1980-10-01",
+   "acts": [
+    "Administrative Decisions (Judicial Review) Amendment Act 1978",
+    "Administrative Decisions (Judicial Review) Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1982-11-22",
+   "acts": [
+    "Customs Tariff (Miscellaneous Amendments) Act 1982"
+   ]
+  },
+  {
+   "in_force": "1982-11-24",
+   "acts": [
+    "Customs Securities (Anti-Dumping) Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1982-12-13",
+   "acts": [
+    "Taxation (Unpaid Company Tax) (Consequential Amendments) Act 1982"
+   ]
+  },
+  {
+   "in_force": "1982-12-31",
+   "acts": [
+    "Administrative Decisions (Judicial Review) Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1983-10-12",
+   "acts": [
+    "Ombudsman (Miscellaneous Amendments) Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-02-21",
+   "acts": [
+    "Commonwealth Electoral Legislation Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-06-29",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-25",
+   "acts": [
+    "Defence Legislation Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-12-22",
+   "acts": [
+    "Public Service Acts Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1985-01-01",
+   "acts": [
+    "Egg Export Legislation Repeal Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-04-05",
+   "acts": [
+    "Trust Recoupment Tax (Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-05-30",
+   "acts": [
+    "Sales Tax Laws Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Defence Force (Miscellaneous Provisions) Act 1982",
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Fringe Benefits Tax (Miscellaneous Provisions) Act 1986",
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-11-04",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-01-15",
+   "acts": [
+    "Public Service Legislation (Streamlining) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-02-01",
+   "acts": [
+    "Intelligence and Security (Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1987-06-05",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 2) 1987"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-01-01",
+   "acts": [
+    "Customs Tariff (Miscellaneous Amendments) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-01-15",
+   "acts": [
+    "Petroleum Resource Rent Tax (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Civil Aviation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Family Court of Australia (Additional Jurisdiction and Exercise of Powers) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-01",
+   "acts": [
+    "Extradition (Repeal and Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-12",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "ANL (Conversion into Public Company) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1989"
+   ]
+  },
+  {
+   "in_force": "1989-08-01",
+   "acts": [
+    "Foreign Takeovers Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Migration Legislation Amendment (Consequential Amendments) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-03-05",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Act 2005"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Training Guarantee (Administration) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-01",
+   "acts": [
+    "Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-17",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-11-01",
+   "acts": [
+    "Export Finance and Insurance Corporation (Transitional Provisions and Consequential Amendments) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-03-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Superannuation Guarantee (Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Child Support Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-06-16",
+   "acts": [
+    "Insolvency (Tax Priorities) Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-11-09",
+   "acts": [
+    "Snowy Mountains Engineering Corporation Limited Sale Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-06-03",
+   "acts": [
+    "CSL Sale Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Witness Protection Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Customs, Excise and Bounty Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-07-01",
+   "acts": [
+    "Customs Tariff (Miscellaneous Amendments) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-11-25",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1996-12-16",
+   "acts": [
+    "Bankruptcy Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-10-17",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-09-01",
+   "acts": [
+    "Judiciary Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Statute Stocktake Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-05-30",
+   "acts": [
+    "Jurisdiction of Courts Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999",
+    "Jurisdiction of Courts Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-11-01",
+   "acts": [
+    "Australian National Railways Commission Sale Act 1997"
+   ]
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-21",
+   "acts": [
+    "Broadcasting Services Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Migration Legislation Amendment (Judicial Review) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Intelligence Services (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-03-11",
+   "acts": [
+    "Financial Services Reform (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-06-28",
+   "acts": [
+    "Snowy Hydro Corporatisation (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "2002-12-11",
+   "acts": [
+    "Workplace Relations Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002",
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Dairy Industry Service Reform Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-04-02",
+   "acts": [
+    "Australian Crime Commission Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-04-21",
+   "acts": [
+    "Communications Legislation Amendment Act (No. 1) 2004"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-08-16",
+   "acts": [
+    "Anti-terrorism Act (No. 2) 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-11",
+   "acts": [
+    "National Security Information (Criminal Proceedings) (Consequential Amendments) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-05-23",
+   "acts": [
+    "Trade Practices Amendment (Australian Energy Market) Act 2004",
+    "Energy Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2005-07-06",
+   "acts": [
+    "Statute Law Revision Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-08-03",
+   "acts": [
+    "National Security Information Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-09-12",
+   "acts": [
+    "Building and Construction Industry Improvement (Consequential and Transitional) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-01",
+   "acts": [
+    "Migration Litigation Reform Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-15",
+   "acts": [
+    "Anti-Terrorism Act (No. 2) 2005",
+    "Commonwealth Radioactive Waste Management (Related Amendments) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-13",
+   "acts": [
+    "Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-06-13",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006",
+    "Excise Laws Amendment (Fuel Tax Reform and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-19",
+   "acts": [
+    null,
+    "Commonwealth Bank Sale Act 1995"
+   ]
+  },
+  {
+   "in_force": "2006-09-11",
+   "acts": [
+    "Renewable Energy (Electricity) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-11-24",
+   "acts": [
+    "Telstra (Transition to Full Private Ownership) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-12-11",
+   "acts": [
+    "Commonwealth Radioactive Waste Management Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-13",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-30",
+   "acts": [
+    "Law Enforcement (AFP Professional Standards and Related Measures) Act 2006",
+    "Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-12",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 1) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-04-13",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006",
+    "Australian Energy Market Amendment (Gas Legislation) Act 2007",
+    "Australian Energy Market Amendment (Minor Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-18",
+   "acts": [
+    "Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-27",
+   "acts": [
+    "Australian Energy Market Amendment (AEMO and Other Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-18",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 4) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-10-09",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Access to Justice (Civil Litigation Reforms) Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010",
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 1) 2010",
+    "Tax Laws Amendment (Transfer of Provisions) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-25",
+   "acts": [
+    "National Security Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010",
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-22",
+   "acts": [
+    "AIDC Sale Act 1997",
+    "AIDC Sale Act 1997"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-04",
+   "acts": [
+    "National Radioactive Waste Management Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-06-01",
+   "acts": [
+    "Building and Construction Industry Improvement Amendment (Transition to Fair Work) Regulation 2012"
+   ]
+  },
+  {
+   "in_force": "2012-06-28",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 3) 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Australian Energy Market Amendment (National Energy Retail Law) Act 2011",
+    "Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012",
+    "Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012",
+    "Indirect Tax Laws Amendment (Assessment) Act 2012",
+    "Road Safety Remuneration (Consequential Amendments and Related Provisions) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-05-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Tax Laws Amendment (Fairer Taxation of Excess Concessional Contributions) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-05-28",
+   "acts": [
+    "Telecommunications Legislation Amendment (Submarine Cable Protection) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-30",
+   "acts": [
+    "Minerals Resource Rent Tax Repeal and Other Measures Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-16",
+   "acts": [
+    "Migration and Maritime Powers Legislation Amendment (Resolving the Asylum Legacy Caseload) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015",
+    "Administrative Decisions (Judicial Review) Amendment (Enactments) Regulation 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-04-21",
+   "acts": [
+    "Road Safety Remuneration Repeal Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Courts Administration Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Treasury Laws Amendment (Fair and Sustainable Superannuation) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Combating Multinational Tax Avoidance) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-03-06",
+   "acts": [
+    "Treasury Laws Amendment (Putting Consumers First—Establishment of the Australian Financial Complaints Authority) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "National Housing Finance and Investment Corporation (Consequential Amendments and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "National Redress Scheme for Institutional Child Sexual Abuse (Consequential Amendments) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment Act (No. 1) 2018"
+   ]
+  },
+  {
+   "in_force": "2018-09-18",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-12-09",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment (Assistance and Access) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-01",
+   "acts": [
+    "Treasury Laws Amendment (2018 Measures No. 4) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Making Sure Foreign Investors Pay Their Fair Share of Tax in Australia and Other Measures) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-10-03",
+   "acts": [
+    "Treasury Laws Amendment (2018 Superannuation Measures No. 1) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-12-10",
+   "acts": [
+    "Australia’s Foreign Relations (State and Territory Arrangements) (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Territories Legislation Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-03",
+   "acts": [
+    "Security Legislation Amendment (Critical Infrastructure) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-09",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (High Risk Terrorist Offenders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-06-22",
+   "acts": [
+    "Transport Security Amendment (Serious Crime) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-10-12",
+   "acts": [
+    "Treasury Laws Amendment (Housing Measures No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-17",
+   "acts": [
+    "Members of Parliament (Staff) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-20",
+   "acts": [
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-11-25",
+   "acts": [
+    "Counter-Terrorism and Other Legislation Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-11-29",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-12-08",
+   "acts": [
+    "Migration and Other Legislation Amendment (Bridging Visas, Serious Offenders and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-11-30",
+   "acts": [
+    "Digital ID (Transitional and Consequential Provisions) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-03",
+   "acts": [
+    "Commonwealth Entities (Payment Surcharges) (Consequential Provisions and Other Matters) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-11",
+   "acts": [
+    "Treasury Laws Amendment (Multinational—Global and Domestic Minimum Tax) (Consequential) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Mergers and Acquisitions Reform) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2026-01-22",
+   "acts": [
+    "Combatting Antisemitism, Hate and Extremism (Firearms and Customs Laws) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2005A00076",
+ "name": "Shortfall Interest Charge (Imposition) Act 2005",
+ "folder": "shortfall-interest-charge-imposition-act-2005",
+ "compilations": [
+  {
+   "in_force": "2005-06-29",
+   "register_id": "C2005A00076",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00076',start=2005-06-29,retrospectivestart=2005-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00076/2005-06-29/text",
+   "sha256": "ccd79020aa03561b71026d0a61c568cc015a30cb3663da4780f4f7ff9f7c5d1e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

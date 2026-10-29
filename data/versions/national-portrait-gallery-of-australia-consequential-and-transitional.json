@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00149",
+ "name": "National Portrait Gallery of Australia (Consequential and Transitional Provisions) Act 2012",
+ "folder": "national-portrait-gallery-of-australia-consequential-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2012-11-06",
+   "register_id": "C2012A00149",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00149',start=2012-11-06,retrospectivestart=2012-11-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00149/2012-11-06/text",
+   "sha256": "2e87a9e6710afaa735193a38670b5c6fc35049e51ee41796873f22ba7b625b8a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,144 @@
+{
+ "title_id": "C2004A03701",
+ "name": "Australian Capital Territory (Planning and Land Management) Act 1988",
+ "folder": "australian-capital-territory-planning-and-land-management-act-1988",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00304",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03701',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03701/2016-03-05/text",
+   "sha256": "ec38ed45f90c91e26036ff3461582e36932b1d6dd1b773c0d84818e3425b6a6f"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00482",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03701',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03701/2016-03-10/text",
+   "sha256": "80261d7a74975dea82c2ee9a30c16a114eeea6cb6c50265b3f443a90d2b0f649"
+  },
+  {
+   "in_force": "2018-07-01",
+   "register_id": "C2018C00316",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03701',start=2018-07-01,retrospectivestart=2018-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03701/2018-07-01/text",
+   "sha256": "e9db7690c4a51500d590ea98aba94bfc799a5442429f32e87c93ed310b36aa9a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-12-06",
+   "acts": []
+  },
+  {
+   "in_force": "1989-01-31",
+   "acts": [
+    "Australian Capital Territory (Planning and Land Management) Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-05-07",
+   "acts": [
+    "Arts, Sport, Environment and Territories Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-10-24",
+   "acts": [
+    "Arts, Environment and Territories Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Arts, Environment and Territories Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1997-07-07",
+   "acts": [
+    "Environment, Sport and Territories Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-02-25",
+   "acts": [
+    "Australian Capital Territory Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2007-05-13",
+   "acts": [
+    "Airports Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-17",
+   "acts": [
+    "Australian Capital Territory Water Management Legislation Amendment Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

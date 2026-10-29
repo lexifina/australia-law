@@ -1,0 +1,89 @@
+{
+ "title_id": "C1963A00061",
+ "name": "Submarine Cables and Pipelines Protection Act 1963",
+ "folder": "submarine-cables-and-pipelines-protection-act-1963",
+ "compilations": [
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00406",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1963A00061',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1963A00061/2008-07-04/text",
+   "sha256": "c3f8d967e2b3bdd2cad7abd4aab7625c5a968d39208d2a59712b45b243870955"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00364",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1963A00061',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1963A00061/2011-12-27/text",
+   "sha256": "5e084a3bb708a4f53cf4b5d39f92ebe118bda70fae79a79827046c56d3d0b828"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00101",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1963A00061',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1963A00061/2015-12-10/text",
+   "sha256": "5c8a6ffbf8588567d1be64a4a18b1b54aae6044b54a109599434239a9435688c"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00970",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1963A00061',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1963A00061/2016-10-21/text",
+   "sha256": "a2fc0e730695c76f5853ff65209d739206d646022c3f5106e294e8432d54885f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1963-10-28",
+   "acts": []
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "International Maritime Conventions Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-09-20",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment (Protection of Submarine Cables and Other Measures) Act 2005"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

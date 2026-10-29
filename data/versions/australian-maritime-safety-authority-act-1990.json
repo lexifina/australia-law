@@ -1,0 +1,183 @@
+{
+ "title_id": "C2004A04009",
+ "name": "Australian Maritime Safety Authority Act 1990",
+ "folder": "australian-maritime-safety-authority-act-1990",
+ "compilations": [
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00779",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04009',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04009/2012-09-22/text",
+   "sha256": "cb0da5d6b12789882c14ad96f8df3c789ca52ec2dbfa0d1e158d9bc2410be2a1"
+  },
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00314",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04009',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04009/2013-07-01/text",
+   "sha256": "2e4fbaf96bec69d14207e573191c04778da6799ca7b5edfba80e4c1a8ac621dc"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00368",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04009',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04009/2014-07-01/text",
+   "sha256": "27225124d7856a7d728d8641fc7ae8973e3d07ca8687fcc72e2deba522ab35b0"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-10-22",
+   "acts": []
+  },
+  {
+   "in_force": "1991-06-27",
+   "acts": [
+    "Transport Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Marine Navigation (Regulatory Functions) Levy Collection Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-26",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1995-07-27",
+   "acts": [
+    "Transport Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-11-06",
+   "acts": [
+    "Competition Policy Reform Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-10-24",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-01",
+   "acts": [
+    "Transport Legislation Amendment (Search and Rescue Service) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Transport Legislation Amendment Act 1995",
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Transport Safety Investigation (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-03-01",
+   "acts": [
+    "Trade Practices Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Maritime Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Transport Safety Investigation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Shipping Registration Amendment (Australian International Shipping Register) Act 2012",
+    "Coastal Trading (Revitalising Australian Shipping) (Consequential Amendments and Transitional Provisions) Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

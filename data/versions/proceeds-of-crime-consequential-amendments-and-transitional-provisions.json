@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A01023",
+ "name": "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002",
+ "folder": "proceeds-of-crime-consequential-amendments-and-transitional-provisions",
+ "compilations": [
+  {
+   "in_force": "2002-10-11",
+   "register_id": "C2004A01023",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01023',start=2002-10-11,retrospectivestart=2002-10-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01023/2002-10-11/text",
+   "sha256": "5e4da1079128849fd0f6e1fefe03ea7de57c436e4adab5ba4484de496d9ea77a"
+  },
+  {
+   "in_force": "2003-01-01",
+   "register_id": "C2004C01279",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01023',start=2003-01-01,retrospectivestart=2003-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01023/2003-01-01/text",
+   "sha256": "3e39b45e994c42164c50242ba449dad40e1c2bd562396730222ac43827703a48"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

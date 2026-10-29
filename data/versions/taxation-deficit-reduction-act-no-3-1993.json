@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A04613",
+ "name": "Taxation (Deficit Reduction) Act (No. 3) 1993",
+ "folder": "taxation-deficit-reduction-act-no-3-1993",
+ "compilations": [
+  {
+   "in_force": "2015-06-25",
+   "register_id": "C2015C00297",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04613',start=2015-06-25,retrospectivestart=2015-06-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04613/2015-06-25/text",
+   "sha256": "dd41eebb10f7327939898b614245cb9ce9caa14287a7835024bff5992db774b0"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1993-10-27"
+ ],
+ "repeal": null
+}

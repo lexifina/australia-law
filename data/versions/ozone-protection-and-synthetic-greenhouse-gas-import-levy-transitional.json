@@ -1,0 +1,32 @@
+{
+ "title_id": "C2014A00090",
+ "name": "Ozone Protection and Synthetic Greenhouse Gas (Import Levy) (Transitional Provisions) Act 2014",
+ "folder": "ozone-protection-and-synthetic-greenhouse-gas-import-levy-transitional",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014A00090",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00090',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00090/2014-07-01/text",
+   "sha256": "5f4089cc348b8372eb93edf0e3299cac450e14419fcdd3d3126f5e3d4d573074"
+  },
+  {
+   "in_force": "2015-04-14",
+   "register_id": "C2015C00189",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00090',start=2015-04-14,retrospectivestart=2015-04-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00090/2015-04-14/text",
+   "sha256": "532cb93654cad96ec7de6c8d95248cf74742eb460c037aa5523c8b4d85bface8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

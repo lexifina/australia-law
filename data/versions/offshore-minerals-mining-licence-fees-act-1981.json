@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A02461",
+ "name": "Offshore Minerals (Mining Licence Fees) Act 1981",
+ "folder": "offshore-minerals-mining-licence-fees-act-1981",
+ "compilations": [
+  {
+   "in_force": "1994-02-25",
+   "register_id": "C2004C00314",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02461',start=1994-02-25,retrospectivestart=1994-02-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02461/1994-02-25/text",
+   "sha256": "ff3065f01d4c1d595f70fc2544009a24ba859ac2ab7d1e3a8c7917b476d5b745"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1981-06-18"
+ ],
+ "repeal": null
+}

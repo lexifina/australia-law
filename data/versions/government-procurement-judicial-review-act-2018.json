@@ -1,0 +1,32 @@
+{
+ "title_id": "C2018A00129",
+ "name": "Government Procurement (Judicial Review) Act 2018",
+ "folder": "government-procurement-judicial-review-act-2018",
+ "compilations": [
+  {
+   "in_force": "2018-10-19",
+   "register_id": "C2018A00129",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00129',start=2018-10-19,retrospectivestart=2018-10-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00129/2018-10-19/text",
+   "sha256": "f71b395582ae2b31943fe67dbb0880855efe8403b6f621b5a5da30735f3af318"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00406",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00129',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00129/2021-09-01/text",
+   "sha256": "fab8957cfac3ce231d8b0fde5c6c50e56377fde77b3b0b1a238d8e2d09b0dc16"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

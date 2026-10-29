@@ -1,0 +1,348 @@
+{
+ "title_id": "C2004A02362",
+ "name": "Wine Australia Act 2013",
+ "folder": "wine-australia-act-2013",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00430",
+   "compilation": "40",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02362',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02362/2024-10-14/text",
+   "sha256": "659035a250767bf427b0858919fc607c5a4aa63e5f49501ed05ace9ac4d06e49"
+  },
+  {
+   "in_force": "2025-01-01",
+   "register_id": "C2025C00021",
+   "compilation": "41",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02362',start=2025-01-01,retrospectivestart=2025-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02362/2025-01-01/text",
+   "sha256": "fac8439007cd038ab2761fba44b3d55e69601504d30209ab50e2718287200305"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00117",
+   "compilation": "42",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02362',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02362/2025-02-21/text",
+   "sha256": "62e5aa391a1e0078c93d41afe55901bd4665b9e413297d7fd3ea18380c6605b9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1980-12-10",
+   "acts": []
+  },
+  {
+   "in_force": "1983-01-01",
+   "acts": [
+    "Export Control (Miscellaneous Amendments) Act 1982"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-25",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Australian Wine and Brandy Corporation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-07-01",
+   "acts": [
+    "Australian Wine and Brandy Corporation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Primary Industries (Recovery of Levy Collection Expenses) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "Australian Wine and Brandy Corporation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Primary Industries Levies and Charges Collection (Consequential Provisions) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-11-11",
+   "acts": [
+    "Australian Wine and Brandy Corporation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-10",
+   "acts": [
+    "Australian Wine and Brandy Corporation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-12-16",
+   "acts": [
+    "Australian Wine and Brandy Corporation Amendment Act 1993",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1994-10-21",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1995-11-06",
+   "acts": [
+    "Competition Policy Reform Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-27",
+   "acts": [
+    "Wine Export Charge (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-30",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Primary Industries Levies and Charges (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-01-01",
+   "acts": [
+    "Primary Industries Levies and Charges (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-12-05",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-16",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-05-03",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "US Free Trade Agreement Implementation Act 2004"
+   ]
+  },
+  {
+   "in_force": "2007-06-22",
+   "acts": [
+    "Australian Wine and Brandy Corporation Amendment Act (No. 1) 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-11-17",
+   "acts": [
+    "Statute Stocktake (Regulatory and Other Laws) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-08-03",
+   "acts": [
+    "Australian Wine and Brandy Corporation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-09-01",
+   "acts": [
+    "Australian Wine and Brandy Corporation Amendment Act 2010",
+    "Australian Wine and Brandy Corporation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-18",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2010",
+    "Financial Framework Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-08-05",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-20",
+   "acts": [
+    "Business Names Registration (Transitional and Consequential Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-03-28",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2013"
+   ]
+  },
+  {
+   "in_force": "2013-12-14",
+   "acts": [
+    "Grape and Wine Legislation Amendment (Australian Grape and Wine Authority) Act 2013",
+    "Rural Research and Development Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Grape and Wine Legislation Amendment (Australian Grape and Wine Authority) Act 2013",
+    "Rural Research and Development Legislation Amendment Act 2013",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-22",
+   "acts": [
+    "Statute Update (A.C.T. Self-Government (Consequential Provisions) Regulations) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-11-07",
+   "acts": [
+    "Australian Grape and Wine Authority Amendment (Wine Australia) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-03-13",
+   "acts": [
+    "Wine Australia Amendment (Trade with United Kingdom) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-03-28",
+   "acts": [
+    "Export Control (Consequential Amendments and Transitional Provisions) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Wine Australia Amendment (Label Directory) Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

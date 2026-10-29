@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A05158",
+ "name": "Hindmarsh Island Bridge Act 1997",
+ "folder": "hindmarsh-island-bridge-act-1997",
+ "compilations": [
+  {
+   "in_force": "1997-05-22",
+   "register_id": "C2004A05158",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05158',start=1997-05-22,retrospectivestart=1997-05-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05158/1997-05-22/text",
+   "sha256": "42aa41f5adf2a4c02c68db7b6e0c4cd9b2afd82692c1089db2c0afae2cf665b6"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

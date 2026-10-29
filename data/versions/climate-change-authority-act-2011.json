@@ -1,0 +1,54 @@
+{
+ "title_id": "C2011A00143",
+ "name": "Climate Change Authority Act 2011",
+ "folder": "climate-change-authority-act-2011",
+ "compilations": [
+  {
+   "in_force": "2015-06-27",
+   "register_id": "C2015C00317",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00143',start=2015-06-27,retrospectivestart=2015-06-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00143/2015-06-27/text",
+   "sha256": "e3c9b46b9fe386652d6123a441c8062e8e1df7906dcf509c94917892b0d540f9"
+  },
+  {
+   "in_force": "2019-08-30",
+   "register_id": "C2019C00254",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00143',start=2019-08-30,retrospectivestart=2019-08-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00143/2019-08-30/text",
+   "sha256": "e1ff247a24988b49cade0a539fe08092aa96d19b230a444244d6b989e022f808"
+  },
+  {
+   "in_force": "2022-09-14",
+   "register_id": "C2022C00255",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00143',start=2022-09-14,retrospectivestart=2022-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00143/2022-09-14/text",
+   "sha256": "f012c7d44f1a65a9f8b3d6470cca2be31acf7ee50d8b66df208b03d408791550"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-11-29",
+   "acts": []
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

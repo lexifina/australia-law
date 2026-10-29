@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A01082",
+ "name": "Research Involving Human Embryos Act 2002",
+ "folder": "research-involving-human-embryos-act-2002",
+ "compilations": [
+  {
+   "in_force": "2022-10-01",
+   "register_id": "C2022C00282",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01082',start=2022-10-01,retrospectivestart=2022-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01082/2022-10-01/text",
+   "sha256": "2bf341f14545cf3f12c118965f9d761050390b96f3a7d38e872a627c8bb8846e"
+  },
+  {
+   "in_force": "2024-05-31",
+   "register_id": "C2024C00200",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01082',start=2024-05-31,retrospectivestart=2024-05-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01082/2024-05-31/text",
+   "sha256": "cc4dea35bbd8b614ef3fc9581ebe19d143c227fb2363d42c4837de57bc7a03af"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00449",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01082',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01082/2024-10-14/text",
+   "sha256": "37a5ded4bfc308c8757fca67cc98882d66d1f0824816b86c9a16a04ead828c9f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2002-12-19",
+   "acts": []
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "National Health and Medical Research Council Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-06-12",
+   "acts": [
+    "Prohibition of Human Cloning for Reproduction and the Regulation of Human Embryo Research Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

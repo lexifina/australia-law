@@ -1,0 +1,43 @@
+{
+ "title_id": "C2017A00044",
+ "name": "ASIC Supervisory Cost Recovery Levy (Collection) Act 2017",
+ "folder": "asic-supervisory-cost-recovery-levy-collection-act-2017",
+ "compilations": [
+  {
+   "in_force": "2017-06-19",
+   "register_id": "C2017A00044",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00044',start=2017-06-19,retrospectivestart=2017-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00044/2017-06-19/text",
+   "sha256": "13169722ea1b8bd453307c727e13d0e40c9d55d8c3a139c6e1a507da4902292a"
+  },
+  {
+   "in_force": "2021-08-02",
+   "register_id": "C2021C00333",
+   "compilation": "1",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00044',start=2021-08-02,retrospectivestart=2021-08-02,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00044/2021-08-02/text",
+   "sha256": "856660acbb27fcf709afd56f369e09581dd8c8e0a8496b3d9d1fdbe5b393a82f"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00552",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00044',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00044/2024-10-14/text",
+   "sha256": "badf06b70cbabbba4ea4d1fa44cf401e9d0b01028d5509c7af45a17b1dcf4280"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

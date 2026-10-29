@@ -1,0 +1,21 @@
+{
+ "title_id": "C2019A00013",
+ "name": "Industrial Chemicals (Consequential Amendments and Transitional Provisions) Act 2019",
+ "folder": "industrial-chemicals-consequential-amendments-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2019-03-12",
+   "register_id": "C2019A00013",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00013',start=2019-03-12,retrospectivestart=2019-03-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00013/2019-03-12/text",
+   "sha256": "a6b7d9141f02e6e0be2fcbc056d5f862f27f841a7545a2eba668b3a0d052c429"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

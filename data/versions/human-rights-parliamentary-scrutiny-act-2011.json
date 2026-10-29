@@ -1,0 +1,54 @@
+{
+ "title_id": "C2011A00186",
+ "name": "Human Rights (Parliamentary Scrutiny) Act 2011",
+ "folder": "human-rights-parliamentary-scrutiny-act-2011",
+ "compilations": [
+  {
+   "in_force": "2012-09-23",
+   "register_id": "C2012C00726",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00186',start=2012-09-23,retrospectivestart=2012-09-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00186/2012-09-23/text",
+   "sha256": "f89a702886b9dfa76ad3f98fde24e855a826572bc872cdf25e4352533797774e"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00195",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00186',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00186/2016-03-05/text",
+   "sha256": "3553002abdeb87c287116dd9cf2921bd9f5b4b68f61160c73d17ae0c0896710a"
+  },
+  {
+   "in_force": "2024-06-12",
+   "register_id": "C2024C00230",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00186',start=2024-06-12,retrospectivestart=2024-06-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00186/2024-06-12/text",
+   "sha256": "29416cfe1d22ed1894cd91a56e0b608252d55e946544fff44b27cf4caacbf620"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-12-07",
+   "acts": []
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

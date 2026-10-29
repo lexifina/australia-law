@@ -1,0 +1,43 @@
+{
+ "title_id": "C2007A00145",
+ "name": "Taxation (Trustee Beneficiary Non-disclosure Tax) Act (No. 2) 2007",
+ "folder": "taxation-trustee-beneficiary-non-disclosure-tax-act-no-2-2007",
+ "compilations": [
+  {
+   "in_force": "2007-09-24",
+   "register_id": "C2007A00145",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00145',start=2007-09-24,retrospectivestart=2007-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00145/2007-09-24/text",
+   "sha256": "d8a4602c0d3ad9fdcabac08333b11d983486fb8a4b9a29d328be5a3d5254d8d0"
+  },
+  {
+   "in_force": "2013-05-28",
+   "register_id": "C2013C00289",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00145',start=2013-05-28,retrospectivestart=2013-05-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00145/2013-05-28/text",
+   "sha256": "4921914f5f171cda85d0e22e188202a4458f712ee59dcbe122123532ce71e204"
+  },
+  {
+   "in_force": "2014-06-25",
+   "register_id": "C2014C00329",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00145',start=2014-06-25,retrospectivestart=2014-06-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00145/2014-06-25/text",
+   "sha256": "3503f0eb3e9ee8d988959ecf42cb7b81dfa75f69d237a9bd731195bc7c2c0ed2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2008A00019",
+ "name": "Social Security and Veterans' Entitlements Legislation Amendment (One-off Payments and Other Budget Measures) Act 2008",
+ "folder": "social-security-and-veterans-entitlements-legislation-amendm-c2008a00019",
+ "compilations": [
+  {
+   "in_force": "2008-05-26",
+   "register_id": "C2008A00019",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00019',start=2008-05-26,retrospectivestart=2008-05-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00019/2008-05-26/text",
+   "sha256": "47247343d9b09adc23caafaada991e0415a44f717316b399543a081576f76fa2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,192 @@
+{
+ "title_id": "C2004A04223",
+ "name": "Export Finance and Insurance Corporation Act 1991",
+ "folder": "export-finance-and-insurance-corporation-act-1991",
+ "compilations": [
+  {
+   "in_force": "2022-09-14",
+   "register_id": "C2022C00246",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04223',start=2022-09-14,retrospectivestart=2022-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04223/2022-09-14/text",
+   "sha256": "c85bbbce71ee4326ec4fa6381dab3be2b090f8b0ce70de401686a427bd6dc837"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00824",
+   "compilation": "25",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04223',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04223/2024-12-11/text",
+   "sha256": "96830c9951a5563a3799aa0754d9a37882d436925ef38d9442d262e8b4f9d2a8"
+  },
+  {
+   "in_force": "2026-04-02",
+   "register_id": "C2026C00166",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04223',start=2026-04-02,retrospectivestart=2026-04-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04223/2026-04-02/text",
+   "sha256": "dbac95594dac6f3ac99112ef027796a5beba8905a9df49460604acfd8722956e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-10-21",
+   "acts": []
+  },
+  {
+   "in_force": "1997-06-30",
+   "acts": [
+    "Export Finance and Insurance Corporation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Tax Law Improvement Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Export Finance and Insurance Corporation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-15",
+   "acts": [
+    "Export Finance and Insurance Corporation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-26",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Australian Trade Commission Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Export Finance and Insurance Corporation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-03-31",
+   "acts": [
+    "Export Finance and Insurance Corporation Amendment (Finance) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-20",
+   "acts": [
+    "Export Finance and Insurance Corporation Amendment (Direct Lending and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Trade Legislation Amendment Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Northern Australia Infrastructure Facility (Consequential Amendments) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-09-15",
+   "acts": [
+    "Export Finance and Insurance Corporation Amendment (Support for Commonwealth Entities) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Export Finance and Insurance Corporation Amendment (Support for Infrastructure Financing) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-10-28",
+   "acts": [
+    "Export Finance and Insurance Corporation Amendment (Equity Investments and Other Measures) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

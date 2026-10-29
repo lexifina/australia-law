@@ -1,0 +1,290 @@
+{
+ "title_id": "C2004A03969",
+ "name": "Superannuation Act 1990",
+ "folder": "superannuation-act-1990",
+ "compilations": [
+  {
+   "in_force": "2022-03-05",
+   "register_id": "C2022C00118",
+   "compilation": "38",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03969',start=2022-03-05,retrospectivestart=2022-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03969/2022-03-05/text",
+   "sha256": "cf8c4cdb42970de658d59b28e9b091198824389f598fb5309020293b8deafcfd"
+  },
+  {
+   "in_force": "2022-09-28",
+   "register_id": "C2022C00262",
+   "compilation": "39",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03969',start=2022-09-28,retrospectivestart=2022-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03969/2022-09-28/text",
+   "sha256": "217421e00b96be7794122f1bdb605a6ccd612a03aec15eedb3a610ff43a75803"
+  },
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026C00120",
+   "compilation": "40",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03969',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03969/2026-04-01/text",
+   "sha256": "a81c9c2557371c4f8e660750719477cc9757c32047d6a00e2d136e3b8784ba6b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-06-07",
+   "acts": []
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Commonwealth Funds Management Limited Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-09-02",
+   "acts": [
+    "Superannuation Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-12-18",
+   "acts": [
+    "Superannuation Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-06-18",
+   "acts": [
+    "Superannuation Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Superannuation Industry (Supervision) Consequential Amendments Act 1993",
+    "Superannuation Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Superannuation Legislation (Commonwealth Employment) Repeal and Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "1995-07-30",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-11-20",
+   "acts": [
+    "CFM Sale Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-07",
+   "acts": [
+    "Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    "Superannuation (Unclaimed Money and Lost Members) Consequential and Transitional Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2001-08-22",
+   "acts": [
+    "Superannuation Legislation Amendment (Post-retirement Commutations) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-15",
+   "acts": [
+    "Finance and Administration Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Superannuation Legislation (Commonwealth Employment) Repeal and Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2004-05-18",
+   "acts": [
+    "Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-06-29",
+   "acts": [
+    "Superannuation (Consequential Amendments) Act 2005",
+    "Superannuation (Consequential Amendments) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Superannuation (Consequential Amendments) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-10-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Superannuation Safety and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Superannuation Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (Increased Concessional Contributions Cap and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Public Service Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Governance of Australian Government Superannuation Schemes Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2021-06-23",
+   "acts": [
+    "Treasury Laws Amendment (Your Future, Your Super) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

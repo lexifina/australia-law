@@ -1,0 +1,144 @@
+{
+ "title_id": "C2010A00032",
+ "name": "Independent National Security Legislation Monitor Act 2010",
+ "folder": "independent-national-security-legislation-monitor-act-2010",
+ "compilations": [
+  {
+   "in_force": "2021-12-08",
+   "register_id": "C2022C00022",
+   "compilation": "18",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00032',start=2021-12-08,retrospectivestart=2021-12-08,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00032/2021-12-08/text",
+   "sha256": "d2bc52df6939a3c9b8976bf1dc88ff37bcb9d989fac1183f4a4be21916400109"
+  },
+  {
+   "in_force": "2023-12-08",
+   "register_id": "C2023C00478",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00032',start=2023-12-08,retrospectivestart=2023-12-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00032/2023-12-08/text",
+   "sha256": "6159d9cd5c72c765df511caecae74597212b489f73b2b5d4518f496c1ab989af"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00680",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00032',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00032/2025-12-05/text",
+   "sha256": "b98f95f65736317138ba4ee8f87fff1c428cc662b0082941eb624bdd4e913d29"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2010-04-13",
+   "acts": []
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-10-03",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-12",
+   "acts": [
+    "Australian Citizenship Amendment (Allegiance to Australia) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-06-07",
+   "acts": [
+    "Criminal Code Amendment (High Risk Terrorist Offenders) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Intelligence Services Amendment (Establishment of the Australian Signals Directorate) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-09",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment (Assistance and Access) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-20",
+   "acts": [
+    "Office of National Intelligence (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-30",
+   "acts": [
+    "Counter-Terrorism (Temporary Exclusion Orders) (Consequential Amendments) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-09-18",
+   "acts": [
+    "Australian Citizenship Amendment (Citizenship Cessation) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-03",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Sunsetting Review and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-04",
+   "acts": [
+    "Surveillance Legislation Amendment (Identify and Disrupt) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

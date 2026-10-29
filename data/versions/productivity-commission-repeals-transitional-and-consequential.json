@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A05327",
+ "name": "Productivity Commission (Repeals, Transitional and Consequential Amendments) Act 1998",
+ "folder": "productivity-commission-repeals-transitional-and-consequential",
+ "compilations": [
+  {
+   "in_force": "1998-04-16",
+   "register_id": "C2004A05327",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05327',start=1998-04-16,retrospectivestart=1998-04-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05327/1998-04-16/text",
+   "sha256": "8077b578f57d82582efa3e6baefa79f43472d39ca71ffcabc6fec0066b8b55af"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

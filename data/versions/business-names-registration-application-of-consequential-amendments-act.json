@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00172",
+ "name": "Business Names Registration (Application of Consequential Amendments) Act 2011",
+ "folder": "business-names-registration-application-of-consequential-amendments-act",
+ "compilations": [
+  {
+   "in_force": "2011-12-05",
+   "register_id": "C2011A00172",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00172',start=2011-12-05,retrospectivestart=2011-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00172/2011-12-05/text",
+   "sha256": "c7e5e91ca4f20a4f6cb852fdc20429d8ae9d5845bff652d68432a25b45f518af"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

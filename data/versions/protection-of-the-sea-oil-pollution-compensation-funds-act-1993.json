@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A04596",
+ "name": "Protection of the Sea (Oil Pollution Compensation Funds) Act 1993",
+ "folder": "protection-of-the-sea-oil-pollution-compensation-funds-act-1993",
+ "compilations": [
+  {
+   "in_force": "2009-10-13",
+   "register_id": "C2010C00167",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04596',start=2009-10-13,retrospectivestart=2009-10-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04596/2009-10-13/text",
+   "sha256": "0468fc1b0d1a24a300ac3dfda5d8f101fcaed64c7621f6edb741b81dcea1ce10"
+  },
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00805",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04596',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04596/2012-09-22/text",
+   "sha256": "c5453ba7acd587bcf88d41ded1a42ce4f65e7914ddee6044cb0aa8f74dab4b53"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00871",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04596',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04596/2016-07-01/text",
+   "sha256": "71bd4e1e75f19c25f0be48f74911710c045d7586b80b8580f121dff3127374f2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1993-10-15",
+   "acts": []
+  },
+  {
+   "in_force": "1995-01-08",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "1996-10-09",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-03-20",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2003-11-01",
+   "acts": [
+    "Maritime Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A00278",
+ "name": "Postal and Telecommunications Commissions (Transitional Provisions) Act 1975",
+ "folder": "postal-and-telecommunications-commissions-transitional-provisions-act",
+ "compilations": [
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00424",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00278',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00278/2008-07-04/text",
+   "sha256": "91b47cf6f419ffd302b100a906dc9e9a00bc20148d32d19e7beefa4d13efc177"
+  },
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00262",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00278',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00278/2011-04-19/text",
+   "sha256": "65e8cb43b3e0e27352aeca80271c4930c05d366dbda426412ec9287b7bab02bf"
+  },
+  {
+   "in_force": "2013-06-29",
+   "register_id": "C2013C00583",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00278',start=2013-06-29,retrospectivestart=2013-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00278/2013-06-29/text",
+   "sha256": "ed2f80457219066b2b7feff4ec9f28cac3790d0556bfb7428076ffb4c60e67db"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00581",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00278',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00278/2014-07-01/text",
+   "sha256": "3b640f94d7d6985472e6bbf44e0f8513ef2fd0f2b6701a00ce66672d259ab1c0"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1975-06-12",
+   "acts": []
+  },
+  {
+   "in_force": "1975-08-19",
+   "acts": [
+    "Customs Act (No. 2) 1975"
+   ]
+  },
+  {
+   "in_force": "1975-10-27",
+   "acts": [
+    "Social Services Act (No. 3) 1975",
+    "Repatriation Acts Amendment Act (No. 2) 1975"
+   ]
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-09-22",
+   "acts": [
+    "Postal and Telecommunications Commissions (Transitional Provisions) Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

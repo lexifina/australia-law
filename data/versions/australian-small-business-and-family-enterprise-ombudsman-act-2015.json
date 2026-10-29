@@ -1,0 +1,48 @@
+{
+ "title_id": "C2015A00123",
+ "name": "Australian Small Business and Family Enterprise Ombudsman Act 2015",
+ "folder": "australian-small-business-and-family-enterprise-ombudsman-act-2015",
+ "compilations": [
+  {
+   "in_force": "2017-09-20",
+   "register_id": "C2017C00316",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00123',start=2017-09-20,retrospectivestart=2017-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00123/2017-09-20/text",
+   "sha256": "53c0eef47a26a6010d4710317cd4f49df8d6279738227518e2add58f50563c85"
+  },
+  {
+   "in_force": "2019-03-13",
+   "register_id": "C2019C00109",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00123',start=2019-03-13,retrospectivestart=2019-03-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00123/2019-03-13/text",
+   "sha256": "b544902ce9429169ad2ec2831a76111367a99a2fa7c278a176edf2241f258206"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00563",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00123',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00123/2024-10-14/text",
+   "sha256": "f112a3ad33d30b993fbb9b36a6611dbc68364b6810a11d527561643351899337"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2015-09-10",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

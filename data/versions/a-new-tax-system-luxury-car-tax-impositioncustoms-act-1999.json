@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00464",
+ "name": "A New Tax System (Luxury Car Tax Imposition—Customs) Act 1999",
+ "folder": "a-new-tax-system-luxury-car-tax-impositioncustoms-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-07-08",
+   "register_id": "C2004A00464",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00464',start=1999-07-08,retrospectivestart=1999-07-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00464/1999-07-08/text",
+   "sha256": "2829179703d8acbd3ab242a3458d71bfc78cf8b96601c4e13f9acf5e948857c5"
+  },
+  {
+   "in_force": "2008-10-03",
+   "register_id": "C2008C00521",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00464',start=2008-10-03,retrospectivestart=2008-10-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00464/2008-10-03/text",
+   "sha256": "bb985691a1b3901e59b41d4519f085657f89ce1ae43c4e9dbf327e00eb42c8ff"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

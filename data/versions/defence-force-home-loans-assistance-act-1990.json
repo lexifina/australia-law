@@ -1,0 +1,174 @@
+{
+ "title_id": "C2004A04089",
+ "name": "Defence Force (Home Loans Assistance) Act 1990",
+ "folder": "defence-force-home-loans-assistance-act-1990",
+ "compilations": [
+  {
+   "in_force": "2017-10-12",
+   "register_id": "C2017C00344",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04089',start=2017-10-12,retrospectivestart=2017-10-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04089/2017-10-12/text",
+   "sha256": "ece4e0ea067d9fc11bc9fd96b1422b72136d68f8f6e0df6696ae2a299457b427"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00433",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04089',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04089/2021-09-01/text",
+   "sha256": "e7e7d257845aa7efbbe168bdb35f296624185f7ec713d9bfa68110e9fc79a9c6"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00682",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04089',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04089/2024-10-14/text",
+   "sha256": "6e68da2c2b6f8c48c30d1cc897c2d2e26e3f9860e42dfda9d71d220e9d89ae82"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-01-21",
+   "acts": []
+  },
+  {
+   "in_force": "1991-10-21",
+   "acts": [
+    "Defence Force (Home Loans Assistance) Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-26",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Defence Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-09-01",
+   "acts": [
+    "Defence Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-12-22",
+   "acts": [
+    "Defence Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-05-19",
+   "acts": [
+    "Defence Force (Home Loans Assistance) Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-08-30",
+   "acts": [
+    "Defence Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-11-08",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1996"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2001-04-19",
+   "acts": [
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-12-17",
+   "acts": [
+    "Defence Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2006-11-22",
+   "acts": [
+    "Defence Housing Authority Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-11-30",
+   "acts": [
+    "Defence Force (Home Loans Assistance) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-06-21",
+   "acts": [
+    "Defence Force (Home Loans Assistance) Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Defence Home Ownership Assistance Scheme (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

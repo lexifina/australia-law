@@ -1,0 +1,32 @@
+{
+ "title_id": "C2014A00016",
+ "name": "Biosecurity Charges Imposition (Customs) Act 2015",
+ "folder": "biosecurity-charges-imposition-customs-act-2015",
+ "compilations": [
+  {
+   "in_force": "2014-03-31",
+   "register_id": "C2014A00016",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00016',start=2014-03-31,retrospectivestart=2014-03-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00016/2014-03-31/text",
+   "sha256": "0ca97382621279d6f3f776a01a391cfc93ab25ac4f8af9383bdc84a997773c6e"
+  },
+  {
+   "in_force": "2016-06-16",
+   "register_id": "C2016C00675",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00016',start=2016-06-16,retrospectivestart=2016-06-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00016/2016-06-16/text",
+   "sha256": "b051da5af96d77a9ad2331902a85731f3f7aed9abe06d4355983cbf2f7b0352d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

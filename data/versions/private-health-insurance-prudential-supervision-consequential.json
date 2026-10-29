@@ -1,0 +1,21 @@
+{
+ "title_id": "C2015A00087",
+ "name": "Private Health Insurance (Prudential Supervision) (Consequential Amendments and Transitional Provisions) Act 2015",
+ "folder": "private-health-insurance-prudential-supervision-consequential",
+ "compilations": [
+  {
+   "in_force": "2015-06-26",
+   "register_id": "C2015A00087",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00087',start=2015-06-26,retrospectivestart=2015-06-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00087/2015-06-26/text",
+   "sha256": "f794b0d3691afa837a258cd40f1d2c51282567498093af6385b8ab2458c09cca"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

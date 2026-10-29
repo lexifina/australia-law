@@ -1,0 +1,316 @@
+{
+ "title_id": "C2004A00564",
+ "name": "Social Security (International Agreements) Act 1999",
+ "folder": "social-security-international-agreements-act-1999",
+ "compilations": [
+  {
+   "in_force": "2020-03-20",
+   "register_id": "C2020C00115",
+   "compilation": "53",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00564',start=2020-03-20,retrospectivestart=2020-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00564/2020-03-20/text",
+   "sha256": "ce053a71c3c0fb98d9bf3b7f18c0ae636ccd49329f21db285c798fa6ef8d0b6a"
+  },
+  {
+   "in_force": "2021-05-28",
+   "register_id": "C2021C00226",
+   "compilation": "54",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00564',start=2021-05-28,retrospectivestart=2021-05-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00564/2021-05-28/text",
+   "sha256": "16df6b1d5f47b6c0ab68aeef8661295e7e9751bdef54c66aa82c053cc5883e9a"
+  },
+  {
+   "in_force": "2024-02-01",
+   "register_id": "C2024C00057",
+   "compilation": "55",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00564',start=2024-02-01,retrospectivestart=2024-02-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00564/2024-02-01/text",
+   "sha256": "78a91a24a7900c4faf3a187458ab4d1e79442a05291824659a73dc657a9c9226"
+  },
+  {
+   "in_force": "2026-09-09",
+   "register_id": "C2026C00397",
+   "compilation": "56",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00564',start=2026-09-09,retrospectivestart=2026-09-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00564/2026-09-09/text",
+   "sha256": "2668cb821ef619e4a621d30ba24c7f3e19f46a13d21d2baf5239432cc21ac0c1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-12-20",
+   "acts": []
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Family Assistance and Related Measures) Act 2000",
+    "Family and Community Services Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2000-08-01",
+   "acts": [
+    "Social Security and Veterans' Entitlements Legislation Amendment (Miscellaneous Matters) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-10-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2000 (No. 3)",
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2000 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2001-01-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2000 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2001-03-01",
+   "acts": [
+    "Family and Community Services (2000 Budget and Related Measures) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2002-01-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2001 (No 1)",
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2001 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2002 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2002-10-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2002 (No. 3)",
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2002 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2002 (No. 3)",
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2002 (No. 2)",
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2002 (No. 5)"
+   ]
+  },
+  {
+   "in_force": "2003-04-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2002 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2004-01-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2003 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2004-04-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2004 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Social Security (International Agreements) Legislation Amendment Regulations 2003 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2004 (No. 2)",
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2005 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-01-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2005 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Social Security and Family Assistance Legislation Amendment (Miscellaneous Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2007 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2008-06-21",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2008 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2008-10-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2007 (No. 2)",
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2007 (No. 2)",
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2007 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2008-12-19",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2008 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2008 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2009-06-04",
+   "acts": [
+    "Employment and Workplace Relations Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2008 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2009-10-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2009 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2010-03-03",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2010 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2010-10-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2010 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2010-10-19",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2010 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2011-04-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2010 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2010 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2011 (No. 1)",
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2011 (No. 2)"
+   ]
+  },
+  {
+   "in_force": "2012-10-01",
+   "acts": [
+    "Social Security (International Agreements) Act 1999 Amendment Regulations 2011 (No. 3)"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Social Security (International Agreements) Amendment Regulation 2012 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Social Security (International Agreements) Amendment (Republic of India) Regulation 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Social Security (International Agreements) Amendment (Republic of Austria) Regulation 2016"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Social Security (International Agreements) Amendment (New Zealand) Regulations 2017",
+    "Social Security (International Agreements) Amendment (Amendment of New Zealand Agreement) Regulations 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Social Security (International Agreements) Amendment (Republic of Estonia) Regulation 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

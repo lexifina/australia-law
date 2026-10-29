@@ -1,0 +1,32 @@
+{
+ "title_id": "C2023A00115",
+ "name": "Identity Verification Services Act 2023",
+ "folder": "identity-verification-services-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-12-14",
+   "register_id": "C2023A00115",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00115',start=2023-12-14,retrospectivestart=2023-12-14,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00115/2023-12-14/text",
+   "sha256": "e362580aa44cdfd291b3ac8207cf6abe8081df6a148bd75d3fbce4d00431ad19"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00830",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00115',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00115/2024-12-11/text",
+   "sha256": "ed9bcfa8353feb2d4163e026fa0652abeca361e35c1e9580c17a41c135217184"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

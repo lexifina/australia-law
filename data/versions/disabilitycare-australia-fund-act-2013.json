@@ -1,0 +1,102 @@
+{
+ "title_id": "C2013A00037",
+ "name": "DisabilityCare Australia Fund Act 2013",
+ "folder": "disabilitycare-australia-fund-act-2013",
+ "compilations": [
+  {
+   "in_force": "2023-03-01",
+   "register_id": "C2023C00053",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00037',start=2023-03-01,retrospectivestart=2023-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00037/2023-03-01/text",
+   "sha256": "ae84b545d560c82466e6cdc9a636391c12004a3390d6ab7ba0def923440119b8"
+  },
+  {
+   "in_force": "2023-11-01",
+   "register_id": "C2023C00429",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00037',start=2023-11-01,retrospectivestart=2023-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00037/2023-11-01/text",
+   "sha256": "59c584ff03c0033252e73b04265172b397afeede4aad0b5a30c6bde1e5b7c5dc"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00289",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00037',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00037/2024-07-06/text",
+   "sha256": "dc55a971c7efa27da25d0a992ac4c4ca00fa3ad60af28ecd4ab7f965e5c1c694"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2013-05-28",
+   "acts": []
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-08-27",
+   "acts": [
+    "Medical Research Future Fund (Consequential Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-29",
+   "acts": [
+    "Medical Research Future Fund (Consequential Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2019-02-01",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Land and Sea Future Fund (Consequential Amendments) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-31",
+   "acts": [
+    "Future Drought Fund (Consequential Amendments) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-09-01",
+   "acts": [
+    "Future Drought Fund (Consequential Amendments) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-12",
+   "acts": [
+    "Emergency Response Fund (Consequential Amendments) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2022-04-08",
+   "acts": [
+    "National Disability Insurance Scheme Amendment (Participant Service Guarantee and Other Measures) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

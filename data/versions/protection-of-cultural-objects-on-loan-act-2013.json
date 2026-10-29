@@ -1,0 +1,43 @@
+{
+ "title_id": "C2013A00012",
+ "name": "Protection of Cultural Objects on Loan Act 2013",
+ "folder": "protection-of-cultural-objects-on-loan-act-2013",
+ "compilations": [
+  {
+   "in_force": "2013-03-14",
+   "register_id": "C2013A00012",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00012',start=2013-03-14,retrospectivestart=2013-03-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00012/2013-03-14/text",
+   "sha256": "7ab8f4163af4d71d68ad83e3bc6131368d94a103995bf2b5660a2bf491e24cbf"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00162",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00012',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00012/2016-03-05/text",
+   "sha256": "cf14d1ad681052a6783137566b9558a3aa9273fb1aeac5584b0947b46b371845"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00544",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00012',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00012/2024-10-14/text",
+   "sha256": "0757b837a8d34e3164a5d35289b986e7b3cead84bf560d13e950fafda47bff19"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

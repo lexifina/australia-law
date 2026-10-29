@@ -1,0 +1,21 @@
+{
+ "title_id": "C2008A00080",
+ "name": "Military Memorials of National Significance Act 2008",
+ "folder": "military-memorials-of-national-significance-act-2008",
+ "compilations": [
+  {
+   "in_force": "2008-07-12",
+   "register_id": "C2008A00080",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00080',start=2008-07-12,retrospectivestart=2008-07-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00080/2008-07-12/text",
+   "sha256": "939991a0f207649742fddc60e7a84f7ba6d605f0a585cfcc6f656d252c7c518d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

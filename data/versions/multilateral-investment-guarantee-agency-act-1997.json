@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A05219",
+ "name": "Multilateral Investment Guarantee Agency Act 1997",
+ "folder": "multilateral-investment-guarantee-agency-act-1997",
+ "compilations": [
+  {
+   "in_force": "1997-09-15",
+   "register_id": "C2004A05219",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05219',start=1997-09-15,retrospectivestart=1997-09-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05219/1997-09-15/text",
+   "sha256": "cd6e733ef28a95c04e5595fa9d5fdd4ebefdb011241985ee8d850e253daa33dd"
+  },
+  {
+   "in_force": "2010-11-25",
+   "register_id": "C2020C00320",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05219',start=2010-11-25,retrospectivestart=2010-11-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05219/2010-11-25/text",
+   "sha256": "b4364a8baf7ab7b1751e14f8a90a0b29a7aecac6914c0a4049a2fd3ea8c1cbac"
+  },
+  {
+   "in_force": "2026-04-09",
+   "register_id": "C2026C00174",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05219',start=2026-04-09,retrospectivestart=2026-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05219/2026-04-09/text",
+   "sha256": "7fc981a868b0f1f8833be71a9343fd14ed1a9f2c96dca988fa6eb2e3bcbe22b8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

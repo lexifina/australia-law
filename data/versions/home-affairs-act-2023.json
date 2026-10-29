@@ -1,0 +1,21 @@
+{
+ "title_id": "C2023A00019",
+ "name": "Home Affairs Act 2023",
+ "folder": "home-affairs-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-06-15",
+   "register_id": "C2023A00019",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00019',start=2023-06-15,retrospectivestart=2023-06-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00019/2023-06-15/text",
+   "sha256": "0a732aa12d599e56b7a2d4da3fa43685dcc17b9cbd4c8990805711bf2a6f607c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

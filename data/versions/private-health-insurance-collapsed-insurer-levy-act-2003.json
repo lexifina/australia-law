@@ -1,0 +1,48 @@
+{
+ "title_id": "C2004A01156",
+ "name": "Private Health Insurance (Collapsed Insurer Levy) Act 2003",
+ "folder": "private-health-insurance-collapsed-insurer-levy-act-2003",
+ "compilations": [
+  {
+   "in_force": "2007-04-01",
+   "register_id": "C2007C00197",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01156',start=2007-04-01,retrospectivestart=2007-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01156/2007-04-01/text",
+   "sha256": "1cb70205dabcbc1db07d8e9ad5185e34c63c2207c1b29e9e6df30868a6541fbd"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00456",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01156',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01156/2015-07-01/text",
+   "sha256": "7b8165a6183a4ec2befa480e9a26450ab3b2fde691aa2095fcf62207d9d60a5e"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00870",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01156',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01156/2016-07-01/text",
+   "sha256": "6880c6f15175a32a83ba42a079b2451b7b2d658261c35c1b12fb923b1a411540"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-07-15",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

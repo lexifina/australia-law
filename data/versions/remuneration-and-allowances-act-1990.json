@@ -1,0 +1,198 @@
+{
+ "title_id": "C2004A04002",
+ "name": "Remuneration and Allowances Act 1990",
+ "folder": "remuneration-and-allowances-act-1990",
+ "compilations": [
+  {
+   "in_force": "2018-01-01",
+   "register_id": "C2018C00018",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04002',start=2018-01-01,retrospectivestart=2018-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04002/2018-01-01/text",
+   "sha256": "8b4bd86cf5ea0e3222795b42aaba96351f11c161ef3f0ff5326a71bbdf994f42"
+  },
+  {
+   "in_force": "2018-12-20",
+   "register_id": "C2019C00029",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04002',start=2018-12-20,retrospectivestart=2018-12-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04002/2018-12-20/text",
+   "sha256": "cffc2a87c20e5239b28d449f1b6e2942a6fdf214f8d70d4f22d23b1b2e3743c3"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00413",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04002',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04002/2021-09-01/text",
+   "sha256": "3b38a1041b89a2e645f69885888a109f522789703b3a7ae81b76740fa015d4b4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-06-20",
+   "acts": []
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Remuneration and Allowances Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1990-12-18",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-03-25",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1994-12-15",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1995-11-06",
+   "acts": [
+    "Competition Policy Reform Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-04-30",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Intelligence Services (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-06-26",
+   "acts": [
+    "Parliamentary Superannuation and Other Entitlements Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-08-05",
+   "acts": [
+    "Remuneration and Other Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-01-01",
+   "acts": [
+    "Albury-Wodonga Development Corporation (Abolition) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Courts Administration Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-11-17",
+   "acts": [
+    "Statute Law Revision (Spring 2016) Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

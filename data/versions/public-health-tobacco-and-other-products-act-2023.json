@@ -1,0 +1,48 @@
+{
+ "title_id": "C2023A00118",
+ "name": "Public Health (Tobacco and Other Products) Act 2023",
+ "folder": "public-health-tobacco-and-other-products-act-2023",
+ "compilations": [
+  {
+   "in_force": "2024-07-01",
+   "register_id": "C2024C00259",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00118',start=2024-07-01,retrospectivestart=2024-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00118/2024-07-01/text",
+   "sha256": "45656e7ed4d7cf36c98f75a90b114bfde671284c2502fdc695984f81d9c4f4bf"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00142",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00118',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00118/2025-02-21/text",
+   "sha256": "621fe0e6bb700c0419bd98082ce0064a8caf45f805272389d8eab6fd5216b5de"
+  },
+  {
+   "in_force": "2025-09-05",
+   "register_id": "C2025C00521",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00118',start=2025-09-05,retrospectivestart=2025-09-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00118/2025-09-05/text",
+   "sha256": "18791a6c3e0fc301511bfbd3d329dcc698c2d2568cdb0e5af03e8e50b57d0b1e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2023-12-14",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

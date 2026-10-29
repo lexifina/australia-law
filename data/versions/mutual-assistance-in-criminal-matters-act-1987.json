@@ -1,0 +1,275 @@
+{
+ "title_id": "C2004A03494",
+ "name": "Mutual Assistance in Criminal Matters Act 1987",
+ "folder": "mutual-assistance-in-criminal-matters-act-1987",
+ "compilations": [
+  {
+   "in_force": "2023-09-14",
+   "register_id": "C2023C00229",
+   "compilation": "41",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03494',start=2023-09-14,retrospectivestart=2023-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03494/2023-09-14/text",
+   "sha256": "51736df512cc93c38ae42f60d4042b73ee73965545a9809daba000dff458589b"
+  },
+  {
+   "in_force": "2026-03-28",
+   "register_id": "C2026C00147",
+   "compilation": "42",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03494',start=2026-03-28,retrospectivestart=2026-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03494/2026-03-28/text",
+   "sha256": "9a2598938ca37df7c376ef35b3148e85730398c385a2cf7cf18f65f93d176d53"
+  },
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00386",
+   "compilation": "43",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03494',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03494/2026-08-27/text",
+   "sha256": "ed3889e3ecf5dc757931a57ec62d2f2cef0da5a88eb75faf58d80bf66f68525f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-06-05",
+   "acts": []
+  },
+  {
+   "in_force": "1988-12-01",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1988",
+    "Law and Justice Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-09-20",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-12-06",
+   "acts": [
+    "Cash Transaction Reports Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-01-08",
+   "acts": [
+    "Crimes Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-12-19",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1997-03-01",
+   "acts": [
+    "Mutual Assistance in Criminal Matters Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "2001-04-06",
+   "acts": [
+    "Crimes Amendment (Forensic Procedures) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-07-05",
+   "acts": [
+    "Suppression of the Financing of Terrorism Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-09-26",
+   "acts": [
+    "International Criminal Court (Consequential Amendments) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-09-28",
+   "acts": [
+    "Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Act (No. 2) 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-15",
+   "acts": [
+    "Surveillance Devices Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-06-13",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2009-12-04",
+   "acts": [
+    "Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-03-03",
+   "acts": [
+    "Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-25",
+   "acts": [
+    "Mutual Assistance in Criminal Matters Amendment (Registration of Foreign Proceeds of Crime Orders) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010",
+    "Personal Property Securities (Corporations and Other Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-09-20",
+   "acts": [
+    "Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012",
+    "Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012",
+    "Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-10-10",
+   "acts": [
+    "Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012",
+    "Cybercrime Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Law and Justice Legislation Amendment (Northern Territory Local Court) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-05-23",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-09",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment (Assistance and Access) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2021-07-24",
+   "acts": [
+    "Telecommunications Legislation Amendment (International Production Orders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

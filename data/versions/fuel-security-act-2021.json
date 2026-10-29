@@ -1,0 +1,48 @@
+{
+ "title_id": "C2021A00065",
+ "name": "Fuel Security Act 2021",
+ "folder": "fuel-security-act-2021",
+ "compilations": [
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00547",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00065',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00065/2021-09-01/text",
+   "sha256": "7d35a23729bb79d3579e3cfd6ff0ca5562a14766a440ad35030bb6102a67cad2"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00688",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00065',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00065/2024-10-14/text",
+   "sha256": "9abb66d2bb1359e8ccfc749076943710bbb6155b480e288b2b8b369032e44804"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00689",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00065',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00065/2025-12-05/text",
+   "sha256": "ff7eb6b576f99c1020dc693795bf487aa37f7b68ac3c846d07bb487adc1e3f58"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2021-06-29",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,90 @@
+{
+ "title_id": "C1954A00059",
+ "name": "Northern Territory (Lessees' Loans Guarantee) Act 1954",
+ "folder": "northern-territory-lessees-loans-guarantee-act-1954",
+ "compilations": [
+  {
+   "in_force": "1999-07-01",
+   "register_id": "C2004C00322",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1954A00059',start=1999-07-01,retrospectivestart=1999-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1954A00059/1999-07-01/text",
+   "sha256": "e93603fe2587aca8b2182943599aad89c81d4cde2cc88c25d6d3dda8e2ea574a"
+  },
+  {
+   "in_force": "2005-02-22",
+   "register_id": "C2005C00179",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1954A00059',start=2005-02-22,retrospectivestart=2005-02-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1954A00059/2005-02-22/text",
+   "sha256": "2deaf0b53c39738c22acbd68879904152b8ad950d28bed44c2a3890e547cdfa1"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00383",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1954A00059',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1954A00059/2008-07-04/text",
+   "sha256": "cc178f2cb78f27ecc3568810e73f3ce9e95f9a06fd899747576efe2b5f46cdd0"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00632",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1954A00059',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1954A00059/2014-07-01/text",
+   "sha256": "ab856d155e98d0781fe5b59e4e7f91fdaf6a248b4629b75265842ed0c29bf661"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1954-11-06",
+   "acts": []
+  },
+  {
+   "in_force": "1960-01-14",
+   "acts": [
+    "Northern Territory (Lessees' Loans Guarantee) Act 1959"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1984-06-29",
+   "acts": [
+    "Commonwealth Banks Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1996-07-19",
+   "acts": [
+    null,
+    "Commonwealth Bank Sale Act 1995"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

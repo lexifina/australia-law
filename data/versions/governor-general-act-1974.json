@@ -1,0 +1,234 @@
+{
+ "title_id": "C2004A00075",
+ "name": "Governor-General Act 1974",
+ "folder": "governor-general-act-1974",
+ "compilations": [
+  {
+   "in_force": "2024-06-29",
+   "register_id": "C2024C00261",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00075',start=2024-06-29,retrospectivestart=2024-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00075/2024-06-29/text",
+   "sha256": "d0a93d132a296b8eb6cafdb7d9b4efde21bb6aef03d262c70bdd7dd8714b01ba"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00498",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00075',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00075/2024-10-14/text",
+   "sha256": "788a282d591a817a2dcf7dbbf61c33dacb544ccc3d10070636ae5cb1e194e18f"
+  },
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026C00112",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00075',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00075/2026-04-01/text",
+   "sha256": "22d88028a133963b72725738848c327d6a58c77a294c6f9d19cd9557e529247a"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00257",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00075',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00075/2026-07-01/text",
+   "sha256": "adce38a656de3c57d437fe10c93a22960cfc66fa1379779f51ec3d8027ac67fc"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1974-04-11",
+   "acts": []
+  },
+  {
+   "in_force": "1977-11-10",
+   "acts": [
+    "Governor-General Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1982-06-09",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983",
+    "Governor-General Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1984-12-24",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-06-24",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1988-10-19",
+   "acts": [
+    "Governor-General Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-06-25",
+   "acts": [
+    "Commonwealth Superannuation Schemes Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-11-02",
+   "acts": [
+    "Governor-General Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-12-07",
+   "acts": [
+    "Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-06-28",
+   "acts": [
+    "Governor-General Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-03",
+   "acts": [
+    "Governor-General Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Superannuation (Consequential Amendments) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2008-06-30",
+   "acts": [
+    "Governor-General Amendment (Salary and Superannuation) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-15",
+   "acts": [
+    "Judges and Governors-General Legislation Amendment (Family Law) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (Increased Concessional Contributions Cap and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-13",
+   "acts": [
+    "Governor-General Amendment (Salary) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Governor-General Amendment (Salary) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2022-09-28",
+   "acts": [
+    "Family Law Amendment (Western Australia De Facto Superannuation Splitting and Bankruptcy) Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

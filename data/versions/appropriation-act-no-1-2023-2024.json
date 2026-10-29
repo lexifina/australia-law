@@ -1,0 +1,21 @@
+{
+ "title_id": "C2023A00031",
+ "name": "Appropriation Act (No. 1) 2023-2024",
+ "folder": "appropriation-act-no-1-2023-2024",
+ "compilations": [
+  {
+   "in_force": "2023-06-28",
+   "register_id": "C2023A00031",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00031',start=2023-06-28,retrospectivestart=2023-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00031/2023-06-28/text",
+   "sha256": "7f2cedfb648998bd2ef8bf6f5263d07bca777ba24061de119cd1d74e732252cd"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

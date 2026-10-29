@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A05336",
+ "name": "Commonwealth Places Windfall Tax (Collection) Act 1998",
+ "folder": "commonwealth-places-windfall-tax-collection-act-1998",
+ "compilations": [
+  {
+   "in_force": "1997-10-06",
+   "register_id": "C2004A05336",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05336',start=1997-10-06,retrospectivestart=1997-10-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05336/1997-10-06/text",
+   "sha256": "5e48bbc25db3e0409d94f6abd0e81d75fd51445fd4a37eb568d9a39f50e8c282"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

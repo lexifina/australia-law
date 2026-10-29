@@ -1,0 +1,32 @@
+{
+ "title_id": "C2013A00096",
+ "name": "Charities (Consequential Amendments and Transitional Provisions) Act 2013",
+ "folder": "charities-consequential-amendments-and-transitional-provisions-act-2013",
+ "compilations": [
+  {
+   "in_force": "2013-06-28",
+   "register_id": "C2013A00096",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00096',start=2013-06-28,retrospectivestart=2013-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00096/2013-06-28/text",
+   "sha256": "96c9ca977998f131db2868dff4970aa9a3e85ee7ac6257ffc4c178ea462b5f39"
+  },
+  {
+   "in_force": "2014-01-01",
+   "register_id": "C2015C00341",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00096',start=2014-01-01,retrospectivestart=2014-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00096/2014-01-01/text",
+   "sha256": "97b6e4be899b3f62773cc97c9ff2174b1ccd6de88e723568fbd18689c0a35e7d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

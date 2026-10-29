@@ -1,0 +1,310 @@
+{
+ "title_id": "C2004A04665",
+ "name": "Native Title Act 1993",
+ "folder": "native-title-act-1993",
+ "compilations": [
+  {
+   "in_force": "2023-08-22",
+   "register_id": "C2023C00216",
+   "compilation": "48",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04665',start=2023-08-22,retrospectivestart=2023-08-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04665/2023-08-22/text",
+   "sha256": "16abfd817b800857854317d3cb51523f1331ac8a25aa09ba6b17934273730156"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00406",
+   "compilation": "49",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04665',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04665/2023-10-18/text",
+   "sha256": "4dfcf59b775b257c13854fd700378d815f41a2f4b3e527db8b35de93ea404bd1"
+  },
+  {
+   "in_force": "2024-06-12",
+   "register_id": "C2024C00224",
+   "compilation": "50",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04665',start=2024-06-12,retrospectivestart=2024-06-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04665/2024-06-12/text",
+   "sha256": "3971c39a27ad54ffe0a1bd57452724f5c70432aeb13dea657b5572a176e85a31"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1993-12-24",
+   "acts": []
+  },
+  {
+   "in_force": "1995-06-01",
+   "acts": [
+    "Land Fund and Indigenous Land Corporation (ATSIC Amendment) Act 1995",
+    "Statute Law Revision Act 2005"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-11-16",
+   "acts": [
+    "Native Title Amendment (Tribunal Appointments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-09-30",
+   "acts": [
+    "Native Title Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-10-30",
+   "acts": [
+    "Native Title Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Native Title Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000",
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-03-11",
+   "acts": [
+    "Extension of Sunset of Parliamentary Joint Committee on Native Title Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-24",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Commission Amendment Act 2005",
+    "Financial Framework Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2006-04-07",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2007-04-15",
+   "acts": [
+    "Native Title Amendment Act 2007",
+    "Native Title Amendment Act 2007",
+    "Native Title Amendment (Technical Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Corporations (Aboriginal and Torres Strait Islander) Consequential, Transitional and Other Measures Act 2006",
+    "Native Title Amendment Act 2007",
+    "Native Title Amendment (Technical Amendments) Act 2007",
+    "Native Title Amendment (Technical Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-21",
+   "acts": [
+    "Native Title Amendment (Technical Amendments) Act 2007",
+    "Native Title Amendment (Technical Amendments) Act 2007",
+    "Native Title Amendment (Technical Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-01",
+   "acts": [
+    "Native Title Amendment (Technical Amendments) Act 2007",
+    "Native Title Amendment (Technical Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Native Title Amendment (Technical Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-18",
+   "acts": [
+    "Native Title Amendment Act 2009",
+    "Native Title Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-07",
+   "acts": [
+    "Federal Justice System Amendment (Efficiency Measures) Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2010-12-16",
+   "acts": [
+    "Native Title Amendment Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-12",
+   "acts": [
+    "Courts and Tribunals Legislation Amendment (Administration) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015",
+    "Courts Administration Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-04-13",
+   "acts": [
+    "Human Rights Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-06-22",
+   "acts": [
+    "Native Title Amendment (Indigenous Land Use Agreements) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-12-29",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-12-09",
+   "acts": [
+    "Native Title Amendment (Infrastructure and Public Facilities) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-25",
+   "acts": [
+    "Native Title Legislation Amendment Act 2021",
+    "Native Title Legislation Amendment Act 2021",
+    "Native Title Legislation Amendment Act 2021",
+    "Native Title Legislation Amendment Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-25",
+   "acts": [
+    "Native Title Legislation Amendment Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

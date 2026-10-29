@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00045",
+ "name": "Public and Educational Lending Rights (Better Income for Authors) Act 2026",
+ "folder": "public-and-educational-lending-rights-better-income-for-authors-act-2026",
+ "compilations": [
+  {
+   "in_force": "2026-05-20",
+   "register_id": "C2026A00045",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00045',start=2026-05-20,retrospectivestart=2026-05-20,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00045/2026-05-20/text",
+   "sha256": "5f61608f77ee81a9cde90a8946e19be604f97f5f0a93e746faaf853ab2190841"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

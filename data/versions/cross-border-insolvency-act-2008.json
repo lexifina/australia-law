@@ -1,0 +1,66 @@
+{
+ "title_id": "C2008A00024",
+ "name": "Cross-Border Insolvency Act 2008",
+ "folder": "cross-border-insolvency-act-2008",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00752",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00024',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00024/2016-07-01/text",
+   "sha256": "cd8eb98b8b1173516c9e84b0e078da468bd11da0224d3b0734983b05b57b164c"
+  },
+  {
+   "in_force": "2017-03-01",
+   "register_id": "C2017C00063",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00024',start=2017-03-01,retrospectivestart=2017-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00024/2017-03-01/text",
+   "sha256": "5841d73ff16d0f8b18aceac05a6cf69d839bcaac6d482c363965ab78d8e0e808"
+  },
+  {
+   "in_force": "2020-12-18",
+   "register_id": "C2021C00032",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00024',start=2020-12-18,retrospectivestart=2020-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00024/2020-12-18/text",
+   "sha256": "fcd835b971e35e0aa0c58de9868ca07e59cbb31c7ef73dd9006816c8237e9fec"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2008-05-26",
+   "acts": []
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

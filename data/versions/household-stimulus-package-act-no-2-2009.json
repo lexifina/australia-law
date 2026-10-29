@@ -1,0 +1,21 @@
+{
+ "title_id": "C2009A00004",
+ "name": "Household Stimulus Package Act (No. 2) 2009",
+ "folder": "household-stimulus-package-act-no-2-2009",
+ "compilations": [
+  {
+   "in_force": "2009-01-01",
+   "register_id": "C2009A00004",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00004',start=2009-01-01,retrospectivestart=2009-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00004/2009-01-01/text",
+   "sha256": "7999fd6e15f4ff7792cad3f1939005ba979bcfa24f92a0f5f587cd2becad49ad"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

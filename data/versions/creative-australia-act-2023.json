@@ -1,0 +1,43 @@
+{
+ "title_id": "C2023A00024",
+ "name": "Creative Australia Act 2023",
+ "folder": "creative-australia-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-06-23",
+   "register_id": "C2023A00024",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00024',start=2023-06-23,retrospectivestart=2023-06-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00024/2023-06-23/text",
+   "sha256": "6fc74cfecdd7344593ad40504ebca4b555de364a395b334b8bd9dddce9756763"
+  },
+  {
+   "in_force": "2024-09-09",
+   "register_id": "C2024C00397",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00024',start=2024-09-09,retrospectivestart=2024-09-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00024/2024-09-09/text",
+   "sha256": "5fea310f19162beda3058ba0850fe565f9d9526a9da9ed19295e635f81e070c4"
+  },
+  {
+   "in_force": "2025-07-01",
+   "register_id": "C2025C00409",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00024',start=2025-07-01,retrospectivestart=2025-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00024/2025-07-01/text",
+   "sha256": "4df144d0f840d5d4a0b2726e3e8a6fecefcf16a3edf5c427038887ea90507704"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

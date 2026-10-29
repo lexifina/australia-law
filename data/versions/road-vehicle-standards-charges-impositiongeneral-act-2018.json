@@ -1,0 +1,21 @@
+{
+ "title_id": "C2018A00167",
+ "name": "Road Vehicle Standards Charges (Imposition—General) Act 2018",
+ "folder": "road-vehicle-standards-charges-impositiongeneral-act-2018",
+ "compilations": [
+  {
+   "in_force": "2018-12-10",
+   "register_id": "C2018A00167",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00167',start=2018-12-10,retrospectivestart=2018-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00167/2018-12-10/text",
+   "sha256": "488fa59b742740e77eaa13f85c3d95e701ab62cdac17070aced08411bc81131a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A05292",
+ "name": "Migration Agents Registration Application Charge Act 1997",
+ "folder": "migration-agents-registration-application-charge-act-1997",
+ "compilations": [
+  {
+   "in_force": "2004-07-01",
+   "register_id": "C2004C00940",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05292',start=2004-07-01,retrospectivestart=2004-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05292/2004-07-01/text",
+   "sha256": "b324c75ba9f2dbb24422754db29f5c7663a03e1615fd2c92bd28ee1a15828c66"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00072",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05292',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05292/2015-12-10/text",
+   "sha256": "cc2027126709c2f8dca2afe95e913e5a70640b06b9be38906c195824896ae82d"
+  },
+  {
+   "in_force": "2020-10-15",
+   "register_id": "C2020C00326",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05292',start=2020-10-15,retrospectivestart=2020-10-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05292/2020-10-15/text",
+   "sha256": "df6e331f56653a9a1787eed48a8a221968d67ff63513d1e07248f234cc15e08a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-12-17",
+   "acts": []
+  },
+  {
+   "in_force": "2002-06-26",
+   "acts": [
+    "Migration Agents Registration Application Charge Amendment Act 2002"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

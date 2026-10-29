@@ -1,0 +1,21 @@
+{
+ "title_id": "C2024A00121",
+ "name": "Future Made in Australia (Guarantee of Origin) Act 2024",
+ "folder": "future-made-in-australia-guarantee-of-origin-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-12-10",
+   "register_id": "C2024A00121",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00121',start=2024-12-10,retrospectivestart=2024-12-10,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00121/2024-12-10/text",
+   "sha256": "a8be12838d849cccfcb83ef0f3542c9621a5b94fe62ea877933a4fde9e35d9fd"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

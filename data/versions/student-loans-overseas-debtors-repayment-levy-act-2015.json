@@ -1,0 +1,43 @@
+{
+ "title_id": "C2015A00155",
+ "name": "Student Loans (Overseas Debtors Repayment Levy) Act 2015",
+ "folder": "student-loans-overseas-debtors-repayment-levy-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-11-26",
+   "register_id": "C2015A00155",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00155',start=2015-11-26,retrospectivestart=2015-11-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00155/2015-11-26/text",
+   "sha256": "3c7cca61b809ccd7dcb7948b80367046c27f22b51cab6dbcc2437d772ac40aca"
+  },
+  {
+   "in_force": "2019-07-01",
+   "register_id": "C2019C00229",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00155',start=2019-07-01,retrospectivestart=2019-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00155/2019-07-01/text",
+   "sha256": "cd58130e175bef0872064eab78a4a6005a68590f141220d81705a54622e1b63d"
+  },
+  {
+   "in_force": "2024-01-01",
+   "register_id": "C2024C00043",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00155',start=2024-01-01,retrospectivestart=2024-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00155/2024-01-01/text",
+   "sha256": "811cc77ad05df1764e9f8f95a33399493ff6c91da543952fc95f20f03ef55f4e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

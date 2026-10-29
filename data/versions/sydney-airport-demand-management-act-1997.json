@@ -1,0 +1,97 @@
+{
+ "title_id": "C2004A05267",
+ "name": "Sydney Airport Demand Management Act 1997",
+ "folder": "sydney-airport-demand-management-act-1997",
+ "compilations": [
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00809",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05267',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05267/2012-09-22/text",
+   "sha256": "4dc2959a373e930480a88304a1269b29adfc054507c39003b3d50a519741e1dd"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00441",
+   "compilation": "12",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05267',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05267/2016-03-05/text",
+   "sha256": "851178456f917a6fc0c2be5c2710bc3836c198e03dfd1c8c447b9427978e3c5b"
+  },
+  {
+   "in_force": "2025-10-26",
+   "register_id": "C2025C00585",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05267',start=2025-10-26,retrospectivestart=2025-10-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05267/2025-10-26/text",
+   "sha256": "870604b1a49b25b2d9f78a25c14221ead7f430e0cf5e5d29cad66cea03cc0e80"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-11-17",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-05",
+   "acts": [
+    "Sydney Airport Demand Management Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2009-01-12",
+   "acts": [
+    "Sydney Airport Demand Management Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

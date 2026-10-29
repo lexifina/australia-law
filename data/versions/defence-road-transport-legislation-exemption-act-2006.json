@@ -1,0 +1,32 @@
+{
+ "title_id": "C2006A00004",
+ "name": "Defence (Road Transport Legislation Exemption) Act 2006",
+ "folder": "defence-road-transport-legislation-exemption-act-2006",
+ "compilations": [
+  {
+   "in_force": "2006-03-01",
+   "register_id": "C2006A00004",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00004',start=2006-03-01,retrospectivestart=2006-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00004/2006-03-01/text",
+   "sha256": "10ceda409514f32ce4c2f1e0ebd6533fa7282639b2b25e1ce6cec68ff3107d11"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00322",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00004',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00004/2024-07-06/text",
+   "sha256": "e32da9648e5a7b133f1fb97054c25021dbe14344da9959b5833c38bb483d324c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

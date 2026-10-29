@@ -1,0 +1,126 @@
+{
+ "title_id": "C2004A03349",
+ "name": "Income Tax Act 1986",
+ "folder": "income-tax-act-1986",
+ "compilations": [
+  {
+   "in_force": "2008-06-26",
+   "register_id": "C2008C00240",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03349',start=2008-06-26,retrospectivestart=2008-06-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03349/2008-06-26/text",
+   "sha256": "03530f111f49356b37ddffdea2d41195b709285a04c38875058e347d667b91ff"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00423",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03349',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03349/2015-07-01/text",
+   "sha256": "48e07908e756388b0700487f960fe7b2d4acc8129a8cb329392a1d59e4e8d5b8"
+  },
+  {
+   "in_force": "2016-05-05",
+   "register_id": "C2016C00461",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03349',start=2016-05-05,retrospectivestart=2016-05-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03349/2016-05-05/text",
+   "sha256": "d8064bb054de68433089dc200740ebf85d2f81f903e35d8faeac623fb729e688"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1986-11-04",
+   "acts": []
+  },
+  {
+   "in_force": "1987-06-05",
+   "acts": [
+    "Income Tax Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-11-26",
+   "acts": [
+    "Income Tax Amendment Act (No. 2) 1987"
+   ]
+  },
+  {
+   "in_force": "1988-04-26",
+   "acts": [
+    "Taxation Laws Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-11-24",
+   "acts": [
+    "Income Tax Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-30",
+   "acts": [
+    "Income Tax Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-11-23",
+   "acts": [
+    "Income Tax Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-11-06",
+   "acts": [
+    "Income Tax Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1994-12-19",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1994"
+   ]
+  },
+  {
+   "in_force": "2000-06-30",
+   "acts": [
+    "New Business Tax System (Miscellaneous) Act (No. 2) 2000"
+   ]
+  },
+  {
+   "in_force": "2002-04-04",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Income Tax Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Tax Laws Amendment (Election Commitments No. 1) Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

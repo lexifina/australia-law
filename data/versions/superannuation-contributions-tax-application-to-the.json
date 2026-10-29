@@ -1,0 +1,48 @@
+{
+ "title_id": "C2004A05167",
+ "name": "Superannuation Contributions Tax (Application to the Commonwealth—Reduction of Benefits) Act 1997",
+ "folder": "superannuation-contributions-tax-application-to-the",
+ "compilations": [
+  {
+   "in_force": "2003-07-01",
+   "register_id": "C2004C07241",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05167',start=2003-07-01,retrospectivestart=2003-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05167/2003-07-01/text",
+   "sha256": "d013c41bd5c2ec83a3e5e88358a0869ba8f1016a08701523379e7b59e51f7989"
+  },
+  {
+   "in_force": "2004-06-30",
+   "register_id": "C2004C00899",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05167',start=2004-06-30,retrospectivestart=2004-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05167/2004-06-30/text",
+   "sha256": "4c94d372291716fee070509f5e7af864fbffe021a9b04336871f82f7d4b6619d"
+  },
+  {
+   "in_force": "2005-08-12",
+   "register_id": "C2005C00531",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05167',start=2005-08-12,retrospectivestart=2005-08-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05167/2005-08-12/text",
+   "sha256": "0c4e7f802a13a64daaf57effedb44951df236c58668c4bf6ac7bfd082de83b35"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-06-05",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

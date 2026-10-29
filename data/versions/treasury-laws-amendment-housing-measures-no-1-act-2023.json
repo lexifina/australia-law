@@ -1,0 +1,21 @@
+{
+ "title_id": "C2023A00081",
+ "name": "Treasury Laws Amendment (Housing Measures No. 1) Act 2023",
+ "folder": "treasury-laws-amendment-housing-measures-no-1-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-09-28",
+   "register_id": "C2023A00081",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00081',start=2023-09-28,retrospectivestart=2023-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00081/2023-09-28/text",
+   "sha256": "f3f78216f2bf353cc1503db4044ed15c3b4c426f48395060b510a20f37a9fdec"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

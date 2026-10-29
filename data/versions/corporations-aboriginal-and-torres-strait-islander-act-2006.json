@@ -1,0 +1,187 @@
+{
+ "title_id": "C2006A00124",
+ "name": "Corporations (Aboriginal and Torres Strait Islander) Act 2006",
+ "folder": "corporations-aboriginal-and-torres-strait-islander-act-2006",
+ "compilations": [
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00398",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00124',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00124/2023-10-20/text",
+   "sha256": "ae01ec20361e5725933a7d85e84f451583db49fcae7df5d744a505ebe2af832f"
+  },
+  {
+   "in_force": "2024-03-20",
+   "register_id": "C2024C00088",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00124',start=2024-03-20,retrospectivestart=2024-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00124/2024-03-20/text",
+   "sha256": "dc4d6fd4c4f59deda4019907cacaca093051029ac872139a5b7bbf73a725e5ff"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00492",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00124',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00124/2024-10-14/text",
+   "sha256": "f17aeb878908598cc201e0c504829ace4d3562275c580e18396d85cbb8758e7b"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00681",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00124',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00124/2025-12-05/text",
+   "sha256": "52cf2204974f35b300d61aec896f48ca6859f608ea381e8da1b929236d1a26c9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-11-04",
+   "acts": []
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-14",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-13",
+   "acts": [
+    "Corporations and Other Legislation Amendment (Trustee Companies and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2012-04-20",
+   "acts": [
+    "Business Names Registration (Transitional and Consequential Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-12-11",
+   "acts": [
+    "Personal Liability for Corporate Fault Reform Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Insolvency Law Reform Act 2016"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Corporations Amendment (Strengthening Protections for Employee Entitlements) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-18",
+   "acts": [
+    "Treasury Laws Amendment (Combating Illegal Phoenixing) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-25",
+   "acts": [
+    "Native Title Legislation Amendment Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-04-04",
+   "acts": [
+    "Treasury Laws Amendment (Registries Modernisation and Other Measures) Act 2020",
+    "Treasury Laws Amendment (2020 Measures No. 6) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-08",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 5) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-03-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-09-15",
+   "acts": [
+    "Treasury Laws Amendment (Modernising Business Communications and Other Measures) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

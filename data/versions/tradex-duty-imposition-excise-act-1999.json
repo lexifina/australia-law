@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00576",
+ "name": "Tradex Duty Imposition (Excise) Act 1999",
+ "folder": "tradex-duty-imposition-excise-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-12-23",
+   "register_id": "C2004A00576",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00576',start=1999-12-23,retrospectivestart=1999-12-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00576/1999-12-23/text",
+   "sha256": "f1cdf7fe69a1aff460ba12c26a88386d9d4a9a79d05a6dbc182ad6418dc906b9"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00896",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00576',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00576/2016-07-01/text",
+   "sha256": "58881e4d2097d9a64f84a244cc00314e71be0d6e2646905c286173074d16c193"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

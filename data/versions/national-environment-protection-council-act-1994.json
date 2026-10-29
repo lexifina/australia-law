@@ -1,0 +1,96 @@
+{
+ "title_id": "C2004A04799",
+ "name": "National Environment Protection Council Act 1994",
+ "folder": "national-environment-protection-council-act-1994",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00385",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04799',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04799/2016-03-05/text",
+   "sha256": "3d98c240be6d37cd7065b45c544fd7926303a79708da4354d5985a83186970fd"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00844",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04799',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04799/2016-07-01/text",
+   "sha256": "633627a40d3bee551326ab43b52c0e3180dfd1b850e6da608faa11e6036581ac"
+  },
+  {
+   "in_force": "2021-07-01",
+   "register_id": "C2021C00298",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04799',start=2021-07-01,retrospectivestart=2021-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04799/2021-07-01/text",
+   "sha256": "50dccf64f4169cb425626f7b9ca6af956dc639666346f0fc3248ef4e2db1009b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1994-10-18",
+   "acts": []
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2002-12-19",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2003-12-19",
+   "acts": [
+    "National Environment Protection Council Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-01-15",
+   "acts": [
+    "National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

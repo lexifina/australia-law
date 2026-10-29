@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00021",
+ "name": "Petroleum Resource Rent Tax (Imposition—General) Act 2012",
+ "folder": "petroleum-resource-rent-tax-impositiongeneral-act-2012",
+ "compilations": [
+  {
+   "in_force": "2012-03-29",
+   "register_id": "C2012A00021",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00021',start=2012-03-29,retrospectivestart=2012-03-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00021/2012-03-29/text",
+   "sha256": "5d709fd45a0d897ee87b348ec65239cd95fd132f197c1d29c960ad879d01ba79"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

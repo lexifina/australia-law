@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A00461",
+ "name": "A New Tax System (Goods and Services Tax Imposition—Excise) Act 1999",
+ "folder": "a-new-tax-system-goods-and-services-tax-impositionexcise-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-07-08",
+   "register_id": "C2004A00461",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00461',start=1999-07-08,retrospectivestart=1999-07-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00461/1999-07-08/text",
+   "sha256": "d382bed3ab5aa2aa29775c61c16ae687f8313853f93eaa2a365bd5eeed443996"
+  },
+  {
+   "in_force": "2005-02-22",
+   "register_id": "C2005C00086",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00461',start=2005-02-22,retrospectivestart=2005-02-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00461/2005-02-22/text",
+   "sha256": "f1233639625f770074c3ac6907a9c025ef1047e3d2b649937bb994cd924ebafa"
+  },
+  {
+   "in_force": "2005-07-01",
+   "register_id": "C2005C00390",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00461',start=2005-07-01,retrospectivestart=2005-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00461/2005-07-01/text",
+   "sha256": "779ecfa29edd7db3f0627e3f5cddc4a9b9a69b563218751505950817785366aa"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

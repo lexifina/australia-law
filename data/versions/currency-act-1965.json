@@ -1,0 +1,95 @@
+{
+ "title_id": "C1965A00095",
+ "name": "Currency Act 1965",
+ "folder": "currency-act-1965",
+ "compilations": [
+  {
+   "in_force": "1996-10-25",
+   "register_id": "C2004C00340",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1965A00095',start=1996-10-25,retrospectivestart=1996-10-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1965A00095/1996-10-25/text",
+   "sha256": "9a1860768cf9a95e5b63bb5cf4ab8cdcd4989925f3f0130b07103103f63315a5"
+  },
+  {
+   "in_force": "2007-09-24",
+   "register_id": "C2007C00565",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1965A00095',start=2007-09-24,retrospectivestart=2007-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1965A00095/2007-09-24/text",
+   "sha256": "630d8cb860d067c93c63871c4db4b5ed63e1310f0d2cfbbcbbc088af6bd39a20"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00031",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1965A00095',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1965A00095/2015-12-10/text",
+   "sha256": "e220eff04ed483fcba1d2669f6b967c9ecccd9fdadf0f0f085dda653c013a40f"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01090",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1965A00095',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1965A00095/2016-10-21/text",
+   "sha256": "5704e7a9635125c1c08a395f7c0e21369a059f441574e7885c59b95081068de9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1965-12-10",
+   "acts": []
+  },
+  {
+   "in_force": "1969-04-08",
+   "acts": [
+    "Currency Act 1969"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1980-04-23",
+   "acts": [
+    "Currency Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1981-03-25",
+   "acts": [
+    "Currency Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1992-03-13",
+   "acts": [
+    "Financial Legislation Amendment Act 1992"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

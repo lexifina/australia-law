@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00079",
+ "name": "Social Security and Other Legislation Amendment (Technical Changes No. 2) Act 2025",
+ "folder": "social-security-and-other-legislation-amendment-technical-changes-no-2",
+ "compilations": [
+  {
+   "in_force": "2025-12-04",
+   "register_id": "C2025A00079",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00079',start=2025-12-04,retrospectivestart=2025-12-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00079/2025-12-04/text",
+   "sha256": "c93584513eb56f5dc6490934d0d4f12b1bb2526f7797aa2dfe5fa6ec8fc13603"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

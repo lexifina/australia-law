@@ -1,0 +1,56 @@
+{
+ "title_id": "C2024A00104",
+ "name": "Aged Care Act 2024",
+ "folder": "aged-care-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-12-02",
+   "register_id": "C2024A00104",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00104',start=2024-12-02,retrospectivestart=2024-12-02,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00104/2024-12-02/text",
+   "sha256": "952bff139e290ec1bd56610853ef63c2adf9bf0fdf292fd44e1590339cbd10a3"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00589",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00104',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00104/2025-11-01/text",
+   "sha256": "72629b1994c84918a7e382c3d4bef32f544e306e611678a54aa62a3796db9a61"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00301",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00104',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00104/2026-07-01/text",
+   "sha256": "a2fa212923a888d8a0468ee50ed5f90e8f915964434aacd2f13fcf68d3b9b52a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2027-01-11",
+   "acts": [
+    "Aged Care Legislation Amendment (Aboriginal and Torres Strait Islander Aged Care Commissioner and Other Measures) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2027-07-27",
+   "acts": [
+    "Aged Care Legislation Amendment (Aboriginal and Torres Strait Islander Aged Care Commissioner and Other Measures) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

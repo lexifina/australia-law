@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00109",
+ "name": "National Health Reform Amendment (National Health Performance Authority) Act 2011",
+ "folder": "national-health-reform-amendment-national-health-performance-authority",
+ "compilations": [
+  {
+   "in_force": "2011-10-14",
+   "register_id": "C2011A00109",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00109',start=2011-10-14,retrospectivestart=2011-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00109/2011-10-14/text",
+   "sha256": "254067084ba8e133964c8c9e06f209425cfaa07c2928b365fbd5f790b5d9bac5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

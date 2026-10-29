@@ -1,0 +1,60 @@
+{
+ "title_id": "C2009A00084",
+ "name": "Safe Work Australia Act 2008",
+ "folder": "safe-work-australia-act-2008",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00428",
+   "compilation": "4",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00084',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00084/2016-03-05/text",
+   "sha256": "41d7e073fb1c6994f75736477693b0864da7af9181e0bcb7769b4a4025bd0084"
+  },
+  {
+   "in_force": "2017-08-17",
+   "register_id": "C2017C00260",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00084',start=2017-08-17,retrospectivestart=2017-08-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00084/2017-08-17/text",
+   "sha256": "4274532dcb77b4a4dfcc551f41dbb0039ab21ad2e5ad767c354a7b8699b56640"
+  },
+  {
+   "in_force": "2023-09-21",
+   "register_id": "C2023C00248",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00084',start=2023-09-21,retrospectivestart=2023-09-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00084/2023-09-21/text",
+   "sha256": "2de3156fc31af1dd80e96c4bd811a8f86d04ec913959b1783833ef47c3a1985c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2009-09-18",
+   "acts": []
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

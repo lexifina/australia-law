@@ -1,0 +1,207 @@
+{
+ "title_id": "C1955A00016",
+ "name": "Defence Force Discipline Appeals Act 1955",
+ "folder": "defence-force-discipline-appeals-act-1955",
+ "compilations": [
+  {
+   "in_force": "2017-12-09",
+   "register_id": "C2017C00395",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00016',start=2017-12-09,retrospectivestart=2017-12-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00016/2017-12-09/text",
+   "sha256": "399abdf40c2b876629cc308b4d2ff7d816c0581d264b701dcea874e36456ee37"
+  },
+  {
+   "in_force": "2022-12-13",
+   "register_id": "C2022C00368",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00016',start=2022-12-13,retrospectivestart=2022-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00016/2022-12-13/text",
+   "sha256": "87885c0252b05fff43bc6986e4ed167e0b52422297500bfc442b3459f291d5c8"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00831",
+   "compilation": "23",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00016',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00016/2024-12-11/text",
+   "sha256": "494b7f8c0398b471b957e70d53db4c443e28237d9648af651e03c3511d12272d"
+  },
+  {
+   "in_force": "2026-09-29",
+   "register_id": "C2026C00444",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00016',start=2026-09-29,retrospectivestart=2026-09-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00016/2026-09-29/text",
+   "sha256": "fd2dcf497f4f6e6f1910919c2865d51e5a4079702ca6b7b56fe711e7350c77a4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1955-06-08",
+   "acts": []
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1976-02-09",
+   "acts": [
+    "Defence Force Re-organization Act 1975"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979",
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1980-05-28",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1980"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985",
+    "Defence Force (Miscellaneous Provisions) Act 1982",
+    "Defence Force (Miscellaneous Provisions) Act 1982"
+   ]
+  },
+  {
+   "in_force": "1992-05-06",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-12-11",
+   "acts": [
+    "Defence Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-10-01",
+   "acts": [
+    "Defence Legislation Amendment Act 2006",
+    "Defence Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-03-20",
+   "acts": [
+    "Defence Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-09-20",
+   "acts": [
+    "Defence Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-09-22",
+   "acts": [
+    "Military Justice (Interim Measures) Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

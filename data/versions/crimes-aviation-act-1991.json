@@ -1,0 +1,162 @@
+{
+ "title_id": "C2004A04214",
+ "name": "Crimes (Aviation) Act 1991",
+ "folder": "crimes-aviation-act-1991",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00747",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04214',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04214/2016-07-01/text",
+   "sha256": "3024a9d2c64b3bc9d19d64e12a36b5ed2bfbba4a8fa79f0bec9cca7abde5d7a9"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00965",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04214',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04214/2016-10-21/text",
+   "sha256": "a7acb2cadfd602eba60525bc73cd2acd0d822d0c60f96f4ffd7db7844f348e5d"
+  },
+  {
+   "in_force": "2018-05-11",
+   "register_id": "C2018C00156",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04214',start=2018-05-11,retrospectivestart=2018-05-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04214/2018-05-11/text",
+   "sha256": "78896e6aee4e599bac76d298e23ca350373ccee50a8fe967b11f5044820cbeb8"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-09-27",
+   "acts": []
+  },
+  {
+   "in_force": "1992-03-16",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1993-01-08",
+   "acts": [
+    "Crimes Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-01-16",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-08-30",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-11-16",
+   "acts": [
+    "Transport Legislation Amendment Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-08-02",
+   "acts": [
+    "Security Legislation Amendment (Terrorism) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-06-03",
+   "acts": [
+    "Crimes Legislation Enhancement Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Australian Federal Police and Other Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-09-28",
+   "acts": [
+    "Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Act (No. 2) 2004"
+   ]
+  },
+  {
+   "in_force": "2005-03-10",
+   "acts": [
+    "Aviation Transport Security (Consequential Amendments and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2008-07-02",
+   "acts": [
+    "Crimes Legislation Amendment (Miscellaneous Matters) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-03-30",
+   "acts": [
+    "Aviation Crimes and Policing Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

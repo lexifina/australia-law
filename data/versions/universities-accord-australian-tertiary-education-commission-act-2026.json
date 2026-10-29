@@ -1,0 +1,32 @@
+{
+ "title_id": "C2026A00025",
+ "name": "Universities Accord (Australian Tertiary Education Commission) Act 2026",
+ "folder": "universities-accord-australian-tertiary-education-commission-act-2026",
+ "compilations": [
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026A00025",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00025',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00025/2026-04-01/text",
+   "sha256": "e96da331b13aebfcd56bad62c01b5a897654faf66030378a7e5ab5651d0255af"
+  },
+  {
+   "in_force": "2026-10-17",
+   "register_id": "C2026C00477",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00025',start=2026-10-17,retrospectivestart=2026-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00025/2026-10-17/text",
+   "sha256": "cab6aebce90757cf1ca3aa145fb036ce18d6d010875654e3d6dc652da7b7e710"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

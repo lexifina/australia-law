@@ -1,0 +1,94 @@
+{
+ "title_id": "C1953A00007",
+ "name": "Heard Island and McDonald Islands Act 1953",
+ "folder": "heard-island-and-mcdonald-islands-act-1953",
+ "compilations": [
+  {
+   "in_force": "1991-03-04",
+   "register_id": "C2004C04410",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00007',start=1991-03-04,retrospectivestart=1991-03-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00007/1991-03-04/text",
+   "sha256": "947a695ff063a9b55391db09b5336df1e328e8ff42f645912998072f934adf3d"
+  },
+  {
+   "in_force": "2001-10-02",
+   "register_id": "C2004C00499",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00007',start=2001-10-02,retrospectivestart=2001-10-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00007/2001-10-02/text",
+   "sha256": "5cdeabc263c8309daa101ff2a90bf6e19abd8aebfa3c9e799fa067e1aecadae4"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00326",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00007',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00007/2008-07-04/text",
+   "sha256": "e107b117cc25d3aedbb1d77db7e6cb13dea547e30adf1e451c7aa915cb9aa50b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1957-07-05",
+   "acts": [
+    "Heard Island and McDonald Islands Act 1957"
+   ]
+  },
+  {
+   "in_force": "1963-06-25",
+   "acts": [
+    "Heard Island and McDonald Islands Act 1963"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1953-03-27"
+ ],
+ "repeal": null
+}

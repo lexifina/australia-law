@@ -1,0 +1,34 @@
+{
+ "title_id": "C2004A03333",
+ "name": "Parliamentary Commission of Inquiry (Repeal) Act 1986",
+ "folder": "parliamentary-commission-of-inquiry-repeal-act-1986",
+ "compilations": [
+  {
+   "in_force": "2001-07-19",
+   "register_id": "C2004C00995",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03333',start=2001-07-19,retrospectivestart=2001-07-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03333/2001-07-19/text",
+   "sha256": "9a39ff2abc3c946d68a68671f673224d7d894a2e9d01d4767128377a0acf1476"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01044",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03333',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03333/2016-10-21/text",
+   "sha256": "b214bb5052fb32a7f74b569ba5f57cdf6c1a8236e5135cb47886e3da41be95f7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1986-09-25"
+ ],
+ "repeal": null
+}

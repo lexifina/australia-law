@@ -1,0 +1,21 @@
+{
+ "title_id": "C2013A00016",
+ "name": "Maritime Powers (Consequential Amendments) Act 2013",
+ "folder": "maritime-powers-consequential-amendments-act-2013",
+ "compilations": [
+  {
+   "in_force": "2013-03-27",
+   "register_id": "C2013A00016",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00016',start=2013-03-27,retrospectivestart=2013-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00016/2013-03-27/text",
+   "sha256": "b1f2ff60b8aa435792fceee33b8777535608d1d7d4c531a260c60c5f723d21c1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

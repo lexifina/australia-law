@@ -1,0 +1,203 @@
+{
+ "title_id": "C2004A00452",
+ "name": "A New Tax System (Wine Equalisation Tax) Act 1999",
+ "folder": "a-new-tax-system-wine-equalisation-tax-act-1999",
+ "compilations": [
+  {
+   "in_force": "2015-02-25",
+   "register_id": "C2015C00039",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00452',start=2015-02-25,retrospectivestart=2015-02-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00452/2015-02-25/text",
+   "sha256": "5d959ac55a9d530567023ba3028dd1e2578b292ca562e50e9f31c9918d976c03"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00334",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00452',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00452/2015-07-01/text",
+   "sha256": "c79ece3110137951760ea5f3715c2af3728376cc9ff166985698eb69a423f8cc"
+  },
+  {
+   "in_force": "2017-10-01",
+   "register_id": "C2017C00327",
+   "compilation": "31",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00452',start=2017-10-01,retrospectivestart=2017-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00452/2017-10-01/text",
+   "sha256": "cbd95af2b6d93dfcafd76d5baf12eeb423633e5ef45a7e8eb549e4ab14aef4e6"
+  },
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026C00149",
+   "compilation": "32",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00452',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00452/2026-04-01/text",
+   "sha256": "2e02d6f8fbcdea09d10d2007c11aafb29a8280b15930840e28b4107f9865ea26"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-07-08",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "A New Tax System (Tax Administration) Act (No. 1) 2000",
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999",
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999",
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act 1999",
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999",
+    "Indirect Tax Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 8) 2000"
+   ]
+  },
+  {
+   "in_force": "2004-06-17",
+   "acts": [
+    "Designs (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-08-31",
+   "acts": [
+    "Tax Laws Amendment (Wine Producer Rebate and Other Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-10-01",
+   "acts": [
+    "Tax Laws Amendment (Wine Producer Rebate and Other Measures) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-04-01",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 7) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-19",
+   "acts": [
+    "Customs Legislation Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2006-06-06",
+   "acts": [
+    "Tax Laws Amendment (2005 Measures No. 4) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-30",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 3) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006",
+    "Fuel Tax (Consequential and Transitional Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-06-21",
+   "acts": [
+    "Tax Laws Amendment (Small Business) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Tax Laws Amendment (2009 GST Administration Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-03-21",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 9) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Indirect Tax Laws Amendment (Assessment) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-10",
+   "acts": [
+    "Tax Laws Amendment (2012 Measures No. 5) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-01",
+   "acts": [
+    "Customs Tariff Amendment (Schedule 4) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-31",
+   "acts": [
+    "Customs Amendment (Miscellaneous Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

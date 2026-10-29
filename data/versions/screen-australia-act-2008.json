@@ -1,0 +1,48 @@
+{
+ "title_id": "C2008A00012",
+ "name": "Screen Australia Act 2008",
+ "folder": "screen-australia-act-2008",
+ "compilations": [
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00354",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00012',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00012/2011-12-27/text",
+   "sha256": "578b68e8dd91262939162acf8f101e98b83a455a33655cf7dd4f1835d949c8dc"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00517",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00012',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00012/2014-07-01/text",
+   "sha256": "359a788636e5326a017e90cd765388a1fee81bb3353448ff29a5cced8eb538d1"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00421",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00012',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00012/2016-03-05/text",
+   "sha256": "622d67a2f27a95416ac2a55354fedc0fdb5ba5957037349fc2a038cc9516ae21"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2008-03-20",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

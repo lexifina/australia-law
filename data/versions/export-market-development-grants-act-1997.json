@@ -1,0 +1,206 @@
+{
+ "title_id": "C2004A05155",
+ "name": "Export Market Development Grants Act 1997",
+ "folder": "export-market-development-grants-act-1997",
+ "compilations": [
+  {
+   "in_force": "2020-12-18",
+   "register_id": "C2021C00034",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05155',start=2020-12-18,retrospectivestart=2020-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05155/2020-12-18/text",
+   "sha256": "bbfba78ff9f6e2fdc93e2794aa708576048dc09ddecb8073a56b3e9ed0d8edad"
+  },
+  {
+   "in_force": "2021-06-17",
+   "register_id": "C2021C00244",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05155',start=2021-06-17,retrospectivestart=2021-06-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05155/2021-06-17/text",
+   "sha256": "e4d6c0e024ffb762d2444203405b203ccac3962280bc7ce4282dd0a898f17860"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00521",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05155',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05155/2024-10-14/text",
+   "sha256": "140f0830b65684f8424edf943ae90f90e27f2b5074c49d089477f1da4fd99135"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-04-30",
+   "acts": []
+  },
+  {
+   "in_force": "1999-07-15",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-07-16",
+   "acts": [
+    "Export Market Development Grants Legislation Amendment Act 2006",
+    "Export Market Development Grants Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-28",
+   "acts": [
+    "Export Market Development Grants Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "Export Market Development Grants Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-06-29",
+   "acts": [
+    "Export Market Development Grants Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-06-30",
+   "acts": [
+    "Export Market Development Grants Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-06-23",
+   "acts": [
+    "Export Market Development Grants Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-01",
+   "acts": [
+    "Bankruptcy Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-06-21",
+   "acts": [
+    "Export Market Development Grants Legislation Amendment Act 2006",
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Australian Trade Commission Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Australian Trade Commission Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-01-20",
+   "acts": [
+    "Communications Legislation Amendment (Content Services) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Export Market Development Grants Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-30",
+   "acts": [
+    "Export Market Development Grants Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-04-09",
+   "acts": [
+    "Export Market Development Grants Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Telecommunications Legislation Amendment (Deregulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Trade Legislation Amendment Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Trade Legislation Amendment Act (No. 1) 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,72 @@
+{
+ "title_id": "C2004A03647",
+ "name": "Aviation Fuel Revenues (Special Appropriation) Act 1988",
+ "folder": "aviation-fuel-revenues-special-appropriation-act-1988",
+ "compilations": [
+  {
+   "in_force": "2000-10-26",
+   "register_id": "C2004C00134",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03647',start=2000-10-26,retrospectivestart=2000-10-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03647/2000-10-26/text",
+   "sha256": "26e390af359fdc25e37625bfd17657e0191a48d8273ebd6de2dd96d554d23a2f"
+  },
+  {
+   "in_force": "2006-07-01",
+   "register_id": "C2006C00428",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03647',start=2006-07-01,retrospectivestart=2006-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03647/2006-07-01/text",
+   "sha256": "32bea338e873570171979ca347c3c3386bfaa80b9dcd26fef25b9e556465f87a"
+  },
+  {
+   "in_force": "2013-12-01",
+   "register_id": "C2014C00700",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03647',start=2013-12-01,retrospectivestart=2013-12-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03647/2013-12-01/text",
+   "sha256": "81344686fc12767981913bf4bdf30498896c3e7723d2dfbe52fd78582da08c98"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-06-15",
+   "acts": []
+  },
+  {
+   "in_force": "1992-06-26",
+   "acts": [
+    "Aviation Fuel Revenues (Special Appropriation) Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-11-30",
+   "acts": [
+    "Aviation Fuel Revenues (Special Appropriation) Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-07-06",
+   "acts": [
+    "Civil Aviation Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1999-07-16",
+   "acts": [
+    "Aviation Fuel Revenues (Special Appropriation) Amendment Act 1999"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

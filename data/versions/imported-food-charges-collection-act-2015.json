@@ -1,0 +1,43 @@
+{
+ "title_id": "C2015A00096",
+ "name": "Imported Food Charges (Collection) Act 2015",
+ "folder": "imported-food-charges-collection-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-06-29",
+   "register_id": "C2015A00096",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00096',start=2015-06-29,retrospectivestart=2015-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00096/2015-06-29/text",
+   "sha256": "df4eb04006db40b7772f454bb80476768ac41ec481a2fe7e1c6a4bffd232043b"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00817",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00096',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00096/2016-07-01/text",
+   "sha256": "67370a5fde85411706202591c53b0b42079a9bba4d43fa77c48cc9807c59199d"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00690",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00096',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00096/2024-10-14/text",
+   "sha256": "81ea5b05a4bce6c4dd02443a40c862c22955e49e2bfe62461c770e59dfe9f9dc"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2024A00129",
+ "name": "Superannuation (Objective) Act 2024",
+ "folder": "superannuation-objective-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-12-10",
+   "register_id": "C2024A00129",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00129',start=2024-12-10,retrospectivestart=2024-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00129/2024-12-10/text",
+   "sha256": "2121f5ff8acca723607ee7cdd28882e6fcc39a0b7378fbcddb1d9ee71413acdd"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

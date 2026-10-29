@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A01062",
+ "name": "Australian Crime Commission Establishment Act 2002",
+ "folder": "australian-crime-commission-establishment-act-2002",
+ "compilations": [
+  {
+   "in_force": "2002-01-01",
+   "register_id": "C2004A01062",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01062',start=2002-01-01,retrospectivestart=2002-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01062/2002-01-01/text",
+   "sha256": "f8176c16cb2df0d9c177c781bef718c8ad45e11ec3e1c64dabcbc04001a8c406"
+  },
+  {
+   "in_force": "2002-12-10",
+   "register_id": "C2004C01287",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01062',start=2002-12-10,retrospectivestart=2002-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01062/2002-12-10/text",
+   "sha256": "08a0a9d5398743ef9366f0c024651ae59fcd5802be3dbee391fc706094eb6348"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

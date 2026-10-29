@@ -1,0 +1,21 @@
+{
+ "title_id": "C2010A00080",
+ "name": "Airports (On-Airport Activities Administration) Validation Act 2010",
+ "folder": "airports-on-airport-activities-administration-validation-act-2010",
+ "compilations": [
+  {
+   "in_force": "2010-06-29",
+   "register_id": "C2010A00080",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00080',start=2010-06-29,retrospectivestart=2010-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00080/2010-06-29/text",
+   "sha256": "c77457a84c65400dd3d989e6b5a22c4a4439439933585ef5df3fff68d76b384b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

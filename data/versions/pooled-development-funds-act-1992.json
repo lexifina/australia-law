@@ -1,0 +1,195 @@
+{
+ "title_id": "C2004A04391",
+ "name": "Pooled Development Funds Act 1992",
+ "folder": "pooled-development-funds-act-1992",
+ "compilations": [
+  {
+   "in_force": "2018-09-18",
+   "register_id": "C2018C00384",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04391',start=2018-09-18,retrospectivestart=2018-09-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04391/2018-09-18/text",
+   "sha256": "1aa337b1bb34fe679ec3d4c086b26084ee380793c0cc81d8b2f4f3a1e0ab023a"
+  },
+  {
+   "in_force": "2021-09-11",
+   "register_id": "C2021C00537",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04391',start=2021-09-11,retrospectivestart=2021-09-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04391/2021-09-11/text",
+   "sha256": "4a857ba320686b23a9b718e8669bfe1408e2a8f4382b74196db3acbd66c130ce"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00541",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04391',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04391/2024-10-14/text",
+   "sha256": "22e58a8e6e9bf35c5c0a51cf835afe7de72d161734dc742cab84072a8a1ea4bf"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-06-30",
+   "acts": []
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Pooled Development Funds Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-07-12",
+   "acts": [
+    "Industry, Science and Technology Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Life Insurance (Consequential Amendments and Repeals) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Company Law Review Act 1998",
+    "Company Law Review Act 1998",
+    "Managed Investments Act 1998",
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "New Business Tax System (Capital Gains Tax) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-06-22",
+   "acts": [
+    "Pooled Development Funds Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-12-19",
+   "acts": [
+    "Taxation Laws Amendment (Venture Capital) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-04-12",
+   "acts": [
+    "Industry, Tourism and Resources Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-06-21",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 2) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-27",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 5) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-27",
+   "acts": [
+    "Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2012-12-11",
+   "acts": [
+    "Personal Liability for Corporate Fault Reform Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-20",
+   "acts": [
+    "Industry Research and Development Amendment (Innovation and Science Australia) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

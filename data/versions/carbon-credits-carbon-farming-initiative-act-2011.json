@@ -1,0 +1,169 @@
+{
+ "title_id": "C2011A00101",
+ "name": "Carbon Credits (Carbon Farming Initiative) Act 2011",
+ "folder": "carbon-credits-carbon-farming-initiative-act-2011",
+ "compilations": [
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00399",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00101',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00101/2023-10-20/text",
+   "sha256": "a41c274a3313464ac985d4caf9174683f3d77709f1642d53467fb975f13cb8c6"
+  },
+  {
+   "in_force": "2024-03-20",
+   "register_id": "C2024C00093",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00101',start=2024-03-20,retrospectivestart=2024-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00101/2024-03-20/text",
+   "sha256": "869e6ef32a7247bfcfa3661980d66d5d9cdeda5fddcc6b7155d0e3dc451f62c1"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00490",
+   "compilation": "24",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00101',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00101/2024-10-14/text",
+   "sha256": "f34cd8c611da58d1ff98c6c571faf04ba1312c7bbfeb769082e7bc206355efa1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-09-15",
+   "acts": []
+  },
+  {
+   "in_force": "2011-12-08",
+   "acts": [
+    "Clean Energy (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-02",
+   "acts": [
+    "Clean Energy (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Clean Energy Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Clean Energy (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-19",
+   "acts": [
+    "Corporations and Financial Sector Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-13",
+   "acts": [
+    "Carbon Farming Initiative Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Carbon Farming Initiative Amendment Act 2014",
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Insolvency Law Reform Act 2016"
+   ]
+  },
+  {
+   "in_force": "2020-09-06",
+   "acts": [
+    "Statute Update (Regulations References) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2022-09-14",
+   "acts": [
+    "Climate Change (Consequential Amendments) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-04-12",
+   "acts": [
+    "Safeguard Mechanism (Crediting) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-08-22",
+   "acts": [
+    "Aboriginal Land Grant (Jervis Bay Territory) Amendment (Strengthening Land and Governance Provisions) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-04",
+   "acts": [
+    "Safeguard Mechanism (Crediting) Amendment Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

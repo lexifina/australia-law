@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A03131",
+ "name": "Building Industry Act 1985",
+ "folder": "building-industry-act-1985",
+ "compilations": [
+  {
+   "in_force": "1985-08-26",
+   "register_id": "C2004A03131",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03131',start=1985-08-26,retrospectivestart=1985-08-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03131/1985-08-26/text",
+   "sha256": "0ab739179aa07ea42f51e50195bceb14129fbb6bc59922792ffb845c27cedadf"
+  },
+  {
+   "in_force": "2001-10-02",
+   "register_id": "C2004C00212",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03131',start=2001-10-02,retrospectivestart=2001-10-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03131/2001-10-02/text",
+   "sha256": "7e296eaaeb8560f8f58892c53870b6d910c75865b8dd2b87ea72dc55ec768721"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01029",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03131',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03131/2016-10-21/text",
+   "sha256": "1bb024beea20b24730b47ad1d20eca643a2739e9e7eaa17cad5a0e186815d1b6"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

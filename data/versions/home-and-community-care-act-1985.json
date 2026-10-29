@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A03223",
+ "name": "Home and Community Care Act 1985",
+ "folder": "home-and-community-care-act-1985",
+ "compilations": [
+  {
+   "in_force": "1997-10-01",
+   "register_id": "C2004C00501",
+   "compilation": "2",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03223',start=1997-10-01,retrospectivestart=1997-10-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03223/1997-10-01/text",
+   "sha256": "ffb55ed46bf147f5e8b2c9e7d33820a24897776115507d18841c0d1883610243"
+  },
+  {
+   "in_force": "2017-03-22",
+   "register_id": "C2017C00106",
+   "compilation": "3",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03223',start=2017-03-22,retrospectivestart=2017-03-22,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03223/2017-03-22/text",
+   "sha256": "33ff705901b3876684bc548b29b81686aaa4adb3fccc93737c383d3402744f5a"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00614",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03223',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03223/2025-11-01/text",
+   "sha256": "89c1f6701db4e22798cd3c893158d58ed78cfb519850de0f052ecf9f6785e4f9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1985-12-16",
+   "acts": []
+  },
+  {
+   "in_force": "1988-12-26",
+   "acts": [
+    "Community Services and Health Legislation Amendment Act (No. 2) 1988"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

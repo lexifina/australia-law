@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A05119",
+ "name": "Education Services for Overseas Students (Registration Charges) Act 1997",
+ "folder": "education-services-for-overseas-students-registration-charges-act-1997",
+ "compilations": [
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00027",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05119',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05119/2015-12-10/text",
+   "sha256": "acc75191a6413ef18029c1d71a20a39798d3a22b1b3a0386111e83c38a589539"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00773",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05119',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05119/2016-07-01/text",
+   "sha256": "f393d6cdf37aac23500522639a9a7ff2fcd2a894afc8abd02eb173a4bccb2054"
+  },
+  {
+   "in_force": "2022-01-01",
+   "register_id": "C2022C00008",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05119',start=2022-01-01,retrospectivestart=2022-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05119/2022-01-01/text",
+   "sha256": "31e768c85cf9f6c9d729c3f826c3946f4d9180376fea65026a8f9bc096a49b34"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-03-27",
+   "acts": []
+  },
+  {
+   "in_force": "2000-12-21",
+   "acts": [
+    "Education Services for Overseas Students (Registration Charges) Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-04",
+   "acts": [
+    "Education Services for Overseas Students (Consequential and Transitional) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2003-09-23",
+   "acts": [
+    "Education Services for Overseas Students (Registration Charges) Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Education Services for Overseas Students Legislation Amendment (2006 Measures No. 1) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2010-03-03",
+   "acts": [
+    "Education Services for Overseas Students Amendment (Re-registration of Providers and Other Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-10-31",
+   "acts": [
+    "Education Services for Overseas Students (Registration Charges) Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Education Services for Overseas Students (Registration Charges) Amendment (Tuition Protection Service) Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

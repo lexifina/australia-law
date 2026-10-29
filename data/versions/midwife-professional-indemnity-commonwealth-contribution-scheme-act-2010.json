@@ -1,0 +1,78 @@
+{
+ "title_id": "C2010A00030",
+ "name": "Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010",
+ "folder": "midwife-professional-indemnity-commonwealth-contribution-scheme-act-2010",
+ "compilations": [
+  {
+   "in_force": "2021-07-01",
+   "register_id": "C2021C00290",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00030',start=2021-07-01,retrospectivestart=2021-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00030/2021-07-01/text",
+   "sha256": "e8e5a81b5e1988671e75ad50a5fab5dd7b6ba24e43e5d47d879c6fd4ad69625b"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00623",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00030',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00030/2024-10-14/text",
+   "sha256": "6b037ce920a93945c12372ebaed631e64fe59d59d75218ef117b153dee3eb944"
+  },
+  {
+   "in_force": "2025-07-01",
+   "register_id": "C2025C00408",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00030',start=2025-07-01,retrospectivestart=2025-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00030/2025-07-01/text",
+   "sha256": "3df8a883c498b5f691db9d9e0a02beb28e7acde531bf6212ba295b71e2367d0f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2010-04-12",
+   "acts": []
+  },
+  {
+   "in_force": "2011-06-27",
+   "acts": [
+    "Midwife Professional Indemnity Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Medical and Midwife Indemnity Legislation Amendment Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

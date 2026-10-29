@@ -1,0 +1,45 @@
+# Medical Indemnity (Prudential Supervision and Product Standards) Act 2003
+
+Register title C2004A01121 · <https://www.legislation.gov.au/C2004A01121/latest/versions>
+
+3 compilations, 2011-07-01 to 2023-10-20.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| long title and preamble | [intro.md](intro.md) | 0 |  |
+| s 1 | [s-001.md](s-001.md) | 0 |  |
+| s 2 | [s-002.md](s-002.md) | 0 |  |
+| s 3 | [s-003.md](s-003.md) | 0 |  |
+| s 4 | [s-004.md](s-004.md) | 1 | 2023-10-20 |
+| s 5 | [s-005.md](s-005.md) | 0 |  |
+| s 6 | [s-006.md](s-006.md) | 0 |  |
+| s 7 | [s-007.md](s-007.md) | 0 |  |
+| s 7A | [s-007A.md](s-007A.md) | 0 |  |
+| s 8 | [s-008.md](s-008.md) | 0 |  |
+| s 9 | [s-009.md](s-009.md) | 0 |  |
+| s 10 | [s-010.md](s-010.md) | 1 | 2020-07-01 |
+| s 11 | [s-011.md](s-011.md) | 0 |  |
+| s 16 | [s-016.md](s-016.md) | 0 |  |
+| s 17 | [s-017.md](s-017.md) | 0 |  |
+| s 18 | [s-018.md](s-018.md) | 0 |  |
+| s 19 | [s-019.md](s-019.md) | 0 |  |
+| s 20 | [s-020.md](s-020.md) | 1 | 2020-07-01 |
+| s 21 | [s-021.md](s-021.md) | 0 |  |
+| s 22 | [s-022.md](s-022.md) | 0 |  |
+| s 23 | [s-023.md](s-023.md) | 0 |  |
+| s 24 | [s-024.md](s-024.md) | 0 |  |
+| s 26 | [s-026.md](s-026.md) | 0 |  |
+| s 26A | [s-026A.md](s-026A.md) | 1 | 2020-07-01 |
+| s 26B | [s-026B.md](s-026B.md) | 0 |  |
+| s 26C | [s-026C.md](s-026C.md) | 0 |  |
+| s 26D | [s-026D.md](s-026D.md) | 1 | 2020-07-01 |
+| s 26E | [s-026E.md](s-026E.md) | 0 |  |
+| s 26F | [s-026F.md](s-026F.md) | 0 |  |
+| s 26G | [s-026G.md](s-026G.md) | 0 |  |
+| s 27 | [s-027.md](s-027.md) | 0 |  |
+| s 28 | [s-028.md](s-028.md) | 0 |  |
+| s 29 | [s-029.md](s-029.md) | 0 |  |
+| s 30 | [s-030.md](s-030.md) | 0 |  |
+| s 31 | [s-031.md](s-031.md) | 0 |  |
+| s 32 | [s-032.md](s-032.md) | 0 |  |
+| s 33 | [s-033.md](s-033.md) | 0 |  |

@@ -1,0 +1,84 @@
+{
+ "title_id": "C2004A01114",
+ "name": "National Blood Authority Act 2003",
+ "folder": "national-blood-authority-act-2003",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00406",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01114',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01114/2014-07-01/text",
+   "sha256": "6b16dbc1790b67a28af79a37efae384b2746c1f66f87080fef7544f219175247"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00391",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01114',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01114/2016-03-05/text",
+   "sha256": "4f357bd1103a2895cd68e4a992ca649e2bd697543265ff5ef2ebdc3a71af6307"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00846",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01114',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01114/2016-07-01/text",
+   "sha256": "70951c511f98170c065664279a6cf60e2744afb7f32e0808fb9758edf2124865"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-04-15",
+   "acts": []
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-04-07",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2007-04-01",
+   "acts": [
+    "Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

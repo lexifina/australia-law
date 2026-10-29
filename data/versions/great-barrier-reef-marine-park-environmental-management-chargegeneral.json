@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A04570",
+ "name": "Great Barrier Reef Marine Park (Environmental Management Charge—General) Act 1993",
+ "folder": "great-barrier-reef-marine-park-environmental-management-chargegeneral",
+ "compilations": [
+  {
+   "in_force": "2008-11-26",
+   "register_id": "C2008C00625",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04570',start=2008-11-26,retrospectivestart=2008-11-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04570/2008-11-26/text",
+   "sha256": "1d05bb7a6b966ad93ea60aacf33c6d070836a1f995a986937ef738fde20c2759"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1993-06-09"
+ ],
+ "repeal": null
+}

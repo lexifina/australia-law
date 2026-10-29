@@ -1,0 +1,32 @@
+{
+ "title_id": "C2024A00034",
+ "name": "New Vehicle Efficiency Standard Act 2024",
+ "folder": "new-vehicle-efficiency-standard-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-05-31",
+   "register_id": "C2024A00034",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00034',start=2024-05-31,retrospectivestart=2024-05-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00034/2024-05-31/text",
+   "sha256": "61e3261da0da63ec23057ecf17a95514ed13708d0296517f7cb27f0ca299c75a"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00178",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00034',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00034/2025-02-21/text",
+   "sha256": "1d10b643c7b9b02a04eebcfb4b40f0dd1fb5dc89b5ca61ec711b24af1b85adea"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

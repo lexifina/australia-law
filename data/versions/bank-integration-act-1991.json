@@ -1,0 +1,84 @@
+{
+ "title_id": "C2004A04285",
+ "name": "Bank Integration Act 1991",
+ "folder": "bank-integration-act-1991",
+ "compilations": [
+  {
+   "in_force": "2012-04-20",
+   "register_id": "C2012C00397",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04285',start=2012-04-20,retrospectivestart=2012-04-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04285/2012-04-20/text",
+   "sha256": "fdd65474869e6b8cf39db8ee0085fa13e5d09f50bed8aff804c3acfaf806f281"
+  },
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00797",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04285',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04285/2012-09-22/text",
+   "sha256": "3e018fb3e8f53d522a633fbfc5f1d1d17ba8bf3779829590ce5a6393f5949ca5"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00828",
+   "compilation": "10",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04285',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04285/2016-07-01/text",
+   "sha256": "f2ef657eec0d73f9a0e4cb5d9619f6e9ad446dc09a580267aace35df18b9d94b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-12-24",
+   "acts": []
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-06-22",
+   "acts": [
+    "Tax Law Improvement Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 4) Act 2007"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,43 @@
+{
+ "title_id": "C2011A00054",
+ "name": "Australian Transaction Reports and Analysis Centre Industry Contribution Act 2011",
+ "folder": "australian-transaction-reports-and-analysis-centre-industry",
+ "compilations": [
+  {
+   "in_force": "2011-06-28",
+   "register_id": "C2011A00054",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00054',start=2011-06-28,retrospectivestart=2011-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00054/2011-06-28/text",
+   "sha256": "3c3aee3173d4903ae641ade8b4f2d7a8d54f2e3d5ba2df27a6d010accd018f5e"
+  },
+  {
+   "in_force": "2014-10-22",
+   "register_id": "C2014C00764",
+   "compilation": "1",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00054',start=2014-10-22,retrospectivestart=2014-10-22,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00054/2014-10-22/text",
+   "sha256": "fc199b2c7d58a232673a0dec49545f667ab5c0783c149f8b412f2aca4e251f3d"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00290",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00054',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00054/2016-03-05/text",
+   "sha256": "2712c6a30a6b5d37236c0c5ecd031d92cf156372125acdcf79740f2a1ab7aa91"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

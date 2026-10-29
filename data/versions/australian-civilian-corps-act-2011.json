@@ -1,0 +1,43 @@
+{
+ "title_id": "C2011A00018",
+ "name": "Australian Civilian Corps Act 2011",
+ "folder": "australian-civilian-corps-act-2011",
+ "compilations": [
+  {
+   "in_force": "2011-04-12",
+   "register_id": "C2011A00018",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00018',start=2011-04-12,retrospectivestart=2011-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00018/2011-04-12/text",
+   "sha256": "c4caad6527a017e9e375aa4c0bc8ab5977cd2e04875b7c4989ad8d6b5024f3f1"
+  },
+  {
+   "in_force": "2013-12-13",
+   "register_id": "C2014C00022",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00018',start=2013-12-13,retrospectivestart=2013-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00018/2013-12-13/text",
+   "sha256": "202dea2e7d8ec3321872321441e950fc73210b209270d61fa8b4798438b47e35"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00531",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00018',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00018/2014-07-01/text",
+   "sha256": "c664e0b4e2240c8fb20f5450c0be2c168ed3453d9bee02420f92ba057cf371bf"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

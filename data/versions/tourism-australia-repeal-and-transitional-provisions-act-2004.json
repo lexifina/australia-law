@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A01308",
+ "name": "Tourism Australia (Repeal and Transitional Provisions) Act 2004",
+ "folder": "tourism-australia-repeal-and-transitional-provisions-act-2004",
+ "compilations": [
+  {
+   "in_force": "2004-06-23",
+   "register_id": "C2004A01308",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01308',start=2004-06-23,retrospectivestart=2004-06-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01308/2004-06-23/text",
+   "sha256": "9dac9e878edd4962dc90dc33e2ed675e78d94ef946fabfaf735bfa32f234650f"
+  },
+  {
+   "in_force": "2006-03-27",
+   "register_id": "C2006C00085",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01308',start=2006-03-27,retrospectivestart=2006-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01308/2006-03-27/text",
+   "sha256": "c86de57fd3c62af3a7b0ef9f5bab8ac4011826ca4cdb13288ae555a4e871cacb"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

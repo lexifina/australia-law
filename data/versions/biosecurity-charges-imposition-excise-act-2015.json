@@ -1,0 +1,32 @@
+{
+ "title_id": "C2014A00017",
+ "name": "Biosecurity Charges Imposition (Excise) Act 2015",
+ "folder": "biosecurity-charges-imposition-excise-act-2015",
+ "compilations": [
+  {
+   "in_force": "2014-03-31",
+   "register_id": "C2014A00017",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00017',start=2014-03-31,retrospectivestart=2014-03-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00017/2014-03-31/text",
+   "sha256": "82eb322c9d6d43e464084591bda1ecae4747a4bc04b0446b5d7aee7262c62f96"
+  },
+  {
+   "in_force": "2016-06-16",
+   "register_id": "C2016C00674",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00017',start=2016-06-16,retrospectivestart=2016-06-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00017/2016-06-16/text",
+   "sha256": "3a0f76cffea957e2e2a204f0dba9b8347de1f8c64b198128577e759293275e84"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

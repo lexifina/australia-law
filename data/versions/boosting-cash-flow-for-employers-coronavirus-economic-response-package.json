@@ -1,0 +1,43 @@
+{
+ "title_id": "C2020A00023",
+ "name": "Boosting Cash Flow for Employers (Coronavirus Economic Response Package) Act 2020",
+ "folder": "boosting-cash-flow-for-employers-coronavirus-economic-response-package",
+ "compilations": [
+  {
+   "in_force": "2020-03-24",
+   "register_id": "C2020A00023",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00023',start=2020-03-24,retrospectivestart=2020-03-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00023/2020-03-24/text",
+   "sha256": "1a1f8065cce2ea58098d027df7f9bc34be2bda4f7245208b8d04f985b45e03bc"
+  },
+  {
+   "in_force": "2020-04-09",
+   "register_id": "C2020C00149",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00023',start=2020-04-09,retrospectivestart=2020-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00023/2020-04-09/text",
+   "sha256": "c9e26dc157d6cfbbcfde4e10c005e5bda07056c8dbfbb9cfb959a10102edc5d7"
+  },
+  {
+   "in_force": "2020-06-20",
+   "register_id": "C2020C00181",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00023',start=2020-06-20,retrospectivestart=2020-06-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00023/2020-06-20/text",
+   "sha256": "388f60e15c6eea2f02a310bf1f42dd97ea312a61539f7ff620f8450987ad41e7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

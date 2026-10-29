@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00067",
+ "name": "Environment Protection and Biodiversity Conservation (Restoration Charge Imposition) Act 2025",
+ "folder": "environment-protection-and-biodiversity-conservation-restoration-charge",
+ "compilations": [
+  {
+   "in_force": "2025-12-01",
+   "register_id": "C2025A00067",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00067',start=2025-12-01,retrospectivestart=2025-12-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00067/2025-12-01/text",
+   "sha256": "3effc5df85b1183ab2f770ecf674107d8044b3e4c2f324f4a8b04919def6c6ca"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

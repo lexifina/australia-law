@@ -1,0 +1,105 @@
+{
+ "title_id": "C1909A00027",
+ "name": "Bills of Exchange Act 1909",
+ "folder": "bills-of-exchange-act-1909",
+ "compilations": [
+  {
+   "in_force": "1991-10-10",
+   "register_id": "C2004C02480",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1909A00027',start=1991-10-10,retrospectivestart=1991-10-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1909A00027/1991-10-10/text",
+   "sha256": "0efff923ae357a5890e328d5c1dd3a50fc6951ce20400779d5e586d721efd612"
+  },
+  {
+   "in_force": "1998-12-01",
+   "register_id": "C2004C00422",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1909A00027',start=1998-12-01,retrospectivestart=1998-12-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1909A00027/1998-12-01/text",
+   "sha256": "e0516922dae45e497bebe909956112657a2e40822555225776f4037291c9e251"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00426",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1909A00027',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1909A00027/2008-07-04/text",
+   "sha256": "e77f9b90be9376f96e4ab68cf73a77a54e245e98fffded49523491b881002b41"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00128",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1909A00027',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1909A00027/2011-12-27/text",
+   "sha256": "306dd3b27630b534710c25412bce74d586681a4861ae3898e119ebe24347a776"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1912-12-24",
+   "acts": [
+    "Bills of Exchange Act 1912"
+   ]
+  },
+  {
+   "in_force": "1932-12-05",
+   "acts": [
+    "Bills of Exchange Act 1932"
+   ]
+  },
+  {
+   "in_force": "1936-12-07",
+   "acts": [
+    "Bills of Exchange Act 1936"
+   ]
+  },
+  {
+   "in_force": "1958-06-09",
+   "acts": [
+    "Bills of Exchange Act 1958"
+   ]
+  },
+  {
+   "in_force": "1971-05-01",
+   "acts": [
+    "Bills of Exchange Act 1971"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1987-07-01",
+   "acts": [
+    "Bills of Exchange Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "2008-07-03",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1909-12-13"
+ ],
+ "repeal": null
+}

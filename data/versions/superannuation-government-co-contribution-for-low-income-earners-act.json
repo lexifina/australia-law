@@ -1,0 +1,207 @@
+{
+ "title_id": "C2004A01195",
+ "name": "Superannuation (Government Co-contribution for Low Income Earners) Act 2003",
+ "folder": "superannuation-government-co-contribution-for-low-income-earners-act",
+ "compilations": [
+  {
+   "in_force": "2017-07-01",
+   "register_id": "C2017C00215",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01195',start=2017-07-01,retrospectivestart=2017-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01195/2017-07-01/text",
+   "sha256": "f0cea2842dea4553efaf33836883971675ec560a87906dc5677c13f2b7a45844"
+  },
+  {
+   "in_force": "2017-07-02",
+   "register_id": "C2017C00223",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01195',start=2017-07-02,retrospectivestart=2017-07-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01195/2017-07-02/text",
+   "sha256": "79b9b4461b3d48a4d22976f7ad8f737185a2b77f14f6d39041cf17ee2c5cad38"
+  },
+  {
+   "in_force": "2018-07-01",
+   "register_id": "C2018C00325",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01195',start=2018-07-01,retrospectivestart=2018-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01195/2018-07-01/text",
+   "sha256": "6f5155a369c0b4e15a1394266a05a6e5f9f3afd370a2d77414a781da261bdfc1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-11-12",
+   "acts": []
+  },
+  {
+   "in_force": "2004-06-29",
+   "acts": [
+    "Superannuation Laws Amendment (2004 Measures No. 1) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-30",
+   "acts": [
+    "Superannuation Budget Measures Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Tax Laws Amendment (Simplified Superannuation) Act 2007",
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-05-15",
+   "acts": [
+    "Superannuation Laws Amendment (2007 Budget Co-contribution Measure) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-26",
+   "acts": [
+    "First Home Saver Accounts (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-10-01",
+   "acts": [
+    "First Home Saver Accounts (Further Provisions) Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-27",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-06-29",
+   "acts": [
+    "Tax Laws Amendment (2009 Budget Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Tax Laws Amendment (2010 Measures No. 3) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-29",
+   "acts": [
+    "Tax Laws Amendment (Stronger, Fairer, Simpler and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-06-27",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2012 Measures No. 1) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (Increased Concessional Contributions Cap and Other Measures) Act 2013",
+    "Tax and Superannuation Laws Amendment (2013 Measures No. 2) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Tax Laws Amendment (Fairer Taxation of Excess Concessional Contributions) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-30",
+   "acts": [
+    "Tax Laws Amendment (2013 Measures No. 2) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Superannuation Legislation Amendment (New Zealand Arrangement) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-02-25",
+   "acts": [
+    "Treasury Legislation Amendment (Repeal Day) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-25",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015",
+    "Treasury Legislation Amendment (Repeal Day) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Treasury Laws Amendment (Fair and Sustainable Superannuation) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2027-07-01",
+   "acts": [
+    "Treasury Laws Amendment (Building a Stronger and Fairer Super System) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

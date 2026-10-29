@@ -1,0 +1,1540 @@
+{
+ "title_id": "C1921A00026",
+ "name": "Excise Tariff Act 1921",
+ "folder": "excise-tariff-act-1921",
+ "compilations": [
+  {
+   "in_force": "2024-07-01",
+   "register_id": "C2024C00257",
+   "compilation": "56",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1921A00026',start=2024-07-01,retrospectivestart=2024-07-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1921A00026/2024-07-01/text",
+   "sha256": "687eb077db02fbce79e352b2d49c560da235d334b1de68f7a3bbd91b6c1bd81f"
+  },
+  {
+   "in_force": "2025-08-01",
+   "register_id": "C2026C00176",
+   "compilation": "56A",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1921A00026',start=2025-08-01,retrospectivestart=2025-08-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1921A00026/2025-08-01/text",
+   "sha256": "577de0c4517d33d2bb7c6482aa69481bcaad71ba6af49b64a9ccdc2ee3e583fd"
+  },
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026C00148",
+   "compilation": "57",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1921A00026',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1921A00026/2026-04-01/text",
+   "sha256": "2b232d43457339f9bb01dea53ffc386b5de4bd25ff1b95884439501171cb65d7"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00322",
+   "compilation": "58",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1921A00026',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1921A00026/2026-07-01/text",
+   "sha256": "d6496b7e12a9010b48f2efca9f92ecc372431881b2c52d1e5e40bc9eb4ad35f4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1920-03-25",
+   "acts": []
+  },
+  {
+   "in_force": "1925-01-01",
+   "acts": [
+    "Excise Tariff 1924"
+   ]
+  },
+  {
+   "in_force": "1926-07-21",
+   "acts": [
+    "Excise Tariff 1926"
+   ]
+  },
+  {
+   "in_force": "1928-03-31",
+   "acts": [
+    "Excise Tariff 1928"
+   ]
+  },
+  {
+   "in_force": "1932-02-26",
+   "acts": [
+    "Excise Tariff 1933"
+   ]
+  },
+  {
+   "in_force": "1933-10-05",
+   "acts": [
+    "Excise Tariff (No. 2) 1933"
+   ]
+  },
+  {
+   "in_force": "1935-11-29",
+   "acts": [
+    "Excise Tariff 1936"
+   ]
+  },
+  {
+   "in_force": "1938-01-01",
+   "acts": [
+    "Excise Tariff 1938"
+   ]
+  },
+  {
+   "in_force": "1938-05-05",
+   "acts": [
+    "Excise Tariff 1939"
+   ]
+  },
+  {
+   "in_force": "1938-09-22",
+   "acts": [
+    "Excise Tariff (No. 2) 1938"
+   ]
+  },
+  {
+   "in_force": "1939-09-09",
+   "acts": [
+    "Excise Tariff (No. 2) 1939"
+   ]
+  },
+  {
+   "in_force": "1939-12-01",
+   "acts": [
+    "Excise Tariff (No. 3) 1939"
+   ]
+  },
+  {
+   "in_force": "1946-11-15",
+   "acts": [
+    "Excise Tariff 1948"
+   ]
+  },
+  {
+   "in_force": "1947-06-05",
+   "acts": [
+    "Excise Tariff (No. 2) 1948"
+   ]
+  },
+  {
+   "in_force": "1948-02-19",
+   "acts": [
+    "Excise Tariff (No. 3) 1948"
+   ]
+  },
+  {
+   "in_force": "1948-09-09",
+   "acts": [
+    "Excise Tariff (No. 4) 1948"
+   ]
+  },
+  {
+   "in_force": "1949-09-08",
+   "acts": [
+    "Excise Tariff 1949"
+   ]
+  },
+  {
+   "in_force": "1949-11-01",
+   "acts": [
+    "Excise Tariff (No. 2) 1949"
+   ]
+  },
+  {
+   "in_force": "1950-07-01",
+   "acts": [
+    "Excise Tariff 1950"
+   ]
+  },
+  {
+   "in_force": "1950-12-06",
+   "acts": [
+    "Excise Tariff (No. 2) 1950"
+   ]
+  },
+  {
+   "in_force": "1950-12-31",
+   "acts": [
+    "Statute Law Revision Act 1950"
+   ]
+  },
+  {
+   "in_force": "1952-09-26",
+   "acts": [
+    "Excise Tariff 1952"
+   ]
+  },
+  {
+   "in_force": "1953-11-25",
+   "acts": [
+    "Excise Tariff 1953"
+   ]
+  },
+  {
+   "in_force": "1956-03-15",
+   "acts": [
+    "Excise Tariff 1956"
+   ]
+  },
+  {
+   "in_force": "1956-05-17",
+   "acts": [
+    "Excise Tariff (No. 2) 1956"
+   ]
+  },
+  {
+   "in_force": "1956-08-31",
+   "acts": [
+    "Excise Tariff (No. 3) 1956"
+   ]
+  },
+  {
+   "in_force": "1957-09-04",
+   "acts": [
+    "Excise Tariff 1957"
+   ]
+  },
+  {
+   "in_force": "1958-03-21",
+   "acts": [
+    "Excise Tariff 1958"
+   ]
+  },
+  {
+   "in_force": "1959-03-20",
+   "acts": [
+    "Excise Tariff 1959"
+   ]
+  },
+  {
+   "in_force": "1959-09-01",
+   "acts": [
+    "Excise Tariff (No. 2) 1959"
+   ]
+  },
+  {
+   "in_force": "1959-10-09",
+   "acts": [
+    "Excise Tariff (No. 3) 1959"
+   ]
+  },
+  {
+   "in_force": "1960-04-29",
+   "acts": [
+    "Excise Tariff 1960"
+   ]
+  },
+  {
+   "in_force": "1960-08-17",
+   "acts": [
+    "Excise Tariff (No. 2) 1960"
+   ]
+  },
+  {
+   "in_force": "1961-06-01",
+   "acts": [
+    "Excise Tariff 1961"
+   ]
+  },
+  {
+   "in_force": "1961-08-16",
+   "acts": [
+    "Excise Tariff (No. 2) 1961"
+   ]
+  },
+  {
+   "in_force": "1962-11-08",
+   "acts": [
+    "Excise Tariff 1962"
+   ]
+  },
+  {
+   "in_force": "1963-05-17",
+   "acts": [
+    "Excise Tariff 1963"
+   ]
+  },
+  {
+   "in_force": "1963-10-30",
+   "acts": [
+    "Excise Tariff (No. 2) 1963"
+   ]
+  },
+  {
+   "in_force": "1964-08-12",
+   "acts": [
+    "Excise Tariff 1964"
+   ]
+  },
+  {
+   "in_force": "1965-08-18",
+   "acts": [
+    "Excise Tariff 1965"
+   ]
+  },
+  {
+   "in_force": "1966-02-14",
+   "acts": [
+    "Excise Tariff (No. 2) 1965"
+   ]
+  },
+  {
+   "in_force": "1967-03-17",
+   "acts": [
+    "Excise Tariff (No. 2) 1967"
+   ]
+  },
+  {
+   "in_force": "1967-05-12",
+   "acts": [
+    "Excise Tariff 1967"
+   ]
+  },
+  {
+   "in_force": "1968-01-01",
+   "acts": [
+    "Excise Tariff 1968"
+   ]
+  },
+  {
+   "in_force": "1968-05-17",
+   "acts": [
+    "Excise Tariff 1968"
+   ]
+  },
+  {
+   "in_force": "1968-11-01",
+   "acts": [
+    "Excise Tariff (No. 2) 1968"
+   ]
+  },
+  {
+   "in_force": "1969-03-28",
+   "acts": [
+    "Excise Tariff (No. 2) 1969"
+   ]
+  },
+  {
+   "in_force": "1969-04-08",
+   "acts": [
+    "Excise Tariff 1969"
+   ]
+  },
+  {
+   "in_force": "1970-08-19",
+   "acts": [
+    "Excise Tariff 1970"
+   ]
+  },
+  {
+   "in_force": "1971-08-18",
+   "acts": [
+    "Excise Tariff 1971"
+   ]
+  },
+  {
+   "in_force": "1972-07-01",
+   "acts": [
+    "Excise Tariff 1972"
+   ]
+  },
+  {
+   "in_force": "1972-08-16",
+   "acts": [
+    "Excise Tariff (No. 3) 1972"
+   ]
+  },
+  {
+   "in_force": "1972-08-31",
+   "acts": [
+    "Excise Tariff (No. 2) 1972"
+   ]
+  },
+  {
+   "in_force": "1973-04-18",
+   "acts": [
+    "Excise Tariff (No. 2) 1973",
+    "Excise Tariff 1973"
+   ]
+  },
+  {
+   "in_force": "1973-08-21",
+   "acts": [
+    "Excise Tariff (No. 3) 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-07-23",
+   "acts": [
+    "Excise Tariff 1974"
+   ]
+  },
+  {
+   "in_force": "1974-09-17",
+   "acts": [
+    "Excise Tariff 1974"
+   ]
+  },
+  {
+   "in_force": "1975-08-19",
+   "acts": [
+    "Excise Tariff 1975"
+   ]
+  },
+  {
+   "in_force": "1977-08-16",
+   "acts": [
+    "Excise Tariff Amendment Act 1977",
+    "Excise Tariff Amendment Act 1977",
+    "Excise Tariff Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1977-08-17",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1977"
+   ]
+  },
+  {
+   "in_force": "1977-11-18",
+   "acts": [
+    "Excise Tariff Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-08-15",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1978"
+   ]
+  },
+  {
+   "in_force": "1978-08-16",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1978"
+   ]
+  },
+  {
+   "in_force": "1978-12-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-01-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-04-05",
+   "acts": [
+    "Excise Tariff Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-05-03",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1979"
+   ]
+  },
+  {
+   "in_force": "1979-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1979-08-22",
+   "acts": [
+    "Excise Tariff Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1979-11-09",
+   "acts": [
+    "Excise Tariff Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1980-01-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 3) 1980",
+    "Excise Tariff Amendment Act (No. 3) 1979"
+   ]
+  },
+  {
+   "in_force": "1980-04-18",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 4) 1980"
+   ]
+  },
+  {
+   "in_force": "1980-05-23",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1980"
+   ]
+  },
+  {
+   "in_force": "1981-01-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-04-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-05-25",
+   "acts": [
+    "Excise Tariff Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-07-01",
+   "acts": [
+    "Excise Tariff (Petroleum) Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1982-01-01",
+   "acts": [
+    "Excise Tariff (Petroleum) Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1982-04-01",
+   "acts": [
+    "Excise Tariff (Coal) Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1982-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1982-07-14",
+   "acts": [
+    "Excise Tariff Amendment (Off-shore Installations) Act 1982"
+   ]
+  },
+  {
+   "in_force": "1982-08-17",
+   "acts": [
+    "Excise Tariff Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1982-10-20",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-01-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-04-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1983",
+    "Excise Tariff Amendment Act (No. 2) 1984",
+    "Excise Tariff Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1983-08-23",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-09-09",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1983-11-23",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-01-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-06-22",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-06-25",
+   "acts": [
+    "Excise Tariff Amendment Act 1984",
+    "Excise Tariff Amendment Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1985",
+    "Excise Tariff Amendment Act (No. 2) 1985",
+    "Excise Tariff Amendment Act (No. 2) 1984",
+    "Excise Tariff Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1984-07-18",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-08-21",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1984-10-23",
+   "acts": [
+    "Excise Tariff Amendment Act 1985",
+    "Excise Tariff Amendment Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1985-04-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-05-23",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1986",
+    "Excise Tariff Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1985-05-30",
+   "acts": [
+    "Excise Tariff Amendment Act 1985",
+    "Excise Tariff Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1985-06-10",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-08-20",
+   "acts": [
+    "Excise Tariff Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1985-10-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-03-03",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-03-15",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-04-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-04-17",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-05-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-05-13",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-05-17",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-06-14",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-07-18",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-08-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1986-08-16",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-08-19",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-09-13",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1986-10-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1986-10-16",
+   "acts": [
+    "Excise Tariff Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1986-11-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-01-17",
+   "acts": [
+    "Excise Tariff Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-02-14",
+   "acts": [
+    "Excise Tariff Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-02-27",
+   "acts": [
+    "Excise Tariff Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-03-14",
+   "acts": [
+    "Excise Tariff Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-04-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-05-16",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1987"
+   ]
+  },
+  {
+   "in_force": "1987-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1987"
+   ]
+  },
+  {
+   "in_force": "1987-07-18",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1987"
+   ]
+  },
+  {
+   "in_force": "1987-07-24",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1987"
+   ]
+  },
+  {
+   "in_force": "1987-08-15",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1987"
+   ]
+  },
+  {
+   "in_force": "1987-08-22",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1987"
+   ]
+  },
+  {
+   "in_force": "1987-10-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1987-10-15",
+   "acts": [
+    "Sea Installations (Miscellaneous Amendments) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1987-10-17",
+   "acts": [
+    "Excise Tariff Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1987-12-14",
+   "acts": [
+    "Excise Tariff Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-01-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1987",
+    "Customs Tariff (Miscellaneous Amendments) Act 1987",
+    "Excise Tariff Amendment Act 1988",
+    "Excise Tariff Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1988-01-15",
+   "acts": [
+    "Petroleum Resource Rent Tax (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-01-23",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1987"
+   ]
+  },
+  {
+   "in_force": "1988-02-03",
+   "acts": [
+    "Excise Tariff Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-04-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1988-08-24",
+   "acts": [
+    "Excise Tariff Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1988-10-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-02-15",
+   "acts": [
+    "Excise Tariff Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1988",
+    "Excise Tariff Amendment Act (No. 2) 1989",
+    "Excise Tariff Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-04-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Petroleum Resource Rent Legislation Amendment Act 1991",
+    "Excise Tariff Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-05-07",
+   "acts": [
+    "Excise Tariff Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1992-06-26",
+   "acts": [
+    "Coal Tariff Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-08-19",
+   "acts": [
+    "Excise Tariff Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-02-02",
+   "acts": [
+    "Excise Tariff Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-06-26",
+   "acts": [
+    "Coal Tariff Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1993-08-18",
+   "acts": [
+    "Excise Tariff (Deficit Reduction) Act 1993"
+   ]
+  },
+  {
+   "in_force": "1993-09-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1993-12-24",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1994-01-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1993",
+    "Excise Tariff Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-04-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1995",
+    "Excise Tariff Amendment Act (No. 2) 1993",
+    "Excise Tariff Amendment Act (No. 2) 1995",
+    "Excise Tariff Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1994-05-11",
+   "acts": [
+    "Excise Tariff Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1994-06-24",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1993"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1994-11-01",
+   "acts": [
+    "Excise Tariff Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-05-10",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Customs, Excise and Bounty Legislation Amendment Act 1995",
+    "Excise Tariff Amendment Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-10-11",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-11-28",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1995"
+   ]
+  },
+  {
+   "in_force": "1996-02-03",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1996-06-06",
+   "acts": [
+    "Excise Tariff Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-07-01",
+   "acts": [
+    "Customs Tariff (Miscellaneous Amendments) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-08-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1996-09-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-02-03",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-06-18",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-08-07",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 3) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-09-17",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 5) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-31",
+   "acts": [
+    "Excise Tariff (Fuel Rates Amendments) Act 1997",
+    "Excise Tariff Amendment Act (No. 4) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-06-30",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-05-12",
+   "acts": [
+    "Excise Tariff Amendment (Aviation Fuel Revenues) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-11-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "1999-11-15",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-01-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2000-05-13",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2000-10-26",
+   "acts": [
+    "Petroleum Excise Amendment (Measures to Address Evasion) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-01-31",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-03-02",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-04-04",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-05-04",
+   "acts": [
+    "Taxation Laws Amendment (Excise Arrangements) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-06-30",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "Excise Tariff Amendment (Crude Oil) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Excise Tariff Amendment (Crude Oil) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-25",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-01-01",
+   "acts": [
+    "Excise Tariff Amendment (Product Stewardship for Waste Oil) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2002-04-15",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-05-14",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-09-18",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2004"
+   ]
+  },
+  {
+   "in_force": "2002-12-02",
+   "acts": [
+    "Excise Tariff Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Excise Tariff Amendment (Fuels) Act 2004",
+    "Excise Tariff Amendment (Fuels) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2003-09-18",
+   "acts": [
+    "Excise Tariff Amendment (Fuels) Act 2004",
+    "Excise Tariff Amendment (Fuels) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-01-01",
+   "acts": [
+    "Excise Tariff Amendment (Fuels) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-22",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2005-11-01",
+   "acts": [
+    "Excise Tariff Amendment (Fuel Tax Reform and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Excise Tariff Amendment (Fuel Tax Reform and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-04-27",
+   "acts": [
+    "Excise Tariff Amendment (2009 Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-10-18",
+   "acts": [
+    "Excise Tariff Amendment (Condensate) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-08-28",
+   "acts": [
+    "Excise Tariff Amendment (2009 Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-18",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 4) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-04-30",
+   "acts": [
+    "Excise Tariff Amendment (Tobacco) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Excise Tariff Amendment (Aviation Fuel) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-11-24",
+   "acts": [
+    "Excise Tariff Amendment (Condensate) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-01",
+   "acts": [
+    "Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-21",
+   "acts": [
+    "Tax Laws Amendment (2012 Measures No. 3) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Clean Energy (Excise Tariff Legislation Amendment) Act 2011",
+    "Clean Energy (Excise Tariff Legislation Amendment) Act 2011",
+    "Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011",
+    "Clean Energy (Excise Tariff Legislation Amendment) Act 2012",
+    "Petroleum Resource Rent Tax Assessment Amendment Act 2012",
+    "Clean Energy (Excise Tariff Legislation Amendment) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-14",
+   "acts": [
+    "Excise Tariff Amendment (Per-tonne Carbon Price Equivalent) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011",
+    "Clean Energy (Excise Tariff Legislation Amendment) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-12-01",
+   "acts": [
+    "Excise Tariff Amendment (Tobacco) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011",
+    "Excise Tariff Amendment (Carbon Tax Repeal) Act 2014",
+    "Clean Energy (Excise Tariff Legislation Amendment) Act 2012",
+    "Excise Tariff Amendment (Tobacco) Act 2014",
+    "Excise Tariff Amendment (Product Stewardship for Oil) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-11-10",
+   "acts": [
+    "Excise Tariff Amendment (Fuel Indexation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-01-31",
+   "acts": [
+    "Excise Tariff Amendment (Fuel Indexation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011",
+    "Excise Tariff Amendment (Ethanol and Biodiesel) Act 2015",
+    "Excise Tariff Amendment (Fuel Indexation) Act 2015",
+    "Excise Tariff Amendment (Fuel Indexation) Act 2015",
+    "Clean Energy (Excise Tariff Legislation Amendment) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-09-23",
+   "acts": [
+    "Excise Tariff Amendment (Tobacco) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-08-31",
+   "acts": [
+    "Excise Tariff Amendment (Tobacco Duty Harmonisation) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Legislation Amendment (Sunsetting Review and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-01-01",
+   "acts": [
+    "Excise Tariff Amendment (Collecting Tobacco Duties at Manufacture) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Excise Tariff Amendment (Supporting Craft Brewers) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Petroleum Resource Rent Tax Reforms No. 1) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-09-08",
+   "acts": [
+    "Excise Tariff Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2022-03-31",
+   "acts": [
+    "Excise Tariff Amendment (Cost of Living Support) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Excise Tariff Amendment (Product Stewardship for Oil) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-01",
+   "acts": [
+    "Excise Tariff Amendment (Tobacco) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

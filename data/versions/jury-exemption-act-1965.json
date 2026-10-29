@@ -1,0 +1,89 @@
+{
+ "title_id": "C1965A00013",
+ "name": "Jury Exemption Act 1965",
+ "folder": "jury-exemption-act-1965",
+ "compilations": [
+  {
+   "in_force": "2001-04-19",
+   "register_id": "C2004C00531",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1965A00013',start=2001-04-19,retrospectivestart=2001-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1965A00013/2001-04-19/text",
+   "sha256": "9ead7e4a820f86c92a022e6b7c3d5fd8a9ce66e0038f4aaa9e77a46a8aa6554c"
+  },
+  {
+   "in_force": "2006-03-27",
+   "register_id": "C2006C00095",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1965A00013',start=2006-03-27,retrospectivestart=2006-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1965A00013/2006-03-27/text",
+   "sha256": "5bccc6cc16056b40b28b0ba26e5a28fd103bc9fddfec56d134e6761b19f2045c"
+  },
+  {
+   "in_force": "2009-07-01",
+   "register_id": "C2009C00297",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1965A00013',start=2009-07-01,retrospectivestart=2009-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1965A00013/2009-07-01/text",
+   "sha256": "9d351ef6f9bd4b39663c99a20dfdffa7b2f6d691c57fbe284536d85084a3dc61"
+  },
+  {
+   "in_force": "2013-01-01",
+   "register_id": "C2013C00074",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1965A00013',start=2013-01-01,retrospectivestart=2013-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1965A00013/2013-01-01/text",
+   "sha256": "abdaed66b312a87971fe3ce3deeba8fe6c072013c8da3a3c8ded0a01450c9074"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1965-05-18",
+   "acts": []
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1983-09-30",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1999"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

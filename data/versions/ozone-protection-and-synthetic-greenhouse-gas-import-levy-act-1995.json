@@ -1,0 +1,97 @@
+{
+ "title_id": "C2004A04976",
+ "name": "Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995",
+ "folder": "ozone-protection-and-synthetic-greenhouse-gas-import-levy-act-1995",
+ "compilations": [
+  {
+   "in_force": "2020-01-01",
+   "register_id": "C2020C00059",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04976',start=2020-01-01,retrospectivestart=2020-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04976/2020-01-01/text",
+   "sha256": "748e7148f4da2b47387820f92ba309a91d9e6b4442153bfae0fdbe6c8809d55c"
+  },
+  {
+   "in_force": "2023-06-13",
+   "register_id": "C2023C00103",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04976',start=2023-06-13,retrospectivestart=2023-06-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04976/2023-06-13/text",
+   "sha256": "726509c43322f1df6e84464ecc9f7429b59ab9bd1ec472d4b893e1701173d945"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00306",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04976',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04976/2026-07-01/text",
+   "sha256": "8fe4450236eb60d541fcff549c3f567f919e4e4a3d73bbb25cb09a40b4eda25e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-11-02",
+   "acts": []
+  },
+  {
+   "in_force": "2003-12-05",
+   "acts": [
+    "Ozone Protection (Licence Fees—Imports) Amendment Act 2003",
+    "Ozone Protection (Licence Fees—Imports) Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-12-14",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment (Per-tonne Carbon Price Equivalent) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Amendment (Carbon Tax Repeal) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-08-01",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas Management Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Ozone Protection and Synthetic Greenhouse Gas Management Legislation Amendment Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

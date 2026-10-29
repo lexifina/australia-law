@@ -1,0 +1,21 @@
+{
+ "title_id": "C2008A00061",
+ "name": "Governance Review Implementation (AASB and AUASB) Act 2008",
+ "folder": "governance-review-implementation-aasb-and-auasb-act-2008",
+ "compilations": [
+  {
+   "in_force": "2008-06-30",
+   "register_id": "C2008A00061",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00061',start=2008-06-30,retrospectivestart=2008-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00061/2008-06-30/text",
+   "sha256": "2c6baa9256bbc80cbe8112fe4fe347964726dbe0f39e80e72514aee03ee7e566"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

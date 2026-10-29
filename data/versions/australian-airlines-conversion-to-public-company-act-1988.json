@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A03599",
+ "name": "Australian Airlines (Conversion to Public Company) Act 1988",
+ "folder": "australian-airlines-conversion-to-public-company-act-1988",
+ "compilations": [
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00793",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03599',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03599/2012-09-22/text",
+   "sha256": "150ad12ded572622fd6cf3edbee80350d0ca13186c5d92c2a1fffcbe683c81ff"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-01-17",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-10-31",
+   "acts": [
+    "Airlines Agreement (Termination) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-01-21",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-07-30",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1988-03-09"
+ ],
+ "repeal": null
+}

@@ -1,0 +1,41 @@
+{
+ "title_id": "C2004A04384",
+ "name": "Superannuation Guarantee Charge Act 1992",
+ "folder": "superannuation-guarantee-charge-act-1992",
+ "compilations": [
+  {
+   "in_force": "2003-07-01",
+   "register_id": "C2004C00841",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04384',start=2003-07-01,retrospectivestart=2003-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04384/2003-07-01/text",
+   "sha256": "06d1df6b27af4cd2abd731fc100bb0fa37b9975ee67e094ac297c619c6ec6f7d"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00330",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04384',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04384/2026-07-01/text",
+   "sha256": "c203d205bf473afcad6c64fa7a233affe28dd6e5a12eb53e602a6bcf637fe92b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-06-02",
+   "acts": [
+    "Retirement Savings Accounts (Consequential Amendments) Act 1997"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1992-06-30"
+ ],
+ "repeal": null
+}

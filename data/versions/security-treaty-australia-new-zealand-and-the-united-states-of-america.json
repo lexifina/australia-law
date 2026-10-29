@@ -1,0 +1,21 @@
+{
+ "title_id": "C1952A00006",
+ "name": "Security Treaty (Australia, New Zealand and the United States of America) Act 1952",
+ "folder": "security-treaty-australia-new-zealand-and-the-united-states-of-america",
+ "compilations": [
+  {
+   "in_force": "1952-03-13",
+   "register_id": "C1952A00006",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1952A00006',start=1952-03-13,retrospectivestart=1952-03-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1952A00006/1952-03-13/text",
+   "sha256": "3287a8ddca72566be3a89440d4cc7db0fe6ef472849e1cf1049e9af3d53086a2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

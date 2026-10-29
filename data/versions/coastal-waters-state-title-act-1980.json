@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A02278",
+ "name": "Coastal Waters (State Title) Act 1980",
+ "folder": "coastal-waters-state-title-act-1980",
+ "compilations": [
+  {
+   "in_force": "1980-05-29",
+   "register_id": "C2004A02278",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02278',start=1980-05-29,retrospectivestart=1980-05-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02278/1980-05-29/text",
+   "sha256": "da6bb0f1ff28e63d1bc27ff9c080ecdfec889bb36941517a9e75b3d7e8274ee5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

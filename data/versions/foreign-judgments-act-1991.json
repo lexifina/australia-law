@@ -1,0 +1,60 @@
+{
+ "title_id": "C2004A04187",
+ "name": "Foreign Judgments Act 1991",
+ "folder": "foreign-judgments-act-1991",
+ "compilations": [
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00759",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04187',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04187/2012-09-22/text",
+   "sha256": "ed1bdfa91666e3597a2b5c749127602d13ad4416a083075679df3a61a4c8e416"
+  },
+  {
+   "in_force": "2013-10-11",
+   "register_id": "C2013C00640",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04187',start=2013-10-11,retrospectivestart=2013-10-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04187/2013-10-11/text",
+   "sha256": "11e34212167568ebea044b56616cba79d16bef845fcfdbda1a162b0c29b14666"
+  },
+  {
+   "in_force": "2022-02-18",
+   "register_id": "C2022C00084",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04187',start=2022-02-18,retrospectivestart=2022-02-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04187/2022-02-18/text",
+   "sha256": "83f430b365ea66ac264a2135a8b2d936de5fceac9b3d25cf85ceb4dd637cd5df"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-06-27",
+   "acts": []
+  },
+  {
+   "in_force": "1993-04-10",
+   "acts": [
+    "Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1997"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

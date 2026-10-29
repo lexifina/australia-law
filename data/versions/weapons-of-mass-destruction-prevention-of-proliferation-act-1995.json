@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A04891",
+ "name": "Weapons of Mass Destruction (Prevention of Proliferation) Act 1995",
+ "folder": "weapons-of-mass-destruction-prevention-of-proliferation-act-1995",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00897",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04891',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04891/2016-07-01/text",
+   "sha256": "0d89f5789f5ecf93b17868686587fe6c73c8cd2d3fbdd43b7ea25a9b938f4707"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01072",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04891',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04891/2016-10-21/text",
+   "sha256": "232c74e3dd3f49b13959a75b73f653ba77b4a2667441bf8939cb1b7ddee51524"
+  },
+  {
+   "in_force": "2018-11-06",
+   "register_id": "C2018C00445",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04891',start=2018-11-06,retrospectivestart=2018-11-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04891/2018-11-06/text",
+   "sha256": "7565e762c28681ef250a4964a4cdb60d76b16f4b482a1510216b780020420b4a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-05-29",
+   "acts": []
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2001-12-15",
+   "acts": [
+    "Defence Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

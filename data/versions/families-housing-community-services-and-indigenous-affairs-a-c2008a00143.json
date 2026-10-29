@@ -1,0 +1,21 @@
+{
+ "title_id": "C2008A00143",
+ "name": "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008",
+ "folder": "families-housing-community-services-and-indigenous-affairs-a-c2008a00143",
+ "compilations": [
+  {
+   "in_force": "2008-12-09",
+   "register_id": "C2008A00143",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00143',start=2008-12-09,retrospectivestart=2008-12-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00143/2008-12-09/text",
+   "sha256": "f5ab4886561f1fb416fe89e256049d84f9352d1c68ed5b6fe56b05eebc9687aa"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

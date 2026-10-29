@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00076",
+ "name": "Health Insurance Amendment (Professional Services Review) Act 2012",
+ "folder": "health-insurance-amendment-professional-services-review-act-2012",
+ "compilations": [
+  {
+   "in_force": "2012-06-27",
+   "register_id": "C2012A00076",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00076',start=2012-06-27,retrospectivestart=2012-06-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00076/2012-06-27/text",
+   "sha256": "f5bb828004c84d7a526f919d73b1947cce8b08a766e2db4058173d067def9bc5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

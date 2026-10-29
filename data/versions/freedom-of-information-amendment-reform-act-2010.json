@@ -1,0 +1,32 @@
+{
+ "title_id": "C2010A00051",
+ "name": "Freedom of Information Amendment (Reform) Act 2010",
+ "folder": "freedom-of-information-amendment-reform-act-2010",
+ "compilations": [
+  {
+   "in_force": "2010-05-31",
+   "register_id": "C2010A00051",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00051',start=2010-05-31,retrospectivestart=2010-05-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00051/2010-05-31/text",
+   "sha256": "5cfc418fb62feb5d8fc72104931fa7e0d63d45e9a04a92d83f7408d2ad693603"
+  },
+  {
+   "in_force": "2010-11-01",
+   "register_id": "C2012C00866",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00051',start=2010-11-01,retrospectivestart=2010-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00051/2010-11-01/text",
+   "sha256": "1f3f3cfb718c379ac74f7c30eaa9148672a524c509ec5e6cf77d4b357c3a1389"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

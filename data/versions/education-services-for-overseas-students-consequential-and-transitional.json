@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00759",
+ "name": "Education Services for Overseas Students (Consequential and Transitional) Act 2000",
+ "folder": "education-services-for-overseas-students-consequential-and-transitional",
+ "compilations": [
+  {
+   "in_force": "2000-12-21",
+   "register_id": "C2004A00759",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00759',start=2000-12-21,retrospectivestart=2000-12-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00759/2000-12-21/text",
+   "sha256": "283ee21ac842b2eb26ad155d5297385bc06d3740cbb6a5f60718a268bc792a2f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

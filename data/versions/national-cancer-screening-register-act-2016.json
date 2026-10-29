@@ -1,0 +1,60 @@
+{
+ "title_id": "C2016A00065",
+ "name": "National Cancer Screening Register Act 2016",
+ "folder": "national-cancer-screening-register-act-2016",
+ "compilations": [
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00523",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00065',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00065/2021-09-01/text",
+   "sha256": "89e2647559ec4f075bf7127eabbdb20a8d6f07d4ac10c9e4207b5f2c6ce9a59f"
+  },
+  {
+   "in_force": "2024-05-31",
+   "register_id": "C2024C00188",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00065',start=2024-05-31,retrospectivestart=2024-05-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00065/2024-05-31/text",
+   "sha256": "f916f26c746418e298b38fd569a31ffd7dd3098f3e47ef7ad6bd6a57b8d52d5d"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00279",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00065',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00065/2026-07-01/text",
+   "sha256": "89407ebde89a61bf346f3b4439b00dcd7c7120b66530ae7724b392afb857a156"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2016-10-20",
+   "acts": []
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Budget Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Treatment Benefits (Special Access) (Consequential Amendments and Transitional Provisions) Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

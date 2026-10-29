@@ -1,0 +1,54 @@
+{
+ "title_id": "C2008A00136",
+ "name": "Australian Curriculum, Assessment and Reporting Authority Act 2008",
+ "folder": "australian-curriculum-assessment-and-reporting-authority-act-2008",
+ "compilations": [
+  {
+   "in_force": "2014-03-12",
+   "register_id": "C2014C00108",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00136',start=2014-03-12,retrospectivestart=2014-03-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00136/2014-03-12/text",
+   "sha256": "67e1cafe2294f16468869e6bdcaedff97196e596a54e4c9886511800f187c2a8"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00453",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00136',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00136/2014-07-01/text",
+   "sha256": "8aaeaa749377571bed4405acb3897acbfac7feb0d87ed9762921eb69a1fe55cd"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00282",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00136',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00136/2024-07-06/text",
+   "sha256": "0f999a0813255199c997b753e30ee60269c22614d235678337cc87d75708dda2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2008-12-08",
+   "acts": []
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

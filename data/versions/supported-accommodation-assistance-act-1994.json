@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A04835",
+ "name": "Supported Accommodation Assistance Act 1994",
+ "folder": "supported-accommodation-assistance-act-1994",
+ "compilations": [
+  {
+   "in_force": "1994-12-16",
+   "register_id": "C2004A04835",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04835',start=1994-12-16,retrospectivestart=1994-12-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04835/1994-12-16/text",
+   "sha256": "c55a0943f7415be79e14ebf0151d0b2d720a8db72a6c9f5f54aa07322ee11883"
+  },
+  {
+   "in_force": "2009-08-05",
+   "register_id": "C2009C00401",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04835',start=2009-08-05,retrospectivestart=2009-08-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04835/2009-08-05/text",
+   "sha256": "107da36bf1099549cd2559c569fd383fdc3f58bfa48fb8d26571285923c545b1"
+  },
+  {
+   "in_force": "2014-03-12",
+   "register_id": "C2014C00101",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04835',start=2014-03-12,retrospectivestart=2014-03-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04835/2014-03-12/text",
+   "sha256": "e5deb6ff7042ad4855fe9a79665c12c50ae5fa594e5bc4df93a0ab407041c74d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

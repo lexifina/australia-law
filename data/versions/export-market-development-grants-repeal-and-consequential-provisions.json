@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A05142",
+ "name": "Export Market Development Grants (Repeal and Consequential Provisions) Act 1997",
+ "folder": "export-market-development-grants-repeal-and-consequential-provisions",
+ "compilations": [
+  {
+   "in_force": "1997-04-22",
+   "register_id": "C2004A05142",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05142',start=1997-04-22,retrospectivestart=1997-04-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05142/1997-04-22/text",
+   "sha256": "5ef208f7dadc7a58c7998bd9e9314591e2d52cba8a95683aee044b4eb64fa4d8"
+  },
+  {
+   "in_force": "1999-07-16",
+   "register_id": "C2004C00889",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05142',start=1999-07-16,retrospectivestart=1999-07-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05142/1999-07-16/text",
+   "sha256": "8710246a63527a219f19e4d7b15ccc3edead2ceae53b61a591caeec917a20ff6"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,32 @@
+{
+ "title_id": "C2013A00136",
+ "name": "Grape and Wine Legislation Amendment (Australian Grape and Wine Authority) Act 2013",
+ "folder": "grape-and-wine-legislation-amendment-australian-grape-and-wine",
+ "compilations": [
+  {
+   "in_force": "2013-12-13",
+   "register_id": "C2013A00136",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00136',start=2013-12-13,retrospectivestart=2013-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00136/2013-12-13/text",
+   "sha256": "41d28d8c24d18d3fd37a3a239f126f1c871a73bf0d99e93a296689e9a242f9bd"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00604",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00136',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00136/2014-07-01/text",
+   "sha256": "029f52d2820ff2db704db7a146e3fc23f1849303370dcecf8d19e1b93ad8cc75"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

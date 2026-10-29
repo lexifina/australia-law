@@ -1,0 +1,136 @@
+{
+ "title_id": "C2006A00006",
+ "name": "Sport Integrity Australia Act 2020",
+ "folder": "sport-integrity-australia-act-2020",
+ "compilations": [
+  {
+   "in_force": "2021-01-01",
+   "register_id": "C2021C00056",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00006',start=2021-01-01,retrospectivestart=2021-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00006/2021-01-01/text",
+   "sha256": "1de0e2ff71bcdad3f60b14249127a5602d61091eef75e76573d52e239cf1ebe6"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00486",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00006',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00006/2021-09-01/text",
+   "sha256": "129bfb067a9b9eae0e711e43c4dc3d142f974a25aa03dfb52b60f7263ad07380"
+  },
+  {
+   "in_force": "2021-11-04",
+   "register_id": "C2021C00549",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00006',start=2021-11-04,retrospectivestart=2021-11-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00006/2021-11-04/text",
+   "sha256": "c9bf1002a9ad31b00911344846b046e8964a454d062b9ba488c98127ca8a69e0"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-03-07",
+   "acts": []
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Australian Sports Anti-Doping Authority Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010",
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-08-01",
+   "acts": [
+    "Australian Sports Anti-Doping Authority Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-01-01",
+   "acts": [
+    "Australian Sports Anti-Doping Authority Amendment Act 2014",
+    "Australian Sports Anti-Doping Authority Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-02-21",
+   "acts": [
+    "Statute Update (Smaller Government) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2020-03-19",
+   "acts": [
+    "National Sports Tribunal (Consequential Amendments and Transitional Provisions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Australian Sports Anti-Doping Authority Amendment (Sport Integrity Australia) Act 2020",
+    "Australian Sports Anti-Doping Authority Amendment (Sport Integrity Australia) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-08-10",
+   "acts": [
+    "Australian Sports Anti-Doping Authority Amendment (Enhancing Australia’s Anti-Doping Capability) Act 2020",
+    "Australian Sports Anti-Doping Authority Amendment (Enhancing Australia’s Anti-Doping Capability) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Sport Legislation Amendment (World Anti-Doping Code Implementation) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

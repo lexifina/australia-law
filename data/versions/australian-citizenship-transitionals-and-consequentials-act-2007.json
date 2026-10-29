@@ -1,0 +1,54 @@
+{
+ "title_id": "C2007A00021",
+ "name": "Australian Citizenship (Transitionals and Consequentials) Act 2007",
+ "folder": "australian-citizenship-transitionals-and-consequentials-act-2007",
+ "compilations": [
+  {
+   "in_force": "2007-07-01",
+   "register_id": "C2008C00499",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00021',start=2007-07-01,retrospectivestart=2007-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00021/2007-07-01/text",
+   "sha256": "3b9a19e3618118771e9e22d3d5f036ab5b723e630b0cae26e73d61bbf91f9e75"
+  },
+  {
+   "in_force": "2009-09-21",
+   "register_id": "C2009C00455",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00021',start=2009-09-21,retrospectivestart=2009-09-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00021/2009-09-21/text",
+   "sha256": "363bd7f66eaacb5fcec76dcbb510e294d26ed2242dc42f10f5ef298931429ba3"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00383",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00021',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00021/2015-07-01/text",
+   "sha256": "9b3b1785a68184473bab9714cce216a961752706452d9e7c34430911039549a1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2007-03-15",
+   "acts": []
+  },
+  {
+   "in_force": "2008-09-15",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

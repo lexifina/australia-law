@@ -1,0 +1,36 @@
+{
+ "title_id": "C2004A03811",
+ "name": "Telecommunications and Postal Services (Transitional Provisions and Consequential Amendments) Act 1989",
+ "folder": "telecommunications-and-postal-services-transitional-provisions-and",
+ "compilations": [
+  {
+   "in_force": "2014-10-17",
+   "register_id": "C2014C00761",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03811',start=2014-10-17,retrospectivestart=2014-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03811/2014-10-17/text",
+   "sha256": "c41dfbad5e22521fd53d3363ab3665ca4132b5ed4469e005951df322243234f6"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-01-17",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1991-01-21",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act 1990"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1989-06-19"
+ ],
+ "repeal": null
+}

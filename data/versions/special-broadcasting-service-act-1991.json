@@ -1,0 +1,199 @@
+{
+ "title_id": "C2004A04255",
+ "name": "Special Broadcasting Service Act 1991",
+ "folder": "special-broadcasting-service-act-1991",
+ "compilations": [
+  {
+   "in_force": "2022-02-18",
+   "register_id": "C2022C00078",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04255',start=2022-02-18,retrospectivestart=2022-02-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04255/2022-02-18/text",
+   "sha256": "875ac13d43e74a767d305264a15436c023b4531d34b8af59c33da91bccdb11e6"
+  },
+  {
+   "in_force": "2023-03-27",
+   "register_id": "C2023C00065",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04255',start=2023-03-27,retrospectivestart=2023-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04255/2023-03-27/text",
+   "sha256": "63fcf44418f3b7900a19ff3193c508dbe26e66dbaab32b7814ac16a11131bdec"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00366",
+   "compilation": "29",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04255',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04255/2023-10-18/text",
+   "sha256": "420513806f660df0c279b5c0436ee6559aba755640dae1c1b4e4c50b526ff9e4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-11-25",
+   "acts": []
+  },
+  {
+   "in_force": "1991-12-23",
+   "acts": [
+    "Statute Law Revision Act 2002"
+   ]
+  },
+  {
+   "in_force": "1992-10-05",
+   "acts": [
+    "Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-10-28",
+   "acts": [
+    "Sales Tax Amendment (Transitional) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-04-12",
+   "acts": [
+    "Communications and the Arts Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-12-21",
+   "acts": [
+    "National Transmission Network Sale (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-04-06",
+   "acts": [
+    "Broadcasting Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005",
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Commonwealth Authorities and Companies Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-24",
+   "acts": [
+    "National Broadcasting Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-31",
+   "acts": [
+    "Broadcasting Legislation Amendment (Convergence Review and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2018-03-14",
+   "acts": [
+    "Electoral and Other Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-12-12",
+   "acts": [
+    "Communications Legislation Amendment (Deregulation and Other Measures) Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

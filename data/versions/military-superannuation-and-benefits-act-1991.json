@@ -1,0 +1,204 @@
+{
+ "title_id": "C2004A04210",
+ "name": "Military Superannuation and Benefits Act 1991",
+ "folder": "military-superannuation-and-benefits-act-1991",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00408",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04210',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04210/2016-03-05/text",
+   "sha256": "f5fa7a2ff269485ff78807738d2f63f51def95493b468517ddb16af3791ff872"
+  },
+  {
+   "in_force": "2020-12-18",
+   "register_id": "C2021C00087",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04210',start=2020-12-18,retrospectivestart=2020-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04210/2020-12-18/text",
+   "sha256": "8c2c697b6e624852efb21755737909d96ee652deda912ac6db2a59dc329266af"
+  },
+  {
+   "in_force": "2022-09-28",
+   "register_id": "C2022C00261",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04210',start=2022-09-28,retrospectivestart=2022-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04210/2022-09-28/text",
+   "sha256": "68c3bcb935912cb30967d45bd8ebad8c607b3621359ba26cc7cdccc42ca42307"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-09-01",
+   "acts": []
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Defence Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Superannuation Guarantee (Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-12-22",
+   "acts": [
+    "Defence Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Superannuation Industry (Supervision) Consequential Amendments Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-06-15",
+   "acts": [
+    "Defence Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-11-20",
+   "acts": [
+    "CFM Sale Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-07",
+   "acts": [
+    "Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2001-01-18",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2001-04-19",
+   "acts": [
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2001-12-15",
+   "acts": [
+    "Defence Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-11-12",
+   "acts": [
+    "Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-05-18",
+   "acts": [
+    "Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-06",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Governance of Australian Government Superannuation Schemes Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-09-11",
+   "acts": [
+    "Defence Legislation Amendment (Superannuation and ADF Cover) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Defence Force Discipline Amendment (RCDVS Implementation and Related Measures No. 1) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

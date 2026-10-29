@@ -1,0 +1,21 @@
+{
+ "title_id": "C2021A00066",
+ "name": "Fuel Security (Consequential and Transitional Provisions) Act 2021",
+ "folder": "fuel-security-consequential-and-transitional-provisions-act-2021",
+ "compilations": [
+  {
+   "in_force": "2021-06-29",
+   "register_id": "C2021A00066",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00066',start=2021-06-29,retrospectivestart=2021-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00066/2021-06-29/text",
+   "sha256": "9afa344ceaaa833a5b8d15ac1d2e14c68bb14bdd7ebf86b13da6c90d63474997"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,72 @@
+{
+ "title_id": "C2015A00138",
+ "name": "Australian Immunisation Register Act 2015",
+ "folder": "australian-immunisation-register-act-2015",
+ "compilations": [
+  {
+   "in_force": "2021-02-16",
+   "register_id": "C2021C00122",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00138',start=2021-02-16,retrospectivestart=2021-02-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00138/2021-02-16/text",
+   "sha256": "02d1249593b3c7913ea11e5ad6677f4711d8c3f1d2058887cd0dc680cddf2320"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00418",
+   "compilation": "6",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00138',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00138/2021-09-01/text",
+   "sha256": "40ee07b5b79da0b8994111a6f8b3381590d1da7784436bea959a98bfcecffcd5"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00682",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00138',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00138/2025-12-05/text",
+   "sha256": "fb30e27b5499ed3a43185a736ccc6261bdf35b31b78720b0734ab0f548b8cefb"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2015-11-12",
+   "acts": []
+  },
+  {
+   "in_force": "2016-09-30",
+   "acts": [
+    "Australian Immunisation Register (Consequential and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "National Cancer Screening Register (Consequential and Transitional Provisions) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Australian Immunisation Register (Consequential and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-08-17",
+   "acts": [
+    "Australian Immunisation Register and Other Legislation Amendment Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

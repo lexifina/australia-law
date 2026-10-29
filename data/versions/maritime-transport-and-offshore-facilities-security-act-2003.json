@@ -1,0 +1,204 @@
+{
+ "title_id": "C2004A01216",
+ "name": "Maritime Transport and Offshore Facilities Security Act 2003",
+ "folder": "maritime-transport-and-offshore-facilities-security-act-2003",
+ "compilations": [
+  {
+   "in_force": "2025-11-08",
+   "register_id": "C2025C00650",
+   "compilation": "29",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01216',start=2025-11-08,retrospectivestart=2025-11-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01216/2025-11-08/text",
+   "sha256": "688790a8d6b2cae3db846141474ce989e42e05a19ea8b1d59361ded3037953ae"
+  },
+  {
+   "in_force": "2026-01-22",
+   "register_id": "C2026C00075",
+   "compilation": "30",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01216',start=2026-01-22,retrospectivestart=2026-01-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01216/2026-01-22/text",
+   "sha256": "57443546f28ede61cd326b0bed1285023fc9de22365f4559154e1a119eedfdeb"
+  },
+  {
+   "in_force": "2026-03-27",
+   "register_id": "C2026C00106",
+   "compilation": "31",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01216',start=2026-03-27,retrospectivestart=2026-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01216/2026-03-27/text",
+   "sha256": "362fd89c0606bd36e203b3602706a528f5fed89036d1cab366bba3441cb5a454"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-12-12",
+   "acts": []
+  },
+  {
+   "in_force": "2005-06-27",
+   "acts": [
+    "Maritime Transport Security Amendment Act 2005",
+    "Maritime Transport Security Amendment Act 2005",
+    "Maritime Transport Security Amendment Act 2005",
+    "Maritime Transport Security Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-09-30",
+   "acts": [
+    "Maritime Transport Security Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-28",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Maritime Security Guards and Other Measures) Act 2006",
+    "Maritime Transport and Offshore Facilities Security Amendment (Maritime Security Guards and Other Measures) Act 2006",
+    "Maritime Transport and Offshore Facilities Security Amendment (Maritime Security Guards and Other Measures) Act 2006",
+    "Maritime Transport and Offshore Facilities Security Amendment (Maritime Security Guards and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-11-06",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-27",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Maritime Security Guards and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Repeals and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-02-08",
+   "acts": [
+    "Transport Security Amendment (2008 Measures No. 1) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-30",
+   "acts": [
+    "Transport Security Legislation Amendment (2010 Measures No. 1) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-08-10",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Inter-State Voyages) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-03-28",
+   "acts": [
+    "Transport Security Legislation Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-06-15",
+   "acts": [
+    "Transport Security Amendment (Testing and Training) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-06-23",
+   "acts": [
+    "Transport Security Amendment (Serious Crime) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2024-03-20",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-03-28",
+   "acts": [
+    "Transport Security Amendment (Security of Australia’s Transport Sector) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

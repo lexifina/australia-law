@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00169",
+ "name": "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012",
+ "folder": "australian-charities-and-not-for-profits-commission-consequential-and",
+ "compilations": [
+  {
+   "in_force": "2012-12-03",
+   "register_id": "C2012A00169",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00169',start=2012-12-03,retrospectivestart=2012-12-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00169/2012-12-03/text",
+   "sha256": "5e107ea9b05810ff25a8bdbfddbe0e86e2ca59ed0d22e4e988870d92fe8a9816"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

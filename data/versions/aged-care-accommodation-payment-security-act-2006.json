@@ -1,0 +1,85 @@
+{
+ "title_id": "C2006A00026",
+ "name": "Aged Care (Accommodation Payment Security) Act 2006",
+ "folder": "aged-care-accommodation-payment-security-act-2006",
+ "compilations": [
+  {
+   "in_force": "2020-01-01",
+   "register_id": "C2020C00050",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00026',start=2020-01-01,retrospectivestart=2020-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00026/2020-01-01/text",
+   "sha256": "9f9ae0e59bb15d7b2d9848523d0446dea11d2ee52b1f7a2ab3c18386226fdd03"
+  },
+  {
+   "in_force": "2020-02-18",
+   "register_id": "C2020C00082",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00026',start=2020-02-18,retrospectivestart=2020-02-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00026/2020-02-18/text",
+   "sha256": "e49c26020f3b87211ef812a985c6c6566e625708faf9a0ac08a8c27cfd5200a8"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00601",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00026',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00026/2025-11-01/text",
+   "sha256": "0868c8465346c2fd858cca1b89f1c8d5d8642e9040567ce8d452739d46435cec"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-04-06",
+   "acts": []
+  },
+  {
+   "in_force": "2008-03-20",
+   "acts": [
+    "Aged Care Amendment (2008 Measures No. 1) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Aged Care Amendment (2008 Measures No. 2) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Aged Care (Bond Security) Amendment Act 2013",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-01",
+   "acts": [
+    "Insolvency Law Reform Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

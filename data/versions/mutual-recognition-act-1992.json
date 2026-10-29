@@ -1,0 +1,96 @@
+{
+ "title_id": "C2004A04489",
+ "name": "Mutual Recognition Act 1992",
+ "folder": "mutual-recognition-act-1992",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00575",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04489',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04489/2024-10-14/text",
+   "sha256": "763ac477011576bd567db2063343304324f7b7cdf099d74e98acb5bd5d6f1dbd"
+  },
+  {
+   "in_force": "2025-05-01",
+   "register_id": "C2025C00388",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04489',start=2025-05-01,retrospectivestart=2025-05-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04489/2025-05-01/text",
+   "sha256": "3cbc2a448285f6f7146e3cb1c7b13540db58918be9510b823850c22b0df81e17"
+  },
+  {
+   "in_force": "2026-10-07",
+   "register_id": "C2026C00472",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04489',start=2026-10-07,retrospectivestart=2026-10-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04489/2026-10-07/text",
+   "sha256": "6062193853e70f62143d3907e46d8fface34d0c7c91d2bcf3905c5e48147a608"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-12-21",
+   "acts": []
+  },
+  {
+   "in_force": "1993-06-23",
+   "acts": [
+    "Mutual Recognition Act 1992 (Amendment) Regulations"
+   ]
+  },
+  {
+   "in_force": "2010-03-16",
+   "acts": [
+    "Mutual Recognition Act 1992 Amendment Regulations 2010 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2013-08-09",
+   "acts": [
+    "Mutual Recognition (Amendment of Act—Container Deposit Scheme) Regulation 2013"
+   ]
+  },
+  {
+   "in_force": "2017-11-22",
+   "acts": [
+    "Mutual Recognition Amendment (NSW Container Deposit Scheme) Regulations 2017"
+   ]
+  },
+  {
+   "in_force": "2018-12-07",
+   "acts": [
+    "Mutual Recognition Amendment (ACT Container Deposit Scheme) Regulations 2018"
+   ]
+  },
+  {
+   "in_force": "2020-09-19",
+   "acts": [
+    "Mutual Recognition Amendment (WA Container Deposit Scheme) Regulations 2020"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Mutual Recognition Amendment Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

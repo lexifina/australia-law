@@ -1,0 +1,77 @@
+{
+ "title_id": "C2004A00502",
+ "name": "A New Tax System (Managing the GST Rate and Base) Act 1999",
+ "folder": "a-new-tax-system-managing-the-gst-rate-and-base-act-1999",
+ "compilations": [
+  {
+   "in_force": "2006-06-22",
+   "register_id": "C2006C00370",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00502',start=2006-06-22,retrospectivestart=2006-06-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00502/2006-06-22/text",
+   "sha256": "01b0504fa3fe64eaa863ebaacf55f3cea7bdce47753a07134917482372f41b02"
+  },
+  {
+   "in_force": "2006-07-01",
+   "register_id": "C2006C00406",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00502',start=2006-07-01,retrospectivestart=2006-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00502/2006-07-01/text",
+   "sha256": "89016d162807727f734806e5a7504322d9d24def440ba1bfb02e6141dcd1f88e"
+  },
+  {
+   "in_force": "2006-09-14",
+   "register_id": "C2006C00507",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00502',start=2006-09-14,retrospectivestart=2006-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00502/2006-09-14/text",
+   "sha256": "0befda559f8420504869a695c49b03fc28e164c88e2e4431102bbcfee08968c9"
+  },
+  {
+   "in_force": "2009-07-01",
+   "register_id": "C2009C00250",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00502',start=2009-07-01,retrospectivestart=2009-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00502/2009-07-01/text",
+   "sha256": "d8122978dd3b9fc7370f38aec8fe491410cbb4460a742ae39df9ff11b728ac71"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-09-10",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2004-03-23",
+   "acts": [
+    "A New Tax System (Commonwealth-State Financial Arrangements) Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

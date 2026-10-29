@@ -1,0 +1,30 @@
+{
+ "title_id": "C1933A00008",
+ "name": "Australian Antarctic Territory Acceptance Act 1933",
+ "folder": "australian-antarctic-territory-acceptance-act-1933",
+ "compilations": [
+  {
+   "in_force": "1973-12-31",
+   "register_id": "C2004C00416",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1933A00008',start=1973-12-31,retrospectivestart=1973-12-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1933A00008/1973-12-31/text",
+   "sha256": "a299873260d64b5e15fa042e86b82332bc56188b63792f92a2cbc4aaec5ea64d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1954-11-01",
+   "acts": [
+    "Australian Antarctic Territory Act 1954"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1933-06-13"
+ ],
+ "repeal": null
+}

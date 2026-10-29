@@ -1,0 +1,263 @@
+{
+ "title_id": "C2007A00137",
+ "name": "Water Act 2007",
+ "folder": "water-act-2007",
+ "compilations": [
+  {
+   "in_force": "2026-06-26",
+   "register_id": "C2026C00270",
+   "compilation": "36",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00137',start=2026-06-26,retrospectivestart=2026-06-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00137/2026-06-26/text",
+   "sha256": "84dac6386f1af54cbeabde741149bd01a7798ac670d9042828cfd7f8167a453c"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00302",
+   "compilation": "37",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00137',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00137/2026-07-01/text",
+   "sha256": "c4fdf9a4069e0f6e2f63609ac19c1ff77c2616e83ff6539b78825a557baab4e9"
+  },
+  {
+   "in_force": "2026-09-05",
+   "register_id": "C2026C00398",
+   "compilation": "38",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00137',start=2026-09-05,retrospectivestart=2026-09-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00137/2026-09-05/text",
+   "sha256": "e395634aced2d3cac480250ed7ffe1b7f27bf5552bd251a7496ef6ca79948692"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2007-09-03",
+   "acts": []
+  },
+  {
+   "in_force": "2008-03-03",
+   "acts": [
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-15",
+   "acts": [
+    "Water Amendment Act 2008",
+    "Water Amendment Act 2008",
+    "Water Amendment (Review Implementation and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2009-07-09",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-11-21",
+   "acts": [
+    "Water Amendment (Long-term Average Sustainable Diversion Limit Adjustment) Act 2012",
+    "Australian Capital Territory Water Management Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-02-15",
+   "acts": [
+    "Water Amendment (Water for the Environment Special Account) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-12-18",
+   "acts": [
+    "Australian Capital Territory Water Management Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-17",
+   "acts": [
+    "Water Amendment (Murray-Darling Basin Agreement) Regulation 2014 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-17",
+   "acts": [
+    "National Water Commission (Abolition) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-16",
+   "acts": [
+    "Water Amendment (Murray-Darling Basin Agreement) Regulation 2015 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2016-04-13",
+   "acts": [
+    "Water Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-05-05",
+   "acts": [
+    "Water Amendment (Review Implementation and Other Measures) Act 2016",
+    "Water Amendment (Review Implementation and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-05-23",
+   "acts": [
+    "Water Amendment (Murray-Darling Basin Agreement) Regulations 2017"
+   ]
+  },
+  {
+   "in_force": "2018-06-28",
+   "acts": [
+    "Water Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-07",
+   "acts": [
+    "Water Amendment (Murray-Darling Basin Agreement—Basin Salinity Management) Regulations 2018"
+   ]
+  },
+  {
+   "in_force": "2019-10-03",
+   "acts": [
+    "Water Amendment (Indigenous Authority Member) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Water Amendment (Review Implementation and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2021-08-05",
+   "acts": [
+    "Water Legislation Amendment (Inspector-General of Water Compliance and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-12-08",
+   "acts": [
+    "Water Amendment (Restoring Our Rivers) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-05-31",
+   "acts": [
+    "Financial Framework (Supplementary Powers) Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-07-01",
+   "acts": [
+    "Water Amendment (Restoring Our Rivers) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-07-01",
+   "acts": [
+    "Water Amendment (Restoring Our Rivers) Act 2023",
+    "Water Amendment (Restoring Our Rivers) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2026-06-25",
+   "acts": [
+    "Water Amendment (Murray-Darling Basin Agreement) Regulations 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

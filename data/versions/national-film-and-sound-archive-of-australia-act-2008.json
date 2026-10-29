@@ -1,0 +1,61 @@
+{
+ "title_id": "C2008A00014",
+ "name": "National Film and Sound Archive of Australia Act 2008",
+ "folder": "national-film-and-sound-archive-of-australia-act-2008",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00529",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00014',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00014/2014-07-01/text",
+   "sha256": "70dc3fa220f73fb0c0cf45a7b85b38801d13ac161f1bda97bce1f777c93bc5f7"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00386",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00014',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00014/2016-03-05/text",
+   "sha256": "351c6d0259c2ac455f3168b2a6e4fd00cfff504322157fc89ff94210abca1a70"
+  },
+  {
+   "in_force": "2021-05-01",
+   "register_id": "C2021C00208",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00014',start=2021-05-01,retrospectivestart=2021-05-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00014/2021-05-01/text",
+   "sha256": "156a00db75b5148884e88db269786102b7c7188d6288b440c63e2814528d5a9b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2008-03-20",
+   "acts": []
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Screen Australia (Transfer of Assets) Act 2011",
+    "Screen Australia (Transfer of Assets) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

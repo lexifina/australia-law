@@ -1,0 +1,42 @@
+{
+ "title_id": "C1910A00008",
+ "name": "Surplus Revenue Act 1910",
+ "folder": "surplus-revenue-act-1910",
+ "compilations": [
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00803",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1910A00008',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1910A00008/2012-09-22/text",
+   "sha256": "4093fcb2ad7904748f82ef6ea99e8f124c44d3053392b7c4593a909586eee827"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1927-06-30",
+   "acts": [
+    "States Grants Act 1927"
+   ]
+  },
+  {
+   "in_force": "1934-08-06",
+   "acts": [
+    "Statute Law Revision Act 1934"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1910-09-02"
+ ],
+ "repeal": null
+}

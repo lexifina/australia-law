@@ -1,0 +1,21 @@
+{
+ "title_id": "C2014A00103",
+ "name": "Health Workforce Australia (Abolition) Act 2014",
+ "folder": "health-workforce-australia-abolition-act-2014",
+ "compilations": [
+  {
+   "in_force": "2014-09-24",
+   "register_id": "C2014A00103",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00103',start=2014-09-24,retrospectivestart=2014-09-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00103/2014-09-24/text",
+   "sha256": "09ec0f238e45eee20b8162f9228cd7ea52c445b0ab2ad4cce84c63d001bd84bf"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

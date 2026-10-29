@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00146",
+ "name": "Work Health and Safety (Transitional and Consequential Provisions) Act 2011",
+ "folder": "work-health-and-safety-transitional-and-consequential-provisions-act",
+ "compilations": [
+  {
+   "in_force": "2011-11-29",
+   "register_id": "C2011A00146",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00146',start=2011-11-29,retrospectivestart=2011-11-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00146/2011-11-29/text",
+   "sha256": "1eab8243204c8c1d2d587929bbcca210af8bbe6cba7ff51c8b20e8170b738514"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2019A00046",
+ "name": "Australian Business Securitisation Fund Act 2019",
+ "folder": "australian-business-securitisation-fund-act-2019",
+ "compilations": [
+  {
+   "in_force": "2019-04-05",
+   "register_id": "C2019A00046",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00046',start=2019-04-05,retrospectivestart=2019-04-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00046/2019-04-05/text",
+   "sha256": "2ab74636841e2948e4630ae2fee59c327279e5bc3ef37753fb9c9bc7d1388003"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

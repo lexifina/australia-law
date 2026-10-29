@@ -1,0 +1,118 @@
+{
+ "title_id": "C2004A04717",
+ "name": "Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994",
+ "folder": "agricultural-and-veterinary-chemical-products-collection-of-levy-act",
+ "compilations": [
+  {
+   "in_force": "2014-07-21",
+   "register_id": "C2014C00772",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04717',start=2014-07-21,retrospectivestart=2014-07-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04717/2014-07-21/text",
+   "sha256": "7ca3a00298d171a02739d4782e00413cd79244e682d174363f178b1359eed874"
+  },
+  {
+   "in_force": "2021-12-08",
+   "register_id": "C2021C00584",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04717',start=2021-12-08,retrospectivestart=2021-12-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04717/2021-12-08/text",
+   "sha256": "4d967a2c0d31ccac87d43709ae92b4f44ce3eb562d4abc93d5d87ba51c91ee30"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00447",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04717',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04717/2024-10-14/text",
+   "sha256": "c69b56c8b9bed92acd8d2e6f4007939be50c8cd7ab9fa7454f2e983c33c6efc0"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1994-03-15",
+   "acts": []
+  },
+  {
+   "in_force": "1994-06-29",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-03-15",
+   "acts": [
+    "Agricultural and Veterinary Chemical Products (Collection of Levy) Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-04-12",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-16",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-10-08",
+   "acts": [
+    "Agricultural and Veterinary Chemicals Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-07-30",
+   "acts": [
+    "Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004",
+    "Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004",
+    "Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005",
+    "Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-04-01",
+   "acts": [
+    "Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Agricultural and Veterinary Chemicals Legislation Amendment Act 2013",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

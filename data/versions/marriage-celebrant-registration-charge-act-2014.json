@@ -1,0 +1,21 @@
+{
+ "title_id": "C2014A00024",
+ "name": "Marriage (Celebrant Registration Charge) Act 2014",
+ "folder": "marriage-celebrant-registration-charge-act-2014",
+ "compilations": [
+  {
+   "in_force": "2014-04-09",
+   "register_id": "C2014A00024",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00024',start=2014-04-09,retrospectivestart=2014-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00024/2014-04-09/text",
+   "sha256": "91cca6a0706f347e1a86677fe44b1bd89b56ee451df47cddf27f4c41beafadd2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

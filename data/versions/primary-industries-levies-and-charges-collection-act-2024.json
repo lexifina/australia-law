@@ -1,0 +1,43 @@
+{
+ "title_id": "C2024A00058",
+ "name": "Primary Industries Levies and Charges Collection Act 2024",
+ "folder": "primary-industries-levies-and-charges-collection-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-07-09",
+   "register_id": "C2024A00058",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00058',start=2024-07-09,retrospectivestart=2024-07-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00058/2024-07-09/text",
+   "sha256": "31c71247e5c1263a53a8ef6869e3a01b76ed4a7ee12092affb4c551a259ea4cf"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00158",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00058',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00058/2025-02-21/text",
+   "sha256": "da521d180a80439605eef20797e1bd341206b2cd57cc29704fd52e8fdcaff100"
+  },
+  {
+   "in_force": "2026-09-16",
+   "register_id": "C2026C00402",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00058',start=2026-09-16,retrospectivestart=2026-09-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00058/2026-09-16/text",
+   "sha256": "202f07fbc2c4baf98992c8e508c0dc3d98c5a6275716019e9e54496cbc8467b7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

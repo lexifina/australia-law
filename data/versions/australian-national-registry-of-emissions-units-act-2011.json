@@ -1,0 +1,102 @@
+{
+ "title_id": "C2011A00099",
+ "name": "Australian National Registry of Emissions Units Act 2011",
+ "folder": "australian-national-registry-of-emissions-units-act-2011",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00155",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00099',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00099/2016-03-05/text",
+   "sha256": "a12129c1f921f4fb318533da4682e2d500f5360c2678c9c2d93e2688993476d8"
+  },
+  {
+   "in_force": "2023-04-12",
+   "register_id": "C2023C00093",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00099',start=2023-04-12,retrospectivestart=2023-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00099/2023-04-12/text",
+   "sha256": "f4c471c8b32b24f8e05ca13bbcdb41c2102d5281886bec617dd5d85a66990618"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00517",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00099',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00099/2024-10-14/text",
+   "sha256": "95d1c23163a226381ed23705634c02299c8e7eb47f57004ac1c4426dce68ed8d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-09-15",
+   "acts": []
+  },
+  {
+   "in_force": "2011-12-08",
+   "acts": [
+    "Clean Energy (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-02",
+   "acts": [
+    "Clean Energy (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Clean Energy Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Clean Energy (Consequential Amendments) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-12-14",
+   "acts": [
+    "Clean Energy Amendment (International Emissions Trading and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Clean Energy Legislation (Carbon Tax Repeal) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-13",
+   "acts": [
+    "Carbon Farming Initiative Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

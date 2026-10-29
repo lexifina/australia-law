@@ -1,0 +1,43 @@
+{
+ "title_id": "C2008A00134",
+ "name": "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008",
+ "folder": "same-sex-relationships-equal-treatment-in-commonwealth",
+ "compilations": [
+  {
+   "in_force": "2008-01-01",
+   "register_id": "C2008A00134",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00134',start=2008-01-01,retrospectivestart=2008-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00134/2008-01-01/text",
+   "sha256": "7885e80792f575ed723b779b9a7f508b8dceffd7e4f788c51f4b01a14fc441f0"
+  },
+  {
+   "in_force": "2012-06-29",
+   "register_id": "C2012C00562",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00134',start=2012-06-29,retrospectivestart=2012-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00134/2012-06-29/text",
+   "sha256": "7b6a56bf407ae6ddd271f00f8a857f598e4544fc4d897801bbb409cec23503c4"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00455",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00134',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00134/2015-07-01/text",
+   "sha256": "5b0a42c093fabd39c73cc0e520f9bca0a26248fb7fc67b83f63dfa696518bae5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

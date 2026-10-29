@@ -1,0 +1,78 @@
+{
+ "title_id": "C2016A00087",
+ "name": "Federal Safety Commissioner Act 2022",
+ "folder": "federal-safety-commissioner-act-2022",
+ "compilations": [
+  {
+   "in_force": "2022-12-07",
+   "register_id": "C2022C00340",
+   "compilation": "6",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00087',start=2022-12-07,retrospectivestart=2022-12-07,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00087/2022-12-07/text",
+   "sha256": "36a6a44d8476416f82a02ce54065b74c405ada774f1ec3681145355cc6852385"
+  },
+  {
+   "in_force": "2023-02-06",
+   "register_id": "C2023C00039",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00087',start=2023-02-06,retrospectivestart=2023-02-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00087/2023-02-06/text",
+   "sha256": "1e527bc3dcd9df764648178864f289c561d900c2994ff592314ecf00708bd61a"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00358",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00087',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00087/2023-10-18/text",
+   "sha256": "1d3332a73fcf08dd201344090f0f2bdd6386ca04bbbe53d98d19db3ce2940af0"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2016-12-01",
+   "acts": []
+  },
+  {
+   "in_force": "2016-12-02",
+   "acts": [
+    "Building and Construction Industry (Consequential and Transitional Provisions) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-02-17",
+   "acts": [
+    "Building and Construction Industry (Improving Productivity) Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-08-23",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2017"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

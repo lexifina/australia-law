@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A03790",
+ "name": "House of Representatives (Quorum) Act 1989",
+ "folder": "house-of-representatives-quorum-act-1989",
+ "compilations": [
+  {
+   "in_force": "1989-06-02",
+   "register_id": "C2004A03790",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03790',start=1989-06-02,retrospectivestart=1989-06-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03790/1989-06-02/text",
+   "sha256": "f28199e3f2dfc4b2801427f776ce44a3059384d1ca37475b6a7a6ac6e6ffd19a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

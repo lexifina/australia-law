@@ -1,0 +1,202 @@
+{
+ "title_id": "C2004A03699",
+ "name": "Australian Capital Territory (Self-Government) Act 1988",
+ "folder": "australian-capital-territory-self-government-act-1988",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00802",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03699',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03699/2016-07-01/text",
+   "sha256": "6dfc79de23d7d1b5749c63bceb0f12c24ec2ab5c2ac955a8e751bc0fd6409cc2"
+  },
+  {
+   "in_force": "2022-12-13",
+   "register_id": "C2023C00008",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03699',start=2022-12-13,retrospectivestart=2022-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03699/2022-12-13/text",
+   "sha256": "549b7bceb60eacfbcbcfae000bf587ccb4fdc68a60c359bc58a6b9594404a00a"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00836",
+   "compilation": "26",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03699',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03699/2024-12-11/text",
+   "sha256": "98b06298f509249b1955e1f2f71b7abf0c67636cb7b0c75d18f466fa2405abdb"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-12-06",
+   "acts": []
+  },
+  {
+   "in_force": "1989-05-10",
+   "acts": [
+    "Australian Capital Territory (Self-Government) Regulations 1989"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "Australian Capital Territory (Self-Government) Regulations 1989"
+   ]
+  },
+  {
+   "in_force": "1989-06-19",
+   "acts": [
+    "Arts, Territories and Environment Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Australian Capital Territory (Self-Government) Regulations 1989"
+   ]
+  },
+  {
+   "in_force": "1991-03-21",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-02-15",
+   "acts": [
+    "Australian Capital Territory Self-Government Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-03-06",
+   "acts": [
+    "Australian Capital Territory Self-Government Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "A.C.T. Supreme Court (Transfer) Act 1992",
+    "Territories Law Reform Act 1992",
+    "Australian Capital Territory (Self-Government) Regulations 1989"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Arts, Environment and Territories Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Superannuation Industry (Supervision) Consequential Amendments Act 1993",
+    "Australian Capital Territory Government Service (Consequential Provisions) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-16",
+   "acts": [
+    "Australian Capital Territory Electoral Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1997-03-27",
+   "acts": [
+    "Euthanasia Laws Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-11-30",
+   "acts": [
+    "Education Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-30",
+   "acts": [
+    null,
+    "Gas Pipelines Access (Commonwealth) Act 1998"
+   ]
+  },
+  {
+   "in_force": "2003-02-25",
+   "acts": [
+    "Australian Capital Territory Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2006-02-18",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-04",
+   "acts": [
+    "Territories Self-Government Legislation Amendment (Disallowance and Amendment of Laws) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-03-31",
+   "acts": [
+    "Australian Capital Territory (Self-Government) Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

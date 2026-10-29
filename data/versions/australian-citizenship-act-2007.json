@@ -1,0 +1,214 @@
+{
+ "title_id": "C2007A00020",
+ "name": "Australian Citizenship Act 2007",
+ "folder": "australian-citizenship-act-2007",
+ "compilations": [
+  {
+   "in_force": "2025-12-16",
+   "register_id": "C2025C00683",
+   "compilation": "35",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00020',start=2025-12-16,retrospectivestart=2025-12-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00020/2025-12-16/text",
+   "sha256": "9791989161cb4426da706785649df65d6350eb73df46d389e0df5b7f15221a6b"
+  },
+  {
+   "in_force": "2026-01-22",
+   "register_id": "C2026C00080",
+   "compilation": "36",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00020',start=2026-01-22,retrospectivestart=2026-01-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00020/2026-01-22/text",
+   "sha256": "fd44ffdf98cd472a213e38bbae31c17bab8b57cfaea34378c996becd7a8db434"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00236",
+   "compilation": "37",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00020',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00020/2026-06-04/text",
+   "sha256": "3898b168c9362a51b8327a3d518de44fd1ab29979959a098af19263eb298f228"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2007-03-15",
+   "acts": []
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Family Law Amendment (Shared Parental Responsibility) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-10-01",
+   "acts": [
+    "Australian Citizenship Amendment (Citizenship Testing) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-10-07",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-15",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008",
+    "Migration Legislation Amendment Act (No. 1) 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-09-21",
+   "acts": [
+    "Australian Citizenship Amendment (Citizenship Test Review and Other Measures) Act 2009",
+    "Australian Citizenship Amendment (Citizenship Test Review and Other Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Australian Citizenship Amendment (Defence Families) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-22",
+   "acts": [
+    "Australian Citizenship Amendment (Special Residence Requirements) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-09-25",
+   "acts": [
+    "Migration Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-11-04",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014",
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-02-25",
+   "acts": [
+    "Australian Citizenship Amendment (Intercountry Adoption) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-04-18",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-12-12",
+   "acts": [
+    "Australian Citizenship Amendment (Allegiance to Australia) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-29",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-09-06",
+   "acts": [
+    "Statute Update (Regulations References) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-18",
+   "acts": [
+    "Australian Citizenship Amendment (Citizenship Cessation) Act 2020",
+    "Australian Citizenship Amendment (Citizenship Cessation) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2023-12-08",
+   "acts": [
+    "Australian Citizenship Amendment (Citizenship Repudiation) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-11-08",
+   "acts": [
+    "Criminal Code Amendment (State Sponsors of Terrorism) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-12-02",
+   "acts": [
+    "Home Affairs Legislation Amendment (2025 Measures No. 2) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-12-05",
+   "acts": [
+    "Regulatory Reform Omnibus Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

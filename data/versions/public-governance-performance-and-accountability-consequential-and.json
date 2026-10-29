@@ -1,0 +1,43 @@
+{
+ "title_id": "C2014A00062",
+ "name": "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014",
+ "folder": "public-governance-performance-and-accountability-consequential-and",
+ "compilations": [
+  {
+   "in_force": "2014-06-30",
+   "register_id": "C2014A00062",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00062',start=2014-06-30,retrospectivestart=2014-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00062/2014-06-30/text",
+   "sha256": "2e7621934aef1bf759c54809220a7ade7c59b67c08dcd9b96fa7afa240e6b96a"
+  },
+  {
+   "in_force": "2015-04-14",
+   "register_id": "C2015C00218",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00062',start=2015-04-14,retrospectivestart=2015-04-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00062/2015-04-14/text",
+   "sha256": "965c54942e402e1c9b36f07989ab5c98ce1dc0e45b62b672f09a7964a6c8f183"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00418",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00062',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00062/2016-03-05/text",
+   "sha256": "e5f5aa7ee2798b9cf606dc2ec4cdbaaa6cf1c39e8d995083960c566d9eb6b436"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

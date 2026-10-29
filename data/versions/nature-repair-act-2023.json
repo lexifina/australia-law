@@ -1,0 +1,43 @@
+{
+ "title_id": "C2023A00121",
+ "name": "Nature Repair Act 2023",
+ "folder": "nature-repair-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-12-14",
+   "register_id": "C2023A00121",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00121',start=2023-12-14,retrospectivestart=2023-12-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00121/2023-12-14/text",
+   "sha256": "c968526a73d5285d5aad8906c5d13ac53df33e88853614b6e07c9b3599a286e4"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00514",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00121',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00121/2024-10-14/text",
+   "sha256": "7b2dfdb8798d226b52aab10af47ffb4dd02afd0ee9e328070e858e9abcc7ffb4"
+  },
+  {
+   "in_force": "2026-08-24",
+   "register_id": "C2026C00392",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00121',start=2026-08-24,retrospectivestart=2026-08-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00121/2026-08-24/text",
+   "sha256": "eba26a7ad3d3e11e35c11d6557792baf358bc698ae7a5805a864898c5f8a92cf"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

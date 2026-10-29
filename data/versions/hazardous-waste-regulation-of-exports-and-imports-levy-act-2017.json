@@ -1,0 +1,21 @@
+{
+ "title_id": "C2017A00009",
+ "name": "Hazardous Waste (Regulation of Exports and Imports) Levy Act 2017",
+ "folder": "hazardous-waste-regulation-of-exports-and-imports-levy-act-2017",
+ "compilations": [
+  {
+   "in_force": "2017-02-22",
+   "register_id": "C2017A00009",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00009',start=2017-02-22,retrospectivestart=2017-02-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00009/2017-02-22/text",
+   "sha256": "30eca645bdce148230480348f7753c463aa9c431196952f073441151f6d706b3"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

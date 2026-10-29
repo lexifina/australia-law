@@ -1,0 +1,115 @@
+{
+ "title_id": "C2004A02411",
+ "name": "Protection of the Sea (Powers of Intervention) Act 1981",
+ "folder": "protection-of-the-sea-powers-of-intervention-act-1981",
+ "compilations": [
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00344",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02411',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02411/2013-07-01/text",
+   "sha256": "bc7f0338051229d4b2a985f7ea1e67f1c033761fb1f4a5ed9a795cfdb3573349"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00088",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02411',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02411/2015-12-10/text",
+   "sha256": "a768e3753aeac2df7370daf92d29950f70380b3672d0f485426e5707af628fbd"
+  },
+  {
+   "in_force": "2019-07-01",
+   "register_id": "C2019C00190",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02411',start=2019-07-01,retrospectivestart=2019-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02411/2019-07-01/text",
+   "sha256": "0b1b7e074dc61c6c76d6bd270b2051788ca3c34907a88e0c47aca2288f829590"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1981-04-14",
+   "acts": []
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-01-01",
+   "acts": [
+    "Australian Maritime Safety Authority Act 1990"
+   ]
+  },
+  {
+   "in_force": "1992-06-26",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "International Maritime Conventions Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2006-05-23",
+   "acts": [
+    "Protection of the Sea (Powers of Intervention) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2009-06-16",
+   "acts": [
+    "Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

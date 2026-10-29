@@ -1,0 +1,21 @@
+{
+ "title_id": "C2016A00100",
+ "name": "VET Student Loans (Consequential Amendments and Transitional Provisions) Act 2016",
+ "folder": "vet-student-loans-consequential-amendments-and-transitional-provisions",
+ "compilations": [
+  {
+   "in_force": "2016-12-07",
+   "register_id": "C2016A00100",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00100',start=2016-12-07,retrospectivestart=2016-12-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00100/2016-12-07/text",
+   "sha256": "d56f5c1dc396dd74d8fce552aaf21e941e1d5f21573cbc4c4f0b3819733ed444"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

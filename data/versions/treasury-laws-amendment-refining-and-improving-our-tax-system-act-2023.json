@@ -1,0 +1,21 @@
+{
+ "title_id": "C2023A00040",
+ "name": "Treasury Laws Amendment (Refining and Improving Our Tax System) Act 2023",
+ "folder": "treasury-laws-amendment-refining-and-improving-our-tax-system-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-06-28",
+   "register_id": "C2023A00040",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00040',start=2023-06-28,retrospectivestart=2023-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00040/2023-06-28/text",
+   "sha256": "74c36542e5a7b08afcba420cdcd1e7cd5213144996a5ef19ca3d70314d42daf5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

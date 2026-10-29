@@ -1,0 +1,48 @@
+{
+ "title_id": "C2006A00073",
+ "name": "Fuel Tax (Consequential and Transitional Provisions) Act 2006",
+ "folder": "fuel-tax-consequential-and-transitional-provisions-act-2006",
+ "compilations": [
+  {
+   "in_force": "2009-07-01",
+   "register_id": "C2009C00289",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00073',start=2009-07-01,retrospectivestart=2009-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00073/2009-07-01/text",
+   "sha256": "36deaef7420f36c4a6c09c51b85fc3cdf0fada0421167a43fe4f0d323f039416"
+  },
+  {
+   "in_force": "2012-07-01",
+   "register_id": "C2012C00521",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00073',start=2012-07-01,retrospectivestart=2012-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00073/2012-07-01/text",
+   "sha256": "b4b1793d23691f27517440f86c7dc23789b81cfcb11251ab4511e9000088e5c8"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00464",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00073',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00073/2014-07-01/text",
+   "sha256": "c9ed82a2a9a8617d8c3d7105a8d22e8313658898388a587b60c7d28f41ba8456"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2000-06-19",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,144 @@
+{
+ "title_id": "C2004A03412",
+ "name": "Australian Nuclear Science and Technology Organisation Act 1987",
+ "folder": "australian-nuclear-science-and-technology-organisation-act-1987",
+ "compilations": [
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00400",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03412',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03412/2015-07-01/text",
+   "sha256": "dfb6a5c0d9f97863b3e5de506c62764cce70fb76ee442168897c9b4da379f37b"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00493",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03412',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03412/2016-03-10/text",
+   "sha256": "e092974c7b790bd00cb5faace4ebec5738a8afbdd1596094797e8c3a61560a36"
+  },
+  {
+   "in_force": "2017-09-19",
+   "register_id": "C2017C00304",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03412',start=2017-09-19,retrospectivestart=2017-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03412/2017-09-19/text",
+   "sha256": "df08b068bd50215b56545434a38f56499ef56da9e63d336e302b1e13c795ddd1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-03-13",
+   "acts": []
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Australian Nuclear Science and Technology Organisation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-12-24",
+   "acts": [
+    "Australian Radiation Protection and Nuclear Safety (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-11-10",
+   "acts": [
+    "Research Agencies Legislation Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-12-06",
+   "acts": [
+    "Australian Nuclear Science and Technology Organisation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-09-10",
+   "acts": [
+    "Governance Review Implementation (Science Research Agencies) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

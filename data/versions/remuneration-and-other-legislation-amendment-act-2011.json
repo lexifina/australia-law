@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00075",
+ "name": "Remuneration and Other Legislation Amendment Act 2011",
+ "folder": "remuneration-and-other-legislation-amendment-act-2011",
+ "compilations": [
+  {
+   "in_force": "2011-07-25",
+   "register_id": "C2011A00075",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00075',start=2011-07-25,retrospectivestart=2011-07-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00075/2011-07-25/text",
+   "sha256": "7879efdeb83b1f73d28c0f122353ee2463350d926d48aee58d63f1e0662fa07a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

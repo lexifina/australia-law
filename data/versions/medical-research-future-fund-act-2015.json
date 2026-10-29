@@ -1,0 +1,84 @@
+{
+ "title_id": "C2015A00116",
+ "name": "Medical Research Future Fund Act 2015",
+ "folder": "medical-research-future-fund-act-2015",
+ "compilations": [
+  {
+   "in_force": "2023-03-01",
+   "register_id": "C2023C00052",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00116',start=2023-03-01,retrospectivestart=2023-03-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00116/2023-03-01/text",
+   "sha256": "23991390f19ad153bb9fd6a1b22668afa86b3463f13c45229646b57be9083f12"
+  },
+  {
+   "in_force": "2023-11-01",
+   "register_id": "C2023C00439",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00116',start=2023-11-01,retrospectivestart=2023-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00116/2023-11-01/text",
+   "sha256": "3e0fe8106b1c5f3e8e97203cde3df0fecea26f38f37e639c75a403695d0f2ede"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00314",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00116',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00116/2024-07-06/text",
+   "sha256": "b1d12c8990279674bbcbe248d8dd89118bbb162d18313d55681051c3e90a8668"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2015-08-26",
+   "acts": []
+  },
+  {
+   "in_force": "2015-10-29",
+   "acts": [
+    "Medical Research Future Fund (Consequential Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Medical Research Future Fund (Consequential Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-12-01",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Land and Sea Future Fund (Consequential Amendments) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-02-01",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Land and Sea Future Fund (Consequential Amendments) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-09-01",
+   "acts": [
+    "Future Drought Fund (Consequential Amendments) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-12",
+   "acts": [
+    "Emergency Response Fund (Consequential Amendments) Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2024A00098",
+ "name": "Cyber Security Act 2024",
+ "folder": "cyber-security-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-11-29",
+   "register_id": "C2024A00098",
+   "compilation": "0",
+   "rectification": 2,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00098',start=2024-11-29,retrospectivestart=2024-11-29,rectificationversionnumber=2,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00098/2024-11-29/text",
+   "sha256": "e518f1ce47ba47ac8be8bf4d3bfff459a7d975d71d3c334eb28bef8dbd9cc386"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

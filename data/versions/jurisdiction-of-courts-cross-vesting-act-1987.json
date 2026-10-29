@@ -1,0 +1,175 @@
+{
+ "title_id": "C2004A03433",
+ "name": "Jurisdiction of Courts (Cross-vesting) Act 1987",
+ "folder": "jurisdiction-of-courts-cross-vesting-act-1987",
+ "compilations": [
+  {
+   "in_force": "2016-12-02",
+   "register_id": "C2016C01125",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03433',start=2016-12-02,retrospectivestart=2016-12-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03433/2016-12-02/text",
+   "sha256": "6c1eeeec0bd409cc397498dff7f5fd93a70cdd4b8567fa0ca2becf2b90a8dc0f"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00384",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03433',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03433/2021-09-01/text",
+   "sha256": "2786164a333da278e250dcde5acba3c68f8fa07af6ae46fdce57e99c3d3484b8"
+  },
+  {
+   "in_force": "2023-02-06",
+   "register_id": "C2023C00038",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03433',start=2023-02-06,retrospectivestart=2023-02-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03433/2023-02-06/text",
+   "sha256": "ba09d26ac10baa290169dcb2d6610fb68be01cff50a82bbf74fd6ae6fd7486be"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-05-26",
+   "acts": []
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Trade Practices (Misuse of Trans-Tasman Market Power) Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-30",
+   "acts": [
+    "Patents Act 1990"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-21",
+   "acts": [
+    "Trade Practices Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-01",
+   "acts": [
+    "Native Title Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-03-30",
+   "acts": [
+    "Industrial Relations Reform Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-08-17",
+   "acts": [
+    "Competition Policy Reform Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-12",
+   "acts": [
+    "Family Law Reform (Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-01-17",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-04-17",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Jurisdiction of Courts Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-12",
+   "acts": [
+    "National Crime Authority Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-06-17",
+   "acts": [
+    "Designs (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-09-12",
+   "acts": [
+    "Building and Construction Industry Improvement (Consequential and Transitional) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-03-01",
+   "acts": [
+    "Petroleum Retail Legislation Repeal Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-06-26",
+   "acts": [
+    "Dental Benefits (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2012-06-01",
+   "acts": [
+    "Building and Construction Industry Improvement Amendment (Transition to Fair Work) Regulation 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

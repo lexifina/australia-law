@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A03291",
+ "name": "Income Tax (Securities and Agreements) (Withholding Tax Recoupment) Act 1986",
+ "folder": "income-tax-securities-and-agreements-withholding-tax-recoupment-act-1986",
+ "compilations": [
+  {
+   "in_force": "1986-06-24",
+   "register_id": "C2004A03291",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03291',start=1986-06-24,retrospectivestart=1986-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03291/1986-06-24/text",
+   "sha256": "66f7a6f2dcf7a13caf446c5de50153e3b53f104968cc779d1c601d59c2a86edd"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,169 @@
+{
+ "title_id": "C2004A03252",
+ "name": "Protection of Movable Cultural Heritage Act 1986",
+ "folder": "protection-of-movable-cultural-heritage-act-1986",
+ "compilations": [
+  {
+   "in_force": "2023-08-22",
+   "register_id": "C2023C00221",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03252',start=2023-08-22,retrospectivestart=2023-08-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03252/2023-08-22/text",
+   "sha256": "9a5742fb8f359d5a042ae66fc89ae5da48a938b5f3c4d7ad16c51be436d4342b"
+  },
+  {
+   "in_force": "2024-03-20",
+   "register_id": "C2024C00100",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03252',start=2024-03-20,retrospectivestart=2024-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03252/2024-03-20/text",
+   "sha256": "3f19a90ee214c305e9e948350a73e672047e7824016f47e61bf6063cfea53bdf"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00629",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03252',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03252/2024-10-14/text",
+   "sha256": "ba19724561721f118f408e3d35d7e6d839c28b4ef6096e7d87001acdbe8018c9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1986-05-13",
+   "acts": []
+  },
+  {
+   "in_force": "1989-01-01",
+   "acts": [
+    "Postal Services Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-11-20",
+   "acts": [
+    "Arts, Environment, Tourism and Territories Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-05-07",
+   "acts": [
+    "Arts, Sport, Environment and Territories Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-07-16",
+   "acts": [
+    "Protection of Movable Cultural Heritage Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000",
+    "Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-08-18",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

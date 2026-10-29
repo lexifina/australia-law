@@ -1,0 +1,198 @@
+{
+ "title_id": "C2004A04512",
+ "name": "Imported Food Control Act 1992",
+ "folder": "imported-food-control-act-1992",
+ "compilations": [
+  {
+   "in_force": "2021-03-02",
+   "register_id": "C2021C00157",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04512',start=2021-03-02,retrospectivestart=2021-03-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04512/2021-03-02/text",
+   "sha256": "787a85133a011b3bf817afb031639ceed4f3c664168f46ca541e78a6eba666e9"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00497",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04512',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04512/2021-09-01/text",
+   "sha256": "fea7ee7e8b7171a1361c541edcc359c7f79249ea53915b6cd26eb52a32d7b247"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00526",
+   "compilation": "29",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04512',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04512/2024-10-14/text",
+   "sha256": "e812c08236ded4814cb0177eba5030df17522a4e3a91396d6b71456111fa4c70"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-12-24",
+   "acts": []
+  },
+  {
+   "in_force": "1996-07-01",
+   "acts": [
+    "National Food Authority Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-11-20",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 2) 1996"
+   ]
+  },
+  {
+   "in_force": "1997-10-22",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 2) 1997"
+   ]
+  },
+  {
+   "in_force": "1999-03-31",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-16",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Australia New Zealand Food Authority Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-04-28",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2004"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-25",
+   "acts": [
+    "Export Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Imported Food Control Amendment (Country of Origin) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-09-22",
+   "acts": [
+    "Imported Food Control Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-10-19",
+   "acts": [
+    "Imported Food Control Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-09-21",
+   "acts": [
+    "Imported Food Control Amendment Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

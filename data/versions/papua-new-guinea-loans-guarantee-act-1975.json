@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A01409",
+ "name": "Papua New Guinea Loans Guarantee Act 1975",
+ "folder": "papua-new-guinea-loans-guarantee-act-1975",
+ "compilations": [
+  {
+   "in_force": "1975-09-09",
+   "register_id": "C2004A01409",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01409',start=1975-09-09,retrospectivestart=1975-09-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01409/1975-09-09/text",
+   "sha256": "09ca6a7f77baa525f9551df90780e091474d1d2f50f5d1eccd61391a8b5f9443"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

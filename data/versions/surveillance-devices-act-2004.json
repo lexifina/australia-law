@@ -1,0 +1,353 @@
+{
+ "title_id": "C2004A01387",
+ "name": "Surveillance Devices Act 2004",
+ "folder": "surveillance-devices-act-2004",
+ "compilations": [
+  {
+   "in_force": "2026-01-22",
+   "register_id": "C2026C00074",
+   "compilation": "60",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01387',start=2026-01-22,retrospectivestart=2026-01-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01387/2026-01-22/text",
+   "sha256": "5f513633c0107f9f5fe45508a64cc229aeceb0681de55b408088c7dc9a5ab6ca"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00217",
+   "compilation": "61",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01387',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01387/2026-06-04/text",
+   "sha256": "d49d2bd0f8e752ddda56e7f873832377bc25b7ebc54823f4dc12ad7e3f0915bf"
+  },
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00371",
+   "compilation": "62",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01387',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01387/2026-08-27/text",
+   "sha256": "5e5a4c99de51e40057ee045f0017d37c096cd6832e7b3ddd417b9ce26145e5f3"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2004-12-15",
+   "acts": []
+  },
+  {
+   "in_force": "2005-11-16",
+   "acts": [
+    "Law and Justice Legislation Amendment (Video Link Evidence and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-06",
+   "acts": [
+    "Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-01-11",
+   "acts": [
+    "Anti-Terrorism Act (No. 2) 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-13",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-13",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-30",
+   "acts": [
+    "Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-04-13",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-26",
+   "acts": [
+    "Fisheries Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-08-25",
+   "acts": [
+    "Law and Justice Legislation Amendment (Marking of Plastic Explosives) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-10-04",
+   "acts": [
+    "Telecommunications Interception Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Telecommunications Interception Legislation Amendment Act (No. 1) 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-15",
+   "acts": [
+    "Crimes Legislation Amendment (Sexual Offences Against Children) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-01",
+   "acts": [
+    "Anti-People Smuggling and Other Measures Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-05",
+   "acts": [
+    "Crimes Legislation Amendment (Powers and Offences) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-20",
+   "acts": [
+    "Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012",
+    "Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-13",
+   "acts": [
+    "Law Enforcement Integrity Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-30",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-06",
+   "acts": [
+    "Crimes Legislation Amendment (Psychoactive Substances and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015",
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-11-30",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-12-01",
+   "acts": [
+    "Law Enforcement Legislation Amendment (State Bodies and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-06-07",
+   "acts": [
+    "Criminal Code Amendment (High Risk Terrorist Offenders) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Law Enforcement Legislation Amendment (State Bodies and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-22",
+   "acts": [
+    "Investigation and Prosecution Measures Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-09",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment (Assistance and Access) Act 2018",
+    "Telecommunications and Other Legislation Amendment (Assistance and Access) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-09-21",
+   "acts": [
+    "Combatting Child Sexual Exploitation Legislation Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-07-24",
+   "acts": [
+    "Telecommunications Legislation Amendment (International Production Orders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-04",
+   "acts": [
+    "Surveillance Legislation Amendment (Identify and Disrupt) Act 2021",
+    "Surveillance Legislation Amendment (Identify and Disrupt) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-09",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (High Risk Terrorist Offenders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-06-17",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing and Other Legislation Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-09-14",
+   "acts": [
+    "Crimes and Other Legislation Amendment (Omnibus) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-09-21",
+   "acts": [
+    "Inspector-General of Intelligence and Security and Other Legislation Amendment (Modernisation) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-12-08",
+   "acts": [
+    "Migration and Other Legislation Amendment (Bridging Visas, Serious Offenders and Other Measures) Act 2023",
+    "Australian Citizenship Amendment (Citizenship Repudiation) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-01-07",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-11-05",
+   "acts": [
+    "Telecommunications and Other Legislation Amendment Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-11-08",
+   "acts": [
+    "Criminal Code Amendment (State Sponsors of Terrorism) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

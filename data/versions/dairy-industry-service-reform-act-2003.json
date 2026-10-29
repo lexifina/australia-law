@@ -1,0 +1,48 @@
+{
+ "title_id": "C2004A01117",
+ "name": "Dairy Industry Service Reform Act 2003",
+ "folder": "dairy-industry-service-reform-act-2003",
+ "compilations": [
+  {
+   "in_force": "2006-03-27",
+   "register_id": "C2006C00107",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01117',start=2006-03-27,retrospectivestart=2006-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01117/2006-03-27/text",
+   "sha256": "31ed184b978b6e4592d0f800e5a3690f72d673472b4c4c6653a10b80f137a05e"
+  },
+  {
+   "in_force": "2009-07-01",
+   "register_id": "C2009C00317",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01117',start=2009-07-01,retrospectivestart=2009-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01117/2009-07-01/text",
+   "sha256": "bbb8729b44f5686c0e530d5fb9167592eb47cca24e0d913629e3e6dcdff9e028"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00434",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01117',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01117/2026-09-19/text",
+   "sha256": "480ea0ac0348092da63c7e1c2096724d990ee4b53eee3f05cace650ab4750bb2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-04-15",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2005A00002",
+ "name": "A New Tax System (Goods and Services Tax Imposition (Recipients)—Excise) Act 2005",
+ "folder": "a-new-tax-system-goods-and-services-tax-imposition-recipients-excise",
+ "compilations": [
+  {
+   "in_force": "2005-02-18",
+   "register_id": "C2005A00002",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00002',start=2005-02-18,retrospectivestart=2005-02-18,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00002/2005-02-18/text",
+   "sha256": "482c7717e6c9ba0ce04dfd0d56fd4f12de80ab7ca1ba625e9110215bc0c26a8b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

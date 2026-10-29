@@ -1,0 +1,55 @@
+{
+ "title_id": "C2013A00123",
+ "name": "Public Governance, Performance and Accountability Act 2013",
+ "folder": "public-governance-performance-and-accountability-act-2013",
+ "compilations": [
+  {
+   "in_force": "2015-04-14",
+   "register_id": "C2015C00187",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00123',start=2015-04-14,retrospectivestart=2015-04-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00123/2015-04-14/text",
+   "sha256": "2c52e9a0baf000b7ac22c9bda23d7522379b8e8cf795c09f897f77e1089e1e2d"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00414",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00123',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00123/2016-03-05/text",
+   "sha256": "c6d17637ed0b07d0c14f9a144cb4283c032343d2d666f7b2a1ae2e5a0dd27326"
+  },
+  {
+   "in_force": "2017-08-23",
+   "register_id": "C2017C00269",
+   "compilation": "4",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00123',start=2017-08-23,retrospectivestart=2017-08-23,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00123/2017-08-23/text",
+   "sha256": "fed820c6f98fbc67de95dc752e051750fcd22b0d210f2fa1db56d1915dcd33e4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2013-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability Amendment Act 2014",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

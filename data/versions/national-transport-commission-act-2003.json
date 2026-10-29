@@ -1,0 +1,61 @@
+{
+ "title_id": "C2004A01166",
+ "name": "National Transport Commission Act 2003",
+ "folder": "national-transport-commission-act-2003",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00606",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01166',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01166/2014-07-01/text",
+   "sha256": "d719e3a46ce346a3e7fe6e8e721578ebc649d6584c01b544a535b32b4920b9c9"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00400",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01166',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01166/2016-03-05/text",
+   "sha256": "7e859f832259c05664e971cfce50ca641d6fb202f5d8ac57b67e694fd9d83efe"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00279",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01166',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01166/2024-07-06/text",
+   "sha256": "ab0f53f6223d0b5b719b74883864b60e1bd20214eb746df579f025888d48bba4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-09-06",
+   "acts": []
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2010",
+    "Financial Framework Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

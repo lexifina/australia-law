@@ -1,0 +1,72 @@
+{
+ "title_id": "C2018A00065",
+ "name": "Housing Australia Act 2018",
+ "folder": "housing-australia-act-2018",
+ "compilations": [
+  {
+   "in_force": "2023-10-12",
+   "register_id": "C2023C00341",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00065',start=2023-10-12,retrospectivestart=2023-10-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00065/2023-10-12/text",
+   "sha256": "caa0f0863a269dd99dd07d29e408d018627c0e2de5e5204c55f41389747258c2"
+  },
+  {
+   "in_force": "2023-11-01",
+   "register_id": "C2023C00437",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00065',start=2023-11-01,retrospectivestart=2023-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00065/2023-11-01/text",
+   "sha256": "88473c0ca49e7878a29f05527e63305e10ef4a906c2bc9a334f58ca4fc123ce5"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00857",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2018A00065',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2018A00065/2024-12-11/text",
+   "sha256": "033ac212612da5d0969847b886658c2417c0c0d80ef90883a7353bdf848cbee7"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2018-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "2018-11-30",
+   "acts": [
+    "National Housing Finance and Investment Corporation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-10-19",
+   "acts": [
+    "National Housing Finance and Investment Corporation Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 3) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Treasury Laws Amendment (2023 Measures No. 2) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

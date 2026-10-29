@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00047",
+ "name": "Road Safety Remuneration (Consequential Amendments and Related Provisions) Act 2012",
+ "folder": "road-safety-remuneration-consequential-amendments-and-related",
+ "compilations": [
+  {
+   "in_force": "2012-04-16",
+   "register_id": "C2012A00047",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00047',start=2012-04-16,retrospectivestart=2012-04-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00047/2012-04-16/text",
+   "sha256": "8ff97c4e9f6c282e8b8deb50243c100f1b8d73017ea2ee948276772059cb5ec8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

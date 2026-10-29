@@ -1,0 +1,90 @@
+{
+ "title_id": "C2020A00012",
+ "name": "Export Control Act 2020",
+ "folder": "export-control-act-2020",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00658",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00012',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00012/2024-10-14/text",
+   "sha256": "91d746f5b26fd3872a27f7e1007e90853748e0cc7f490e736f048006eefc34c0"
+  },
+  {
+   "in_force": "2025-01-01",
+   "register_id": "C2025C00022",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00012',start=2025-01-01,retrospectivestart=2025-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00012/2025-01-01/text",
+   "sha256": "bb7c318eea061e04cf0fc77d6c4762251ad75f40122486da336892c939c90d8c"
+  },
+  {
+   "in_force": "2026-05-21",
+   "register_id": "C2026C00221",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00012',start=2026-05-21,retrospectivestart=2026-05-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00012/2026-05-21/text",
+   "sha256": "f3d8db49b3b38697e6590648c512aa3b4684a773935f37f9e3ad1b456b205853"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2020-03-06",
+   "acts": []
+  },
+  {
+   "in_force": "2020-06-23",
+   "acts": [
+    "Export Control Legislation Amendment (Certification of Narcotic Exports) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-02",
+   "acts": [
+    "Export Control Amendment (Miscellaneous Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-08",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 5) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-09-14",
+   "acts": [
+    "Export Control Amendment (Streamlining Administrative Processes) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-02-01",
+   "acts": [
+    "Export Control Amendment (Streamlining Administrative Processes) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-07-10",
+   "acts": [
+    "Export Control Amendment (Ending Live Sheep Exports by Sea) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

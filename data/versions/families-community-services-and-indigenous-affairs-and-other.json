@@ -1,0 +1,21 @@
+{
+ "title_id": "C2006A00082",
+ "name": "Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006",
+ "folder": "families-community-services-and-indigenous-affairs-and-other",
+ "compilations": [
+  {
+   "in_force": "2002-07-01",
+   "register_id": "C2006A00082",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00082',start=2002-07-01,retrospectivestart=2002-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00082/2002-07-01/text",
+   "sha256": "fc40deb7ece9cb776cf27b9166e5cb67663008966aba62a35deeed81f24d618a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

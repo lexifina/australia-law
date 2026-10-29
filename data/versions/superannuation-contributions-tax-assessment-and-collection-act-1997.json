@@ -1,0 +1,183 @@
+{
+ "title_id": "C2004A05168",
+ "name": "Superannuation Contributions Tax (Assessment and Collection) Act 1997",
+ "folder": "superannuation-contributions-tax-assessment-and-collection-act-1997",
+ "compilations": [
+  {
+   "in_force": "2018-03-06",
+   "register_id": "C2018C00080",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05168',start=2018-03-06,retrospectivestart=2018-03-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05168/2018-03-06/text",
+   "sha256": "6811e6d6506d814f5070247f98ac2198f715a9acb7f67e36eb9d37a186c98faf"
+  },
+  {
+   "in_force": "2022-09-28",
+   "register_id": "C2022C00283",
+   "compilation": "27",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05168',start=2022-09-28,retrospectivestart=2022-09-28,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05168/2022-09-28/text",
+   "sha256": "0b4efe8d4aa6c7c8fa15c42c81f590c81730bcef3fcf4298577d154c1eb71ba2"
+  },
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00409",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05168',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05168/2023-10-20/text",
+   "sha256": "8b529f308176b64943fa10bc69b6ee829dbd64b312a2f71ecc2ac7504e4f8d51"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-06-05",
+   "acts": []
+  },
+  {
+   "in_force": "1997-12-07",
+   "acts": [
+    "Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-04-16",
+   "acts": [
+    "Taxation Laws Amendment (Trust Loss and Other Deductions) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-04-19",
+   "acts": [
+    "A New Tax System (Fringe Benefits Reporting) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1999",
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-08",
+   "acts": [
+    "A New Tax System (Closely Held Trusts) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "A New Tax System (Tax Administration) Act 1999",
+    "A New Tax System (Tax Administration) Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Tax Administration) Act (No. 2) 2000",
+    "Taxation Laws Amendment Act (No. 1) 2004"
+   ]
+  },
+  {
+   "in_force": "2002-12-28",
+   "acts": [
+    "Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-11-12",
+   "acts": [
+    "Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-12-17",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 2003"
+   ]
+  },
+  {
+   "in_force": "2005-08-12",
+   "acts": [
+    "Superannuation Laws Amendment (Abolition of Surcharge) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-22",
+   "acts": [
+    "Tax Laws Amendment (2006 Measures No. 2) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-06-27",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 2) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Treasury Legislation Amendment (Repeal Day) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

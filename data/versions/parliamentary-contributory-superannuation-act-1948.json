@@ -1,0 +1,412 @@
+{
+ "title_id": "C1948A00089",
+ "name": "Parliamentary Contributory Superannuation Act 1948",
+ "folder": "parliamentary-contributory-superannuation-act-1948",
+ "compilations": [
+  {
+   "in_force": "2024-07-01",
+   "register_id": "C2024C00255",
+   "compilation": "44",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1948A00089',start=2024-07-01,retrospectivestart=2024-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1948A00089/2024-07-01/text",
+   "sha256": "55e98550b9545b13f84b32b067b0363f9d3a91625c4f3af0131f8bbc1790e69f"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00651",
+   "compilation": "45",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1948A00089',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1948A00089/2024-10-14/text",
+   "sha256": "49c0fd9d94584c5399747efcc10617bb6b69f53a4ab2f2fde539ac52647a78ec"
+  },
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026C00128",
+   "compilation": "46",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1948A00089',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1948A00089/2026-04-01/text",
+   "sha256": "61d848328cb5d3379b639ae204b1f861d00a240e6f7903830c0032d78a3f5706"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00237",
+   "compilation": "47",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1948A00089',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1948A00089/2026-07-01/text",
+   "sha256": "01a322e16fa157f59b56cdd8ee615a830363c2813b29e59b2020a1115641dbfc"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1948-12-01",
+   "acts": []
+  },
+  {
+   "in_force": "1952-01-01",
+   "acts": [
+    "Parliamentary Retiring Allowances Act 1952"
+   ]
+  },
+  {
+   "in_force": "1955-06-16",
+   "acts": [
+    "Parliamentary Retiring Allowances Act 1955"
+   ]
+  },
+  {
+   "in_force": "1959-03-01",
+   "acts": [
+    "Parliamentary Retiring Allowances Act 1959"
+   ]
+  },
+  {
+   "in_force": "1964-11-01",
+   "acts": [
+    "Parliamentary Retiring Allowances Act 1964",
+    "Parliamentary Retiring Allowances Act 1965"
+   ]
+  },
+  {
+   "in_force": "1965-06-02",
+   "acts": [
+    "Parliamentary Retiring Allowances Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-10-29",
+   "acts": [
+    "Parliamentary Retiring Allowances Act 1966"
+   ]
+  },
+  {
+   "in_force": "1968-12-01",
+   "acts": [
+    "Parliamentary Retiring Allowances Act 1968"
+   ]
+  },
+  {
+   "in_force": "1973-06-08",
+   "acts": [
+    "Parliamentary and Judicial Retiring Allowances Act 1973"
+   ]
+  },
+  {
+   "in_force": "1978-06-12",
+   "acts": [
+    "Parliamentary Contributory Superannuation Amendment Act 1978",
+    "Parliamentary Contributory Superannuation Amendment Act 1978",
+    "Administrative Changes (Consequential Provisions) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-11-19",
+   "acts": [
+    "Parliamentary Contributory Superannuation Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1980-07-01",
+   "acts": [
+    "Parliamentary Contributory Superannuation Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-04-21",
+   "acts": [
+    "Parliamentary Contributory Superannuation Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Parliamentary Contributory Superannuation Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1983-11-03",
+   "acts": [
+    "Parliamentary Contributory Superannuation Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1984-03-31",
+   "acts": [
+    "Parliamentary Contributory Superannuation Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992",
+    "Superannuation Laws Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1993-06-25",
+   "acts": [
+    "Commonwealth Superannuation Schemes Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Superannuation Laws Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-03-29",
+   "acts": [
+    "Parliamentary Contributory Superannuation Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Life Insurance (Consequential Amendments and Repeals) Act 1995",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-03-02",
+   "acts": [
+    "Parliamentary Contributory Superannuation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-02",
+   "acts": [
+    "Retirement Savings Accounts (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-07",
+   "acts": [
+    "Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-18",
+   "acts": [
+    "Parliamentary Contributory Superannuation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-08-22",
+   "acts": [
+    "Superannuation Legislation Amendment (Post-retirement Commutations) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-15",
+   "acts": [
+    "Finance and Administration Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Superannuation (Surcharge Rate Reduction) Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-05-04",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2004-05-18",
+   "acts": [
+    "Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-26",
+   "acts": [
+    "Parliamentary Superannuation and Other Entitlements Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-06-30",
+   "acts": [
+    "Superannuation Budget Measures Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-08-12",
+   "acts": [
+    "Superannuation Laws Amendment (Abolition of Surcharge) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-08-05",
+   "acts": [
+    "Remuneration and Other Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-06",
+   "acts": [
+    "Members of Parliament (Life Gold Pass) and Other Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (Increased Concessional Contributions Cap and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2017-12-09",
+   "acts": [
+    "Marriage Amendment (Definition and Religious Freedoms) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Parliamentary Business Resources (Consequential and Transitional Provisions) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Public Sector Superannuation Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Public Sector Superannuation Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2022-09-28",
+   "acts": [
+    "Family Law Amendment (Western Australia De Facto Superannuation Splitting and Bankruptcy) Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

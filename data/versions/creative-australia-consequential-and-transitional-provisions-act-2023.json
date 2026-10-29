@@ -1,0 +1,21 @@
+{
+ "title_id": "C2023A00025",
+ "name": "Creative Australia (Consequential and Transitional Provisions) Act 2023",
+ "folder": "creative-australia-consequential-and-transitional-provisions-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-06-23",
+   "register_id": "C2023A00025",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00025',start=2023-06-23,retrospectivestart=2023-06-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00025/2023-06-23/text",
+   "sha256": "d98bac5f1b656470e552532f64319587391f8a832413229488d18f6c5fcda27c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

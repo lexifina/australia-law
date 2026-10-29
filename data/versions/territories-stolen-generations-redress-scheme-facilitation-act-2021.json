@@ -1,0 +1,21 @@
+{
+ "title_id": "C2021A00126",
+ "name": "Territories Stolen Generations Redress Scheme (Facilitation) Act 2021",
+ "folder": "territories-stolen-generations-redress-scheme-facilitation-act-2021",
+ "compilations": [
+  {
+   "in_force": "2021-12-07",
+   "register_id": "C2021A00126",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2021A00126',start=2021-12-07,retrospectivestart=2021-12-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2021A00126/2021-12-07/text",
+   "sha256": "f9327bbdd9a3da9d0cfe6d49e6977a8f2b3f22079292f3174ae0a998950c4405"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

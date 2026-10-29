@@ -1,0 +1,79 @@
+{
+ "title_id": "C2004A02854",
+ "name": "Radiocommunications (Transmitter Licence Tax) Act 1983",
+ "folder": "radiocommunications-transmitter-licence-tax-act-1983",
+ "compilations": [
+  {
+   "in_force": "2013-06-29",
+   "register_id": "C2013C00542",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02854',start=2013-06-29,retrospectivestart=2013-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02854/2013-06-29/text",
+   "sha256": "6cd7dfa7b3ea8a62991a30453019c861baa5bb6d77082eec8af5dd560fd27b96"
+  },
+  {
+   "in_force": "2017-07-01",
+   "register_id": "C2017C00347",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02854',start=2017-07-01,retrospectivestart=2017-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02854/2017-07-01/text",
+   "sha256": "e1cbdf73315672eaf4ab6d5037ce617dadd9dca7eba0cb980a492db3118a7418"
+  },
+  {
+   "in_force": "2021-06-17",
+   "register_id": "C2021C00245",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02854',start=2021-06-17,retrospectivestart=2021-06-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02854/2021-06-17/text",
+   "sha256": "9f917ed7b74c7114ec06094291f0e44822e2add8bca2a42ed7ae178e2554f6e9"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1983-12-22",
+   "acts": []
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Radiocommunications (Transmitter Licence Tax) Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-03-29",
+   "acts": [
+    "Radiocommunications (Transmitter Licence Tax) Amendment Act 1995",
+    "Radiocommunications (Transmitter Licence Tax) Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Radiocommunications (Transmitter Licence Tax) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2000-05-31",
+   "acts": [
+    "Radiocommunications (Transmitter Licence Tax) Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Radiocommunications (Transmitter Licence Tax) Amendment Act 2005"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

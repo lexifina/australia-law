@@ -1,0 +1,32 @@
+{
+ "title_id": "C2019A00096",
+ "name": "Australian Veterans’ Recognition (Putting Veterans and Their Families First) Act 2019",
+ "folder": "australian-veterans-recognition-putting-veterans-and-their-families",
+ "compilations": [
+  {
+   "in_force": "2019-10-30",
+   "register_id": "C2019A00096",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00096',start=2019-10-30,retrospectivestart=2019-10-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00096/2019-10-30/text",
+   "sha256": "f6d94319ab57880b80fed78315a757822ffbb34a39fbfa7d25c4649a722532b9"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00253",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00096',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00096/2026-07-01/text",
+   "sha256": "3d76869bf2363eaae0fc2249857707265a8216cce2b30d80cffa4ef6ab8093df"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

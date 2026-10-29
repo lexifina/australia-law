@@ -1,0 +1,48 @@
+{
+ "title_id": "C2012A00045",
+ "name": "Telecommunications (Industry Levy) Act 2012",
+ "folder": "telecommunications-industry-levy-act-2012",
+ "compilations": [
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00465",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00045',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00045/2015-07-01/text",
+   "sha256": "7c2ca55541f5fb547eb4f67f272d887a3d6892405e61e4fec58cdb9e1f89d298"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00885",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00045',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00045/2016-07-01/text",
+   "sha256": "ce147f17a1fe21e26ab4eef220b9bfc88b9a0393abac8e364c96276b63636785"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00225",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00045',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00045/2018-06-19/text",
+   "sha256": "e9bf11bea164394eb8a3f2a82438f1badb5a0ba3802f0502e6317949bb54d7ef"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-04-16",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

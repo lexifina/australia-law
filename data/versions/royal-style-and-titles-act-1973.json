@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00044",
+ "name": "Royal Style and Titles Act 1973",
+ "folder": "royal-style-and-titles-act-1973",
+ "compilations": [
+  {
+   "in_force": "1973-10-19",
+   "register_id": "C2004A00044",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00044',start=1973-10-19,retrospectivestart=1973-10-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00044/1973-10-19/text",
+   "sha256": "e96b06c6c44c5d6b7a43875e4697493a93df54708c3e9b0b2e1a7840c6dc5593"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

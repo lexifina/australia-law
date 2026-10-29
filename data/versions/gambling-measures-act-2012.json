@@ -1,0 +1,43 @@
+{
+ "title_id": "C2012A00193",
+ "name": "Gambling Measures Act 2012",
+ "folder": "gambling-measures-act-2012",
+ "compilations": [
+  {
+   "in_force": "2012-12-12",
+   "register_id": "C2012A00193",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00193',start=2012-12-12,retrospectivestart=2012-12-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00193/2012-12-12/text",
+   "sha256": "fec18d36239d3a323844ba8c45fb3231b5d7e328b1a2bb19c8403d3feee4e340"
+  },
+  {
+   "in_force": "2013-04-12",
+   "register_id": "C2013C00304",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00193',start=2013-04-12,retrospectivestart=2013-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00193/2013-04-12/text",
+   "sha256": "082d30e6dc6a2d0f234221a4d5bf83d675755170277e10cbc355f20638af24b2"
+  },
+  {
+   "in_force": "2014-03-31",
+   "register_id": "C2014C00159",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00193',start=2014-03-31,retrospectivestart=2014-03-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00193/2014-03-31/text",
+   "sha256": "0fab951a14820bf59ac4b538ad81538d02007c2067aa73d30c97526b0f7be62a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

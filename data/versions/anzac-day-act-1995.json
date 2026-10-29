@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04877",
+ "name": "Anzac Day Act 1995",
+ "folder": "anzac-day-act-1995",
+ "compilations": [
+  {
+   "in_force": "1995-03-29",
+   "register_id": "C2004A04877",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04877',start=1995-03-29,retrospectivestart=1995-03-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04877/1995-03-29/text",
+   "sha256": "f3910bb0bc1f59db64e5181146f10ece5dd8206a794318397be12e87966ac786"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

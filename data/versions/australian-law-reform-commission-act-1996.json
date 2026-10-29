@@ -1,0 +1,91 @@
+{
+ "title_id": "C2004A05069",
+ "name": "Australian Law Reform Commission Act 1996",
+ "folder": "australian-law-reform-commission-act-1996",
+ "compilations": [
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00311",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05069',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05069/2013-07-01/text",
+   "sha256": "4bd78deedc49c2a5c5e8cf2a5c046608273a1e794b9ec3f140e5b83471b28593"
+  },
+  {
+   "in_force": "2014-01-15",
+   "register_id": "C2014C00047",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05069',start=2014-01-15,retrospectivestart=2014-01-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05069/2014-01-15/text",
+   "sha256": "64d828b9d10c537289d2e12fc530ed1efa2dd88a3dc88b19ad83efe200cfddc9"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00375",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05069',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05069/2014-07-01/text",
+   "sha256": "3f54b4171063b6707160bf3b5c03b6131f688901d173393ca2b51dbf760ea073"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1996-10-09",
+   "acts": []
+  },
+  {
+   "in_force": "1997-10-24",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Australian Law Reform Commission (Repeal, Transitional and Miscellaneous) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2010",
+    "Financial Framework Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

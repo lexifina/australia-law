@@ -1,0 +1,72 @@
+{
+ "title_id": "C2004A02849",
+ "name": "Radiocommunications (Receiver Licence Tax) Act 1983",
+ "folder": "radiocommunications-receiver-licence-tax-act-1983",
+ "compilations": [
+  {
+   "in_force": "2005-07-01",
+   "register_id": "C2005C00374",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02849',start=2005-07-01,retrospectivestart=2005-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02849/2005-07-01/text",
+   "sha256": "cb0b74fd7f16ea5d6273ea06504b358a40bff0342df223d2b05839eaf7a816f0"
+  },
+  {
+   "in_force": "2013-06-29",
+   "register_id": "C2013C00540",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02849',start=2013-06-29,retrospectivestart=2013-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02849/2013-06-29/text",
+   "sha256": "92d719a071e5c112384062c9faf6ecafc401ba8f2426e880e0b726f8f557463b"
+  },
+  {
+   "in_force": "2021-06-17",
+   "register_id": "C2021C00263",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02849',start=2021-06-17,retrospectivestart=2021-06-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02849/2021-06-17/text",
+   "sha256": "92517990373050d59eccdc2000fea283818c135fce043fcf2ba382c05677bf79"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1983-12-22",
+   "acts": []
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Radiocommunications (Receiver Licence Tax) Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-03-29",
+   "acts": [
+    "Radiocommunications (Receiver Licence Tax) Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Radiocommunications (Receiver Licence Tax) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2000-05-31",
+   "acts": [
+    "Radiocommunications (Receiver Licence Tax) Amendment Act 2000"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

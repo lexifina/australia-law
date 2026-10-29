@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00681",
+ "name": "New Business Tax System (Alienated Personal Services Income) Tax Imposition Act (No. 1) 2000",
+ "folder": "new-business-tax-system-alienated-personal-services-income-tax",
+ "compilations": [
+  {
+   "in_force": "2000-06-30",
+   "register_id": "C2004A00681",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00681',start=2000-06-30,retrospectivestart=2000-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00681/2000-06-30/text",
+   "sha256": "110ce006205d8b08468f383d0d21a210658dc01f8904005f1725ffd83a82b6a9"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

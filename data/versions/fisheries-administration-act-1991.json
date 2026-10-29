@@ -1,0 +1,169 @@
+{
+ "title_id": "C2004A04236",
+ "name": "Fisheries Administration Act 1991",
+ "folder": "fisheries-administration-act-1991",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00521",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04236',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04236/2014-07-01/text",
+   "sha256": "daab8e1bde717c092be327dc9e4178abf41d149d6ac33edc7f5db1962a38d13e"
+  },
+  {
+   "in_force": "2017-11-07",
+   "register_id": "C2017C00373",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04236',start=2017-11-07,retrospectivestart=2017-11-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04236/2017-11-07/text",
+   "sha256": "1c7fe775fc2bbf509ec906b28a21a1dc8ace08c7e249d36b7a6c0a2c25401904"
+  },
+  {
+   "in_force": "2025-01-01",
+   "register_id": "C2025C00032",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04236',start=2025-01-01,retrospectivestart=2025-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04236/2025-01-01/text",
+   "sha256": "41590a7c8ede9e310c8a51f89570760bb0b5e1fd811298597be1c469a7b08c81"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-11-10",
+   "acts": []
+  },
+  {
+   "in_force": "1994-10-21",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1997-07-07",
+   "acts": [
+    "Fisheries Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-30",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-08-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2001-12-11",
+   "acts": [
+    "Fisheries Legislation Amendment Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2004-08-06",
+   "acts": [
+    "Fisheries Legislation Amendment (Compliance and Deterrence Measures and Other Matters) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-08-20",
+   "acts": [
+    "Fisheries Legislation Amendment (High Seas Fishing Activities and Other Matters) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-07",
+   "acts": [
+    "Fisheries Legislation Amendment (International Obligations and Other Matters) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-23",
+   "acts": [
+    "Fisheries Legislation Amendment (Cooperative Fisheries Arrangements and Other Matters) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-07-26",
+   "acts": [
+    "Fisheries Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Fisheries Legislation Amendment (New Governance Arrangements for the Australian Fisheries Management Authority and Other Matters) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-01-04",
+   "acts": [
+    "Fisheries Legislation Amendment Act (No. 2) 2010",
+    "Fisheries Legislation Amendment Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-03-28",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2013"
+   ]
+  },
+  {
+   "in_force": "2013-04-25",
+   "acts": [
+    "Fisheries Legislation Amendment Act (No. 1) 2013"
+   ]
+  },
+  {
+   "in_force": "2013-12-13",
+   "acts": [
+    "Rural Research and Development Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

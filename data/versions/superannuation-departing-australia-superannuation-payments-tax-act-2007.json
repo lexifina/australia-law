@@ -1,0 +1,60 @@
+{
+ "title_id": "C2007A00013",
+ "name": "Superannuation (Departing Australia Superannuation Payments Tax) Act 2007",
+ "folder": "superannuation-departing-australia-superannuation-payments-tax-act-2007",
+ "compilations": [
+  {
+   "in_force": "2013-06-28",
+   "register_id": "C2013C00600",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00013',start=2013-06-28,retrospectivestart=2013-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00013/2013-06-28/text",
+   "sha256": "6cd2d4954476396ca152d1c58dea027e8ca1a0b30207b536c725f245b3948c23"
+  },
+  {
+   "in_force": "2014-06-25",
+   "register_id": "C2014C00328",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00013',start=2014-06-25,retrospectivestart=2014-06-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00013/2014-06-25/text",
+   "sha256": "4807d2fed70320e12a8cdfdda0d7019dfb54186da6ae45eae14dbd284e5cb649"
+  },
+  {
+   "in_force": "2016-12-02",
+   "register_id": "C2016C01135",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00013',start=2016-12-02,retrospectivestart=2016-12-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00013/2016-12-02/text",
+   "sha256": "5732da4639e9fb9410f469e8fd3e82a3f9bcd264873e7827d16b390e4d13628f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2007-03-15",
+   "acts": []
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2009-04-01",
+   "acts": [
+    "Superannuation (Departing Australia Superannuation Payments Tax) Amendment Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

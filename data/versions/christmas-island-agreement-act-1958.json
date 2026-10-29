@@ -1,0 +1,36 @@
+{
+ "title_id": "C1958A00069",
+ "name": "Christmas Island Agreement Act 1958",
+ "folder": "christmas-island-agreement-act-1958",
+ "compilations": [
+  {
+   "in_force": "1983-12-21",
+   "register_id": "C2004C00122",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1958A00069',start=1983-12-21,retrospectivestart=1983-12-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1958A00069/1983-12-21/text",
+   "sha256": "5fa68f63f5798f20368f78e0ffc0c9035412d0e74929d1c1457696cee0fcaa5c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1981-07-22",
+   "acts": [
+    "Christmas Island Agreement Amendment Act 1981"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1958-10-01"
+ ],
+ "repeal": null
+}

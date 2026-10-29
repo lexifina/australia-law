@@ -1,0 +1,84 @@
+{
+ "title_id": "C2004A01763",
+ "name": "Port Statistics Act 1977",
+ "folder": "port-statistics-act-1977",
+ "compilations": [
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00246",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01763',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01763/2011-04-19/text",
+   "sha256": "0e74f291052a31cbad4c89be4c7516f70697dc0c0a5a21f8d467e47df75856ba"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00246",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01763',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01763/2011-12-27/text",
+   "sha256": "c19b20954a7bc5fe8ed04a100bd5e620e27f2437a3c1bf22b6ebce23686c9813"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01054",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01763',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01763/2016-10-21/text",
+   "sha256": "9aa1438eefb703b70bcc17b6efe5c063bf3c70049ec328f2d702fcc4d81f415e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1977-11-10",
+   "acts": []
+  },
+  {
+   "in_force": "1982-09-22",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-03-01",
+   "acts": [
+    "Census and Statistics Amendment Act (No. 2) 1981"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

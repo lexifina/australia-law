@@ -1,0 +1,43 @@
+{
+ "title_id": "C2024A00109",
+ "name": "Aged Care (Consequential and Transitional Provisions) Act 2024",
+ "folder": "aged-care-consequential-and-transitional-provisions-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-12-10",
+   "register_id": "C2024A00109",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00109',start=2024-12-10,retrospectivestart=2024-12-10,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00109/2024-12-10/text",
+   "sha256": "c4c8294014129fe1c0d499583b4b27db00e2c26231ea19e9d8be5d15f10fd777"
+  },
+  {
+   "in_force": "2025-09-20",
+   "register_id": "C2025C00528",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00109',start=2025-09-20,retrospectivestart=2025-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00109/2025-09-20/text",
+   "sha256": "3951de9d02d3c4fadf4e28589e7fb43290bf0a482ec33d5a724f26902eee5ee2"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00593",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00109',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00109/2025-11-01/text",
+   "sha256": "ea056fb0ff5aaaea1641415b12739bb7b2977609d253025f33ad8300fd64731e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

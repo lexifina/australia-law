@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00012",
+ "name": "Early Childhood Education and Care (Three Day Guarantee) Act 2025",
+ "folder": "early-childhood-education-and-care-three-day-guarantee-act-2025",
+ "compilations": [
+  {
+   "in_force": "2025-02-20",
+   "register_id": "C2025A00012",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00012',start=2025-02-20,retrospectivestart=2025-02-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00012/2025-02-20/text",
+   "sha256": "84c006d0365e8716bc4b581b84bd3df15542bea53e79da9fd6179208bbe4beb4"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

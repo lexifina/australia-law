@@ -1,0 +1,120 @@
+{
+ "title_id": "C2004A04702",
+ "name": "Chemical Weapons (Prohibition) Act 1994",
+ "folder": "chemical-weapons-prohibition-act-1994",
+ "compilations": [
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00467",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04702',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04702/2016-03-10/text",
+   "sha256": "7fb1c63e72963b6316ddd622db5f17ea2c245e8aeb25fd081c619c7b3011739c"
+  },
+  {
+   "in_force": "2018-12-29",
+   "register_id": "C2019C00058",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04702',start=2018-12-29,retrospectivestart=2018-12-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04702/2018-12-29/text",
+   "sha256": "8d2af6abfb61436ecadd8b31e72217c1f205b388f28d6630144c8ad776e54ef2"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00434",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04702',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04702/2024-10-14/text",
+   "sha256": "cd5c4cf55e2d61e662b8a72d64816890293edddeb0f521d90411e6c4705c4027"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1994-02-25",
+   "acts": []
+  },
+  {
+   "in_force": "1997-10-17",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-04-06",
+   "acts": [
+    "Chemical Weapons (Prohibition) Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-10-06",
+   "acts": [
+    "Chemical Weapons (Prohibition) Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-26",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-12-12",
+   "acts": [
+    "Non-Proliferation Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2007-04-11",
+   "acts": [
+    "Non-Proliferation Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00182",
+ "name": "National Health Security Amendment Act 2012",
+ "folder": "national-health-security-amendment-act-2012",
+ "compilations": [
+  {
+   "in_force": "2012-12-10",
+   "register_id": "C2012A00182",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00182',start=2012-12-10,retrospectivestart=2012-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00182/2012-12-10/text",
+   "sha256": "484183248c9963f6a3f5ff6cafce3844632619ddf619db7b1362d168cc1a3dec"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

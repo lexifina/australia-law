@@ -1,0 +1,21 @@
+{
+ "title_id": "C2013A00140",
+ "name": "Australian Civilian Corps Amendment Act 2013",
+ "folder": "australian-civilian-corps-amendment-act-2013",
+ "compilations": [
+  {
+   "in_force": "2013-12-13",
+   "register_id": "C2013A00140",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00140',start=2013-12-13,retrospectivestart=2013-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00140/2013-12-13/text",
+   "sha256": "03096d8f74fbc1da18a8bfe495645b8f1abe3d15443a502565c80f3f0ab1b327"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

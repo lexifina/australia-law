@@ -1,0 +1,137 @@
+{
+ "title_id": "C1970A00008",
+ "name": "Parliamentary Counsel Act 1970",
+ "folder": "parliamentary-counsel-act-1970",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00398",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1970A00008',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1970A00008/2014-07-01/text",
+   "sha256": "616f92d8b8a68de64ab36d641eb0bd02c5c270798e77d6867c866a0b38474d48"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00473",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1970A00008',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1970A00008/2016-03-05/text",
+   "sha256": "66f78aefbd421eb5774eac794f660a703bb3b2fbc23dd1eb70872630bf72f9df"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00817",
+   "compilation": "12",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1970A00008',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1970A00008/2024-12-11/text",
+   "sha256": "fe2e2473c4619a6cb836352782d2ab35bdffaf3ff237e8bf5b8034b729127d1b"
+  },
+  {
+   "in_force": "2026-04-09",
+   "register_id": "C2026C00159",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1970A00008',start=2026-04-09,retrospectivestart=2026-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1970A00008/2026-04-09/text",
+   "sha256": "08969924137d5ab2d19ec6dccf186a6638030369ec61d9d60348d8a2e889f35f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1970-05-15",
+   "acts": []
+  },
+  {
+   "in_force": "1971-01-14",
+   "acts": [
+    "Salaries Act 1971"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-10-01",
+   "acts": [
+    "Parliamentary Counsel and Other Legislation Amendment Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

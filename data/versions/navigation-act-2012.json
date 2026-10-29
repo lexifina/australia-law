@@ -1,0 +1,114 @@
+{
+ "title_id": "C2012A00128",
+ "name": "Navigation Act 2012",
+ "folder": "navigation-act-2012",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00662",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00128',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00128/2024-10-14/text",
+   "sha256": "6aa5c3051824fc29b21e01a04b4f7d68c8ac67ad80de5d787e0c18e40ec97c6f"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00799",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00128',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00128/2024-12-11/text",
+   "sha256": "54f50f6c6e52a08318431f8ca7cda002c8885840c3a703d0e12e7c4f8b7b9af7"
+  },
+  {
+   "in_force": "2025-02-15",
+   "register_id": "C2025C00094",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00128',start=2025-02-15,retrospectivestart=2025-02-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00128/2025-02-15/text",
+   "sha256": "6dbf85c5462a7f920f37f4581322426e9e88b271520b6823504967c13869d810"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-09-13",
+   "acts": []
+  },
+  {
+   "in_force": "2013-08-21",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-08",
+   "acts": [
+    "Maritime Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-10-31",
+   "acts": [
+    "Defence Legislation Amendment (2017 Measures No. 1) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-11-30",
+   "acts": [
+    "Maritime Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Underwater Cultural Heritage (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

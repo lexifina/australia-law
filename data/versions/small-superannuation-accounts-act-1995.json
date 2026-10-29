@@ -1,0 +1,199 @@
+{
+ "title_id": "C2004A04905",
+ "name": "Small Superannuation Accounts Act 1995",
+ "folder": "small-superannuation-accounts-act-1995",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00683",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04905',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04905/2024-10-14/text",
+   "sha256": "766eaa2e763f6617015084c5176aa3db3cb04d0d1f840bdec1945516e081dcc1"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00161",
+   "compilation": "29",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04905',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04905/2025-02-21/text",
+   "sha256": "8e5a2c55dce06ee0002b6ddfa2186116e254aefb364faa2b2facc881820cb49b"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00311",
+   "compilation": "30",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04905',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04905/2026-07-01/text",
+   "sha256": "cc5796f2fcc710ac9db9e31ab3bafe4c1f99100a5d7e255d9c8c6e7dffe425d3"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-06-23",
+   "acts": []
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-02",
+   "acts": [
+    "Retirement Savings Accounts (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-10-14",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-16",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-10-13",
+   "acts": [
+    "Superannuation (Unclaimed Money and Lost Members) Consequential and Transitional Act 1999"
+   ]
+  },
+  {
+   "in_force": "2002-04-04",
+   "acts": [
+    "Taxation Laws Amendment (Superannuation) Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-28",
+   "acts": [
+    "Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-11-12",
+   "acts": [
+    "Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Superannuation Legislation Amendment (Choice of Superannuation Funds) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-03-15",
+   "acts": [
+    "Superannuation Legislation Amendment (Simplification) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-27",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Farm Household Support (Consequential and Transitional Provisions) Act 2014",
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-04-01",
+   "acts": [
+    "Treasury Laws Amendment (2018 Measures No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2022-09-28",
+   "acts": [
+    "Family Law Amendment (Western Australia De Facto Superannuation Splitting and Bankruptcy) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2023-09-15",
+   "acts": [
+    "Treasury Laws Amendment (Modernising Business Communications and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-01",
+   "acts": [
+    "Treasury Laws Amendment (Delivering Better Financial Outcomes and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-02",
+   "acts": [
+    "Paid Parental Leave Amendment (Adding Superannuation for a More Secure Retirement) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

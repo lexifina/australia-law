@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A04746",
+ "name": "Moomba-Sydney Pipeline System Sale Act 1994",
+ "folder": "moomba-sydney-pipeline-system-sale-act-1994",
+ "compilations": [
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00243",
+   "compilation": "8",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04746',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04746/2011-04-19/text",
+   "sha256": "4b3e94863369fb2fdf39423f70e05bf82eafc9d28cff3d1b2a50bfe1bf3259a5"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00561",
+   "compilation": "9",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04746',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04746/2014-07-01/text",
+   "sha256": "db95662cd3d373e82182a68a68ee158c6d1bb73726a627b0ff13119a9cf3713f"
+  },
+  {
+   "in_force": "2018-03-30",
+   "register_id": "C2018C00106",
+   "compilation": "10",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04746',start=2018-03-30,retrospectivestart=2018-03-30,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04746/2018-03-30/text",
+   "sha256": "ea8ba38e86b8b17f98374873b42fce0e022aa92d2908e0b704173e8bb193185c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1994-06-10",
+   "acts": []
+  },
+  {
+   "in_force": "1994-06-30",
+   "acts": [
+    "Pipeline Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-11-06",
+   "acts": [
+    "Competition Policy Reform Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-11-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-06-30",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act (No. 2) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-08-14",
+   "acts": [
+    "Gas Pipelines Access (Commonwealth) Act 1998"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,43 @@
+{
+ "title_id": "C2012A00053",
+ "name": "Shipping Reform (Tax Incentives) Act 2012",
+ "folder": "shipping-reform-tax-incentives-act-2012",
+ "compilations": [
+  {
+   "in_force": "2012-06-21",
+   "register_id": "C2012A00053",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00053',start=2012-06-21,retrospectivestart=2012-06-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00053/2012-06-21/text",
+   "sha256": "6f715f774850b77d5d9acf9d2f3333e4a72209f9718c95b470aad7e0351516d5"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00434",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00053',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00053/2016-03-05/text",
+   "sha256": "827071a59f89ef4e79d63578c9418d93a40b721baec5f8983957b2197c3cb35a"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00633",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00053',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00053/2024-10-14/text",
+   "sha256": "17274b1f7b1c6b4bd5003682b5913df75a2b4bdf5eaa23a83e918eabb51ed242"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

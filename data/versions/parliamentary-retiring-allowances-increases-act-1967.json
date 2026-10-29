@@ -1,0 +1,21 @@
+{
+ "title_id": "C1967A00092",
+ "name": "Parliamentary Retiring Allowances (Increases) Act 1967",
+ "folder": "parliamentary-retiring-allowances-increases-act-1967",
+ "compilations": [
+  {
+   "in_force": "1967-11-08",
+   "register_id": "C1967A00092",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1967A00092',start=1967-11-08,retrospectivestart=1967-11-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1967A00092/1967-11-08/text",
+   "sha256": "ca59dae2114af27dbd0fde3bf3dd530020dba91c267757cbc6aa9fb2d0036eb2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

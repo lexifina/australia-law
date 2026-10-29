@@ -1,0 +1,108 @@
+{
+ "title_id": "C2011A00009",
+ "name": "National Health Reform Act 2011",
+ "folder": "national-health-reform-act-2011",
+ "compilations": [
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00275",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00009',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00009/2024-07-06/text",
+   "sha256": "e1651d47a23ad577aafc5e41690666f5c5fc34689bf678c19a5ba1f24c311d0d"
+  },
+  {
+   "in_force": "2025-02-15",
+   "register_id": "C2025C00088",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00009',start=2025-02-15,retrospectivestart=2025-02-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00009/2025-02-15/text",
+   "sha256": "4a0f53bf8ab90d41464d62072a8773cc2c0152837c0b8c17aaa1d69dfe81d572"
+  },
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00598",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00009',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00009/2025-11-01/text",
+   "sha256": "d3f3b74bd4048e6795b9a0e43ce73a63e4481e2c37b9f40bd3e8aa86dd271e6d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-04-08",
+   "acts": []
+  },
+  {
+   "in_force": "2011-10-21",
+   "acts": [
+    "National Health Reform Amendment (National Health Performance Authority) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-15",
+   "acts": [
+    "National Health Reform Amendment (Independent Hospital Pricing Authority) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-25",
+   "acts": [
+    "National Health Reform Amendment (Administrator and National Health Funding Body) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-11-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2022-08-12",
+   "acts": [
+    "Aged Care and Other Legislation Amendment (Royal Commission Response) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

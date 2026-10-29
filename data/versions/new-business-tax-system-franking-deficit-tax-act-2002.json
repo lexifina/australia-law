@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00982",
+ "name": "New Business Tax System (Franking Deficit Tax) Act 2002",
+ "folder": "new-business-tax-system-franking-deficit-tax-act-2002",
+ "compilations": [
+  {
+   "in_force": "2002-06-29",
+   "register_id": "C2004A00982",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00982',start=2002-06-29,retrospectivestart=2002-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00982/2002-06-29/text",
+   "sha256": "883a441448f6c46d542e61fc994073e4bfb380c36fcae4fc7312372f16182d4a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

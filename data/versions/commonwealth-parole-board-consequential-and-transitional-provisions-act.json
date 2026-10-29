@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00033",
+ "name": "Commonwealth Parole Board (Consequential and Transitional Provisions) Act 2026",
+ "folder": "commonwealth-parole-board-consequential-and-transitional-provisions-act",
+ "compilations": [
+  {
+   "in_force": "2026-04-08",
+   "register_id": "C2026A00033",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00033',start=2026-04-08,retrospectivestart=2026-04-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00033/2026-04-08/text",
+   "sha256": "5b968047be326ff5e781902342a713aad6712a014b9e9be7c15b85414f97c62f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

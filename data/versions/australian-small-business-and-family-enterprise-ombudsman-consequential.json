@@ -1,0 +1,21 @@
+{
+ "title_id": "C2015A00124",
+ "name": "Australian Small Business and Family Enterprise Ombudsman (Consequential and Transitional Provisions) Act 2015",
+ "folder": "australian-small-business-and-family-enterprise-ombudsman-consequential",
+ "compilations": [
+  {
+   "in_force": "2015-09-10",
+   "register_id": "C2015A00124",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00124',start=2015-09-10,retrospectivestart=2015-09-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00124/2015-09-10/text",
+   "sha256": "1800615d095d812d181178d5953b4c787ff0bdac6c5e3c443f458ccdea9370cb"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

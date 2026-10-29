@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00009",
+ "name": "Superannuation (Building a Stronger and Fairer Super System) Imposition Act 2026",
+ "folder": "superannuation-building-a-stronger-and-fairer-super-system-imposition",
+ "compilations": [
+  {
+   "in_force": "2026-03-13",
+   "register_id": "C2026A00009",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00009',start=2026-03-13,retrospectivestart=2026-03-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00009/2026-03-13/text",
+   "sha256": "e129309f6f974b6f82e676c02bcae9bf9336054639345d94f9a3438052a24d27"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

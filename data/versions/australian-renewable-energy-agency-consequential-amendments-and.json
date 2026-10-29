@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00152",
+ "name": "Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Act 2011",
+ "folder": "australian-renewable-energy-agency-consequential-amendments-and",
+ "compilations": [
+  {
+   "in_force": "2011-12-04",
+   "register_id": "C2011A00152",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00152',start=2011-12-04,retrospectivestart=2011-12-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00152/2011-12-04/text",
+   "sha256": "5bfae34eb095a221c8b8f4980d046cd44946936a8abdb12884458a72330376b1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

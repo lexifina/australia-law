@@ -1,0 +1,568 @@
+{
+ "title_id": "C1922A00033",
+ "name": "Superannuation Act 1922",
+ "folder": "superannuation-act-1922",
+ "compilations": [
+  {
+   "in_force": "2022-09-28",
+   "register_id": "C2022C00280",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1922A00033',start=2022-09-28,retrospectivestart=2022-09-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1922A00033/2022-09-28/text",
+   "sha256": "e1524c30a1f1d9e8f00f56a06b120b18f99173b72003c7b3c921f5123011b43c"
+  },
+  {
+   "in_force": "2023-08-22",
+   "register_id": "C2023C00220",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1922A00033',start=2023-08-22,retrospectivestart=2023-08-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1922A00033/2023-08-22/text",
+   "sha256": "a7cef9181df5e8fa5bf5dc52b33d8bf14e21e1f5817d43a4b23d7e48852cb57b"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00654",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1922A00033',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1922A00033/2024-10-14/text",
+   "sha256": "bcf4f620c0a3473b1d63605fb9d14f651ca7796cf04751cee728cd191b729bc5"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00825",
+   "compilation": "28",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1922A00033',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1922A00033/2024-12-11/text",
+   "sha256": "36d2f4b6aa96a19a3923e52f06ba571540243b752cf57a25b4ed1c9439736545"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1922-10-18",
+   "acts": []
+  },
+  {
+   "in_force": "1922-11-20",
+   "acts": [
+    "Superannuation Act 1924",
+    "Superannuation Act 1924",
+    "Superannuation Act 1924",
+    "Superannuation Act 1930",
+    "Superannuation Act 1930",
+    "Superannuation Act 1942"
+   ]
+  },
+  {
+   "in_force": "1924-10-23",
+   "acts": [
+    "Superannuation Act 1924"
+   ]
+  },
+  {
+   "in_force": "1927-07-01",
+   "acts": [
+    "Superannuation Act 1930",
+    "Superannuation Act 1930",
+    "Superannuation Act 1930",
+    "Superannuation Act 1930"
+   ]
+  },
+  {
+   "in_force": "1930-08-09",
+   "acts": [
+    "Superannuation Act 1930"
+   ]
+  },
+  {
+   "in_force": "1931-07-20",
+   "acts": [
+    "Financial Emergency Act 1931"
+   ]
+  },
+  {
+   "in_force": "1934-08-06",
+   "acts": [
+    "Statute Law Revision Act 1934"
+   ]
+  },
+  {
+   "in_force": "1937-09-16",
+   "acts": [
+    "Superannuation Act 1937"
+   ]
+  },
+  {
+   "in_force": "1942-11-02",
+   "acts": [
+    "Superannuation Act 1942"
+   ]
+  },
+  {
+   "in_force": "1943-03-29",
+   "acts": [
+    "Superannuation Act 1943"
+   ]
+  },
+  {
+   "in_force": "1945-08-03",
+   "acts": [
+    "Superannuation Act 1945"
+   ]
+  },
+  {
+   "in_force": "1945-08-16",
+   "acts": [
+    "Superannuation Act (No. 2) 1945"
+   ]
+  },
+  {
+   "in_force": "1946-04-13",
+   "acts": [
+    "Superannuation Act 1946"
+   ]
+  },
+  {
+   "in_force": "1947-03-14",
+   "acts": [
+    "Commonwealth Public Service Act 1947"
+   ]
+  },
+  {
+   "in_force": "1947-06-12",
+   "acts": [
+    "Superannuation Act 1947"
+   ]
+  },
+  {
+   "in_force": "1948-07-02",
+   "acts": [
+    "Superannuation Act 1948"
+   ]
+  },
+  {
+   "in_force": "1949-04-01",
+   "acts": [
+    "Superannuation Act 1952"
+   ]
+  },
+  {
+   "in_force": "1950-12-15",
+   "acts": [
+    "Superannuation Act 1950"
+   ]
+  },
+  {
+   "in_force": "1951-03-30",
+   "acts": [
+    "Superannuation Act 1954"
+   ]
+  },
+  {
+   "in_force": "1951-11-01",
+   "acts": [
+    "Superannuation Act 1951"
+   ]
+  },
+  {
+   "in_force": "1951-12-11",
+   "acts": [
+    "Superannuation Act 1951",
+    "Superannuation Act (No. 2) 1951"
+   ]
+  },
+  {
+   "in_force": "1952-11-18",
+   "acts": [
+    "Superannuation Act 1952"
+   ]
+  },
+  {
+   "in_force": "1952-12-15",
+   "acts": [
+    "Superannuation Act 1952"
+   ]
+  },
+  {
+   "in_force": "1953-10-31",
+   "acts": [
+    "Superannuation Act 1954"
+   ]
+  },
+  {
+   "in_force": "1954-01-01",
+   "acts": [
+    "Superannuation Act 1954"
+   ]
+  },
+  {
+   "in_force": "1954-04-20",
+   "acts": [
+    "Superannuation Act 1954"
+   ]
+  },
+  {
+   "in_force": "1955-01-19",
+   "acts": [
+    "Superannuation Act 1955"
+   ]
+  },
+  {
+   "in_force": "1955-06-15",
+   "acts": [
+    "Superannuation Act 1955"
+   ]
+  },
+  {
+   "in_force": "1955-11-12",
+   "acts": [
+    "Superannuation Act 1956"
+   ]
+  },
+  {
+   "in_force": "1956-11-15",
+   "acts": [
+    "Superannuation Act (No. 2) 1956"
+   ]
+  },
+  {
+   "in_force": "1957-12-12",
+   "acts": [
+    "Superannuation Act 1957"
+   ]
+  },
+  {
+   "in_force": "1958-09-29",
+   "acts": [
+    "Superannuation Act 1958"
+   ]
+  },
+  {
+   "in_force": "1959-12-14",
+   "acts": [
+    "Superannuation Act 1959"
+   ]
+  },
+  {
+   "in_force": "1963-11-01",
+   "acts": [
+    "Superannuation Act 1963"
+   ]
+  },
+  {
+   "in_force": "1965-12-10",
+   "acts": [
+    "Superannuation Act 1965"
+   ]
+  },
+  {
+   "in_force": "1966-02-14",
+   "acts": [
+    "Superannuation Act (No. 2) 1965"
+   ]
+  },
+  {
+   "in_force": "1966-10-29",
+   "acts": [
+    "Superannuation Act 1966"
+   ]
+  },
+  {
+   "in_force": "1966-11-18",
+   "acts": [
+    "Superannuation Act (No. 2) 1966"
+   ]
+  },
+  {
+   "in_force": "1967-05-26",
+   "acts": [
+    "Superannuation Act 1967"
+   ]
+  },
+  {
+   "in_force": "1967-09-01",
+   "acts": [
+    "Superannuation Act (No. 2) 1968"
+   ]
+  },
+  {
+   "in_force": "1968-07-19",
+   "acts": [
+    "Superannuation Act 1968"
+   ]
+  },
+  {
+   "in_force": "1969-04-23",
+   "acts": [
+    "Superannuation Act 1969"
+   ]
+  },
+  {
+   "in_force": "1969-06-04",
+   "acts": [
+    "Superannuation Act (No. 2) 1969"
+   ]
+  },
+  {
+   "in_force": "1971-05-25",
+   "acts": [
+    "Superannuation Act 1971"
+   ]
+  },
+  {
+   "in_force": "1973-06-08",
+   "acts": [
+    "Superannuation Act 1973",
+    "Superannuation Acts Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1973-06-19",
+   "acts": [
+    "Superannuation Act (No. 2) 1973"
+   ]
+  },
+  {
+   "in_force": "1973-07-19",
+   "acts": [
+    "Superannuation Act (No. 3) 1973"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1974-06-29",
+   "acts": [
+    "Superannuation Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1974-08-27",
+   "acts": [
+    "Election Candidates (Public Service and Defence Force) Act 1974"
+   ]
+  },
+  {
+   "in_force": "1975-04-01",
+   "acts": [
+    "Superannuation Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1975-07-01",
+   "acts": [
+    "Superannuation Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-02-05",
+   "acts": [
+    "Superannuation Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-02-13",
+   "acts": [
+    "Superannuation Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1976-07-01",
+   "acts": [
+    "Superannuation Amendment Act 1976",
+    "Superannuation Acts Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-04-24",
+   "acts": [
+    "Superannuation Acts Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1982-07-01",
+   "acts": [
+    "Companies (Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Superannuation Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-10-10",
+   "acts": [
+    "Superannuation and Other Benefits Legislation Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1989-10-20",
+   "acts": [
+    "Superannuation and Other Benefits Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-06-07",
+   "acts": [
+    "Superannuation Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1992-12-18",
+   "acts": [
+    "Superannuation Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-06-25",
+   "acts": [
+    "Commonwealth Superannuation Schemes Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment Act (No. 1) 1995"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Life Insurance (Consequential Amendments and Repeals) Act 1995"
+   ]
+  },
+  {
+   "in_force": "2001-04-19",
+   "acts": [
+    "Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Superannuation Legislation Amendment (Indexation) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-15",
+   "acts": [
+    "Finance and Administration Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-05-18",
+   "acts": [
+    "Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-09-25",
+   "acts": [
+    "Superannuation Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-25",
+   "acts": [
+    "Statute Stocktake (Appropriations) Act (No. 1) 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Civil Law and Justice Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Public Sector Superannuation Legislation Amendment Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

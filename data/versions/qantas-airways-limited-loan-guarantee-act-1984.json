@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A02973",
+ "name": "Qantas Airways Limited (Loan Guarantee) Act 1984",
+ "folder": "qantas-airways-limited-loan-guarantee-act-1984",
+ "compilations": [
+  {
+   "in_force": "1984-10-17",
+   "register_id": "C2004A02973",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02973',start=1984-10-17,retrospectivestart=1984-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02973/1984-10-17/text",
+   "sha256": "8bc3982a265f812bd11504608d86deddf33837512e49bc79369aa3432b406f70"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

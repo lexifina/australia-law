@@ -1,0 +1,65 @@
+{
+ "title_id": "C1945A00048",
+ "name": "War Crimes Act 1945",
+ "folder": "war-crimes-act-1945",
+ "compilations": [
+  {
+   "in_force": "1999-12-22",
+   "register_id": "C2004C07836",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1945A00048',start=1999-12-22,retrospectivestart=1999-12-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1945A00048/1999-12-22/text",
+   "sha256": "926eb87bdb8f15113ff741e85e5229491fc5af34283e8a91415b42d6ccf67d19"
+  },
+  {
+   "in_force": "2001-05-24",
+   "register_id": "C2004C00650",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1945A00048',start=2001-05-24,retrospectivestart=2001-05-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1945A00048/2001-05-24/text",
+   "sha256": "e6e0869a14b1455d35e555d1768764d958e305f0e9b8c174a256e4a1b40d9bf6"
+  },
+  {
+   "in_force": "2010-02-20",
+   "register_id": "C2010C00110",
+   "compilation": "4",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1945A00048',start=2010-02-20,retrospectivestart=2010-02-20,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1945A00048/2010-02-20/text",
+   "sha256": "ffdb229f813a86d7021014dc98328f06eee99f542eac4532fccb7b48d6416896"
+  },
+  {
+   "in_force": "2018-05-23",
+   "register_id": "C2018C00198",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1945A00048',start=2018-05-23,retrospectivestart=2018-05-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1945A00048/2018-05-23/text",
+   "sha256": "68328c6fa981d1aaff41c8efd60b0008c243f300f9a3436efe339bef2dfe9d07"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1945-10-11",
+   "acts": []
+  },
+  {
+   "in_force": "1989-01-25",
+   "acts": [
+    "War Crimes Amendment Act 1988"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

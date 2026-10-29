@@ -1,0 +1,54 @@
+{
+ "title_id": "C2004A02482",
+ "name": "Lands Acquisition (Northern Territory Pastoral Leases) Act 1981",
+ "folder": "lands-acquisition-northern-territory-pastoral-leases-act-1981",
+ "compilations": [
+  {
+   "in_force": "1999-09-01",
+   "register_id": "C2004C00385",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02482',start=1999-09-01,retrospectivestart=1999-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02482/1999-09-01/text",
+   "sha256": "9a48be516fbee456e4f0d4015102cdd014ad853a4caa9e1202986e2cfeea1c0d"
+  },
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00304",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02482',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02482/2011-04-19/text",
+   "sha256": "ab8f2da103527d24ad5fa8d983c2b08d294b42008949646e8a12eb2f4d570f80"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00378",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02482',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02482/2023-10-18/text",
+   "sha256": "a95d6433c4c761b78f39b292701434b1eca0cb1ddc286b623123992ca02febec"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1981-06-24",
+   "acts": []
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Australian Government Solicitor (Consequential Amendments) Act 1984"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

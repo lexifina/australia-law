@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00059",
+ "name": "Competition and Consumer Amendment (Australian Energy Regulator Separation) Act 2025",
+ "folder": "competition-and-consumer-amendment-australian-energy-regulator",
+ "compilations": [
+  {
+   "in_force": "2025-11-06",
+   "register_id": "C2025A00059",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00059',start=2025-11-06,retrospectivestart=2025-11-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00059/2025-11-06/text",
+   "sha256": "28f100a74baf414bf7e72dff4ec3661f5a6b13e4bf731434e6114c468d7709f6"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

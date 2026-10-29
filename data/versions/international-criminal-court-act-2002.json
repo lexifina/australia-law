@@ -1,0 +1,96 @@
+{
+ "title_id": "C2004A00992",
+ "name": "International Criminal Court Act 2002",
+ "folder": "international-criminal-court-act-2002",
+ "compilations": [
+  {
+   "in_force": "2018-12-09",
+   "register_id": "C2018C00494",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00992',start=2018-12-09,retrospectivestart=2018-12-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00992/2018-12-09/text",
+   "sha256": "a7f12ee4deee09dc19e85c017d17b1f69e72ae69ea9b76891a55ddca99ee73c8"
+  },
+  {
+   "in_force": "2021-07-24",
+   "register_id": "C2021C00313",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00992',start=2021-07-24,retrospectivestart=2021-07-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00992/2021-07-24/text",
+   "sha256": "45b75251f6f8e3000b06a8e173830f4fd7bb8992695136a46011d5cff4328534"
+  },
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00376",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00992',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00992/2026-08-27/text",
+   "sha256": "dae1fb03e4c74d5deb03daa127429d7a6776862de659d9b8c8401e90d2537b50"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2002-06-27",
+   "acts": []
+  },
+  {
+   "in_force": "2010-12-11",
+   "acts": [
+    "Territories Law Reform Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-03",
+   "acts": [
+    "Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-25",
+   "acts": [
+    "Mutual Assistance in Criminal Matters Amendment (Registration of Foreign Proceeds of Crime Orders) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 2011"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2018-11-22",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

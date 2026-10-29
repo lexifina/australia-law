@@ -1,0 +1,40 @@
+{
+ "title_id": "C2025A00003",
+ "name": "Appropriation (Parliamentary Departments) Act (No. 2) 2024-2025",
+ "folder": "appropriation-parliamentary-departments-act-no-2-2024-2025",
+ "compilations": [
+  {
+   "in_force": "2025-02-14",
+   "register_id": "C2025A00003",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00003',start=2025-02-14,retrospectivestart=2025-02-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00003/2025-02-14/text",
+   "sha256": "cd9adf24530ae0798c595d825c1b9090670f4db83e1c92197594fc38b096fc84"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2027-07-01",
+   "acts": [
+    "Appropriation (Parliamentary Departments) Act (No. 2) 2024-2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": {
+  "day": "2027-07-01",
+  "status": "Repealed",
+  "acts": [
+   [
+    3,
+    2025
+   ]
+  ],
+  "markdown": [
+   "s 14 of the [Appropriation (Parliamentary Departments) Act (No. 2) 2024-2025](/C2025A00003)"
+  ]
+ }
+}

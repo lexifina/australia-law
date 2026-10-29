@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00823",
+ "name": "Corporations (Repeals, Consequentials and Transitionals) Act 2001",
+ "folder": "corporations-repeals-consequentials-and-transitionals-act-2001",
+ "compilations": [
+  {
+   "in_force": "2001-06-28",
+   "register_id": "C2004A00823",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00823',start=2001-06-28,retrospectivestart=2001-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00823/2001-06-28/text",
+   "sha256": "5808b2a02e0c0aaf536c857363eb9432a25ead0410d5205bf910d3ad81af0c30"
+  },
+  {
+   "in_force": "2001-07-15",
+   "register_id": "C2006C00150",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00823',start=2001-07-15,retrospectivestart=2001-07-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00823/2001-07-15/text",
+   "sha256": "425cdd0761bdb2f77bd9cf4ee45151aad06b961da3c0998682a06acf781598a7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

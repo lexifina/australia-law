@@ -1,0 +1,43 @@
+{
+ "title_id": "C2004A00462",
+ "name": "A New Tax System (Goods and Services Tax Imposition—General) Act 1999",
+ "folder": "a-new-tax-system-goods-and-services-tax-impositiongeneral-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-07-08",
+   "register_id": "C2004A00462",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00462',start=1999-07-08,retrospectivestart=1999-07-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00462/1999-07-08/text",
+   "sha256": "7cb2031ebbba561fc9f60ae1a378629a070f1d452c5600fcbadb9a72adf35239"
+  },
+  {
+   "in_force": "2005-05-22",
+   "register_id": "C2005C00087",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00462',start=2005-05-22,retrospectivestart=2005-05-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00462/2005-05-22/text",
+   "sha256": "dd7c4bf0e0acc88ae773962f17c7329c2a1b2f6d01cfef71a3e1b85434bc1f0e"
+  },
+  {
+   "in_force": "2005-07-01",
+   "register_id": "C2005C00391",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00462',start=2005-07-01,retrospectivestart=2005-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00462/2005-07-01/text",
+   "sha256": "7ac46f689db8e7bcc5a76cbdf2f975b5da3cd2d07bf304d1ff77135057711c34"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

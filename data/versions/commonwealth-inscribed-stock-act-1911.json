@@ -1,0 +1,294 @@
+{
+ "title_id": "C1911A00020",
+ "name": "Commonwealth Inscribed Stock Act 1911",
+ "folder": "commonwealth-inscribed-stock-act-1911",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00395",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1911A00020',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1911A00020/2014-07-01/text",
+   "sha256": "acffa8fb8e8a67b2fa447abd85bb4fb464f99969cf9c6b693928fa420c8b0e25"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00507",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1911A00020',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1911A00020/2016-03-10/text",
+   "sha256": "5190ed6950f3963f443ecb6d1488efa2e3d3db820975f6d866964c5196b89fcc"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01089",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1911A00020',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1911A00020/2016-10-21/text",
+   "sha256": "64cdb47ceb3086d06f3106e9e4d11e37d281b444d2ccb135562da1d4262dfef4"
+  },
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00415",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1911A00020',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1911A00020/2023-10-20/text",
+   "sha256": "b206bab6efdbc21ae71380066b59abad93e3c970faa62fa140e1206a33f6d863"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1911-12-22",
+   "acts": []
+  },
+  {
+   "in_force": "1912-12-24",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1912"
+   ]
+  },
+  {
+   "in_force": "1913-12-19",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1913"
+   ]
+  },
+  {
+   "in_force": "1915-08-16",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1915"
+   ]
+  },
+  {
+   "in_force": "1916-07-01",
+   "acts": [
+    "Loans Sinking Fund Act 1918"
+   ]
+  },
+  {
+   "in_force": "1918-01-01",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1918"
+   ]
+  },
+  {
+   "in_force": "1918-05-28",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1918"
+   ]
+  },
+  {
+   "in_force": "1927-04-08",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1927"
+   ]
+  },
+  {
+   "in_force": "1931-09-12",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1932"
+   ]
+  },
+  {
+   "in_force": "1933-05-30",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1933"
+   ]
+  },
+  {
+   "in_force": "1940-06-29",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1940"
+   ]
+  },
+  {
+   "in_force": "1943-10-22",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1943"
+   ]
+  },
+  {
+   "in_force": "1945-09-13",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1945"
+   ]
+  },
+  {
+   "in_force": "1946-08-29",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1946"
+   ]
+  },
+  {
+   "in_force": "1964-02-05",
+   "acts": [
+    "Commonwealth Inscribed Stock Act 1963"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1978-06-22",
+   "acts": [
+    "Income Tax (Arrangements with the States) Act 1978"
+   ]
+  },
+  {
+   "in_force": "1979-05-15",
+   "acts": [
+    "Jurisdiction of Courts (Miscellaneous Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1979-09-28",
+   "acts": [
+    "Commonwealth Inscribed Stock Amendment Act 1979"
+   ]
+  },
+  {
+   "in_force": "1984-07-02",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Crimes (Currency) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-30",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1989"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Financial Sector Reform (Consequential Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Statute Stocktake Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2002-10-04",
+   "acts": [
+    "Commonwealth Inscribed Stock Amendment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-13",
+   "acts": [
+    "Commonwealth Securities and Investment Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-02-18",
+   "acts": [
+    "Commonwealth Inscribed Stock Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-15",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-06-29",
+   "acts": [
+    "Appropriation Act (No. 2) 2011-2012"
+   ]
+  },
+  {
+   "in_force": "2012-06-28",
+   "acts": [
+    "Appropriation Act (No. 2) 2012-2013"
+   ]
+  },
+  {
+   "in_force": "2012-11-18",
+   "acts": [
+    "Commonwealth Government Securities Legislation Amendment (Retail Trading) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-12-10",
+   "acts": [
+    "Commonwealth Inscribed Stock Amendment Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

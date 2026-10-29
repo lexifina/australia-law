@@ -1,0 +1,21 @@
+{
+ "title_id": "C2019A00018",
+ "name": "Industrial Chemicals Charges (Customs) Act 2019",
+ "folder": "industrial-chemicals-charges-customs-act-2019",
+ "compilations": [
+  {
+   "in_force": "2019-04-03",
+   "register_id": "C2019A00018",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00018',start=2019-04-03,retrospectivestart=2019-04-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00018/2019-04-03/text",
+   "sha256": "d734aa18b082a1384740c12984839c1312c5958ad1c71579a418f38a6780360a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

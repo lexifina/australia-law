@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04055",
+ "name": "Taxation (Interest on Non-resident Trust Distributions) Act 1990",
+ "folder": "taxation-interest-on-non-resident-trust-distributions-act-1990",
+ "compilations": [
+  {
+   "in_force": "1990-12-28",
+   "register_id": "C2004A04055",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04055',start=1990-12-28,retrospectivestart=1990-12-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04055/1990-12-28/text",
+   "sha256": "2a4d5acc14ce7a75af9e109d13c671931ed30fa40f2cd654f9d73f1861bd6e11"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

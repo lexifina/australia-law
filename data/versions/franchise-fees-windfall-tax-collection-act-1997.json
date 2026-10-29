@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A05225",
+ "name": "Franchise Fees Windfall Tax (Collection) Act 1997",
+ "folder": "franchise-fees-windfall-tax-collection-act-1997",
+ "compilations": [
+  {
+   "in_force": "1997-08-05",
+   "register_id": "C2004A05225",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05225',start=1997-08-05,retrospectivestart=1997-08-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05225/1997-08-05/text",
+   "sha256": "97ae574a22d71e6a1969f1175b8898a95db67617334752f171d4290a394b6834"
+  },
+  {
+   "in_force": "2010-12-17",
+   "register_id": "C2010C00830",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05225',start=2010-12-17,retrospectivestart=2010-12-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05225/2010-12-17/text",
+   "sha256": "2431d932475f3e0ad69b8b8fde56e06b715a6025fcaf337e34b67957a4afdfb7"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

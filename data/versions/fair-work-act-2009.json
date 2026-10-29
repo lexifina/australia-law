@@ -1,0 +1,525 @@
+{
+ "title_id": "C2009A00028",
+ "name": "Fair Work Act 2009",
+ "folder": "fair-work-act-2009",
+ "compilations": [
+  {
+   "in_force": "2026-04-02",
+   "register_id": "C2026C00141",
+   "compilation": "71",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00028',start=2026-04-02,retrospectivestart=2026-04-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00028/2026-04-02/text",
+   "sha256": "ff08fa3d27d41940f8f0cf71f202c49614efcafac8f721e8315e201fc321656f"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00293",
+   "compilation": "72",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00028',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00028/2026-07-01/text",
+   "sha256": "ef3033831e3d40ac03ebb8a84b261c19aea2e06df1462234be93e470a4dbeb12"
+  },
+  {
+   "in_force": "2026-07-07",
+   "register_id": "C2026C00355",
+   "compilation": "73",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00028',start=2026-07-07,retrospectivestart=2026-07-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00028/2026-07-07/text",
+   "sha256": "dfbea101a1e86ef7a70fe192219f9302da1301fce21f075cf1e7e774c6d02976"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2009-04-07",
+   "acts": []
+  },
+  {
+   "in_force": "2009-06-25",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Fair Work Amendment (State Referrals and Other Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-15",
+   "acts": [
+    "Fair Work Amendment (State Referrals and Other Measures) Act 2009",
+    "Fair Work Amendment (State Referrals and Other Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009",
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009",
+    "Fair Work Amendment (State Referrals and Other Measures) Act 2009",
+    "Fair Work Amendment (State Referrals and Other Measures) Act 2009",
+    "Fair Work Amendment (State Referrals and Other Measures) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009",
+    "Fair Work (Transitional Provisions and Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-07-29",
+   "acts": [
+    "Sex and Age Discrimination Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-08-01",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Fair Work Amendment (Textile, Clothing and Footwear Industry) Act 2012",
+    "Statute Law Revision Act 2012",
+    "Fair Work Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2012-07-23",
+   "acts": [
+    "Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-04",
+   "acts": [
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-05",
+   "acts": [
+    "Fair Work Amendment (Transfer of Business) Act 2012",
+    "Fair Work Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Superannuation Legislation Amendment (Further MySuper and Transparency Measures) Act 2012",
+    "Fair Work Amendment Act 2012",
+    "Fair Work Amendment Act 2012",
+    "Fair Work Amendment Act 2012",
+    "Superannuation Legislation Amendment (Service Providers and Other Governance Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Fair Work Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013",
+    "Tax Laws Amendment (Fairer Taxation of Excess Concessional Contributions) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012",
+    "Fair Work Amendment Act 2012",
+    "Fair Work Amendment Act 2013",
+    "Fair Work Amendment Act 2013",
+    "Fair Work Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-08-01",
+   "acts": [
+    "Sex Discrimination Amendment (Sexual Orientation, Gender Identity and Intersex Status) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012",
+    "Fair Work Amendment Act 2013",
+    "Fair Work Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Fair Work Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Law and Justice Legislation Amendment (Northern Territory Local Court) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-13",
+   "acts": [
+    "Fair Work Amendment (Respect for Emergency Services Volunteers) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-11-17",
+   "acts": [
+    "Statute Law Revision (Spring 2016) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-05-01",
+   "acts": [
+    "Fair Work (Registered Organisations) Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-09-11",
+   "acts": [
+    "Fair Work Amendment (Corrupting Benefits) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-15",
+   "acts": [
+    "Fair Work Amendment (Protecting Vulnerable Workers) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-20",
+   "acts": [
+    "Statute Update (Winter 2017) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Fair Work Amendment (Repeal of 4 Yearly Reviews and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-12",
+   "acts": [
+    "Fair Work Amendment (Family and Domestic Violence Leave) Act 2018",
+    "Fair Work Amendment (Repeal of 4 Yearly Reviews and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-04-09",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus (Measures No. 2) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-04",
+   "acts": [
+    "Coronavirus Economic Response Package (Jobkeeper Payments) Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-16",
+   "acts": [
+    "Coronavirus Economic Response Package (Jobkeeper Payments) Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-28",
+   "acts": [
+    "Coronavirus Economic Response Package (Jobkeeper Payments) Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-11-27",
+   "acts": [
+    "Fair Work Amendment (Improving Unpaid Parental Leave for Parents of Stillborn Babies and Other Measures) Act 2020",
+    "Fair Work Amendment (Improving Unpaid Parental Leave for Parents of Stillborn Babies and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-27",
+   "acts": [
+    "Fair Work Amendment (Supporting Australia’s Jobs and Economic Recovery) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-03-29",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus (Measures No. 2) Act 2020",
+    "Coronavirus Economic Response Package (Jobkeeper Payments) Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021",
+    "Fair Work Amendment (Supporting Australia’s Jobs and Economic Recovery) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-11",
+   "acts": [
+    "Sex Discrimination and Fair Work (Respect at Work) Amendment Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-12-07",
+   "acts": [
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-02-01",
+   "acts": [
+    "Fair Work Amendment (Paid Family and Domestic Violence Leave) Act 2022",
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-03-06",
+   "acts": [
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022",
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022",
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-03-26",
+   "acts": [
+    "Paid Parental Leave Amendment (Improvements for Families and Gender Equality) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-06-06",
+   "acts": [
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022",
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022",
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022",
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022",
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022",
+    "Fair Work Legislation Amendment (Protecting Worker Entitlements) Act 2023",
+    "Fair Work Legislation Amendment (Protecting Worker Entitlements) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-12-06",
+   "acts": [
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-12-15",
+   "acts": [
+    "Fair Work Legislation Amendment (Closing Loopholes) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-12-30",
+   "acts": [
+    "Fair Work Legislation Amendment (Protecting Worker Entitlements) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Fair Work Legislation Amendment (Protecting Worker Entitlements) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-02-27",
+   "acts": [
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024",
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-06-09",
+   "acts": [
+    "Fair Work Amendment (Paid Family and Domestic Violence Leave) Act 2022",
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022",
+    "Fair Work Legislation Amendment (Secure Jobs, Better Pay) Act 2022",
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-06-14",
+   "acts": [
+    "Fair Work Legislation Amendment (Closing Loopholes) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-07-01",
+   "acts": [
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-08-23",
+   "acts": [
+    "Fair Work (Registered Organisations) Amendment (Administration) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-08-26",
+   "acts": [
+    "Fair Work Amendment Act 2024",
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024",
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024",
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-02",
+   "acts": [
+    "Paid Parental Leave Amendment (Adding Superannuation for a More Secure Retirement) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-11",
+   "acts": [
+    "Crown References Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-01-01",
+   "acts": [
+    "Fair Work Legislation Amendment (Closing Loopholes) Act 2023",
+    "Fair Work Legislation Amendment (Closing Loopholes) Act 2023",
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-26",
+   "acts": [
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024",
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024",
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024",
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024",
+    "Fair Work Legislation Amendment (Closing Loopholes No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-08-30",
+   "acts": [
+    "Fair Work Amendment (Protecting Penalty and Overtime Rates) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-11-07",
+   "acts": [
+    "Fair Work Amendment (Baby Priya’s) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2026-03-28",
+   "acts": [
+    "Law and Justice Legislation Amendment (New South Wales Local Court) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

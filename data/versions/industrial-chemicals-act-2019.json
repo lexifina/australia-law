@@ -1,0 +1,67 @@
+{
+ "title_id": "C2019A00012",
+ "name": "Industrial Chemicals Act 2019",
+ "folder": "industrial-chemicals-act-2019",
+ "compilations": [
+  {
+   "in_force": "2023-10-17",
+   "register_id": "C2023C00321",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00012',start=2023-10-17,retrospectivestart=2023-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00012/2023-10-17/text",
+   "sha256": "2bf02e80a107cd60c697edc2307b5b1ccf0d1e765f739a9aa3655187320c209b"
+  },
+  {
+   "in_force": "2024-07-01",
+   "register_id": "C2024C00253",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00012',start=2024-07-01,retrospectivestart=2024-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00012/2024-07-01/text",
+   "sha256": "2cf0a8b1c9a6a990049f62b56dde937775ecf7ccb973ec5aea30ae6bc13e9dfd"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00495",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00012',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00012/2024-10-14/text",
+   "sha256": "fe408ed0b60f82d52ef41e7c671e697ed7c046828b0d231453483bbf91f8a844"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2019-03-12",
+   "acts": []
+  },
+  {
+   "in_force": "2020-12-16",
+   "acts": [
+    "National Emergency Declaration (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-27",
+   "acts": [
+    "Industrial Chemicals Legislation Amendment Act 2021",
+    "Industrial Chemicals Legislation Amendment Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

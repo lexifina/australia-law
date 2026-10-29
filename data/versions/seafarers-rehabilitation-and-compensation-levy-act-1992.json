@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A04522",
+ "name": "Seafarers Rehabilitation and Compensation Levy Act 1992",
+ "folder": "seafarers-rehabilitation-and-compensation-levy-act-1992",
+ "compilations": [
+  {
+   "in_force": "1994-01-18",
+   "register_id": "C2004C00281",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04522',start=1994-01-18,retrospectivestart=1994-01-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04522/1994-01-18/text",
+   "sha256": "59e3dd20dcbc173527b36a8d2ac882673f548cccdd786d4a967cac875ba65c6f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1992-12-24"
+ ],
+ "repeal": null
+}

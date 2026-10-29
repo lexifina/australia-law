@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00873",
+ "name": "Corporations (Compensation Arrangements Levies) Act 2001",
+ "folder": "corporations-compensation-arrangements-levies-act-2001",
+ "compilations": [
+  {
+   "in_force": "2001-09-17",
+   "register_id": "C2004A00873",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00873',start=2001-09-17,retrospectivestart=2001-09-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00873/2001-09-17/text",
+   "sha256": "c3ec4307a2aa6c9276efb3a208c235945e736c463119fc107d80f1d90f38594c"
+  },
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00424",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00873',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00873/2023-10-20/text",
+   "sha256": "6edae8dd6bc86f79e6a45ed7b8dac11df51ba59ea91a3a444ffeeb6a5d8580ec"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

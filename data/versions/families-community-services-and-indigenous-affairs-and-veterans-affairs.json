@@ -1,0 +1,21 @@
+{
+ "title_id": "C2006A00156",
+ "name": "Families, Community Services and Indigenous Affairs and Veterans' Affairs Legislation Amendment (2006 Budget Measures) Act 2006",
+ "folder": "families-community-services-and-indigenous-affairs-and-veterans-affairs",
+ "compilations": [
+  {
+   "in_force": "2006-12-08",
+   "register_id": "C2006A00156",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00156',start=2006-12-08,retrospectivestart=2006-12-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00156/2006-12-08/text",
+   "sha256": "7ff80b732927dfd5158adf36f04aed94024983e933cf5b0067a802f674221a97"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

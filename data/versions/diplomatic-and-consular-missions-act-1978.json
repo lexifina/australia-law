@@ -1,0 +1,60 @@
+{
+ "title_id": "C2004A01897",
+ "name": "Diplomatic and Consular Missions Act 1978",
+ "folder": "diplomatic-and-consular-missions-act-1978",
+ "compilations": [
+  {
+   "in_force": "2001-05-26",
+   "register_id": "C2004C00465",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01897',start=2001-05-26,retrospectivestart=2001-05-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01897/2001-05-26/text",
+   "sha256": "a20f8a400ffafcafa668d54767119bcdd2d5d288ec076e65c902490910810f9a"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00396",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01897',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01897/2008-07-04/text",
+   "sha256": "754ab9102d95d26fe8412a00363398a32e8905dac808856f3bb449e5a71f812d"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01073",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01897',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01897/2016-10-21/text",
+   "sha256": "da09d80a5bf2a79c095b86d0d28d1a8c2f1a03d303b6f6400ad8b3ecf58b74d2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1978-08-24",
+   "acts": []
+  },
+  {
+   "in_force": "1995-06-28",
+   "acts": [
+    "Overseas Missions (Privileges and Immunities) (Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

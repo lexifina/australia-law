@@ -1,0 +1,28 @@
+{
+ "title_id": "C2019A00128",
+ "name": "National Self-exclusion Register (Cost Recovery Levy) Act 2019",
+ "folder": "national-self-exclusion-register-cost-recovery-levy-act-2019",
+ "compilations": [
+  {
+   "in_force": "2019-12-12",
+   "register_id": "C2019A00128",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00128',start=2019-12-12,retrospectivestart=2019-12-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00128/2019-12-12/text",
+   "sha256": "2bd8d48feed16e6b8c2d56235e739eb6ca027220d3fe8ef65ddedd0de6e4d331"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "National Self-exclusion Register (Cost Recovery Levy) Amendment Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

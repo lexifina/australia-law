@@ -1,0 +1,32 @@
+{
+ "title_id": "C2009A00093",
+ "name": "Automotive Transformation Scheme Act 2009",
+ "folder": "automotive-transformation-scheme-act-2009",
+ "compilations": [
+  {
+   "in_force": "2009-09-29",
+   "register_id": "C2009A00093",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00093',start=2009-09-29,retrospectivestart=2009-09-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00093/2009-09-29/text",
+   "sha256": "6c70714c15a2f3b485ea7cd9ba272fe1213091b72169fe61661c6faa63f34382"
+  },
+  {
+   "in_force": "2014-10-17",
+   "register_id": "C2014C00735",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00093',start=2014-10-17,retrospectivestart=2014-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00093/2014-10-17/text",
+   "sha256": "f9029bcd7330472cc961c593a79526afad4dd1129d01365cb79a1f176ddf7870"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,206 @@
+{
+ "title_id": "C2004A03225",
+ "name": "Australian Trade and Investment Commission Act 1985",
+ "folder": "australian-trade-and-investment-commission-act-1985",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01019",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03225',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03225/2016-10-21/text",
+   "sha256": "baec4b195d79cc3bad5c035f74b88c590ac8d1c281a03a8229e941b404e8faa1"
+  },
+  {
+   "in_force": "2021-06-17",
+   "register_id": "C2021C00246",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03225',start=2021-06-17,retrospectivestart=2021-06-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03225/2021-06-17/text",
+   "sha256": "72f1be9e774520486a3d4cb6620c89e51142d4ac09edfd0a16e6fcfaf17ad75f"
+  },
+  {
+   "in_force": "2026-03-27",
+   "register_id": "C2026C00130",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03225',start=2026-03-27,retrospectivestart=2026-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03225/2026-03-27/text",
+   "sha256": "8494003262dbeabd9ce0913cf9282a78a5dee3426b8061f629f1de4aa6310562"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1985-12-16",
+   "acts": []
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1989-06-09",
+   "acts": [
+    "Lands Acquisition (Repeal and Consequential Provisions) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-06-27",
+   "acts": [
+    "Industry, Technology and Commerce Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-28",
+   "acts": [
+    "Banking Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-11-01",
+   "acts": [
+    "Export Finance and Insurance Corporation (Transitional Provisions and Consequential Amendments) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1994-10-18",
+   "acts": [
+    "Australian Trade Commission Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Export Market Development Grants (Repeal and Consequential Provisions) Act 1997",
+    "Tax Law Improvement Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-07-16",
+   "acts": [
+    "Export Market Development Grants Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-26",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-06-21",
+   "acts": [
+    "Export Market Development Grants Legislation Amendment Act 2006",
+    "Export Market Development Grants Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Australian Trade Commission Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Export Market Development Grants Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-14",
+   "acts": [
+    "Public Governance and Resources Legislation Amendment Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Trade Legislation Amendment Act (No. 1) 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,77 @@
+{
+ "title_id": "C1955A00066",
+ "name": "International Finance Corporation Act 1955",
+ "folder": "international-finance-corporation-act-1955",
+ "compilations": [
+  {
+   "in_force": "1988-11-09",
+   "register_id": "C2010C00798",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00066',start=1988-11-09,retrospectivestart=1988-11-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00066/1988-11-09/text",
+   "sha256": "c1a7ab53077871c40b6e51f324b4a39492620cf1621b22c9b688f51b17a65bda"
+  },
+  {
+   "in_force": "2012-06-27",
+   "register_id": "C2020C00310",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00066',start=2012-06-27,retrospectivestart=2012-06-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00066/2012-06-27/text",
+   "sha256": "49a0739ab8f59bdafefe8c3996265482b549dfc8d6c62e92cd7667ed426333d3"
+  },
+  {
+   "in_force": "2020-09-04",
+   "register_id": "C2020C00313",
+   "compilation": "3",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00066',start=2020-09-04,retrospectivestart=2020-09-04,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00066/2020-09-04/text",
+   "sha256": "8c61375210fde00374578176b426c022b9f14e73ae2a0c5f69466f0adb27f823"
+  },
+  {
+   "in_force": "2026-04-09",
+   "register_id": "C2026C00172",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1955A00066',start=2026-04-09,retrospectivestart=2026-04-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1955A00066/2026-04-09/text",
+   "sha256": "a678e48e56e2d48adf9633e33d899001e16974dbd94e8a7e5a88d48564cb8a85"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1955-11-04",
+   "acts": []
+  },
+  {
+   "in_force": "1961-10-24",
+   "acts": [
+    "International Finance Corporation Act 1961"
+   ]
+  },
+  {
+   "in_force": "1966-09-12",
+   "acts": [
+    "International Finance Corporation Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

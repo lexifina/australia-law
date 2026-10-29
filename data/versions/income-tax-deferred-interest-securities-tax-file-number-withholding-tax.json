@@ -1,0 +1,48 @@
+{
+ "title_id": "C2004A04290",
+ "name": "Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991",
+ "folder": "income-tax-deferred-interest-securities-tax-file-number-withholding-tax",
+ "compilations": [
+  {
+   "in_force": "2006-09-14",
+   "register_id": "C2006C00587",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04290',start=2006-09-14,retrospectivestart=2006-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04290/2006-09-14/text",
+   "sha256": "7e192b34bea441c5f8c25588963d727faf9f003c73f48b8a649914b8e36a195c"
+  },
+  {
+   "in_force": "2008-10-03",
+   "register_id": "C2008C00541",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04290',start=2008-10-03,retrospectivestart=2008-10-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04290/2008-10-03/text",
+   "sha256": "75f7e59f86d238a8ad6e8eacacd2c0eb1acb064dc8abdb66c3c594b03a65ebaf"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00238",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04290',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04290/2018-06-19/text",
+   "sha256": "53fb5e1e4becddf5d386c4fb96935335065a3b9dfdc415619e42f4360805a239"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-12-24",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

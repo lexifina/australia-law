@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A00557",
+ "name": "New Business Tax System (Former Subsidiary Tax Imposition) Act 1999",
+ "folder": "new-business-tax-system-former-subsidiary-tax-imposition-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-12-10",
+   "register_id": "C2004A00557",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00557',start=1999-12-10,retrospectivestart=1999-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00557/1999-12-10/text",
+   "sha256": "b9f3101d172477710e879d90b3faf920ab39a1ac2d0cdb98b4a2fa28c94f35eb"
+  },
+  {
+   "in_force": "2013-06-28",
+   "register_id": "C2013C00447",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00557',start=2013-06-28,retrospectivestart=2013-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00557/2013-06-28/text",
+   "sha256": "8e76bf475770f8fa55be3f60bc45152550eec87eeee0bcb493db3d51f812c101"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

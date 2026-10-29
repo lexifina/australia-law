@@ -1,0 +1,561 @@
+{
+ "title_id": "C2004A02068",
+ "name": "Australian Federal Police Act 1979",
+ "folder": "australian-federal-police-act-1979",
+ "compilations": [
+  {
+   "in_force": "2021-09-04",
+   "register_id": "C2021C00480",
+   "compilation": "64",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02068',start=2021-09-04,retrospectivestart=2021-09-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02068/2021-09-04/text",
+   "sha256": "4a4a9367003adc1ce57c8a404c10fd37d6f21f01eb6f77fbfd9bc4a15eb84c1c"
+  },
+  {
+   "in_force": "2023-07-01",
+   "register_id": "C2023C00156",
+   "compilation": "65",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02068',start=2023-07-01,retrospectivestart=2023-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02068/2023-07-01/text",
+   "sha256": "eaad155ef4072db16236f0c0dd74cae60594e71daf049c637ce2b2da074bc4ea"
+  },
+  {
+   "in_force": "2025-11-08",
+   "register_id": "C2025C00647",
+   "compilation": "66",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02068',start=2025-11-08,retrospectivestart=2025-11-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02068/2025-11-08/text",
+   "sha256": "731c3b4619726d1004f86b7d34e3a2ddb7d9002881629ef0f1651d144629066d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1979-06-15",
+   "acts": []
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1982-05-01",
+   "acts": [
+    "Australian Federal Police Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1982-10-20",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1984-10-18",
+   "acts": [
+    "Australian Federal Police Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-20",
+   "acts": [
+    "Australian Federal Police Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-10-28",
+   "acts": [
+    "Australian Federal Police Amendment Act 1985",
+    "Australian Federal Police Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Australian Federal Police Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1986-12-01",
+   "acts": [
+    "Australian Federal Police Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-05-29",
+   "acts": [
+    "Australian Federal Police Amendment Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-07",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-07-01",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-04",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-12-21",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1988",
+    "Australian Federal Police Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-01",
+   "acts": [
+    "Australian Federal Police Amendment Act 1989",
+    "Australian Federal Police Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-02-14",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-03-04",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1991-08-23",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-09-20",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-01-01",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1993-01-08",
+   "acts": [
+    "Crimes Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-01-16",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Crimes Legislation Enhancement Act 2003",
+    "Witness Protection Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-08-30",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-08-05",
+   "acts": [
+    "Australian Federal Police Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-04-07",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-02-01",
+   "acts": [
+    "Telecommunications (Interception) and Listening Device Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-02",
+   "acts": [
+    "Australian Federal Police Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000",
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Measures to Combat Serious and Organised Crime Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Australian Federal Police and Other Legislation Amendment Act 2004",
+    "Australian Federal Police and Other Legislation Amendment Act 2004",
+    "Australian Federal Police and Other Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-15",
+   "acts": [
+    "Surveillance Devices Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-22",
+   "acts": [
+    "Australian Federal Police and Other Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-03-10",
+   "acts": [
+    "Australian Federal Police and Other Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-11-08",
+   "acts": [
+    "Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-03-23",
+   "acts": [
+    "Statute Law Revision Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-06-05",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2006-12-30",
+   "acts": [
+    "Law Enforcement (AFP Professional Standards and Related Measures) Act 2006",
+    "Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006",
+    "Crimes Legislation Amendment (Miscellaneous Matters) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2007-04-11",
+   "acts": [
+    "Non-Proliferation Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-08-18",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-08-25",
+   "acts": [
+    "Law and Justice Legislation Amendment (Marking of Plastic Explosives) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-03-28",
+   "acts": [
+    "Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-11-25",
+   "acts": [
+    "National Security Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-02",
+   "acts": [
+    "Crimes Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-03-03",
+   "acts": [
+    "Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-03-30",
+   "acts": [
+    "Aviation Crimes and Policing Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-10-12",
+   "acts": [
+    "Defence Legislation Amendment (Security of Defence Premises) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 2011"
+   ]
+  },
+  {
+   "in_force": "2012-11-29",
+   "acts": [
+    "Crimes Legislation Amendment (Serious Drugs, Identity Crime and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Crimes Legislation Amendment (Law Enforcement Integrity, Vulnerable Witness Protection and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Public Service Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-23",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-06-30",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-23",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-08-25",
+   "acts": [
+    "Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-29",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-05-28",
+   "acts": [
+    "Australian Federal Police Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "2020-04-28",
+   "acts": [
+    "Crimes Legislation Amendment (Police Powers at Airports) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-12-18",
+   "acts": [
+    "Anti-Money Laundering and Counter-Terrorism Financing and Other Legislation Amendment Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

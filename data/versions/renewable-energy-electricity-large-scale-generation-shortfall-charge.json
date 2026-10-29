@@ -1,0 +1,59 @@
+{
+ "title_id": "C2004A00722",
+ "name": "Renewable Energy (Electricity) (Large-scale Generation Shortfall Charge) Act 2000",
+ "folder": "renewable-energy-electricity-large-scale-generation-shortfall-charge",
+ "compilations": [
+  {
+   "in_force": "2001-01-18",
+   "register_id": "C2004C01143",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00722',start=2001-01-18,retrospectivestart=2001-01-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00722/2001-01-18/text",
+   "sha256": "feebe943b68a887fab8d05913f217c29ac47fb0be2f0b3a45ed7c89de1de5f4d"
+  },
+  {
+   "in_force": "2009-09-08",
+   "register_id": "C2009C00431",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00722',start=2009-09-08,retrospectivestart=2009-09-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00722/2009-09-08/text",
+   "sha256": "827e44a0456ffed89d3a978d8fb01ebb23b2dfb58a2e93f4d0930cddb11dc1cb"
+  },
+  {
+   "in_force": "2011-01-01",
+   "register_id": "C2011C00088",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00722',start=2011-01-01,retrospectivestart=2011-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00722/2011-01-01/text",
+   "sha256": "1ff3f7e02acc9f46a0f0b321dd2767f90af17624bafd02f8280efc0a4d5abcd1"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00236",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00722',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00722/2018-06-19/text",
+   "sha256": "5fdf36aac4802ab9461895bb63bafa6d740e7d783fcd52cb0b68f40d9e77a345"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2000-10-26",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

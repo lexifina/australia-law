@@ -1,0 +1,52 @@
+{
+ "title_id": "C1909A00011",
+ "name": "Marine Insurance Act 1909",
+ "folder": "marine-insurance-act-1909",
+ "compilations": [
+  {
+   "in_force": "1973-12-31",
+   "register_id": "C2004C05235",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1909A00011',start=1973-12-31,retrospectivestart=1973-12-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1909A00011/1973-12-31/text",
+   "sha256": "d4ed81d21598c78359f29c531d637b3c7506b6117a07f06a6bed75c4f893cf58"
+  },
+  {
+   "in_force": "2002-03-11",
+   "register_id": "C2004C00549",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1909A00011',start=2002-03-11,retrospectivestart=2002-03-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1909A00011/2002-03-11/text",
+   "sha256": "bb87699444c9759e0848dc5f82b55147e552b4076e24aee3f43b84b3172d4e53"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00419",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1909A00011',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1909A00011/2008-07-04/text",
+   "sha256": "8c30424331f4650d8d67518e4137230813b72fd187be51360cc389d4300c9de2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1909-11-11"
+ ],
+ "repeal": null
+}

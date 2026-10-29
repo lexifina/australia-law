@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04589",
+ "name": "Nuclear Safeguards (Producers of Uranium Ore Concentrates) Charge Act 1993",
+ "folder": "nuclear-safeguards-producers-of-uranium-ore-concentrates-charge-act-1993",
+ "compilations": [
+  {
+   "in_force": "1993-09-20",
+   "register_id": "C2004A04589",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04589',start=1993-09-20,retrospectivestart=1993-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04589/1993-09-20/text",
+   "sha256": "69576e6dcd60487178290a9f2f81225a228bd1adaef216752177e70f2284958d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

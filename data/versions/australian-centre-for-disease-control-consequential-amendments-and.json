@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00062",
+ "name": "Australian Centre for Disease Control (Consequential Amendments and Transitional Provisions) Act 2025",
+ "folder": "australian-centre-for-disease-control-consequential-amendments-and",
+ "compilations": [
+  {
+   "in_force": "2025-11-10",
+   "register_id": "C2025A00062",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00062',start=2025-11-10,retrospectivestart=2025-11-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00062/2025-11-10/text",
+   "sha256": "244923d55eda65516f8050a779f8a271aec9e63caacd4978b07dc7b50e01e188"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

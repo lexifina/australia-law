@@ -1,0 +1,156 @@
+{
+ "title_id": "C2010A00072",
+ "name": "Healthcare Identifiers Act 2010",
+ "folder": "healthcare-identifiers-act-2010",
+ "compilations": [
+  {
+   "in_force": "2025-11-01",
+   "register_id": "C2025C00616",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00072',start=2025-11-01,retrospectivestart=2025-11-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00072/2025-11-01/text",
+   "sha256": "b20d1c3dd7378763284f56c235b8fb0175bb4bbf18feed8ae3dea799831af338"
+  },
+  {
+   "in_force": "2025-12-05",
+   "register_id": "C2025C00694",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00072',start=2025-12-05,retrospectivestart=2025-12-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00072/2025-12-05/text",
+   "sha256": "6d5a2d672066f1c953dc356d4d38f27c6fd99c6b8ed7595db5c77e4a66eb56f5"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00415",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00072',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00072/2026-09-19/text",
+   "sha256": "9e189aff2549dfece48a00d813db69f637f3de506268b4392643a1e0ad2530aa"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2010-06-28",
+   "acts": []
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Healthcare Identifiers (Consequential Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Personally Controlled Electronic Health Records (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-12-05",
+   "acts": [
+    "Aged Care and Other Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Health Legislation Amendment (eHealth) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Australian Immunisation Register (Consequential and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-09-30",
+   "acts": [
+    "Australian Immunisation Register (Consequential and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Veterans' Affairs Legislation Amendment (Budget Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Treatment Benefits (Special Access) (Consequential Amendments and Transitional Provisions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Aged Care Legislation Amendment (New Commissioner Functions) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2024-07-06",
+   "acts": [
+    "COAG Legislation Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2027-02-01",
+   "acts": [
+    "Regulatory Reform Omnibus Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

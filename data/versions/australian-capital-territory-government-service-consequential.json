@@ -1,0 +1,73 @@
+{
+ "title_id": "C2004A04765",
+ "name": "Australian Capital Territory Government Service (Consequential Provisions) Act 1994",
+ "folder": "australian-capital-territory-government-service-consequential",
+ "compilations": [
+  {
+   "in_force": "2011-01-01",
+   "register_id": "C2011C00075",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04765',start=2011-01-01,retrospectivestart=2011-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04765/2011-01-01/text",
+   "sha256": "fc8d0cf2f4f70ff0a572f1b0a82ab7118a69daf2e3e1d663e738aee55ea8fb18"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00036",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04765',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04765/2011-12-27/text",
+   "sha256": "52e5fe7bd49b9f9b7c64368d46eed58b4c3d0ca941b33f566cecb7d4d950cc8b"
+  },
+  {
+   "in_force": "2023-10-18",
+   "register_id": "C2023C00430",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04765',start=2023-10-18,retrospectivestart=2023-10-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04765/2023-10-18/text",
+   "sha256": "9121dc747b872e6422074becb6d42de437b09d11c44b1fb100d3fd9b51a544b6"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1994-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "1995-01-01",
+   "acts": [
+    "Employment Services (Consequential Amendments) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Australian Capital Territory Government Service (Consequential Provisions) Regulations",
+    "Australian Capital Territory Government Service (Consequential Provisions) Regulations"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Australian Capital Territory Government Service (Consequential Provisions) Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

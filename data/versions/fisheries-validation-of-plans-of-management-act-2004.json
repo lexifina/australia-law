@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A01393",
+ "name": "Fisheries (Validation of Plans of Management) Act 2004",
+ "folder": "fisheries-validation-of-plans-of-management-act-2004",
+ "compilations": [
+  {
+   "in_force": "2004-12-17",
+   "register_id": "C2004A01393",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01393',start=2004-12-17,retrospectivestart=2004-12-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01393/2004-12-17/text",
+   "sha256": "7b0478fae81c937a26133a7d06500929ae7a446295f9f78523425697f793ed47"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

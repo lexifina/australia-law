@@ -1,0 +1,108 @@
+{
+ "title_id": "C2004A01827",
+ "name": "Environment Protection (Alligator Rivers Region) Act 1978",
+ "folder": "environment-protection-alligator-rivers-region-act-1978",
+ "compilations": [
+  {
+   "in_force": "2001-05-24",
+   "register_id": "C2004C00290",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01827',start=2001-05-24,retrospectivestart=2001-05-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01827/2001-05-24/text",
+   "sha256": "c3c4a41accb5c1be0cd14b8d4b3ea61d5c676c33bc4b10e8e9b722f4340d3e50"
+  },
+  {
+   "in_force": "2007-02-19",
+   "register_id": "C2007C00071",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01827',start=2007-02-19,retrospectivestart=2007-02-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01827/2007-02-19/text",
+   "sha256": "85520aa0f9958efa48cc66b37a38f7db9e8e0f4d54311f7194a337355edc064c"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01109",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01827',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01827/2016-10-21/text",
+   "sha256": "7f315a48f82fab7e94ef8cad624f96bb5b99276ba8620113d92abc4072e816f1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1978-06-09",
+   "acts": []
+  },
+  {
+   "in_force": "1983-08-09",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-01-08",
+   "acts": [
+    "Public Service and Statutory Authorities Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1987-05-18",
+   "acts": [
+    "Environment Protection (Alligator Rivers Region) Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1994-02-16",
+   "acts": [
+    "Environment Protection (Alligator Rivers Region) Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

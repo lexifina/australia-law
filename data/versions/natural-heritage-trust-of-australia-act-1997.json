@@ -1,0 +1,102 @@
+{
+ "title_id": "C2004A05173",
+ "name": "Natural Heritage Trust of Australia Act 1997",
+ "folder": "natural-heritage-trust-of-australia-act-1997",
+ "compilations": [
+  {
+   "in_force": "2016-05-06",
+   "register_id": "C2016C00641",
+   "compilation": "11",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05173',start=2016-05-06,retrospectivestart=2016-05-06,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05173/2016-05-06/text",
+   "sha256": "47a4a03fe115878c328a0f3f55804153604aacecf82831bf3902c416b8829b57"
+  },
+  {
+   "in_force": "2024-05-31",
+   "register_id": "C2024C00191",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05173',start=2024-05-31,retrospectivestart=2024-05-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05173/2024-05-31/text",
+   "sha256": "a392b8fbeb6277f446126b88fff7b7029a6c9549271072b049229d0df9cefd1f"
+  },
+  {
+   "in_force": "2025-01-01",
+   "register_id": "C2025C00028",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05173',start=2025-01-01,retrospectivestart=2025-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05173/2025-01-01/text",
+   "sha256": "90ee37ed9bcc77f2fecfaba00dbe88ac04bc66a7f14204be87bd16a0dd86dba1"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-06-18",
+   "acts": []
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-07-05",
+   "acts": [
+    "Telstra (Further Dilution of Public Ownership) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-02-01",
+   "acts": [
+    "Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,23 @@
+{
+ "title_id": "C1960A00048",
+ "name": "Antarctic Treaty Act 1960",
+ "folder": "antarctic-treaty-act-1960",
+ "compilations": [
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00398",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1960A00048',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1960A00048/2008-07-04/text",
+   "sha256": "bdb088231e0e71a104d403c976d77bf72db58e1f062dffbc0fb0e3f0efec1bd1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1960-11-02"
+ ],
+ "repeal": null
+}

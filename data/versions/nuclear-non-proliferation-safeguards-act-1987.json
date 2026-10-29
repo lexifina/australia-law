@@ -1,0 +1,186 @@
+{
+ "title_id": "C2004A03417",
+ "name": "Nuclear Non-Proliferation (Safeguards) Act 1987",
+ "folder": "nuclear-non-proliferation-safeguards-act-1987",
+ "compilations": [
+  {
+   "in_force": "2016-05-08",
+   "register_id": "C2016C00932",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03417',start=2016-05-08,retrospectivestart=2016-05-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03417/2016-05-08/text",
+   "sha256": "e582a5ae4ddeb46fad49b97a282041d86e66baeaa41708a23bab093cca5b90dc"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00562",
+   "compilation": "21",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03417',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03417/2024-10-14/text",
+   "sha256": "ceab98a9e364c62c43ef28707ce7773565be2b8ba10a86c7ce9f8288c5e9273c"
+  },
+  {
+   "in_force": "2026-03-27",
+   "register_id": "C2026C00177",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03417',start=2026-03-27,retrospectivestart=2026-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03417/2026-03-27/text",
+   "sha256": "a9111105f2ae0f01bac6e2752ad73442b9ae82d74b378c83c91059cccb44bd30"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-03-17",
+   "acts": []
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-12-28",
+   "acts": [
+    "Primary Industries and Energy Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-04-30",
+   "acts": [
+    "Patents Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-11-01",
+   "acts": [
+    "Nuclear Non-Proliferation (Safeguards) Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-04-18",
+   "acts": [
+    "Evidence (Transitional Provisions and Consequential Amendments) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-10-17",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-03-31",
+   "acts": [
+    "Crimes at Sea Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-26",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-12-12",
+   "acts": [
+    "Non-Proliferation Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-12-13",
+   "acts": [
+    "Non-Proliferation Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2007-04-11",
+   "acts": [
+    "Non-Proliferation Legislation Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-03-06",
+   "acts": [
+    "Nuclear Terrorism Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-04-20",
+   "acts": [
+    "Nuclear Terrorism Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

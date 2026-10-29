@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00486",
+ "name": "Environmental Reform (Consequential Provisions) Act 1999",
+ "folder": "environmental-reform-consequential-provisions-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-07-16",
+   "register_id": "C2004A00486",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00486',start=1999-07-16,retrospectivestart=1999-07-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00486/1999-07-16/text",
+   "sha256": "a080a3ae2d9a7b437333f61421e27c57c26467bd51462d24caaed4f7f2e77c16"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

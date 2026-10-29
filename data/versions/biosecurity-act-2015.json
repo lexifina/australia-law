@@ -1,0 +1,158 @@
+{
+ "title_id": "C2015A00061",
+ "name": "Biosecurity Act 2015",
+ "folder": "biosecurity-act-2015",
+ "compilations": [
+  {
+   "in_force": "2025-01-01",
+   "register_id": "C2025C00015",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00061',start=2025-01-01,retrospectivestart=2025-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00061/2025-01-01/text",
+   "sha256": "a1e0df32d153796652492ff76061842740aeb9879c1407c368f624ec8c459076"
+  },
+  {
+   "in_force": "2026-01-01",
+   "register_id": "C2026C00044",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00061',start=2026-01-01,retrospectivestart=2026-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00061/2026-01-01/text",
+   "sha256": "8919b3f91ae528d429979ce0d1730154fd9b961fa3b6586b4f3f887822d77e1b"
+  },
+  {
+   "in_force": "2026-09-16",
+   "register_id": "C2026C00403",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00061',start=2026-09-16,retrospectivestart=2026-09-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00061/2026-09-16/text",
+   "sha256": "0ee036a04e471d50f327e0e61f9b645ae79089234a88edec17ca72310db35f0d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2015-06-16",
+   "acts": []
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015",
+    "Tribunals Amalgamation Act 2015",
+    "Passports Legislation Amendment (Integrity) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-11-17",
+   "acts": [
+    "Statute Law Revision (Spring 2016) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-05-18",
+   "acts": [
+    "Biosecurity Amendment (Ballast Water and Other Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-08",
+   "acts": [
+    "Biosecurity Amendment (Ballast Water and Other Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-20",
+   "acts": [
+    "Statute Update (Winter 2017) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-09-01",
+   "acts": [
+    "Biosecurity Legislation Amendment (Miscellaneous Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-03-01",
+   "acts": [
+    "Biosecurity Legislation Amendment (Miscellaneous Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-03-25",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Biosecurity Amendment (Traveller Declarations and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-02",
+   "acts": [
+    "Agriculture Legislation Amendment (Streamlining Administration) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-04-01",
+   "acts": [
+    "Biosecurity Amendment (Clarifying Conditionally Non-prohibited Goods) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-06-30",
+   "acts": [
+    "Biosecurity Amendment (Strengthening Penalties) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-12-06",
+   "acts": [
+    "Biosecurity Amendment (Strengthening Biosecurity) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-06-05",
+   "acts": [
+    "Biosecurity Amendment (Strengthening Biosecurity) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-09-14",
+   "acts": [
+    "Biosecurity Amendment (Advanced Compliance Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-05-31",
+   "acts": [
+    "Financial Framework (Supplementary Powers) Amendment Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

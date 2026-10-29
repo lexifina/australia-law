@@ -1,0 +1,79 @@
+{
+ "title_id": "C2004A05149",
+ "name": "Telecommunications (Numbering Charges) Act 1997",
+ "folder": "telecommunications-numbering-charges-act-1997",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00890",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05149',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05149/2016-07-01/text",
+   "sha256": "92b936236f17fa059385f843350244aa05f713a09250266c29d96a6cd45fda07"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00216",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05149',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05149/2018-06-19/text",
+   "sha256": "06cb6690521d443d78486df871dc00ad6914e773d2b4ad68c4cd24913a360705"
+  },
+  {
+   "in_force": "2019-12-12",
+   "register_id": "C2020C00005",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05149',start=2019-12-12,retrospectivestart=2019-12-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05149/2019-12-12/text",
+   "sha256": "6d8775a0d5fa4312f5fe8e554cccc290acafe31a3ef0b915f7d1a047f013ed93"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1997-04-22",
+   "acts": []
+  },
+  {
+   "in_force": "2000-05-03",
+   "acts": [
+    "Telecommunications (Numbering Charges) Amendment Act 2000",
+    null
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Telecommunications (Numbering Charges) Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

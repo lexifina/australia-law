@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A01408",
+ "name": "Papua New Guinea Independence Act 1975",
+ "folder": "papua-new-guinea-independence-act-1975",
+ "compilations": [
+  {
+   "in_force": "1975-09-09",
+   "register_id": "C2004A01408",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01408',start=1975-09-09,retrospectivestart=1975-09-09,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01408/1975-09-09/text",
+   "sha256": "da016b0be0a591c29b6f227a5479cf25e988c1269384af60700a5389853303dc"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

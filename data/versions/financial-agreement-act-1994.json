@@ -1,0 +1,48 @@
+{
+ "title_id": "C2004A04779",
+ "name": "Financial Agreement Act 1994",
+ "folder": "financial-agreement-act-1994",
+ "compilations": [
+  {
+   "in_force": "1998-01-01",
+   "register_id": "C2004C00452",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04779',start=1998-01-01,retrospectivestart=1998-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04779/1998-01-01/text",
+   "sha256": "d2dccbccfb36cb6b9eb011d279e4146728fcee7765d9c3a265b145dc2e902d91"
+  },
+  {
+   "in_force": "2005-02-22",
+   "register_id": "C2005C00137",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04779',start=2005-02-22,retrospectivestart=2005-02-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04779/2005-02-22/text",
+   "sha256": "f851f9fcce8df27495c8508240dee1b7b8b021efcbeef172d26200b4d1ae20b9"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00538",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04779',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04779/2014-07-01/text",
+   "sha256": "29dbb2c12e369b506df852171ff957722d73f954dc5e37783b188cc28a7e08ac"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1994-07-05",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

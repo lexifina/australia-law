@@ -1,0 +1,170 @@
+{
+ "title_id": "C2011A00012",
+ "name": "National Vocational Education and Training Regulator Act 2011",
+ "folder": "national-vocational-education-and-training-regulator-act-2011",
+ "compilations": [
+  {
+   "in_force": "2024-07-01",
+   "register_id": "C2024C00250",
+   "compilation": "23",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00012',start=2024-07-01,retrospectivestart=2024-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00012/2024-07-01/text",
+   "sha256": "f92581d59f52c45e67e0764904ea8cfa16c97c128e237c8c65d3a836860d02f4"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00284",
+   "compilation": "24",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00012',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00012/2024-07-06/text",
+   "sha256": "d05c3139735eee0a1ec355f5bc732d780c8c26851c27237aee474b8cdeb5355d"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00461",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00012',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00012/2024-10-14/text",
+   "sha256": "e5a4a0c351283d36522b7072cd42b25ffaae8f1d3a0394f4be8aa26709709caf"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-04-12",
+   "acts": []
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-05-17",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-11",
+   "acts": [
+    "Personal Liability for Corporate Fault Reform Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-04-03",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Education Services for Overseas Students Amendment (Streamlining Regulation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "VET Student Loans (Consequential Amendments and Transitional Provisions) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment (Annual Registration Charge) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2020-02-27",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-09-04",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment (Governance and Other Matters) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment (Governance and Other Matters) Act 2020",
+    "National Vocational Education and Training Regulator Amendment (Governance and Other Matters) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-07-04",
+   "acts": [
+    "National Vocational Education and Training Regulator (Data Streamlining) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-18",
+   "acts": [
+    "Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-03-29",
+   "acts": [
+    "National Vocational Education and Training Regulator Amendment (Strengthening Quality and Integrity in Vocational Education and Training No. 1) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

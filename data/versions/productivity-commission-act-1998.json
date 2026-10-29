@@ -1,0 +1,102 @@
+{
+ "title_id": "C2004A05326",
+ "name": "Productivity Commission Act 1998",
+ "folder": "productivity-commission-act-1998",
+ "compilations": [
+  {
+   "in_force": "2018-04-12",
+   "register_id": "C2018C00120",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05326',start=2018-04-12,retrospectivestart=2018-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05326/2018-04-12/text",
+   "sha256": "d1f76c2bb87a194c731b499b3fbc905a599e0c9eb50767c18a5ff35e9a0e127c"
+  },
+  {
+   "in_force": "2024-01-01",
+   "register_id": "C2024C00021",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05326',start=2024-01-01,retrospectivestart=2024-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05326/2024-01-01/text",
+   "sha256": "71e13b9d72cd65230ef5c4736289f4439d873615c22349e4c47524b04045cc23"
+  },
+  {
+   "in_force": "2026-09-16",
+   "register_id": "C2026C00406",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A05326',start=2026-09-16,retrospectivestart=2026-09-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A05326/2026-09-16/text",
+   "sha256": "36bb1d703a5d1a6408d7d8ccf089c6c16c7ffb60976544e87f236a7b0f64c5d3"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-04-16",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-12-15",
+   "acts": [
+    "Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-06-17",
+   "acts": [
+    "National Water Commission (Abolition) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

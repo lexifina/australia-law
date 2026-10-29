@@ -1,0 +1,32 @@
+{
+ "title_id": "C2014A00084",
+ "name": "True-up Shortfall Levy (General) (Carbon Tax Repeal) Act 2014",
+ "folder": "true-up-shortfall-levy-general-carbon-tax-repeal-act-2014",
+ "compilations": [
+  {
+   "in_force": "2014-07-17",
+   "register_id": "C2014A00084",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00084',start=2014-07-17,retrospectivestart=2014-07-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00084/2014-07-17/text",
+   "sha256": "429d35e01475a25bdf029910f9924d6c74d285406e2eea92c3692ae24dd5a632"
+  },
+  {
+   "in_force": "2018-06-19",
+   "register_id": "C2018C00212",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00084',start=2018-06-19,retrospectivestart=2018-06-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00084/2018-06-19/text",
+   "sha256": "f19f48bcdcbc130da53713ba44f3ea09cc9f8f46ffbc9e0c561c8feb628b84e8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

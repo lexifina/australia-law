@@ -1,0 +1,21 @@
+{
+ "title_id": "C2006A00084",
+ "name": "Law Enforcement (AFP Professional Standards and Related Measures) Act 2006",
+ "folder": "law-enforcement-afp-professional-standards-and-related-measures-act-2006",
+ "compilations": [
+  {
+   "in_force": "2006-06-30",
+   "register_id": "C2006A00084",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00084',start=2006-06-30,retrospectivestart=2006-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00084/2006-06-30/text",
+   "sha256": "297f8be29e28595a556c88501c446dce4ba3ef917f46fa869efe6391c23c040c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

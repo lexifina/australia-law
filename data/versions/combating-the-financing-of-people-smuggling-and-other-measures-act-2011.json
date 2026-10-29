@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00060",
+ "name": "Combating the Financing of People Smuggling and Other Measures Act 2011",
+ "folder": "combating-the-financing-of-people-smuggling-and-other-measures-act-2011",
+ "compilations": [
+  {
+   "in_force": "2011-06-28",
+   "register_id": "C2011A00060",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00060',start=2011-06-28,retrospectivestart=2011-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00060/2011-06-28/text",
+   "sha256": "95cbe4c9dc22aefa83080d539935ac3bfebb3bc97300967b0fea0352cc179f29"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

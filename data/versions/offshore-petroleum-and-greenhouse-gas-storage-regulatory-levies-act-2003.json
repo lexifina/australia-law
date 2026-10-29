@@ -1,0 +1,132 @@
+{
+ "title_id": "C2004A01202",
+ "name": "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003",
+ "folder": "offshore-petroleum-and-greenhouse-gas-storage-regulatory-levies-act-2003",
+ "compilations": [
+  {
+   "in_force": "2020-05-16",
+   "register_id": "C2020C00163",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01202',start=2020-05-16,retrospectivestart=2020-05-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01202/2020-05-16/text",
+   "sha256": "3ba6527165369524fc0fd54be044e081ba73285d76391170abbff95704468fd3"
+  },
+  {
+   "in_force": "2020-10-01",
+   "register_id": "C2020C00337",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01202',start=2020-10-01,retrospectivestart=2020-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01202/2020-10-01/text",
+   "sha256": "7ac2eb9e20ca7e6089964f2a7c263bf42b90a2c96ca2e1ec59e7b1da739ce031"
+  },
+  {
+   "in_force": "2022-03-02",
+   "register_id": "C2022C00108",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01202',start=2022-03-02,retrospectivestart=2022-03-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01202/2022-03-02/text",
+   "sha256": "13e7b5bb5d07fa829d9ccb77d2e14de5add4599b398f7745add7d79acd16507a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-12-04",
+   "acts": []
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Offshore Petroleum (Safety Levies) Amendment Act 2006",
+    "Offshore Petroleum (Safety Levies) Amendment (Greenhouse Gas Storage) Act 2008",
+    "Offshore Petroleum (Safety Levies) Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum (Safety Levies) Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2009",
+    "Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-06-17",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 1) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 2) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-12-14",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-18",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-01-17",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-20",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment (Designated Coastal Waters) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-04-03",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment (Miscellaneous Matters) Act 2015",
+    "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment (Miscellaneous Matters) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2019-10-29",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-04-28",
+   "acts": [
+    "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Act 2019",
+    "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Act 2019",
+    "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Act 2019"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

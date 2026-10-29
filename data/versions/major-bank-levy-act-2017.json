@@ -1,0 +1,21 @@
+{
+ "title_id": "C2017A00063",
+ "name": "Major Bank Levy Act 2017",
+ "folder": "major-bank-levy-act-2017",
+ "compilations": [
+  {
+   "in_force": "2017-06-23",
+   "register_id": "C2017A00063",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00063',start=2017-06-23,retrospectivestart=2017-06-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00063/2017-06-23/text",
+   "sha256": "2a9ce71e35144e81453259faa1ab747f3539593206831c3cc9a6c36c5aa835c8"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00068",
+ "name": "Cash Distribution Framework Act 2026",
+ "folder": "cash-distribution-framework-act-2026",
+ "compilations": [
+  {
+   "in_force": "2026-08-26",
+   "register_id": "C2026A00068",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00068',start=2026-08-26,retrospectivestart=2026-08-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00068/2026-08-26/text",
+   "sha256": "ecdf9320406964fcff2f6cf19928fd36ea888cec085825c124eb9040b84ae9a1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

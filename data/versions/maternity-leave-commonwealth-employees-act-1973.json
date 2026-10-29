@@ -1,0 +1,140 @@
+{
+ "title_id": "C2004A00024",
+ "name": "Maternity Leave (Commonwealth Employees) Act 1973",
+ "folder": "maternity-leave-commonwealth-employees-act-1973",
+ "compilations": [
+  {
+   "in_force": "2006-03-27",
+   "register_id": "C2006C00072",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00024',start=2006-03-27,retrospectivestart=2006-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00024/2006-03-27/text",
+   "sha256": "6b1d31a6a445b90eb480a7f194ac17b8ffe7ad584d6aa0404d8e86bcba0e30fe"
+  },
+  {
+   "in_force": "2009-07-01",
+   "register_id": "C2009C00320",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00024',start=2009-07-01,retrospectivestart=2009-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00024/2009-07-01/text",
+   "sha256": "9d2e203b90bdc18c7afb7b4a2c10979a8e5cf3aa75b2b3e1e954268a1583823f"
+  },
+  {
+   "in_force": "2013-04-12",
+   "register_id": "C2013C00257",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00024',start=2013-04-12,retrospectivestart=2013-04-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00024/2013-04-12/text",
+   "sha256": "9f92f9c53e13be0176246b4ffc7627a8588a8464b35f30bed743bbffcd5da89e"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00525",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00024',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00024/2021-09-01/text",
+   "sha256": "66a54bf258e1ad5f2c130e64adc0b1d62e9302053f0d0526d46decdf1fe61437"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1973-06-18",
+   "acts": []
+  },
+  {
+   "in_force": "1978-11-28",
+   "acts": [
+    "Maternity Leave (Australian Government Employees) Amendment Act 1978",
+    "Maternity Leave (Australian Government Employees) Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1979-10-19",
+   "acts": [
+    "Australian Federal Police (Consequential Amendments) Act 1979"
+   ]
+  },
+  {
+   "in_force": "1981-03-15",
+   "acts": [
+    "Maternity Leave (Australian Government Employees) Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1988-12-07",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-14",
+   "acts": [
+    "Statute Law Revision Act 1996",
+    "OTC (Conversion into Public Company) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-12-18",
+   "acts": [
+    "Prime Minister and Cabinet Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1993-01-21",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-19",
+   "acts": [
+    "Industrial Relations and Other Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Australian Capital Territory Government Service (Consequential Provisions) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999",
+    "Parliamentary Service (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

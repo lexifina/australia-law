@@ -1,0 +1,919 @@
+{
+ "title_id": "C2004A00491",
+ "name": "A New Tax System (Family Assistance) (Administration) Act 1999",
+ "folder": "a-new-tax-system-family-assistance-administration-act-1999",
+ "compilations": [
+  {
+   "in_force": "2026-01-01",
+   "register_id": "C2026C00076",
+   "compilation": "129",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00491',start=2026-01-01,retrospectivestart=2026-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00491/2026-01-01/text",
+   "sha256": "d997d898c8d211432e16db9898d963bf33d143a176bece5f32fef0d64a3bc18a"
+  },
+  {
+   "in_force": "2026-03-20",
+   "register_id": "C2026C00095",
+   "compilation": "130",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00491',start=2026-03-20,retrospectivestart=2026-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00491/2026-03-20/text",
+   "sha256": "f9188d429cab5c6f39213a4249865fa0816f6b6d68935f2ff182af9eb59c6825"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00329",
+   "compilation": "131",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00491',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00491/2026-07-01/text",
+   "sha256": "f8db06658e2b55252d097ad879253db014afa1d0aa18053fac22a835e7a95293"
+  },
+  {
+   "in_force": "2026-09-19",
+   "register_id": "C2026C00426",
+   "compilation": "132",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00491',start=2026-09-19,retrospectivestart=2026-09-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00491/2026-09-19/text",
+   "sha256": "da012bafdc3ba26e8b06978ab91a20fed29e92218709812af09bf785c469fd0c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-07-08",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "A New Tax System (Tax Administration) Act (No. 1) 2000",
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Social Security (Administration and International Agreements) (Consequential Amendments) Act 1999",
+    "A New Tax System (Family Assistance and Related Measures) Act 2000",
+    "Family and Community Services Legislation Amendment Act 2003",
+    "Family and Community Services Legislation Amendment Act 2003",
+    "Family and Community Services Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2001-01-01",
+   "acts": [
+    "Family and Community Services (2000 Budget and Related Measures) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-12",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (Debt Recovery) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-01",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (Debt Recovery) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Family Assistance Estimate Tolerance (Transition) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Child Support Legislation Amendment Act 2001",
+    "Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2003-04-15",
+   "acts": [
+    "Family and Community Services Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-04-24",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Australians Working Together and other 2001 Budget Measures) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Budget Initiatives and Other Measures) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-01-01",
+   "acts": [
+    "Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-04-20",
+   "acts": [
+    "Family Assistance Legislation Amendment (Extension of Time Limits) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-05-26",
+   "acts": [
+    "Family Assistance Legislation Amendment (More Help for Families—One-off Payments) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003",
+    "Family Assistance Legislation Amendment (More Help for Families-Increased Payments) Act 2004",
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Family and Community Services and Veterans' Affairs Legislation Amendment (2004 Election Commitments) Act 2004",
+    "Family and Community Services and Veterans’ Affairs Legislation Amendment (Further 2004 Election Commitments and Other Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-06-26",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Family Assistance and Related Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Family Assistance and Related Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-10-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-14",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Welfare to Work) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-19",
+   "acts": [
+    "Tax Laws Amendment (2005 Measures No. 4) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-01-01",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Family Assistance and Related Measures) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-05-04",
+   "acts": [
+    "Family Assistance, Social Security and Veterans' Affairs Legislation Amendment (2005 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Family Assistance, Social Security and Veterans' Affairs Legislation Amendment (2005 Budget and Other Measures) Act 2006",
+    "Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Social Security and Family Assistance Legislation Amendment (Miscellaneous Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-06-29",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007",
+    "Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007",
+    "Families, Community Services and Indigenous Affairs Legislation Amendment (Child Care and Other 2007 Budget Measures) Act 2007",
+    "Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-08-18",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Welfare Payment Reform) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-25",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-26",
+   "acts": [
+    "Dental Benefits (Consequential Amendments) Act 2008",
+    "Family Assistance Legislation Amendment (Child Care Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-06-30",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2008 Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006",
+    "Family Assistance Legislation Amendment (Child Care Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-07",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Economic Security Strategy) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-12-09",
+   "acts": [
+    "Tax Laws Amendment (Education Refund) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care Budget and Other Measures) Act 2008",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2008 Budget and Other Measures) Act 2008",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-02-18",
+   "acts": [
+    "Household Stimulus Package Act (No. 2) 2009"
+   ]
+  },
+  {
+   "in_force": "2009-06-24",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment (2008 Budget and Other Measures) Act 2009",
+    "Family Assistance Legislation Amendment (Child Care) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-06-25",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008",
+    "Family Assistance and Other Legislation Amendment (2008 Budget and Other Measures) Act 2009",
+    "Family Assistance Amendment (Further 2008 Budget Measures) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-22",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-24",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Family Assistance Legislation Amendment (Participation Requirement) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-13",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-14",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010",
+    "Family Assistance Legislation Amendment (Child Care) Act 2010",
+    "Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-05-11",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care) Act 2010",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Family Assistance Amendment (Further 2008 Budget Measures) Act 2009",
+    "Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010",
+    "Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010",
+    null
+   ]
+  },
+  {
+   "in_force": "2010-10-01",
+   "acts": [
+    "Paid Parental Leave (Consequential Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Paid Parental Leave (Consequential Amendments) Act 2010",
+    "Paid Parental Leave (Consequential Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-22",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-22",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care Rebate) Act 2011",
+    "Family Assistance Legislation Amendment (Child Care Rebate) Act 2011",
+    "Family Assistance Legislation Amendment (Child Care Rebate) Act 2011",
+    "Family Assistance Legislation Amendment (Child Care Rebate) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-05-26",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Budget and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-06-28",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Election Commitments and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011",
+    "Human Services Legislation Amendment Act 2011",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Election Commitments and Other Measures) Act 2011",
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further Election Commitments and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-26",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care Rebate) Act 2011",
+    "Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-08-22",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-10-15",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care Financial Viability) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Election Commitments and Other Measures) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-05-14",
+   "acts": [
+    "Clean Energy (Household Assistance Amendments) Act 2011",
+    "Clean Energy (Household Assistance Amendments) Act 2011",
+    "Family Assistance and Other Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-05-26",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-05-27",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment (Schoolkids Bonus Budget Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-06-30",
+   "acts": [
+    "Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment Act 2012",
+    "Family Assistance and Other Legislation Amendment (Schoolkids Bonus Budget Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-11-17",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-15",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-28",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-01",
+   "acts": [
+    "Family Assistance and Other Legislation Amendment Act 2013",
+    "Social Services and Other Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-04-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-05-01",
+   "acts": [
+    "Social Services and Other Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Farm Household Support (Consequential and Transitional Provisions) Act 2014",
+    "Social Services and Other Legislation Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-05",
+   "acts": [
+    "Minerals Resource Rent Tax Repeal and Other Measures Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-12",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Seniors Health Card and Other Measures) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-20",
+   "acts": [
+    "Social Services and Other Legislation Amendment (2014 Budget Measures No. 6) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-17",
+   "acts": [
+    "Omnibus Repeal Day (Autumn 2014) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-14",
+   "acts": [
+    "Civil Law and Justice (Omnibus Amendments) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-13",
+   "acts": [
+    "Social Security Legislation Amendment (Debit Card Trial) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-06",
+   "acts": [
+    "Social Services Legislation Amendment (Miscellaneous Measures) Act 2016",
+    "Omnibus Repeal Day (Autumn 2015) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015",
+    "Social Services Legislation Amendment (Family Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-12-01",
+   "acts": [
+    "Social Services Legislation Amendment (Family Assistance Alignment and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-12-31",
+   "acts": [
+    "Minerals Resource Rent Tax Repeal and Other Measures Act 2014"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016",
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-04-05",
+   "acts": [
+    "Family Assistance Legislation Amendment (Jobs for Families Child Care Package) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Family Assistance Legislation Amendment (Jobs for Families Child Care Package) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-05-01",
+   "acts": [
+    "Veterans’ Affairs Legislation Amendment (Veteran-centric Reforms No. 1) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Family Assistance and Child Support Legislation Amendment (Protecting Children) Act 2018",
+    "Family Assistance and Child Support Legislation Amendment (Protecting Children) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-07-02",
+   "acts": [
+    "Family Assistance Legislation Amendment (Jobs for Families Child Care Package) Act 2017",
+    "Social Services Legislation Amendment (Welfare Reform) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-07-01",
+   "acts": [
+    "Education and Other Legislation Amendment (VET Student Loan Debt Separation) Act 2018",
+    "Treasury Laws Amendment (2019 Measures No. 1) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-12-13",
+   "acts": [
+    "Family Assistance Legislation Amendment (Building on the Child Care Package) Act 2019",
+    "Family Assistance Legislation Amendment (Improving Assistance for Vulnerable and Disadvantaged Families) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2019-12-16",
+   "acts": [
+    "Family Assistance Legislation Amendment (Building on the Child Care Package) Act 2019",
+    "Family Assistance Legislation Amendment (Improving Assistance for Vulnerable and Disadvantaged Families) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-01-01",
+   "acts": [
+    "Family Assistance Legislation Amendment (Extend Family Assistance to ABSTUDY Secondary School Boarding Students Aged 16 and Over) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-01-13",
+   "acts": [
+    "Family Assistance Legislation Amendment (Building on the Child Care Package) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-01",
+   "acts": [
+    "Services Australia Governance Amendment Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-03-25",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-04-09",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus (Measures No. 2) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-04-20",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus (Measures No. 2) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-07-01",
+   "acts": [
+    "Coronavirus Economic Response Package Omnibus (Measures No. 2) Act 2020",
+    "Paid Parental Leave Amendment (Flexibility Measures) Act 2020",
+    "Family Assistance Legislation Amendment (Early Childhood Education and Care Coronavirus Response and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2020-09-07",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2020-11-14",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Coronavirus and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-11-20",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2020-11-27",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Omnibus) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2020-12-07",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Simplifying Income Reporting and Other Measures) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-03-26",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2021-03-27",
+   "acts": [
+    "Family Assistance Legislation Amendment (Early Childhood Education and Care Coronavirus Response and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Family Assistance Legislation Amendment (Improving Assistance for Vulnerable and Disadvantaged Families) Act 2020",
+    "Family Assistance Legislation Amendment (Early Childhood Education and Care Coronavirus Response and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-12-10",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care Subsidy) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-03-07",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care Subsidy) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-08-17",
+   "acts": [
+    "Courts and Tribunals Legislation Amendment (2021 Measures No. 1) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-10-01",
+   "acts": [
+    "Social Security (Administration) Amendment (Repeal of Cashless Debit Card and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-11-30",
+   "acts": [
+    "Family Assistance Legislation Amendment (Cheaper Child Care) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-01-01",
+   "acts": [
+    "Family Assistance Legislation Amendment (Cheaper Child Care) Act 2022",
+    "Family Assistance Legislation Amendment (Cheaper Child Care) Act 2022",
+    "Family Assistance Legislation Amendment (Cheaper Child Care) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-03-26",
+   "acts": [
+    "Paid Parental Leave Amendment (Improvements for Families and Gender Equality) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-03-30",
+   "acts": [
+    "Social Security (Administration) Amendment (Repeal of Cashless Debit Card and Other Measures) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-06-29",
+   "acts": [
+    "Family Assistance Legislation Amendment (Child Care Subsidy) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Family Assistance Legislation Amendment (Cheaper Child Care) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2024-07-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Supporting the Transition to Work) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-02-21",
+   "acts": [
+    "Administrative Review Tribunal (Miscellaneous Measures) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-08-03",
+   "acts": [
+    "Early Childhood Education and Care (Strengthening Regulation of Early Education) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-12-05",
+   "acts": [
+    "Regulatory Reform Omnibus Act 2025",
+    "Education Legislation Amendment (Integrity and Other Measures) Act 2025",
+    "Social Security and Other Legislation Amendment (Technical Changes No. 2) Act 2025"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

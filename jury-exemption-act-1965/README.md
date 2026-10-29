@@ -1,0 +1,14 @@
+# Jury Exemption Act 1965
+
+Register title C1965A00013 · <https://www.legislation.gov.au/C1965A00013/latest/versions>
+
+4 compilations, 2001-04-19 to 2013-01-01.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| long title and preamble | [intro.md](intro.md) | 0 |  |
+| s 1 | [s-001.md](s-001.md) | 0 |  |
+| s 2 | [s-002.md](s-002.md) | 0 |  |
+| s 4 | [s-004.md](s-004.md) | 0 |  |
+| s 5 | [s-005.md](s-005.md) | 0 |  |
+| Sch | [sch.md](sch.md) | 3 | 2013-01-01 |

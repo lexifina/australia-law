@@ -1,0 +1,180 @@
+{
+ "title_id": "C2004A01857",
+ "name": "Northern Territory (Self-Government) Act 1978",
+ "folder": "northern-territory-self-government-act-1978",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00573",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01857',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01857/2014-07-01/text",
+   "sha256": "706a7c58f033e59e37858f8e48d79215271c6a9987ac7e5a443b9c679b5c0b72"
+  },
+  {
+   "in_force": "2022-12-13",
+   "register_id": "C2023C00002",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01857',start=2022-12-13,retrospectivestart=2022-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01857/2022-12-13/text",
+   "sha256": "75e3b2204471dfcb9654f7a764059812b3af0f072efb4f42052e26ea3ae26c0a"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00815",
+   "compilation": "15",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01857',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01857/2024-12-11/text",
+   "sha256": "61f06b3ee59699f1e5e460f43a274f001530643462ca770519b8ac7a458fe3ae"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1970-06-22",
+   "acts": []
+  },
+  {
+   "in_force": "1978-06-22",
+   "acts": [
+    "Northern Territory (Self-Government) Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1982-12-14",
+   "acts": [
+    "Northern Territory (Self-Government) Amendment Act 1982"
+   ]
+  },
+  {
+   "in_force": "1984-06-25",
+   "acts": [
+    "Cocos (Keeling) Islands Self-Determination (Consequential Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Australian Government Solicitor (Consequential Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1984-10-18",
+   "acts": [
+    "Christmas Island Administration (Miscellaneous Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-06-24",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1986"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-09",
+   "acts": [
+    "Lands Acquisition (Repeal and Consequential Provisions) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-03-21",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-03-27",
+   "acts": [
+    "Euthanasia Laws Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-09-01",
+   "acts": [
+    "Judiciary Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-04",
+   "acts": [
+    "Territories Self-Government Legislation Amendment (Disallowance and Amendment of Laws) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

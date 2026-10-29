@@ -1,0 +1,21 @@
+{
+ "title_id": "C2020A00028",
+ "name": "Australian Business Growth Fund (Coronavirus Economic Response Package) Act 2020",
+ "folder": "australian-business-growth-fund-coronavirus-economic-response-package",
+ "compilations": [
+  {
+   "in_force": "2020-03-24",
+   "register_id": "C2020A00028",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00028',start=2020-03-24,retrospectivestart=2020-03-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00028/2020-03-24/text",
+   "sha256": "12ca39ca6bfc5ee01f88679ab0ec80ca2209d281c03728fdedffffa64ef99c32"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

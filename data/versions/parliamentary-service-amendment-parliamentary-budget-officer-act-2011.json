@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00170",
+ "name": "Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011",
+ "folder": "parliamentary-service-amendment-parliamentary-budget-officer-act-2011",
+ "compilations": [
+  {
+   "in_force": "2011-12-04",
+   "register_id": "C2011A00170",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00170',start=2011-12-04,retrospectivestart=2011-12-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00170/2011-12-04/text",
+   "sha256": "13a3909e5ea6746a9179bb5901c5cf44abe58dc988d22028ee2d65b17f253885"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,90 @@
+{
+ "title_id": "C2004A04396",
+ "name": "Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992",
+ "folder": "broadcasting-services-transitional-provisions-and-consequential",
+ "compilations": [
+  {
+   "in_force": "2014-10-17",
+   "register_id": "C2014C00760",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04396',start=2014-10-17,retrospectivestart=2014-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04396/2014-10-17/text",
+   "sha256": "bf7a2cfaca00b252c8e47f8c6dc3d4c399842964b5ef2397c61b213206a9bfbf"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00016",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04396',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04396/2015-12-10/text",
+   "sha256": "96c859a2b86086cda033567c0374336733c4f0ec89bbdadaab8c0c6b6c31cb1f"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00754",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04396',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04396/2016-07-01/text",
+   "sha256": "f456f2ed0739a34ed6818fde32f0e0415c30def889c55db50eb6901d116ec25f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1992-07-09",
+   "acts": []
+  },
+  {
+   "in_force": "1992-10-05",
+   "acts": [
+    "Statute Law Revision Act 2006"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Transport and Communications Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-07-01",
+   "acts": [
+    "Radiocommunications (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1997-10-08",
+   "acts": [
+    "Broadcasting Services Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2002-12-02",
+   "acts": [
+    "Broadcasting Legislation Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-12-30",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

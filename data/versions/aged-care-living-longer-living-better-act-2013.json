@@ -1,0 +1,32 @@
+{
+ "title_id": "C2013A00076",
+ "name": "Aged Care (Living Longer Living Better) Act 2013",
+ "folder": "aged-care-living-longer-living-better-act-2013",
+ "compilations": [
+  {
+   "in_force": "2013-06-28",
+   "register_id": "C2013A00076",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00076',start=2013-06-28,retrospectivestart=2013-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00076/2013-06-28/text",
+   "sha256": "8bfe0d4e314b6d6178c225d1939c9dee76ee6def58aba11d7f90f34cc2263611"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00170",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00076',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00076/2016-03-05/text",
+   "sha256": "2f6888c2cc144f06c477f9a8e3a8420c5f60addf7596d00a605b6fd795f94118"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

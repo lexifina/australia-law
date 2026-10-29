@@ -1,0 +1,21 @@
+{
+ "title_id": "C2020A00005",
+ "name": "VET Student Loans (VSL Tuition Protection Levy) Act 2020",
+ "folder": "vet-student-loans-vsl-tuition-protection-levy-act-2020",
+ "compilations": [
+  {
+   "in_force": "2020-01-01",
+   "register_id": "C2020A00005",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00005',start=2020-01-01,retrospectivestart=2020-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00005/2020-01-01/text",
+   "sha256": "5217cbaf6cf66ce0df746ae0b8700539454f860c025b7d9a2e6306178a33dab5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

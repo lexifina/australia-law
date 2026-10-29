@@ -1,0 +1,115 @@
+{
+ "title_id": "C2004A00776",
+ "name": "Defence Reserve Service (Protection) Act 2001",
+ "folder": "defence-reserve-service-protection-act-2001",
+ "compilations": [
+  {
+   "in_force": "2020-12-18",
+   "register_id": "C2021C00049",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00776',start=2020-12-18,retrospectivestart=2020-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00776/2020-12-18/text",
+   "sha256": "1c418e3f226ee259b75353205da7b5693574882dcda9c7ad0f1de380d05fe5c8"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00444",
+   "compilation": "13",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00776',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00776/2021-09-01/text",
+   "sha256": "7de747a1eca324fa3403fa91de99bae889c18fe60d7bd36cdd150c2b0786a175"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00687",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00776',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00776/2024-10-14/text",
+   "sha256": "26375d397258869dbc19b58963d49ad4c363a4baaea5c7f93218229c2f0452ae"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2001-03-22",
+   "acts": []
+  },
+  {
+   "in_force": "2001-04-19",
+   "acts": [
+    "Defence Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-03-02",
+   "acts": [
+    "Defence Legislation Amendment (Aid to Civilian Authorities) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Defence Legislation Amendment (First Principles) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-11-27",
+   "acts": [
+    "Defence Legislation Amendment (2017 Measures No. 1) Act 2017",
+    "Defence Legislation Amendment (2017 Measures No. 1) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-11-06",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2019-03-29",
+   "acts": [
+    "Defence Legislation Amendment Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-06-10",
+   "acts": [
+    "Defence Amendment (Call Out of the Australian Defence Force) Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

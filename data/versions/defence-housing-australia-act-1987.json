@@ -1,0 +1,165 @@
+{
+ "title_id": "C2004A03510",
+ "name": "Defence Housing Australia Act 1987",
+ "folder": "defence-housing-australia-act-1987",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00196",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03510',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03510/2016-03-05/text",
+   "sha256": "e6bba57e811a7560d8a8865826e86cca0932f59fe698d2fcc7730720cf8b531c"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00809",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03510',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03510/2016-07-01/text",
+   "sha256": "76b5e64fbe89754eec4583d7eb89cbfa5b1c19ee14aa2a73276b15c1eff07872"
+  },
+  {
+   "in_force": "2025-08-29",
+   "register_id": "C2025C00505",
+   "compilation": "18",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03510',start=2025-08-29,retrospectivestart=2025-08-29,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03510/2025-08-29/text",
+   "sha256": "ef39427908f91d628cd2e27bb6f4c4a3d75d3bf4f67e722e795d1639fdc7ce07"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1987-11-06",
+   "acts": []
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Defence Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-06-09",
+   "acts": [
+    "Lands Acquisition (Repeal and Consequential Provisions) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1991-02-05",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 2) 1990"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Defence Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-02-19",
+   "acts": [
+    "Defence Legislation Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "1999-01-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-11-22",
+   "acts": [
+    "Defence Housing Authority Amendment Act 2006",
+    "Defence Housing Authority Amendment Act 2006",
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

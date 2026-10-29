@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A01549",
+ "name": "Christmas Island Agreement Act 1976",
+ "folder": "christmas-island-agreement-act-1976",
+ "compilations": [
+  {
+   "in_force": "1976-11-18",
+   "register_id": "C2004A01549",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01549',start=1976-11-18,retrospectivestart=1976-11-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01549/1976-11-18/text",
+   "sha256": "8e833e536ab64e99a903d5055c858aa5fe27ef4dbe21d2f86255132fba3a4012"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

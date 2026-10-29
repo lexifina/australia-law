@@ -1,0 +1,21 @@
+{
+ "title_id": "C2005A00003",
+ "name": "A New Tax System (Goods and Services Tax Imposition (Recipients)—General) Act 2005",
+ "folder": "a-new-tax-system-goods-and-services-tax-imposition-recipients-general",
+ "compilations": [
+  {
+   "in_force": "2005-02-18",
+   "register_id": "C2005A00003",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2005A00003',start=2005-02-18,retrospectivestart=2005-02-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2005A00003/2005-02-18/text",
+   "sha256": "70d7ba717c0b74601e8573cfc6482e8c5d293462244c2c089118085d09f88c5f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

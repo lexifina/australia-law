@@ -1,0 +1,32 @@
+{
+ "title_id": "C2012A00059",
+ "name": "Income Tax (Labour Mobility Program Withholding Tax) Act 2012",
+ "folder": "income-tax-labour-mobility-program-withholding-tax-act-2012",
+ "compilations": [
+  {
+   "in_force": "2012-06-21",
+   "register_id": "C2012A00059",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00059',start=2012-06-21,retrospectivestart=2012-06-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00059/2012-06-21/text",
+   "sha256": "5b07679c52ef28bef2385492a467705ba72b1be05118d3fe23c8a4e5d1aa24f9"
+  },
+  {
+   "in_force": "2022-07-01",
+   "register_id": "C2022C00337",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00059',start=2022-07-01,retrospectivestart=2022-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00059/2022-07-01/text",
+   "sha256": "a29a0e1646aecc01a1897c0ad0170cd2cdc4e14a17a21ae8ade5482a658ebf61"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

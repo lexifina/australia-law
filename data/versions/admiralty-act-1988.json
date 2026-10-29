@@ -1,0 +1,128 @@
+{
+ "title_id": "C2004A03627",
+ "name": "Admiralty Act 1988",
+ "folder": "admiralty-act-1988",
+ "compilations": [
+  {
+   "in_force": "2019-08-30",
+   "register_id": "C2019C00251",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03627',start=2019-08-30,retrospectivestart=2019-08-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03627/2019-08-30/text",
+   "sha256": "f6597f8c613f4dfd417ab4b3f4a381e5ca97cbbc94da501333894f1f6fd9a5ee"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00359",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03627',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03627/2021-09-01/text",
+   "sha256": "753069a9936ffe83fbffb7c94c4d66531ce6359c1e99dcbd6f040641f071d04f"
+  },
+  {
+   "in_force": "2022-02-18",
+   "register_id": "C2022C00080",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03627',start=2022-02-18,retrospectivestart=2022-02-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03627/2022-02-18/text",
+   "sha256": "f9c07e7369da5e1169e7b8f36bda91135e2f37d43194c802f846f7e3f08eecda"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-05-22",
+   "acts": []
+  },
+  {
+   "in_force": "1991-05-30",
+   "acts": [
+    "Limitation of Liability for Maritime Claims Act 1989"
+   ]
+  },
+  {
+   "in_force": "1993-04-10",
+   "acts": [
+    "Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-08-01",
+   "acts": [
+    "Maritime Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "2004-05-13",
+   "acts": [
+    "International Maritime Conventions Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-05-04",
+   "acts": [
+    "Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-03",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-06-16",
+   "acts": [
+    "Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-30",
+   "acts": [
+    "Personal Property Securities (Consequential Amendments) Act 2009",
+    "Personal Property Securities (Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Navigation (Consequential Amendments) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

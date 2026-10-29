@@ -1,0 +1,66 @@
+{
+ "title_id": "C2012A00188",
+ "name": "Judicial Misbehaviour and Incapacity (Parliamentary Commissions) Act 2012",
+ "folder": "judicial-misbehaviour-and-incapacity-parliamentary-commissions-act-2012",
+ "compilations": [
+  {
+   "in_force": "2020-09-06",
+   "register_id": "C2020C00277",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00188',start=2020-09-06,retrospectivestart=2020-09-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00188/2020-09-06/text",
+   "sha256": "b02a7452590a51e81582fb9d6c0c2e580ab3f4d454c9761f516f0ce7397d8a8f"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00498",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00188',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00188/2021-09-01/text",
+   "sha256": "f8eda7680b2822047a0a26545edbb7ef4e36189b8bc67034eccb0172382cf194"
+  },
+  {
+   "in_force": "2026-03-28",
+   "register_id": "C2026C00121",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00188',start=2026-03-28,retrospectivestart=2026-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00188/2026-03-28/text",
+   "sha256": "f436a9cd1c1dc079ec70b87ba9fd349186b6b890bb4b1f31d86dfcc644de2ffc"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-12-11",
+   "acts": []
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Law and Justice Legislation Amendment (Northern Territory Local Court) Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

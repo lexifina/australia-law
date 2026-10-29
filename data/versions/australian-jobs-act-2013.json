@@ -1,0 +1,60 @@
+{
+ "title_id": "C2013A00069",
+ "name": "Australian Jobs Act 2013",
+ "folder": "australian-jobs-act-2013",
+ "compilations": [
+  {
+   "in_force": "2019-08-30",
+   "register_id": "C2019C00250",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00069',start=2019-08-30,retrospectivestart=2019-08-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00069/2019-08-30/text",
+   "sha256": "7d49ed7ad1b0afd9ed8c41b24f56a87c0c895005311cf0e37c59875946fd2184"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00410",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00069',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00069/2021-09-01/text",
+   "sha256": "518bb97e27decbea866f385de6d2beb25374e070bdd248720ded9743a1fd4cc4"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00577",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00069',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00069/2024-10-14/text",
+   "sha256": "3d6ced882127cb34f8cf0f6eb801ca3bb7bf7cc3ace210e85374562879ba179c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2013-06-27",
+   "acts": []
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

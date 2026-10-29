@@ -1,0 +1,34 @@
+{
+ "title_id": "C2004A02276",
+ "name": "Coastal Waters (State Powers) Act 1980",
+ "folder": "coastal-waters-state-powers-act-1980",
+ "compilations": [
+  {
+   "in_force": "1982-01-01",
+   "register_id": "C2006C00153",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02276',start=1982-01-01,retrospectivestart=1982-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02276/1982-01-01/text",
+   "sha256": "fb3d9496c523b8331f812e3d75b4e502e219f1eb3c52fa54d38f2088742d0200"
+  },
+  {
+   "in_force": "2008-07-01",
+   "register_id": "C2008C00193",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02276',start=2008-07-01,retrospectivestart=2008-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02276/2008-07-01/text",
+   "sha256": "55dd46dd917a771013b75b5be14748059d8f6283436db1b8fac006234a1019af"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1980-05-29"
+ ],
+ "repeal": null
+}

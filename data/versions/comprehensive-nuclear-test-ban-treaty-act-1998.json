@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A00349",
+ "name": "Comprehensive Nuclear-Test-Ban Treaty Act 1998",
+ "folder": "comprehensive-nuclear-test-ban-treaty-act-1998",
+ "compilations": [
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00293",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00349',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00349/2011-04-19/text",
+   "sha256": "a552786e616c08715c61ae553fb1a6524c8abc32b6423d1ec225d6b60ec19892"
+  },
+  {
+   "in_force": "2014-06-24",
+   "register_id": "C2014C00204",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00349',start=2014-06-24,retrospectivestart=2014-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00349/2014-06-24/text",
+   "sha256": "70e9dae734a75ec6cd54280777292ace6865bd9643f05d43563daa85d3337769"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00509",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00349',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00349/2016-03-10/text",
+   "sha256": "7e7a864447b4320554fce60e1cde85b08784fed8d0741b33cb0f951e592e93c9"
+  },
+  {
+   "in_force": "2018-12-29",
+   "register_id": "C2019C00013",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00349',start=2018-12-29,retrospectivestart=2018-12-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00349/2018-12-29/text",
+   "sha256": "5b7eff76a4516624b9005b4175cb0728167243bf9b6939d89f2e680341f4408d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-07-02",
+   "acts": []
+  },
+  {
+   "in_force": "2001-05-26",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-12-12",
+   "acts": [
+    "Non-Proliferation Legislation Amendment Act 2003",
+    "Non-Proliferation Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2007-04-11",
+   "acts": [
+    "Non-Proliferation Legislation Amendment Act 2007"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

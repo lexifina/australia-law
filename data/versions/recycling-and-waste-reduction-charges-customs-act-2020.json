@@ -1,0 +1,21 @@
+{
+ "title_id": "C2020A00121",
+ "name": "Recycling and Waste Reduction Charges (Customs) Act 2020",
+ "folder": "recycling-and-waste-reduction-charges-customs-act-2020",
+ "compilations": [
+  {
+   "in_force": "2020-12-15",
+   "register_id": "C2020A00121",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00121',start=2020-12-15,retrospectivestart=2020-12-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00121/2020-12-15/text",
+   "sha256": "7a386a2f86ab3e74c3cbb84e1b0b99c2bd44a492424a2621c0a04b4be2218615"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

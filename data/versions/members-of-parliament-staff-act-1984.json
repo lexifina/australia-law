@@ -1,0 +1,108 @@
+{
+ "title_id": "C2004A02928",
+ "name": "Members of Parliament (Staff) Act 1984",
+ "folder": "members-of-parliament-staff-act-1984",
+ "compilations": [
+  {
+   "in_force": "2023-10-17",
+   "register_id": "C2023C00313",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02928',start=2023-10-17,retrospectivestart=2023-10-17,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02928/2023-10-17/text",
+   "sha256": "f48d0efee94f4d3278cc9eb28ca802baa1a68e92c32baff1f2442071a496aab8"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00727",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02928',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02928/2024-10-14/text",
+   "sha256": "f76bb7eca81c6a8845c8773f416ac20a29c76206cfa714f763457d81d724fe28"
+  },
+  {
+   "in_force": "2026-03-14",
+   "register_id": "C2026C00093",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02928',start=2026-03-14,retrospectivestart=2026-03-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02928/2026-03-14/text",
+   "sha256": "1b7ef62b0cf14cf2a32301721fe77b861e32c19079510af38f998d5ee2c59d93"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1984-06-25",
+   "acts": []
+  },
+  {
+   "in_force": "1985-06-24",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-01",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-01-01",
+   "acts": [
+    "Public Service Reform Act 1984"
+   ]
+  },
+  {
+   "in_force": "1987-01-15",
+   "acts": [
+    "Public Service Legislation (Streamlining) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2022-02-23",
+   "acts": [
+    "Parliamentary Workplace Reform (Set the Standard Measures No. 1) Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

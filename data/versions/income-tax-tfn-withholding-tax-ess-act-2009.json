@@ -1,0 +1,43 @@
+{
+ "title_id": "C2009A00132",
+ "name": "Income Tax (TFN Withholding Tax (ESS)) Act 2009",
+ "folder": "income-tax-tfn-withholding-tax-ess-act-2009",
+ "compilations": [
+  {
+   "in_force": "2009-12-14",
+   "register_id": "C2009A00132",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00132',start=2009-12-14,retrospectivestart=2009-12-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00132/2009-12-14/text",
+   "sha256": "456577c445fdd2c24a6ad0af1a9b891b6145625b254900ce222a8747e5239afc"
+  },
+  {
+   "in_force": "2013-05-28",
+   "register_id": "C2013C00275",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00132',start=2013-05-28,retrospectivestart=2013-05-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00132/2013-05-28/text",
+   "sha256": "b19254e128ed58c51c6ac43a989c05b865d53793d1b6db05b036bb6d6ec62af0"
+  },
+  {
+   "in_force": "2014-06-25",
+   "register_id": "C2014C00346",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00132',start=2014-06-25,retrospectivestart=2014-06-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00132/2014-06-25/text",
+   "sha256": "1e07ed8ca6bd3788697b177b8c6747188b5d7c8635747395593087aaebeddcbf"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

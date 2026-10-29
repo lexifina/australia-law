@@ -1,0 +1,48 @@
+{
+ "title_id": "C2015A00103",
+ "name": "Fuel Indexation (Road Funding) Special Account Act 2015",
+ "folder": "fuel-indexation-road-funding-special-account-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00420",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00103',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00103/2015-07-01/text",
+   "sha256": "023430b010537e625d640262f34c0731e5a01165a308fc033fa344cfece3c5c1"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00360",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00103',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00103/2016-03-05/text",
+   "sha256": "c53cbd66b18824aba1defbda76a5cec917f035c3b4fa63ae0739cd9e247a0ea6"
+  },
+  {
+   "in_force": "2024-07-06",
+   "register_id": "C2024C00283",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00103',start=2024-07-06,retrospectivestart=2024-07-06,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00103/2024-07-06/text",
+   "sha256": "2632bdfe6bed5f812d9eb06f25e645665ae15b10ad94b2c5ca1e901fc2fd121e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2015-06-30",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

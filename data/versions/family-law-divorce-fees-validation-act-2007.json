@@ -1,0 +1,21 @@
+{
+ "title_id": "C2007A00023",
+ "name": "Family Law (Divorce Fees Validation) Act 2007",
+ "folder": "family-law-divorce-fees-validation-act-2007",
+ "compilations": [
+  {
+   "in_force": "2007-03-15",
+   "register_id": "C2007A00023",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00023',start=2007-03-15,retrospectivestart=2007-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00023/2007-03-15/text",
+   "sha256": "9550c201c1b227bd159f7370580adfa37ef279fc87bf8b289954ff86edee42ff"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

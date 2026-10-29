@@ -1,0 +1,32 @@
+{
+ "title_id": "C2015A00134",
+ "name": "Asian Infrastructure Investment Bank Act 2015",
+ "folder": "asian-infrastructure-investment-bank-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-10-13",
+   "register_id": "C2015A00134",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00134',start=2015-10-13,retrospectivestart=2015-10-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00134/2015-10-13/text",
+   "sha256": "56b63e35efb82aca58ed9823bd8c9dc05a79605b2da739cd449c349de4e3f996"
+  },
+  {
+   "in_force": "2026-04-09",
+   "register_id": "C2026C00152",
+   "compilation": "1",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00134',start=2026-04-09,retrospectivestart=2026-04-09,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00134/2026-04-09/text",
+   "sha256": "f6d921c3cac3f5ae20f386a141d644c746e8616d349e5adf310199594e2a0d46"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

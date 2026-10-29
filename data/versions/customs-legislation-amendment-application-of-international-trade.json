@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A01260",
+ "name": "Customs Legislation Amendment (Application of International Trade Modernisation and Other Measures) Act 2004",
+ "folder": "customs-legislation-amendment-application-of-international-trade",
+ "compilations": [
+  {
+   "in_force": "2002-10-08",
+   "register_id": "C2004A01260",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01260',start=2002-10-08,retrospectivestart=2002-10-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01260/2002-10-08/text",
+   "sha256": "e4af1e778a85fd7456f52567dcb6a372c0bd13aeeccd52c68558e1ea5df7f03e"
+  },
+  {
+   "in_force": "2005-08-24",
+   "register_id": "C2005C00545",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01260',start=2005-08-24,retrospectivestart=2005-08-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01260/2005-08-24/text",
+   "sha256": "22e46b99af0c80981afaf3d816fb3378961335c43f45b23b96ca717015c30af4"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

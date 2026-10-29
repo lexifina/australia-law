@@ -1,0 +1,70 @@
+{
+ "title_id": "C1971A00055",
+ "name": "Income Tax (Bearer Debentures) Act 1971",
+ "folder": "income-tax-bearer-debentures-act-1971",
+ "compilations": [
+  {
+   "in_force": "1997-06-30",
+   "register_id": "C2004C00108",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00055',start=1997-06-30,retrospectivestart=1997-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00055/1997-06-30/text",
+   "sha256": "c184cdc0922dc5c7b07f90f8cf467b3de2aae2812c8a50b040c0cbb89e620a5a"
+  },
+  {
+   "in_force": "2006-07-01",
+   "register_id": "C2006C00321",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00055',start=2006-07-01,retrospectivestart=2006-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00055/2006-07-01/text",
+   "sha256": "83a2add49dfc1473c2163316d94ed31e93828777eb24478fea6fea0b7490556c"
+  },
+  {
+   "in_force": "2014-06-25",
+   "register_id": "C2014C00341",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00055',start=2014-06-25,retrospectivestart=2014-06-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00055/2014-06-25/text",
+   "sha256": "8bb22ad812360b3177776642b8bd82f19ea28972f0f45d306da20ece8b66e50b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1974-12-06",
+   "acts": [
+    "Income Tax (Bearer Debentures) Act 1974"
+   ]
+  },
+  {
+   "in_force": "1983-11-23",
+   "acts": [
+    "Income Tax (Bearer Debentures) Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1986-11-04",
+   "acts": [
+    "Taxation Laws (Miscellaneous Provisions) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1989-06-21",
+   "acts": [
+    "Taxation Laws Amendment (Rates and Rebates) Act 1989"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1971-05-25"
+ ],
+ "repeal": null
+}

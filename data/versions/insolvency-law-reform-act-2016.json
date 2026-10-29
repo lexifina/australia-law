@@ -1,0 +1,21 @@
+{
+ "title_id": "C2016A00011",
+ "name": "Insolvency Law Reform Act 2016",
+ "folder": "insolvency-law-reform-act-2016",
+ "compilations": [
+  {
+   "in_force": "2016-02-29",
+   "register_id": "C2016A00011",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2016A00011',start=2016-02-29,retrospectivestart=2016-02-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2016A00011/2016-02-29/text",
+   "sha256": "6c0a0f9b8743d53c06f0e367ffdab39abd46be7b07d2d79a62b83864129eef03"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

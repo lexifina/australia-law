@@ -1,0 +1,32 @@
+{
+ "title_id": "C2020A00052",
+ "name": "Official Development Assistance Multilateral Replenishment Obligations (Special Appropriation) Act 2020",
+ "folder": "official-development-assistance-multilateral-replenishment-obligations",
+ "compilations": [
+  {
+   "in_force": "2020-06-16",
+   "register_id": "C2020A00052",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00052',start=2020-06-16,retrospectivestart=2020-06-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00052/2020-06-16/text",
+   "sha256": "d2aeb7a4254aaade8ec0c7fadef7e3afdc5ff3b2a23e0c490d2393b38d163746"
+  },
+  {
+   "in_force": "2024-07-10",
+   "register_id": "C2024C00306",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00052',start=2024-07-10,retrospectivestart=2024-07-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00052/2024-07-10/text",
+   "sha256": "7ce7352e209c9e66d1bade96914a2fe3aa27bbd6fd0aecc10d880a2010cb43bb"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

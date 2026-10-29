@@ -1,0 +1,32 @@
+{
+ "title_id": "C2006A00065",
+ "name": "Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006",
+ "folder": "electoral-and-referendum-amendment-electoral-integrity-and-other",
+ "compilations": [
+  {
+   "in_force": "2005-12-08",
+   "register_id": "C2006A00065",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00065',start=2005-12-08,retrospectivestart=2005-12-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00065/2005-12-08/text",
+   "sha256": "2a3c9d9b9f38318fd24f9409dad7dd639d7b9542c02650965f36b09dff5567fc"
+  },
+  {
+   "in_force": "2007-03-15",
+   "register_id": "C2008C00455",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00065',start=2007-03-15,retrospectivestart=2007-03-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00065/2007-03-15/text",
+   "sha256": "6aa319697ac079949452e105ed21bd840e9bb00313ac0d2e41ce79dcd32e0a63"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

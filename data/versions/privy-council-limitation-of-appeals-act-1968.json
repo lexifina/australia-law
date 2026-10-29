@@ -1,0 +1,23 @@
+{
+ "title_id": "C1968A00036",
+ "name": "Privy Council (Limitation of Appeals) Act 1968",
+ "folder": "privy-council-limitation-of-appeals-act-1968",
+ "compilations": [
+  {
+   "in_force": "1973-12-31",
+   "register_id": "C2004C00594",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1968A00036',start=1973-12-31,retrospectivestart=1973-12-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1968A00036/1973-12-31/text",
+   "sha256": "8b4a115083be5eecdc19a019340c284d3707285774aa1183003f5abb28ad51f4"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1968-06-10"
+ ],
+ "repeal": null
+}

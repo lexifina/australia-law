@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00075",
+ "name": "News Journalism Payments Act 2026",
+ "folder": "news-journalism-payments-act-2026",
+ "compilations": [
+  {
+   "in_force": "2026-08-26",
+   "register_id": "C2026A00075",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00075',start=2026-08-26,retrospectivestart=2026-08-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00075/2026-08-26/text",
+   "sha256": "57cb8cbcf84f3b0432b16b00ce428a8e5a32c012884d9ac932849b49c78ee66a"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

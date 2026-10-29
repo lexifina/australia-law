@@ -1,0 +1,21 @@
+{
+ "title_id": "C1971A00104",
+ "name": "Pay-roll Tax (State Taxation of Commonwealth Authorities) Act 1971",
+ "folder": "pay-roll-tax-state-taxation-of-commonwealth-authorities-act-1971",
+ "compilations": [
+  {
+   "in_force": "1971-09-01",
+   "register_id": "C1971A00104",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1971A00104',start=1971-09-01,retrospectivestart=1971-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1971A00104/1971-09-01/text",
+   "sha256": "673e23ee5cbacac28c5899958a9621c3430ff8f0585ac7c2b8fa01f4852ac5b0"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

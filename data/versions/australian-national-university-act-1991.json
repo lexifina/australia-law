@@ -1,0 +1,121 @@
+{
+ "title_id": "C2004A04206",
+ "name": "Australian National University Act 1991",
+ "folder": "australian-national-university-act-1991",
+ "compilations": [
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00316",
+   "compilation": "13",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04206',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04206/2011-04-19/text",
+   "sha256": "40b1737c141ba84a1ac24f10031d93885fbed0c652dc854eaf83b52d227bc1bd"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00136",
+   "compilation": "14",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04206',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04206/2011-12-27/text",
+   "sha256": "4632d21f0679eb8112dcd83e32c8522c0b87ce210792cab47fe248394eb649e3"
+  },
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00377",
+   "compilation": "15",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04206',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04206/2014-07-01/text",
+   "sha256": "652c46fe2c1243b356e49115cbc8cb4722ed51362b6f8ee5adc8b13d6092b34e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-09-02",
+   "acts": []
+  },
+  {
+   "in_force": "1993-01-01",
+   "acts": [
+    "Higher Education Funding Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1995-12-16",
+   "acts": [
+    "Industrial Relations and other Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2000-03-13",
+   "acts": [
+    "Corporate Law Economic Reform Program Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-07-18",
+   "acts": [
+    "Higher Education Funding Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Statute Law Revision Act 2008",
+    "Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-07-13",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 2) 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-01",
+   "acts": [
+    "Bankruptcy Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-17",
+   "acts": [
+    "Higher Education Legislation Amendment Act (No. 3) 2004"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2005-12-14",
+   "acts": [
+    "Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Commonwealth Authorities and Companies Amendment Act 2008"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00026",
+ "name": "Free TAFE Act 2025",
+ "folder": "free-tafe-act-2025",
+ "compilations": [
+  {
+   "in_force": "2025-03-27",
+   "register_id": "C2025A00026",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00026',start=2025-03-27,retrospectivestart=2025-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00026/2025-03-27/text",
+   "sha256": "537b20e2398b53fe4fdfd49f2b35a5f3725e1e66d61e2deda4982bbf3cd0790b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

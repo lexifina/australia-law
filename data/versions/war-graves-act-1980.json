@@ -1,0 +1,84 @@
+{
+ "title_id": "C2004A02301",
+ "name": "War Graves Act 1980",
+ "folder": "war-graves-act-1980",
+ "compilations": [
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00360",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02301',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02301/2008-07-04/text",
+   "sha256": "5bf5efdd4a3b97f1aeffa7e35f0d1f006316a009b35c8f9d228957197c931367"
+  },
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00250",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02301',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02301/2011-04-19/text",
+   "sha256": "3e86a93b3c31b625b7990ec00741a80a709a2b25de3f73535c61da230d798a57"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00353",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02301',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02301/2011-12-27/text",
+   "sha256": "44f74eeb7ea231b35c0236408b127c4fc4e4838fd559cdb3bb303f5a0a24a2b4"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1980-06-06",
+   "acts": []
+  },
+  {
+   "in_force": "1982-09-22",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

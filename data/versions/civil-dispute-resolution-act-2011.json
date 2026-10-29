@@ -1,0 +1,54 @@
+{
+ "title_id": "C2011A00017",
+ "name": "Civil Dispute Resolution Act 2011",
+ "folder": "civil-dispute-resolution-act-2011",
+ "compilations": [
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00419",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00017',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00017/2015-07-01/text",
+   "sha256": "26bdb50f002cde11e746011b0993f1cf06a1b2a6b412437147f582e459182906"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00387",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00017',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00017/2021-09-01/text",
+   "sha256": "02311de833607d9958c6572e3f15bc3a759a89660b38779cae5791355640bb00"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00519",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00017',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00017/2024-10-14/text",
+   "sha256": "631e030927ee6c53d40e55815ba145521c1347b052105fc7d1fcd9b66d08f178"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-04-12",
+   "acts": []
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

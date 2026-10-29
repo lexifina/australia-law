@@ -1,0 +1,181 @@
+{
+ "title_id": "C2004A00274",
+ "name": "Racial Discrimination Act 1975",
+ "folder": "racial-discrimination-act-1975",
+ "compilations": [
+  {
+   "in_force": "2014-01-01",
+   "register_id": "C2014C00014",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00274',start=2014-01-01,retrospectivestart=2014-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00274/2014-01-01/text",
+   "sha256": "18e0c8add981dd363addc6ae7bc31670eceea36a8bc46d642a2a07c85af3b2f9"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00089",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00274',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00274/2015-12-10/text",
+   "sha256": "e5be6d641ae6eaf75473f45c84a73ad43ce045ddb51ae7bd8120a5f99b51e666"
+  },
+  {
+   "in_force": "2022-11-10",
+   "register_id": "C2022C00320",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00274',start=2022-11-10,retrospectivestart=2022-11-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00274/2022-11-10/text",
+   "sha256": "0c9f88da0f5ee4592cd97f639922e7ffa368c259682d943aab378ecc7fcc15c8"
+  },
+  {
+   "in_force": "2022-12-13",
+   "register_id": "C2022C00366",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00274',start=2022-12-13,retrospectivestart=2022-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00274/2022-12-13/text",
+   "sha256": "79503d4c39df522a077ed342b3bce3dc37b1fedc4ca98139bf19da12e911c59d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1975-06-11",
+   "acts": []
+  },
+  {
+   "in_force": "1976-09-20",
+   "acts": [
+    "Administrative Changes (Consequential Provisions) Act 1976"
+   ]
+  },
+  {
+   "in_force": "1981-12-10",
+   "acts": [
+    "Racial Discrimination Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1983-06-19",
+   "acts": [
+    "Racial Discrimination Amendment Act 1983"
+   ]
+  },
+  {
+   "in_force": "1986-12-10",
+   "acts": [
+    "Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1988-06-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1990-12-21",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1992-11-26",
+   "acts": [
+    "Human Rights and Equal Opportunity Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-08",
+   "acts": [
+    "Law and Justice Legislation Amendment Act (No. 3) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-13",
+   "acts": [
+    "Sex Discrimination and other Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1994-01-18",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1995-06-28",
+   "acts": [
+    "Human Rights Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-10-13",
+   "acts": [
+    "Racial Hatred Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-04-13",
+   "acts": [
+    "Human Rights Legislation Amendment Act (No. 1) 1999",
+    null
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000",
+    "Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

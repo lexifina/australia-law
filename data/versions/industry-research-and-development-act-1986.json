@@ -1,0 +1,277 @@
+{
+ "title_id": "C2004A03330",
+ "name": "Industry Research and Development Act 1986",
+ "folder": "industry-research-and-development-act-1986",
+ "compilations": [
+  {
+   "in_force": "2024-05-31",
+   "register_id": "C2024C00201",
+   "compilation": "32",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03330',start=2024-05-31,retrospectivestart=2024-05-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03330/2024-05-31/text",
+   "sha256": "3d9013f2b0038732e50d4595ebce45ff01692912686f4c637051e263247e226e"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00664",
+   "compilation": "33",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03330',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03330/2024-10-14/text",
+   "sha256": "8e9ade306d37b6986b7e2b63116432c9e2d7c915649984a4643001b530ef073f"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00119",
+   "compilation": "34",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03330',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03330/2025-02-21/text",
+   "sha256": "f7c9415136c40de70a8370a341af7ed4ef9a068abc71fa5f2a17f74f1c09d9bf"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1986-06-25",
+   "acts": []
+  },
+  {
+   "in_force": "1988-07-01",
+   "acts": [
+    "Research and Development Legislation Amendment Act 1988",
+    "Industry Research and Development Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1989-12-19",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-06-07",
+   "acts": [
+    "Taxation Laws Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-06-15",
+   "acts": [
+    "Industry, Technology and Commerce Legislation Amendment Act 1991",
+    "Industry Research and Development Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1992-12-24",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 1992",
+    "Industry Research and Development Amendment Act 1995",
+    "Taxation Laws (Technical Amendments) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1994-06-29",
+   "acts": [
+    "Industry, Technology and Regional Development Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-19",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 4) 1994",
+    "Industry Research and Development Amendment Act 1995",
+    "Industry Research and Development Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Industry Research and Development Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1995-12-06",
+   "acts": [
+    "Industry Research and Development Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1996-12-19",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 3) 1996",
+    "Industry Research and Development Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-06-22",
+   "acts": [
+    "Tax Law Improvement Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1999-04-09",
+   "acts": [
+    "Industry Research and Development Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-01-29",
+   "acts": [
+    "Taxation Laws Amendment (Research and Development) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-06-30",
+   "acts": [
+    "Taxation Laws Amendment (Research and Development) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Taxation Laws Amendment (Research and Development) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-09-11",
+   "acts": [
+    "Industry Research and Development Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2007-09-25",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 5) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-27",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 5) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-09-08",
+   "acts": [
+    "Tax Laws Amendment (Research and Development) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Tribunals Amalgamation Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-06-16",
+   "acts": [
+    "Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-20",
+   "acts": [
+    "Industry Research and Development Amendment (Innovation and Science Australia) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Treasury Laws Amendment (A Tax Plan for the COVID-19 Economic Recovery) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-09-11",
+   "acts": [
+    "Industry Research and Development Amendment (Industry Innovation and Science Australia) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-04-12",
+   "acts": [
+    "Safeguard Mechanism (Crediting) Amendment Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-17",
+   "acts": [
+    "Members of Parliament (Staff) Amendment Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

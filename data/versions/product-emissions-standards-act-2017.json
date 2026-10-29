@@ -1,0 +1,43 @@
+{
+ "title_id": "C2017A00104",
+ "name": "Product Emissions Standards Act 2017",
+ "folder": "product-emissions-standards-act-2017",
+ "compilations": [
+  {
+   "in_force": "2017-09-14",
+   "register_id": "C2017A00104",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00104',start=2017-09-14,retrospectivestart=2017-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00104/2017-09-14/text",
+   "sha256": "088cc6cdd20d986bb943eed160b878539f11c272e1f0c63029a97d301d5f1fce"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00527",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00104',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00104/2021-09-01/text",
+   "sha256": "5ac5553f1df422b121ffde528e4f6bcffe1b6109c71be94c7d1d30b02638bc88"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00251",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00104',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00104/2026-07-01/text",
+   "sha256": "1f83e53f9b4fc024bdd4fb27f7f298020b9f273b9b93b0cfd75765cf54184b2f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

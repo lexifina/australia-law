@@ -1,0 +1,21 @@
+{
+ "title_id": "C2017A00133",
+ "name": "First Home Super Saver Tax Act 2017",
+ "folder": "first-home-super-saver-tax-act-2017",
+ "compilations": [
+  {
+   "in_force": "2017-12-13",
+   "register_id": "C2017A00133",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2017A00133',start=2017-12-13,retrospectivestart=2017-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2017A00133/2017-12-13/text",
+   "sha256": "0f66207c9ea8f84c4dc848fc4eca636c7461308e8b95a04746e1e2b4403e8e99"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

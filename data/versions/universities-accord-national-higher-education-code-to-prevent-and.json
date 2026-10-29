@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00034",
+ "name": "Universities Accord (National Higher Education Code to Prevent and Respond to Gender-based Violence) Act 2025",
+ "folder": "universities-accord-national-higher-education-code-to-prevent-and",
+ "compilations": [
+  {
+   "in_force": "2025-08-28",
+   "register_id": "C2025A00034",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00034',start=2025-08-28,retrospectivestart=2025-08-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00034/2025-08-28/text",
+   "sha256": "a11ed404b6e00b07a062af7ed59e93fe5ea6b81648546b6b3ed0108b81e090db"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

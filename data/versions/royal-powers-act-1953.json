@@ -1,0 +1,34 @@
+{
+ "title_id": "C1953A00074",
+ "name": "Royal Powers Act 1953",
+ "folder": "royal-powers-act-1953",
+ "compilations": [
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00329",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00074',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00074/2008-07-04/text",
+   "sha256": "136a6e65004511d4b3a327abc9c4f970202d87693f0a918812e9fbcbfc579570"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2025C00006",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1953A00074',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1953A00074/2024-12-11/text",
+   "sha256": "31d5962631374027c17b8458189be9fcb8051fa2703943805dc7d26fe43967b6"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1953-12-10"
+ ],
+ "repeal": null
+}

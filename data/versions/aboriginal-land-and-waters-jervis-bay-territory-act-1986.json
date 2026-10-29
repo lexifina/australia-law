@@ -1,0 +1,126 @@
+{
+ "title_id": "C2004A03405",
+ "name": "Aboriginal Land and Waters (Jervis Bay Territory) Act 1986",
+ "folder": "aboriginal-land-and-waters-jervis-bay-territory-act-1986",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00303",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03405',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03405/2016-03-05/text",
+   "sha256": "50ea63f977a5ee554aca690876ed1e63384ca971c77493e70fce12718b2397b2"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01003",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03405',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03405/2016-10-21/text",
+   "sha256": "1819e9322d56e763f0fdab7fb1bea201f722c8cb44a1ef403389926ab5cadaeb"
+  },
+  {
+   "in_force": "2023-08-22",
+   "register_id": "C2023C00222",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03405',start=2023-08-22,retrospectivestart=2023-08-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03405/2023-08-22/text",
+   "sha256": "b1e662b0f7f43d0bd688113726d3c68d83c829a54c5ec559e2b24e490c835a99"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1986-12-18",
+   "acts": []
+  },
+  {
+   "in_force": "1989-06-09",
+   "acts": [
+    "Lands Acquisition (Repeal and Consequential Provisions) Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-03-05",
+   "acts": [
+    "Aboriginal and Torres Strait Islander Act 2005"
+   ]
+  },
+  {
+   "in_force": "1995-09-29",
+   "acts": [
+    "Aboriginal Land Grant and Management (Jervis Bay Territory) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1998-01-01",
+   "acts": [
+    "Audit (Transitional and Miscellaneous) Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-10-15",
+   "acts": [
+    "Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-12-17",
+   "acts": [
+    "Aboriginal Land Grant (Jervis Bay Territory) Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2008-12-10",
+   "acts": [
+    "Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

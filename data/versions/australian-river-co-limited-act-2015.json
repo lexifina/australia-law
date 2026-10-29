@@ -1,0 +1,32 @@
+{
+ "title_id": "C2015A00027",
+ "name": "Australian River Co. Limited Act 2015",
+ "folder": "australian-river-co-limited-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-04-01",
+   "register_id": "C2015A00027",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00027',start=2015-04-01,retrospectivestart=2015-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00027/2015-04-01/text",
+   "sha256": "a450aed21aff192f6eb5792bdf5219a0b312abb7d71bc97cb7918bba4e189ee1"
+  },
+  {
+   "in_force": "2017-09-20",
+   "register_id": "C2017C00320",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00027',start=2017-09-20,retrospectivestart=2017-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00027/2017-09-20/text",
+   "sha256": "7b0ac2d6ebcc03654cc40f77292b5364e1ae5439d6cbeb40c59ab0d292593a07"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2023A00103",
+ "name": "Disability Services and Inclusion (Consequential Amendments and Transitional Provisions) Act 2023",
+ "folder": "disability-services-and-inclusion-consequential-amendments-and",
+ "compilations": [
+  {
+   "in_force": "2023-11-28",
+   "register_id": "C2023A00103",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00103',start=2023-11-28,retrospectivestart=2023-11-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00103/2023-11-28/text",
+   "sha256": "493d6e162e01a456bad2269b604fdf0feaa67c21e5a4632efd7911ea0a0fe8ce"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

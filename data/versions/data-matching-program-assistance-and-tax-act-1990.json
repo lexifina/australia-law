@@ -1,0 +1,335 @@
+{
+ "title_id": "C2004A04095",
+ "name": "Data-matching Program (Assistance and Tax) Act 1990",
+ "folder": "data-matching-program-assistance-and-tax-act-1990",
+ "compilations": [
+  {
+   "in_force": "2023-03-26",
+   "register_id": "C2023C00061",
+   "compilation": "41",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04095',start=2023-03-26,retrospectivestart=2023-03-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04095/2023-03-26/text",
+   "sha256": "3804056bb448fcf2a752dfc016128898e34c660082762730450c7f8fd874ce62"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00832",
+   "compilation": "42",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04095',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04095/2024-12-11/text",
+   "sha256": "7b9cbb751014f1d3d06a59b501a2d4b13213fa5d34f7b12ad094b50b41a95813"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00249",
+   "compilation": "43",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04095',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04095/2026-07-01/text",
+   "sha256": "876124e85bf92f9e11322f2f76a6c0d7197f8f5e42013eb77aa75303a392bd64"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1991-01-23",
+   "acts": []
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1991",
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1991-11-12",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 3) 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-30",
+   "acts": [
+    "Social Security Legislation Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-11-19",
+   "acts": [
+    "Student Assistance Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1992-12-21",
+   "acts": [
+    "Data-Matching Program (Assistance and Tax) Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1992"
+   ]
+  },
+  {
+   "in_force": "1993-01-22",
+   "acts": [
+    "Data-Matching Program (Assistance and Tax) Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-12-24",
+   "acts": [
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993",
+    "Social Security (Budget and Other Measures) Legislation Amendment Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-07-01",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1994-09-20",
+   "acts": [
+    "Social Security (Home Child Care and Partner Allowances) Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-09-29",
+   "acts": [
+    "Social Security (Home Child Care and Partner Allowances) Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1994-12-16",
+   "acts": [
+    "Veterans' Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994"
+   ]
+  },
+  {
+   "in_force": "1995-01-01",
+   "acts": [
+    "Student Assistance (Youth Training Allowance—Transitional Provisions and Consequential Amendments) Act 1994",
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1995-09-29",
+   "acts": [
+    "Social Security Legislation Amendment Act (No. 1) 1995",
+    "Social Security (Non-Budget Measures) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-01-01",
+   "acts": [
+    "Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-02-01",
+   "acts": [
+    "Social Security Legislation Amendment (Family Measures) Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-06-30",
+   "acts": [
+    "Social Security Legislation Amendment (Newly Arrived Resident's Waiting Periods and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-03-20",
+   "acts": [
+    "Social Security Legislation Amendment (Budget and Other Measures) Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Income Tax (Consequential Amendments) Act 1997",
+    "Commonwealth Services Delivery Agency (Consequential Amendments) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-07",
+   "acts": [
+    "Social Security Legislation Amendment (Work for the Dole) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-11",
+   "acts": [
+    "Social Security Legislation Amendment (Parenting and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1997-12-16",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Family and Other Measures) Act 1997"
+   ]
+  },
+  {
+   "in_force": "1998-04-01",
+   "acts": [
+    "Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1998-12-07",
+   "acts": [
+    "Data-matching Program (Assistance and Tax) Amendment Act 1998"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-06",
+   "acts": [
+    "Youth Allowance Consolidation Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-01-01",
+   "acts": [
+    "Family and Community Services (2000 Budget and Related Measures) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-02",
+   "acts": [
+    "Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2006-09-27",
+   "acts": [
+    "Social Security and Family Assistance Legislation Amendment (Miscellaneous Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-07-03",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-09-01",
+   "acts": [
+    "Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2008 Budget and Other Measures) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-10-01",
+   "acts": [
+    "Paid Parental Leave (Consequential Amendments) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Human Services Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-10-01",
+   "acts": [
+    "Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-09-12",
+   "acts": [
+    "Social Services and Other Legislation Amendment (Seniors Health Card and Other Measures) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2020-02-01",
+   "acts": [
+    "Services Australia Governance Amendment Act 2020"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

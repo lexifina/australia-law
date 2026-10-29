@@ -1,0 +1,197 @@
+{
+ "title_id": "C1973A00054",
+ "name": "Commonwealth Grants Commission Act 1973",
+ "folder": "commonwealth-grants-commission-act-1973",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01087",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1973A00054',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1973A00054/2016-10-21/text",
+   "sha256": "a6533258a4b963ecab1ceb19047c26b59cf98ff9ecb4bac3dc6fd6dc0f1b9145"
+  },
+  {
+   "in_force": "2017-04-01",
+   "register_id": "C2017C00113",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1973A00054',start=2017-04-01,retrospectivestart=2017-04-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1973A00054/2017-04-01/text",
+   "sha256": "701de81054e33c1c3eb1ac954350bdbecd5edf525688cc93f3005aa659e415e0"
+  },
+  {
+   "in_force": "2018-11-30",
+   "register_id": "C2018C00483",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1973A00054',start=2018-11-30,retrospectivestart=2018-11-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1973A00054/2018-11-30/text",
+   "sha256": "806677ba5b25670f7ee71e1b67c5bef7fa30f57b3dafcd1d687c3afbd70371a8"
+  },
+  {
+   "in_force": "2020-12-18",
+   "register_id": "C2021C00039",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1973A00054',start=2020-12-18,retrospectivestart=2020-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1973A00054/2020-12-18/text",
+   "sha256": "5b1cdfbe05134e62ecd3746f29dc16484ee791394662433b638931089d3ef94f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1973-06-18",
+   "acts": []
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1975-06-19",
+   "acts": [
+    "Grants Commission Act 1975"
+   ]
+  },
+  {
+   "in_force": "1976-06-02",
+   "acts": [
+    "Commonwealth Grants Commission Act 1976"
+   ]
+  },
+  {
+   "in_force": "1977-06-01",
+   "acts": [
+    "Remuneration and Allowances Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1977-11-10",
+   "acts": [
+    "Commonwealth Grants Commission Amendment Act 1977"
+   ]
+  },
+  {
+   "in_force": "1978-06-22",
+   "acts": [
+    "Commonwealth Grants Commission Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1978-07-01",
+   "acts": [
+    "Commonwealth Grants Commission Amendment Act 1978"
+   ]
+  },
+  {
+   "in_force": "1980-03-24",
+   "acts": [
+    "Commonwealth Grants Commission Amendment Act 1980"
+   ]
+  },
+  {
+   "in_force": "1981-12-02",
+   "acts": [
+    "Commonwealth Grants Commission Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1984-06-25",
+   "acts": [
+    "Cocos (Keeling) Islands Self-Determination (Consequential Amendments) Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1989-03-13",
+   "acts": [
+    "Administrative Services Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-07-01",
+   "acts": [
+    "Territories Law Reform Act 1992"
+   ]
+  },
+  {
+   "in_force": "1995-09-29",
+   "acts": [
+    "Aboriginal Land Grant and Management (Jervis Bay Territory) Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "1999-09-12",
+   "acts": [
+    "Commonwealth Grants Commission Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-06-18",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,78 @@
+{
+ "title_id": "C2004A00798",
+ "name": "Pig Industry Act 2001",
+ "folder": "pig-industry-act-2001",
+ "compilations": [
+  {
+   "in_force": "2013-12-13",
+   "register_id": "C2014C00042",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00798',start=2013-12-13,retrospectivestart=2013-12-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00798/2013-12-13/text",
+   "sha256": "d2c2d16ddc914d924a05fc16d2ef1d577cdb49cdd637f034d216cd30d5b398cf"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00652",
+   "compilation": "8",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00798',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00798/2024-10-14/text",
+   "sha256": "a0f468bb28049234dd6498f0ea6704fb015d50569164dbdabefb4032f0e84d86"
+  },
+  {
+   "in_force": "2025-01-01",
+   "register_id": "C2025C00038",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00798',start=2025-01-01,retrospectivestart=2025-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00798/2025-01-01/text",
+   "sha256": "1391218d629abdecc13cd71c3cbd954f91fed389aeaa98133dbd7e658030886a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2001-04-28",
+   "acts": []
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-04-27",
+   "acts": [
+    "Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2004"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2012-06-29",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 2) 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

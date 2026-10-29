@@ -1,0 +1,21 @@
+{
+ "title_id": "C2012A00082",
+ "name": "Financial Framework Legislation Amendment Act (No. 2) 2012",
+ "folder": "financial-framework-legislation-amendment-act-no-2-2012",
+ "compilations": [
+  {
+   "in_force": "2012-06-28",
+   "register_id": "C2012A00082",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00082',start=2012-06-28,retrospectivestart=2012-06-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00082/2012-06-28/text",
+   "sha256": "03698e17b7caa6936bee468aa49d0bf46552671127203c5ddc6ce70d1bfd9c1b"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

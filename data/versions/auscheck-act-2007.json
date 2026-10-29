@@ -1,0 +1,138 @@
+{
+ "title_id": "C2007A00053",
+ "name": "AusCheck Act 2007",
+ "folder": "auscheck-act-2007",
+ "compilations": [
+  {
+   "in_force": "2025-11-08",
+   "register_id": "C2025C00638",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00053',start=2025-11-08,retrospectivestart=2025-11-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00053/2025-11-08/text",
+   "sha256": "904c75ce893b6e6e7a511b983da976a6fd355a985b0e8b9f38b3e92ecc02bb57"
+  },
+  {
+   "in_force": "2025-12-12",
+   "register_id": "C2025C00668",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00053',start=2025-12-12,retrospectivestart=2025-12-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00053/2025-12-12/text",
+   "sha256": "efec278dc59c0d9a79c6d657b488139590c3b852f1eb65e5278db4cf6c363ea0"
+  },
+  {
+   "in_force": "2026-01-22",
+   "register_id": "C2026C00065",
+   "compilation": "18",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00053',start=2026-01-22,retrospectivestart=2026-01-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00053/2026-01-22/text",
+   "sha256": "ea31bdd64e769fc66e89aca0b4c84731e5184e1ee70bd1c05f7acc7d0623ca9e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2007-04-12",
+   "acts": []
+  },
+  {
+   "in_force": "2009-12-07",
+   "acts": [
+    "AusCheck Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-05-28",
+   "acts": [
+    "Customs and AusCheck Legislation Amendment (Organised Crime and Other Measures) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-12-01",
+   "acts": [
+    "Counter-Terrorism Legislation Amendment (Foreign Fighters) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-08-29",
+   "acts": [
+    "Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-23",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2022-04-02",
+   "acts": [
+    "Security Legislation Amendment (Critical Infrastructure Protection) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-06-22",
+   "acts": [
+    "Transport Security Amendment (Serious Crime) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-03-05",
+   "acts": [
+    "Customs Amendment (Strengthening and Modernising Licensing and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Defence Force Discipline Amendment (RCDVS Implementation and Related Measures No. 1) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,41 @@
+{
+ "title_id": "C2004A02463",
+ "name": "Offshore Minerals (Registration Fees) Act 1981",
+ "folder": "offshore-minerals-registration-fees-act-1981",
+ "compilations": [
+  {
+   "in_force": "1994-02-25",
+   "register_id": "C2004C05774",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02463',start=1994-02-25,retrospectivestart=1994-02-25,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02463/1994-02-25/text",
+   "sha256": "b7c4481327404956f3937ee4690c5c413f9d5a82e3c5b451aa7de94b3cba1c6a"
+  },
+  {
+   "in_force": "2001-07-15",
+   "register_id": "C2004C00323",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02463',start=2001-07-15,retrospectivestart=2001-07-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02463/2001-07-15/text",
+   "sha256": "7c51427a3a04f223512faf5a59f242860377622c71223708fa8e3527d02e4125"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-02-01",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1981-06-18"
+ ],
+ "repeal": null
+}

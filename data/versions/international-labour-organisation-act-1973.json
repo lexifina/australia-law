@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00019",
+ "name": "International Labour Organisation Act 1973",
+ "folder": "international-labour-organisation-act-1973",
+ "compilations": [
+  {
+   "in_force": "1973-06-18",
+   "register_id": "C2004A00019",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00019',start=1973-06-18,retrospectivestart=1973-06-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00019/1973-06-18/text",
+   "sha256": "52e54b502bc64ea40e7631af682d0a8cf97e3cceec7b660f9604fbf083bcfa0d"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

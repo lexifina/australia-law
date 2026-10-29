@@ -1,0 +1,74 @@
+{
+ "title_id": "C2004A01214",
+ "name": "Spam Act 2003",
+ "folder": "spam-act-2003",
+ "compilations": [
+  {
+   "in_force": "2012-12-03",
+   "register_id": "C2013C00021",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01214',start=2012-12-03,retrospectivestart=2012-12-03,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01214/2012-12-03/text",
+   "sha256": "b56707a8a6c2ecc6ed1f5fbf33b5af335ade18b23ce6fd18d201e51c9526524f"
+  },
+  {
+   "in_force": "2014-06-24",
+   "register_id": "C2014C00214",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01214',start=2014-06-24,retrospectivestart=2014-06-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01214/2014-06-24/text",
+   "sha256": "27b0defc08315b8f0737acca5742decf0ebbf1f2a6cd3c8759461b2941e8321c"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00614",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01214',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01214/2016-03-10/text",
+   "sha256": "683e4a825a7a7617ddf7dcfad15c6a5f8b23585bd6fe21bf7cc19beba084ac55"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2003-12-12",
+   "acts": []
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005",
+    "Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-01-01",
+   "acts": [
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010",
+    "Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

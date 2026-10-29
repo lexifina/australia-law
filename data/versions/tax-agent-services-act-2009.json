@@ -1,0 +1,182 @@
+{
+ "title_id": "C2009A00013",
+ "name": "Tax Agent Services Act 2009",
+ "folder": "tax-agent-services-act-2009",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00611",
+   "compilation": "25",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00013',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00013/2024-10-14/text",
+   "sha256": "577d4ecce65871aa26b7e59262e436b0795deb9ff966d5d370e3558231be7a3a"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00107",
+   "compilation": "26",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00013',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00013/2025-02-21/text",
+   "sha256": "67ed551e553121d067a8d633d124e8f30e499f6889b33d2ad5ec7c4d649fe57c"
+  },
+  {
+   "in_force": "2026-10-01",
+   "register_id": "C2026C00441",
+   "compilation": "27",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2009A00013',start=2026-10-01,retrospectivestart=2026-10-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2009A00013/2026-10-01/text",
+   "sha256": "25e19bccdc28edb58c79af27d9734116c14d6389211e088ef2a4fada08c9d44a"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2009-03-26",
+   "acts": []
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Tax Agent Services (Transitional Provisions and Consequential Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-06-30",
+   "acts": [
+    "Tax Laws Amendment (2013 Measures No. 3) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Tax Laws Amendment (2013 Measures No. 3) Act 2013",
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 1) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-05-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2014 Measures No. 7) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-06-25",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2015-11-30",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2015 Measures No. 5) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-01-01",
+   "acts": [
+    "Tax Laws Amendment (2013 Measures No. 3) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-03-15",
+   "acts": [
+    "Corporations Amendment (Professional Standards of Financial Advisers) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2020-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2019 Measures No. 3) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Treasury Laws Amendment (2020 Measures No. 6) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2021-12-08",
+   "acts": [
+    "Treasury Laws Amendment (2021 Measures No. 5) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-01-01",
+   "acts": [
+    "Financial Sector Reform (Hayne Royal Commission Response—Better Advice) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2023-09-15",
+   "acts": [
+    "Treasury Laws Amendment (Modernising Business Communications and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-20",
+   "acts": [
+    "Treasury Laws Amendment (2023 Law Improvement Package No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-01-01",
+   "acts": [
+    "Treasury Laws Amendment (2023 Measures No. 1) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-06-01",
+   "acts": [
+    "Treasury Laws Amendment (Tax Accountability and Fairness) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-07-01",
+   "acts": [
+    "Treasury Laws Amendment (2023 Measures No. 1) Act 2023",
+    "Treasury Laws Amendment (Tax Accountability and Fairness) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-01",
+   "acts": [
+    "Treasury Laws Amendment (2023 Measures No. 1) Act 2023"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

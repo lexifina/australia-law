@@ -1,0 +1,156 @@
+{
+ "title_id": "C1967A00053",
+ "name": "Narcotic Drugs Act 1967",
+ "folder": "narcotic-drugs-act-1967",
+ "compilations": [
+  {
+   "in_force": "2016-11-23",
+   "register_id": "C2016C01132",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1967A00053',start=2016-11-23,retrospectivestart=2016-11-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1967A00053/2016-11-23/text",
+   "sha256": "424653b5af89dd90776d005f01adbb132522d46623e6e3f65eaa87bdb48876bc"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00483",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1967A00053',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1967A00053/2021-09-01/text",
+   "sha256": "5a703a0f9973feba3097fcfb6c2693c36601260244fd4b26426508e73e460943"
+  },
+  {
+   "in_force": "2021-12-24",
+   "register_id": "C2022C00035",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1967A00053',start=2021-12-24,retrospectivestart=2021-12-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1967A00053/2021-12-24/text",
+   "sha256": "afe4242ad0e21470555f7d7fb235603371f8ebc624967f6c9fb5750f3621cb86"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00536",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1967A00053',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1967A00053/2024-10-14/text",
+   "sha256": "ee606db340c3484a549bda0b3c3983d2ccdc052759ea5b879673939c7a90e71d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1967-05-30",
+   "acts": []
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1977-02-01",
+   "acts": [
+    "Narcotic Drugs Amendment Act 1976"
+   ]
+  },
+  {
+   "in_force": "1982-09-22",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 2) 1982"
+   ]
+  },
+  {
+   "in_force": "1984-12-13",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-06-10",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-05-13",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1995-07-01",
+   "acts": [
+    "Customs, Excise and Bounty Legislation Amendment Act 1995"
+   ]
+  },
+  {
+   "in_force": "2001-09-17",
+   "acts": [
+    "Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2005-05-16",
+   "acts": [
+    "Administrative Appeals Tribunal Amendment Act 2005"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Narcotic Drugs Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-29",
+   "acts": [
+    "Narcotic Drugs Amendment Act 2016",
+    "Narcotic Drugs Amendment Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,32 @@
+{
+ "title_id": "C2012A00050",
+ "name": "Family Assistance and Other Legislation Amendment (Schoolkids Bonus Budget Measures) Act 2012",
+ "folder": "family-assistance-and-other-legislation-amendment-schoolkids-bonus",
+ "compilations": [
+  {
+   "in_force": "2012-05-26",
+   "register_id": "C2012A00050",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00050',start=2012-05-26,retrospectivestart=2012-05-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00050/2012-05-26/text",
+   "sha256": "4104c15bd56e5bc1f3c21df98945bd412cad3668a5ced77de8f0cae92ad1c058"
+  },
+  {
+   "in_force": "2012-05-27",
+   "register_id": "C2014C00182",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00050',start=2012-05-27,retrospectivestart=2012-05-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00050/2012-05-27/text",
+   "sha256": "583298b68265c21bf6f221f7b048f9525dc8eef1b847c7c994ba9acf3802b597"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

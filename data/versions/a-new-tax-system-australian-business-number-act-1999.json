@@ -1,0 +1,240 @@
+{
+ "title_id": "C2004A00467",
+ "name": "A New Tax System (Australian Business Number) Act 1999",
+ "folder": "a-new-tax-system-australian-business-number-act-1999",
+ "compilations": [
+  {
+   "in_force": "2022-07-01",
+   "register_id": "C2022C00238",
+   "compilation": "29",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00467',start=2022-07-01,retrospectivestart=2022-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00467/2022-07-01/text",
+   "sha256": "82dd904c0881940d0c1ae63d966997514acf516d28be6c327c3fe6c112c0cc13"
+  },
+  {
+   "in_force": "2024-06-29",
+   "register_id": "C2024C00248",
+   "compilation": "30",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00467',start=2024-06-29,retrospectivestart=2024-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00467/2024-06-29/text",
+   "sha256": "b0d00cea3742645b6962b74e7fddccb8a14686a879a10f6f4d758801b2a19741"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00523",
+   "compilation": "31",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00467',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00467/2024-10-14/text",
+   "sha256": "00517efb2bcf5121d72e0f75ab2ac93e250d5bbe26618d694939d14bf17b40c4"
+  },
+  {
+   "in_force": "2026-06-30",
+   "register_id": "C2026C00290",
+   "compilation": "32",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00467',start=2026-06-30,retrospectivestart=2026-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00467/2026-06-30/text",
+   "sha256": "db2802659d6afa44552de990ae4a1d7b55b4b0c8111ee07e7fb31220b8a88dac"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-07-08",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-22",
+   "acts": [
+    "A New Tax System (Pay As You Go) Act 1999",
+    "A New Tax System (Tax Administration) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-24",
+   "acts": [
+    "Diesel and Alternative Fuels Grants Scheme (Administration and Compliance) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999",
+    "Indirect Tax Legislation Amendment Act 2000",
+    "Indirect Tax Legislation Amendment Act 2000",
+    "A New Tax System (Tax Administration) Act (No. 2) 2000",
+    "A New Tax System (Tax Administration) Act (No. 2) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-07-15",
+   "acts": [
+    "Corporations (Repeals, Consequentials and Transitionals) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-01",
+   "acts": [
+    "Taxation Laws Amendment Act (No. 5) 2001"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Energy Grants (Credits) Scheme (Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-06-29",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 1) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 1) Act 2004",
+    "Tax Laws Amendment (2006 Measures No. 3) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-09-14",
+   "acts": [
+    "Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-09-24",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 4) Act 2007",
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-09-24",
+   "acts": [
+    "Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2009-06-23",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 2) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-09-18",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 4) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-10-01",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 4) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-04-05",
+   "acts": [
+    "Tax Laws Amendment (2009 Measures No. 2) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Tax Laws Amendment (2011 Measures No. 7) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-20",
+   "acts": [
+    "Business Names Registration (Transitional and Consequential Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-05-28",
+   "acts": [
+    "Business Names Registration (Transitional and Consequential Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-02-25",
+   "acts": [
+    "Treasury Legislation Amendment (Repeal Day) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-12-02",
+   "acts": [
+    "Treasury Laws Amendment (Working Holiday Maker Reform) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2019-01-01",
+   "acts": [
+    "Treasury Laws Amendment (Working Holiday Maker Employer Register) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2022-06-22",
+   "acts": [
+    null
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

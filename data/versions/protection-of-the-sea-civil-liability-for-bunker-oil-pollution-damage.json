@@ -1,0 +1,66 @@
+{
+ "title_id": "C2008A00076",
+ "name": "Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008",
+ "folder": "protection-of-the-sea-civil-liability-for-bunker-oil-pollution-damage",
+ "compilations": [
+  {
+   "in_force": "2013-07-01",
+   "register_id": "C2013C00331",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00076',start=2013-07-01,retrospectivestart=2013-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00076/2013-07-01/text",
+   "sha256": "afc603c274daae6d4f071346ebafdacb74f08c143e7f75d7d04a3346f85eac5f"
+  },
+  {
+   "in_force": "2016-01-08",
+   "register_id": "C2016C00123",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00076',start=2016-01-08,retrospectivestart=2016-01-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00076/2016-01-08/text",
+   "sha256": "4b099cca75b75b74a225c675dd2f0a65b14d1773363ed48be9512c6b2397a331"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00684",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2008A00076',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2008A00076/2024-10-14/text",
+   "sha256": "4eaec1b26f25cbe0dfbf761631b9cc9955929cae0a29fe67cf31b9508507fe48"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2008-07-12",
+   "acts": []
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-10",
+   "acts": [
+    "Protection of the Sea Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

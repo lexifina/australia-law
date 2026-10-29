@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04225",
+ "name": "Foreign Fishing Licences Levy Act 1991",
+ "folder": "foreign-fishing-licences-levy-act-1991",
+ "compilations": [
+  {
+   "in_force": "1991-10-21",
+   "register_id": "C2004A04225",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04225',start=1991-10-21,retrospectivestart=1991-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04225/1991-10-21/text",
+   "sha256": "b784e06bab2f223ad56f9eb9cc928a396969730fa69323cc63cc234cc1ae3775"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

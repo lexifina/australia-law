@@ -1,0 +1,54 @@
+{
+ "title_id": "C2014A00093",
+ "name": "Regulatory Powers (Standard Provisions) Act 2014",
+ "folder": "regulatory-powers-standard-provisions-act-2014",
+ "compilations": [
+  {
+   "in_force": "2021-03-27",
+   "register_id": "C2021C00163",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00093',start=2021-03-27,retrospectivestart=2021-03-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00093/2021-03-27/text",
+   "sha256": "dd0818c4391b45bcb31ffcfc6237bfe6bcf0a1d261a93fe31e96d7a3e50f0792"
+  },
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00499",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00093',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00093/2021-09-01/text",
+   "sha256": "5447c70c8719c971352d4a7c62b420b83f9050407f089b6babf1b8ce4dca2c3c"
+  },
+  {
+   "in_force": "2024-03-20",
+   "register_id": "C2024C00118",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00093',start=2024-03-20,retrospectivestart=2024-03-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00093/2024-03-20/text",
+   "sha256": "f4671340af5a16416f0ef67b8c49d67d4dbb27b7b97d896eb9e7fd1b4b3b3643"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2014-07-21",
+   "acts": []
+  },
+  {
+   "in_force": "2017-11-07",
+   "acts": [
+    "Regulatory Powers (Standardisation Reform) Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

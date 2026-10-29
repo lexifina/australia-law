@@ -1,0 +1,48 @@
+{
+ "title_id": "C2012A00148",
+ "name": "National Portrait Gallery of Australia Act 2012",
+ "folder": "national-portrait-gallery-of-australia-act-2012",
+ "compilations": [
+  {
+   "in_force": "2014-07-01",
+   "register_id": "C2014C00426",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00148',start=2014-07-01,retrospectivestart=2014-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00148/2014-07-01/text",
+   "sha256": "5f7529f1312801f4f5787bfe617392862a09f748da5987939770c05064dd5212"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00395",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00148',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00148/2016-03-05/text",
+   "sha256": "3ebd30944dbf18ee04ae4a7f957404eccb4e22707df2e9b520e299e3721c788c"
+  },
+  {
+   "in_force": "2021-05-01",
+   "register_id": "C2021C00209",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00148',start=2021-05-01,retrospectivestart=2021-05-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00148/2021-05-01/text",
+   "sha256": "ca4e2214c7a86e3ab12c4878b86785ea9f92ca722b54428f1c3a15768b1f619d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-11-06",
+   "acts": []
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

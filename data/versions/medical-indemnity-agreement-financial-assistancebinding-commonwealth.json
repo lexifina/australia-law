@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A01048",
+ "name": "Medical Indemnity Agreement (Financial Assistance—Binding Commonwealth Obligations) Act 2002",
+ "folder": "medical-indemnity-agreement-financial-assistancebinding-commonwealth",
+ "compilations": [
+  {
+   "in_force": "2002-12-02",
+   "register_id": "C2004A01048",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01048',start=2002-12-02,retrospectivestart=2002-12-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01048/2002-12-02/text",
+   "sha256": "9ec87b624ff77beccf8bd416bbb9d5972f4a4db9f67060eebb943d47ebd68014"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

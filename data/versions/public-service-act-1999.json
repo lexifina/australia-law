@@ -1,0 +1,155 @@
+{
+ "title_id": "C2004A00538",
+ "name": "Public Service Act 1999",
+ "folder": "public-service-act-1999",
+ "compilations": [
+  {
+   "in_force": "2017-08-23",
+   "register_id": "C2017C00270",
+   "compilation": "19",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00538',start=2017-08-23,retrospectivestart=2017-08-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00538/2017-08-23/text",
+   "sha256": "2bd7b4363fe35aa9ec46eafc72ae8ab7fa63d734c90acdc944b29daf05d11673"
+  },
+  {
+   "in_force": "2018-12-29",
+   "register_id": "C2019C00057",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00538',start=2018-12-29,retrospectivestart=2018-12-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00538/2018-12-29/text",
+   "sha256": "52f99f2339b187ac51cabc0180952adf2aec658bc38a7312ddd2ba370b98a73a"
+  },
+  {
+   "in_force": "2024-08-27",
+   "register_id": "C2024C00353",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00538',start=2024-08-27,retrospectivestart=2024-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00538/2024-08-27/text",
+   "sha256": "5c0f92880f5cca59896ee760d45dedd1fb613b43cb4294361f4381df844c4f12"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00795",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00538',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00538/2024-12-11/text",
+   "sha256": "1325861a12cb2616c610c3eb1bbf709d22621f59867fc2f9d87c99d5def947b2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1999-11-11",
+   "acts": []
+  },
+  {
+   "in_force": "2000-03-10",
+   "acts": [
+    "Statute Law Revision Act 2002"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2006-03-27",
+   "acts": [
+    "Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)"
+   ]
+  },
+  {
+   "in_force": "2006-04-07",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Australian Trade Commission Legislation Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2008-03-28",
+   "acts": [
+    "Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-03-20",
+   "acts": [
+    "Financial Framework Legislation Amendment Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-08-05",
+   "acts": [
+    "Remuneration and Other Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Public Service Amendment Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-01-15",
+   "acts": [
+    "Public Interest Disclosure (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

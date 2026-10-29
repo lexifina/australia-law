@@ -1,0 +1,91 @@
+{
+ "title_id": "C2004A01074",
+ "name": "Venture Capital Act 2002",
+ "folder": "venture-capital-act-2002",
+ "compilations": [
+  {
+   "in_force": "2019-01-01",
+   "register_id": "C2019C00069",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01074',start=2019-01-01,retrospectivestart=2019-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01074/2019-01-01/text",
+   "sha256": "9055c49dca88d1180e397d68837a4cd83bf13734d34859864dd4d636c243af84"
+  },
+  {
+   "in_force": "2021-09-11",
+   "register_id": "C2021C00529",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01074',start=2021-09-11,retrospectivestart=2021-09-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01074/2021-09-11/text",
+   "sha256": "e7decb2ce295c8ae0d953308e00ca3cedf9bee736c21a0e1d52b9a1d1c912a23"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00617",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01074',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01074/2024-10-14/text",
+   "sha256": "ff64431e9d1333cfe761125a48a62325146d026a8dd6c581097da4b5644c8433"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2002-12-19",
+   "acts": []
+  },
+  {
+   "in_force": "2004-06-30",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 3) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-04-01",
+   "acts": [
+    "Tax Laws Amendment (2004 Measures No. 7) Act 2005",
+    "Tax Laws Amendment (2004 Measures No. 7) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2007-06-21",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 2) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-27",
+   "acts": [
+    "Tax Laws Amendment (2007 Measures No. 5) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Tax Laws Amendment (Tax Incentives for Innovation) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-10-20",
+   "acts": [
+    "Industry Research and Development Amendment (Innovation and Science Australia) Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

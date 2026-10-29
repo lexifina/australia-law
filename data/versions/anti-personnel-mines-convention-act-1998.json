@@ -1,0 +1,65 @@
+{
+ "title_id": "C2004A00389",
+ "name": "Anti-Personnel Mines Convention Act 1998",
+ "folder": "anti-personnel-mines-convention-act-1998",
+ "compilations": [
+  {
+   "in_force": "2011-04-19",
+   "register_id": "C2011C00212",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00389',start=2011-04-19,retrospectivestart=2011-04-19,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00389/2011-04-19/text",
+   "sha256": "49de49d70a159444ba9d629ed02fc3154290424cdaac1b506f7b752f2343411c"
+  },
+  {
+   "in_force": "2011-12-27",
+   "register_id": "C2012C00026",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00389',start=2011-12-27,retrospectivestart=2011-12-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00389/2011-12-27/text",
+   "sha256": "13703d68f9d3ce90c10583158ebe1ed7ef77e08895ba1be7031c70bbd45ecfba"
+  },
+  {
+   "in_force": "2013-06-29",
+   "register_id": "C2013C00455",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00389',start=2013-06-29,retrospectivestart=2013-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00389/2013-06-29/text",
+   "sha256": "c936a4c8fd3bb0e318e1561cc31872f215a25dd538324597ca40bf6da49e9d1a"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00464",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00389',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00389/2016-03-10/text",
+   "sha256": "e5d282c4a187ddc60e476621c665e8499ab28b2490570752a375a5c4e25d66a6"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-12-21",
+   "acts": []
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

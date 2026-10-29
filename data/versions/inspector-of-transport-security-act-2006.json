@@ -1,0 +1,67 @@
+{
+ "title_id": "C2006A00149",
+ "name": "Inspector of Transport Security Act 2006",
+ "folder": "inspector-of-transport-security-act-2006",
+ "compilations": [
+  {
+   "in_force": "2014-03-12",
+   "register_id": "C2014C00082",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00149',start=2014-03-12,retrospectivestart=2014-03-12,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00149/2014-03-12/text",
+   "sha256": "87f38783aca4d571941b37e1a7d02f7b408f8c8a4de6c067f05290b658ac420c"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00434",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00149',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00149/2015-07-01/text",
+   "sha256": "0e007d83d120d0b7a19adee82ae92e589bd8e58910082b4bd2ee012cb131cd91"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00566",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2006A00149',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2006A00149/2024-10-14/text",
+   "sha256": "cc60f2642240afdcf3299853761766a2fb02710dc16e7533786d1399f1351d4e"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2006-12-07",
+   "acts": []
+  },
+  {
+   "in_force": "2007-06-07",
+   "acts": [
+    "Statute Law Revision Act 2008",
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Transport Safety Investigation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

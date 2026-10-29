@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A01959",
+ "name": "Loans (Taxation Exemption) Act 1978",
+ "folder": "loans-taxation-exemption-act-1978",
+ "compilations": [
+  {
+   "in_force": "1978-11-28",
+   "register_id": "C2004A01959",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01959',start=1978-11-28,retrospectivestart=1978-11-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01959/1978-11-28/text",
+   "sha256": "0e468e6b2117aee7bfe9c615ee9f2f2ef5effc3c2491255069e8fa74c8488327"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

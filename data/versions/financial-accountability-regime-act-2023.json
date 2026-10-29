@@ -1,0 +1,43 @@
+{
+ "title_id": "C2023A00067",
+ "name": "Financial Accountability Regime Act 2023",
+ "folder": "financial-accountability-regime-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-09-14",
+   "register_id": "C2023A00067",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00067',start=2023-09-14,retrospectivestart=2023-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00067/2023-09-14/text",
+   "sha256": "636890794365dd9265f1eab766e4eae1932139038b8af048e62f851df85e5054"
+  },
+  {
+   "in_force": "2023-10-20",
+   "register_id": "C2023C00418",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00067',start=2023-10-20,retrospectivestart=2023-10-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00067/2023-10-20/text",
+   "sha256": "5a4c86d13b4b38c165c78275726ba91966cf4710c5fa0905df2b7f7b3ce25e06"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00148",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00067',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00067/2025-02-21/text",
+   "sha256": "e9e83269792b9b17d9ed1da89ba4271ee00b216998530cc0ff15073243e4f4c4"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

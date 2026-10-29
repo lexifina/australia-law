@@ -1,0 +1,72 @@
+{
+ "title_id": "C2011A00151",
+ "name": "Australian Renewable Energy Agency Act 2011",
+ "folder": "australian-renewable-energy-agency-act-2011",
+ "compilations": [
+  {
+   "in_force": "2017-08-23",
+   "register_id": "C2017C00266",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00151',start=2017-08-23,retrospectivestart=2017-08-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00151/2017-08-23/text",
+   "sha256": "1100c30399144a6fc846edd1a1aa38efec3ad9b7bde897af620c0cf4f43d2210"
+  },
+  {
+   "in_force": "2022-09-14",
+   "register_id": "C2022C00242",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00151',start=2022-09-14,retrospectivestart=2022-09-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00151/2022-09-14/text",
+   "sha256": "74093be8a5b6ebae4dfc7bfa094e9999403c3a7241710c396bd354a4af86e150"
+  },
+  {
+   "in_force": "2024-12-11",
+   "register_id": "C2024C00821",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00151',start=2024-12-11,retrospectivestart=2024-12-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00151/2024-12-11/text",
+   "sha256": "6527b32dbc4c3b09c25a8fb32d069eb086c9763d666f5175ba4f2efc6a5e7ddd"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2011-12-04",
+   "acts": []
+  },
+  {
+   "in_force": "2012-08-03",
+   "acts": [
+    "Clean Energy Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-07-17",
+   "acts": [
+    "Clean Energy Legislation (Carbon Tax Repeal) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-09-17",
+   "acts": [
+    "Budget Savings (Omnibus) Act 2016"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

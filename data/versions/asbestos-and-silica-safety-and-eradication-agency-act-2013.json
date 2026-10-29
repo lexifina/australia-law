@@ -1,0 +1,54 @@
+{
+ "title_id": "C2013A00058",
+ "name": "Asbestos and Silica Safety and Eradication Agency Act 2013",
+ "folder": "asbestos-and-silica-safety-and-eradication-agency-act-2013",
+ "compilations": [
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00410",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00058',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00058/2016-03-05/text",
+   "sha256": "a50caa4acd32e5deda8792a3322cc2f6c30ff12e296536e2c955a22f5f9372e3"
+  },
+  {
+   "in_force": "2023-12-15",
+   "register_id": "C2023C00484",
+   "compilation": "3",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00058',start=2023-12-15,retrospectivestart=2023-12-15,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00058/2023-12-15/text",
+   "sha256": "43c1b26cfde563ec311eba03b937bac50fbcb6325055eac2604b8032e583ac1b"
+  },
+  {
+   "in_force": "2024-05-31",
+   "register_id": "C2024C00186",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00058',start=2024-05-31,retrospectivestart=2024-05-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00058/2024-05-31/text",
+   "sha256": "7820a3d549ef8f2ee8c1e9192ef919e920fbe5b40f9813c553c3923ee95ea633"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2013-06-21",
+   "acts": []
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

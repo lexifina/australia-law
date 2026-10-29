@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00957",
+ "name": "Coal Industry Repeal (Validation of Proclamation) Act 2002",
+ "folder": "coal-industry-repeal-validation-of-proclamation-act-2002",
+ "compilations": [
+  {
+   "in_force": "2001-12-31",
+   "register_id": "C2004A00957",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00957',start=2001-12-31,retrospectivestart=2001-12-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00957/2001-12-31/text",
+   "sha256": "a8dc136aa85d1c11f30b9582da8b5c1309e29b27e71018d91c4b3189b4c35766"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

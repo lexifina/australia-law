@@ -1,0 +1,45 @@
+{
+ "title_id": "C2004A00498",
+ "name": "Damage by Aircraft Act 1999",
+ "folder": "damage-by-aircraft-act-1999",
+ "compilations": [
+  {
+   "in_force": "1999-08-31",
+   "register_id": "C2004A00498",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00498',start=1999-08-31,retrospectivestart=1999-08-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00498/1999-08-31/text",
+   "sha256": "cc3ad3b57ff4cfb88920cf50117b1283d4b952d706ee1476de7ab3e2f6d033f6"
+  },
+  {
+   "in_force": "2012-09-22",
+   "register_id": "C2012C00778",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00498',start=2012-09-22,retrospectivestart=2012-09-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00498/2012-09-22/text",
+   "sha256": "a2d3c72a811565b3853d9f4aabc83450bc03dc78f1f589fd71e7c6f52ad7b2c5"
+  },
+  {
+   "in_force": "2013-03-31",
+   "register_id": "C2013C00130",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00498',start=2013-03-31,retrospectivestart=2013-03-31,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00498/2013-03-31/text",
+   "sha256": "d3ab17a520c8bea4e63d538470d05e8208af00e717fecb72a4dcef474c6cbbb1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "2002-11-10"
+ ],
+ "repeal": null
+}

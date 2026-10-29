@@ -1,0 +1,114 @@
+{
+ "title_id": "C2004A03033",
+ "name": "Registration of Deaths Abroad Act 1984",
+ "folder": "registration-of-deaths-abroad-act-1984",
+ "compilations": [
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01030",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03033',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03033/2016-10-21/text",
+   "sha256": "8957e5a8bc242dd0b340c9afc7c7e512daa1478c3cc286ec4a31834f3eccf057"
+  },
+  {
+   "in_force": "2017-02-16",
+   "register_id": "C2017C00041",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03033',start=2017-02-16,retrospectivestart=2017-02-16,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03033/2017-02-16/text",
+   "sha256": "2366651651e2da2484c719fe9d26d38c5f44b4ef53b9b7ba4823f91b624430ed"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00565",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03033',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03033/2024-10-14/text",
+   "sha256": "2f60886b7ec118fe845ff35b77f2ddb62c3ec853e48f770a8eff79ea496c4a6f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1984-10-25",
+   "acts": []
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Civil Aviation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Social Security (Rewrite) Transition Act 1991"
+   ]
+  },
+  {
+   "in_force": "1995-01-01",
+   "acts": [
+    "Student Assistance (Youth Training Allowance—Transitional Provisions and Consequential Amendments) Act 1994"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-26",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2004-07-01",
+   "acts": [
+    "Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2008-07-04",
+   "acts": [
+    "Statute Law Revision Act 2008"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

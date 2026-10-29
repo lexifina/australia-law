@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A02279",
+ "name": "Coastal Waters (Northern Territory Title) Act 1980",
+ "folder": "coastal-waters-northern-territory-title-act-1980",
+ "compilations": [
+  {
+   "in_force": "1980-05-29",
+   "register_id": "C2004A02279",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02279',start=1980-05-29,retrospectivestart=1980-05-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02279/1980-05-29/text",
+   "sha256": "448d279fea9db89e8d1d072b7e54b3c15794e32466979029fdae1769bc8f9d8e"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

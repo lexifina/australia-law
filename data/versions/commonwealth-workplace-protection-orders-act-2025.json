@@ -1,0 +1,21 @@
+{
+ "title_id": "C2025A00052",
+ "name": "Commonwealth Workplace Protection Orders Act 2025",
+ "folder": "commonwealth-workplace-protection-orders-act-2025",
+ "compilations": [
+  {
+   "in_force": "2025-11-04",
+   "register_id": "C2025A00052",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2025A00052',start=2025-11-04,retrospectivestart=2025-11-04,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2025A00052/2025-11-04/text",
+   "sha256": "f51ee58d52b00f12a9923c0a4b09e2bf5c71fae8de7b506fec4d40a8f99bf623"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

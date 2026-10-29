@@ -1,0 +1,96 @@
+{
+ "title_id": "C2013A00067",
+ "name": "Australian Education Act 2013",
+ "folder": "australian-education-act-2013",
+ "compilations": [
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00473",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00067',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00067/2024-10-14/text",
+   "sha256": "d2f593794e161c7fe236a248c95b579852f5421ab54417eaa9659f97db9d4d08"
+  },
+  {
+   "in_force": "2024-11-30",
+   "register_id": "C2024C00798",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00067',start=2024-11-30,retrospectivestart=2024-11-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00067/2024-11-30/text",
+   "sha256": "21310b6537cc63df6228382a80703b5234e8d188c7d3dbd83df82732eee168ae"
+  },
+  {
+   "in_force": "2024-12-18",
+   "register_id": "C2024C00865",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00067',start=2024-12-18,retrospectivestart=2024-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00067/2024-12-18/text",
+   "sha256": "efc4de4d8d61157bfab91b04b059523d18a5e93416324d8aa48e923f2389f3c5"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2013-06-27",
+   "acts": []
+  },
+  {
+   "in_force": "2014-01-01",
+   "acts": [
+    "Australian Education Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-11-27",
+   "acts": [
+    "Australian Education Amendment Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2017-06-27",
+   "acts": [
+    "Australian Education Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Australian Education Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2020-03-27",
+   "acts": [
+    "Australian Education Amendment (Direct Measure of Income) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2024-07-06",
+   "acts": [
+    "COAG Legislation Amendment Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

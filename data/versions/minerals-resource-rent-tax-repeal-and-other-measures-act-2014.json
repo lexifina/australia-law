@@ -1,0 +1,32 @@
+{
+ "title_id": "C2014A00096",
+ "name": "Minerals Resource Rent Tax Repeal and Other Measures Act 2014",
+ "folder": "minerals-resource-rent-tax-repeal-and-other-measures-act-2014",
+ "compilations": [
+  {
+   "in_force": "2014-09-05",
+   "register_id": "C2014A00096",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00096',start=2014-09-05,retrospectivestart=2014-09-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00096/2014-09-05/text",
+   "sha256": "324a70d4cee0f6feaf116beb34a19d1284fe8f3855e847c3ae95d5e8b9fac21f"
+  },
+  {
+   "in_force": "2017-07-02",
+   "register_id": "C2017C00211",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00096',start=2017-07-02,retrospectivestart=2017-07-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00096/2017-07-02/text",
+   "sha256": "20c6a678c1ee4bda9b864122e1a038263c4b1e49fed667b091cfecaa097cf8b1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

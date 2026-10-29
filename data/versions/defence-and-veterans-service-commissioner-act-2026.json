@@ -1,0 +1,39 @@
+{
+ "title_id": "C2026A00027",
+ "name": "Defence and Veterans’ Service Commissioner Act 2026",
+ "folder": "defence-and-veterans-service-commissioner-act-2026",
+ "compilations": [
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026A00027",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00027',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00027/2026-04-01/text",
+   "sha256": "0db36ffb4bd31491600af28f14b6c802c4c5f5a4197736c5a31c9f501a61bff0"
+  },
+  {
+   "in_force": "2026-09-29",
+   "register_id": "C2026C00452",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00027',start=2026-09-29,retrospectivestart=2026-09-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00027/2026-09-29/text",
+   "sha256": "2b6a65fff281bc2b77d723a60e2d9f5303f204a27ea2ea8891fdd0b12d57ecf2"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Defence Force Discipline Amendment (RCDVS Implementation and Related Measures No. 1) Act 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

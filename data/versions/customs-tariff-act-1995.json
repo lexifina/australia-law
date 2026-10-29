@@ -1,0 +1,1034 @@
+{
+ "title_id": "C2004A04997",
+ "name": "Customs Tariff Act 1995",
+ "folder": "customs-tariff-act-1995",
+ "compilations": [
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026C00158",
+   "compilation": "98",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04997',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04997/2026-04-01/text",
+   "sha256": "3c7fae25356eeb836b5f1173f2499f42ea577ced019a4b53060771c1cdec8d86"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00313",
+   "compilation": "99",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04997',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04997/2026-07-01/text",
+   "sha256": "b78c70e8003ad9c85554b4f20e41c89599bd5acb2fd6c50ab182d47cd62232f8"
+  },
+  {
+   "in_force": "2026-07-04",
+   "register_id": "C2026C00399",
+   "compilation": "100",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04997',start=2026-07-04,retrospectivestart=2026-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04997/2026-07-04/text",
+   "sha256": "6eefb2bc3939fb483cba25d6fe4b8578042573f3e7daee37707385e7cba08328"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1995-12-16",
+   "acts": []
+  },
+  {
+   "in_force": "1996-07-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 1999",
+    "Customs Tariff Amendment Act (No. 1) 1997",
+    "Customs Tariff Amendment Act (No. 2) 1997",
+    "Customs Tariff Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1996-07-15",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 1997",
+    "Customs Tariff Amendment Act (No. 1) 1996"
+   ]
+  },
+  {
+   "in_force": "1996-09-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-01-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-03-10",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 1997",
+    "Tax Law Improvement Act 1997",
+    "Customs Tariff Amendment Act (No. 2) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-07-03",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1997-08-07",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 3) 1997"
+   ]
+  },
+  {
+   "in_force": "1997-09-17",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 5) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-01-31",
+   "acts": [
+    "Customs Tariff (Fuel Rates Amendments) Act 1997",
+    "Customs Tariff Amendment Act (No. 4) 1997",
+    "Customs Tariff Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1998-03-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1998-05-25",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "1998-07-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 1999",
+    "Customs Tariff Amendment Act (No. 2) 1997"
+   ]
+  },
+  {
+   "in_force": "1998-07-14",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 1998"
+   ]
+  },
+  {
+   "in_force": "1998-09-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-01-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-04-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-05-12",
+   "acts": [
+    "Customs Tariff Amendment (Aviation Fuel Revenues) Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-07-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 1999",
+    "Statute Law Revision Act 2002"
+   ]
+  },
+  {
+   "in_force": "1999-07-22",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 2000"
+   ]
+  },
+  {
+   "in_force": "1999-09-03",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 2000"
+   ]
+  },
+  {
+   "in_force": "1999-10-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 2000"
+   ]
+  },
+  {
+   "in_force": "1999-10-27",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 1999"
+   ]
+  },
+  {
+   "in_force": "1999-11-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "1999-11-15",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2000"
+   ]
+  },
+  {
+   "in_force": "1999-12-15",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 3) 2000"
+   ]
+  },
+  {
+   "in_force": "1999-12-30",
+   "acts": [
+    "Customs Tariff Amendment (ACIS Implementation) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-03-10",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 3) 2000"
+   ]
+  },
+  {
+   "in_force": "2000-05-13",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 2001"
+   ]
+  },
+  {
+   "in_force": "2000-06-23",
+   "acts": [
+    "Customs Tariff Amendment (Tradex) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2001",
+    "Customs Tariff Amendment Act (No. 2) 2001"
+   ]
+  },
+  {
+   "in_force": "2000-07-04",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2000-08-14",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2000-09-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2001"
+   ]
+  },
+  {
+   "in_force": "2000-09-14",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 3) 2000"
+   ]
+  },
+  {
+   "in_force": "2001-01-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 4) 2001",
+    "Customs Tariff Amendment Act (No. 4) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-03-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 4) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-03-02",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-04-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 4) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-04-04",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-06-30",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 3) 2001",
+    "Customs Tariff Amendment Act (No. 4) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-08-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 4) 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-14",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 4) 2001"
+   ]
+  },
+  {
+   "in_force": "2002-01-01",
+   "acts": [
+    "Customs Tariff Amendment (Product Stewardship for Waste Oil) Act 2000",
+    "Customs Tariff Amendment Act (No. 5) 2001",
+    "Customs Tariff Amendment Act (No. 4) 2001",
+    "Customs Tariff Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-04-15",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 4) 2001",
+    "Customs Tariff Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-07-10",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2002"
+   ]
+  },
+  {
+   "in_force": "2002-09-18",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2004"
+   ]
+  },
+  {
+   "in_force": "2002-12-02",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 2002"
+   ]
+  },
+  {
+   "in_force": "2003-03-24",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2003-04-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-07-01",
+   "acts": [
+    "Customs Tariff Amendment (Fuels) Act 2004",
+    "Customs Tariff Amendment (Fuels) Act 2004",
+    "Customs Tariff Amendment Act (No. 1) 2003",
+    "Customs Tariff Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2003-07-28",
+   "acts": [
+    "Customs Tariff Amendment (Fuels) Act 2004",
+    "Customs Tariff Amendment Act (No. 1) 2003"
+   ]
+  },
+  {
+   "in_force": "2003-09-18",
+   "acts": [
+    "Customs Tariff Amendment (Fuels) Act 2004",
+    "Customs Tariff Amendment (Fuels) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2003-10-14",
+   "acts": [
+    "Customs Tariff Amendment (ACIS) Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-10-18",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2004-12-14",
+   "acts": [
+    "Customs Tariff Amendment (Textile, Clothing and Footwear Post-2005 Arrangements) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2005-01-01",
+   "acts": [
+    "US Free Trade Agreement Implementation (Customs Tariff) Act 2004",
+    "US Free Trade Agreement Implementation (Customs Tariff) Act 2004",
+    "US Free Trade Agreement Implementation (Customs Tariff) Act 2004",
+    "US Free Trade Agreement Implementation (Customs Tariff) Act 2004",
+    "Customs Tariff Amendment (Thailand-Australia Free Trade Agreement Implementation) Act 2004",
+    "Customs Tariff Amendment (Thailand-Australia Free Trade Agreement Implementation) Act 2004",
+    "Customs Tariff Amendment (Thailand-Australia Free Trade Agreement Implementation) Act 2004",
+    "Customs Tariff Amendment Act (No. 1) 2005",
+    "Customs Tariff Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2005-02-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2005"
+   ]
+  },
+  {
+   "in_force": "2005-05-11",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 2005",
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2005-07-01",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 2) 2005"
+   ]
+  },
+  {
+   "in_force": "2005-11-01",
+   "acts": [
+    "Customs Tariff Amendment (Fuel Tax Reform and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2005-11-08",
+   "acts": [
+    "Customs Tariff Amendment (Commonwealth Games) Act 2005"
+   ]
+  },
+  {
+   "in_force": "2006-07-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2007",
+    "Customs Tariff Amendment (Fuel Tax Reform and Other Measures) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-11-04",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2007",
+    "Customs Tariff Amendment (2007 Harmonized System Changes) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-01-01",
+   "acts": [
+    "Customs Legislation Amendment (New Zealand Rules of Origin) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-02-07",
+   "acts": [
+    "Customs Tariff Amendment (Greater Sunrise) Act 2004"
+   ]
+  },
+  {
+   "in_force": "2007-08-20",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2007"
+   ]
+  },
+  {
+   "in_force": "2008-04-27",
+   "acts": [
+    "Customs Tariff Amendment (2009 Measures No. 1) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2008-06-24",
+   "acts": [
+    "Customs Tariff Amendment (Tobacco Content) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2008-07-01",
+   "acts": [
+    "Customs Tariff Amendment (Greater Sunrise) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-11-22",
+   "acts": [
+    "Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-01-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-03-06",
+   "acts": [
+    "Customs Tariff Amendment (Australia-Chile Free Trade Agreement Implementation) Act 2008",
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-08-28",
+   "acts": [
+    "Customs Tariff Amendment (2009 Measures No. 1) Act 2009",
+    "Customs Tariff Amendment (2009 Measures No. 1) Act 2009",
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-12-14",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-01-01",
+   "acts": [
+    "Customs Tariff Amendment (ASEAN-Australia-New Zealand Free Trade Agreement Implementation) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-03-01",
+   "acts": [
+    "Statute Law Revision Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-30",
+   "acts": [
+    "Customs Tariff Amendment (Tobacco) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-06-28",
+   "acts": [
+    "Customs Tariff Amendment Act (No. 1) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Customs Tariff Amendment (Aviation Fuel) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-01",
+   "acts": [
+    "Customs Tariff Amendment (Taxation of Alternative Fuels) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-01-01",
+   "acts": [
+    "Customs Tariff Amendment (Taxation of Alternative Fuels) Act 2011",
+    "Customs Tariff Amendment (2012 Harmonized System Changes) Act 2011",
+    "Customs Tariff Amendment (2012 Measures No. 1) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-03-01",
+   "acts": [
+    "Customs Tariff Amendment (2012 Measures No. 1) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-07-01",
+   "acts": [
+    "Clean Energy (Customs Tariff Amendment) Act 2011",
+    "Clean Energy (Customs Tariff Amendment) Act 2011",
+    "Clean Energy (Customs Tariff Amendment) Act 2012",
+    "Clean Energy (Customs Tariff Amendment) Act 2012",
+    "Customs Tariff Amendment (Taxation of Alternative Fuels) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-09-26",
+   "acts": [
+    "Customs Tariff Amendment (2012 Measures No. 1) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-03",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012",
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Customs Tariff Amendment (Malaysia-Australia Free Trade Agreement Implementation) Act 2012",
+    "Customs Tariff Amendment (Malaysia-Australia Free Trade Agreement Implementation) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-03-01",
+   "acts": [
+    "Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012",
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2013",
+    "Customs Tariff Amendment (Schedule 4) Act 2012",
+    "Customs Tariff Amendment (Malaysia-Australia Free Trade Agreement Implementation) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-06-29",
+   "acts": [
+    "Statute Law Revision Act 2013"
+   ]
+  },
+  {
+   "in_force": "2013-07-01",
+   "acts": [
+    "Customs Tariff Amendment (Taxation of Alternative Fuels) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2013-12-01",
+   "acts": [
+    "Customs Tariff Amendment (Tobacco) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Customs Tariff Amendment (Product Stewardship for Oil) Act 2014",
+    "Customs Tariff Amendment (Taxation of Alternative Fuels) Act 2011",
+    "Customs Tariff Amendment (Carbon Tax Repeal) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-11-10",
+   "acts": [
+    "Customs Tariff Amendment (Fuel Indexation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2014-12-12",
+   "acts": [
+    "Customs Tariff Amendment (Korea-Australia Free Trade Agreement Implementation) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-01-15",
+   "acts": [
+    "Customs Tariff Amendment (Japan-Australia Economic Partnership Agreement Implementation) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2015-01-31",
+   "acts": [
+    "Customs Tariff Amendment (Fuel Indexation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs Tariff Amendment (Taxation of Alternative Fuels) Act 2011",
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015",
+    "Customs Tariff Amendment (Fuel Indexation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-07",
+   "acts": [
+    "Customs Tariff Amendment (Fuel Indexation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-12-20",
+   "acts": [
+    "Customs Tariff Amendment (China-Australia Free Trade Agreement Implementation) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Territories Legislation Amendment Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-09-23",
+   "acts": [
+    "Customs Tariff Amendment (Tobacco) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-12-28",
+   "acts": [
+    "Customs Tariff Amendment (Expanded Information Technology Agreement Implementation and Other Measures) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-01-01",
+   "acts": [
+    "Customs Tariff Amendment (Expanded Information Technology Agreement Implementation and Other Measures) Act 2016",
+    "Customs Tariff Amendment (Incorporation of Proposal and Other Measures) Act 2017",
+    "Customs Tariff Amendment (Incorporation of Proposal and Other Measures) Act 2017",
+    "Customs Tariff Amendment (2017 Harmonized System Changes) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Customs Tariff Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-08-16",
+   "acts": [
+    null
+   ]
+  },
+  {
+   "in_force": "2017-08-31",
+   "acts": [
+    "Customs Tariff Amendment (Tobacco Duty Harmonisation) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-13",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposal and Other Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-09-20",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2017-12-01",
+   "acts": [
+    "Customs Tariff Amendment (Singapore-Australia Free Trade Agreement Amendment Implementation) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-01-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposal and Other Measures) Act 2017"
+   ]
+  },
+  {
+   "in_force": "2018-07-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-09-25",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-30",
+   "acts": [
+    "Customs Tariff Amendment (Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-04-06",
+   "acts": [
+    "Customs Tariff Amendment (Craft Beer) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-08-30",
+   "acts": [
+    "Timor Sea Maritime Boundaries Treaty Consequential Amendments Act 2019"
+   ]
+  },
+  {
+   "in_force": "2019-08-31",
+   "acts": [
+    "Space Activities Amendment (Launches and Returns) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2020-01-17",
+   "acts": [
+    "Customs Tariff Amendment (Growing Australian Export Opportunities Across the Asia-Pacific) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-02-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2020-02-11",
+   "acts": [
+    "Customs Tariff Amendment (Growing Australian Export Opportunities Across the Asia-Pacific) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-07-05",
+   "acts": [
+    "Customs Tariff Amendment (Growing Australian Export Opportunities Across the Asia-Pacific) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-12-01",
+   "acts": [
+    "Customs Tariff Amendment (Singapore-Australia Free Trade Agreement Amendment Implementation) Act 2017",
+    "Customs Tariff Amendment (Craft Beer) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2020-12-13",
+   "acts": [
+    "Customs Tariff Amendment (Pacific Agreement on Closer Economic Relations Plus Implementation) Act 2018",
+    "Customs Tariff Amendment (Craft Beer) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-01-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-03-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-03-29",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals and Other Measures) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-04-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-07-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2022-01-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2023",
+    "Customs Tariff Amendment (2022 Harmonized System Changes) Act 2021",
+    "Customs Tariff Amendment (Regional Comprehensive Economic Partnership Agreement Implementation) Act 2021",
+    "Customs Tariff Amendment (Regional Comprehensive Economic Partnership Agreement Implementation) Act 2021",
+    "Customs Tariff Amendment (Incorporation of Proposals) Act (No. 1) 2024"
+   ]
+  },
+  {
+   "in_force": "2022-03-31",
+   "acts": [
+    "Customs Tariff Amendment (Cost of Living Support) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2022-04-25",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2022-07-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2022-07-04",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2022-12-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act (No. 1) 2024"
+   ]
+  },
+  {
+   "in_force": "2022-12-29",
+   "acts": [
+    "Customs Tariff Amendment (India-Australia Economic Cooperation and Trade Agreement Implementation) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-05-31",
+   "acts": [
+    "Customs Tariff Amendment (Australia-United Kingdom Free Trade Agreement Implementation) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "Customs Tariff Amendment (Product Stewardship for Oil) Act 2023",
+    "Customs Tariff Amendment (Product Stewardship for Oil) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-07-04",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act (No. 1) 2024"
+   ]
+  },
+  {
+   "in_force": "2023-09-01",
+   "acts": [
+    "Customs Tariff Amendment (Tobacco) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2023-09-15",
+   "acts": [
+    "Customs Legislation Amendment (Controlled Trials and Other Measures) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2023-10-25",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act (No. 1) 2024"
+   ]
+  },
+  {
+   "in_force": "2024-07-01",
+   "acts": [
+    "Excise and Customs Legislation Amendment (Streamlining Administration) Act 2024",
+    "Customs Tariff Amendment (Incorporation of Proposals and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-07-04",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-12-24",
+   "acts": [
+    "Customs Tariff Amendment (Comprehensive and Progressive Agreement for Trans-Pacific Partnership Expansion) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-01-07",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals and Other Measures) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2025-08-01",
+   "acts": [
+    "Customs Tariff Amendment (Draught Beer) Act 2026"
+   ]
+  },
+  {
+   "in_force": "2025-10-01",
+   "acts": [
+    "Customs Tariff Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2025-10-25",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act (No. 1) 2026"
+   ]
+  },
+  {
+   "in_force": "2025-12-19",
+   "acts": [
+    "Customs Tariff Amendment (Geelong Treaty Implementation) Act 2025"
+   ]
+  },
+  {
+   "in_force": "2027-01-01",
+   "acts": [
+    "Customs Tariff Amendment (Incorporation of Proposals) Act (No. 1) 2026"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2026A00028",
+ "name": "Defence and Veterans’ Service Commissioner (Consequential and Transitional Provisions) Act 2026",
+ "folder": "defence-and-veterans-service-commissioner-consequential-and",
+ "compilations": [
+  {
+   "in_force": "2026-04-01",
+   "register_id": "C2026A00028",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00028',start=2026-04-01,retrospectivestart=2026-04-01,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00028/2026-04-01/text",
+   "sha256": "bb16d5df2b0a2d16c6bc40e40f2ae7d75bd373132639403bec3e58479c5ce8f5"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

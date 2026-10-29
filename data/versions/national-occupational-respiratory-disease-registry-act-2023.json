@@ -1,0 +1,32 @@
+{
+ "title_id": "C2023A00095",
+ "name": "National Occupational Respiratory Disease Registry Act 2023",
+ "folder": "national-occupational-respiratory-disease-registry-act-2023",
+ "compilations": [
+  {
+   "in_force": "2023-11-22",
+   "register_id": "C2023A00095",
+   "compilation": "0",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00095',start=2023-11-22,retrospectivestart=2023-11-22,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00095/2023-11-22/text",
+   "sha256": "2543b07dacc0bc63cc23520aac32992cc737583f4c3fa097d723a4c6df563c50"
+  },
+  {
+   "in_force": "2026-01-01",
+   "register_id": "C2026C00030",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2023A00095',start=2026-01-01,retrospectivestart=2026-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2023A00095/2026-01-01/text",
+   "sha256": "75dc35d955b912220de7c240d46db7a2e56a6fb31f4debd83d9198e3e3c96cc6"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

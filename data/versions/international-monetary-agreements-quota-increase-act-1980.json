@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A02352",
+ "name": "International Monetary Agreements (Quota Increase) Act 1980",
+ "folder": "international-monetary-agreements-quota-increase-act-1980",
+ "compilations": [
+  {
+   "in_force": "2024-07-10",
+   "register_id": "C2024C00327",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02352',start=2024-07-10,retrospectivestart=2024-07-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02352/2024-07-10/text",
+   "sha256": "fbfc3e3a155e061a04d9668211a2ad10090d73dd69d5c071ae88a45de808eab1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1980-09-19"
+ ],
+ "repeal": null
+}

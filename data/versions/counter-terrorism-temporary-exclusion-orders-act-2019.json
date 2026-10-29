@@ -1,0 +1,43 @@
+{
+ "title_id": "C2019A00053",
+ "name": "Counter-Terrorism (Temporary Exclusion Orders) Act 2019",
+ "folder": "counter-terrorism-temporary-exclusion-orders-act-2019",
+ "compilations": [
+  {
+   "in_force": "2019-07-30",
+   "register_id": "C2019A00053",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00053',start=2019-07-30,retrospectivestart=2019-07-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00053/2019-07-30/text",
+   "sha256": "88878dc52294e94c515f9e56af66a0d7e86380c942defc835cd46fe0fe02aae7"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00576",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00053',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00053/2024-10-14/text",
+   "sha256": "17d6e88f352811264dfcff9e894b6899daa70c5fe91ba65f14d7a5aaab36ddfd"
+  },
+  {
+   "in_force": "2025-11-08",
+   "register_id": "C2025C00639",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2019A00053',start=2025-11-08,retrospectivestart=2025-11-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2019A00053/2025-11-08/text",
+   "sha256": "1a79bdabee19381f5eaac5d45b85300f3468d6f85765dcb1b01546bf17fd3cec"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,32 @@
+{
+ "title_id": "C2015A00098",
+ "name": "Imported Food Charges (Imposition—Excise) Act 2015",
+ "folder": "imported-food-charges-impositionexcise-act-2015",
+ "compilations": [
+  {
+   "in_force": "2015-06-29",
+   "register_id": "C2015A00098",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00098',start=2015-06-29,retrospectivestart=2015-06-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00098/2015-06-29/text",
+   "sha256": "8640e83d281bc65b540c81499dc9f43ba6e406f78c43f0c1fa86d0b1f1d37e4e"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00821",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2015A00098',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2015A00098/2016-07-01/text",
+   "sha256": "694bcfd9261a0ba8d22721390aca754f2ed93900f45cd72d6e936fa7fa22b0fe"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

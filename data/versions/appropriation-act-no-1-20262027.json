@@ -1,0 +1,40 @@
+{
+ "title_id": "C2026A00054",
+ "name": "Appropriation Act (No. 1) 2026‑2027",
+ "folder": "appropriation-act-no-1-20262027",
+ "compilations": [
+  {
+   "in_force": "2026-06-30",
+   "register_id": "C2026A00054",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2026A00054',start=2026-06-30,retrospectivestart=2026-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2026A00054/2026-06-30/text",
+   "sha256": "33a6569cebdf24897af8120c76f2ffc38de3c39b8d34c96f61be283aa394361b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2029-07-01",
+   "acts": [
+    "Appropriation Act (No. 1) 2026‑2027"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": {
+  "day": "2029-07-01",
+  "status": "Repealed",
+  "acts": [
+   [
+    54,
+    2026
+   ]
+  ],
+  "markdown": [
+   "s 13 of the [Appropriation Act (No. 1) 2026‑2027](/C2026A00054)"
+  ]
+ }
+}

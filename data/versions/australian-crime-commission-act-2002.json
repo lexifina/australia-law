@@ -1,0 +1,611 @@
+{
+ "title_id": "C2004A02905",
+ "name": "Australian Crime Commission Act 2002",
+ "folder": "australian-crime-commission-act-2002",
+ "compilations": [
+  {
+   "in_force": "2025-11-08",
+   "register_id": "C2025C00646",
+   "compilation": "76",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02905',start=2025-11-08,retrospectivestart=2025-11-08,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02905/2025-11-08/text",
+   "sha256": "b6f31d2584dd2e3e33810df9219de3da963b87f74b9e7a0f8d314231c9cba9f7"
+  },
+  {
+   "in_force": "2026-01-22",
+   "register_id": "C2026C00082",
+   "compilation": "77",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02905',start=2026-01-22,retrospectivestart=2026-01-22,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02905/2026-01-22/text",
+   "sha256": "65e159d74fbe8c392e2ef35113a26f47dc414cc937a1ef60d64fd0d24d2811eb"
+  },
+  {
+   "in_force": "2026-06-04",
+   "register_id": "C2026C00222",
+   "compilation": "78",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02905',start=2026-06-04,retrospectivestart=2026-06-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02905/2026-06-04/text",
+   "sha256": "c758fc15e40eca8fbe2a4e9902e1727a6c88d4a3b21a50853223f72a002f91e8"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1984-06-15",
+   "acts": []
+  },
+  {
+   "in_force": "1984-07-01",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1984"
+   ]
+  },
+  {
+   "in_force": "1984-12-14",
+   "acts": [
+    "Taxation Laws Amendment Act 1984"
+   ]
+  },
+  {
+   "in_force": "1985-10-16",
+   "acts": [
+    "National Crime Authority (Miscellaneous Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-12-16",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1985"
+   ]
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Crimes Legislation Amendment Act 1988",
+    "Crimes Legislation Amendment Act (No. 2) 1988"
+   ]
+  },
+  {
+   "in_force": "1988-09-01",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-12-01",
+   "acts": [
+    "Safety, Rehabilitation and Compensation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1988-12-09",
+   "acts": [
+    "National Crime Authority Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-03-01",
+   "acts": [
+    "Industrial Relations (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-07-01",
+   "acts": [
+    "Crimes Legislation Amendment Act 1989"
+   ]
+  },
+  {
+   "in_force": "1990-01-17",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 1989"
+   ]
+  },
+  {
+   "in_force": "1990-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 1992"
+   ]
+  },
+  {
+   "in_force": "1991-03-04",
+   "acts": [
+    "Crimes Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-04-17",
+   "acts": [
+    "Commonwealth Banks Restructuring Act 1990"
+   ]
+  },
+  {
+   "in_force": "1991-07-01",
+   "acts": [
+    "Social Security (Rewrite) Transition Act 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-06",
+   "acts": [
+    "Crimes Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1991-12-10",
+   "acts": [
+    "Industrial Relations Legislation Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-01-21",
+   "acts": [
+    "National Crime Authority Amendment Act 1991"
+   ]
+  },
+  {
+   "in_force": "1992-06-11",
+   "acts": [
+    "National Crime Authority Amendment Act 1992"
+   ]
+  },
+  {
+   "in_force": "1993-11-09",
+   "acts": [
+    "Snowy Mountains Engineering Corporation Limited Sale Act 1993"
+   ]
+  },
+  {
+   "in_force": "1994-06-03",
+   "acts": [
+    "CSL Sale Act 1993"
+   ]
+  },
+  {
+   "in_force": "1996-07-19",
+   "acts": [
+    "Commonwealth Bank Sale Act 1995"
+   ]
+  },
+  {
+   "in_force": "1996-10-25",
+   "acts": [
+    "Statute Law Revision Act 1996"
+   ]
+  },
+  {
+   "in_force": "1997-05-25",
+   "acts": [
+    "Workplace Relations and Other Legislation Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1999-09-22",
+   "acts": [
+    "Statute Stocktake Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-10",
+   "acts": [
+    "Australian Security Intelligence Organisation Legislation Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-23",
+   "acts": [
+    "National Crime Authority Amendment Act 1999",
+    "Federal Magistrates (Consequential Amendments) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-01",
+   "acts": [
+    "Jurisdiction of Courts Legislation Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2000-11-01",
+   "acts": [
+    "Australian National Railways Commission Sale Act 1997"
+   ]
+  },
+  {
+   "in_force": "2000-11-24",
+   "acts": [
+    "National Crime Authority Amendment Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-10-12",
+   "acts": [
+    "National Crime Authority Legislation Amendment Act 2001",
+    "Measures to Combat Serious and Organised Crime Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-29",
+   "acts": [
+    "Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2002-01-01",
+   "acts": [
+    "Australian Crime Commission Establishment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-01-01",
+   "acts": [
+    "Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002",
+    "Australian Crime Commission Amendment Act 2004",
+    "Australian Crime Commission Establishment Act 2002"
+   ]
+  },
+  {
+   "in_force": "2003-04-16",
+   "acts": [
+    "Inspector-General of Taxation Act 2003"
+   ]
+  },
+  {
+   "in_force": "2003-05-12",
+   "acts": [
+    "Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2004-03-01",
+   "acts": [
+    "Trade Practices Legislation Amendment Act 2003"
+   ]
+  },
+  {
+   "in_force": "2004-04-02",
+   "acts": [
+    "Australian Crime Commission Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-05-27",
+   "acts": [
+    "Law and Justice Legislation Amendment Act 2004"
+   ]
+  },
+  {
+   "in_force": "2004-12-15",
+   "acts": [
+    "Statute Law Revision Act 2007"
+   ]
+  },
+  {
+   "in_force": "2006-06-13",
+   "acts": [
+    "Telecommunications (Interception) Amendment Act 2006"
+   ]
+  },
+  {
+   "in_force": "2006-12-30",
+   "acts": [
+    "Law Enforcement (AFP Professional Standards and Related Measures) Act 2006",
+    "Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006"
+   ]
+  },
+  {
+   "in_force": "2007-08-18",
+   "acts": [
+    "Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007"
+   ]
+  },
+  {
+   "in_force": "2007-09-29",
+   "acts": [
+    "Australian Crime Commission Amendment Act 2007",
+    "Australian Crime Commission Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-07-01",
+   "acts": [
+    "Fair Work (State Referral and Consequential and Other Amendments) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2009-08-05",
+   "acts": [
+    "Disability Discrimination and Other Human Rights Legislation Amendment Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2010-04-15",
+   "acts": [
+    "Crimes Legislation Amendment (Sexual Offences Against Children) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-07-01",
+   "acts": [
+    "Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-01",
+   "acts": [
+    "Freedom of Information Amendment (Reform) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-11-25",
+   "acts": [
+    "National Security Legislation Amendment Act 2010"
+   ]
+  },
+  {
+   "in_force": "2010-12-17",
+   "acts": [
+    "Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-03-02",
+   "acts": [
+    "Crimes Legislation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-04-22",
+   "acts": [
+    "AIDC Sale Act 1997",
+    "AIDC Sale Act 1997"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2012-04-05",
+   "acts": [
+    "Crimes Legislation Amendment (Powers and Offences) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-06-25",
+   "acts": [
+    "Crimes Legislation Amendment (Powers and Offences) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-12",
+   "acts": [
+    "Access to Justice (Federal Jurisdiction) Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-12-13",
+   "acts": [
+    "Law Enforcement Integrity Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-01-01",
+   "acts": [
+    "Fair Work Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013",
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2014-06-24",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2014-10-30",
+   "acts": [
+    "National Security Legislation Amendment Act (No. 1) 2014"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-28",
+   "acts": [
+    "Law Enforcement Legislation Amendment (Powers) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-10-08",
+   "acts": [
+    "Passports Legislation Amendment (Integrity) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2015-11-27",
+   "acts": [
+    "Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015",
+    "Australian Crime Commission Amendment (National Policing Information) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-05-11",
+   "acts": [
+    "Home Affairs and Integrity Agencies Legislation Amendment Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-05-23",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-20",
+   "acts": [
+    "Office of National Intelligence (Consequential and Transitional Provisions) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2018-12-29",
+   "acts": [
+    "National Security Legislation Amendment (Espionage and Foreign Interference) Act 2018"
+   ]
+  },
+  {
+   "in_force": "2019-12-10",
+   "acts": [
+    "Australian Crime Commission Amendment (Special Operations and Special Investigations) Act 2019"
+   ]
+  },
+  {
+   "in_force": "2021-07-24",
+   "acts": [
+    "Telecommunications Legislation Amendment (International Production Orders) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2021-09-04",
+   "acts": [
+    "Surveillance Legislation Amendment (Identify and Disrupt) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-06-22",
+   "acts": [
+    "Transport Security Amendment (Serious Crime) Act 2021"
+   ]
+  },
+  {
+   "in_force": "2022-12-10",
+   "acts": [
+    "Australian Crime Commission Amendment (Special Operations and Special Investigations) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-07-01",
+   "acts": [
+    "National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022"
+   ]
+  },
+  {
+   "in_force": "2023-09-14",
+   "acts": [
+    "Crimes and Other Legislation Amendment (Omnibus) Act 2023"
+   ]
+  },
+  {
+   "in_force": "2024-05-22",
+   "acts": [
+    "National Security Legislation Amendment (Comprehensive Review and Other Measures No. 3) Act 2024"
+   ]
+  },
+  {
+   "in_force": "2024-10-14",
+   "acts": [
+    "Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 2024"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A00754",
+ "name": "Jurisdiction of Courts (Miscellaneous Amendments) Act 2000",
+ "folder": "jurisdiction-of-courts-miscellaneous-amendments-act-2000",
+ "compilations": [
+  {
+   "in_force": "2000-12-21",
+   "register_id": "C2004A00754",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00754',start=2000-12-21,retrospectivestart=2000-12-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00754/2000-12-21/text",
+   "sha256": "9620c11a908757057297113aa24b7631630b5769159a764256819fa1df230fa1"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

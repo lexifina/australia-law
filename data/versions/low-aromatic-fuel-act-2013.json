@@ -1,0 +1,32 @@
+{
+ "title_id": "C2013A00001",
+ "name": "Low Aromatic Fuel Act 2013",
+ "folder": "low-aromatic-fuel-act-2013",
+ "compilations": [
+  {
+   "in_force": "2013-02-14",
+   "register_id": "C2013A00001",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00001',start=2013-02-14,retrospectivestart=2013-02-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00001/2013-02-14/text",
+   "sha256": "0f7caaae12aa39b3e3564ae513377c1a593a116b63dbb73dc3fe043ccc18efd9"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00163",
+   "compilation": "1",
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2013A00001',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2013A00001/2016-03-05/text",
+   "sha256": "b3bd18e965a3264235732633bb661ee0334036c95eb062d3a9b242a44bcf200f"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

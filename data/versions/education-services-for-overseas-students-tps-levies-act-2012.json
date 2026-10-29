@@ -1,0 +1,60 @@
+{
+ "title_id": "C2012A00011",
+ "name": "Education Services for Overseas Students (TPS Levies) Act 2012",
+ "folder": "education-services-for-overseas-students-tps-levies-act-2012",
+ "compilations": [
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00779",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00011',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00011/2016-07-01/text",
+   "sha256": "0feacf93f0ff055fb131ba720f663725298fbb1cff7246f9f15ad00e275b4011"
+  },
+  {
+   "in_force": "2017-09-15",
+   "register_id": "C2017C00301",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00011',start=2017-09-15,retrospectivestart=2017-09-15,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00011/2017-09-15/text",
+   "sha256": "c31cee0554b4c5cc4ddb429beb65f14a788e675fa0cc3dc82352d47be5ca881e"
+  },
+  {
+   "in_force": "2022-01-01",
+   "register_id": "C2022C00010",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2012A00011',start=2022-01-01,retrospectivestart=2022-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2012A00011/2022-01-01/text",
+   "sha256": "6d3122ba54d8510a64d718f1b1b5966f2f923bfec0a3942e28568533623aa23b"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2012-03-20",
+   "acts": []
+  },
+  {
+   "in_force": "2015-12-10",
+   "acts": [
+    "Statute Law Revision Act (No. 2) 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

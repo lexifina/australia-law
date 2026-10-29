@@ -1,0 +1,32 @@
+{
+ "title_id": "C2004A03931",
+ "name": "Foreign Corporations (Application of Laws) Act 1989",
+ "folder": "foreign-corporations-application-of-laws-act-1989",
+ "compilations": [
+  {
+   "in_force": "1989-12-29",
+   "register_id": "C2004A03931",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03931',start=1989-12-29,retrospectivestart=1989-12-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03931/1989-12-29/text",
+   "sha256": "99392f36f843becd3bf098cbf80ab03322857a679bae81d4fe1064abdd7a7e02"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00800",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03931',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03931/2016-07-01/text",
+   "sha256": "6259820a2e023f772a258a46346cb37b772bc11aec3836f381ed1b483127a417"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

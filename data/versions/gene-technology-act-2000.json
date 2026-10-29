@@ -1,0 +1,115 @@
+{
+ "title_id": "C2004A00762",
+ "name": "Gene Technology Act 2000",
+ "folder": "gene-technology-act-2000",
+ "compilations": [
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00331",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00762',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00762/2016-03-10/text",
+   "sha256": "43210b20edeb30e8f04ff446583643ee90cfa95e10cf846738d5f0086eafda5f"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00792",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00762',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00762/2016-07-01/text",
+   "sha256": "bb92ff68aa4848c72c3d014055e0903cd9122ee2da797b817af90726c2a06adf"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00451",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00762',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00762/2024-10-14/text",
+   "sha256": "2f0f49217f5c10498fa712d7e45b430b561e001503e847f99fc12fea7624bd92"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2000-12-21",
+   "acts": []
+  },
+  {
+   "in_force": "2002-07-01",
+   "acts": [
+    "Australia New Zealand Food Authority Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2003-01-16",
+   "acts": [
+    "Prohibition of Human Cloning for Reproduction Act 2002"
+   ]
+  },
+  {
+   "in_force": "2006-04-07",
+   "acts": [
+    "Financial Framework Legislation Amendment Act (No. 1) 2006"
+   ]
+  },
+  {
+   "in_force": "2007-07-01",
+   "acts": [
+    "Gene Technology Amendment Act 2007",
+    "Gene Technology Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-01-01",
+   "acts": [
+    "Gene Technology Amendment Act 2007"
+   ]
+  },
+  {
+   "in_force": "2008-06-23",
+   "acts": [
+    "Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2011-07-01",
+   "acts": [
+    "Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011"
+   ]
+  },
+  {
+   "in_force": "2011-12-27",
+   "acts": [
+    "Acts Interpretation Amendment Act 2011"
+   ]
+  },
+  {
+   "in_force": "2014-07-01",
+   "acts": [
+    "Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 2014"
+   ]
+  },
+  {
+   "in_force": "2016-03-05",
+   "acts": [
+    "Acts and Instruments (Framework Reform) Act 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

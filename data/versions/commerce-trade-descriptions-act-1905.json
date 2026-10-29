@@ -1,0 +1,217 @@
+{
+ "title_id": "C1905A00016",
+ "name": "Commerce (Trade Descriptions) Act 1905",
+ "folder": "commerce-trade-descriptions-act-1905",
+ "compilations": [
+  {
+   "in_force": "1995-07-01",
+   "register_id": "C2004C02829",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=1995-07-01,retrospectivestart=1995-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/1995-07-01/text",
+   "sha256": "27d322d251edcc4422faa7aad12aeac4514e100c41c7e0d252f201e85506f971"
+  },
+  {
+   "in_force": "2001-05-24",
+   "register_id": "C2004C00112",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2001-05-24,retrospectivestart=2001-05-24,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2001-05-24/text",
+   "sha256": "9c50a1b63ae1e31cd278dd7c84e4f8dbe18449edd3f35cab0d5649dbdc7838eb"
+  },
+  {
+   "in_force": "2008-07-04",
+   "register_id": "C2008C00319",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2008-07-04,retrospectivestart=2008-07-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2008-07-04/text",
+   "sha256": "55e85c9f685c5ea309eeab9bc57afc9dbb9ec2ffe10198c1a17aed125385929f"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00415",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2015-07-01/text",
+   "sha256": "ea681e55317edc5af1d1e61f42133bff974364aea89f0b7cc1c43f514e3f6254"
+  },
+  {
+   "in_force": "2016-03-05",
+   "register_id": "C2016C00321",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2016-03-05,retrospectivestart=2016-03-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2016-03-05/text",
+   "sha256": "1f96477963287e892eba63dcd25052c74d0c814b37901bda543ac05a17fec97f"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C01076",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2016-10-21/text",
+   "sha256": "a4a390ffddce047fffddea9c43dc982916d35ff336f19ff990f45bb663847216"
+  },
+  {
+   "in_force": "2017-04-05",
+   "register_id": "C2017C00130",
+   "compilation": "10",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2017-04-05,retrospectivestart=2017-04-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2017-04-05/text",
+   "sha256": "3ca28076f915441c62d46312176cc20a9003c78b3a55704ba13cb72be8827e3e"
+  },
+  {
+   "in_force": "2017-09-20",
+   "register_id": "C2017C00322",
+   "compilation": "11",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2017-09-20,retrospectivestart=2017-09-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2017-09-20/text",
+   "sha256": "94f7fc358e9313c9035b545a7641d66f9e93b5d8549ec2174c8f31beeeb59e6d"
+  },
+  {
+   "in_force": "2018-06-30",
+   "register_id": "C2018C00260",
+   "compilation": "12",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2018-06-30,retrospectivestart=2018-06-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2018-06-30/text",
+   "sha256": "0626c42e20e950b8586ec2fb2208f3af20eafc3322432de6222144bb1f62ca57"
+  },
+  {
+   "in_force": "2018-12-29",
+   "register_id": "C2019C00065",
+   "compilation": "13",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2018-12-29,retrospectivestart=2018-12-29,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2018-12-29/text",
+   "sha256": "39af6e2c5c191362ea4cd370bf47ef15cd83bc4f09dffb2ced3ff9847117ff92"
+  },
+  {
+   "in_force": "2021-03-28",
+   "register_id": "C2021C00181",
+   "compilation": "14",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2021-03-28,retrospectivestart=2021-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2021-03-28/text",
+   "sha256": "c20a8134edae3b42b68a9d85cdea7e30a991a64578bd34888704f9926e7e9a44"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00554",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1905A00016',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1905A00016/2024-10-14/text",
+   "sha256": "947645ed8b898e65bd1488a44b2f1e24501c46dfe39621cbacecd6849a7f4453"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1926-08-11",
+   "acts": [
+    "Commerce (Trade Descriptions) Act 1926"
+   ]
+  },
+  {
+   "in_force": "1930-07-18",
+   "acts": [
+    "Commerce (Trade Descriptions) Act 1930"
+   ]
+  },
+  {
+   "in_force": "1933-07-24",
+   "acts": [
+    "Commerce (Trade Descriptions) Act 1933"
+   ]
+  },
+  {
+   "in_force": "1950-12-31",
+   "acts": [
+    "Statute Law Revision Act 1950"
+   ]
+  },
+  {
+   "in_force": "1966-12-01",
+   "acts": [
+    "Statute Law Revision (Decimal Currency) Act 1966"
+   ]
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1981-06-12",
+   "acts": [
+    "Statute Law Revision Act 1981"
+   ]
+  },
+  {
+   "in_force": "1981-10-26",
+   "acts": [
+    "Commerce (Trade Descriptions) Amendment Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-01-01",
+   "acts": [
+    "Export Control (Miscellaneous Amendments) Act 1982"
+   ]
+  },
+  {
+   "in_force": "1985-06-10",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  },
+  {
+   "in_force": "1986-05-13",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1986"
+   ]
+  },
+  {
+   "in_force": "1992-12-11",
+   "acts": [
+    "Industry, Technology and Commerce Legislation Amendment Act 1992"
+   ]
+  }
+ ],
+ "unreadable_versions": [
+  "1905-12-08"
+ ],
+ "repeal": null
+}

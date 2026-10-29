@@ -1,0 +1,43 @@
+{
+ "title_id": "C2010A00036",
+ "name": "Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010",
+ "folder": "trans-tasman-proceedings-transitional-and-consequential-provisions-act",
+ "compilations": [
+  {
+   "in_force": "2010-04-13",
+   "register_id": "C2010A00036",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00036',start=2010-04-13,retrospectivestart=2010-04-13,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00036/2010-04-13/text",
+   "sha256": "d62aa472565094060984d685a5fbf1c0e9105aa2c54be4c645f773a38b74bc53"
+  },
+  {
+   "in_force": "2011-03-02",
+   "register_id": "C2012C00751",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00036',start=2011-03-02,retrospectivestart=2011-03-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00036/2011-03-02/text",
+   "sha256": "167a6dcffa6610d5bcb8fe0f5584eb467fa34fffeba5861d70e6fb2719bb0856"
+  },
+  {
+   "in_force": "2013-10-11",
+   "register_id": "C2013C00642",
+   "compilation": "2",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2010A00036',start=2013-10-11,retrospectivestart=2013-10-11,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2010A00036/2013-10-11/text",
+   "sha256": "e20a1e443c5916d216e786f1c4920293e042b22a27d8ffec68fd1d79ae28a8bc"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

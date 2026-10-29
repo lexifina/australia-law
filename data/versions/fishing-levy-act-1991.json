@@ -1,0 +1,23 @@
+{
+ "title_id": "C2004A04231",
+ "name": "Fishing Levy Act 1991",
+ "folder": "fishing-levy-act-1991",
+ "compilations": [
+  {
+   "in_force": "2011-01-04",
+   "register_id": "C2011C00045",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04231',start=2011-01-04,retrospectivestart=2011-01-04,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04231/2011-01-04/text",
+   "sha256": "2abca2142502ee68bd3b56dadd4a5f411087a80fd295556e63ac0ec2dc00de40"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [
+  "1991-10-21"
+ ],
+ "repeal": null
+}

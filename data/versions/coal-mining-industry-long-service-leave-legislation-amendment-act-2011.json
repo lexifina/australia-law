@@ -1,0 +1,21 @@
+{
+ "title_id": "C2011A00142",
+ "name": "Coal Mining Industry (Long Service Leave) Legislation Amendment Act 2011",
+ "folder": "coal-mining-industry-long-service-leave-legislation-amendment-act-2011",
+ "compilations": [
+  {
+   "in_force": "2010-01-01",
+   "register_id": "C2011A00142",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2011A00142',start=2010-01-01,retrospectivestart=2010-01-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2011A00142/2010-01-01/text",
+   "sha256": "2043cd8b0d0b0c23825e88ed8ae8492704cc578cf4bc528fa217fd17f7c8f907"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

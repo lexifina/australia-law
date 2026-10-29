@@ -1,0 +1,60 @@
+{
+ "title_id": "C2020A00091",
+ "name": "Payment Times Reporting Act 2020",
+ "folder": "payment-times-reporting-act-2020",
+ "compilations": [
+  {
+   "in_force": "2024-09-07",
+   "register_id": "C2024C00363",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00091',start=2024-09-07,retrospectivestart=2024-09-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00091/2024-09-07/text",
+   "sha256": "02cba33484101e8ccc5b442c9b3475464c3c5bec74ec3d74b358041104441cc6"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00621",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00091',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00091/2024-10-14/text",
+   "sha256": "1eb2818e5a510b82316cc1eacf4ef6e4d8b1b8a5758a1366297b7f5a1052524d"
+  },
+  {
+   "in_force": "2025-02-21",
+   "register_id": "C2025C00133",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2020A00091',start=2025-02-21,retrospectivestart=2025-02-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2020A00091/2025-02-21/text",
+   "sha256": "a1e712b2df2c77900ab03c7172ab2ce17834ab1956086f724be2ef1f54f43db7"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "2020-10-14",
+   "acts": []
+  },
+  {
+   "in_force": "2021-09-01",
+   "acts": [
+    "Payment Times Reporting (Consequential Amendments) Act 2020"
+   ]
+  },
+  {
+   "in_force": "2022-02-23",
+   "acts": [
+    "Corporate Collective Investment Vehicle Framework and Other Measures Act 2022"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

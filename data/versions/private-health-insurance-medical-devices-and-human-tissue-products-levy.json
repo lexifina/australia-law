@@ -1,0 +1,32 @@
+{
+ "title_id": "C2007A00033",
+ "name": "Private Health Insurance (Medical Devices and Human Tissue Products Levy) Act 2007",
+ "folder": "private-health-insurance-medical-devices-and-human-tissue-products-levy",
+ "compilations": [
+  {
+   "in_force": "2007-03-30",
+   "register_id": "C2007A00033",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00033',start=2007-03-30,retrospectivestart=2007-03-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00033/2007-03-30/text",
+   "sha256": "b567674f38651fa48d1a92e32f458a1e2486c5e70f4e65f9b9e93ec08ca9dfd1"
+  },
+  {
+   "in_force": "2023-07-01",
+   "register_id": "C2023C00167",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2007A00033',start=2023-07-01,retrospectivestart=2023-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2007A00033/2023-07-01/text",
+   "sha256": "5fda212bdab619147e9202816498a3e387d73c4d1e2a743f2c85a29a8f194814"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

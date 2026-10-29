@@ -1,0 +1,151 @@
+{
+ "title_id": "C2004A03937",
+ "name": "Hazardous Waste (Regulation of Exports and Imports) Act 1989",
+ "folder": "hazardous-waste-regulation-of-exports-and-imports-act-1989",
+ "compilations": [
+  {
+   "in_force": "2021-12-30",
+   "register_id": "C2022C00062",
+   "compilation": "20",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03937',start=2021-12-30,retrospectivestart=2021-12-30,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03937/2021-12-30/text",
+   "sha256": "56ed9a80a0bbe7b432e32007587ac21f8c3ef365ff9801bfe8b2ef5c07d432b4"
+  },
+  {
+   "in_force": "2024-10-14",
+   "register_id": "C2024C00489",
+   "compilation": "21",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03937',start=2024-10-14,retrospectivestart=2024-10-14,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03937/2024-10-14/text",
+   "sha256": "6340278f163ca49a34554771095819c6275bfc33abf4797f9e7c8a9ee3a42e9f"
+  },
+  {
+   "in_force": "2026-07-01",
+   "register_id": "C2026C00305",
+   "compilation": "22",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03937',start=2026-07-01,retrospectivestart=2026-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03937/2026-07-01/text",
+   "sha256": "f7473e296b6375e6578f5b71316d6b91190a42572d2cde7cdf11ff065d08955f"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1990-01-17",
+   "acts": []
+  },
+  {
+   "in_force": "1991-11-25",
+   "acts": [
+    "Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991"
+   ]
+  },
+  {
+   "in_force": "1996-12-11",
+   "acts": [
+    "Hazardous Waste (Regulation of Exports and Imports) Amendment Act 1996"
+   ]
+  },
+  {
+   "in_force": "1998-11-06",
+   "acts": [
+    "Hazardous Waste (Regulation of Exports and Imports) (Decision IV/9) Regulations 1999"
+   ]
+  },
+  {
+   "in_force": "1999-12-05",
+   "acts": [
+    "Public Employment (Consequential and Transitional) Amendment Act 1999"
+   ]
+  },
+  {
+   "in_force": "2000-07-16",
+   "acts": [
+    "Environmental Reform (Consequential Provisions) Act 1999"
+   ]
+  },
+  {
+   "in_force": "2001-05-24",
+   "acts": [
+    "Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000",
+    "Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2001-10-16",
+   "acts": [
+    "Environmental Legislation Amendment Act 2001"
+   ]
+  },
+  {
+   "in_force": "2009-05-23",
+   "acts": [
+    "Customs Legislation Amendment (Name Change) Act 2009"
+   ]
+  },
+  {
+   "in_force": "2010-12-11",
+   "acts": [
+    "Territories Law Reform Act 2010"
+   ]
+  },
+  {
+   "in_force": "2011-04-19",
+   "acts": [
+    "Statute Law Revision Act 2011"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  },
+  {
+   "in_force": "2015-07-01",
+   "acts": [
+    "Customs and Other Legislation Amendment (Australian Border Force) Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-03-10",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015"
+   ]
+  },
+  {
+   "in_force": "2016-10-21",
+   "acts": [
+    "Statute Update Act 2016"
+   ]
+  },
+  {
+   "in_force": "2017-02-23",
+   "acts": [
+    "Hazardous Waste (Regulation of Exports and Imports) Amendment Act 2017"
+   ]
+  },
+  {
+   "in_force": "2017-07-01",
+   "acts": [
+    "Hazardous Waste (Regulation of Exports and Imports) Amendment Act 2017"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

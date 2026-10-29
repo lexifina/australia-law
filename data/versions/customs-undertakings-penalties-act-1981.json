@@ -1,0 +1,60 @@
+{
+ "title_id": "C2004A02425",
+ "name": "Customs Undertakings (Penalties) Act 1981",
+ "folder": "customs-undertakings-penalties-act-1981",
+ "compilations": [
+  {
+   "in_force": "1995-07-01",
+   "register_id": "C2004C00238",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02425',start=1995-07-01,retrospectivestart=1995-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02425/1995-07-01/text",
+   "sha256": "5630b25eddc1c05acadb33d44a22d274800b5aa3abe3ef6ca5b830386d65145a"
+  },
+  {
+   "in_force": "2015-07-01",
+   "register_id": "C2015C00374",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02425',start=2015-07-01,retrospectivestart=2015-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02425/2015-07-01/text",
+   "sha256": "42b5f99dd12bb83145b052d006f439a03cf36f12e0ee01adfab2118a6589e2d6"
+  },
+  {
+   "in_force": "2016-07-01",
+   "register_id": "C2016C00690",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A02425',start=2016-07-01,retrospectivestart=2016-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A02425/2016-07-01/text",
+   "sha256": "01166a30e32cca45e9f2f1f406ee12b156b10676d296a65b980b56d460a287ff"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1981-05-14",
+   "acts": []
+  },
+  {
+   "in_force": "1985-05-30",
+   "acts": [
+    "Customs Undertakings (Penalties) Amendment Act 1985"
+   ]
+  },
+  {
+   "in_force": "1985-06-10",
+   "acts": [
+    "Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

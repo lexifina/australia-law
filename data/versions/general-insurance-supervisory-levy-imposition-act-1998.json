@@ -1,0 +1,71 @@
+{
+ "title_id": "C2004A00316",
+ "name": "General Insurance Supervisory Levy Imposition Act 1998",
+ "folder": "general-insurance-supervisory-levy-imposition-act-1998",
+ "compilations": [
+  {
+   "in_force": "2006-05-23",
+   "register_id": "C2006C00263",
+   "compilation": "3",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00316',start=2006-05-23,retrospectivestart=2006-05-23,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00316/2006-05-23/text",
+   "sha256": "71de2834862026b3d3bc3de56eb078cf33a5b820347fb1b3cd80bde4d7d02614"
+  },
+  {
+   "in_force": "2010-07-01",
+   "register_id": "C2010C00456",
+   "compilation": "4",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00316',start=2010-07-01,retrospectivestart=2010-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00316/2010-07-01/text",
+   "sha256": "4e55b128ae7f247360b0480fb9590fe6961a2a9fa227015cc59185ce3aba5232"
+  },
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00053",
+   "compilation": "5",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00316',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00316/2015-12-10/text",
+   "sha256": "d24693da2b18423490e4fe6e504882d9c6b24a53dceafd62fb4011fb490e1d7b"
+  },
+  {
+   "in_force": "2020-06-20",
+   "register_id": "C2020C00178",
+   "compilation": "6",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A00316',start=2020-06-20,retrospectivestart=2020-06-20,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A00316/2020-06-20/text",
+   "sha256": "4da81fa10641afb73d00edd4d434582dc9a3b091c4d8346c1c30cd8445421e7d"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1998-06-29",
+   "acts": []
+  },
+  {
+   "in_force": "1999-06-17",
+   "acts": [
+    "Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999"
+   ]
+  },
+  {
+   "in_force": "2005-02-22",
+   "acts": [
+    "General Insurance Supervisory Levy Imposition Amendment Act 2005"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

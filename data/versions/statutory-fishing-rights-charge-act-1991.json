@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A04232",
+ "name": "Statutory Fishing Rights Charge Act 1991",
+ "folder": "statutory-fishing-rights-charge-act-1991",
+ "compilations": [
+  {
+   "in_force": "1991-10-21",
+   "register_id": "C2004A04232",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A04232',start=1991-10-21,retrospectivestart=1991-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A04232/1991-10-21/text",
+   "sha256": "6ac246cefe2df88ac0acd2cea053347cfc3cecd6f439941cd9e75e0d2c4ddda2"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

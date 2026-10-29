@@ -1,0 +1,119 @@
+{
+ "title_id": "C1969A00058",
+ "name": "Coral Sea Islands Act 1969",
+ "folder": "coral-sea-islands-act-1969",
+ "compilations": [
+  {
+   "in_force": "2008-07-01",
+   "register_id": "C2008C00192",
+   "compilation": null,
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1969A00058',start=2008-07-01,retrospectivestart=2008-07-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1969A00058/2008-07-01/text",
+   "sha256": "8ef3429ab4670b17b25ebcb58e0eb9491edfc6e8ed45e0e21ed60967447d23bc"
+  },
+  {
+   "in_force": "2008-11-22",
+   "register_id": "C2008C00598",
+   "compilation": null,
+   "rectification": 1,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1969A00058',start=2008-11-22,retrospectivestart=2008-11-22,rectificationversionnumber=1,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1969A00058/2008-11-22/text",
+   "sha256": "40a20db2c88c8dbb831c2ac465cbef7081e469eb37a6baca8622b5bf9d80a67f"
+  },
+  {
+   "in_force": "2020-12-18",
+   "register_id": "C2021C00070",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1969A00058',start=2020-12-18,retrospectivestart=2020-12-18,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1969A00058/2020-12-18/text",
+   "sha256": "45002928499e59f39febfc6773f73d665e5d9084ae2b5d360c42e72cd89abc8b"
+  },
+  {
+   "in_force": "2022-06-02",
+   "register_id": "C2022C00171",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C1969A00058',start=2022-06-02,retrospectivestart=2022-06-02,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C1969A00058/2022-06-02/text",
+   "sha256": "1ac741da754d113caf4a5429e7103d0d7bd30e3717d99fda543863b4a123fcea"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1969-09-02",
+   "acts": []
+  },
+  {
+   "in_force": "1973-12-31",
+   "acts": [
+    "Statute Law Revision Act 1973"
+   ]
+  },
+  {
+   "in_force": "1982-06-04",
+   "acts": [
+    "Statute Law (Miscellaneous Amendments) Act (No. 1) 1982"
+   ]
+  },
+  {
+   "in_force": "1983-02-14",
+   "acts": [
+    "Petroleum (Submerged Lands - Miscellaneous Amendments) Act 1981"
+   ]
+  },
+  {
+   "in_force": "1983-07-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1983"
+   ]
+  },
+  {
+   "in_force": "1984-07-23",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1984"
+   ]
+  },
+  {
+   "in_force": "1985-07-03",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 1) 1985"
+   ]
+  },
+  {
+   "in_force": "1986-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act (No. 2) 1986"
+   ]
+  },
+  {
+   "in_force": "1988-12-02",
+   "acts": [
+    "Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988"
+   ]
+  },
+  {
+   "in_force": "1989-05-11",
+   "acts": [
+    "A.C.T. Self-Government (Consequential Provisions) Act 1988"
+   ]
+  },
+  {
+   "in_force": "1997-07-07",
+   "acts": [
+    "Environment, Sport and Territories Legislation Amendment Act 1997"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

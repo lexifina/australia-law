@@ -1,0 +1,32 @@
+{
+ "title_id": "C2014A00013",
+ "name": "Farm Household Support (Consequential and Transitional Provisions) Act 2014",
+ "folder": "farm-household-support-consequential-and-transitional-provisions-act",
+ "compilations": [
+  {
+   "in_force": "2014-02-26",
+   "register_id": "C2014A00013",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00013',start=2014-02-26,retrospectivestart=2014-02-26,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00013/2014-02-26/text",
+   "sha256": "6ad5359c1b786f658c15a3404ea49516baf86ea4079aeff8d82f148a17d1c93f"
+  },
+  {
+   "in_force": "2014-09-05",
+   "register_id": "C2014C00646",
+   "compilation": "1",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2014A00013',start=2014-09-05,retrospectivestart=2014-09-05,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2014A00013/2014-09-05/text",
+   "sha256": "ff66a95ae8481061df494f23b9aa10cc929079d5f43588f0b90a51719e206247"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

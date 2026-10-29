@@ -1,0 +1,21 @@
+{
+ "title_id": "C2024A00130",
+ "name": "Surveillance Legislation (Confirmation of Application) Act 2024",
+ "folder": "surveillance-legislation-confirmation-of-application-act-2024",
+ "compilations": [
+  {
+   "in_force": "2024-12-10",
+   "register_id": "C2024A00130",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2024A00130',start=2024-12-10,retrospectivestart=2024-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2024A00130/2024-12-10/text",
+   "sha256": "9a11873ca3865a31fd3cfccfbceb67bfbde2fd10f814270635092ec1eee28398"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

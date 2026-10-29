@@ -1,0 +1,96 @@
+{
+ "title_id": "C2004A03381",
+ "name": "South Pacific Nuclear Free Zone Treaty Act 1986",
+ "folder": "south-pacific-nuclear-free-zone-treaty-act-1986",
+ "compilations": [
+  {
+   "in_force": "2015-12-10",
+   "register_id": "C2016C00105",
+   "compilation": "7",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03381',start=2015-12-10,retrospectivestart=2015-12-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03381/2015-12-10/text",
+   "sha256": "97b83a3a426feaa5c50d16dbfeae3765a3174a0bde50a6700b94929c8915a63e"
+  },
+  {
+   "in_force": "2016-03-10",
+   "register_id": "C2016C00613",
+   "compilation": "8",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03381',start=2016-03-10,retrospectivestart=2016-03-10,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03381/2016-03-10/text",
+   "sha256": "8d74731d4add99abbc41e7247512d3562ccd7c4db4de50b8804d9c0b8250e06a"
+  },
+  {
+   "in_force": "2016-10-21",
+   "register_id": "C2016C00940",
+   "compilation": "9",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03381',start=2016-10-21,retrospectivestart=2016-10-21,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03381/2016-10-21/text",
+   "sha256": "656f08e3b32c27381ffe4cc8f6098f2b3b23175a0584257d48815242bbe3bd1c"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1986-12-09",
+   "acts": []
+  },
+  {
+   "in_force": "1987-12-18",
+   "acts": [
+    "Statute Law (Miscellaneous Provisions) Act 1987"
+   ]
+  },
+  {
+   "in_force": "1988-06-15",
+   "acts": [
+    "Civil Aviation Act 1988"
+   ]
+  },
+  {
+   "in_force": "1993-03-10",
+   "acts": [
+    "Qantas Sale Act 1992"
+   ]
+  },
+  {
+   "in_force": "2001-03-31",
+   "acts": [
+    "Crimes at Sea Act 2000"
+   ]
+  },
+  {
+   "in_force": "2001-05-26",
+   "acts": [
+    "Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001"
+   ]
+  },
+  {
+   "in_force": "2010-02-20",
+   "acts": [
+    "Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010"
+   ]
+  },
+  {
+   "in_force": "2012-09-22",
+   "acts": [
+    "Statute Law Revision Act 2012"
+   ]
+  },
+  {
+   "in_force": "2015-03-25",
+   "acts": [
+    "Statute Law Revision Act (No. 1) 2015"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}

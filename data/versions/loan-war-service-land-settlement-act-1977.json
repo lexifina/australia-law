@@ -1,0 +1,21 @@
+{
+ "title_id": "C2004A01678",
+ "name": "Loan (War Service Land Settlement) Act 1977",
+ "folder": "loan-war-service-land-settlement-act-1977",
+ "compilations": [
+  {
+   "in_force": "1977-06-07",
+   "register_id": "C2004A01678",
+   "compilation": "0",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A01678',start=1977-06-07,retrospectivestart=1977-06-07,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A01678/1977-06-07/text",
+   "sha256": "06e7e08af089e68cfe800cabe690970753d02e2860242beb3ead3a5837fa137c"
+  }
+ ],
+ "versions_without_compilation": [],
+ "unreadable_versions": [],
+ "repeal": null
+}

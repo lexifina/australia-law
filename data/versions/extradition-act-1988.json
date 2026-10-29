@@ -1,0 +1,128 @@
+{
+ "title_id": "C2004A03597",
+ "name": "Extradition Act 1988",
+ "folder": "extradition-act-1988",
+ "compilations": [
+  {
+   "in_force": "2021-09-01",
+   "register_id": "C2021C00367",
+   "compilation": "15",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03597',start=2021-09-01,retrospectivestart=2021-09-01,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03597/2021-09-01/text",
+   "sha256": "5ed52aa4b2e6971d235d50c9184624051ecc1abb77204597a9cdd44c09423429"
+  },
+  {
+   "in_force": "2026-03-28",
+   "register_id": "C2026C00131",
+   "compilation": "16",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03597',start=2026-03-28,retrospectivestart=2026-03-28,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03597/2026-03-28/text",
+   "sha256": "33d0e65f4aa378fd70c80fb0c4cdccaeb5ec3bc358a536f9baf8de935c7be60e"
+  },
+  {
+   "in_force": "2026-08-27",
+   "register_id": "C2026C00379",
+   "compilation": "17",
+   "rectification": 0,
+   "urls": [
+    "https://api.prod.legislation.gov.au/v1/documents(titleid='C2004A03597',start=2026-08-27,retrospectivestart=2026-08-27,rectificationversionnumber=0,type='Primary',uniqueTypeNumber=0,volumeNumber=0,format='Epub')"
+   ],
+   "page": "https://www.legislation.gov.au/C2004A03597/2026-08-27/text",
+   "sha256": "798730b101bfdc5d650685a5fb07b30dd44ed313cee77ecb5c70c474ea756952"
+  }
+ ],
+ "versions_without_compilation": [
+  {
+   "in_force": "1988-03-09",
+   "acts": []
+  },
+  {
+   "in_force": "1990-10-22",
+   "acts": [
+    "Extradition Amendment Act 1990"
+   ]
+  },
+  {
+   "in_force": "1992-03-16",
+   "acts": [
+    "Crimes (Aviation) Act 1991"
+   ]
+  },
+  {
+   "in_force": "1995-01-16",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1994"
+   ]
+  },
+  {
+   "in_force": "1997-04-07",
+   "acts": [
+    "Crimes and Other Legislation Amendment Act 1997"
+   ]
+  },
+  {
+   "in_force": "2002-07-06",
+   "acts": [
+    "Suppression of the Financing of Terrorism Act 2002"
+   ]
+  },
+  {
+   "in_force": "2002-09-08",
+   "acts": [
+    "Criminal Code Amendment (Suppression of Terrorist Bombings) Act 2002"
+   ]
+  },
+  {
+   "in_force": "2012-04-20",
+   "acts": [
+    "Nuclear Terrorism Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2012-09-20",
+   "acts": [
+    "Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012",
+    "Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act 2012"
+   ]
+  },
+  {
+   "in_force": "2013-04-12",
+   "acts": [
+    "Federal Circuit Court of Australia (Consequential Amendments) Act 2013"
+   ]
+  },
+  {
+   "in_force": "2014-03-12",
+   "acts": [
+    "Privacy Amendment (Enhancing Privacy Protection) Act 2012"
+   ]
+  },
+  {
+   "in_force": "2016-05-01",
+   "acts": [
+    "Law and Justice Legislation Amendment (Northern Territory Local Court) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2016-07-01",
+   "acts": [
+    "Norfolk Island Legislation Amendment Act 2015",
+    "Law and Justice Legislation Amendment (Northern Territory Local Court) Act 2016"
+   ]
+  },
+  {
+   "in_force": "2018-05-23",
+   "acts": [
+    "Crimes Legislation Amendment (International Crime Cooperation and Other Measures) Act 2018"
+   ]
+  }
+ ],
+ "unreadable_versions": [],
+ "repeal": null
+}
