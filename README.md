@@ -1,5 +1,7 @@
 # Australian (Commonwealth) law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Australia's federal law, which global-law reads at `australia/federal/acts/`.
+
 The Acts of the Commonwealth Parliament as a git repository: the Commonwealth of Australia Constitution Act (the
 Constitution), every Act in force, and the repealed principal Acts that have a registered compilation, each with every
 compilation the register keeps. Each amending Act is one commit per day it took effect, across all the titles it
