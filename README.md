@@ -85,6 +85,7 @@ between the two compilations. Rules, each labelled in the commit:
 the official file: file by file with the text parsed from the compilation, and word for word with all the words of the
 compilation, read independently of the parser. `tools/test_repo.py` checks that the commands above work. The results are
 in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## Files
 
@@ -127,3 +128,7 @@ Based on content from the Federal Register of Legislation at 28 October 2026. Fo
 Government legislation please go to https://www.legislation.gov.au. The content is licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); it has been changed (split into files by provision, white
 space and some typography normalised, history reconstructed). See [`LICENSE`](LICENSE). **This repository is private.**
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
